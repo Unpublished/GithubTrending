@@ -1,0 +1,21 @@
+cache:
+  directories:
+  - "$HOME/.cache/pip"
+  - "$HOME/.pyenv"
+language: python
+python:
+  - "3.5"
+
+script:
+  # wait 30 m
+  - if [[ "$TRAVIS_COMMIT_MESSAGE" =~ "Deploy Unpublished/GithubTrending" ]]; then sleep 9m; echo "wait"; sleep 9m; echo "wait"; sleep 9m; echo "wait"; sleep 3m; fi
+  - travis_retry python scraper.py
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  target-branch: trends
+  on:
+    branch: trends

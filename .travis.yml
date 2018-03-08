@@ -13,6 +13,8 @@ script:
 
 deploy:
   provider: pages
+  edge:
+    branch: v1.8.47
   skip-cleanup: true
   github-token: $GITHUB_TOKEN
   keep-history: true

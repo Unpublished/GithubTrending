@@ -43,7 +43,10 @@ def scrape_time_span(time_span, language='all'):
     url = url + '?since=' + time_span
 
     r = requests.get(url)
-    assert r.status_code == 200
+    if r.status_code != 200:
+        print(r.status_code)
+    else:
+        assert r.status_code == 200
 
     # mkdir_p(os.path.dirname(filename))
 

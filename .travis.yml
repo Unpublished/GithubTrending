@@ -9,6 +9,7 @@ python:
 script:
   # wait 30 m
   - if [[ "$TRAVIS_COMMIT_MESSAGE" =~ "Deploy Unpublished/GithubTrending" ]]; then sleep 9m; echo "wait"; sleep 9m; echo "wait"; sleep 9m; echo "wait"; sleep 3m; fi
+  - date > date
   - travis_retry python scraper.py
 
 deploy:

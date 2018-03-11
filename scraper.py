@@ -24,6 +24,8 @@ def scrape_int(param):
     text = param
     if not isinstance(text, str):
         text = param.text().strip()
+    if not text:
+        return 0
     return int(text.replace(',', ''))
 
 

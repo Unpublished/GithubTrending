@@ -67,6 +67,11 @@ AUTOTHROTTLE_MAX_DELAY = 20
 # Enable showing throttling stats for every response received:
 #AUTOTHROTTLE_DEBUG = False
 
+DOWNLOADER_MIDDLEWARES = {
+    'scrapy.downloadermiddlewares.retry.RetryMiddleware': None,
+    'middlewares.CustomRetryMiddleware': 550,
+}
+
 FEED_EXPORTERS = {
     'json': 'exporters.OrderedJsonItemExporter'
 }

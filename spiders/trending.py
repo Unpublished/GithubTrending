@@ -12,9 +12,6 @@ class TrendingSpiderBase(scrapy.Spider):
 
     def parse(self, response):
         repo_list = response.css(".repo-list")
-        if repo_list.__len__() == 0:
-            print(response.text)
-            raise Exception("Couldn't find repo-list")
         for item in repo_list[0].css("li"):
             yield {
                 'owner':       item.xpath("div/h3/a/span/text()").re(r'[^\s\/]*')[0],

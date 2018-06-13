@@ -11,11 +11,12 @@ def scrape_int(param):
 
 
 def scrape(language='all'):
-    # call(['scrapy', 'list'])
     for t in ['daily', 'weekly', 'monthly']:
         spider = 'trending_{t}-{lang}'.format(t=t, lang=language)
         call(['scrapy', 'crawl', spider, '-o', spider + '.json'])
 
 
 if __name__ == '__main__':
-    scrape()
+    langs = ['all', 'c++', 'html', 'java', 'javascript', 'php', 'python', 'ruby', 'rust', 'unknown']
+    for l in langs:
+        scrape(l)

@@ -1,20 +1,20 @@
 [
-{"description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.", "language": "JavaScript", "repo": "vue", "new_stars": 3176, "stars": 101627, "owner": "vuejs", "forks": 14419},
-{"description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.", "language": "JavaScript", "repo": "react", "new_stars": 3049, "stars": 101592, "owner": "facebook", "forks": 18538},
-{"description": "Record, Replay, and Stub HTTP Interactions.", "language": "JavaScript", "repo": "pollyjs", "new_stars": 842, "stars": 3255, "owner": "Netflix", "forks": 49},
+{"description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web.", "language": "JavaScript", "repo": "vue", "new_stars": 3176, "stars": 101628, "owner": "vuejs", "forks": 14419},
+{"description": "A declarative, efficient, and flexible JavaScript library for building user interfaces.", "language": "JavaScript", "repo": "react", "new_stars": 3049, "stars": 101594, "owner": "facebook", "forks": 18538},
+{"description": "Record, Replay, and Stub HTTP Interactions.", "language": "JavaScript", "repo": "pollyjs", "new_stars": 842, "stars": 3256, "owner": "Netflix", "forks": 49},
 {"description": null, "language": "Python", "repo": "gif-for-cli", "new_stars": 558, "stars": 1221, "owner": "google", "forks": 48},
 {"description": "A curated list of software and architecture related design patterns.", "language": null, "repo": "awesome-design-patterns", "new_stars": 423, "stars": 5119, "owner": "DovAmir", "forks": 228},
 {"description": "Vue Native is a framework to build cross platform native mobile apps using JavaScript", "language": "JavaScript", "repo": "vue-native-core", "new_stars": 309, "stars": 3023, "owner": "GeekyAnts", "forks": 66},
 {"description": "\u270d\ud83c\udffbIt has never been so easy to document your things!", "language": "TypeScript", "repo": "docz", "new_stars": 302, "stars": 4152, "owner": "pedronauck", "forks": 69},
 {"description": "A secure TypeScript runtime on V8", "language": "JavaScript", "repo": "deno", "new_stars": 293, "stars": 19653, "owner": "ry", "forks": 844},
 {"description": "universal command-line interface for SQL databases", "language": "Go", "repo": "usql", "new_stars": 291, "stars": 3722, "owner": "xo", "forks": 106},
-{"description": "A collection of pure bash alternatives to external processes.", "language": "Shell", "repo": "pure-bash-bible", "new_stars": 274, "stars": 396, "owner": "dylanaraps", "forks": 12},
+{"description": "A collection of pure bash alternatives to external processes.", "language": "Shell", "repo": "pure-bash-bible", "new_stars": 274, "stars": 397, "owner": "dylanaraps", "forks": 12},
 {"description": "Laravel \u7535\u5546\u5b9e\u6218\u6559\u7a0b\u7684\u9879\u76ee\u4ee3\u7801", "language": "PHP", "repo": "laravel-shop", "new_stars": 236, "stars": 520, "owner": "summerblue", "forks": 79},
 {"description": "The Material Design version of my popular Android Talon for Twitter app, 100% open-source", "language": "Java", "repo": "talon-for-twitter-android", "new_stars": 232, "stars": 323, "owner": "klinker24", "forks": 41},
 {"description": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings", "language": "JavaScript", "repo": "javascript-algorithms", "new_stars": 195, "stars": 22748, "owner": "trekhleb", "forks": 2374},
-{"description": "A Retrofit inspired WebSocket client for Kotlin, Java, and Android", "language": "Kotlin", "repo": "Scarlet", "new_stars": 198, "stars": 237, "owner": "Tinder", "forks": 5},
+{"description": "A Retrofit inspired WebSocket client for Kotlin, Java, and Android", "language": "Kotlin", "repo": "Scarlet", "new_stars": 198, "stars": 239, "owner": "Tinder", "forks": 5},
 {"description": "Build your own (insert technology here)", "language": null, "repo": "build-your-own-x", "new_stars": 188, "stars": 32547, "owner": "danistefanovic", "forks": 1882},
-{"description": "A framework for building native UWP and WPF apps with React.", "language": "C#", "repo": "react-native-windows", "new_stars": 174, "stars": 4798, "owner": "Microsoft", "forks": 367},
+{"description": "A framework for building native UWP and WPF apps with React.", "language": "C#", "repo": "react-native-windows", "new_stars": 174, "stars": 4799, "owner": "Microsoft", "forks": 367},
 {"description": "A desktop debugging platform for mobile developers.", "language": "JavaScript", "repo": "Sonar", "new_stars": 172, "stars": 2796, "owner": "facebook", "forks": 77},
 {"description": "\u6c47\u603bjava\u751f\u6001\u5708\u5e38\u7528\u6280\u672f\u6846\u67b6\u3001\u5f00\u6e90\u4e2d\u95f4\u4ef6\uff0c\u7cfb\u7edf\u67b6\u6784\u3001\u9879\u76ee\u7ba1\u7406\u3001\u7ecf\u5178\u67b6\u6784\u6848\u4f8b\u3001\u6570\u636e\u5e93\u3001\u5e38\u7528\u4e09\u65b9\u5e93\u3001\u7ebf\u4e0a\u8fd0\u7ef4\u7b49\u77e5\u8bc6", "language": null, "repo": "technology-talk", "new_stars": 147, "stars": 2062, "owner": "aalansehaiyang", "forks": 720},
 {"description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08", "language": "Python", "repo": "Python-100-Days", "new_stars": 135, "stars": 3287, "owner": "jackfrued", "forks": 629},
@@ -23,5 +23,5 @@
 {"description": "Curated list of awesome lists", "language": null, "repo": "awesome", "new_stars": 127, "stars": 87242, "owner": "sindresorhus", "forks": 11517},
 {"description": "Turns a folder into a website", "language": "HTML", "repo": "Blot", "new_stars": 128, "stars": 245, "owner": "davidmerfield", "forks": 13},
 {"description": "VS Code Pull Request Provider for GitHub", "language": "TypeScript", "repo": "vscode-pull-request-github", "new_stars": 124, "stars": 173, "owner": "Microsoft", "forks": 1},
-{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 94, "stars": 102845, "owner": "tensorflow", "forks": 64282}
+{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 94, "stars": 102845, "owner": "tensorflow", "forks": 64283}
 ]

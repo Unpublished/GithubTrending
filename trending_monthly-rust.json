@@ -1,6 +1,6 @@
 [
 {"description": "sled likes eating data: alpha modern embedded database", "language": "Rust", "repo": "sled", "new_stars": 784, "stars": 1360, "owner": "spacejam", "forks": 39},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 668, "stars": 28807, "owner": "rust-lang", "forks": 4978},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 668, "stars": 28807, "owner": "rust-lang", "forks": 4979},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 678, "stars": 3069, "owner": "anordal", "forks": 89},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 606, "stars": 1269, "owner": "nebulet", "forks": 33},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 517, "stars": 7360, "owner": "atom", "forks": 165},
@@ -19,7 +19,7 @@
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 177, "stars": 1836, "owner": "runconduit", "forks": 111},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 166, "stars": 1809, "owner": "tokio-rs", "forks": 120},
 {"description": "[WIP] MTProto proxy server", "language": "Rust", "repo": "mtproxy", "new_stars": 169, "stars": 170, "owner": "dotcypress", "forks": 12},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 137, "stars": 2169, "owner": "rust-lang", "forks": 645},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 137, "stars": 2170, "owner": "rust-lang", "forks": 645},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 131, "stars": 3266, "owner": "pingcap", "forks": 420},
 {"description": "For when you really just want to serve some files over HTTP right now!", "language": "Rust", "repo": "miniserve", "new_stars": 135, "stars": 135, "owner": "svenstaro", "forks": 5},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 120, "stars": 3570, "owner": "hyperium", "forks": 578},

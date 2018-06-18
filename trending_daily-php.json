@@ -1,8 +1,8 @@
 [
-{"description": "Laravel Visits is a counter that can be attached to any model to track its visits based on Redis. (with tags, IP protection and caching)", "language": "PHP", "repo": "laravel-visits", "new_stars": 57, "stars": 73, "owner": "awssat", "forks": 2},
+{"description": "Laravel Visits is a counter that can be attached to any model to track its visits based on Redis. (with tags, IP protection and caching)", "language": "PHP", "repo": "laravel-visits", "new_stars": 57, "stars": 21, "owner": "awssat", "forks": 2},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 19, "stars": 43745, "owner": "laravel", "forks": 13554},
-{"description": "Laravel Breadcrumbs - A simple Laravel-style way to create breadcrumbs", "language": "PHP", "repo": "laravel-breadcrumbs", "new_stars": 17, "stars": 1458, "owner": "davejamesmiller", "forks": 227},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 15, "stars": 13312, "owner": "danielmiessler", "forks": 4543},
+{"description": "Laravel Breadcrumbs - A simple Laravel-style way to create breadcrumbs", "language": "PHP", "repo": "laravel-breadcrumbs", "new_stars": 17, "stars": 1460, "owner": "davejamesmiller", "forks": 227},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 15, "stars": 13313, "owner": "danielmiessler", "forks": 4543},
 {"description": "Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.", "language": "PHP", "repo": "phan", "new_stars": 10, "stars": 3311, "owner": "phan", "forks": 220},
 {"description": "Laravel \u7535\u5546\u5b9e\u6218\u6559\u7a0b\u7684\u9879\u76ee\u4ee3\u7801", "language": "PHP", "repo": "laravel-shop", "new_stars": 9, "stars": 561, "owner": "summerblue", "forks": 89},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 9, "stars": 16167, "owner": "fzaninotto", "forks": 2101},
@@ -11,7 +11,7 @@
 {"description": "\u57fa\u4e8ess-panel-v3-mod\u7684 UI \u4fee\u6539\u7248", "language": "PHP", "repo": "ss-panel-v3-mod_Uim", "new_stars": 7, "stars": 329, "owner": "NimaQu", "forks": 380},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 9, "stars": 3872, "owner": "phpstan", "forks": 247},
 {"description": "A personal music streaming server that works.", "language": "PHP", "repo": "koel", "new_stars": 8, "stars": 9176, "owner": "phanan", "forks": 1022},
-{"description": "Add encrypted credentials to your Laravel production environment.", "language": "PHP", "repo": "laravel-credentials", "new_stars": 8, "stars": 281, "owner": "beyondcode", "forks": 8},
+{"description": "Add encrypted credentials to your Laravel production environment.", "language": "PHP", "repo": "laravel-credentials", "new_stars": 8, "stars": 282, "owner": "beyondcode", "forks": 8},
 {"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 6, "stars": 6378, "owner": "the-control-group", "forks": 1433},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 7, "stars": 12714, "owner": "laravel", "forks": 5499},
 {"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 6, "stars": 15257, "owner": "domnikl", "forks": 3265},
@@ -23,5 +23,5 @@
 {"description": "A Wonderful WordPress Theme: \u6a31\u82b1\u5e84\u7684\u767d\u732b\u535a\u5ba2\u4e3b\u9898", "language": "PHP", "repo": "Sakura", "new_stars": 5, "stars": 55, "owner": "mashirozx", "forks": 17},
 {"description": "A curated collection of useful PHP snippets that you can understand in 30 seconds or less.", "language": "PHP", "repo": "30-seconds-of-php-code", "new_stars": 6, "stars": 686, "owner": "appzcoder", "forks": 69},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 6, "stars": 14987, "owner": "composer", "forks": 5164},
-{"description": null, "language": "PHP", "repo": "laravel-localization-to-vue", "new_stars": 6, "stars": 61, "owner": "kg-bot", "forks": 5}
+{"description": null, "language": "PHP", "repo": "laravel-localization-to-vue", "new_stars": 6, "stars": 62, "owner": "kg-bot", "forks": 5}
 ]

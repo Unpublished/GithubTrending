@@ -9,7 +9,7 @@
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 67, "stars": 3073, "owner": "anordal", "forks": 89},
 {"description": "Multi-producer multi-consumer channels for message passing", "language": "Rust", "repo": "crossbeam-channel", "new_stars": 62, "stars": 208, "owner": "crossbeam-rs", "forks": 20},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 60, "stars": 12840, "owner": "google", "forks": 447},
-{"description": "SIMD noise library for Rust", "language": "Rust", "repo": "rust-simd-noise", "new_stars": 55, "stars": 63, "owner": "jackmott", "forks": 1},
+{"description": "SIMD noise library for Rust", "language": "Rust", "repo": "rust-simd-noise", "new_stars": 55, "stars": 65, "owner": "jackmott", "forks": 1},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 54, "stars": 1218, "owner": "mozilla", "forks": 53},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 47, "stars": 11838, "owner": "servo", "forks": 1906},
 {"description": "GPGPU Framework for Rust", "language": "Rust", "repo": "accel", "new_stars": 49, "stars": 139, "owner": "termoshtt", "forks": 1},

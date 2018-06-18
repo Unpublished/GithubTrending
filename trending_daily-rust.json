@@ -1,7 +1,7 @@
 [
 {"description": "SIMD noise library for Rust", "language": "Rust", "repo": "rust-simd-noise", "new_stars": 55, "stars": 86, "owner": "jackmott", "forks": 1},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 28833, "owner": "rust-lang", "forks": 4984},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 12, "stars": 7380, "owner": "atom", "forks": 167},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 28833, "owner": "rust-lang", "forks": 4985},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 12, "stars": 7382, "owner": "atom", "forks": 167},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 12, "stars": 1018, "owner": "Aaronepower", "forks": 87},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 3302, "owner": "mre", "forks": 396},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 4636, "owner": "SergioBenitez", "forks": 305},
@@ -18,9 +18,9 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 1817, "owner": "tokio-rs", "forks": 119},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 6, "stars": 1275, "owner": "nebulet", "forks": 33},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 5, "stars": 4417, "owner": "paritytech", "forks": 890},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 3577, "owner": "hyperium", "forks": 577},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 3579, "owner": "hyperium", "forks": 577},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap-rs", "new_stars": 5, "stars": 1941, "owner": "kbknapp", "forks": 206},
-{"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 5, "stars": 1221, "owner": "mozilla", "forks": 53},
+{"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 5, "stars": 1222, "owner": "mozilla", "forks": 53},
 {"description": "Interoperating JS and Rust code", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 841, "owner": "rustwasm", "forks": 54},
 {"description": "A rusty dynamically typed scripting language", "language": "Rust", "repo": "dyon", "new_stars": 5, "stars": 601, "owner": "PistonDevelopers", "forks": 27},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 0, "stars": 267, "owner": "pingcap", "forks": 33}

@@ -1,13 +1,13 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 28849, "owner": "rust-lang", "forks": 4990},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 28849, "owner": "rust-lang", "forks": 4991},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 99, "stars": 7395, "owner": "atom", "forks": 167},
 {"description": "SIMD noise library for Rust", "language": "Rust", "repo": "rust-simd-noise", "new_stars": 86, "stars": 89, "owner": "jackmott", "forks": 1},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 76, "stars": 1637, "owner": "actix", "forks": 99},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 70, "stars": 803, "owner": "tantivy-search", "forks": 49},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 67, "stars": 10899, "owner": "jwilm", "forks": 447},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 67, "stars": 10901, "owner": "jwilm", "forks": 447},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 67, "stars": 3083, "owner": "anordal", "forks": 89},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 65, "stars": 1306, "owner": "actix", "forks": 67},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 58, "stars": 9236, "owner": "BurntSushi", "forks": 368},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 58, "stars": 9237, "owner": "BurntSushi", "forks": 368},
 {"description": "GPGPU Framework for Rust", "language": "Rust", "repo": "accel", "new_stars": 61, "stars": 149, "owner": "termoshtt", "forks": 1},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 58, "stars": 1224, "owner": "mozilla", "forks": 53},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 47, "stars": 12844, "owner": "google", "forks": 447},
@@ -21,7 +21,7 @@
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 35, "stars": 4420, "owner": "paritytech", "forks": 891},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 38, "stars": 1544, "owner": "sharkdp", "forks": 25},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 36, "stars": 1021, "owner": "Aaronepower", "forks": 87},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 36, "stars": 4462, "owner": "ogham", "forks": 145},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 36, "stars": 4463, "owner": "ogham", "forks": 145},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 35, "stars": 1845, "owner": "runconduit", "forks": 111},
 {"description": "A rusty dynamically typed scripting language", "language": "Rust", "repo": "dyon", "new_stars": 31, "stars": 607, "owner": "PistonDevelopers", "forks": 27}
 ]

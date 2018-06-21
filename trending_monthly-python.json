@@ -1,9 +1,9 @@
 [
-{"description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08", "language": "Python", "repo": "Python-100-Days", "new_stars": 3579, "stars": 3581, "owner": "jackfrued", "forks": 681},
-{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 2050, "stars": 37174, "owner": "tensorflow", "forks": 21602},
-{"description": "The uncompromising Python code formatter", "language": "Python", "repo": "black", "new_stars": 2326, "stars": 4414, "owner": "ambv", "forks": 161},
+{"description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08", "language": "Python", "repo": "Python-100-Days", "new_stars": 3579, "stars": 3582, "owner": "jackfrued", "forks": 681},
+{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 2050, "stars": 37175, "owner": "tensorflow", "forks": 21602},
+{"description": "The uncompromising Python code formatter", "language": "Python", "repo": "black", "new_stars": 2326, "stars": 4415, "owner": "ambv", "forks": 161},
 {"description": null, "language": "Python", "repo": "gif-for-cli", "new_stars": 1904, "stars": 1905, "owner": "google", "forks": 69},
-{"description": "A collective list of public JSON APIs for use in web development.", "language": "Python", "repo": "public-apis", "new_stars": 1811, "stars": 38595, "owner": "toddmotto", "forks": 3783},
+{"description": "A collective list of public JSON APIs for use in web development.", "language": "Python", "repo": "public-apis", "new_stars": 1811, "stars": 38598, "owner": "toddmotto", "forks": 3783},
 {"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 1667, "stars": 51646, "owner": "vinta", "forks": 9985},
 {"description": "Deep Learning for humans", "language": "Python", "repo": "keras", "new_stars": 1316, "stars": 30807, "owner": "keras-team", "forks": 11523},
 {"description": "Open source platform for the complete machine learning lifecycle", "language": "Python", "repo": "mlflow", "new_stars": 1267, "stars": 1267, "owner": "databricks", "forks": 152},
@@ -13,15 +13,15 @@
 {"description": "Simple and comprehensive tutorials in TensorFlow", "language": "Python", "repo": "easy-tensorflow", "new_stars": 1074, "stars": 2361, "owner": "easy-tensorflow", "forks": 168},
 {"description": "\u4e00\u6b3e\u5165\u95e8\u7ea7\u7684\u4eba\u8138\u3001\u89c6\u9891\u3001\u6587\u5b57\u68c0\u6d4b\u4ee5\u53ca\u8bc6\u522b\u7684\u9879\u76ee.", "language": "Python", "repo": "faceai", "new_stars": 961, "stars": 1471, "owner": "vipstone", "forks": 276},
 {"description": "A curated list of awesome Machine Learning frameworks, libraries and software.", "language": "Python", "repo": "awesome-machine-learning", "new_stars": 896, "stars": 33611, "owner": "josephmisiti", "forks": 8194},
-{"description": "scikit-learn: machine learning in Python", "language": "Python", "repo": "scikit-learn", "new_stars": 785, "stars": 28904, "owner": "scikit-learn", "forks": 14344},
+{"description": "scikit-learn: machine learning in Python", "language": "Python", "repo": "scikit-learn", "new_stars": 785, "stars": 28905, "owner": "scikit-learn", "forks": 14344},
 {"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 761, "stars": 34616, "owner": "django", "forks": 14703},
-{"description": "Fast, asynchronous and sexy Python web framework.", "language": "Python", "repo": "vibora", "new_stars": 902, "stars": 911, "owner": "vibora-io", "forks": 33},
+{"description": "Fast, asynchronous and sexy Python web framework.", "language": "Python", "repo": "vibora", "new_stars": 902, "stars": 915, "owner": "vibora-io", "forks": 34},
 {"description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications \u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.", "language": "Python", "repo": "ansible", "new_stars": 642, "stars": 30877, "owner": "ansible", "forks": 11705},
 {"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 776, "stars": 26988, "owner": "donnemartin", "forks": 3699},
 {"description": "The Python programming language", "language": "Python", "repo": "cpython", "new_stars": 605, "stars": 18259, "owner": "python", "forks": 5735},
 {"description": "A collection of design patterns/idioms in Python", "language": "Python", "repo": "python-patterns", "new_stars": 672, "stars": 16077, "owner": "faif", "forks": 3686},
 {"description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.", "language": "Python", "repo": "mitmproxy", "new_stars": 701, "stars": 11558, "owner": "mitmproxy", "forks": 1541},
 {"description": "Python Development Workflow for Humans.", "language": "Python", "repo": "pipenv", "new_stars": 678, "stars": 11859, "owner": "pypa", "forks": 762},
-{"description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.", "language": "Python", "repo": "Detectron", "new_stars": 597, "stars": 14758, "owner": "facebookresearch", "forks": 2777},
-{"description": "Python HTTP Requests for Humans\u2122", "language": "Python", "repo": "requests", "new_stars": 628, "stars": 33019, "owner": "requests", "forks": 6109}
+{"description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.", "language": "Python", "repo": "Detectron", "new_stars": 597, "stars": 14760, "owner": "facebookresearch", "forks": 2777},
+{"description": "Python HTTP Requests for Humans\u2122", "language": "Python", "repo": "requests", "new_stars": 628, "stars": 33020, "owner": "requests", "forks": 6109}
 ]

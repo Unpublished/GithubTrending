@@ -6,7 +6,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 514, "stars": 1317, "owner": "actix", "forks": 68},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 368, "stars": 2861, "owner": "sharkdp", "forks": 44},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 338, "stars": 10927, "owner": "jwilm", "forks": 446},
-{"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 340, "stars": 3094, "owner": "anordal", "forks": 90},
+{"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 340, "stars": 3095, "owner": "anordal", "forks": 90},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 317, "stars": 9255, "owner": "BurntSushi", "forks": 368},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 301, "stars": 3324, "owner": "mre", "forks": 396},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 265, "stars": 7318, "owner": "rust-unofficial", "forks": 462},
@@ -23,5 +23,5 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 135, "stars": 3594, "owner": "hyperium", "forks": 579},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 114, "stars": 2224, "owner": "rust-lang-nursery", "forks": 308},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 119, "stars": 1769, "owner": "gfx-rs", "forks": 257},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 109, "stars": 867, "owner": "rustwasm", "forks": 64}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 109, "stars": 868, "owner": "rustwasm", "forks": 64}
 ]

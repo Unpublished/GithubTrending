@@ -1,7 +1,7 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 156, "stars": 28921, "owner": "rust-lang", "forks": 5000},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 114, "stars": 117, "owner": "dropbox", "forks": 2},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 99, "stars": 7443, "owner": "atom", "forks": 169},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 99, "stars": 7444, "owner": "atom", "forks": 169},
 {"description": "SIMD noise library for Rust", "language": "Rust", "repo": "rust-simd-noise", "new_stars": 99, "stars": 106, "owner": "jackmott", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 77, "stars": 10937, "owner": "jwilm", "forks": 447},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 67, "stars": 1658, "owner": "actix", "forks": 104},
@@ -16,11 +16,11 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 45, "stars": 1847, "owner": "tokio-rs", "forks": 120},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 45, "stars": 11868, "owner": "servo", "forks": 1906},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 44, "stars": 4659, "owner": "SergioBenitez", "forks": 305},
-{"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 45, "stars": 838, "owner": "tantivy-search", "forks": 49},
+{"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 45, "stars": 839, "owner": "tantivy-search", "forks": 49},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 38, "stars": 2201, "owner": "rust-lang", "forks": 659},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 42, "stars": 12868, "owner": "google", "forks": 448},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 40, "stars": 1320, "owner": "actix", "forks": 68},
-{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 37, "stars": 1868, "owner": "runconduit", "forks": 114},
+{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 37, "stars": 1869, "owner": "runconduit", "forks": 114},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 35, "stars": 3294, "owner": "pingcap", "forks": 420},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 30, "stars": 4435, "owner": "paritytech", "forks": 896},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 34, "stars": 1772, "owner": "gfx-rs", "forks": 256}

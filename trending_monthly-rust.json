@@ -1,7 +1,7 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 665, "stars": 28912, "owner": "rust-lang", "forks": 5001},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 665, "stars": 28912, "owner": "rust-lang", "forks": 5000},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 611, "stars": 1282, "owner": "nebulet", "forks": 33},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 535, "stars": 7436, "owner": "atom", "forks": 169},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 535, "stars": 7438, "owner": "atom", "forks": 169},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 505, "stars": 1658, "owner": "actix", "forks": 104},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 512, "stars": 1319, "owner": "actix", "forks": 68},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 362, "stars": 2867, "owner": "sharkdp", "forks": 44},
@@ -14,7 +14,7 @@
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 229, "stars": 4350, "owner": "DenisKolodin", "forks": 144},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 187, "stars": 4433, "owner": "paritytech", "forks": 894},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 197, "stars": 11867, "owner": "servo", "forks": 1906},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 194, "stars": 4657, "owner": "SergioBenitez", "forks": 304},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 194, "stars": 4658, "owner": "SergioBenitez", "forks": 304},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 180, "stars": 1845, "owner": "tokio-rs", "forks": 120},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 176, "stars": 1867, "owner": "runconduit", "forks": 113},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 157, "stars": 1227, "owner": "mozilla", "forks": 54},
@@ -23,5 +23,5 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 136, "stars": 3597, "owner": "hyperium", "forks": 579},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 113, "stars": 2225, "owner": "rust-lang-nursery", "forks": 308},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 119, "stars": 1772, "owner": "gfx-rs", "forks": 256},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 111, "stars": 872, "owner": "rustwasm", "forks": 64}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 111, "stars": 873, "owner": "rustwasm", "forks": 64}
 ]

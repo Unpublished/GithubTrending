@@ -1,5 +1,5 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 660, "stars": 28897, "owner": "rust-lang", "forks": 4998},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 660, "stars": 28898, "owner": "rust-lang", "forks": 4998},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 611, "stars": 1282, "owner": "nebulet", "forks": 33},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 521, "stars": 7420, "owner": "atom", "forks": 168},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 506, "stars": 1654, "owner": "actix", "forks": 104},
@@ -7,10 +7,10 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 368, "stars": 2863, "owner": "sharkdp", "forks": 44},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 338, "stars": 10928, "owner": "jwilm", "forks": 446},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 337, "stars": 3095, "owner": "anordal", "forks": 90},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 317, "stars": 9258, "owner": "BurntSushi", "forks": 368},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 302, "stars": 3325, "owner": "mre", "forks": 396},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 317, "stars": 9259, "owner": "BurntSushi", "forks": 368},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 302, "stars": 3326, "owner": "mre", "forks": 396},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 267, "stars": 7320, "owner": "rust-unofficial", "forks": 462},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 228, "stars": 12855, "owner": "google", "forks": 447},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 228, "stars": 12857, "owner": "google", "forks": 447},
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 229, "stars": 4347, "owner": "DenisKolodin", "forks": 144},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 191, "stars": 4431, "owner": "paritytech", "forks": 893},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 196, "stars": 11864, "owner": "servo", "forks": 1905},
@@ -22,6 +22,6 @@
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 140, "stars": 3291, "owner": "pingcap", "forks": 420},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 136, "stars": 3595, "owner": "hyperium", "forks": 579},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 113, "stars": 2224, "owner": "rust-lang-nursery", "forks": 308},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 120, "stars": 1770, "owner": "gfx-rs", "forks": 257},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 120, "stars": 1770, "owner": "gfx-rs", "forks": 256},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 106, "stars": 3275, "owner": "rust-lang", "forks": 780}
 ]

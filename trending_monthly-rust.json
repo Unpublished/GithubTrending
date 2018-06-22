@@ -6,11 +6,11 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 513, "stars": 1319, "owner": "actix", "forks": 68},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 363, "stars": 2866, "owner": "sharkdp", "forks": 44},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 338, "stars": 10931, "owner": "jwilm", "forks": 447},
-{"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 326, "stars": 3102, "owner": "anordal", "forks": 90},
+{"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 326, "stars": 3103, "owner": "anordal", "forks": 90},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 317, "stars": 9261, "owner": "BurntSushi", "forks": 368},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 306, "stars": 3329, "owner": "mre", "forks": 396},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 269, "stars": 7324, "owner": "rust-unofficial", "forks": 462},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 231, "stars": 12863, "owner": "google", "forks": 447},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 269, "stars": 7324, "owner": "rust-unofficial", "forks": 463},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 231, "stars": 12864, "owner": "google", "forks": 447},
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 232, "stars": 4350, "owner": "DenisKolodin", "forks": 144},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 188, "stars": 4432, "owner": "paritytech", "forks": 894},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 197, "stars": 11865, "owner": "servo", "forks": 1906},
@@ -23,5 +23,5 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 137, "stars": 3597, "owner": "hyperium", "forks": 579},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 114, "stars": 2225, "owner": "rust-lang-nursery", "forks": 308},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 121, "stars": 1772, "owner": "gfx-rs", "forks": 256},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 111, "stars": 870, "owner": "rustwasm", "forks": 64}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 111, "stars": 871, "owner": "rustwasm", "forks": 64}
 ]

@@ -1,8 +1,8 @@
 [
-{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 105, "stars": 1144, "owner": "gluon-lang", "forks": 63},
+{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 105, "stars": 1146, "owner": "gluon-lang", "forks": 63},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 41, "stars": 849, "owner": "tantivy-search", "forks": 49},
 {"description": "A fast, middleware based, web framework written in Rust", "language": "Rust", "repo": "Thruster", "new_stars": 35, "stars": 183, "owner": "trezm", "forks": 6},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 28926, "owner": "rust-lang", "forks": 5000},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 28927, "owner": "rust-lang", "forks": 5001},
 {"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 22, "stars": 85, "owner": "r-darwish", "forks": 2},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 19, "stars": 7448, "owner": "atom", "forks": 169},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 15, "stars": 124, "owner": "dropbox", "forks": 2},
@@ -14,7 +14,7 @@
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 9, "stars": 196, "owner": "Plume-org", "forks": 14},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 3335, "owner": "mre", "forks": 397},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 877, "owner": "rustwasm", "forks": 65},
-{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 5, "stars": 4435, "owner": "paritytech", "forks": 897},
+{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 5, "stars": 4435, "owner": "paritytech", "forks": 898},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4661, "owner": "SergioBenitez", "forks": 305},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 11871, "owner": "servo", "forks": 1905},
 {"description": "Cretonne code generator", "language": "Rust", "repo": "cretonne", "new_stars": 6, "stars": 769, "owner": "cretonne", "forks": 74},
@@ -23,5 +23,5 @@
 {"description": "A Rust Bitcoin blockchain parser with clustering capabilities, allowing to group together addresses in ownership clusters. Please contact", "language": "Rust", "repo": "bitiodine", "new_stars": 0, "stars": 97, "owner": "mikispag", "forks": 35},
 {"description": "A lazy, zero-copy parser for the DWARF debugging format.", "language": "Rust", "repo": "gimli", "new_stars": 0, "stars": 175, "owner": "gimli-rs", "forks": 31},
 {"description": "OpenSSL bindings for Rust", "language": "Rust", "repo": "rust-openssl", "new_stars": 0, "stars": 382, "owner": "sfackler", "forks": 273},
-{"description": "A Rust library for random number generation.", "language": "Rust", "repo": "rand", "new_stars": 0, "stars": 218, "owner": "rust-lang-nursery", "forks": 142}
+{"description": "A Rust library for random number generation.", "language": "Rust", "repo": "rand", "new_stars": 0, "stars": 219, "owner": "rust-lang-nursery", "forks": 142}
 ]

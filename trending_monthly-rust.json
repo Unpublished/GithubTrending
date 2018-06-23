@@ -15,13 +15,13 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 191, "stars": 11871, "owner": "servo", "forks": 1905},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 187, "stars": 4662, "owner": "SergioBenitez", "forks": 305},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 180, "stars": 1854, "owner": "tokio-rs", "forks": 121},
-{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 184, "stars": 1183, "owner": "gluon-lang", "forks": 63},
+{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 184, "stars": 1187, "owner": "gluon-lang", "forks": 64},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 169, "stars": 1871, "owner": "runconduit", "forks": 114},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 137, "stars": 2203, "owner": "rust-lang", "forks": 660},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 151, "stars": 1229, "owner": "mozilla", "forks": 54},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 140, "stars": 3297, "owner": "pingcap", "forks": 420},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 138, "stars": 3604, "owner": "hyperium", "forks": 579},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 138, "stars": 851, "owner": "tantivy-search", "forks": 49},
-{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 124, "stars": 126, "owner": "dropbox", "forks": 2},
+{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 124, "stars": 127, "owner": "dropbox", "forks": 2},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 117, "stars": 1772, "owner": "gfx-rs", "forks": 255}
 ]

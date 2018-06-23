@@ -1,8 +1,8 @@
 [
-{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 150, "stars": 1182, "owner": "gluon-lang", "forks": 63},
+{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 150, "stars": 1183, "owner": "gluon-lang", "forks": 63},
 {"description": "A fast, middleware based, web framework written in Rust", "language": "Rust", "repo": "Thruster", "new_stars": 35, "stars": 184, "owner": "trezm", "forks": 6},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 32, "stars": 851, "owner": "tantivy-search", "forks": 49},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 28930, "owner": "rust-lang", "forks": 5002},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 28931, "owner": "rust-lang", "forks": 5002},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 16, "stars": 7451, "owner": "atom", "forks": 169},
 {"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 16, "stars": 85, "owner": "r-darwish", "forks": 2},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 13, "stars": 126, "owner": "dropbox", "forks": 2},
@@ -10,11 +10,11 @@
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 10, "stars": 3115, "owner": "anordal", "forks": 91},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 9, "stars": 198, "owner": "Plume-org", "forks": 14},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 8, "stars": 10940, "owner": "jwilm", "forks": 447},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 1853, "owner": "tokio-rs", "forks": 121},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 1854, "owner": "tokio-rs", "forks": 121},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 7, "stars": 3604, "owner": "hyperium", "forks": 579},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 6, "stars": 12872, "owner": "google", "forks": 448},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4662, "owner": "SergioBenitez", "forks": 305},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 877, "owner": "rustwasm", "forks": 65},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 878, "owner": "rustwasm", "forks": 65},
 {"description": "Rust crate to implement at least parts of the PBRT book's C++ code.", "language": "Rust", "repo": "rs_pbrt", "new_stars": 5, "stars": 57, "owner": "wahn", "forks": 1},
 {"description": "Detects usage of unsafe Rust in your project and its dependencies.", "language": "Rust", "repo": "cargo-geiger", "new_stars": 5, "stars": 27, "owner": "anderejd", "forks": 2},
 {"description": "Display images in an ANSI terminal", "language": "Rust", "repo": "termpix", "new_stars": 0, "stars": 195, "owner": "hopey-dishwasher", "forks": 19},
@@ -23,5 +23,5 @@
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 0, "stars": 723, "owner": "ctz", "forks": 69},
 {"description": "A lazy, zero-copy parser for the DWARF debugging format.", "language": "Rust", "repo": "gimli", "new_stars": 0, "stars": 175, "owner": "gimli-rs", "forks": 31},
 {"description": "Rust library providing a lazily filled Cell", "language": "Rust", "repo": "lazycell", "new_stars": 0, "stars": 24, "owner": "indiv0", "forks": 10},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 0, "stars": 3277, "owner": "rust-lang", "forks": 780}
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 0, "stars": 3278, "owner": "rust-lang", "forks": 780}
 ]

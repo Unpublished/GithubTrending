@@ -6,7 +6,7 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 485, "stars": 1674, "owner": "actix", "forks": 106},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 318, "stars": 10947, "owner": "jwilm", "forks": 447},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 300, "stars": 9269, "owner": "BurntSushi", "forks": 370},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 293, "stars": 3340, "owner": "mre", "forks": 399},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 293, "stars": 3340, "owner": "mre", "forks": 400},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 277, "stars": 7345, "owner": "rust-unofficial", "forks": 467},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 275, "stars": 3116, "owner": "anordal", "forks": 92},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 267, "stars": 1256, "owner": "gluon-lang", "forks": 66},
@@ -23,5 +23,5 @@
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 150, "stars": 158, "owner": "dropbox", "forks": 3},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 145, "stars": 1228, "owner": "mozilla", "forks": 54},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 129, "stars": 2209, "owner": "rust-lang", "forks": 660},
-{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 133, "stars": 142, "owner": "immunant", "forks": 0}
+{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 133, "stars": 144, "owner": "immunant", "forks": 0}
 ]

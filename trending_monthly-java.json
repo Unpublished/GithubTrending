@@ -1,8 +1,8 @@
 [
-{"description": "The vip.com's java coding standard, libraries and tools", "language": "Java", "repo": "vjtools", "new_stars": 2336, "stars": 2337, "owner": "vipshop", "forks": 403},
-{"description": "Java related : basic, concurrent, algorithm", "language": "Java", "repo": "Java-Interview", "new_stars": 1924, "stars": 3346, "owner": "crossoverJie", "forks": 727},
-{"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 1384, "stars": 35056, "owner": "iluwatar", "forks": 11324},
-{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 1151, "stars": 25933, "owner": "spring-projects", "forks": 19129},
+{"description": "The vip.com's java coding standard, libraries and tools", "language": "Java", "repo": "vjtools", "new_stars": 2336, "stars": 2338, "owner": "vipshop", "forks": 403},
+{"description": "Java related : basic, concurrent, algorithm", "language": "Java", "repo": "Java-Interview", "new_stars": 1924, "stars": 3349, "owner": "crossoverJie", "forks": 728},
+{"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 1384, "stars": 35058, "owner": "iluwatar", "forks": 11324},
+{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 1151, "stars": 25933, "owner": "spring-projects", "forks": 19128},
 {"description": "The basic library of Android player will process complex business components. The access is simple\u3002Android\u64ad\u653e\u5668\u57fa\u7840\u5e93\uff0c\u4e13\u6ce8\u4e8e\u64ad\u653e\u89c6\u56fe\u7ec4\u4ef6\u7684\u9ad8\u590d\u7528\u6027\u548c\u7ec4\u4ef6\u95f4\u7684\u4f4e\u8026\u5408\uff0c\u8f7b\u677e\u5904\u7406\u590d\u6742\u4e1a\u52a1\u3002", "language": "Java", "repo": "PlayerBase", "new_stars": 1138, "stars": 1467, "owner": "jiajunhui", "forks": 178},
 {"description": "The \"REST With Spring\" Course:", "language": "Java", "repo": "tutorials", "new_stars": 716, "stars": 6501, "owner": "eugenp", "forks": 10363},
 {"description": "Dragonfly is an intelligent P2P based file distribution system.", "language": "Java", "repo": "Dragonfly", "new_stars": 1102, "stars": 1821, "owner": "alibaba", "forks": 214},
@@ -12,8 +12,8 @@
 {"description": "Open Source, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 810, "stars": 31940, "owner": "elastic", "forks": 10977},
 {"description": "\u53ef\u80fd\u662f\u76ee\u524d\u6700\u597d\u6700\u5168\u7684\u5fae\u4fe1Java\u5f00\u53d1\u5de5\u5177\u5305\uff0c\u652f\u6301\u5305\u62ec\u5fae\u4fe1\u652f\u4ed8\u3001\u5f00\u653e\u5e73\u53f0\u3001\u5c0f\u7a0b\u5e8f\u3001\u4f01\u4e1a\u53f7\u548c\u516c\u4f17\u53f7\u7b49\u7684\u5f00\u53d1", "language": "Java", "repo": "weixin-java-tools", "new_stars": 798, "stars": 7714, "owner": "Wechat-Group", "forks": 3687},
 {"description": "about learning Spring Boot via examples. Spring Boot \u6280\u672f\u6808\u793a\u4f8b\u4ee3\u7801\uff0c\u5feb\u901f\u7b80\u5355\u4e0a\u624b\u6559\u7a0b\u3002", "language": "Java", "repo": "spring-boot-examples", "new_stars": 756, "stars": 4601, "owner": "ityouknow", "forks": 2611},
-{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 678, "stars": 21853, "owner": "spring-projects", "forks": 14138},
-{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 673, "stars": 4916, "owner": "TheAlgorithms", "forks": 2008},
+{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 678, "stars": 21854, "owner": "spring-projects", "forks": 14138},
+{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 673, "stars": 4917, "owner": "TheAlgorithms", "forks": 2008},
 {"description": "RxJava \u2013 Reactive Extensions for the JVM \u2013 a library for composing asynchronous and event-based programs using observable sequences for the Java VM.", "language": "Java", "repo": "RxJava", "new_stars": 723, "stars": 33831, "owner": "ReactiveX", "forks": 5888},
 {"description": "Google core libraries for Java", "language": "Java", "repo": "guava", "new_stars": 684, "stars": 24913, "owner": "google", "forks": 5699},
 {"description": "Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.", "language": "Java", "repo": "zuul", "new_stars": 684, "stars": 5440, "owner": "Netflix", "forks": 1070},
@@ -21,7 +21,7 @@
 {"description": "A simple app to use Xposed without root or unlock the bootloader(or modify system image etc).", "language": "Java", "repo": "VirtualXposed", "new_stars": 586, "stars": 3325, "owner": "android-hacker", "forks": 405},
 {"description": "A common architecture for Android applications developing based on MVP, integrates many open source projects (like Dagger2\u3001Rxjava\u3001Retrofit ...), to make your developing quicker and easier.", "language": "Java", "repo": "MVPArms", "new_stars": 550, "stars": 5770, "owner": "JessYanCoding", "forks": 1419},
 {"description": "A powerful", "language": "Java", "repo": "MPAndroidChart", "new_stars": 532, "stars": 22848, "owner": "PhilJay", "forks": 6208},
-{"description": "An HTTP+HTTP/2 client for Android and Java applications.", "language": "Java", "repo": "okhttp", "new_stars": 519, "stars": 27233, "owner": "square", "forks": 6309},
+{"description": "An HTTP+HTTP/2 client for Android and Java applications.", "language": "Java", "repo": "okhttp", "new_stars": 519, "stars": 27234, "owner": "square", "forks": 6309},
 {"description": "Render After Effects animations natively on Android and iOS, Web, and React Native", "language": "Java", "repo": "lottie-android", "new_stars": 514, "stars": 21248, "owner": "airbnb", "forks": 3269},
 {"description": "Netty project - an event-driven asynchronous network application framework", "language": "Java", "repo": "netty", "new_stars": 471, "stars": 14540, "owner": "netty", "forks": 6479}
 ]

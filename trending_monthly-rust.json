@@ -7,10 +7,10 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 318, "stars": 10945, "owner": "jwilm", "forks": 447},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 304, "stars": 9267, "owner": "BurntSushi", "forks": 370},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 297, "stars": 3337, "owner": "mre", "forks": 397},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 281, "stars": 7340, "owner": "rust-unofficial", "forks": 466},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 281, "stars": 7341, "owner": "rust-unofficial", "forks": 466},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 282, "stars": 3115, "owner": "anordal", "forks": 91},
-{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 242, "stars": 1232, "owner": "gluon-lang", "forks": 66},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 219, "stars": 12874, "owner": "google", "forks": 449},
+{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 242, "stars": 1236, "owner": "gluon-lang", "forks": 66},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 219, "stars": 12875, "owner": "google", "forks": 449},
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 217, "stars": 4358, "owner": "DenisKolodin", "forks": 144},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 184, "stars": 4436, "owner": "paritytech", "forks": 899},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 192, "stars": 11878, "owner": "servo", "forks": 1905},
@@ -22,6 +22,6 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 140, "stars": 3608, "owner": "hyperium", "forks": 579},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 147, "stars": 1229, "owner": "mozilla", "forks": 54},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 146, "stars": 861, "owner": "tantivy-search", "forks": 50},
-{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 136, "stars": 140, "owner": "dropbox", "forks": 3},
+{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 136, "stars": 141, "owner": "dropbox", "forks": 3},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 110, "stars": 879, "owner": "rustwasm", "forks": 67}
 ]

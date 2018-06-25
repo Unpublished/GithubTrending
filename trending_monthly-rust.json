@@ -8,10 +8,10 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 309, "stars": 9279, "owner": "BurntSushi", "forks": 370},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 286, "stars": 3341, "owner": "mre", "forks": 400},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 278, "stars": 7349, "owner": "rust-unofficial", "forks": 467},
-{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 283, "stars": 1270, "owner": "gluon-lang", "forks": 68},
+{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 283, "stars": 1271, "owner": "gluon-lang", "forks": 68},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 269, "stars": 3122, "owner": "anordal", "forks": 92},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 224, "stars": 12886, "owner": "google", "forks": 450},
-{"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 217, "stars": 4364, "owner": "DenisKolodin", "forks": 145},
+{"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 217, "stars": 4366, "owner": "DenisKolodin", "forks": 145},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 188, "stars": 4448, "owner": "paritytech", "forks": 901},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 204, "stars": 4686, "owner": "SergioBenitez", "forks": 306},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 196, "stars": 11885, "owner": "servo", "forks": 1905},
@@ -20,8 +20,8 @@
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 166, "stars": 1878, "owner": "runconduit", "forks": 114},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 169, "stars": 174, "owner": "dropbox", "forks": 3},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 159, "stars": 877, "owner": "tantivy-search", "forks": 51},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 144, "stars": 3614, "owner": "hyperium", "forks": 579},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 140, "stars": 3303, "owner": "pingcap", "forks": 420},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 144, "stars": 3615, "owner": "hyperium", "forks": 579},
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 140, "stars": 3303, "owner": "pingcap", "forks": 421},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 144, "stars": 1230, "owner": "mozilla", "forks": 54},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 123, "stars": 2209, "owner": "rust-lang", "forks": 659}
 ]

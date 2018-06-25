@@ -1,9 +1,9 @@
 [
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 265, "stars": 1275, "owner": "gluon-lang", "forks": 68},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 197, "stars": 207, "owner": "immunant", "forks": 4},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 28978, "owner": "rust-lang", "forks": 5005},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 28979, "owner": "rust-lang", "forks": 5005},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 171, "stars": 174, "owner": "dropbox", "forks": 3},
-{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 121, "stars": 147, "owner": "oxy-secure", "forks": 10},
+{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 121, "stars": 149, "owner": "oxy-secure", "forks": 10},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 99, "stars": 7474, "owner": "atom", "forks": 170},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 72, "stars": 1690, "owner": "actix", "forks": 108},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 77, "stars": 878, "owner": "tantivy-search", "forks": 51},
@@ -11,17 +11,17 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 68, "stars": 10952, "owner": "jwilm", "forks": 448},
 {"description": "JVM-RS -- A Demo Memory-Safe JVM on Rust", "language": "Rust", "repo": "jvm-rs", "new_stars": 66, "stars": 73, "owner": "standbyme", "forks": 4},
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 60, "stars": 4369, "owner": "DenisKolodin", "forks": 145},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 59, "stars": 9280, "owner": "BurntSushi", "forks": 370},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 59, "stars": 9280, "owner": "BurntSushi", "forks": 371},
 {"description": "A fast, middleware based, web framework written in Rust", "language": "Rust", "repo": "Thruster", "new_stars": 60, "stars": 205, "owner": "trezm", "forks": 8},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 59, "stars": 4691, "owner": "SergioBenitez", "forks": 306},
 {"description": "Zemeroth is a 2D turn-based tactical game in Rust.", "language": "Rust", "repo": "zemeroth", "new_stars": 59, "stars": 256, "owner": "ozkriff", "forks": 12},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 54, "stars": 1346, "owner": "actix", "forks": 69},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 52, "stars": 1867, "owner": "tokio-rs", "forks": 122},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 44, "stars": 886, "owner": "rustwasm", "forks": 68},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 44, "stars": 887, "owner": "rustwasm", "forks": 68},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 48, "stars": 12887, "owner": "google", "forks": 450},
-{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 48, "stars": 1895, "owner": "runconduit", "forks": 114},
+{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 48, "stars": 1899, "owner": "runconduit", "forks": 114},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 47, "stars": 3126, "owner": "anordal", "forks": 92},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 46, "stars": 11885, "owner": "servo", "forks": 1905},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 45, "stars": 3342, "owner": "mre", "forks": 400},
-{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 35, "stars": 4449, "owner": "paritytech", "forks": 902}
+{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 35, "stars": 4450, "owner": "paritytech", "forks": 902}
 ]

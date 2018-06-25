@@ -7,7 +7,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 309, "stars": 10949, "owner": "jwilm", "forks": 447},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 306, "stars": 9277, "owner": "BurntSushi", "forks": 370},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 289, "stars": 3341, "owner": "mre", "forks": 400},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 278, "stars": 7348, "owner": "rust-unofficial", "forks": 467},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 278, "stars": 7349, "owner": "rust-unofficial", "forks": 467},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 282, "stars": 1268, "owner": "gluon-lang", "forks": 67},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 268, "stars": 3121, "owner": "anordal", "forks": 92},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 224, "stars": 12886, "owner": "google", "forks": 450},
@@ -23,5 +23,5 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 143, "stars": 3613, "owner": "hyperium", "forks": 579},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 140, "stars": 3303, "owner": "pingcap", "forks": 420},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 143, "stars": 1230, "owner": "mozilla", "forks": 54},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 124, "stars": 2209, "owner": "rust-lang", "forks": 660}
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 124, "stars": 2209, "owner": "rust-lang", "forks": 659}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 88, "stars": 123, "owner": "oxy-secure", "forks": 8},
+{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 88, "stars": 126, "owner": "oxy-secure", "forks": 8},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 72, "stars": 204, "owner": "immunant", "forks": 4},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 28977, "owner": "rust-lang", "forks": 5005},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 26, "stars": 174, "owner": "dropbox", "forks": 3},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 20, "stars": 1275, "owner": "gluon-lang", "forks": 68},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 1690, "owner": "actix", "forks": 108},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 1691, "owner": "actix", "forks": 108},
 {"description": "Show notes, code, and ideas for future topics for \"Hello Rust!\", a YouTube channel about the Rust programming language.", "language": "Rust", "repo": "show", "new_stars": 14, "stars": 91, "owner": "hello-rust", "forks": 5},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 13, "stars": 9280, "owner": "BurntSushi", "forks": 370},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 13, "stars": 1345, "owner": "actix", "forks": 69},
@@ -17,11 +17,11 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 7349, "owner": "rust-unofficial", "forks": 469},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 7, "stars": 877, "owner": "tantivy-search", "forks": 51},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 11885, "owner": "servo", "forks": 1905},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 6, "stars": 10951, "owner": "jwilm", "forks": 447},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 6, "stars": 10952, "owner": "jwilm", "forks": 447},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 6, "stars": 3124, "owner": "anordal", "forks": 92},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 5, "stars": 4117, "owner": "uutils", "forks": 371},
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 5, "stars": 4118, "owner": "uutils", "forks": 371},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 3616, "owner": "hyperium", "forks": 579},
-{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 5, "stars": 1886, "owner": "runconduit", "forks": 114},
+{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 5, "stars": 1887, "owner": "runconduit", "forks": 114},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 1866, "owner": "tokio-rs", "forks": 122},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 5, "stars": 1498, "owner": "phil-opp", "forks": 143}
 ]

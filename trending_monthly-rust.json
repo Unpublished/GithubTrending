@@ -1,6 +1,6 @@
 [
 {"description": "sled likes eating data: alpha modern embedded database", "language": "Rust", "repo": "sled", "new_stars": 800, "stars": 1384, "owner": "spacejam", "forks": 40},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 668, "stars": 28981, "owner": "rust-lang", "forks": 5006},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 668, "stars": 28983, "owner": "rust-lang", "forks": 5006},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 601, "stars": 1287, "owner": "nebulet", "forks": 33},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 545, "stars": 7475, "owner": "atom", "forks": 170},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 511, "stars": 1347, "owner": "actix", "forks": 69},
@@ -9,7 +9,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 305, "stars": 10953, "owner": "jwilm", "forks": 448},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 292, "stars": 1278, "owner": "gluon-lang", "forks": 68},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 282, "stars": 3345, "owner": "mre", "forks": 400},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 277, "stars": 7352, "owner": "rust-unofficial", "forks": 469},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 277, "stars": 7353, "owner": "rust-unofficial", "forks": 469},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 267, "stars": 3128, "owner": "anordal", "forks": 92},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 225, "stars": 12888, "owner": "google", "forks": 450},
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 220, "stars": 4371, "owner": "DenisKolodin", "forks": 145},
@@ -17,11 +17,11 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 205, "stars": 4693, "owner": "SergioBenitez", "forks": 306},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 197, "stars": 11888, "owner": "servo", "forks": 1905},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 205, "stars": 207, "owner": "immunant", "forks": 4},
-{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 197, "stars": 1918, "owner": "runconduit", "forks": 114},
+{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 197, "stars": 1920, "owner": "runconduit", "forks": 114},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 183, "stars": 1868, "owner": "tokio-rs", "forks": 122},
-{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 173, "stars": 199, "owner": "oxy-secure", "forks": 14},
-{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 177, "stars": 180, "owner": "dropbox", "forks": 3},
+{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 173, "stars": 201, "owner": "oxy-secure", "forks": 14},
+{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 177, "stars": 181, "owner": "dropbox", "forks": 3},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 159, "stars": 879, "owner": "tantivy-search", "forks": 51},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 146, "stars": 3618, "owner": "hyperium", "forks": 580},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 139, "stars": 3304, "owner": "pingcap", "forks": 421}
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 139, "stars": 3305, "owner": "pingcap", "forks": 421}
 ]

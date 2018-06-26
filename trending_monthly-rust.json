@@ -5,15 +5,15 @@
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 547, "stars": 7480, "owner": "atom", "forks": 170},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 509, "stars": 1348, "owner": "actix", "forks": 69},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 496, "stars": 1698, "owner": "actix", "forks": 108},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 318, "stars": 9293, "owner": "BurntSushi", "forks": 371},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 305, "stars": 10958, "owner": "jwilm", "forks": 450},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 318, "stars": 9294, "owner": "BurntSushi", "forks": 371},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 305, "stars": 10959, "owner": "jwilm", "forks": 450},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 291, "stars": 3353, "owner": "mre", "forks": 401},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 294, "stars": 1279, "owner": "gluon-lang", "forks": 68},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 285, "stars": 7360, "owner": "rust-unofficial", "forks": 469},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 272, "stars": 3136, "owner": "anordal", "forks": 92},
-{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 261, "stars": 266, "owner": "oxy-secure", "forks": 15},
+{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 261, "stars": 267, "owner": "oxy-secure", "forks": 15},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 229, "stars": 1943, "owner": "runconduit", "forks": 114},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 225, "stars": 12887, "owner": "google", "forks": 450},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 225, "stars": 12888, "owner": "google", "forks": 450},
 {"description": "Rust framework for making client web apps", "language": "Rust", "repo": "yew", "new_stars": 217, "stars": 4384, "owner": "DenisKolodin", "forks": 145},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 192, "stars": 4456, "owner": "paritytech", "forks": 903},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 216, "stars": 219, "owner": "immunant", "forks": 5},
@@ -23,5 +23,5 @@
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 181, "stars": 183, "owner": "dropbox", "forks": 3},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 163, "stars": 882, "owner": "tantivy-search", "forks": 52},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 147, "stars": 3621, "owner": "hyperium", "forks": 582},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 138, "stars": 3306, "owner": "pingcap", "forks": 421}
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 138, "stars": 3307, "owner": "pingcap", "forks": 421}
 ]

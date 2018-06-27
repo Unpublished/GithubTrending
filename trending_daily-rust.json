@@ -7,8 +7,8 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 9306, "owner": "BurntSushi", "forks": 371},
 {"description": "A toy JavaScript engine in Rust", "language": "Rust", "repo": "rapidus", "new_stars": 15, "stars": 41, "owner": "maekawatoshiki", "forks": 1},
 {"description": "An audio backend for the multi-layered soundscape of Beyond Perception: Seeing the Unseen, a permanent exhibition at Scienceworks in Melbourne, Australia.", "language": "Rust", "repo": "spatial_audio_server", "new_stars": 15, "stars": 30, "owner": "museumsvictoria", "forks": 3},
-{"description": "Programmable multi-asset chain", "language": "Rust", "repo": "codechain", "new_stars": 14, "stars": 73, "owner": "CodeChain-io", "forks": 13},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 12, "stars": 908, "owner": "rustwasm", "forks": 75},
+{"description": "Programmable multi-asset chain", "language": "Rust", "repo": "codechain", "new_stars": 14, "stars": 74, "owner": "CodeChain-io", "forks": 13},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 12, "stars": 909, "owner": "rustwasm", "forks": 75},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 12, "stars": 3363, "owner": "mre", "forks": 402},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 12, "stars": 227, "owner": "immunant", "forks": 5},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 10965, "owner": "jwilm", "forks": 450},
@@ -21,7 +21,7 @@
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 3312, "owner": "pingcap", "forks": 422},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 12893, "owner": "google", "forks": 451},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 7, "stars": 732, "owner": "rustwasm", "forks": 38},
-{"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 6, "stars": 1891, "owner": "koute", "forks": 105},
+{"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 6, "stars": 1892, "owner": "koute", "forks": 105},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2220, "owner": "rust-lang", "forks": 663},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4703, "owner": "SergioBenitez", "forks": 307}
 ]

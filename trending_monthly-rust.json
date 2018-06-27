@@ -5,12 +5,12 @@
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 546, "stars": 7485, "owner": "atom", "forks": 171},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 511, "stars": 1353, "owner": "actix", "forks": 69},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 493, "stars": 1705, "owner": "actix", "forks": 110},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 319, "stars": 9308, "owner": "BurntSushi", "forks": 373},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 319, "stars": 9309, "owner": "BurntSushi", "forks": 373},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 308, "stars": 10969, "owner": "jwilm", "forks": 450},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 302, "stars": 1290, "owner": "gluon-lang", "forks": 70},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 293, "stars": 3365, "owner": "mre", "forks": 404},
-{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 298, "stars": 298, "owner": "oxy-secure", "forks": 17},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 293, "stars": 7372, "owner": "rust-unofficial", "forks": 472},
+{"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 298, "stars": 300, "owner": "oxy-secure", "forks": 17},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 293, "stars": 7371, "owner": "rust-unofficial", "forks": 472},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 261, "stars": 1980, "owner": "runconduit", "forks": 114},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 261, "stars": 3138, "owner": "anordal", "forks": 92},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 226, "stars": 12896, "owner": "google", "forks": 451},
@@ -22,6 +22,6 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 185, "stars": 1880, "owner": "tokio-rs", "forks": 125},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 186, "stars": 188, "owner": "dropbox", "forks": 3},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 167, "stars": 887, "owner": "tantivy-search", "forks": 53},
-{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 156, "stars": 272, "owner": "nannou-org", "forks": 18},
+{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 156, "stars": 273, "owner": "nannou-org", "forks": 18},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 147, "stars": 3624, "owner": "hyperium", "forks": 583}
 ]

@@ -4,9 +4,9 @@
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 567, "stars": 1290, "owner": "nebulet", "forks": 33},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 539, "stars": 7487, "owner": "atom", "forks": 171},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 514, "stars": 1355, "owner": "actix", "forks": 68},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 500, "stars": 1714, "owner": "actix", "forks": 110},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 319, "stars": 9312, "owner": "BurntSushi", "forks": 373},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 307, "stars": 10971, "owner": "jwilm", "forks": 450},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 500, "stars": 1716, "owner": "actix", "forks": 110},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 319, "stars": 9313, "owner": "BurntSushi", "forks": 373},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 307, "stars": 10973, "owner": "jwilm", "forks": 450},
 {"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 302, "stars": 303, "owner": "oxy-secure", "forks": 17},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 295, "stars": 7375, "owner": "rust-unofficial", "forks": 472},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 302, "stars": 1291, "owner": "gluon-lang", "forks": 70},
@@ -21,7 +21,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 199, "stars": 11900, "owner": "servo", "forks": 1907},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 184, "stars": 1879, "owner": "tokio-rs", "forks": 126},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 188, "stars": 190, "owner": "dropbox", "forks": 3},
-{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 176, "stars": 357, "owner": "Plume-org", "forks": 17},
+{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 176, "stars": 362, "owner": "Plume-org", "forks": 17},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 166, "stars": 888, "owner": "tantivy-search", "forks": 53},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 163, "stars": 278, "owner": "nannou-org", "forks": 18}
 ]

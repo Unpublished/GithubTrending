@@ -1,17 +1,17 @@
 [
-{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 116, "stars": 318, "owner": "Plume-org", "forks": 16},
-{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 45, "stars": 55, "owner": "Miserlou", "forks": 3},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29026, "owner": "rust-lang", "forks": 5013},
-{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 29, "stars": 1982, "owner": "runconduit", "forks": 114},
+{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 116, "stars": 324, "owner": "Plume-org", "forks": 17},
+{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 45, "stars": 58, "owner": "Miserlou", "forks": 3},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29026, "owner": "rust-lang", "forks": 5012},
+{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 29, "stars": 1983, "owner": "runconduit", "forks": 114},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 29, "stars": 275, "owner": "nannou-org", "forks": 18},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 16, "stars": 4713, "owner": "SergioBenitez", "forks": 306},
 {"description": "Programmable multi-asset chain", "language": "Rust", "repo": "codechain", "new_stars": 14, "stars": 77, "owner": "CodeChain-io", "forks": 13},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 11, "stars": 2225, "owner": "rust-lang", "forks": 666},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 1710, "owner": "actix", "forks": 110},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 1711, "owner": "actix", "forks": 110},
 {"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 11, "stars": 301, "owner": "oxy-secure", "forks": 17},
 {"description": "An audio backend for the multi-layered soundscape of Beyond Perception: Seeing the Unseen, a permanent exhibition at Scienceworks in Melbourne, Australia.", "language": "Rust", "repo": "spatial_audio_server", "new_stars": 11, "stars": 33, "owner": "museumsvictoria", "forks": 3},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 9310, "owner": "BurntSushi", "forks": 373},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 9, "stars": 3365, "owner": "mre", "forks": 404},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 9, "stars": 3366, "owner": "mre", "forks": 404},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 7374, "owner": "rust-unofficial", "forks": 472},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 9, "stars": 7486, "owner": "atom", "forks": 171},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 12896, "owner": "google", "forks": 451},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 1879, "owner": "tokio-rs", "forks": 126},
 {"description": "A toy JavaScript engine in Rust", "language": "Rust", "repo": "rapidus", "new_stars": 7, "stars": 43, "owner": "maekawatoshiki", "forks": 1},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 6, "stars": 1290, "owner": "gluon-lang", "forks": 70},
-{"description": "A toolbox for zkSNARKS on Ethereum", "language": "Rust", "repo": "ZoKrates", "new_stars": 6, "stars": 276, "owner": "JacobEberhardt", "forks": 58}
+{"description": "A toolbox for zkSNARKS on Ethereum", "language": "Rust", "repo": "ZoKrates", "new_stars": 6, "stars": 277, "owner": "JacobEberhardt", "forks": 58}
 ]

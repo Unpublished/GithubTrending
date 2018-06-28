@@ -1,5 +1,5 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 176, "stars": 43973, "owner": "laravel", "forks": 13630},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 176, "stars": 43974, "owner": "laravel", "forks": 13630},
 {"description": "Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.", "language": "PHP", "repo": "tenancy", "new_stars": 166, "stars": 249, "owner": "tenancy", "forks": 3},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 103, "stars": 4019, "owner": "phpstan", "forks": 257},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 93, "stars": 15115, "owner": "composer", "forks": 5180},
@@ -21,7 +21,7 @@
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 64, "stars": 6789, "owner": "nikic", "forks": 506},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 62, "stars": 6709, "owner": "thephpleague", "forks": 455},
 {"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 58, "stars": 5862, "owner": "deployphp", "forks": 841},
-{"description": "An open source status page system for everyone.", "language": "PHP", "repo": "Cachet", "new_stars": 60, "stars": 8320, "owner": "CachetHQ", "forks": 944},
+{"description": "An open source status page system for everyone.", "language": "PHP", "repo": "Cachet", "new_stars": 60, "stars": 8320, "owner": "CachetHQ", "forks": 945},
 {"description": null, "language": "PHP", "repo": "container", "new_stars": 59, "stars": 3691, "owner": "php-fig", "forks": 18},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 58, "stars": 3822, "owner": "doctrine", "forks": 77}
 ]

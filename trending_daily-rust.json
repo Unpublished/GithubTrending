@@ -1,5 +1,5 @@
 [
-{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 37, "stars": 1334, "owner": "nebulet", "forks": 34},
+{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 37, "stars": 1336, "owner": "nebulet", "forks": 34},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 29078, "owner": "rust-lang", "forks": 5023},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 16, "stars": 479, "owner": "Plume-org", "forks": 23},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 16, "stars": 146, "owner": "Miserlou", "forks": 5},
@@ -11,7 +11,7 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 12914, "owner": "google", "forks": 451},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 10, "stars": 11007, "owner": "jwilm", "forks": 453},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 7393, "owner": "rust-unofficial", "forks": 475},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 11920, "owner": "servo", "forks": 1909},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 11921, "owner": "servo", "forks": 1909},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 4418, "owner": "DenisKolodin", "forks": 146},
 {"description": "The city is us.", "language": "Rust", "repo": "citybound", "new_stars": 8, "stars": 1256, "owner": "citybound", "forks": 58},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 6, "stars": 4477, "owner": "paritytech", "forks": 911},
@@ -22,6 +22,6 @@
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 5, "stars": 299, "owner": "nannou-org", "forks": 20},
 {"description": "\u201cThe Tie Between Ruby and Rust.\u201d", "language": "Rust", "repo": "rutie", "new_stars": 5, "stars": 48, "owner": "danielpclark", "forks": 1},
 {"description": "Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain", "language": "Rust", "repo": "cargo-binutils", "new_stars": 5, "stars": 22, "owner": "japaric", "forks": 0},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 0, "stars": 2581, "owner": "carllerche", "forks": 314},
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 0, "stars": 2582, "owner": "carllerche", "forks": 314},
 {"description": "GLib bindings for Rust", "language": "Rust", "repo": "glib", "new_stars": 0, "stars": 28, "owner": "gtk-rs", "forks": 33}
 ]

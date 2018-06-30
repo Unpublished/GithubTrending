@@ -1,5 +1,5 @@
 [
-{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 37, "stars": 1336, "owner": "nebulet", "forks": 34},
+{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 37, "stars": 1338, "owner": "nebulet", "forks": 34},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 29078, "owner": "rust-lang", "forks": 5023},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 16, "stars": 479, "owner": "Plume-org", "forks": 23},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 16, "stars": 146, "owner": "Miserlou", "forks": 5},
@@ -16,11 +16,11 @@
 {"description": "The city is us.", "language": "Rust", "repo": "citybound", "new_stars": 8, "stars": 1256, "owner": "citybound", "forks": 58},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 6, "stars": 4477, "owner": "paritytech", "forks": 911},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 4734, "owner": "SergioBenitez", "forks": 308},
-{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 7, "stars": 1308, "owner": "gluon-lang", "forks": 70},
+{"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 7, "stars": 1309, "owner": "gluon-lang", "forks": 70},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 7, "stars": 200, "owner": "dropbox", "forks": 3},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 5, "stars": 3387, "owner": "mre", "forks": 406},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 5, "stars": 299, "owner": "nannou-org", "forks": 20},
-{"description": "\u201cThe Tie Between Ruby and Rust.\u201d", "language": "Rust", "repo": "rutie", "new_stars": 5, "stars": 48, "owner": "danielpclark", "forks": 1},
+{"description": "\u201cThe Tie Between Ruby and Rust.\u201d", "language": "Rust", "repo": "rutie", "new_stars": 5, "stars": 49, "owner": "danielpclark", "forks": 1},
 {"description": "Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain", "language": "Rust", "repo": "cargo-binutils", "new_stars": 5, "stars": 22, "owner": "japaric", "forks": 0},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 0, "stars": 2582, "owner": "carllerche", "forks": 314},
 {"description": "GLib bindings for Rust", "language": "Rust", "repo": "glib", "new_stars": 0, "stars": 28, "owner": "gtk-rs", "forks": 33}

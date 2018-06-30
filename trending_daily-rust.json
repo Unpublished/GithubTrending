@@ -1,6 +1,6 @@
 [
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 33, "stars": 474, "owner": "Plume-org", "forks": 23},
-{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 25, "stars": 139, "owner": "Miserlou", "forks": 5},
+{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 25, "stars": 140, "owner": "Miserlou", "forks": 5},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 29067, "owner": "rust-lang", "forks": 5022},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 21, "stars": 1320, "owner": "nebulet", "forks": 34},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 11001, "owner": "jwilm", "forks": 453},
@@ -18,9 +18,9 @@
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 8, "stars": 299, "owner": "nannou-org", "forks": 20},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 8, "stars": 199, "owner": "dropbox", "forks": 3},
 {"description": "Type-safe, type-level and stateless Rust graphics framework", "language": "Rust", "repo": "luminance-rs", "new_stars": 8, "stars": 167, "owner": "phaazon", "forks": 10},
-{"description": "Security advisory database for Rust crates published through crates.io", "language": "Rust", "repo": "advisory-db", "new_stars": 7, "stars": 46, "owner": "RustSec", "forks": 8},
+{"description": "Security advisory database for Rust crates published through crates.io", "language": "Rust", "repo": "advisory-db", "new_stars": 7, "stars": 47, "owner": "RustSec", "forks": 8},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 6, "stars": 7388, "owner": "rust-unofficial", "forks": 475},
-{"description": "Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain", "language": "Rust", "repo": "cargo-binutils", "new_stars": 7, "stars": 21, "owner": "japaric", "forks": 0},
+{"description": "Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain", "language": "Rust", "repo": "cargo-binutils", "new_stars": 7, "stars": 22, "owner": "japaric", "forks": 0},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap-rs", "new_stars": 6, "stars": 1962, "owner": "kbknapp", "forks": 211},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 6, "stars": 1519, "owner": "phil-opp", "forks": 143},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1367, "owner": "actix", "forks": 69}

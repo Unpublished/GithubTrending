@@ -1,9 +1,9 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 687, "stars": 29079, "owner": "rust-lang", "forks": 5024},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 687, "stars": 29080, "owner": "rust-lang", "forks": 5024},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 517, "stars": 1369, "owner": "actix", "forks": 69},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 502, "stars": 1738, "owner": "actix", "forks": 114},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 437, "stars": 1338, "owner": "nebulet", "forks": 34},
-{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 317, "stars": 480, "owner": "Plume-org", "forks": 23},
+{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 317, "stars": 481, "owner": "Plume-org", "forks": 24},
 {"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 316, "stars": 317, "owner": "oxy-secure", "forks": 18},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 315, "stars": 11007, "owner": "jwilm", "forks": 453},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 315, "stars": 9335, "owner": "BurntSushi", "forks": 373},
@@ -20,7 +20,7 @@
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 183, "stars": 4477, "owner": "paritytech", "forks": 911},
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 198, "stars": 201, "owner": "dropbox", "forks": 3},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 176, "stars": 1886, "owner": "tokio-rs", "forks": 127},
-{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 186, "stars": 300, "owner": "nannou-org", "forks": 20},
+{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 186, "stars": 301, "owner": "nannou-org", "forks": 20},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 170, "stars": 891, "owner": "tantivy-search", "forks": 53},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 139, "stars": 2240, "owner": "rust-lang", "forks": 672},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 145, "stars": 3632, "owner": "hyperium", "forks": 585}

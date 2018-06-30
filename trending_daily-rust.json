@@ -1,7 +1,7 @@
 [
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 26, "stars": 1322, "owner": "nebulet", "forks": 34},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 24, "stars": 140, "owner": "Miserlou", "forks": 5},
-{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 23, "stars": 475, "owner": "Plume-org", "forks": 23},
+{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 23, "stars": 477, "owner": "Plume-org", "forks": 23},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 29070, "owner": "rust-lang", "forks": 5023},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 11002, "owner": "jwilm", "forks": 453},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 14, "stars": 2006, "owner": "runconduit", "forks": 115},
@@ -15,13 +15,13 @@
 {"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 9, "stars": 316, "owner": "oxy-secure", "forks": 18},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 9, "stars": 239, "owner": "immunant", "forks": 5},
 {"description": "\u201cThe Tie Between Ruby and Rust.\u201d", "language": "Rust", "repo": "rutie", "new_stars": 9, "stars": 46, "owner": "danielpclark", "forks": 0},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 1734, "owner": "actix", "forks": 113},
-{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 8, "stars": 199, "owner": "dropbox", "forks": 3},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 1734, "owner": "actix", "forks": 114},
+{"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 8, "stars": 200, "owner": "dropbox", "forks": 3},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 7, "stars": 299, "owner": "nannou-org", "forks": 20},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 6, "stars": 7388, "owner": "rust-unofficial", "forks": 475},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 6, "stars": 7389, "owner": "rust-unofficial", "forks": 475},
 {"description": "Type-safe, type-level and stateless Rust graphics framework", "language": "Rust", "repo": "luminance-rs", "new_stars": 7, "stars": 168, "owner": "phaazon", "forks": 10},
 {"description": "Cargo subcommands to invoke the LLVM tools shipped with the Rust toolchain", "language": "Rust", "repo": "cargo-binutils", "new_stars": 7, "stars": 22, "owner": "japaric", "forks": 0},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 3384, "owner": "mre", "forks": 406},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 3385, "owner": "mre", "forks": 406},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 3631, "owner": "hyperium", "forks": 585},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap-rs", "new_stars": 5, "stars": 1962, "owner": "kbknapp", "forks": 211}
 ]

@@ -5,8 +5,8 @@
 {"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 323, "stars": 324, "owner": "oxy-secure", "forks": 18},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 316, "stars": 1310, "owner": "gluon-lang", "forks": 70},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 303, "stars": 11014, "owner": "jwilm", "forks": 453},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 290, "stars": 9339, "owner": "BurntSushi", "forks": 373},
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 287, "stars": 363, "owner": "harababurel", "forks": 11},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 290, "stars": 9340, "owner": "BurntSushi", "forks": 373},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 287, "stars": 390, "owner": "harababurel", "forks": 11},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 283, "stars": 1369, "owner": "actix", "forks": 70},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 272, "stars": 7394, "owner": "rust-unofficial", "forks": 475},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 264, "stars": 2017, "owner": "runconduit", "forks": 116},
@@ -21,7 +21,7 @@
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 202, "stars": 205, "owner": "dropbox", "forks": 3},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 190, "stars": 303, "owner": "nannou-org", "forks": 20},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 166, "stars": 4479, "owner": "paritytech", "forks": 912},
-{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 179, "stars": 1354, "owner": "nebulet", "forks": 34},
+{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 179, "stars": 1355, "owner": "nebulet", "forks": 34},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 166, "stars": 1889, "owner": "tokio-rs", "forks": 128},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 172, "stars": 894, "owner": "tantivy-search", "forks": 54}
 ]

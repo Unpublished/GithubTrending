@@ -1,8 +1,8 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 445, "stars": 469, "owner": "harababurel", "forks": 11},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 445, "stars": 482, "owner": "harababurel", "forks": 12},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 18, "stars": 1359, "owner": "nebulet", "forks": 34},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 29094, "owner": "rust-lang", "forks": 5029},
-{"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 15, "stars": 70, "owner": "Michael-F-Bryan", "forks": 9},
+{"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 15, "stars": 71, "owner": "Michael-F-Bryan", "forks": 9},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 10, "stars": 493, "owner": "Plume-org", "forks": 24},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 9, "stars": 2020, "owner": "runconduit", "forks": 116},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 8, "stars": 11015, "owner": "jwilm", "forks": 453},
@@ -20,8 +20,8 @@
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 5, "stars": 206, "owner": "dropbox", "forks": 3},
 {"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 5, "stars": 101, "owner": "r-darwish", "forks": 3},
 {"description": "A procedurally generated voxel adventure game", "language": "Rust", "repo": "game", "new_stars": 5, "stars": 38, "owner": "veloren", "forks": 9},
-{"description": "Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 5, "stars": 24, "owner": "dani-garcia", "forks": 4},
-{"description": "A Rust Wrapper of Facebook's Yoga, a Flexbox layout engine", "language": "Rust", "repo": "yoga-rs", "new_stars": 0, "stars": 33, "owner": "bschwind", "forks": 10},
+{"description": "Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 5, "stars": 25, "owner": "dani-garcia", "forks": 4},
+{"description": "A Rust Wrapper of Facebook's Yoga, a Flexbox layout engine", "language": "Rust", "repo": "yoga-rs", "new_stars": 0, "stars": 34, "owner": "bschwind", "forks": 10},
 {"description": "Cross platform GUI Library", "language": "Rust", "repo": "limn", "new_stars": 0, "stars": 325, "owner": "christolliday", "forks": 14},
 {"description": "Simple time handling in Rust", "language": "Rust", "repo": "time", "new_stars": 0, "stars": 103, "owner": "rust-lang-deprecated", "forks": 76}
 ]

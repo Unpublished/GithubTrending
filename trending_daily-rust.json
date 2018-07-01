@@ -1,10 +1,10 @@
 [
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 24, "stars": 1352, "owner": "nebulet", "forks": 34},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 16, "stars": 29088, "owner": "rust-lang", "forks": 5024},
-{"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 14, "stars": 60, "owner": "Michael-F-Bryan", "forks": 9},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 16, "stars": 29087, "owner": "rust-lang", "forks": 5024},
+{"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 14, "stars": 62, "owner": "Michael-F-Bryan", "forks": 9},
 {"description": "A thin client for sbt", "language": "Rust", "repo": "sbt-client", "new_stars": 13, "stars": 25, "owner": "cb372", "forks": 0},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 10, "stars": 154, "owner": "Miserlou", "forks": 5},
-{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 9, "stars": 488, "owner": "Plume-org", "forks": 24},
+{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 9, "stars": 489, "owner": "Plume-org", "forks": 24},
 {"description": "A secure remote access tool", "language": "Rust", "repo": "oxy", "new_stars": 8, "stars": 324, "owner": "oxy-secure", "forks": 18},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 4738, "owner": "SergioBenitez", "forks": 308},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 4425, "owner": "DenisKolodin", "forks": 146},
@@ -21,7 +21,7 @@
 {"description": "A lightweight Datalog engine in Rust", "language": "Rust", "repo": "datafrog", "new_stars": 0, "stars": 152, "owner": "rust-lang-nursery", "forks": 11},
 {"description": "A macro to generate structures which behave like bitflags", "language": "Rust", "repo": "bitflags", "new_stars": 0, "stars": 122, "owner": "bitflags", "forks": 66},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 0, "stars": 787, "owner": "rust-lang", "forks": 146},
-{"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 0, "stars": 356, "owner": "rust-lang", "forks": 283},
-{"description": "libgit2 bindings for Rust", "language": "Rust", "repo": "git2-rs", "new_stars": 0, "stars": 331, "owner": "alexcrichton", "forks": 130},
-{"description": "a rust interface for github", "language": "Rust", "repo": "hubcaps", "new_stars": 0, "stars": 98, "owner": "softprops", "forks": 27}
+{"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 0, "stars": 357, "owner": "rust-lang", "forks": 283},
+{"description": "libgit2 bindings for Rust", "language": "Rust", "repo": "git2-rs", "new_stars": 0, "stars": 332, "owner": "alexcrichton", "forks": 130},
+{"description": "a rust interface for github", "language": "Rust", "repo": "hubcaps", "new_stars": 0, "stars": 99, "owner": "softprops", "forks": 27}
 ]

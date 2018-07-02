@@ -1,6 +1,6 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 658, "stars": 29096, "owner": "rust-lang", "forks": 5031},
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 677, "stars": 730, "owner": "harababurel", "forks": 19},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 658, "stars": 29097, "owner": "rust-lang", "forks": 5032},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 677, "stars": 752, "owner": "harababurel", "forks": 20},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 324, "stars": 1740, "owner": "actix", "forks": 116},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 329, "stars": 494, "owner": "Plume-org", "forks": 24},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 324, "stars": 324, "owner": "oxy-secure", "forks": 17},
@@ -10,7 +10,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 277, "stars": 1370, "owner": "actix", "forks": 70},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 270, "stars": 7398, "owner": "rust-unofficial", "forks": 475},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 265, "stars": 2020, "owner": "runconduit", "forks": 116},
-{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 261, "stars": 268, "owner": "immunant", "forks": 6},
+{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 261, "stars": 270, "owner": "immunant", "forks": 6},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 249, "stars": 3391, "owner": "mre", "forks": 406},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 245, "stars": 5826, "owner": "sharkdp", "forks": 149},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 227, "stars": 12921, "owner": "google", "forks": 452},
@@ -22,6 +22,6 @@
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 203, "stars": 207, "owner": "dropbox", "forks": 3},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 191, "stars": 304, "owner": "nannou-org", "forks": 20},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 164, "stars": 4480, "owner": "paritytech", "forks": 912},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 165, "stars": 1891, "owner": "tokio-rs", "forks": 128},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 165, "stars": 1892, "owner": "tokio-rs", "forks": 128},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 173, "stars": 895, "owner": "tantivy-search", "forks": 54}
 ]

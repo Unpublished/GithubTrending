@@ -1,5 +1,5 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 801, "stars": 898, "owner": "harababurel", "forks": 21},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 801, "stars": 911, "owner": "harababurel", "forks": 21},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 659, "stars": 29101, "owner": "rust-lang", "forks": 5033},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 324, "stars": 1742, "owner": "actix", "forks": 116},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 332, "stars": 497, "owner": "Plume-org", "forks": 24},
@@ -8,8 +8,8 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 307, "stars": 11021, "owner": "jwilm", "forks": 453},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 288, "stars": 9346, "owner": "BurntSushi", "forks": 372},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 278, "stars": 1371, "owner": "actix", "forks": 70},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 272, "stars": 7399, "owner": "rust-unofficial", "forks": 475},
-{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 273, "stars": 280, "owner": "immunant", "forks": 6},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 272, "stars": 7398, "owner": "rust-unofficial", "forks": 475},
+{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 273, "stars": 281, "owner": "immunant", "forks": 6},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 265, "stars": 2022, "owner": "runconduit", "forks": 116},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 249, "stars": 3391, "owner": "mre", "forks": 406},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 245, "stars": 5826, "owner": "sharkdp", "forks": 149},

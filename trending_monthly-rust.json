@@ -1,10 +1,10 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1251, "stars": 1286, "owner": "harababurel", "forks": 26},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1251, "stars": 1297, "owner": "harababurel", "forks": 26},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 659, "stars": 29109, "owner": "rust-lang", "forks": 5033},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 336, "stars": 503, "owner": "Plume-org", "forks": 25},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 325, "stars": 325, "owner": "oxy-secure", "forks": 17},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 316, "stars": 1753, "owner": "actix", "forks": 116},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 318, "stars": 11036, "owner": "jwilm", "forks": 453},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 316, "stars": 1753, "owner": "actix", "forks": 117},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 318, "stars": 11037, "owner": "jwilm", "forks": 453},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 315, "stars": 1312, "owner": "gluon-lang", "forks": 70},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 292, "stars": 9354, "owner": "BurntSushi", "forks": 374},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 292, "stars": 296, "owner": "immunant", "forks": 6},
@@ -13,7 +13,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 260, "stars": 1373, "owner": "actix", "forks": 71},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 249, "stars": 3394, "owner": "mre", "forks": 406},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 244, "stars": 5830, "owner": "sharkdp", "forks": 149},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 229, "stars": 12929, "owner": "google", "forks": 452},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 229, "stars": 12930, "owner": "google", "forks": 452},
 {"description": "Erlang Replacement Therapy. Another attempt to make Erlang runtime (BEAM emulator) in Rust. Good news: I know what to do. Bad news: I have no clue how to Rust", "language": "Rust", "repo": "ErlangRT", "new_stars": 217, "stars": 288, "owner": "kvakvs", "forks": 9},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 211, "stars": 4747, "owner": "SergioBenitez", "forks": 308},
 {"description": "A bash syntax highlighter that encourages (and can fix) proper quoting of variables", "language": "Rust", "repo": "shellharden", "new_stars": 211, "stars": 3151, "owner": "anordal", "forks": 92},
@@ -21,7 +21,7 @@
 {"description": "Building better compression together", "language": "Rust", "repo": "divans", "new_stars": 205, "stars": 208, "owner": "dropbox", "forks": 3},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 198, "stars": 4433, "owner": "DenisKolodin", "forks": 146},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 194, "stars": 308, "owner": "nannou-org", "forks": 20},
-{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 163, "stars": 4483, "owner": "paritytech", "forks": 916},
+{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 163, "stars": 4484, "owner": "paritytech", "forks": 916},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 169, "stars": 1898, "owner": "tokio-rs", "forks": 127},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 178, "stars": 900, "owner": "tantivy-search", "forks": 54}
 ]

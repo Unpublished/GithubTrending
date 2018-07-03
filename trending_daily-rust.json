@@ -1,20 +1,20 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 483, "stars": 1316, "owner": "harababurel", "forks": 27},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 483, "stars": 1325, "owner": "harababurel", "forks": 27},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 23, "stars": 296, "owner": "immunant", "forks": 6},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 29111, "owner": "rust-lang", "forks": 5033},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11036, "owner": "jwilm", "forks": 453},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11037, "owner": "jwilm", "forks": 453},
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 15, "stars": 31, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 13, "stars": 1377, "owner": "nebulet", "forks": 34},
-{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 13, "stars": 169, "owner": "Miserlou", "forks": 6},
+{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 13, "stars": 170, "owner": "Miserlou", "forks": 6},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 1754, "owner": "actix", "forks": 117},
 {"description": "Assorted immutable collection datatypes for Rust", "language": "Rust", "repo": "im-rs", "new_stars": 12, "stars": 413, "owner": "bodil", "forks": 13},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 11, "stars": 9355, "owner": "BurntSushi", "forks": 374},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 7405, "owner": "rust-unofficial", "forks": 475},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 7404, "owner": "rust-unofficial", "forks": 475},
 {"description": "A thin client for sbt", "language": "Rust", "repo": "sbt-client", "new_stars": 11, "stars": 42, "owner": "cb372", "forks": 0},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 8, "stars": 932, "owner": "rustwasm", "forks": 84},
-{"description": "A procedurally generated voxel adventure game", "language": "Rust", "repo": "game", "new_stars": 9, "stars": 54, "owner": "veloren", "forks": 10},
+{"description": "A procedurally generated voxel adventure game", "language": "Rust", "repo": "game", "new_stars": 9, "stars": 54, "owner": "veloren", "forks": 11},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 2255, "owner": "rust-lang", "forks": 676},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 12930, "owner": "google", "forks": 452},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 12931, "owner": "google", "forks": 452},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 7, "stars": 503, "owner": "Plume-org", "forks": 25},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 7, "stars": 2028, "owner": "runconduit", "forks": 116},
 {"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 7, "stars": 82, "owner": "Michael-F-Bryan", "forks": 9},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 1898, "owner": "tokio-rs", "forks": 127},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4747, "owner": "SergioBenitez", "forks": 308},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 5, "stars": 4433, "owner": "DenisKolodin", "forks": 146},
-{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 5, "stars": 1183, "owner": "autozimu", "forks": 113}
+{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 5, "stars": 1184, "owner": "autozimu", "forks": 113}
 ]

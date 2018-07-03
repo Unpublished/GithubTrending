@@ -1,8 +1,8 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 299, "stars": 1469, "owner": "harababurel", "forks": 29},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 299, "stars": 1473, "owner": "harababurel", "forks": 29},
 {"description": "An efficient re-implementation of Electrum Server in Rust", "language": "Rust", "repo": "electrs", "new_stars": 22, "stars": 26, "owner": "romanz", "forks": 0},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 17, "stars": 29117, "owner": "rust-lang", "forks": 5036},
-{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 15, "stars": 346, "owner": "substantic", "forks": 16},
+{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 15, "stars": 347, "owner": "substantic", "forks": 16},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 11043, "owner": "jwilm", "forks": 454},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 1763, "owner": "actix", "forks": 117},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 11, "stars": 934, "owner": "rustwasm", "forks": 85},
@@ -12,9 +12,9 @@
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 10, "stars": 33, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9359, "owner": "BurntSushi", "forks": 374},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 7409, "owner": "rust-unofficial", "forks": 475},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 4752, "owner": "SergioBenitez", "forks": 308},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 4753, "owner": "SergioBenitez", "forks": 308},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 5, "stars": 4487, "owner": "paritytech", "forks": 918},
-{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 7, "stars": 506, "owner": "Plume-org", "forks": 25},
+{"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 7, "stars": 507, "owner": "Plume-org", "forks": 25},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 7, "stars": 2031, "owner": "runconduit", "forks": 116},
 {"description": "Assorted immutable collection datatypes for Rust", "language": "Rust", "repo": "im-rs", "new_stars": 7, "stars": 414, "owner": "bodil", "forks": 13},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 3399, "owner": "mre", "forks": 407},
@@ -22,6 +22,6 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 6, "stars": 3644, "owner": "hyperium", "forks": 585},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 6, "stars": 331, "owner": "oxy-secure", "forks": 17},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 3327, "owner": "pingcap", "forks": 426},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 11934, "owner": "servo", "forks": 1916},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 11935, "owner": "servo", "forks": 1916},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 1901, "owner": "tokio-rs", "forks": 128}
 ]

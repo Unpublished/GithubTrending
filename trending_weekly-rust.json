@@ -1,12 +1,12 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1527, "stars": 1545, "owner": "harababurel", "forks": 31},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1527, "stars": 1547, "owner": "harababurel", "forks": 32},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 308, "stars": 511, "owner": "Plume-org", "forks": 25},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 167, "stars": 176, "owner": "Miserlou", "forks": 7},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 131, "stars": 29132, "owner": "rust-lang", "forks": 5035},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 93, "stars": 1380, "owner": "nebulet", "forks": 34},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 87, "stars": 11046, "owner": "jwilm", "forks": 455},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 78, "stars": 304, "owner": "immunant", "forks": 7},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 70, "stars": 1771, "owner": "actix", "forks": 119},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 70, "stars": 1772, "owner": "actix", "forks": 119},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 67, "stars": 2036, "owner": "runconduit", "forks": 117},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 61, "stars": 9365, "owner": "BurntSushi", "forks": 374},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 59, "stars": 12940, "owner": "google", "forks": 453},
@@ -23,5 +23,5 @@
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 35, "stars": 4490, "owner": "paritytech", "forks": 918},
 {"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 40, "stars": 84, "owner": "Michael-F-Bryan", "forks": 9},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 38, "stars": 332, "owner": "oxy-secure", "forks": 18},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 32, "stars": 938, "owner": "rustwasm", "forks": 87}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 32, "stars": 940, "owner": "rustwasm", "forks": 88}
 ]

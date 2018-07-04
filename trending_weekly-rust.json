@@ -1,8 +1,8 @@
 [
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1553, "stars": 1565, "owner": "harababurel", "forks": 34},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 286, "stars": 510, "owner": "Plume-org", "forks": 26},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 135, "stars": 29137, "owner": "rust-lang", "forks": 5036},
-{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 135, "stars": 176, "owner": "Miserlou", "forks": 8},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 135, "stars": 29137, "owner": "rust-lang", "forks": 5037},
+{"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 135, "stars": 177, "owner": "Miserlou", "forks": 9},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 93, "stars": 1381, "owner": "nebulet", "forks": 34},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 87, "stars": 11049, "owner": "jwilm", "forks": 455},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 77, "stars": 304, "owner": "immunant", "forks": 7},
@@ -23,5 +23,5 @@
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 39, "stars": 3402, "owner": "mre", "forks": 408},
 {"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 40, "stars": 84, "owner": "Michael-F-Bryan", "forks": 9},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 34, "stars": 4491, "owner": "paritytech", "forks": 919},
-{"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 38, "stars": 41, "owner": "Mathieu-Desrochers", "forks": 0}
+{"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 38, "stars": 42, "owner": "Mathieu-Desrochers", "forks": 0}
 ]

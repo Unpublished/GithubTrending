@@ -1,18 +1,18 @@
 [
-{"description": "Cheating Salien minigame, the proper way", "language": "PHP", "repo": "SalienCheat", "new_stars": 61, "stars": 1146, "owner": "SteamDatabase", "forks": 401},
-{"description": "Extensionless PHP Graphic User Interface library", "language": "PHP", "repo": "php-gui", "new_stars": 55, "stars": 1898, "owner": "gabrielrcouto", "forks": 152},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 36, "stars": 44088, "owner": "laravel", "forks": 13658},
+{"description": "Cheating Salien minigame, the proper way", "language": "PHP", "repo": "SalienCheat", "new_stars": 61, "stars": 1147, "owner": "SteamDatabase", "forks": 401},
+{"description": "Extensionless PHP Graphic User Interface library", "language": "PHP", "repo": "php-gui", "new_stars": 55, "stars": 1898, "owner": "gabrielrcouto", "forks": 153},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 36, "stars": 44089, "owner": "laravel", "forks": 13658},
 {"description": "Laravel Plans is a package for SaaS-like apps that need easy management over plans, features and event-driven updates on plans and subscriptions.", "language": "PHP", "repo": "plans", "new_stars": 29, "stars": 125, "owner": "rennokki", "forks": 4},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 20, "stars": 13486, "owner": "danielmiessler", "forks": 4605},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 20, "stars": 13489, "owner": "danielmiessler", "forks": 4605},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 20, "stars": 12905, "owner": "laravel", "forks": 5531},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 22, "stars": 10816, "owner": "Seldaek", "forks": 1370},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 22, "stars": 10817, "owner": "Seldaek", "forks": 1370},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 17, "stars": 15181, "owner": "composer", "forks": 5178},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 16, "stars": 3527, "owner": "symfony", "forks": 41},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 15, "stars": 3281, "owner": "PHPOffice", "forks": 538},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 15, "stars": 3282, "owner": "PHPOffice", "forks": 538},
 {"description": null, "language": "PHP", "repo": "wp-boilerplate", "new_stars": 15, "stars": 144, "owner": "infinum", "forks": 22},
-{"description": "Laravel Code Analyse - Discover bugs in your code without running it. A phpstan/phpstan wrapper for Laravel. This package is still in development. DON'T USE IT YET.", "language": "PHP", "repo": "laravel-code-analyse", "new_stars": 14, "stars": 153, "owner": "nunomaduro", "forks": 5},
+{"description": "Laravel Code Analyse - Discover bugs in your code without running it. A phpstan/phpstan wrapper for Laravel. This package is still in development. DON'T USE IT YET.", "language": "PHP", "repo": "laravel-code-analyse", "new_stars": 14, "stars": 154, "owner": "nunomaduro", "forks": 5},
 {"description": "A REPL for PHP", "language": "PHP", "repo": "psysh", "new_stars": 14, "stars": 5288, "owner": "bobthecow", "forks": 194},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 17976, "owner": "symfony", "forks": 6295},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 17978, "owner": "symfony", "forks": 6295},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 13, "stars": 5469, "owner": "swiftmailer", "forks": 679},
 {"description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!", "language": "PHP", "repo": "matomo", "new_stars": 13, "stars": 9574, "owner": "matomo-org", "forks": 1587},
 {"description": "A Puppeteer bridge for PHP, supporting the entire API.", "language": "PHP", "repo": "puphpeteer", "new_stars": 13, "stars": 257, "owner": "nesk", "forks": 8},
@@ -23,5 +23,5 @@
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 12, "stars": 3865, "owner": "doctrine", "forks": 77},
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 12, "stars": 3673, "owner": "egulias", "forks": 62},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 12, "stars": 3560, "owner": "symfony", "forks": 45},
-{"description": "A progressive theme development rig for WordPress.", "language": "PHP", "repo": "wprig", "new_stars": 12, "stars": 258, "owner": "wprig", "forks": 32}
+{"description": "A progressive theme development rig for WordPress.", "language": "PHP", "repo": "wprig", "new_stars": 12, "stars": 259, "owner": "wprig", "forks": 32}
 ]

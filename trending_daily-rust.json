@@ -1,9 +1,9 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 79, "stars": 1571, "owner": "harababurel", "forks": 35},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 79, "stars": 1573, "owner": "harababurel", "forks": 35},
 {"description": "Typed GraphQL requests and responses in Rust", "language": "Rust", "repo": "graphql-client", "new_stars": 32, "stars": 39, "owner": "tomhoule", "forks": 0},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 29142, "owner": "rust-lang", "forks": 5037},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 29144, "owner": "rust-lang", "forks": 5037},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 25, "stars": 378, "owner": "substantic", "forks": 17},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 14, "stars": 950, "owner": "rustwasm", "forks": 89},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 14, "stars": 950, "owner": "rustwasm", "forks": 90},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 9373, "owner": "BurntSushi", "forks": 374},
 {"description": "An efficient re-implementation of Electrum Server in Rust", "language": "Rust", "repo": "electrs", "new_stars": 11, "stars": 37, "owner": "romanz", "forks": 0},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 1773, "owner": "actix", "forks": 119},
@@ -11,7 +11,7 @@
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 9, "stars": 36, "owner": "vi", "forks": 4},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 8, "stars": 11051, "owner": "jwilm", "forks": 455},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 7416, "owner": "rust-unofficial", "forks": 475},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 5841, "owner": "sharkdp", "forks": 149},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 5842, "owner": "sharkdp", "forks": 149},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 4449, "owner": "DenisKolodin", "forks": 145},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 12944, "owner": "google", "forks": 453},
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 7, "stars": 44, "owner": "Mathieu-Desrochers", "forks": 0},
@@ -23,5 +23,5 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 5, "stars": 2188, "owner": "Geal", "forks": 270},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 5, "stars": 1189, "owner": "autozimu", "forks": 113},
 {"description": "Holochain 2nd iteration in Rust with a Redux-like architecture and a WebAssembly Ribosome.", "language": "Rust", "repo": "holochain-rust", "new_stars": 0, "stars": 29, "owner": "holochain", "forks": 7},
-{"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 0, "stars": 392, "owner": "jhspetersson", "forks": 12}
+{"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 0, "stars": 391, "owner": "jhspetersson", "forks": 12}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 93, "stars": 1569, "owner": "harababurel", "forks": 35},
-{"description": "Typed GraphQL requests and responses in Rust", "language": "Rust", "repo": "graphql-client", "new_stars": 30, "stars": 36, "owner": "tomhoule", "forks": 0},
-{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 26, "stars": 373, "owner": "substantic", "forks": 17},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 93, "stars": 1570, "owner": "harababurel", "forks": 35},
+{"description": "Typed GraphQL requests and responses in Rust", "language": "Rust", "repo": "graphql-client", "new_stars": 30, "stars": 37, "owner": "tomhoule", "forks": 0},
+{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 26, "stars": 374, "owner": "substantic", "forks": 17},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 29140, "owner": "rust-lang", "forks": 5037},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 15, "stars": 950, "owner": "rustwasm", "forks": 89},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 9372, "owner": "BurntSushi", "forks": 374},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 9373, "owner": "BurntSushi", "forks": 374},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 10, "stars": 1773, "owner": "actix", "forks": 119},
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 10, "stars": 43, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "An efficient re-implementation of Electrum Server in Rust", "language": "Rust", "repo": "electrs", "new_stars": 10, "stars": 37, "owner": "romanz", "forks": 0},
@@ -12,7 +12,7 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 8, "stars": 3652, "owner": "hyperium", "forks": 585},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 8, "stars": 12943, "owner": "google", "forks": 453},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 2266, "owner": "rust-lang", "forks": 677},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 7, "stars": 11049, "owner": "jwilm", "forks": 455},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 7, "stars": 11050, "owner": "jwilm", "forks": 455},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 7, "stars": 7417, "owner": "rust-unofficial", "forks": 475},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 7, "stars": 5839, "owner": "sharkdp", "forks": 149},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 7, "stars": 32, "owner": "vi", "forks": 4},
@@ -21,7 +21,7 @@
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 6, "stars": 2037, "owner": "runconduit", "forks": 117},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 5, "stars": 512, "owner": "Plume-org", "forks": 26},
 {"description": "Programmable multi-asset chain", "language": "Rust", "repo": "codechain", "new_stars": 5, "stars": 96, "owner": "CodeChain-io", "forks": 18},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4757, "owner": "SergioBenitez", "forks": 308},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4758, "owner": "SergioBenitez", "forks": 308},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 5, "stars": 2188, "owner": "Geal", "forks": 270},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 5, "stars": 1538, "owner": "phil-opp", "forks": 146}
 ]

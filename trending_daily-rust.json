@@ -2,9 +2,9 @@
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 52, "stars": 1653, "owner": "harababurel", "forks": 39},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 49, "stars": 3077, "owner": "sharkdp", "forks": 49},
 {"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 23, "stars": 37, "owner": "atom", "forks": 1},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 18, "stars": 29172, "owner": "rust-lang", "forks": 5039},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 18, "stars": 29173, "owner": "rust-lang", "forks": 5039},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 4467, "owner": "DenisKolodin", "forks": 145},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 11071, "owner": "jwilm", "forks": 456},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 11073, "owner": "jwilm", "forks": 456},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 11, "stars": 9392, "owner": "BurntSushi", "forks": 373},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 11, "stars": 1399, "owner": "nebulet", "forks": 34},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 11, "stars": 393, "owner": "substantic", "forks": 17},
@@ -22,6 +22,6 @@
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 7, "stars": 56, "owner": "vi", "forks": 4},
 {"description": "A Rust library for random number generation.", "language": "Rust", "repo": "rand", "new_stars": 6, "stars": 231, "owner": "rust-lang-nursery", "forks": 143},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 6, "stars": 7429, "owner": "rust-unofficial", "forks": 474},
-{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 6, "stars": 4501, "owner": "paritytech", "forks": 919},
+{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 6, "stars": 4501, "owner": "paritytech", "forks": 920},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 1252, "owner": "amethyst", "forks": 128}
 ]

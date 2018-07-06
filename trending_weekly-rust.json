@@ -9,11 +9,11 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 71, "stars": 9385, "owner": "BurntSushi", "forks": 374},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 63, "stars": 177, "owner": "Miserlou", "forks": 8},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 64, "stars": 384, "owner": "substantic", "forks": 17},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 60, "stars": 1782, "owner": "actix", "forks": 119},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 60, "stars": 1783, "owner": "actix", "forks": 119},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 58, "stars": 2046, "owner": "runconduit", "forks": 120},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 57, "stars": 4459, "owner": "DenisKolodin", "forks": 145},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 54, "stars": 12948, "owner": "google", "forks": 453},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 50, "stars": 7424, "owner": "rust-unofficial", "forks": 474},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 50, "stars": 7425, "owner": "rust-unofficial", "forks": 474},
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 51, "stars": 51, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "Typed GraphQL requests and responses in Rust", "language": "Rust", "repo": "graphql-client", "new_stars": 50, "stars": 54, "owner": "tomhoule", "forks": 0},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 42, "stars": 958, "owner": "rustwasm", "forks": 91},
@@ -21,7 +21,7 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 44, "stars": 4766, "owner": "SergioBenitez", "forks": 310},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 46, "stars": 5855, "owner": "sharkdp", "forks": 149},
 {"description": "A thin client for sbt", "language": "Rust", "repo": "sbt-client", "new_stars": 44, "stars": 44, "owner": "cb372", "forks": 1},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 39, "stars": 2272, "owner": "rust-lang", "forks": 675},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 39, "stars": 2272, "owner": "rust-lang", "forks": 674},
 {"description": null, "language": "Rust", "repo": "airjump-multi", "new_stars": 42, "stars": 42, "owner": "thiolliere", "forks": 1},
 {"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 40, "stars": 84, "owner": "Michael-F-Bryan", "forks": 9}
 ]

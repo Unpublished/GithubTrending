@@ -1,13 +1,13 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1640, "stars": 1651, "owner": "harababurel", "forks": 39},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1640, "stars": 1653, "owner": "harababurel", "forks": 39},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 187, "stars": 3076, "owner": "sharkdp", "forks": 49},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 125, "stars": 29170, "owner": "rust-lang", "forks": 5038},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 105, "stars": 1399, "owner": "nebulet", "forks": 34},
-{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 75, "stars": 312, "owner": "immunant", "forks": 7},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 72, "stars": 9389, "owner": "BurntSushi", "forks": 373},
+{"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 75, "stars": 313, "owner": "immunant", "forks": 7},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 72, "stars": 9390, "owner": "BurntSushi", "forks": 373},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 73, "stars": 393, "owner": "substantic", "forks": 17},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 70, "stars": 11066, "owner": "jwilm", "forks": 456},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 59, "stars": 1785, "owner": "actix", "forks": 119},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 70, "stars": 11068, "owner": "jwilm", "forks": 456},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 59, "stars": 1786, "owner": "actix", "forks": 119},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 58, "stars": 4466, "owner": "DenisKolodin", "forks": 145},
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 58, "stars": 58, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 55, "stars": 520, "owner": "Plume-org", "forks": 28},
@@ -21,7 +21,7 @@
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 47, "stars": 177, "owner": "Miserlou", "forks": 8},
 {"description": null, "language": "Rust", "repo": "airjump-multi", "new_stars": 47, "stars": 47, "owner": "thiolliere", "forks": 1},
 {"description": "A thin client for sbt", "language": "Rust", "repo": "sbt-client", "new_stars": 47, "stars": 47, "owner": "cb372", "forks": 2},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 44, "stars": 5857, "owner": "sharkdp", "forks": 149},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 44, "stars": 5858, "owner": "sharkdp", "forks": 149},
 {"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 43, "stars": 87, "owner": "Michael-F-Bryan", "forks": 9},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 37, "stars": 11945, "owner": "servo", "forks": 1916}
 ]

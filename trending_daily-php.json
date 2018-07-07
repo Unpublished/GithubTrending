@@ -1,6 +1,6 @@
 [
 {"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.", "language": "PHP", "repo": "twill", "new_stars": 89, "stars": 147, "owner": "area17", "forks": 6},
-{"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 83, "stars": 263, "owner": "beyondcode", "forks": 11},
+{"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 83, "stars": 264, "owner": "beyondcode", "forks": 11},
 {"description": "Perform Self-Diagnosis Tests On Your Laravel Application", "language": "PHP", "repo": "laravel-self-diagnosis", "new_stars": 64, "stars": 360, "owner": "beyondcode", "forks": 16},
 {"description": "Allow users to redeem vouchers that are bound to models.", "language": "PHP", "repo": "laravel-vouchers", "new_stars": 35, "stars": 38, "owner": "beyondcode", "forks": 1},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 22, "stars": 44148, "owner": "laravel", "forks": 13684},
@@ -9,7 +9,7 @@
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 13, "stars": 4759, "owner": "monicahq", "forks": 542},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 13, "stars": 13153, "owner": "guzzle", "forks": 1759},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 12, "stars": 10852, "owner": "Seldaek", "forks": 1368},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 11, "stars": 13533, "owner": "danielmiessler", "forks": 4617},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 11, "stars": 13533, "owner": "danielmiessler", "forks": 4616},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 10, "stars": 18010, "owner": "symfony", "forks": 6303},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 11, "stars": 15222, "owner": "composer", "forks": 5182},
 {"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 11, "stars": 6099, "owner": "ramsey", "forks": 257},
@@ -21,7 +21,7 @@
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 9, "stars": 9549, "owner": "briannesbitt", "forks": 963},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 7, "stars": 11151, "owner": "WordPress", "forks": 6658},
 {"description": "Official PHP low-level client for Elasticsearch.", "language": "PHP", "repo": "elasticsearch-php", "new_stars": 7, "stars": 2475, "owner": "elastic", "forks": 556},
-{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 7, "stars": 4554, "owner": "woocommerce", "forks": 4251},
-{"description": "JSON Web Token Authentication for Laravel & Lumen", "language": "PHP", "repo": "jwt-auth", "new_stars": 8, "stars": 6321, "owner": "tymondesigns", "forks": 798},
+{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 7, "stars": 4554, "owner": "woocommerce", "forks": 4252},
+{"description": "JSON Web Token Authentication for Laravel & Lumen", "language": "PHP", "repo": "jwt-auth", "new_stars": 8, "stars": 6321, "owner": "tymondesigns", "forks": 799},
 {"description": "Doctrine Cache component", "language": "PHP", "repo": "cache", "new_stars": 8, "stars": 2213, "owner": "doctrine", "forks": 181}
 ]

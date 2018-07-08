@@ -1,10 +1,10 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29206, "owner": "rust-lang", "forks": 5043},
-{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 25, "stars": 48, "owner": "saschagrunert", "forks": 1},
-{"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 21, "stars": 63, "owner": "atom", "forks": 1},
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 20, "stars": 1680, "owner": "harababurel", "forks": 41},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29207, "owner": "rust-lang", "forks": 5043},
+{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 25, "stars": 50, "owner": "saschagrunert", "forks": 1},
+{"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 21, "stars": 65, "owner": "atom", "forks": 1},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 20, "stars": 1681, "owner": "harababurel", "forks": 41},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 17, "stars": 2090, "owner": "runconduit", "forks": 122},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 15, "stars": 4487, "owner": "DenisKolodin", "forks": 145},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 15, "stars": 4488, "owner": "DenisKolodin", "forks": 145},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 9408, "owner": "BurntSushi", "forks": 374},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 10, "stars": 5868, "owner": "sharkdp", "forks": 149},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 10, "stars": 7438, "owner": "rust-unofficial", "forks": 474},
@@ -21,7 +21,7 @@
 {"description": "Rust building infrastructure", "language": "Rust", "repo": "rust-central-station", "new_stars": 6, "stars": 33, "owner": "rust-lang", "forks": 27},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4780, "owner": "SergioBenitez", "forks": 312},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 5, "stars": 399, "owner": "substantic", "forks": 17},
-{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 0, "stars": 1192, "owner": "autozimu", "forks": 115},
+{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 0, "stars": 1193, "owner": "autozimu", "forks": 115},
 {"description": "The Rust primer for beginners. We need native English speaker help us modify the translation.", "language": "Rust", "repo": "RustPrimer", "new_stars": 0, "stars": 943, "owner": "rustcc", "forks": 149},
 {"description": "Library for serializing the GeoJSON vector GIS file format", "language": "Rust", "repo": "rust-geojson", "new_stars": 0, "stars": 52, "owner": "georust", "forks": 20}
 ]

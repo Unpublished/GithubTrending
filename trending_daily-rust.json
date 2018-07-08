@@ -1,11 +1,11 @@
 [
-{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 129, "stars": 140, "owner": "saschagrunert", "forks": 7},
+{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 129, "stars": 143, "owner": "saschagrunert", "forks": 7},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 45, "stars": 4517, "owner": "DenisKolodin", "forks": 145},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 32, "stars": 29221, "owner": "rust-lang", "forks": 5045},
 {"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 30, "stars": 79, "owner": "atom", "forks": 1},
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 18, "stars": 1691, "owner": "harababurel", "forks": 41},
-{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 12, "stars": 2096, "owner": "runconduit", "forks": 122},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 11, "stars": 3097, "owner": "sharkdp", "forks": 50},
+{"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 12, "stars": 2097, "owner": "runconduit", "forks": 122},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 11, "stars": 3098, "owner": "sharkdp", "forks": 50},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 10, "stars": 5873, "owner": "sharkdp", "forks": 149},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9409, "owner": "BurntSushi", "forks": 374},
 {"description": "easy simd", "language": "Rust", "repo": "simdeez", "new_stars": 9, "stars": 32, "owner": "jackmott", "forks": 0},
@@ -20,7 +20,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1389, "owner": "actix", "forks": 72},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 5, "stars": 66, "owner": "vi", "forks": 4},
 {"description": "An implementation of the paper \"Honey Badger of BFT Protocols\" in Rust. This is a modular library of consensus.", "language": "Rust", "repo": "hbbft", "new_stars": 5, "stars": 53, "owner": "poanetwork", "forks": 8},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 0, "stars": 930, "owner": "Keats", "forks": 74},
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 0, "stars": 931, "owner": "Keats", "forks": 74},
 {"description": "A modular implementation of timely dataflow in Rust", "language": "Rust", "repo": "timely-dataflow", "new_stars": 0, "stars": 749, "owner": "frankmcsherry", "forks": 79},
 {"description": "OpenSSL bindings for Rust", "language": "Rust", "repo": "rust-openssl", "new_stars": 0, "stars": 387, "owner": "sfackler", "forks": 276},
 {"description": "Arena based tree", "language": "Rust", "repo": "indextree", "new_stars": 0, "stars": 102, "owner": "saschagrunert", "forks": 12}

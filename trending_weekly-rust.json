@@ -1,7 +1,7 @@
 [
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1656, "stars": 1680, "owner": "harababurel", "forks": 41},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 195, "stars": 3090, "owner": "sharkdp", "forks": 50},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 138, "stars": 29202, "owner": "rust-lang", "forks": 5043},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 138, "stars": 29202, "owner": "rust-lang", "forks": 5044},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 79, "stars": 2089, "owner": "runconduit", "forks": 122},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 79, "stars": 399, "owner": "substantic", "forks": 17},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 78, "stars": 9408, "owner": "BurntSushi", "forks": 374},
@@ -9,7 +9,7 @@
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 73, "stars": 314, "owner": "immunant", "forks": 7},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 68, "stars": 1806, "owner": "actix", "forks": 119},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 62, "stars": 4481, "owner": "DenisKolodin", "forks": 145},
-{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 61, "stars": 1403, "owner": "nebulet", "forks": 34},
+{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 61, "stars": 1404, "owner": "nebulet", "forks": 34},
 {"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 61, "stars": 61, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 51, "stars": 968, "owner": "rustwasm", "forks": 95},
 {"description": "Typed GraphQL requests and responses in Rust", "language": "Rust", "repo": "graphql-client", "new_stars": 59, "stars": 63, "owner": "tomhoule", "forks": 0},

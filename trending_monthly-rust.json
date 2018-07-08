@@ -7,10 +7,10 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 309, "stars": 1815, "owner": "actix", "forks": 119},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 309, "stars": 2098, "owner": "runconduit", "forks": 122},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 312, "stars": 315, "owner": "immunant", "forks": 7},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 302, "stars": 11085, "owner": "jwilm", "forks": 456},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 302, "stars": 11086, "owner": "jwilm", "forks": 456},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 294, "stars": 3101, "owner": "sharkdp", "forks": 50},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 286, "stars": 9411, "owner": "BurntSushi", "forks": 374},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 260, "stars": 4528, "owner": "DenisKolodin", "forks": 145},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 286, "stars": 9412, "owner": "BurntSushi", "forks": 374},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 260, "stars": 4529, "owner": "DenisKolodin", "forks": 145},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 252, "stars": 7445, "owner": "rust-unofficial", "forks": 474},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 228, "stars": 5875, "owner": "sharkdp", "forks": 149},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 217, "stars": 4782, "owner": "SergioBenitez", "forks": 312},
@@ -23,5 +23,5 @@
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 181, "stars": 3421, "owner": "mre", "forks": 408},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 163, "stars": 972, "owner": "rustwasm", "forks": 96},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 180, "stars": 906, "owner": "tantivy-search", "forks": 54},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 164, "stars": 1917, "owner": "tokio-rs", "forks": 131}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 164, "stars": 1918, "owner": "tokio-rs", "forks": 131}
 ]

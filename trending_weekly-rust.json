@@ -1,13 +1,13 @@
 [
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 688, "stars": 1723, "owner": "harababurel", "forks": 42},
-{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 278, "stars": 282, "owner": "saschagrunert", "forks": 15},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 207, "stars": 3111, "owner": "sharkdp", "forks": 51},
+{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 278, "stars": 287, "owner": "saschagrunert", "forks": 16},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 207, "stars": 3112, "owner": "sharkdp", "forks": 51},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 165, "stars": 29244, "owner": "rust-lang", "forks": 5045},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 133, "stars": 4559, "owner": "DenisKolodin", "forks": 146},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 133, "stars": 4560, "owner": "DenisKolodin", "forks": 146},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 85, "stars": 2108, "owner": "runconduit", "forks": 124},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 82, "stars": 402, "owner": "substantic", "forks": 17},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 81, "stars": 1824, "owner": "actix", "forks": 119},
-{"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 80, "stars": 88, "owner": "atom", "forks": 2},
+{"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 80, "stars": 89, "owner": "atom", "forks": 2},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 75, "stars": 11093, "owner": "jwilm", "forks": 456},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 73, "stars": 9417, "owner": "BurntSushi", "forks": 374},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 62, "stars": 7453, "owner": "rust-unofficial", "forks": 476},
@@ -21,7 +21,7 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 45, "stars": 3679, "owner": "hyperium", "forks": 587},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 39, "stars": 2286, "owner": "rust-lang", "forks": 682},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 43, "stars": 68, "owner": "vi", "forks": 4},
-{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 35, "stars": 4511, "owner": "paritytech", "forks": 922},
-{"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 40, "stars": 61, "owner": "Mathieu-Desrochers", "forks": 0},
+{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 35, "stars": 4511, "owner": "paritytech", "forks": 921},
+{"description": "Minimal working examples of Rust's unique features.", "language": "Rust", "repo": "Learning-Rust", "new_stars": 40, "stars": 62, "owner": "Mathieu-Desrochers", "forks": 0},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 35, "stars": 11958, "owner": "servo", "forks": 1918}
 ]

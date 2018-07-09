@@ -1,7 +1,7 @@
 [
-{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 160, "stars": 250, "owner": "saschagrunert", "forks": 13},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 4551, "owner": "DenisKolodin", "forks": 146},
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 32, "stars": 1718, "owner": "harababurel", "forks": 42},
+{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 160, "stars": 254, "owner": "saschagrunert", "forks": 15},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 4552, "owner": "DenisKolodin", "forks": 146},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 32, "stars": 1720, "owner": "harababurel", "forks": 42},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 29239, "owner": "rust-lang", "forks": 5045},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 14, "stars": 2107, "owner": "runconduit", "forks": 124},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 11092, "owner": "jwilm", "forks": 456},
@@ -22,6 +22,6 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1391, "owner": "actix", "forks": 72},
 {"description": "A guide for doing FFI using Rust", "language": "Rust", "repo": "rust-ffi-guide", "new_stars": 5, "stars": 94, "owner": "Michael-F-Bryan", "forks": 9},
 {"description": "easy simd", "language": "Rust", "repo": "simdeez", "new_stars": 5, "stars": 35, "owner": "jackmott", "forks": 1},
-{"description": "The Wasm-Enabled, Elfin Allocator", "language": "Rust", "repo": "wee_alloc", "new_stars": 0, "stars": 114, "owner": "rustwasm", "forks": 9},
+{"description": "The Wasm-Enabled, Elfin Allocator", "language": "Rust", "repo": "wee_alloc", "new_stars": 0, "stars": 115, "owner": "rustwasm", "forks": 9},
 {"description": "TimeZone implementations for rust-chrono from the IANA database", "language": "Rust", "repo": "chrono-tz", "new_stars": 0, "stars": 34, "owner": "chronotope", "forks": 11}
 ]

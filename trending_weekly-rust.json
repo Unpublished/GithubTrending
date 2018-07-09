@@ -1,11 +1,11 @@
 [
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1030, "stars": 1704, "owner": "harababurel", "forks": 41},
-{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 204, "stars": 212, "owner": "saschagrunert", "forks": 13},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1030, "stars": 1707, "owner": "harababurel", "forks": 41},
+{"description": "An web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 204, "stars": 217, "owner": "saschagrunert", "forks": 13},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 201, "stars": 3102, "owner": "sharkdp", "forks": 50},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 159, "stars": 29236, "owner": "rust-lang", "forks": 5046},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 113, "stars": 4539, "owner": "DenisKolodin", "forks": 145},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 113, "stars": 4540, "owner": "DenisKolodin", "forks": 145},
 {"description": "Ultralight service mesh for Kubernetes", "language": "Rust", "repo": "conduit", "new_stars": 84, "stars": 2102, "owner": "runconduit", "forks": 124},
-{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 81, "stars": 401, "owner": "substantic", "forks": 17},
+{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 81, "stars": 402, "owner": "substantic", "forks": 17},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 78, "stars": 1818, "owner": "actix", "forks": 119},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 78, "stars": 9414, "owner": "BurntSushi", "forks": 374},
 {"description": "Real-Time Conflict-Free Version Control System", "language": "Rust", "repo": "eon", "new_stars": 78, "stars": 84, "owner": "atom", "forks": 1},
@@ -23,5 +23,5 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 44, "stars": 3676, "owner": "hyperium", "forks": 587},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 42, "stars": 1405, "owner": "nebulet", "forks": 34},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 42, "stars": 67, "owner": "vi", "forks": 4},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 36, "stars": 11955, "owner": "servo", "forks": 1919}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 36, "stars": 11956, "owner": "servo", "forks": 1919}
 ]

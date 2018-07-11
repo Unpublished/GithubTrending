@@ -1,7 +1,7 @@
 [
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1748, "stars": 1748, "owner": "harababurel", "forks": 43},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 654, "stars": 29285, "owner": "rust-lang", "forks": 5049},
-{"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 548, "stars": 552, "owner": "cswinter", "forks": 8},
+{"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 548, "stars": 555, "owner": "cswinter", "forks": 8},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 385, "stars": 386, "owner": "saschagrunert", "forks": 20},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 359, "stars": 531, "owner": "Plume-org", "forks": 28},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 345, "stars": 1885, "owner": "actix", "forks": 123},
@@ -12,7 +12,7 @@
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 314, "stars": 316, "owner": "immunant", "forks": 7},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 310, "stars": 11119, "owner": "jwilm", "forks": 458},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 306, "stars": 7569, "owner": "atom", "forks": 170},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 294, "stars": 9443, "owner": "BurntSushi", "forks": 376},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 294, "stars": 9444, "owner": "BurntSushi", "forks": 376},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 252, "stars": 7467, "owner": "rust-unofficial", "forks": 477},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 228, "stars": 5891, "owner": "sharkdp", "forks": 148},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 221, "stars": 4802, "owner": "SergioBenitez", "forks": 310},

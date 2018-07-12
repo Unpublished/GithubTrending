@@ -1,6 +1,6 @@
 [
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 87, "stars": 577, "owner": "cswinter", "forks": 9},
-{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 39, "stars": 403, "owner": "saschagrunert", "forks": 21},
+{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 39, "stars": 405, "owner": "saschagrunert", "forks": 21},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 34, "stars": 44, "owner": "RustPython", "forks": 1},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 32, "stars": 4637, "owner": "DenisKolodin", "forks": 149},
 {"description": "The Linkerd2 Proxy", "language": "Rust", "repo": "linkerd2-proxy", "new_stars": 27, "stars": 55, "owner": "linkerd", "forks": 0},
@@ -10,8 +10,8 @@
 {"description": "Protocol for Asynchronous, Reliable, Secure and Efficient Consensus", "language": "Rust", "repo": "parsec", "new_stars": 18, "stars": 37, "owner": "maidsafe", "forks": 10},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 9450, "owner": "BurntSushi", "forks": 377},
 {"description": "Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.", "language": "Rust", "repo": "git-interactive-rebase-tool", "new_stars": 17, "stars": 115, "owner": "MitMaro", "forks": 4},
-{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 16, "stars": 463, "owner": "substantic", "forks": 21},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 1889, "owner": "actix", "forks": 124},
+{"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 16, "stars": 462, "owner": "substantic", "forks": 21},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 1890, "owner": "actix", "forks": 124},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 12, "stars": 998, "owner": "rustwasm", "forks": 97},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 11, "stars": 4805, "owner": "SergioBenitez", "forks": 310},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 9, "stars": 11122, "owner": "jwilm", "forks": 458},

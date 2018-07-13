@@ -1,11 +1,11 @@
 [
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 39, "stars": 4662, "owner": "DenisKolodin", "forks": 149},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 29321, "owner": "rust-lang", "forks": 5052},
-{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 32, "stars": 424, "owner": "saschagrunert", "forks": 21},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 29323, "owner": "rust-lang", "forks": 5052},
+{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 32, "stars": 424, "owner": "saschagrunert", "forks": 23},
 {"description": "Detects usage of unsafe Rust in your project and its dependencies.", "language": "Rust", "repo": "cargo-geiger", "new_stars": 23, "stars": 80, "owner": "anderejd", "forks": 3},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 22, "stars": 7592, "owner": "atom", "forks": 170},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11132, "owner": "jwilm", "forks": 458},
-{"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 15, "stars": 52, "owner": "nginxinc", "forks": 4},
+{"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 15, "stars": 55, "owner": "nginxinc", "forks": 4},
 {"description": "Protocol for Asynchronous, Reliable, Secure and Efficient Consensus", "language": "Rust", "repo": "parsec", "new_stars": 14, "stars": 49, "owner": "maidsafe", "forks": 10},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 14, "stars": 5909, "owner": "sharkdp", "forks": 149},
 {"description": "Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.", "language": "Rust", "repo": "git-interactive-rebase-tool", "new_stars": 14, "stars": 124, "owner": "MitMaro", "forks": 4},
@@ -21,7 +21,7 @@
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 8, "stars": 1002, "owner": "rustwasm", "forks": 100},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 8, "stars": 9456, "owner": "BurntSushi", "forks": 377},
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 7, "stars": 1755, "owner": "harababurel", "forks": 43},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1415, "owner": "actix", "forks": 74},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1416, "owner": "actix", "forks": 74},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 5, "stars": 764, "owner": "rustwasm", "forks": 44},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4809, "owner": "SergioBenitez", "forks": 311}
 ]

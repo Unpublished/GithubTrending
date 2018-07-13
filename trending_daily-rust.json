@@ -1,5 +1,5 @@
 [
-{"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 63, "stars": 115, "owner": "nginxinc", "forks": 5},
+{"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 63, "stars": 116, "owner": "nginxinc", "forks": 5},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 37, "stars": 4678, "owner": "DenisKolodin", "forks": 149},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 29337, "owner": "rust-lang", "forks": 5053},
 {"description": "PQProteus", "language": "Rust", "repo": "pqproteus", "new_stars": 28, "stars": 39, "owner": "wireapp", "forks": 3},
@@ -11,17 +11,17 @@
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 16, "stars": 595, "owner": "cswinter", "forks": 9},
 {"description": "Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.", "language": "Rust", "repo": "git-interactive-rebase-tool", "new_stars": 16, "stars": 132, "owner": "MitMaro", "forks": 4},
 {"description": "Detects usage of unsafe Rust in your project and its dependencies.", "language": "Rust", "repo": "cargo-geiger", "new_stars": 15, "stars": 84, "owner": "anderejd", "forks": 3},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 13, "stars": 5913, "owner": "sharkdp", "forks": 149},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 13, "stars": 5914, "owner": "sharkdp", "forks": 149},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 13, "stars": 3469, "owner": "mre", "forks": 409},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 7484, "owner": "rust-unofficial", "forks": 477},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 11, "stars": 1010, "owner": "rustwasm", "forks": 101},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 11, "stars": 9462, "owner": "BurntSushi", "forks": 379},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 7485, "owner": "rust-unofficial", "forks": 477},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 11, "stars": 1011, "owner": "rustwasm", "forks": 101},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 11, "stars": 9463, "owner": "BurntSushi", "forks": 379},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 1900, "owner": "actix", "forks": 125},
 {"description": "The Linkerd2 Proxy", "language": "Rust", "repo": "linkerd2-proxy", "new_stars": 9, "stars": 65, "owner": "linkerd", "forks": 0},
-{"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 9, "stars": 32, "owner": "polachok", "forks": 2},
+{"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 9, "stars": 33, "owner": "polachok", "forks": 2},
 {"description": "Framework for large distributed pipelines", "language": "Rust", "repo": "rain", "new_stars": 8, "stars": 470, "owner": "substantic", "forks": 21},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 8, "stars": 52, "owner": "RustPython", "forks": 1},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 7, "stars": 3154, "owner": "sharkdp", "forks": 50},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 7, "stars": 3155, "owner": "sharkdp", "forks": 50},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 7, "stars": 1418, "owner": "actix", "forks": 74},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4810, "owner": "SergioBenitez", "forks": 311}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4811, "owner": "SergioBenitez", "forks": 311}
 ]

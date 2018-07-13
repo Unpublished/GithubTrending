@@ -9,8 +9,8 @@
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 343, "stars": 343, "owner": "oxy-secure", "forks": 19},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 327, "stars": 3145, "owner": "sharkdp", "forks": 50},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 323, "stars": 1327, "owner": "gluon-lang", "forks": 71},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 315, "stars": 11132, "owner": "jwilm", "forks": 458},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 315, "stars": 7591, "owner": "atom", "forks": 170},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 315, "stars": 11133, "owner": "jwilm", "forks": 458},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 315, "stars": 7592, "owner": "atom", "forks": 170},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 315, "stars": 317, "owner": "immunant", "forks": 7},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 292, "stars": 9456, "owner": "BurntSushi", "forks": 377},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 251, "stars": 7480, "owner": "rust-unofficial", "forks": 477},
@@ -18,10 +18,10 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 218, "stars": 4808, "owner": "SergioBenitez", "forks": 310},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 215, "stars": 12991, "owner": "google", "forks": 456},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 200, "stars": 3464, "owner": "mre", "forks": 409},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 176, "stars": 1002, "owner": "rustwasm", "forks": 99},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 176, "stars": 1002, "owner": "rustwasm", "forks": 100},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 182, "stars": 11971, "owner": "servo", "forks": 1920},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 185, "stars": 913, "owner": "tantivy-search", "forks": 54},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 176, "stars": 1414, "owner": "actix", "forks": 74},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 176, "stars": 1415, "owner": "actix", "forks": 74},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 178, "stars": 318, "owner": "nannou-org", "forks": 20},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 172, "stars": 181, "owner": "Miserlou", "forks": 9}
 ]

@@ -4,12 +4,12 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 19, "stars": 3173, "owner": "sharkdp", "forks": 51},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 11154, "owner": "jwilm", "forks": 460},
 {"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 18, "stars": 133, "owner": "nginxinc", "forks": 5},
-{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 15, "stars": 447, "owner": "saschagrunert", "forks": 24},
+{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 15, "stars": 448, "owner": "saschagrunert", "forks": 24},
 {"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 11, "stars": 23, "owner": "japaric", "forks": 11},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 4692, "owner": "DenisKolodin", "forks": 150},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 4693, "owner": "DenisKolodin", "forks": 150},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 13, "stars": 1598, "owner": "habitat-sh", "forks": 251},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 12, "stars": 778, "owner": "rustwasm", "forks": 45},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 11, "stars": 1021, "owner": "rustwasm", "forks": 102},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 11, "stars": 1022, "owner": "rustwasm", "forks": 102},
 {"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 11, "stars": 44, "owner": "polachok", "forks": 3},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 10, "stars": 605, "owner": "cswinter", "forks": 9},
 {"description": "PQProteus", "language": "Rust", "repo": "pqproteus", "new_stars": 9, "stars": 48, "owner": "wireapp", "forks": 3},
@@ -22,6 +22,6 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 1906, "owner": "actix", "forks": 125},
 {"description": "Native cross platform full feature terminal based sequence editor for git interactive rebase. Written in Rust using ncurses.", "language": "Rust", "repo": "git-interactive-rebase-tool", "new_stars": 6, "stars": 138, "owner": "MitMaro", "forks": 4},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2309, "owner": "rust-lang", "forks": 687},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 5, "stars": 7601, "owner": "atom", "forks": 170},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 5, "stars": 7601, "owner": "atom", "forks": 171},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 1935, "owner": "tokio-rs", "forks": 132}
 ]

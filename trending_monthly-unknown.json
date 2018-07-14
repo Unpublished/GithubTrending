@@ -1,18 +1,18 @@
 [
-{"description": "Roadmap to becoming a React developer in 2018", "language": null, "repo": "react-developer-roadmap", "new_stars": 6267, "stars": 6271, "owner": "adam-golab", "forks": 470},
-{"description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.", "language": null, "repo": "NLP-progress", "new_stars": 4835, "stars": 4836, "owner": "sebastianruder", "forks": 549},
+{"description": "Roadmap to becoming a React developer in 2018", "language": null, "repo": "react-developer-roadmap", "new_stars": 6267, "stars": 6280, "owner": "adam-golab", "forks": 470},
+{"description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.", "language": null, "repo": "NLP-progress", "new_stars": 4835, "stars": 4839, "owner": "sebastianruder", "forks": 550},
 {"description": "\u51c6\u5907\u79cb\u62db\u5b66\u4e60\u7b14\u8bb0", "language": null, "repo": "Interview-Notebook", "new_stars": 3382, "stars": 28106, "owner": "CyC2018", "forks": 7939},
 {"description": "Build your own (insert technology here)", "language": null, "repo": "build-your-own-x", "new_stars": 3545, "stars": 35667, "owner": "danistefanovic", "forks": 2195},
 {"description": "A curated list of software and architecture related design patterns.", "language": null, "repo": "awesome-design-patterns", "new_stars": 3127, "stars": 7625, "owner": "DovAmir", "forks": 401},
 {"description": "Free logos for open source projects", "language": null, "repo": "openlogos", "new_stars": 2280, "stars": 2280, "owner": "arasatasaygin", "forks": 55},
-{"description": "Curated list of awesome lists", "language": null, "repo": "awesome", "new_stars": 1958, "stars": 88867, "owner": "sindresorhus", "forks": 11743},
-{"description": "A collection of useful .gitignore templates", "language": null, "repo": "gitignore", "new_stars": 1598, "stars": 69879, "owner": "github", "forks": 32145},
-{"description": "A book series on JavaScript.", "language": null, "repo": "You-Dont-Know-JS", "new_stars": 1606, "stars": 84829, "owner": "getify", "forks": 15859},
-{"description": "Useful Vue patterns, techniques, tips and tricks and helpful curated links.", "language": null, "repo": "vue-patterns", "new_stars": 1768, "stars": 1768, "owner": "learn-vuejs", "forks": 111},
-{"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 1454, "stars": 108217, "owner": "EbookFoundation", "forks": 27470},
+{"description": "Curated list of awesome lists", "language": null, "repo": "awesome", "new_stars": 1958, "stars": 88868, "owner": "sindresorhus", "forks": 11744},
+{"description": "A collection of useful .gitignore templates", "language": null, "repo": "gitignore", "new_stars": 1598, "stars": 69882, "owner": "github", "forks": 32144},
+{"description": "A book series on JavaScript.", "language": null, "repo": "You-Dont-Know-JS", "new_stars": 1606, "stars": 84831, "owner": "getify", "forks": 15860},
+{"description": "Useful Vue patterns, techniques, tips and tricks and helpful curated links.", "language": null, "repo": "vue-patterns", "new_stars": 1768, "stars": 1769, "owner": "learn-vuejs", "forks": 111},
+{"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 1454, "stars": 108218, "owner": "EbookFoundation", "forks": 27470},
 {"description": "A complete computer science study plan to become a software engineer.", "language": null, "repo": "coding-interview-university", "new_stars": 1361, "stars": 66222, "owner": "jwasham", "forks": 18700},
 {"description": "A curated list of awesome things related to Vue.js", "language": null, "repo": "awesome-vue", "new_stars": 1263, "stars": 35147, "owner": "vuejs", "forks": 4795},
-{"description": "Curated list of project-based tutorials", "language": null, "repo": "project-based-learning", "new_stars": 1207, "stars": 11403, "owner": "tuvtran", "forks": 1319},
+{"description": "Curated list of project-based tutorials", "language": null, "repo": "project-based-learning", "new_stars": 1207, "stars": 11403, "owner": "tuvtran", "forks": 1320},
 {"description": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.", "language": null, "repo": "awesome-flutter", "new_stars": 944, "stars": 4719, "owner": "Solido", "forks": 462},
 {"description": "Tom's Obvious, Minimal Language", "language": null, "repo": "toml", "new_stars": 818, "stars": 8591, "owner": "toml-lang", "forks": 458},
 {"description": "A list of awesome online development environments", "language": null, "repo": "awesome-online-ide", "new_stars": 767, "stars": 899, "owner": "styfle", "forks": 49},
@@ -23,5 +23,5 @@
 {"description": "The best way to write secure and reliable applications. Write nothing; deploy nowhere.", "language": null, "repo": "nocode", "new_stars": 614, "stars": 22408, "owner": "kelseyhightower", "forks": 1923},
 {"description": "A collection of awesome things regarding React ecosystem.", "language": null, "repo": "awesome-react", "new_stars": 581, "stars": 26613, "owner": "enaqx", "forks": 3003},
 {"description": "\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a", "language": null, "repo": "gold-miner", "new_stars": 540, "stars": 15030, "owner": "xitu", "forks": 2629},
-{"description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.", "language": null, "repo": "Front-end-Developer-Interview-Questions", "new_stars": 528, "stars": 35943, "owner": "h5bp", "forks": 7386}
+{"description": "A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.", "language": null, "repo": "Front-end-Developer-Interview-Questions", "new_stars": 528, "stars": 35942, "owner": "h5bp", "forks": 7386}
 ]

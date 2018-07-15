@@ -17,7 +17,7 @@
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 58, "stars": 1461, "owner": "nebulet", "forks": 34},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 57, "stars": 13005, "owner": "google", "forks": 456},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 55, "stars": 7496, "owner": "rust-unofficial", "forks": 478},
-{"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 56, "stars": 59, "owner": "rabbitstack", "forks": 2},
+{"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 56, "stars": 62, "owner": "rabbitstack", "forks": 2},
 {"description": "Detects usage of unsafe Rust in your project and its dependencies.", "language": "Rust", "repo": "cargo-geiger", "new_stars": 50, "stars": 89, "owner": "anderejd", "forks": 3},
 {"description": "Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 46, "stars": 83, "owner": "dani-garcia", "forks": 10},
 {"description": "PQProteus", "language": "Rust", "repo": "pqproteus", "new_stars": 49, "stars": 50, "owner": "wireapp", "forks": 3},

@@ -1,10 +1,10 @@
 [
-{"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 69, "stars": 89, "owner": "rabbitstack", "forks": 2},
+{"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 69, "stars": 93, "owner": "rabbitstack", "forks": 2},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 28, "stars": 11191, "owner": "jwilm", "forks": 461},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 22, "stars": 29390, "owner": "rust-lang", "forks": 5062},
-{"description": "A utf8 text rope for manipulating and editing large texts.", "language": "Rust", "repo": "ropey", "new_stars": 20, "stars": 98, "owner": "cessen", "forks": 1},
+{"description": "A utf8 text rope for manipulating and editing large texts.", "language": "Rust", "repo": "ropey", "new_stars": 20, "stars": 99, "owner": "cessen", "forks": 1},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 15, "stars": 1464, "owner": "nebulet", "forks": 34},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 4713, "owner": "DenisKolodin", "forks": 150},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 4714, "owner": "DenisKolodin", "forks": 150},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 1924, "owner": "actix", "forks": 127},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 9, "stars": 1433, "owner": "actix", "forks": 74},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 9, "stars": 1225, "owner": "rust-lang-nursery", "forks": 188},
@@ -20,7 +20,7 @@
 {"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 6, "stars": 38, "owner": "japaric", "forks": 15},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4821, "owner": "SergioBenitez", "forks": 314},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 3481, "owner": "mre", "forks": 410},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3323, "owner": "rust-lang", "forks": 786},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3324, "owner": "rust-lang", "forks": 786},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 6, "stars": 3183, "owner": "sharkdp", "forks": 51},
 {"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 6, "stars": 139, "owner": "nginxinc", "forks": 5},
 {"description": "HTTP cookie parsing and cookie jar management for rust", "language": "Rust", "repo": "cookie-rs", "new_stars": 0, "stars": 58, "owner": "alexcrichton", "forks": 60}

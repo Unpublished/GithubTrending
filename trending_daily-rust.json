@@ -1,5 +1,5 @@
 [
-{"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 150, "stars": 334, "owner": "xiph", "forks": 27},
+{"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 150, "stars": 350, "owner": "xiph", "forks": 29},
 {"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 110, "stars": 121, "owner": "rabbitstack", "forks": 3},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 22, "stars": 11201, "owner": "jwilm", "forks": 462},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 22, "stars": 4723, "owner": "DenisKolodin", "forks": 149},
@@ -9,12 +9,12 @@
 {"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 11, "stars": 46, "owner": "japaric", "forks": 14},
 {"description": "Pure Rust client for YubiHSM2 devices", "language": "Rust", "repo": "yubihsm-rs", "new_stars": 10, "stars": 26, "owner": "tendermint", "forks": 5},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9482, "owner": "BurntSushi", "forks": 379},
-{"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 9, "stars": 55, "owner": "polachok", "forks": 3},
+{"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 9, "stars": 56, "owner": "polachok", "forks": 3},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 1927, "owner": "actix", "forks": 127},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 7503, "owner": "rust-unofficial", "forks": 479},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 8, "stars": 462, "owner": "saschagrunert", "forks": 24},
 {"description": "Compile-time HTML templates for Rust", "language": "Rust", "repo": "maud", "new_stars": 8, "stars": 402, "owner": "lfairy", "forks": 31},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 11985, "owner": "servo", "forks": 1920},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 11985, "owner": "servo", "forks": 1919},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 3486, "owner": "mre", "forks": 410},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 2257, "owner": "rust-lang-nursery", "forks": 315},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 7, "stars": 1228, "owner": "rust-lang-nursery", "forks": 188},
@@ -22,6 +22,6 @@
 {"description": "NGINX Rust SDK", "language": "Rust", "repo": "ngx-rust", "new_stars": 7, "stars": 142, "owner": "nginxinc", "forks": 5},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4825, "owner": "SergioBenitez", "forks": 314},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3325, "owner": "rust-lang", "forks": 786},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 13009, "owner": "google", "forks": 458},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 13010, "owner": "google", "forks": 458},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 5, "stars": 4545, "owner": "paritytech", "forks": 933}
 ]

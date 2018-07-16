@@ -1,12 +1,12 @@
 [
-{"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 195, "stars": 382, "owner": "xiph", "forks": 30},
+{"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 195, "stars": 383, "owner": "xiph", "forks": 30},
 {"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 93, "stars": 125, "owner": "rabbitstack", "forks": 4},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 29401, "owner": "rust-lang", "forks": 5063},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 29404, "owner": "rust-lang", "forks": 5064},
 {"description": "A utf8 text rope for manipulating and editing large texts.", "language": "Rust", "repo": "ropey", "new_stars": 20, "stars": 110, "owner": "cessen", "forks": 1},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 18, "stars": 4723, "owner": "DenisKolodin", "forks": 149},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 18, "stars": 4724, "owner": "DenisKolodin", "forks": 149},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11202, "owner": "jwilm", "forks": 463},
-{"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 14, "stars": 52, "owner": "japaric", "forks": 16},
-{"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 14, "stars": 62, "owner": "polachok", "forks": 3},
+{"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 14, "stars": 53, "owner": "japaric", "forks": 16},
+{"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 14, "stars": 63, "owner": "polachok", "forks": 3},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 11, "stars": 1471, "owner": "nebulet", "forks": 34},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 10, "stars": 465, "owner": "saschagrunert", "forks": 24},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 1931, "owner": "actix", "forks": 127},
@@ -23,5 +23,5 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 13010, "owner": "google", "forks": 458},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 5, "stars": 4545, "owner": "paritytech", "forks": 933},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 1030, "owner": "rustwasm", "forks": 105},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4826, "owner": "SergioBenitez", "forks": 314}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 4826, "owner": "SergioBenitez", "forks": 315}
 ]

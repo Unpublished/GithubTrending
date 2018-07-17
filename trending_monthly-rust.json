@@ -1,16 +1,16 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 681, "stars": 29426, "owner": "rust-lang", "forks": 5067},
-{"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 629, "stars": 634, "owner": "cswinter", "forks": 9},
+{"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 629, "stars": 635, "owner": "cswinter", "forks": 9},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 476, "stars": 478, "owner": "saschagrunert", "forks": 25},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 449, "stars": 4743, "owner": "DenisKolodin", "forks": 150},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 367, "stars": 547, "owner": "Plume-org", "forks": 29},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 359, "stars": 508, "owner": "xiph", "forks": 33},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 359, "stars": 3192, "owner": "sharkdp", "forks": 51},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 351, "stars": 11214, "owner": "jwilm", "forks": 463},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 351, "stars": 11215, "owner": "jwilm", "forks": 463},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 346, "stars": 346, "owner": "oxy-secure", "forks": 19},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 337, "stars": 1942, "owner": "actix", "forks": 128},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 326, "stars": 1334, "owner": "gluon-lang", "forks": 71},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 289, "stars": 9491, "owner": "BurntSushi", "forks": 380},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 289, "stars": 9492, "owner": "BurntSushi", "forks": 380},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 271, "stars": 7613, "owner": "atom", "forks": 175},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 253, "stars": 7514, "owner": "rust-unofficial", "forks": 479},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 222, "stars": 4832, "owner": "SergioBenitez", "forks": 315},
@@ -22,6 +22,6 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 158, "stars": 2322, "owner": "rust-lang", "forks": 689},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 176, "stars": 185, "owner": "Miserlou", "forks": 9},
 {"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 150, "stars": 4553, "owner": "paritytech", "forks": 933},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 155, "stars": 1438, "owner": "actix", "forks": 75},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 155, "stars": 1438, "owner": "actix", "forks": 76},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 145, "stars": 1947, "owner": "tokio-rs", "forks": 134}
 ]

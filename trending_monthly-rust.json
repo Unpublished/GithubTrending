@@ -11,7 +11,7 @@
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 343, "stars": 494, "owner": "xiph", "forks": 33},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 326, "stars": 1334, "owner": "gluon-lang", "forks": 71},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 288, "stars": 9485, "owner": "BurntSushi", "forks": 380},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 269, "stars": 7610, "owner": "atom", "forks": 175},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 269, "stars": 7611, "owner": "atom", "forks": 175},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 252, "stars": 7512, "owner": "rust-unofficial", "forks": 479},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 224, "stars": 4831, "owner": "SergioBenitez", "forks": 314},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 204, "stars": 1033, "owner": "rustwasm", "forks": 105},
@@ -20,7 +20,7 @@
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 213, "stars": 1477, "owner": "nebulet", "forks": 34},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 183, "stars": 11996, "owner": "servo", "forks": 1919},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 176, "stars": 185, "owner": "Miserlou", "forks": 9},
-{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 151, "stars": 4551, "owner": "paritytech", "forks": 933},
+{"description": "Fast, light, robust Ethereum implementation.", "language": "Rust", "repo": "parity", "new_stars": 151, "stars": 4551, "owner": "paritytech", "forks": 934},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 154, "stars": 2318, "owner": "rust-lang", "forks": 688},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 155, "stars": 1437, "owner": "actix", "forks": 75},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 145, "stars": 1946, "owner": "tokio-rs", "forks": 132}

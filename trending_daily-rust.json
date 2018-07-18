@@ -9,10 +9,10 @@
 {"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 12, "stars": 83, "owner": "japaric", "forks": 17},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 11, "stars": 643, "owner": "cswinter", "forks": 10},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 11227, "owner": "jwilm", "forks": 463},
-{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 10, "stars": 1449, "owner": "imazen", "forks": 49},
+{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 10, "stars": 1450, "owner": "imazen", "forks": 49},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 13022, "owner": "google", "forks": 458},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 4751, "owner": "DenisKolodin", "forks": 150},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 1948, "owner": "actix", "forks": 128},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 1949, "owner": "actix", "forks": 128},
 {"description": "The fast, light, and robust Ethereum client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 8, "stars": 4558, "owner": "paritytech", "forks": 935},
 {"description": "Statistics-driven micro-benchmarking library", "language": "Rust", "repo": "criterion.rs", "new_stars": 8, "stars": 456, "owner": "japaric", "forks": 41},
 {"description": "The Linkerd2 Proxy", "language": "Rust", "repo": "linkerd2-proxy", "new_stars": 8, "stars": 79, "owner": "linkerd", "forks": 1},
@@ -23,5 +23,5 @@
 {"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 7, "stars": 149, "owner": "rabbitstack", "forks": 4},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 2323, "owner": "rust-lang", "forks": 688},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 1269, "owner": "amethyst", "forks": 130},
-{"description": "Rust binding for NGINX", "language": "Rust", "repo": "ngx-rust", "new_stars": 6, "stars": 159, "owner": "nginxinc", "forks": 4}
+{"description": "Rust binding for NGINX", "language": "Rust", "repo": "ngx-rust", "new_stars": 6, "stars": 160, "owner": "nginxinc", "forks": 4}
 ]

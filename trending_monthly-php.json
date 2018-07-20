@@ -1,7 +1,7 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 746, "stars": 44404, "owner": "laravel", "forks": 13751},
 {"description": "Perform Self-Diagnosis Tests On Your Laravel Application", "language": "PHP", "repo": "laravel-self-diagnosis", "new_stars": 595, "stars": 596, "owner": "beyondcode", "forks": 25},
-{"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 547, "stars": 547, "owner": "beyondcode", "forks": 36},
+{"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 547, "stars": 548, "owner": "beyondcode", "forks": 36},
 {"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.", "language": "PHP", "repo": "twill", "new_stars": 453, "stars": 456, "owner": "area17", "forks": 16},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 382, "stars": 13089, "owner": "laravel", "forks": 5592},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 371, "stars": 13671, "owner": "danielmiessler", "forks": 4679},
@@ -18,7 +18,7 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 294, "stars": 10650, "owner": "sebastianbergmann", "forks": 1633},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 287, "stars": 13258, "owner": "guzzle", "forks": 1770},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 296, "stars": 6981, "owner": "nikic", "forks": 510},
-{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 256, "stars": 4002, "owner": "z-song", "forks": 1132},
+{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 256, "stars": 4003, "owner": "z-song", "forks": 1132},
 {"description": "Larastan - Discover bugs in your code without running it. A Phpstan wrapper for Laravel.", "language": "PHP", "repo": "larastan", "new_stars": 282, "stars": 283, "owner": "nunomaduro", "forks": 12},
 {"description": "PHP Excel Helper - Write and read Spreadsheet with easy way based on PhpSpreadsheet", "language": "PHP", "repo": "phpspreadsheet-helper", "new_stars": 270, "stars": 273, "owner": "yidas", "forks": 11},
 {"description": "Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.", "language": "PHP", "repo": "tenancy", "new_stars": 264, "stars": 307, "owner": "tenancy", "forks": 4},

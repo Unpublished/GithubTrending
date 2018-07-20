@@ -1,10 +1,10 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 754, "stars": 44422, "owner": "laravel", "forks": 13755},
 {"description": "Perform Self-Diagnosis Tests On Your Laravel Application", "language": "PHP", "repo": "laravel-self-diagnosis", "new_stars": 602, "stars": 602, "owner": "beyondcode", "forks": 25},
-{"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 548, "stars": 548, "owner": "beyondcode", "forks": 36},
+{"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 548, "stars": 549, "owner": "beyondcode", "forks": 36},
 {"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.", "language": "PHP", "repo": "twill", "new_stars": 458, "stars": 458, "owner": "area17", "forks": 16},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 387, "stars": 13097, "owner": "laravel", "forks": 5592},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 375, "stars": 13681, "owner": "danielmiessler", "forks": 4681},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 375, "stars": 13681, "owner": "danielmiessler", "forks": 4682},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 401, "stars": 15373, "owner": "composer", "forks": 5194},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 375, "stars": 16546, "owner": "fzaninotto", "forks": 2130},
 {"description": "Bring Symfony's Var-Dump Server to Laravel", "language": "PHP", "repo": "laravel-dump-server", "new_stars": 368, "stars": 368, "owner": "beyondcode", "forks": 14},
@@ -22,6 +22,6 @@
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 256, "stars": 4010, "owner": "z-song", "forks": 1134},
 {"description": "PHP Excel Helper - Write and read Spreadsheet with easy way based on PhpSpreadsheet", "language": "PHP", "repo": "phpspreadsheet-helper", "new_stars": 270, "stars": 273, "owner": "yidas", "forks": 11},
 {"description": "Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups.", "language": "PHP", "repo": "tenancy", "new_stars": 265, "stars": 310, "owner": "tenancy", "forks": 4},
-{"description": "String manipulation, leveled up!", "language": "PHP", "repo": "Twine", "new_stars": 253, "stars": 255, "owner": "PHLAK", "forks": 8},
+{"description": "String manipulation, leveled up!", "language": "PHP", "repo": "Twine", "new_stars": 253, "stars": 256, "owner": "PHLAK", "forks": 8},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 241, "stars": 9641, "owner": "briannesbitt", "forks": 966}
 ]

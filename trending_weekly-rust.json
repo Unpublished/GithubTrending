@@ -1,12 +1,12 @@
 [
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 383, "stars": 552, "owner": "xiph", "forks": 35},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 228, "stars": 365, "owner": "nathan", "forks": 4},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 228, "stars": 368, "owner": "nathan", "forks": 4},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 155, "stars": 29488, "owner": "rust-lang", "forks": 5067},
 {"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 154, "stars": 158, "owner": "rabbitstack", "forks": 4},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 116, "stars": 11256, "owner": "jwilm", "forks": 464},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 98, "stars": 4780, "owner": "DenisKolodin", "forks": 152},
 {"description": "A port of MUSL's libm to Rust.", "language": "Rust", "repo": "libm", "new_stars": 80, "stars": 99, "owner": "japaric", "forks": 18},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 76, "stars": 1976, "owner": "actix", "forks": 129},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 76, "stars": 1977, "owner": "actix", "forks": 129},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 62, "stars": 9530, "owner": "BurntSushi", "forks": 385},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 55, "stars": 3526, "owner": "mre", "forks": 410},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 55, "stars": 657, "owner": "cswinter", "forks": 10},
@@ -21,7 +21,7 @@
 {"description": "A utf8 text rope for manipulating and editing large texts.", "language": "Rust", "repo": "ropey", "new_stars": 42, "stars": 119, "owner": "cessen", "forks": 1},
 {"description": "toy \"tokio\"", "language": "Rust", "repo": "toykio", "new_stars": 42, "stars": 83, "owner": "polachok", "forks": 3},
 {"description": "Category Theory in Rust", "language": "Rust", "repo": "ctrs", "new_stars": 41, "stars": 41, "owner": "damienstanton", "forks": 0},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 38, "stars": 4849, "owner": "SergioBenitez", "forks": 317},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 38, "stars": 4850, "owner": "SergioBenitez", "forks": 317},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 38, "stars": 13032, "owner": "google", "forks": 459},
 {"description": "Rust binding for NGINX", "language": "Rust", "repo": "ngx-rust", "new_stars": 39, "stars": 171, "owner": "nginxinc", "forks": 4}
 ]

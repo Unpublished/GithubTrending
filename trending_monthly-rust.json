@@ -1,11 +1,11 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 663, "stars": 29509, "owner": "rust-lang", "forks": 5071},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 656, "stars": 659, "owner": "cswinter", "forks": 10},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 577, "stars": 694, "owner": "nathan", "forks": 6},
-{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 501, "stars": 503, "owner": "saschagrunert", "forks": 25},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 458, "stars": 4792, "owner": "DenisKolodin", "forks": 152},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 577, "stars": 697, "owner": "nathan", "forks": 6},
+{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 501, "stars": 504, "owner": "saschagrunert", "forks": 25},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 458, "stars": 4793, "owner": "DenisKolodin", "forks": 152},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 406, "stars": 558, "owner": "xiph", "forks": 37},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 375, "stars": 11286, "owner": "jwilm", "forks": 465},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 375, "stars": 11287, "owner": "jwilm", "forks": 465},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 367, "stars": 3220, "owner": "sharkdp", "forks": 52},
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 356, "stars": 553, "owner": "Plume-org", "forks": 30},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 347, "stars": 347, "owner": "oxy-secure", "forks": 19},
@@ -20,8 +20,8 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 187, "stars": 12031, "owner": "servo", "forks": 1926},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 176, "stars": 1049, "owner": "rustwasm", "forks": 110},
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 180, "stars": 189, "owner": "Miserlou", "forks": 11},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 160, "stars": 2355, "owner": "rust-lang", "forks": 692},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 160, "stars": 2355, "owner": "rust-lang", "forks": 693},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 173, "stars": 1341, "owner": "gluon-lang", "forks": 71},
-{"description": "The fast, light, and robust Ethereum client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 151, "stars": 4574, "owner": "paritytech", "forks": 944},
+{"description": "The fast, light, and robust Ethereum client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 151, "stars": 4575, "owner": "paritytech", "forks": 944},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 171, "stars": 329, "owner": "nannou-org", "forks": 21}
 ]

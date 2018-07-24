@@ -2,7 +2,7 @@
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 665, "stars": 29522, "owner": "rust-lang", "forks": 5074},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 658, "stars": 661, "owner": "cswinter", "forks": 10},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 655, "stars": 773, "owner": "nathan", "forks": 7},
-{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 508, "stars": 510, "owner": "saschagrunert", "forks": 25},
+{"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 508, "stars": 511, "owner": "saschagrunert", "forks": 25},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 462, "stars": 4799, "owner": "DenisKolodin", "forks": 153},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 413, "stars": 564, "owner": "xiph", "forks": 37},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 385, "stars": 11298, "owner": "jwilm", "forks": 464},
@@ -10,7 +10,7 @@
 {"description": "WIP \u2014 Federated blog engine (Medium but with ActivityPub)", "language": "Rust", "repo": "Plume", "new_stars": 356, "stars": 554, "owner": "Plume-org", "forks": 30},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 349, "stars": 2006, "owner": "actix", "forks": 131},
 {"description": null, "language": "Rust", "repo": "oxy", "new_stars": 348, "stars": 348, "owner": "oxy-secure", "forks": 19},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 306, "stars": 9555, "owner": "BurntSushi", "forks": 385},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 306, "stars": 9556, "owner": "BurntSushi", "forks": 385},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 240, "stars": 7555, "owner": "rust-unofficial", "forks": 488},
 {"description": "C to Rust translation, refactoring, and cross-checking", "language": "Rust", "repo": "c2rust", "new_stars": 247, "stars": 327, "owner": "immunant", "forks": 7},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 222, "stars": 7655, "owner": "atom", "forks": 174},
@@ -23,5 +23,5 @@
 {"description": "The fast, light, and robust Ethereum client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 152, "stars": 4577, "owner": "paritytech", "forks": 944},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 170, "stars": 329, "owner": "nannou-org", "forks": 21},
 {"description": "Micro container runtime", "language": "Rust", "repo": "rabbitc", "new_stars": 164, "stars": 164, "owner": "rabbitstack", "forks": 3},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 148, "stars": 1995, "owner": "tokio-rs", "forks": 140}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 148, "stars": 1995, "owner": "tokio-rs", "forks": 139}
 ]

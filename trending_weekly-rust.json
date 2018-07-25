@@ -1,8 +1,8 @@
 [
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 768, "stars": 897, "owner": "nathan", "forks": 12},
-{"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 179, "stars": 1436, "owner": "mozilla", "forks": 59},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 153, "stars": 29562, "owner": "rust-lang", "forks": 5073},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 100, "stars": 11311, "owner": "jwilm", "forks": 464},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 768, "stars": 899, "owner": "nathan", "forks": 12},
+{"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 179, "stars": 1438, "owner": "mozilla", "forks": 59},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 153, "stars": 29563, "owner": "rust-lang", "forks": 5073},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 100, "stars": 11312, "owner": "jwilm", "forks": 464},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 84, "stars": 9579, "owner": "BurntSushi", "forks": 385},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 84, "stars": 2024, "owner": "actix", "forks": 132},
 {"description": "Curses based mediawiki browser", "language": "Rust", "repo": "taizen", "new_stars": 85, "stars": 92, "owner": "NerdyPepper", "forks": 3},
@@ -19,8 +19,8 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 44, "stars": 4877, "owner": "SergioBenitez", "forks": 317},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 43, "stars": 3231, "owner": "sharkdp", "forks": 52},
 {"description": "Audit Cargo.lock files for crates with security vulnerabilities", "language": "Rust", "repo": "cargo-audit", "new_stars": 38, "stars": 172, "owner": "RustSec", "forks": 4},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 31, "stars": 4585, "owner": "paritytech", "forks": 947},
-{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 37, "stars": 1262, "owner": "autozimu", "forks": 116},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 31, "stars": 4585, "owner": "paritytech", "forks": 948},
+{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 37, "stars": 1263, "owner": "autozimu", "forks": 116},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 36, "stars": 13052, "owner": "google", "forks": 458},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 33, "stars": 1064, "owner": "rustwasm", "forks": 111},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 33, "stars": 835, "owner": "CraneStation", "forks": 82}

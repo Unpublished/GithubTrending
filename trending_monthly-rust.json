@@ -1,6 +1,6 @@
 [
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1773, "stars": 1783, "owner": "harababurel", "forks": 51},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 796, "stars": 917, "owner": "nathan", "forks": 12},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 796, "stars": 920, "owner": "nathan", "forks": 12},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 697, "stars": 29602, "owner": "rust-lang", "forks": 5075},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 661, "stars": 664, "owner": "cswinter", "forks": 12},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 515, "stars": 517, "owner": "saschagrunert", "forks": 25},
@@ -10,8 +10,8 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 374, "stars": 3238, "owner": "sharkdp", "forks": 52},
 {"description": "Federated blogging application, thanks to ActivityPub", "language": "Rust", "repo": "Plume", "new_stars": 360, "stars": 558, "owner": "Plume-org", "forks": 30},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 355, "stars": 2036, "owner": "actix", "forks": 132},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 312, "stars": 9589, "owner": "BurntSushi", "forks": 386},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 240, "stars": 7575, "owner": "rust-unofficial", "forks": 489},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 312, "stars": 9590, "owner": "BurntSushi", "forks": 386},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 240, "stars": 7576, "owner": "rust-unofficial", "forks": 489},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 229, "stars": 1458, "owner": "mozilla", "forks": 60},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 225, "stars": 7678, "owner": "atom", "forks": 175},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 229, "stars": 1506, "owner": "nebulet", "forks": 34},
@@ -23,5 +23,5 @@
 {"description": "UNIX's missing `loop` command", "language": "Rust", "repo": "Loop", "new_stars": 181, "stars": 190, "owner": "Miserlou", "forks": 10},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 153, "stars": 4594, "owner": "paritytech", "forks": 951},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 161, "stars": 2029, "owner": "tokio-rs", "forks": 141},
-{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 143, "stars": 277, "owner": "chinedufn", "forks": 2}
+{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 143, "stars": 296, "owner": "chinedufn", "forks": 3}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 778, "stars": 906, "owner": "nathan", "forks": 12},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 196, "stars": 1453, "owner": "mozilla", "forks": 59},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 29583, "owner": "rust-lang", "forks": 5074},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 29584, "owner": "rust-lang", "forks": 5074},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 90, "stars": 11319, "owner": "jwilm", "forks": 463},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 86, "stars": 2031, "owner": "actix", "forks": 132},
 {"description": "Curses based mediawiki browser", "language": "Rust", "repo": "taizen", "new_stars": 85, "stars": 92, "owner": "NerdyPepper", "forks": 3},
@@ -12,7 +12,7 @@
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 53, "stars": 7675, "owner": "atom", "forks": 175},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 49, "stars": 2370, "owner": "rust-lang", "forks": 695},
 {"description": "Category Theory in Rust", "language": "Rust", "repo": "ctrs", "new_stars": 50, "stars": 53, "owner": "damienstanton", "forks": 1},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 44, "stars": 2007, "owner": "tokio-rs", "forks": 141},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 44, "stars": 2008, "owner": "tokio-rs", "forks": 141},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 44, "stars": 578, "owner": "xiph", "forks": 39},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 40, "stars": 12044, "owner": "servo", "forks": 1925},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 42, "stars": 3235, "owner": "sharkdp", "forks": 52},
@@ -20,7 +20,7 @@
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 36, "stars": 1069, "owner": "rustwasm", "forks": 111},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 38, "stars": 13056, "owner": "google", "forks": 458},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 31, "stars": 4589, "owner": "paritytech", "forks": 949},
-{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 37, "stars": 46, "owner": "chinedufn", "forks": 0},
+{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 37, "stars": 49, "owner": "chinedufn", "forks": 0},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 36, "stars": 1263, "owner": "autozimu", "forks": 116},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap-rs", "new_stars": 35, "stars": 2035, "owner": "kbknapp", "forks": 214},
 {"description": "A Text User Interface library for the Rust programming language", "language": "Rust", "repo": "Cursive", "new_stars": 34, "stars": 757, "owner": "gyscos", "forks": 53}

@@ -1,18 +1,18 @@
 [
-{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 495, "stars": 592, "owner": "chinedufn", "forks": 6},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 62, "stars": 2082, "owner": "tokio-rs", "forks": 143},
+{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 495, "stars": 595, "owner": "chinedufn", "forks": 6},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 62, "stars": 2083, "owner": "tokio-rs", "forks": 143},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 53, "stars": 64, "owner": "hntd187", "forks": 1},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 31, "stars": 942, "owner": "nathan", "forks": 12},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 29620, "owner": "rust-lang", "forks": 5077},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 22, "stars": 1095, "owner": "rustwasm", "forks": 113},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 31, "stars": 944, "owner": "nathan", "forks": 12},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 29621, "owner": "rust-lang", "forks": 5077},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 22, "stars": 1096, "owner": "rustwasm", "forks": 113},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 22, "stars": 4846, "owner": "DenisKolodin", "forks": 154},
-{"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 15, "stars": 1470, "owner": "mozilla", "forks": 62},
+{"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 15, "stars": 1471, "owner": "mozilla", "forks": 62},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 9602, "owner": "BurntSushi", "forks": 388},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 14, "stars": 4894, "owner": "SergioBenitez", "forks": 318},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 7590, "owner": "rust-unofficial", "forks": 491},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 13, "stars": 3251, "owner": "sharkdp", "forks": 52},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 13, "stars": 3252, "owner": "sharkdp", "forks": 52},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 2048, "owner": "actix", "forks": 132},
-{"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 10, "stars": 590, "owner": "xiph", "forks": 39},
+{"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 10, "stars": 591, "owner": "xiph", "forks": 39},
 {"description": "A pure Rust implementation of the Haml template language", "language": "Rust", "repo": "haml-rs", "new_stars": 10, "stars": 48, "owner": "jhartwell", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 9, "stars": 11331, "owner": "jwilm", "forks": 464},
 {"description": "Units of measurement -- type-safe zero-cost dimensional analysis", "language": "Rust", "repo": "uom", "new_stars": 9, "stars": 118, "owner": "iliekturtles", "forks": 6},
@@ -23,5 +23,5 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 13067, "owner": "google", "forks": 458},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1484, "owner": "actix", "forks": 76},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 5, "stars": 4598, "owner": "paritytech", "forks": 952},
-{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 5, "stars": 1510, "owner": "nebulet", "forks": 35}
+{"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 5, "stars": 1511, "owner": "nebulet", "forks": 35}
 ]

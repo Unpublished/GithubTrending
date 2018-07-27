@@ -1,12 +1,12 @@
 [
-{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 406, "stars": 443, "owner": "chinedufn", "forks": 4},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 40, "stars": 2047, "owner": "tokio-rs", "forks": 141},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 29605, "owner": "rust-lang", "forks": 5076},
+{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 406, "stars": 452, "owner": "chinedufn", "forks": 4},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 40, "stars": 2050, "owner": "tokio-rs", "forks": 141},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 29606, "owner": "rust-lang", "forks": 5076},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 26, "stars": 930, "owner": "nathan", "forks": 12},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 16, "stars": 1463, "owner": "mozilla", "forks": 61},
 {"description": "A pure Rust implementation of the Haml template language", "language": "Rust", "repo": "haml-rs", "new_stars": 16, "stars": 43, "owner": "jhartwell", "forks": 1},
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 16, "stars": 28, "owner": "hntd187", "forks": 0},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 2042, "owner": "actix", "forks": 132},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 16, "stars": 31, "owner": "hntd187", "forks": 0},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 2044, "owner": "actix", "forks": 132},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 15, "stars": 589, "owner": "xiph", "forks": 39},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 4833, "owner": "DenisKolodin", "forks": 154},
 {"description": "Units of measurement -- type-safe zero-cost dimensional analysis", "language": "Rust", "repo": "uom", "new_stars": 14, "stars": 115, "owner": "iliekturtles", "forks": 6},
@@ -23,5 +23,5 @@
 {"description": "GPGPU Framework for Rust", "language": "Rust", "repo": "accel", "new_stars": 7, "stars": 198, "owner": "termoshtt", "forks": 3},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 2375, "owner": "rust-lang", "forks": 697},
 {"description": "A project for generating C bindings from Rust code", "language": "Rust", "repo": "cbindgen", "new_stars": 6, "stars": 219, "owner": "eqrion", "forks": 39},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 1075, "owner": "rustwasm", "forks": 111}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 1076, "owner": "rustwasm", "forks": 111}
 ]

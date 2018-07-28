@@ -1,11 +1,11 @@
 [
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 157, "stars": 658, "owner": "chinedufn", "forks": 7},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 71, "stars": 2137, "owner": "tokio-rs", "forks": 145},
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 38, "stars": 79, "owner": "hntd187", "forks": 2},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 71, "stars": 2139, "owner": "tokio-rs", "forks": 145},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 38, "stars": 80, "owner": "hntd187", "forks": 2},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 29640, "owner": "rust-lang", "forks": 5078},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 26, "stars": 1104, "owner": "rustwasm", "forks": 116},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 21, "stars": 957, "owner": "nathan", "forks": 12},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 9613, "owner": "BurntSushi", "forks": 388},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 21, "stars": 958, "owner": "nathan", "forks": 12},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 9614, "owner": "BurntSushi", "forks": 388},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 18, "stars": 3257, "owner": "sharkdp", "forks": 52},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 7598, "owner": "rust-unofficial", "forks": 492},
 {"description": "cargo, make me a project", "language": "Rust", "repo": "cargo-generate", "new_stars": 13, "stars": 50, "owner": "ashleygwilliams", "forks": 9},
@@ -23,5 +23,5 @@
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 6, "stars": 811, "owner": "rustwasm", "forks": 47},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 6, "stars": 965, "owner": "Keats", "forks": 75},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 6, "stars": 2666, "owner": "neon-bindings", "forks": 104},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2052, "owner": "actix", "forks": 132}
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2053, "owner": "actix", "forks": 132}
 ]

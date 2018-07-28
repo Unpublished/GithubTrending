@@ -1,9 +1,9 @@
 [
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 1777, "stars": 1787, "owner": "harababurel", "forks": 51},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 839, "stars": 958, "owner": "nathan", "forks": 12},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 697, "stars": 29641, "owner": "rust-lang", "forks": 5078},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 697, "stars": 29642, "owner": "rust-lang", "forks": 5078},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 672, "stars": 675, "owner": "cswinter", "forks": 12},
-{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 657, "stars": 660, "owner": "chinedufn", "forks": 7},
+{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 657, "stars": 661, "owner": "chinedufn", "forks": 7},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 518, "stars": 520, "owner": "saschagrunert", "forks": 25},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 475, "stars": 4852, "owner": "DenisKolodin", "forks": 154},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 435, "stars": 592, "owner": "xiph", "forks": 39},
@@ -11,17 +11,17 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 391, "stars": 3257, "owner": "sharkdp", "forks": 52},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 349, "stars": 2054, "owner": "actix", "forks": 132},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 318, "stars": 9614, "owner": "BurntSushi", "forks": 388},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 261, "stars": 2139, "owner": "tokio-rs", "forks": 145},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 261, "stars": 2141, "owner": "tokio-rs", "forks": 145},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 246, "stars": 7599, "owner": "rust-unofficial", "forks": 492},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 249, "stars": 1478, "owner": "mozilla", "forks": 62},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 233, "stars": 1513, "owner": "nebulet", "forks": 35},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 221, "stars": 7686, "owner": "atom", "forks": 176},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 198, "stars": 1104, "owner": "rustwasm", "forks": 116},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 198, "stars": 1104, "owner": "rustwasm", "forks": 117},
 {"description": "Federated blogging application, thanks to ActivityPub", "language": "Rust", "repo": "Plume", "new_stars": 208, "stars": 562, "owner": "Plume-org", "forks": 30},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 202, "stars": 4901, "owner": "SergioBenitez", "forks": 318},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 203, "stars": 13072, "owner": "google", "forks": 458},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 197, "stars": 3559, "owner": "mre", "forks": 414},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 186, "stars": 12059, "owner": "servo", "forks": 1929},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 169, "stars": 2387, "owner": "rust-lang", "forks": 700},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 155, "stars": 4603, "owner": "paritytech", "forks": 951}
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 169, "stars": 2388, "owner": "rust-lang", "forks": 700},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 155, "stars": 4604, "owner": "paritytech", "forks": 951}
 ]

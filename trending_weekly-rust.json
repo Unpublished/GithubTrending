@@ -1,13 +1,13 @@
 [
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 702, "stars": 704, "owner": "chinedufn", "forks": 9},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 431, "stars": 969, "owner": "nathan", "forks": 12},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 226, "stars": 2210, "owner": "tokio-rs", "forks": 150},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 226, "stars": 2212, "owner": "tokio-rs", "forks": 150},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 208, "stars": 1490, "owner": "mozilla", "forks": 62},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 187, "stars": 29664, "owner": "rust-lang", "forks": 5077},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 157, "stars": 11429, "owner": "jwilm", "forks": 467},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 93, "stars": 9626, "owner": "BurntSushi", "forks": 389},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 157, "stars": 11431, "owner": "jwilm", "forks": 467},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 93, "stars": 9627, "owner": "BurntSushi", "forks": 389},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 92, "stars": 98, "owner": "hntd187", "forks": 2},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 81, "stars": 2063, "owner": "actix", "forks": 132},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 81, "stars": 2064, "owner": "actix", "forks": 132},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 78, "stars": 4859, "owner": "DenisKolodin", "forks": 154},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 73, "stars": 7609, "owner": "rust-unofficial", "forks": 492},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 67, "stars": 1108, "owner": "rustwasm", "forks": 118},
@@ -23,5 +23,5 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 38, "stars": 4608, "owner": "paritytech", "forks": 951},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 40, "stars": 13073, "owner": "google", "forks": 458},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 38, "stars": 2672, "owner": "neon-bindings", "forks": 105},
-{"description": "cargo, make me a project", "language": "Rust", "repo": "cargo-generate", "new_stars": 35, "stars": 58, "owner": "ashleygwilliams", "forks": 10}
+{"description": "cargo, make me a project", "language": "Rust", "repo": "cargo-generate", "new_stars": 35, "stars": 59, "owner": "ashleygwilliams", "forks": 10}
 ]

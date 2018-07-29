@@ -1,9 +1,9 @@
 [
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 67, "stars": 11406, "owner": "jwilm", "forks": 465},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 62, "stars": 2186, "owner": "tokio-rs", "forks": 148},
-{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 34, "stars": 686, "owner": "chinedufn", "forks": 7},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 67, "stars": 11407, "owner": "jwilm", "forks": 465},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 62, "stars": 2187, "owner": "tokio-rs", "forks": 148},
+{"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 34, "stars": 687, "owner": "chinedufn", "forks": 7},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 18, "stars": 29655, "owner": "rust-lang", "forks": 5077},
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 17, "stars": 94, "owner": "hntd187", "forks": 2},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 17, "stars": 95, "owner": "hntd187", "forks": 2},
 {"description": "Error management", "language": "Rust", "repo": "failure", "new_stars": 13, "stars": 843, "owner": "rust-lang-nursery", "forks": 70},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 2061, "owner": "actix", "forks": 132},
 {"description": "cargo, make me a project", "language": "Rust", "repo": "cargo-generate", "new_stars": 10, "stars": 57, "owner": "ashleygwilliams", "forks": 9},
@@ -13,7 +13,7 @@
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 9, "stars": 1486, "owner": "mozilla", "forks": 62},
 {"description": "2 and 3-dimensional rigid body physics engine for Rust.", "language": "Rust", "repo": "nphysics", "new_stars": 9, "stars": 553, "owner": "sebcrozet", "forks": 53},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 4904, "owner": "SergioBenitez", "forks": 319},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 7, "stars": 7692, "owner": "atom", "forks": 176},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 7, "stars": 7693, "owner": "atom", "forks": 176},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 12064, "owner": "servo", "forks": 1929},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 7, "stars": 9620, "owner": "BurntSushi", "forks": 388},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 4857, "owner": "DenisKolodin", "forks": 154},
@@ -23,5 +23,5 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 5, "stars": 3368, "owner": "rust-lang", "forks": 792},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2390, "owner": "rust-lang", "forks": 700},
 {"description": "Serverless (offline-first, merge-friendly) Information Tracker", "language": "Rust", "repo": "sit", "new_stars": 0, "stars": 393, "owner": "sit-fyi", "forks": 23},
-{"description": null, "language": "Rust", "repo": "read-process-memory", "new_stars": 0, "stars": 46, "owner": "luser", "forks": 5}
+{"description": null, "language": "Rust", "repo": "read-process-memory", "new_stars": 0, "stars": 47, "owner": "luser", "forks": 5}
 ]

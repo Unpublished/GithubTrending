@@ -1,11 +1,11 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 727, "stars": 44607, "owner": "laravel", "forks": 13810},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 727, "stars": 44608, "owner": "laravel", "forks": 13810},
 {"description": "Perform Self-Diagnosis Tests On Your Laravel Application", "language": "PHP", "repo": "laravel-self-diagnosis", "new_stars": 637, "stars": 637, "owner": "beyondcode", "forks": 30},
 {"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 611, "stars": 611, "owner": "beyondcode", "forks": 41},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 380, "stars": 13783, "owner": "danielmiessler", "forks": 4744},
 {"description": "Larastan - Discover bugs in your code without running it. A Phpstan wrapper for Laravel.", "language": "PHP", "repo": "larastan", "new_stars": 448, "stars": 455, "owner": "nunomaduro", "forks": 21},
-{"description": "Laravel N+1 Query Detector", "language": "PHP", "repo": "laravel-query-detector", "new_stars": 428, "stars": 428, "owner": "beyondcode", "forks": 25},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 372, "stars": 13201, "owner": "laravel", "forks": 5613},
+{"description": "Laravel N+1 Query Detector", "language": "PHP", "repo": "laravel-query-detector", "new_stars": 428, "stars": 429, "owner": "beyondcode", "forks": 25},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 372, "stars": 13203, "owner": "laravel", "forks": 5614},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 375, "stars": 15472, "owner": "composer", "forks": 5197},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 349, "stars": 16639, "owner": "fzaninotto", "forks": 2140},
 {"description": "Take a look into your Laravel views", "language": "PHP", "repo": "laravel-view-xray", "new_stars": 358, "stars": 358, "owner": "beyondcode", "forks": 14},
@@ -15,7 +15,7 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 297, "stars": 10756, "owner": "sebastianbergmann", "forks": 1635},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 265, "stars": 18166, "owner": "symfony", "forks": 6334},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 264, "stars": 4089, "owner": "z-song", "forks": 1150},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 274, "stars": 13348, "owner": "guzzle", "forks": 1776},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 274, "stars": 13350, "owner": "guzzle", "forks": 1776},
 {"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 215, "stars": 6662, "owner": "the-control-group", "forks": 1484},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 232, "stars": 4287, "owner": "symfony", "forks": 143},
 {"description": "Example project using Vue CLI 3 with Laravel", "language": "PHP", "repo": "laravel-vue-cli-3", "new_stars": 222, "stars": 222, "owner": "yyx990803", "forks": 10},
@@ -23,5 +23,5 @@
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 214, "stars": 5638, "owner": "swiftmailer", "forks": 691},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 202, "stars": 4811, "owner": "nextcloud", "forks": 832},
 {"description": "All Submissions you make to Magento Inc. (\u201cMagento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 145, "stars": 5906, "owner": "magento", "forks": 5001},
-{"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 202, "stars": 7723, "owner": "barryvdh", "forks": 793}
+{"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 202, "stars": 7724, "owner": "barryvdh", "forks": 793}
 ]

@@ -1,15 +1,15 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 80, "stars": 2368, "owner": "tokio-rs", "forks": 157},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 80, "stars": 2369, "owner": "tokio-rs", "forks": 158},
 {"description": "Cross-platform font loading library written in Rust", "language": "Rust", "repo": "font-kit", "new_stars": 56, "stars": 65, "owner": "pcwalton", "forks": 2},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29718, "owner": "rust-lang", "forks": 5086},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 11480, "owner": "jwilm", "forks": 469},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 11481, "owner": "jwilm", "forks": 469},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 13, "stars": 748, "owner": "chinedufn", "forks": 10},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 4881, "owner": "DenisKolodin", "forks": 154},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 11, "stars": 12084, "owner": "servo", "forks": 1931},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 11, "stars": 7708, "owner": "atom", "forks": 176},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 11, "stars": 7709, "owner": "atom", "forks": 176},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 2088, "owner": "actix", "forks": 133},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 9, "stars": 4623, "owner": "paritytech", "forks": 960},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 10, "stars": 990, "owner": "nathan", "forks": 14},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 10, "stars": 991, "owner": "nathan", "forks": 14},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9650, "owner": "BurntSushi", "forks": 392},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 7634, "owner": "rust-unofficial", "forks": 494},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 9, "stars": 1502, "owner": "mozilla", "forks": 62},
@@ -22,6 +22,6 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 4916, "owner": "SergioBenitez", "forks": 320},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 6, "stars": 1618, "owner": "habitat-sh", "forks": 252},
 {"description": "sled likes eating data: alpha modern embedded database", "language": "Rust", "repo": "sled", "new_stars": 6, "stars": 1428, "owner": "spacejam", "forks": 45},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2404, "owner": "rust-lang", "forks": 707},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2405, "owner": "rust-lang", "forks": 707},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 5, "stars": 2677, "owner": "neon-bindings", "forks": 105}
 ]

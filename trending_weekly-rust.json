@@ -1,9 +1,9 @@
 [
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 706, "stars": 767, "owner": "chinedufn", "forks": 11},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 446, "stars": 2461, "owner": "tokio-rs", "forks": 162},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 203, "stars": 11518, "owner": "jwilm", "forks": 470},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 171, "stars": 29751, "owner": "rust-lang", "forks": 5094},
-{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 118, "stars": 136, "owner": "seanmonstar", "forks": 3},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 203, "stars": 11519, "owner": "jwilm", "forks": 470},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 171, "stars": 29752, "owner": "rust-lang", "forks": 5094},
+{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 118, "stars": 138, "owner": "seanmonstar", "forks": 3},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 100, "stars": 106, "owner": "hntd187", "forks": 2},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 88, "stars": 9670, "owner": "BurntSushi", "forks": 393},
 {"description": "Cross-platform font loading library written in Rust", "language": "Rust", "repo": "font-kit", "new_stars": 83, "stars": 90, "owner": "pcwalton", "forks": 2},
@@ -19,9 +19,9 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 48, "stars": 12089, "owner": "servo", "forks": 1932},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 43, "stars": 2412, "owner": "rust-lang", "forks": 708},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 37, "stars": 4627, "owner": "paritytech", "forks": 964},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 39, "stars": 3435, "owner": "pingcap", "forks": 451},
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 39, "stars": 3436, "owner": "pingcap", "forks": 451},
 {"description": "A command-line tool to submit links to various social platforms", "language": "Rust", "repo": "hello", "new_stars": 43, "stars": 45, "owner": "hello-rust", "forks": 2},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 40, "stars": 13090, "owner": "google", "forks": 459},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 40, "stars": 13091, "owner": "google", "forks": 459},
 {"description": "cargo, make me a project", "language": "Rust", "repo": "cargo-generate", "new_stars": 38, "stars": 67, "owner": "ashleygwilliams", "forks": 10},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 36, "stars": 3582, "owner": "mre", "forks": 417}
 ]

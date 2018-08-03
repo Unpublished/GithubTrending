@@ -1,16 +1,16 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 440, "stars": 2521, "owner": "tokio-rs", "forks": 162},
-{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 263, "stars": 266, "owner": "seanmonstar", "forks": 10},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 440, "stars": 2522, "owner": "tokio-rs", "forks": 162},
+{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 263, "stars": 267, "owner": "seanmonstar", "forks": 10},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 210, "stars": 11533, "owner": "jwilm", "forks": 471},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 170, "stars": 29777, "owner": "rust-lang", "forks": 5094},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 179, "stars": 772, "owner": "chinedufn", "forks": 11},
-{"description": "fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)", "language": "Rust", "repo": "fcat", "new_stars": 85, "stars": 86, "owner": "mre", "forks": 2},
+{"description": "fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)", "language": "Rust", "repo": "fcat", "new_stars": 85, "stars": 87, "owner": "mre", "forks": 2},
 {"description": "Cross-platform font loading library written in Rust", "language": "Rust", "repo": "font-kit", "new_stars": 84, "stars": 91, "owner": "pcwalton", "forks": 2},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 80, "stars": 9676, "owner": "BurntSushi", "forks": 393},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 77, "stars": 7753, "owner": "atom", "forks": 178},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 73, "stars": 7660, "owner": "rust-unofficial", "forks": 496},
-{"description": "Graph Node indexes data from immutable datasources and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 75, "stars": 75, "owner": "graphprotocol", "forks": 4},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 67, "stars": 2111, "owner": "actix", "forks": 138},
+{"description": "Graph Node indexes data from immutable datasources and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 75, "stars": 79, "owner": "graphprotocol", "forks": 4},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 67, "stars": 2112, "owner": "actix", "forks": 138},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 55, "stars": 4896, "owner": "DenisKolodin", "forks": 155},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 51, "stars": 4941, "owner": "SergioBenitez", "forks": 324},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 49, "stars": 12101, "owner": "servo", "forks": 1933},
@@ -23,5 +23,5 @@
 {"description": "Curses based mediawiki browser", "language": "Rust", "repo": "taizen", "new_stars": 43, "stars": 134, "owner": "NerdyPepper", "forks": 4},
 {"description": "A command-line tool to submit links to various social platforms", "language": "Rust", "repo": "hello", "new_stars": 43, "stars": 45, "owner": "hello-rust", "forks": 2},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 42, "stars": 1512, "owner": "mozilla", "forks": 62},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 37, "stars": 13097, "owner": "google", "forks": 459}
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 37, "stars": 13098, "owner": "google", "forks": 459}
 ]

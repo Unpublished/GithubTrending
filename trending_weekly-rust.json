@@ -1,9 +1,9 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 445, "stars": 2491, "owner": "tokio-rs", "forks": 161},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 445, "stars": 2493, "owner": "tokio-rs", "forks": 161},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 334, "stars": 770, "owner": "chinedufn", "forks": 11},
-{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 215, "stars": 228, "owner": "seanmonstar", "forks": 7},
+{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 215, "stars": 231, "owner": "seanmonstar", "forks": 7},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 208, "stars": 11527, "owner": "jwilm", "forks": 471},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 29768, "owner": "rust-lang", "forks": 5094},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 29769, "owner": "rust-lang", "forks": 5094},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 87, "stars": 9674, "owner": "BurntSushi", "forks": 393},
 {"description": "Cross-platform font loading library written in Rust", "language": "Rust", "repo": "font-kit", "new_stars": 84, "stars": 91, "owner": "pcwalton", "forks": 2},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 78, "stars": 7654, "owner": "rust-unofficial", "forks": 496},
@@ -20,7 +20,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 43, "stars": 2418, "owner": "rust-lang", "forks": 709},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 47, "stars": 1509, "owner": "mozilla", "forks": 62},
 {"description": "A command-line tool to submit links to various social platforms", "language": "Rust", "repo": "hello", "new_stars": 43, "stars": 45, "owner": "hello-rust", "forks": 2},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 37, "stars": 3437, "owner": "pingcap", "forks": 453},
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 37, "stars": 3438, "owner": "pingcap", "forks": 453},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 37, "stars": 13092, "owner": "google", "forks": 459},
 {"description": "Curses based mediawiki browser", "language": "Rust", "repo": "taizen", "new_stars": 38, "stars": 129, "owner": "NerdyPepper", "forks": 4},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 36, "stars": 3584, "owner": "mre", "forks": 417}

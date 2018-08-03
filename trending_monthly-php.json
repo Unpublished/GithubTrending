@@ -1,14 +1,14 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 793, "stars": 44719, "owner": "laravel", "forks": 13849},
-{"description": "Perform Self-Diagnosis Tests On Your Laravel Application", "language": "PHP", "repo": "laravel-self-diagnosis", "new_stars": 648, "stars": 648, "owner": "beyondcode", "forks": 33},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 793, "stars": 44719, "owner": "laravel", "forks": 13848},
+{"description": "Perform Self-Diagnosis Tests On Your Laravel Application", "language": "PHP", "repo": "laravel-self-diagnosis", "new_stars": 648, "stars": 649, "owner": "beyondcode", "forks": 33},
 {"description": "Generate entity relation diagrams from your Laravel model files.", "language": "PHP", "repo": "laravel-er-diagram-generator", "new_stars": 621, "stars": 621, "owner": "beyondcode", "forks": 41},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 400, "stars": 13835, "owner": "danielmiessler", "forks": 4782},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 404, "stars": 13258, "owner": "laravel", "forks": 5621},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 404, "stars": 13258, "owner": "laravel", "forks": 5620},
 {"description": "Laravel N+1 Query Detector", "language": "PHP", "repo": "laravel-query-detector", "new_stars": 443, "stars": 444, "owner": "beyondcode", "forks": 26},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 397, "stars": 15523, "owner": "composer", "forks": 5203},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 381, "stars": 16699, "owner": "fzaninotto", "forks": 2145},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 381, "stars": 16700, "owner": "fzaninotto", "forks": 2145},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 335, "stars": 3592, "owner": "PHPOffice", "forks": 602},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 356, "stars": 11126, "owner": "Seldaek", "forks": 1381},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 356, "stars": 11127, "owner": "Seldaek", "forks": 1381},
 {"description": "Larastan - Discover bugs in your code without running it. A Phpstan wrapper for Laravel.", "language": "PHP", "repo": "larastan", "new_stars": 350, "stars": 484, "owner": "nunomaduro", "forks": 21},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 332, "stars": 4387, "owner": "phpstan", "forks": 289},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 304, "stars": 4149, "owner": "z-song", "forks": 1156},
@@ -22,6 +22,6 @@
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 242, "stars": 4178, "owner": "spatie", "forks": 565},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 187, "stars": 11505, "owner": "PHPMailer", "forks": 6350},
 {"description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.", "language": "PHP", "repo": "labs", "new_stars": 186, "stars": 5908, "owner": "docker", "forks": 2364},
-{"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 223, "stars": 6689, "owner": "the-control-group", "forks": 1493},
+{"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 223, "stars": 6688, "owner": "the-control-group", "forks": 1493},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 247, "stars": 4319, "owner": "symfony", "forks": 142}
 ]

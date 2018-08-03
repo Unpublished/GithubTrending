@@ -1,10 +1,10 @@
 [
 {"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 189, "stars": 235, "owner": "seanmonstar", "forks": 7},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 55, "stars": 2494, "owner": "tokio-rs", "forks": 161},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29769, "owner": "rust-lang", "forks": 5094},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 29770, "owner": "rust-lang", "forks": 5095},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 23, "stars": 11527, "owner": "jwilm", "forks": 471},
 {"description": "fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)", "language": "Rust", "repo": "fcat", "new_stars": 23, "stars": 80, "owner": "mre", "forks": 1},
-{"description": "Graph Node indexes data from immutable datasources and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 21, "stars": 69, "owner": "graphprotocol", "forks": 3},
+{"description": "Graph Node indexes data from immutable datasources and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 21, "stars": 70, "owner": "graphprotocol", "forks": 3},
 {"description": "Curses based mediawiki browser", "language": "Rust", "repo": "taizen", "new_stars": 19, "stars": 129, "owner": "NerdyPepper", "forks": 4},
 {"description": "Vagga is a containerization tool without daemons", "language": "Rust", "repo": "vagga", "new_stars": 15, "stars": 1451, "owner": "tailhook", "forks": 76},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 7654, "owner": "rust-unofficial", "forks": 496},
@@ -22,6 +22,6 @@
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 5, "stars": 408, "owner": "greshake", "forks": 66},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 5, "stars": 2308, "owner": "rust-lang-nursery", "forks": 320},
 {"description": "Rust language bindings for TensorFlow", "language": "Rust", "repo": "rust", "new_stars": 5, "stars": 1234, "owner": "tensorflow", "forks": 140},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 5, "stars": 4890, "owner": "DenisKolodin", "forks": 155},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 5, "stars": 4891, "owner": "DenisKolodin", "forks": 155},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 5, "stars": 3584, "owner": "mre", "forks": 417}
 ]

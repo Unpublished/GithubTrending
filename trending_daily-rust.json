@@ -1,13 +1,13 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 51, "stars": 2633, "owner": "tokio-rs", "forks": 170},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 51, "stars": 2634, "owner": "tokio-rs", "forks": 170},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 25, "stars": 1006, "owner": "Keats", "forks": 80},
 {"description": "Pokemon-inspired game created using Rust for terminals which support ANSI escape commands.", "language": "Rust", "repo": "Asciimon", "new_stars": 24, "stars": 49, "owner": "Hopson97", "forks": 3},
 {"description": "Dora VM", "language": "Rust", "repo": "dora", "new_stars": 22, "stars": 162, "owner": "dinfuehr", "forks": 3},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 17, "stars": 29811, "owner": "rust-lang", "forks": 5100},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 17, "stars": 29812, "owner": "rust-lang", "forks": 5100},
 {"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 15, "stars": 306, "owner": "seanmonstar", "forks": 14},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 4907, "owner": "DenisKolodin", "forks": 157},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 7, "stars": 6009, "owner": "sharkdp", "forks": 153},
-{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 7, "stars": 342, "owner": "nannou-org", "forks": 22},
+{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 7, "stars": 343, "owner": "nannou-org", "forks": 22},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 6, "stars": 9693, "owner": "BurntSushi", "forks": 397},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 1299, "owner": "amethyst", "forks": 135},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 1154, "owner": "rustwasm", "forks": 121},
@@ -23,5 +23,5 @@
 {"description": "OpenSSL bindings for Rust", "language": "Rust", "repo": "rust-openssl", "new_stars": 0, "stars": 397, "owner": "sfackler", "forks": 282},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 0, "stars": 24, "owner": "CraneStation", "forks": 6},
 {"description": "Rust implementation of Project Fluent", "language": "Rust", "repo": "fluent-rs", "new_stars": 0, "stars": 163, "owner": "projectfluent", "forks": 15},
-{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 0, "stars": 2685, "owner": "neon-bindings", "forks": 107}
+{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 0, "stars": 2686, "owner": "neon-bindings", "forks": 107}
 ]

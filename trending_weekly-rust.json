@@ -1,15 +1,15 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 415, "stars": 2630, "owner": "tokio-rs", "forks": 170},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 415, "stars": 2633, "owner": "tokio-rs", "forks": 170},
 {"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 303, "stars": 306, "owner": "seanmonstar", "forks": 14},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 29810, "owner": "rust-lang", "forks": 5100},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 115, "stars": 11543, "owner": "jwilm", "forks": 473},
 {"description": "fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)", "language": "Rust", "repo": "fcat", "new_stars": 97, "stars": 97, "owner": "mre", "forks": 4},
 {"description": "Graph Node indexes data from immutable datasources and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 86, "stars": 86, "owner": "graphprotocol", "forks": 4},
 {"description": "Cross-platform font loading library written in Rust", "language": "Rust", "repo": "font-kit", "new_stars": 84, "stars": 91, "owner": "pcwalton", "forks": 2},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 72, "stars": 9692, "owner": "BurntSushi", "forks": 397},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 72, "stars": 9693, "owner": "BurntSushi", "forks": 397},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 71, "stars": 775, "owner": "chinedufn", "forks": 12},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 70, "stars": 7760, "owner": "atom", "forks": 179},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 68, "stars": 2131, "owner": "actix", "forks": 139},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 68, "stars": 2133, "owner": "actix", "forks": 139},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 65, "stars": 7671, "owner": "rust-unofficial", "forks": 495},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 56, "stars": 652, "owner": "xiph", "forks": 42},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 54, "stars": 4907, "owner": "DenisKolodin", "forks": 157},
@@ -23,5 +23,5 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 34, "stars": 4638, "owner": "paritytech", "forks": 964},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 39, "stars": 13101, "owner": "google", "forks": 459},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 32, "stars": 3446, "owner": "pingcap", "forks": 456},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 34, "stars": 3592, "owner": "mre", "forks": 419}
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 34, "stars": 3593, "owner": "mre", "forks": 419}
 ]

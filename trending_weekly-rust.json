@@ -1,13 +1,13 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 397, "stars": 2725, "owner": "tokio-rs", "forks": 175},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 397, "stars": 2726, "owner": "tokio-rs", "forks": 175},
 {"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 326, "stars": 330, "owner": "seanmonstar", "forks": 17},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 170, "stars": 29854, "owner": "rust-lang", "forks": 5102},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 170, "stars": 29855, "owner": "rust-lang", "forks": 5102},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 102, "stars": 1392, "owner": "amethyst", "forks": 140},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 101, "stars": 11567, "owner": "jwilm", "forks": 474},
 {"description": "fcat (short for fastcat) - A faster implementation of cat using splice (Linux and Android only)", "language": "Rust", "repo": "fcat", "new_stars": 102, "stars": 103, "owner": "mre", "forks": 4},
 {"description": "Graph Node indexes data from immutable datasources and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 89, "stars": 89, "owner": "graphprotocol", "forks": 5},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 82, "stars": 9720, "owner": "BurntSushi", "forks": 399},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 75, "stars": 2155, "owner": "actix", "forks": 141},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 82, "stars": 9722, "owner": "BurntSushi", "forks": 399},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 75, "stars": 2157, "owner": "actix", "forks": 141},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 71, "stars": 7768, "owner": "atom", "forks": 178},
 {"description": "Dora VM", "language": "Rust", "repo": "dora", "new_stars": 68, "stars": 210, "owner": "dinfuehr", "forks": 5},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 61, "stars": 662, "owner": "xiph", "forks": 42},
@@ -21,7 +21,7 @@
 {"description": "Cross-platform font loading library written in Rust", "language": "Rust", "repo": "font-kit", "new_stars": 49, "stars": 92, "owner": "pcwalton", "forks": 2},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 38, "stars": 3462, "owner": "tikv", "forks": 461},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 43, "stars": 785, "owner": "chinedufn", "forks": 13},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 40, "stars": 12113, "owner": "servo", "forks": 1934},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 40, "stars": 12113, "owner": "servo", "forks": 1935},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 40, "stars": 1159, "owner": "rustwasm", "forks": 123},
 {"description": "Vagga is a containerization tool without daemons", "language": "Rust", "repo": "vagga", "new_stars": 39, "stars": 1470, "owner": "tailhook", "forks": 76}
 ]

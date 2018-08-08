@@ -1,8 +1,8 @@
 [
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 939, "stars": 1058, "owner": "nathan", "forks": 15},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 883, "stars": 2793, "owner": "tokio-rs", "forks": 181},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 883, "stars": 2794, "owner": "tokio-rs", "forks": 181},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 788, "stars": 788, "owner": "chinedufn", "forks": 13},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 736, "stars": 29869, "owner": "rust-lang", "forks": 5107},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 736, "stars": 29870, "owner": "rust-lang", "forks": 5107},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 702, "stars": 705, "owner": "cswinter", "forks": 13},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 546, "stars": 11595, "owner": "jwilm", "forks": 475},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 504, "stars": 665, "owner": "xiph", "forks": 42},
@@ -21,7 +21,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 171, "stars": 2447, "owner": "rust-lang", "forks": 721},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 182, "stars": 13107, "owner": "google", "forks": 460},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 157, "stars": 4647, "owner": "paritytech", "forks": 975},
-{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 169, "stars": 1419, "owner": "amethyst", "forks": 143},
+{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 169, "stars": 1419, "owner": "amethyst", "forks": 144},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 170, "stars": 6028, "owner": "sharkdp", "forks": 153},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 131, "stars": 3465, "owner": "tikv", "forks": 464}
 ]

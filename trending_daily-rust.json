@@ -1,13 +1,13 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 54, "stars": 2761, "owner": "tokio-rs", "forks": 176},
-{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 33, "stars": 1406, "owner": "amethyst", "forks": 142},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 24, "stars": 9736, "owner": "BurntSushi", "forks": 399},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 54, "stars": 2763, "owner": "tokio-rs", "forks": 176},
+{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 33, "stars": 1407, "owner": "amethyst", "forks": 142},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 24, "stars": 9737, "owner": "BurntSushi", "forks": 399},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 22, "stars": 1054, "owner": "nathan", "forks": 15},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 29860, "owner": "rust-lang", "forks": 5104},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11576, "owner": "jwilm", "forks": 474},
-{"description": "Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.", "language": "Rust", "repo": "rust-sgx-sdk", "new_stars": 16, "stars": 366, "owner": "baidu", "forks": 51},
-{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 15, "stars": 341, "owner": "seanmonstar", "forks": 17},
-{"description": "Dora VM", "language": "Rust", "repo": "dora", "new_stars": 15, "stars": 218, "owner": "dinfuehr", "forks": 5},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 29862, "owner": "rust-lang", "forks": 5104},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11577, "owner": "jwilm", "forks": 474},
+{"description": "Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.", "language": "Rust", "repo": "rust-sgx-sdk", "new_stars": 16, "stars": 368, "owner": "baidu", "forks": 51},
+{"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 15, "stars": 342, "owner": "seanmonstar", "forks": 17},
+{"description": "Dora VM", "language": "Rust", "repo": "dora", "new_stars": 15, "stars": 219, "owner": "dinfuehr", "forks": 5},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 12, "stars": 1884, "owner": "gfx-rs", "forks": 266},
 {"description": "Generate structured man pages", "language": "Rust", "repo": "man", "new_stars": 12, "stars": 48, "owner": "rust-clique", "forks": 4},
 {"description": "Atomically updatable Arc implementation using crossbeam-epoch for memory reclamation.", "language": "Rust", "repo": "crossbeam-arccell", "new_stars": 12, "stars": 28, "owner": "k3d3", "forks": 2},
@@ -22,6 +22,6 @@
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 6, "stars": 1026, "owner": "Keats", "forks": 82},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 6, "stars": 7683, "owner": "rust-unofficial", "forks": 495},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 6, "stars": 1528, "owner": "nebulet", "forks": 34},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1522, "owner": "actix", "forks": 82},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 3462, "owner": "tikv", "forks": 462}
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1523, "owner": "actix", "forks": 82},
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 3463, "owner": "tikv", "forks": 462}
 ]

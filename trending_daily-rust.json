@@ -1,9 +1,9 @@
 [
 {"description": null, "language": "Rust", "repo": "xori", "new_stars": 64, "stars": 183, "owner": "endgameinc", "forks": 20},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 65, "stars": 68, "owner": "carllerche", "forks": 2},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 61, "stars": 2905, "owner": "tokio-rs", "forks": 186},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 61, "stars": 2907, "owner": "tokio-rs", "forks": 186},
 {"description": "A super-easy, composable, web framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 25, "stars": 403, "owner": "seanmonstar", "forks": 22},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 22, "stars": 29905, "owner": "rust-lang", "forks": 5113},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 22, "stars": 29906, "owner": "rust-lang", "forks": 5114},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 24, "stars": 11641, "owner": "jwilm", "forks": 477},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 14, "stars": 972, "owner": "tantivy-search", "forks": 56},
 {"description": "A crate for demangling C++ symbols", "language": "Rust", "repo": "cpp_demangle", "new_stars": 10, "stars": 142, "owner": "gimli-rs", "forks": 12},
@@ -17,11 +17,11 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 6, "stars": 9756, "owner": "BurntSushi", "forks": 401},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 5, "stars": 2918, "owner": "diesel-rs", "forks": 294},
 {"description": "Redis library for rust", "language": "Rust", "repo": "redis-rs", "new_stars": 6, "stars": 842, "owner": "mitsuhiko", "forks": 119},
-{"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 6, "stars": 338, "owner": "tower-rs", "forks": 14},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 5, "stars": 1892, "owner": "gfx-rs", "forks": 267},
+{"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 6, "stars": 339, "owner": "tower-rs", "forks": 14},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 5, "stars": 1893, "owner": "gfx-rs", "forks": 267},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 5, "stars": 1294, "owner": "rust-lang-nursery", "forks": 197},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 13111, "owner": "google", "forks": 460},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1539, "owner": "actix", "forks": 82},
 {"description": "A Constrained Application Protocol(CoAP) library implemented in Rust.", "language": "Rust", "repo": "coap-rs", "new_stars": 0, "stars": 43, "owner": "Covertness", "forks": 8},
-{"description": "Prometheus instrumentation library for Rust applications", "language": "Rust", "repo": "rust-prometheus", "new_stars": 0, "stars": 149, "owner": "pingcap", "forks": 27}
+{"description": "Prometheus instrumentation library for Rust applications", "language": "Rust", "repo": "rust-prometheus", "new_stars": 0, "stars": 150, "owner": "pingcap", "forks": 27}
 ]

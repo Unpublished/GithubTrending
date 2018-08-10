@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 381, "stars": 2907, "owner": "tokio-rs", "forks": 189},
-{"description": null, "language": "Rust", "repo": "xori", "new_stars": 184, "stars": 193, "owner": "endgameinc", "forks": 20},
+{"description": null, "language": "Rust", "repo": "xori", "new_stars": 184, "stars": 193, "owner": "endgameinc", "forks": 22},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 157, "stars": 29913, "owner": "rust-lang", "forks": 5114},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 145, "stars": 1434, "owner": "amethyst", "forks": 143},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 133, "stars": 408, "owner": "seanmonstar", "forks": 22},
@@ -17,8 +17,8 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 42, "stars": 4979, "owner": "SergioBenitez", "forks": 324},
 {"description": "Pokemon-inspired game created using Rust for terminals which support ANSI escape commands.", "language": "Rust", "repo": "Asciimon", "new_stars": 42, "stars": 65, "owner": "Hopson97", "forks": 4},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 37, "stars": 12132, "owner": "servo", "forks": 1940},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 41, "stars": 1904, "owner": "gfx-rs", "forks": 267},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 33, "stars": 4665, "owner": "paritytech", "forks": 976},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 41, "stars": 1905, "owner": "gfx-rs", "forks": 267},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 33, "stars": 4665, "owner": "paritytech", "forks": 977},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 37, "stars": 3623, "owner": "mre", "forks": 423},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 32, "stars": 3471, "owner": "tikv", "forks": 463},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 32, "stars": 1171, "owner": "rustwasm", "forks": 130},

@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 294, "stars": 2916, "owner": "tokio-rs", "forks": 189},
-{"description": null, "language": "Rust", "repo": "xori", "new_stars": 247, "stars": 254, "owner": "endgameinc", "forks": 24},
+{"description": null, "language": "Rust", "repo": "xori", "new_stars": 247, "stars": 258, "owner": "endgameinc", "forks": 24},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 160, "stars": 29943, "owner": "rust-lang", "forks": 5114},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 150, "stars": 1445, "owner": "amethyst", "forks": 145},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 139, "stars": 13229, "owner": "google", "forks": 463},
@@ -13,7 +13,7 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 62, "stars": 2189, "owner": "actix", "forks": 145},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 54, "stars": 4957, "owner": "DenisKolodin", "forks": 159},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 49, "stars": 12145, "owner": "servo", "forks": 1940},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 49, "stars": 7718, "owner": "rust-unofficial", "forks": 499},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 49, "stars": 7719, "owner": "rust-unofficial", "forks": 499},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 2464, "owner": "rust-lang", "forks": 727},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 44, "stars": 885, "owner": "CraneStation", "forks": 85},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 42, "stars": 1043, "owner": "Keats", "forks": 85},

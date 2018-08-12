@@ -1,11 +1,11 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 779, "stars": 44913, "owner": "laravel", "forks": 13889},
-{"description": "Laravel N+1 Query Detector", "language": "PHP", "repo": "laravel-query-detector", "new_stars": 476, "stars": 478, "owner": "beyondcode", "forks": 25},
+{"description": "Laravel N+1 Query Detector", "language": "PHP", "repo": "laravel-query-detector", "new_stars": 476, "stars": 480, "owner": "beyondcode", "forks": 25},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 394, "stars": 13368, "owner": "laravel", "forks": 5655},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 396, "stars": 16830, "owner": "fzaninotto", "forks": 2155},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 395, "stars": 15638, "owner": "composer", "forks": 5211},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 343, "stars": 11223, "owner": "Seldaek", "forks": 1390},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 314, "stars": 3681, "owner": "PHPOffice", "forks": 621},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 314, "stars": 3682, "owner": "PHPOffice", "forks": 621},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 331, "stars": 10897, "owner": "sebastianbergmann", "forks": 1636},
 {"description": "Larastan - Discover bugs in your code without running it. A Phpstan wrapper for Laravel.", "language": "PHP", "repo": "larastan", "new_stars": 311, "stars": 515, "owner": "nunomaduro", "forks": 25},
 {"description": "Example project using Vue CLI 3 with Laravel", "language": "PHP", "repo": "laravel-vue-cli-3", "new_stars": 311, "stars": 311, "owner": "yyx990803", "forks": 13},
@@ -13,7 +13,7 @@
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 283, "stars": 4212, "owner": "z-song", "forks": 1180},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 308, "stars": 7193, "owner": "nikic", "forks": 516},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 295, "stars": 4451, "owner": "phpstan", "forks": 289},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 290, "stars": 13469, "owner": "guzzle", "forks": 1789},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 290, "stars": 13470, "owner": "guzzle", "forks": 1790},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 254, "stars": 18262, "owner": "symfony", "forks": 6350},
 {"description": "This component provides a partial, native PHP implementation for the Ctype extension.", "language": "PHP", "repo": "polyfill-ctype", "new_stars": 270, "stars": 880, "owner": "symfony", "forks": 0},
 {"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 265, "stars": 6383, "owner": "ramsey", "forks": 267},
@@ -22,6 +22,6 @@
 {"description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.", "language": "PHP", "repo": "labs", "new_stars": 193, "stars": 5959, "owner": "docker", "forks": 2390},
 {"description": null, "language": "PHP", "repo": "simple-cache", "new_stars": 249, "stars": 3957, "owner": "php-fig", "forks": 16},
 {"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 242, "stars": 4147, "owner": "symfony", "forks": 187},
-{"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 231, "stars": 5737, "owner": "swiftmailer", "forks": 691},
+{"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 231, "stars": 5738, "owner": "swiftmailer", "forks": 691},
 {"description": "All Submissions you make to Magento Inc. (\u201cMagento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 140, "stars": 5945, "owner": "magento", "forks": 5100}
 ]

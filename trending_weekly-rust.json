@@ -1,11 +1,11 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 308, "stars": 2914, "owner": "tokio-rs", "forks": 189},
 {"description": null, "language": "Rust", "repo": "xori", "new_stars": 241, "stars": 242, "owner": "endgameinc", "forks": 24},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 155, "stars": 29936, "owner": "rust-lang", "forks": 5114},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 155, "stars": 29937, "owner": "rust-lang", "forks": 5114},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 150, "stars": 1444, "owner": "amethyst", "forks": 145},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 128, "stars": 11659, "owner": "jwilm", "forks": 478},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 117, "stars": 418, "owner": "seanmonstar", "forks": 22},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 106, "stars": 13196, "owner": "google", "forks": 462},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 106, "stars": 13200, "owner": "google", "forks": 462},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 106, "stars": 106, "owner": "carllerche", "forks": 3},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 77, "stars": 9763, "owner": "BurntSushi", "forks": 404},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 75, "stars": 1938, "owner": "gfx-rs", "forks": 267},
@@ -20,7 +20,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 39, "stars": 2464, "owner": "rust-lang", "forks": 726},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 41, "stars": 991, "owner": "tantivy-search", "forks": 57},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 34, "stars": 4670, "owner": "paritytech", "forks": 979},
-{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 40, "stars": 881, "owner": "CraneStation", "forks": 85},
+{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 40, "stars": 882, "owner": "CraneStation", "forks": 85},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 39, "stars": 4983, "owner": "SergioBenitez", "forks": 324},
 {"description": "Generate structured man pages", "language": "Rust", "repo": "man", "new_stars": 38, "stars": 52, "owner": "rust-clique", "forks": 4},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 34, "stars": 3623, "owner": "mre", "forks": 424}

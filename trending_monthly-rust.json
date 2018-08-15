@@ -1,7 +1,7 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 995, "stars": 2929, "owner": "tokio-rs", "forks": 190},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 812, "stars": 813, "owner": "chinedufn", "forks": 14},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 699, "stars": 29986, "owner": "rust-lang", "forks": 5121},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 699, "stars": 29988, "owner": "rust-lang", "forks": 5120},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 554, "stars": 11695, "owner": "jwilm", "forks": 480},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 511, "stars": 683, "owner": "xiph", "forks": 47},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 448, "stars": 451, "owner": "seanmonstar", "forks": 24},
@@ -21,7 +21,7 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 157, "stars": 4686, "owner": "paritytech", "forks": 979},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 180, "stars": 6087, "owner": "sharkdp", "forks": 157},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 167, "stars": 3634, "owner": "mre", "forks": 429},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 143, "stars": 3495, "owner": "tikv", "forks": 468},
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 143, "stars": 3496, "owner": "tikv", "forks": 468},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 153, "stars": 1963, "owner": "gfx-rs", "forks": 267},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 149, "stars": 152, "owner": "carllerche", "forks": 6}
 ]

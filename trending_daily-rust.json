@@ -9,12 +9,12 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 11, "stars": 2494, "owner": "rust-lang", "forks": 733},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 11, "stars": 3792, "owner": "hyperium", "forks": 605},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 7756, "owner": "rust-unofficial", "forks": 503},
-{"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 9, "stars": 847, "owner": "rustwasm", "forks": 54},
+{"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 9, "stars": 848, "owner": "rustwasm", "forks": 54},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 4986, "owner": "DenisKolodin", "forks": 160},
 {"description": null, "language": "Rust", "repo": "xori", "new_stars": 9, "stars": 423, "owner": "endgameinc", "forks": 39},
 {"description": "Secure multithreaded packet sniffer", "language": "Rust", "repo": "sniffglue", "new_stars": 9, "stars": 151, "owner": "kpcyrd", "forks": 5},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 8, "stars": 462, "owner": "seanmonstar", "forks": 24},
-{"description": "A package manager for Idris", "language": "Rust", "repo": "elba", "new_stars": 8, "stars": 58, "owner": "elba", "forks": 3},
+{"description": "A package manager for Idris", "language": "Rust", "repo": "elba", "new_stars": 8, "stars": 59, "owner": "elba", "forks": 3},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 8, "stars": 23, "owner": "paritytech", "forks": 2},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 7, "stars": 9801, "owner": "BurntSushi", "forks": 406},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 6, "stars": 4692, "owner": "paritytech", "forks": 982},
@@ -22,6 +22,6 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 2936, "owner": "tokio-rs", "forks": 189},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 1201, "owner": "rustwasm", "forks": 134},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3414, "owner": "rust-lang", "forks": 799},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5010, "owner": "SergioBenitez", "forks": 322},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5011, "owner": "SergioBenitez", "forks": 322},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2214, "owner": "actix", "forks": 147}
 ]

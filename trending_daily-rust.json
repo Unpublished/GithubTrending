@@ -1,7 +1,7 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 30029, "owner": "rust-lang", "forks": 5121},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 17, "stars": 860, "owner": "jmacdonald", "forks": 26},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 11722, "owner": "jwilm", "forks": 482},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 11723, "owner": "jwilm", "forks": 482},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 13, "stars": 852, "owner": "rustwasm", "forks": 54},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 14, "stars": 12180, "owner": "servo", "forks": 1940},
 {"description": "A library to generate syntax diagrams for Rust macros.", "language": "Rust", "repo": "macro_railroad", "new_stars": 14, "stars": 187, "owner": "lukaslueg", "forks": 1},
@@ -15,13 +15,13 @@
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 3504, "owner": "tikv", "forks": 470},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 9, "stars": 2140, "owner": "rust-lang-nursery", "forks": 259},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 7758, "owner": "rust-unofficial", "forks": 504},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9803, "owner": "BurntSushi", "forks": 406},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9803, "owner": "BurntSushi", "forks": 407},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 8, "stars": 4695, "owner": "paritytech", "forks": 983},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 4988, "owner": "DenisKolodin", "forks": 160},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 4988, "owner": "DenisKolodin", "forks": 161},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 7, "stars": 3416, "owner": "rust-lang", "forks": 798},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 5015, "owner": "SergioBenitez", "forks": 322},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 7, "stars": 2216, "owner": "actix", "forks": 147},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 1972, "owner": "gfx-rs", "forks": 268},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 1202, "owner": "rustwasm", "forks": 134},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 1204, "owner": "rustwasm", "forks": 134},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 7, "stars": 467, "owner": "seanmonstar", "forks": 24}
 ]

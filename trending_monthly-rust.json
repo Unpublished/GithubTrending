@@ -1,9 +1,9 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 998, "stars": 2936, "owner": "tokio-rs", "forks": 189},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 998, "stars": 2937, "owner": "tokio-rs", "forks": 189},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 814, "stars": 814, "owner": "chinedufn", "forks": 14},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 705, "stars": 30019, "owner": "rust-lang", "forks": 5121},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 554, "stars": 11717, "owner": "jwilm", "forks": 482},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 459, "stars": 462, "owner": "seanmonstar", "forks": 24},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 554, "stars": 11719, "owner": "jwilm", "forks": 482},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 459, "stars": 463, "owner": "seanmonstar", "forks": 24},
 {"description": null, "language": "Rust", "repo": "xori", "new_stars": 423, "stars": 423, "owner": "endgameinc", "forks": 39},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 358, "stars": 13324, "owner": "google", "forks": 468},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 340, "stars": 9801, "owner": "BurntSushi", "forks": 406},
@@ -22,6 +22,6 @@
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 178, "stars": 178, "owner": "carllerche", "forks": 5},
 {"description": "A library to generate syntax diagrams for Rust macros.", "language": "Rust", "repo": "macro_railroad", "new_stars": 179, "stars": 179, "owner": "lukaslueg", "forks": 1},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 144, "stars": 3500, "owner": "tikv", "forks": 469},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 160, "stars": 1969, "owner": "gfx-rs", "forks": 268},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 160, "stars": 1970, "owner": "gfx-rs", "forks": 268},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 117, "stars": 1062, "owner": "Keats", "forks": 86}
 ]

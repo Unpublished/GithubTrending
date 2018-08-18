@@ -11,7 +11,7 @@
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 13, "stars": 16897, "owner": "fzaninotto", "forks": 2162},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 13, "stars": 4295, "owner": "spatie", "forks": 581},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 10, "stars": 11587, "owner": "PHPMailer", "forks": 6396},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 12, "stars": 7468, "owner": "vlucas", "forks": 361},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 12, "stars": 7469, "owner": "vlucas", "forks": 362},
 {"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 12, "stars": 6437, "owner": "ramsey", "forks": 267},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 12, "stars": 5781, "owner": "swiftmailer", "forks": 693},
 {"description": null, "language": "PHP", "repo": "grpc-client", "new_stars": 12, "stars": 38, "owner": "swoole", "forks": 1},
@@ -23,5 +23,5 @@
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 9, "stars": 9834, "owner": "briannesbitt", "forks": 975},
 {"description": "Official PHP low-level client for Elasticsearch.", "language": "PHP", "repo": "elasticsearch-php", "new_stars": 7, "stars": 2573, "owner": "elastic", "forks": 574},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 7, "stars": 5675, "owner": "mockery", "forks": 321},
-{"description": "A tiny WordPress theme focused on being as sustainable as possible.", "language": "PHP", "repo": "susty", "new_stars": 7, "stars": 531, "owner": "jacklenox", "forks": 46}
+{"description": "A tiny WordPress theme focused on being as sustainable as possible.", "language": "PHP", "repo": "susty", "new_stars": 7, "stars": 532, "owner": "jacklenox", "forks": 46}
 ]

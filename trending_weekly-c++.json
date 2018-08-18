@@ -1,12 +1,12 @@
 [
-{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 573, "stars": 107673, "owner": "tensorflow", "forks": 66599},
+{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 573, "stars": 107674, "owner": "tensorflow", "forks": 66599},
 {"description": "Filament is a physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 289, "stars": 3686, "owner": "google", "forks": 171},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 267, "stars": 63477, "owner": "electron", "forks": 8278},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 183, "stars": 26956, "owner": "opencv", "forks": 19353},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 192, "stars": 34056, "owner": "bitcoin", "forks": 20627},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 199, "stars": 17968, "owner": "pytorch", "forks": 4246},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 267, "stars": 63478, "owner": "electron", "forks": 8278},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 183, "stars": 26959, "owner": "opencv", "forks": 19353},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 192, "stars": 34057, "owner": "bitcoin", "forks": 20626},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 199, "stars": 17970, "owner": "pytorch", "forks": 4246},
 {"description": "TrueType and OpenType font fuzzing toolset", "language": "C++", "repo": "BrokenType", "new_stars": 192, "stars": 192, "owner": "google", "forks": 22},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 175, "stars": 28473, "owner": "google", "forks": 7939},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 175, "stars": 28474, "owner": "google", "forks": 7939},
 {"description": "\u57fa\u4e8e\u6df1\u5ea6\u5b66\u4e60106\u70b9\u4eba\u8138\u6807\u5b9a\u7b97\u6cd5 Open Source Face Landmark", "language": "C++", "repo": "HyperLandmark", "new_stars": 158, "stars": 199, "owner": "zeusees", "forks": 75},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 167, "stars": 20422, "owner": "tesseract-ocr", "forks": 4107},
 {"description": "Vulkan-based D3D11 implementation for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 135, "stars": 1977, "owner": "doitsujin", "forks": 83},
@@ -17,11 +17,11 @@
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 107, "stars": 16686, "owner": "grpc", "forks": 3787},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 106, "stars": 16228, "owner": "godotengine", "forks": 3333},
 {"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 92, "stars": 25216, "owner": "BVLC", "forks": 15430},
-{"description": "C++14 implementation of the TLS-1.3 standard", "language": "C++", "repo": "fizz", "new_stars": 100, "stars": 516, "owner": "facebookincubator", "forks": 43},
+{"description": "C++14 implementation of the TLS-1.3 standard", "language": "C++", "repo": "fizz", "new_stars": 100, "stars": 517, "owner": "facebookincubator", "forks": 43},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 91, "stars": 44886, "owner": "apple", "forks": 7081},
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 86, "stars": 13160, "owner": "dmlc", "forks": 5838},
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 90, "stars": 11702, "owner": "ocornut", "forks": 1568},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 90, "stars": 11703, "owner": "ocornut", "forks": 1568},
 {"description": "C++ front/service proxy", "language": "C++", "repo": "envoy", "new_stars": 86, "stars": 6239, "owner": "envoyproxy", "forks": 820},
 {"description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)", "language": "C++", "repo": "aseprite", "new_stars": 88, "stars": 5491, "owner": "aseprite", "forks": 541},
-{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 84, "stars": 10238, "owner": "v8", "forks": 2088}
+{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 84, "stars": 10239, "owner": "v8", "forks": 2088}
 ]

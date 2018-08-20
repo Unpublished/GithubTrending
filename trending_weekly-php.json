@@ -11,7 +11,7 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 81, "stars": 10977, "owner": "sebastianbergmann", "forks": 1641},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 74, "stars": 7271, "owner": "nikic", "forks": 521},
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 73, "stars": 4018, "owner": "egulias", "forks": 68},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 56, "stars": 11608, "owner": "PHPMailer", "forks": 6402},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 56, "stars": 11608, "owner": "PHPMailer", "forks": 6403},
 {"description": "[Beta] Directus 7 API wrapper for custom SQL databases", "language": "PHP", "repo": "api", "new_stars": 67, "stars": 121, "owner": "directus", "forks": 12},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 61, "stars": 5054, "owner": "nextcloud", "forks": 858},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 57, "stars": 18324, "owner": "symfony", "forks": 6362},
@@ -21,7 +21,7 @@
 {"description": "This component provides a partial, native PHP implementation for the Mbstring extension.", "language": "PHP", "repo": "polyfill-mbstring", "new_stars": 54, "stars": 3933, "owner": "symfony", "forks": 13},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 54, "stars": 3868, "owner": "symfony", "forks": 45},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 52, "stars": 5689, "owner": "mockery", "forks": 320},
-{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 47, "stars": 4306, "owner": "spatie", "forks": 583},
+{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 47, "stars": 4306, "owner": "spatie", "forks": 582},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 48, "stars": 7044, "owner": "thephpleague", "forks": 458},
 {"description": "Eloquent Befriended brings social media-like features like following, blocking and filtering content based on following or blocked models.", "language": "PHP", "repo": "befriended", "new_stars": 48, "stars": 254, "owner": "rennokki", "forks": 12}
 ]

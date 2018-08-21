@@ -1,12 +1,12 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 990, "stars": 2967, "owner": "tokio-rs", "forks": 190},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 724, "stars": 30117, "owner": "rust-lang", "forks": 5120},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 538, "stars": 11756, "owner": "jwilm", "forks": 485},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 538, "stars": 11757, "owner": "jwilm", "forks": 485},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 494, "stars": 497, "owner": "seanmonstar", "forks": 27},
-{"description": null, "language": "Rust", "repo": "xori", "new_stars": 449, "stars": 449, "owner": "endgameinc", "forks": 40},
+{"description": null, "language": "Rust", "repo": "xori", "new_stars": 449, "stars": 450, "owner": "endgameinc", "forks": 40},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 368, "stars": 13357, "owner": "google", "forks": 470},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 333, "stars": 9841, "owner": "BurntSushi", "forks": 409},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 293, "stars": 7808, "owner": "rust-unofficial", "forks": 508},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 293, "stars": 7809, "owner": "rust-unofficial", "forks": 508},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 297, "stars": 1549, "owner": "mozilla", "forks": 65},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 271, "stars": 2234, "owner": "actix", "forks": 151},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 256, "stars": 5019, "owner": "DenisKolodin", "forks": 163},
@@ -23,5 +23,5 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 157, "stars": 4714, "owner": "paritytech", "forks": 986},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 166, "stars": 1987, "owner": "gfx-rs", "forks": 270},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 149, "stars": 3517, "owner": "tikv", "forks": 470},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 143, "stars": 3658, "owner": "mre", "forks": 431}
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 143, "stars": 3659, "owner": "mre", "forks": 431}
 ]

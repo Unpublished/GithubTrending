@@ -1,9 +1,9 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30100, "owner": "rust-lang", "forks": 5120},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30101, "owner": "rust-lang", "forks": 5120},
 {"description": null, "language": "Rust", "repo": "xori", "new_stars": 115, "stars": 446, "owner": "endgameinc", "forks": 40},
 {"description": "A library to generate syntax diagrams for Rust macros.", "language": "Rust", "repo": "macro_railroad", "new_stars": 110, "stars": 197, "owner": "lukaslueg", "forks": 1},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 95, "stars": 3409, "owner": "sharkdp", "forks": 57},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 81, "stars": 11748, "owner": "jwilm", "forks": 485},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 81, "stars": 11749, "owner": "jwilm", "forks": 485},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 78, "stars": 7803, "owner": "rust-unofficial", "forks": 508},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 76, "stars": 191, "owner": "carllerche", "forks": 5},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 68, "stars": 13355, "owner": "google", "forks": 470},
@@ -22,6 +22,6 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 2506, "owner": "rust-lang", "forks": 739},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 43, "stars": 2965, "owner": "tokio-rs", "forks": 190},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 42, "stars": 1986, "owner": "gfx-rs", "forks": 270},
-{"description": "Cross platform terminal library rust", "language": "Rust", "repo": "crossterm", "new_stars": 41, "stars": 76, "owner": "TimonPost", "forks": 6},
+{"description": "Cross platform terminal library rust", "language": "Rust", "repo": "crossterm", "new_stars": 41, "stars": 77, "owner": "TimonPost", "forks": 6},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 38, "stars": 3805, "owner": "hyperium", "forks": 607}
 ]

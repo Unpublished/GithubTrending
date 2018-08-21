@@ -1,9 +1,9 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 30117, "owner": "rust-lang", "forks": 5120},
-{"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 23, "stars": 25, "owner": "svenstaro", "forks": 0},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 9841, "owner": "BurntSushi", "forks": 409},
+{"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 23, "stars": 26, "owner": "svenstaro", "forks": 0},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 9842, "owner": "BurntSushi", "forks": 409},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 11757, "owner": "jwilm", "forks": 485},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 7809, "owner": "rust-unofficial", "forks": 508},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 7810, "owner": "rust-unofficial", "forks": 509},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 13, "stars": 5019, "owner": "DenisKolodin", "forks": 163},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 12, "stars": 3413, "owner": "sharkdp", "forks": 57},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 11, "stars": 6123, "owner": "sharkdp", "forks": 160},
@@ -20,8 +20,8 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3425, "owner": "rust-lang", "forks": 801},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 3659, "owner": "mre", "forks": 431},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 2967, "owner": "tokio-rs", "forks": 190},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2234, "owner": "actix", "forks": 151},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2233, "owner": "actix", "forks": 151},
 {"description": "Massively parallel, high performance analytics database that will rapidly devour all of your data.", "language": "Rust", "repo": "LocustDB", "new_stars": 6, "stars": 781, "owner": "cswinter", "forks": 20},
 {"description": "Rust crate for spawning short-lived clusters of EC2 spot instances", "language": "Rust", "repo": "tsunami", "new_stars": 6, "stars": 33, "owner": "jonhoo", "forks": 9},
-{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 3517, "owner": "tikv", "forks": 470}
+{"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 3518, "owner": "tikv", "forks": 470}
 ]

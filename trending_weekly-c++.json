@@ -1,11 +1,11 @@
 [
-{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 1566, "stars": 1830, "owner": "ValveSoftware", "forks": 34},
-{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 532, "stars": 107958, "owner": "tensorflow", "forks": 66724},
+{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 1566, "stars": 1883, "owner": "ValveSoftware", "forks": 34},
+{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 532, "stars": 107960, "owner": "tensorflow", "forks": 66725},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 263, "stars": 63619, "owner": "electron", "forks": 8295},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 194, "stars": 27064, "owner": "opencv", "forks": 19412},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 193, "stars": 34178, "owner": "bitcoin", "forks": 20678},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 187, "stars": 18065, "owner": "pytorch", "forks": 4282},
-{"description": "Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 186, "stars": 3807, "owner": "google", "forks": 179},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 194, "stars": 27065, "owner": "opencv", "forks": 19412},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 193, "stars": 34179, "owner": "bitcoin", "forks": 20678},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 187, "stars": 18064, "owner": "pytorch", "forks": 4282},
+{"description": "Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 186, "stars": 3808, "owner": "google", "forks": 179},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 167, "stars": 28567, "owner": "protocolbuffers", "forks": 7957},
 {"description": "mawww's experiment for a better code editor", "language": "C++", "repo": "kakoune", "new_stars": 180, "stars": 3756, "owner": "mawww", "forks": 265},
 {"description": "Vulkan-based D3D11 implementation for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 180, "stars": 2070, "owner": "doitsujin", "forks": 85},
@@ -13,9 +13,9 @@
 {"description": "hvpp is a lightweight Intel x64/VT-x hypervisor written in C++ focused primarily on virtualization of already running operating system", "language": "C++", "repo": "hvpp", "new_stars": 131, "stars": 134, "owner": "wbenny", "forks": 15},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 116, "stars": 10704, "owner": "ApolloAuto", "forks": 2877},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 118, "stars": 16299, "owner": "godotengine", "forks": 3343},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 108, "stars": 16744, "owner": "grpc", "forks": 3803},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 108, "stars": 16745, "owner": "grpc", "forks": 3803},
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 114, "stars": 8727, "owner": "uglide", "forks": 1273},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 113, "stars": 10574, "owner": "nlohmann", "forks": 1695},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 113, "stars": 10576, "owner": "nlohmann", "forks": 1695},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation", "language": "C++", "repo": "openpose", "new_stars": 95, "stars": 8543, "owner": "CMU-Perceptual-Computing-Lab", "forks": 2252},
 {"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 89, "stars": 25260, "owner": "BVLC", "forks": 15457},
 {"description": "An open source smart contract platform", "language": "C++", "repo": "eos", "new_stars": 86, "stars": 9066, "owner": "EOSIO", "forks": 2573},
@@ -23,5 +23,5 @@
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 84, "stars": 13212, "owner": "dmlc", "forks": 5853},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 89, "stars": 44923, "owner": "apple", "forks": 7088},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 87, "stars": 14639, "owner": "google", "forks": 3588},
-{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 73, "stars": 10280, "owner": "v8", "forks": 2097}
+{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 73, "stars": 10281, "owner": "v8", "forks": 2097}
 ]

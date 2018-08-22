@@ -1,5 +1,5 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 30127, "owner": "rust-lang", "forks": 5123},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 30127, "owner": "rust-lang", "forks": 5124},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 102, "stars": 3415, "owner": "sharkdp", "forks": 57},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 85, "stars": 7816, "owner": "rust-unofficial", "forks": 509},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 81, "stars": 11764, "owner": "jwilm", "forks": 486},
@@ -16,9 +16,9 @@
 {"description": "Rust implementation of libbolt", "language": "Rust", "repo": "libbolt", "new_stars": 47, "stars": 48, "owner": "yeletech", "forks": 6},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 48, "stars": 6123, "owner": "sharkdp", "forks": 160},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 46, "stars": 5041, "owner": "SergioBenitez", "forks": 324},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 45, "stars": 2968, "owner": "tokio-rs", "forks": 190},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 45, "stars": 2969, "owner": "tokio-rs", "forks": 190},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 38, "stars": 3519, "owner": "tikv", "forks": 470},
-{"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 40, "stars": 42, "owner": "svenstaro", "forks": 1},
+{"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 40, "stars": 44, "owner": "svenstaro", "forks": 1},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 36, "stars": 2508, "owner": "rust-lang", "forks": 739},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 37, "stars": 1228, "owner": "rustwasm", "forks": 136},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 35, "stars": 4716, "owner": "paritytech", "forks": 986},

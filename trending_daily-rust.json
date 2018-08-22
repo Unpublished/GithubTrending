@@ -2,10 +2,10 @@
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 30143, "owner": "rust-lang", "forks": 5127},
 {"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 23, "stars": 56, "owner": "svenstaro", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 7828, "owner": "rust-unofficial", "forks": 510},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 11776, "owner": "jwilm", "forks": 487},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 11777, "owner": "jwilm", "forks": 487},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 10, "stars": 4726, "owner": "paritytech", "forks": 987},
 {"description": "Distributed transactional key value database powered by Rust and Raft", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3529, "owner": "tikv", "forks": 470},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 5029, "owner": "DenisKolodin", "forks": 164},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 5030, "owner": "DenisKolodin", "forks": 164},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 9851, "owner": "BurntSushi", "forks": 409},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 8, "stars": 2049, "owner": "BurntSushi", "forks": 88},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 12216, "owner": "servo", "forks": 1943},
@@ -21,7 +21,7 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 5, "stars": 1993, "owner": "gfx-rs", "forks": 270},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2512, "owner": "rust-lang", "forks": 741},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 2972, "owner": "tokio-rs", "forks": 190},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 2237, "owner": "actix", "forks": 151},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 2238, "owner": "actix", "forks": 151},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 5, "stars": 1497, "owner": "amethyst", "forks": 149},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 5, "stars": 1338, "owner": "autozimu", "forks": 124}
 ]

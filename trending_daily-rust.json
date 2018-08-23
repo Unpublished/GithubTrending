@@ -1,16 +1,16 @@
 [
 {"description": "Scalable, social, Code REView system that we desperately need (WIP)", "language": "Rust", "repo": "crev", "new_stars": 46, "stars": 62, "owner": "dpc", "forks": 0},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 31, "stars": 3449, "owner": "sharkdp", "forks": 57},
-{"description": null, "language": "Rust", "repo": "generational-arena", "new_stars": 26, "stars": 29, "owner": "fitzgen", "forks": 0},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 30162, "owner": "rust-lang", "forks": 5126},
-{"description": "QuickCheck bug hunting in Rust standard library data structures", "language": "Rust", "repo": "bughunt-rust", "new_stars": 16, "stars": 29, "owner": "blt", "forks": 2},
+{"description": null, "language": "Rust", "repo": "generational-arena", "new_stars": 26, "stars": 30, "owner": "fitzgen", "forks": 0},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 30163, "owner": "rust-lang", "forks": 5126},
+{"description": "QuickCheck bug hunting in Rust standard library data structures", "language": "Rust", "repo": "bughunt-rust", "new_stars": 16, "stars": 30, "owner": "blt", "forks": 2},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 11787, "owner": "jwilm", "forks": 487},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 5041, "owner": "DenisKolodin", "forks": 164},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 5042, "owner": "DenisKolodin", "forks": 164},
 {"description": "Holochain 2nd iteration in Rust with a Redux-like architecture and a WebAssembly Ribosome.", "language": "Rust", "repo": "holochain-rust", "new_stars": 13, "stars": 102, "owner": "holochain", "forks": 19},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 9861, "owner": "BurntSushi", "forks": 409},
 {"description": "Programmable multi-asset chain", "language": "Rust", "repo": "codechain", "new_stars": 12, "stars": 162, "owner": "CodeChain-io", "forks": 37},
 {"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 12, "stars": 60, "owner": "svenstaro", "forks": 1},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 7835, "owner": "rust-unofficial", "forks": 511},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 7836, "owner": "rust-unofficial", "forks": 511},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 2247, "owner": "actix", "forks": 151},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 10, "stars": 4729, "owner": "paritytech", "forks": 990},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 1501, "owner": "amethyst", "forks": 150},
@@ -23,5 +23,5 @@
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 6, "stars": 1674, "owner": "rust-lang-nursery", "forks": 149},
 {"description": "A CSV parser for Rust, with Serde support.", "language": "Rust", "repo": "rust-csv", "new_stars": 5, "stars": 442, "owner": "BurntSushi", "forks": 64},
 {"description": "A persistent, relational store inspired by Datomic and DataScript.", "language": "Rust", "repo": "mentat", "new_stars": 5, "stars": 1561, "owner": "mozilla", "forks": 66},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 5, "stars": 2051, "owner": "BurntSushi", "forks": 87}
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 5, "stars": 2052, "owner": "BurntSushi", "forks": 87}
 ]

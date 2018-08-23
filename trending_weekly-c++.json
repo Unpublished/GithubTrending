@@ -1,14 +1,14 @@
 [
-{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 3169, "stars": 3189, "owner": "ValveSoftware", "forks": 68},
-{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 536, "stars": 108034, "owner": "tensorflow", "forks": 66778},
+{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 3169, "stars": 3205, "owner": "ValveSoftware", "forks": 68},
+{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 536, "stars": 108035, "owner": "tensorflow", "forks": 66779},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 280, "stars": 63660, "owner": "electron", "forks": 8296},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 205, "stars": 27103, "owner": "opencv", "forks": 19434},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 205, "stars": 34203, "owner": "bitcoin", "forks": 20703},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 205, "stars": 34203, "owner": "bitcoin", "forks": 20704},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 182, "stars": 18094, "owner": "pytorch", "forks": 4291},
 {"description": "Vulkan-based D3D11 implementation for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 206, "stars": 2116, "owner": "doitsujin", "forks": 85},
-{"description": "Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 195, "stars": 3855, "owner": "google", "forks": 184},
-{"description": "mawww's experiment for a better code editor", "language": "C++", "repo": "kakoune", "new_stars": 187, "stars": 3762, "owner": "mawww", "forks": 267},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 170, "stars": 28599, "owner": "protocolbuffers", "forks": 7962},
+{"description": "Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 195, "stars": 3856, "owner": "google", "forks": 184},
+{"description": "mawww's experiment for a better code editor", "language": "C++", "repo": "kakoune", "new_stars": 187, "stars": 3761, "owner": "mawww", "forks": 267},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 170, "stars": 28600, "owner": "protocolbuffers", "forks": 7962},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 176, "stars": 20544, "owner": "tesseract-ocr", "forks": 4127},
 {"description": "hvpp is a lightweight Intel x64/VT-x hypervisor written in C++ focused primarily on virtualization of already running operating system", "language": "C++", "repo": "hvpp", "new_stars": 137, "stars": 138, "owner": "wbenny", "forks": 15},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 122, "stars": 16318, "owner": "godotengine", "forks": 3350},
@@ -23,5 +23,5 @@
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 88, "stars": 13226, "owner": "dmlc", "forks": 5857},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 89, "stars": 44936, "owner": "apple", "forks": 7090},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 89, "stars": 11369, "owner": "facebook", "forks": 2495},
-{"description": "QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing", "language": "C++", "repo": "qsym", "new_stars": 90, "stars": 93, "owner": "sslab-gatech", "forks": 12}
+{"description": "QSYM: A Practical Concolic Execution Engine Tailored for Hybrid Fuzzing", "language": "C++", "repo": "qsym", "new_stars": 90, "stars": 94, "owner": "sslab-gatech", "forks": 12}
 ]

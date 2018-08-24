@@ -1,18 +1,18 @@
 [
-{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 497, "stars": 3672, "owner": "ValveSoftware", "forks": 80},
-{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 77, "stars": 108096, "owner": "tensorflow", "forks": 66799},
+{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 497, "stars": 3680, "owner": "ValveSoftware", "forks": 80},
+{"description": "Computation using data flow graphs for scalable machine learning", "language": "C++", "repo": "tensorflow", "new_stars": 77, "stars": 108097, "owner": "tensorflow", "forks": 66799},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 70, "stars": 63724, "owner": "electron", "forks": 8304},
 {"description": "Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 57, "stars": 3911, "owner": "google", "forks": 188},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 30, "stars": 28629, "owner": "protocolbuffers", "forks": 7976},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 29, "stars": 18120, "owner": "pytorch", "forks": 4303},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 30, "stars": 28631, "owner": "protocolbuffers", "forks": 7976},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 29, "stars": 18121, "owner": "pytorch", "forks": 4303},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 28, "stars": 34230, "owner": "bitcoin", "forks": 20714},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 31, "stars": 20574, "owner": "tesseract-ocr", "forks": 4131},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 31, "stars": 20575, "owner": "tesseract-ocr", "forks": 4131},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 20, "stars": 27123, "owner": "opencv", "forks": 19450},
-{"description": "Vulkan-based D3D11 implementation for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 29, "stars": 2145, "owner": "doitsujin", "forks": 86},
+{"description": "Vulkan-based D3D11 implementation for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 29, "stars": 2146, "owner": "doitsujin", "forks": 86},
 {"description": "The fastest feature-rich C++11 single-header testing framework for unit tests and TDD", "language": "C++", "repo": "doctest", "new_stars": 24, "stars": 1284, "owner": "onqtam", "forks": 92},
 {"description": "A Bochs-based instrumentation performing kernel memory taint tracking to detect disclosure of uninitialized memory to ring 3", "language": "C++", "repo": "bochspwn-reloaded", "new_stars": 21, "stars": 141, "owner": "google", "forks": 23},
 {"description": "Your binary serialization library", "language": "C++", "repo": "bitsery", "new_stars": 22, "stars": 139, "owner": "fraillt", "forks": 5},
-{"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 21, "stars": 8759, "owner": "uglide", "forks": 1276},
+{"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 21, "stars": 8760, "owner": "uglide", "forks": 1276},
 {"description": "A lightweight utility that makes the Windows taskbar translucent/transparent.", "language": "C++", "repo": "TranslucentTB", "new_stars": 21, "stars": 2626, "owner": "TranslucentTB", "forks": 271},
 {"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 19, "stars": 25293, "owner": "BVLC", "forks": 15473},
 {"description": "C++ front/service proxy", "language": "C++", "repo": "envoy", "new_stars": 20, "stars": 6311, "owner": "envoyproxy", "forks": 832},
@@ -23,5 +23,5 @@
 {"description": "An open source smart contract platform", "language": "C++", "repo": "eos", "new_stars": 14, "stars": 9086, "owner": "EOSIO", "forks": 2584},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 14, "stars": 11383, "owner": "facebook", "forks": 2501},
 {"description": "ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.", "language": "C++", "repo": "arangodb", "new_stars": 16, "stars": 6223, "owner": "arangodb", "forks": 448},
-{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 14, "stars": 13239, "owner": "dmlc", "forks": 5860}
+{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 14, "stars": 13240, "owner": "dmlc", "forks": 5860}
 ]

@@ -1,11 +1,11 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 408, "stars": 3810, "owner": "sharkdp", "forks": 63},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 30268, "owner": "rust-lang", "forks": 5132},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 408, "stars": 3811, "owner": "sharkdp", "forks": 63},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 30269, "owner": "rust-lang", "forks": 5132},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 92, "stars": 11834, "owner": "jwilm", "forks": 487},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 89, "stars": 2315, "owner": "actix", "forks": 153},
 {"description": "Scalable, social, Code REView system that we desperately need (WIP)", "language": "Rust", "repo": "crev", "new_stars": 80, "stars": 80, "owner": "dpc", "forks": 1},
 {"description": "Rust version of", "language": "Rust", "repo": "vulkan-tutorial-rs", "new_stars": 80, "stars": 80, "owner": "bwasty", "forks": 2},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 75, "stars": 9904, "owner": "BurntSushi", "forks": 409},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 75, "stars": 9905, "owner": "BurntSushi", "forks": 410},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 69, "stars": 7864, "owner": "rust-unofficial", "forks": 516},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 69, "stars": 5072, "owner": "DenisKolodin", "forks": 167},
 {"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 66, "stars": 75, "owner": "svenstaro", "forks": 1},
@@ -22,6 +22,6 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 35, "stars": 2994, "owner": "tokio-rs", "forks": 193},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 33, "stars": 1596, "owner": "actix", "forks": 87},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 31, "stars": 3541, "owner": "tikv", "forks": 478},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 33, "stars": 3453, "owner": "rust-lang", "forks": 803},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 33, "stars": 3454, "owner": "rust-lang", "forks": 803},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 30, "stars": 13375, "owner": "google", "forks": 471}
 ]

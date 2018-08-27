@@ -2,9 +2,9 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 75, "stars": 3811, "owner": "sharkdp", "forks": 63},
 {"description": "Rust version of", "language": "Rust", "repo": "vulkan-tutorial-rs", "new_stars": 64, "stars": 81, "owner": "bwasty", "forks": 2},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 30270, "owner": "rust-lang", "forks": 5132},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 5072, "owner": "DenisKolodin", "forks": 167},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 5072, "owner": "DenisKolodin", "forks": 168},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11834, "owner": "jwilm", "forks": 487},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 2315, "owner": "actix", "forks": 153},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 2316, "owner": "actix", "forks": 153},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 11, "stars": 5078, "owner": "SergioBenitez", "forks": 327},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 11, "stars": 9905, "owner": "BurntSushi", "forks": 410},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 10, "stars": 1166, "owner": "Aaronepower", "forks": 97},
@@ -22,6 +22,6 @@
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 5, "stars": 879, "owner": "rustwasm", "forks": 58},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 5, "stars": 514, "owner": "seanmonstar", "forks": 30},
 {"description": "sccache is ccache with cloud storage", "language": "Rust", "repo": "sccache", "new_stars": 0, "stars": 453, "owner": "mozilla", "forks": 76},
-{"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 0, "stars": 1368, "owner": "vulkano-rs", "forks": 143},
+{"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 0, "stars": 1369, "owner": "vulkano-rs", "forks": 143},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 0, "stars": 1172, "owner": "servo", "forks": 176}
 ]

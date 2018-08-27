@@ -1,6 +1,6 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 410, "stars": 3811, "owner": "sharkdp", "forks": 63},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 196, "stars": 30270, "owner": "rust-lang", "forks": 5132},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 196, "stars": 30271, "owner": "rust-lang", "forks": 5132},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 92, "stars": 11834, "owner": "jwilm", "forks": 487},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 87, "stars": 2316, "owner": "actix", "forks": 153},
 {"description": "Rust version of", "language": "Rust", "repo": "vulkan-tutorial-rs", "new_stars": 81, "stars": 81, "owner": "bwasty", "forks": 2},
@@ -13,7 +13,7 @@
 {"description": null, "language": "Rust", "repo": "generational-arena", "new_stars": 59, "stars": 59, "owner": "fitzgen", "forks": 0},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 51, "stars": 5078, "owner": "SergioBenitez", "forks": 327},
 {"description": "Changelog generator", "language": "Rust", "repo": "changelog", "new_stars": 50, "stars": 50, "owner": "yoshuawuyts", "forks": 1},
-{"description": "QuickCheck bug hunting in Rust standard library data structures", "language": "Rust", "repo": "bughunt-rust", "new_stars": 46, "stars": 47, "owner": "blt", "forks": 4},
+{"description": "QuickCheck bug hunting in Rust standard library data structures", "language": "Rust", "repo": "bughunt-rust", "new_stars": 46, "stars": 48, "owner": "blt", "forks": 4},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 34, "stars": 2537, "owner": "rust-lang", "forks": 753},
 {"description": "A toy JavaScript engine in Rust", "language": "Rust", "repo": "rapidus", "new_stars": 41, "stars": 134, "owner": "maekawatoshiki", "forks": 2},
 {"description": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode", "language": "Rust", "repo": "xori", "new_stars": 37, "stars": 481, "owner": "endgameinc", "forks": 44},
@@ -21,7 +21,7 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 33, "stars": 4744, "owner": "paritytech", "forks": 995},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 34, "stars": 2994, "owner": "tokio-rs", "forks": 194},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 33, "stars": 1596, "owner": "actix", "forks": 87},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 34, "stars": 3454, "owner": "rust-lang", "forks": 803},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 34, "stars": 3454, "owner": "rust-lang", "forks": 804},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 31, "stars": 3541, "owner": "tikv", "forks": 478},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 33, "stars": 13378, "owner": "google", "forks": 471}
 ]

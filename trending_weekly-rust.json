@@ -5,7 +5,7 @@
 {"description": "Rust version of", "language": "Rust", "repo": "vulkan-tutorial-rs", "new_stars": 87, "stars": 87, "owner": "bwasty", "forks": 3},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 83, "stars": 2315, "owner": "actix", "forks": 153},
 {"description": "Scalable, social, Code REView system that we desperately need (WIP)", "language": "Rust", "repo": "crev", "new_stars": 80, "stars": 80, "owner": "dpc", "forks": 1},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 77, "stars": 9910, "owner": "BurntSushi", "forks": 410},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 77, "stars": 9911, "owner": "BurntSushi", "forks": 410},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 68, "stars": 7868, "owner": "rust-unofficial", "forks": 516},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 61, "stars": 12259, "owner": "servo", "forks": 1949},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 63, "stars": 5073, "owner": "DenisKolodin", "forks": 168},
@@ -18,10 +18,10 @@
 {"description": "A toy JavaScript engine in Rust", "language": "Rust", "repo": "rapidus", "new_stars": 42, "stars": 134, "owner": "maekawatoshiki", "forks": 2},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 38, "stars": 1520, "owner": "amethyst", "forks": 154},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 34, "stars": 3546, "owner": "tikv", "forks": 478},
-{"description": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode", "language": "Rust", "repo": "xori", "new_stars": 35, "stars": 482, "owner": "endgameinc", "forks": 44},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 35, "stars": 3456, "owner": "rust-lang", "forks": 804},
+{"description": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode", "language": "Rust", "repo": "xori", "new_stars": 35, "stars": 483, "owner": "endgameinc", "forks": 44},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 35, "stars": 3457, "owner": "rust-lang", "forks": 804},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 35, "stars": 2997, "owner": "tokio-rs", "forks": 194},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 31, "stars": 4744, "owner": "paritytech", "forks": 995},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 31, "stars": 1596, "owner": "actix", "forks": 87},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 31, "stars": 1597, "owner": "actix", "forks": 87},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 30, "stars": 7852, "owner": "atom", "forks": 187}
 ]

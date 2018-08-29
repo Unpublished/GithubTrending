@@ -11,7 +11,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 60, "stars": 12261, "owner": "servo", "forks": 1949},
 {"description": null, "language": "Rust", "repo": "generational-arena", "new_stars": 62, "stars": 62, "owner": "fitzgen", "forks": 0},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 52, "stars": 5086, "owner": "SergioBenitez", "forks": 327},
-{"description": "Changelog generator", "language": "Rust", "repo": "changelog", "new_stars": 52, "stars": 52, "owner": "yoshuawuyts", "forks": 1},
+{"description": "Changelog generator", "language": "Rust", "repo": "changelog", "new_stars": 52, "stars": 53, "owner": "yoshuawuyts", "forks": 1},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 2545, "owner": "rust-lang", "forks": 754},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 44, "stars": 3010, "owner": "tokio-rs", "forks": 194},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 39, "stars": 3555, "owner": "tikv", "forks": 481},
@@ -20,7 +20,7 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 36, "stars": 4751, "owner": "paritytech", "forks": 996},
 {"description": "A toy JavaScript engine in Rust", "language": "Rust", "repo": "rapidus", "new_stars": 40, "stars": 134, "owner": "maekawatoshiki", "forks": 2},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 37, "stars": 3460, "owner": "rust-lang", "forks": 805},
-{"description": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode", "language": "Rust", "repo": "xori", "new_stars": 35, "stars": 484, "owner": "endgameinc", "forks": 44},
+{"description": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode", "language": "Rust", "repo": "xori", "new_stars": 35, "stars": 485, "owner": "endgameinc", "forks": 45},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 33, "stars": 13384, "owner": "google", "forks": 471},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 31, "stars": 1599, "owner": "actix", "forks": 87},
 {"description": "Mount your memes using FUSE", "language": "Rust", "repo": "memefs", "new_stars": 32, "stars": 76, "owner": "svenstaro", "forks": 1}

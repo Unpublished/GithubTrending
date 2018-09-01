@@ -1,11 +1,11 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 883, "stars": 5205, "owner": "sharkdp", "forks": 83},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 883, "stars": 5219, "owner": "sharkdp", "forks": 84},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 49, "stars": 184, "owner": "vi", "forks": 10},
 {"description": "MesaLink is a memory-safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 45, "stars": 782, "owner": "mesalock-linux", "forks": 29},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 40, "stars": 1259, "owner": "Aaronepower", "forks": 99},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 33, "stars": 10005, "owner": "BurntSushi", "forks": 409},
 {"description": "Fast tar archiver", "language": "Rust", "repo": "fastar", "new_stars": 29, "stars": 62, "owner": "the8472", "forks": 1},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 30348, "owner": "rust-lang", "forks": 5140},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 30349, "owner": "rust-lang", "forks": 5140},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 22, "stars": 1723, "owner": "sharkdp", "forks": 31},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 15, "stars": 2081, "owner": "BurntSushi", "forks": 88},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 14, "stars": 270, "owner": "maps4print", "forks": 4},
@@ -13,7 +13,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 11877, "owner": "jwilm", "forks": 492},
 {"description": "A programming language and model of computation that matches the abstract algorithm perfectly.", "language": "Rust", "repo": "abstract-calculus", "new_stars": 12, "stars": 121, "owner": "MaiaVictor", "forks": 6},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 7901, "owner": "rust-unofficial", "forks": 518},
-{"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 12, "stars": 180, "owner": "r-darwish", "forks": 5},
+{"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 12, "stars": 181, "owner": "r-darwish", "forks": 5},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 9, "stars": 3470, "owner": "rust-lang", "forks": 806},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 12319, "owner": "servo", "forks": 1954},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 5106, "owner": "SergioBenitez", "forks": 328},
@@ -21,7 +21,7 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 8, "stars": 2027, "owner": "gfx-rs", "forks": 272},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 8, "stars": 13402, "owner": "google", "forks": 470},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 7, "stars": 2335, "owner": "actix", "forks": 153},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 7, "stars": 1612, "owner": "actix", "forks": 88},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 7, "stars": 1613, "owner": "actix", "forks": 88},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 6, "stars": 7873, "owner": "atom", "forks": 186},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 6, "stars": 897, "owner": "rustwasm", "forks": 58}
 ]

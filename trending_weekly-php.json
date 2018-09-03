@@ -5,7 +5,7 @@
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 113, "stars": 15943, "owner": "composer", "forks": 5248},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 105, "stars": 18481, "owner": "symfony", "forks": 6378},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 107, "stars": 17093, "owner": "fzaninotto", "forks": 2188},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 87, "stars": 13700, "owner": "guzzle", "forks": 1803},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 87, "stars": 13701, "owner": "guzzle", "forks": 1803},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 88, "stars": 11121, "owner": "sebastianbergmann", "forks": 1647},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 80, "stars": 4438, "owner": "z-song", "forks": 1242},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 83, "stars": 7428, "owner": "nikic", "forks": 525},
@@ -14,7 +14,7 @@
 {"description": "A PSR-5 based resolver of Class names, Types and Structural Element Names", "language": "PHP", "repo": "TypeResolver", "new_stars": 74, "stars": 3832, "owner": "phpDocumentor", "forks": 20},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 72, "stars": 4362, "owner": "doctrine", "forks": 76},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 69, "stars": 9965, "owner": "briannesbitt", "forks": 975},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 65, "stars": 3912, "owner": "PHPOffice", "forks": 657},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 65, "stars": 3913, "owner": "PHPOffice", "forks": 657},
 {"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 70, "stars": 4330, "owner": "symfony", "forks": 188},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 69, "stars": 4574, "owner": "symfony", "forks": 141},
 {"description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.", "language": "PHP", "repo": "event-dispatcher", "new_stars": 66, "stars": 4116, "owner": "symfony", "forks": 36},
@@ -23,5 +23,5 @@
 {"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 65, "stars": 4078, "owner": "symfony", "forks": 32},
 {"description": "The CssSelector component converts CSS selectors to XPath expressions.", "language": "PHP", "repo": "css-selector", "new_stars": 65, "stars": 3508, "owner": "symfony", "forks": 20},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 64, "stars": 3979, "owner": "symfony", "forks": 45},
-{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 59, "stars": 4600, "owner": "phpstan", "forks": 305}
+{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 59, "stars": 4601, "owner": "phpstan", "forks": 305}
 ]

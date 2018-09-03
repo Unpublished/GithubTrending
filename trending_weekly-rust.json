@@ -1,8 +1,8 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 2502, "stars": 6287, "owner": "sharkdp", "forks": 99},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 168, "stars": 30401, "owner": "rust-lang", "forks": 5144},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 146, "stars": 10038, "owner": "BurntSushi", "forks": 411},
-{"description": "A programming language and model of computation that matches the abstract algorithm perfectly.", "language": "Rust", "repo": "abstract-calculus", "new_stars": 119, "stars": 128, "owner": "MaiaVictor", "forks": 6},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 2502, "stars": 6299, "owner": "sharkdp", "forks": 99},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 168, "stars": 30402, "owner": "rust-lang", "forks": 5144},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 146, "stars": 10039, "owner": "BurntSushi", "forks": 411},
+{"description": "A programming language and model of computation that matches the abstract algorithm perfectly.", "language": "Rust", "repo": "abstract-calculus", "new_stars": 119, "stars": 129, "owner": "MaiaVictor", "forks": 6},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 116, "stars": 1280, "owner": "Aaronepower", "forks": 99},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 87, "stars": 12330, "owner": "servo", "forks": 1953},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 84, "stars": 11896, "owner": "jwilm", "forks": 492},
@@ -12,7 +12,7 @@
 {"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 70, "stars": 190, "owner": "r-darwish", "forks": 7},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 70, "stars": 298, "owner": "maps4print", "forks": 4},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 67, "stars": 7922, "owner": "rust-unofficial", "forks": 520},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 66, "stars": 4691, "owner": "ogham", "forks": 149},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 66, "stars": 4692, "owner": "ogham", "forks": 149},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 59, "stars": 3049, "owner": "tokio-rs", "forks": 201},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 59, "stars": 1742, "owner": "sharkdp", "forks": 32},
 {"description": "Fast tar archiver", "language": "Rust", "repo": "fastar", "new_stars": 59, "stars": 65, "owner": "the8472", "forks": 1},
@@ -22,6 +22,6 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 44, "stars": 5104, "owner": "DenisKolodin", "forks": 173},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 42, "stars": 2046, "owner": "gfx-rs", "forks": 275},
 {"description": "Rust version of", "language": "Rust", "repo": "vulkan-tutorial-rs", "new_stars": 44, "stars": 111, "owner": "bwasty", "forks": 4},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 40, "stars": 5109, "owner": "SergioBenitez", "forks": 331},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 38, "stars": 3486, "owner": "rust-lang", "forks": 807}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 40, "stars": 5110, "owner": "SergioBenitez", "forks": 331},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 38, "stars": 3487, "owner": "rust-lang", "forks": 807}
 ]

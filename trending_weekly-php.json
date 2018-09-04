@@ -1,6 +1,6 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 205, "stars": 45396, "owner": "laravel", "forks": 14047},
-{"description": "This package adds support for creating enums in PHP and includes a generator for Laravel.", "language": "PHP", "repo": "laravel-enum", "new_stars": 144, "stars": 234, "owner": "BenSampo", "forks": 11},
+{"description": "This package adds support for creating enums in PHP and includes a generator for Laravel.", "language": "PHP", "repo": "laravel-enum", "new_stars": 144, "stars": 235, "owner": "BenSampo", "forks": 11},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 117, "stars": 13660, "owner": "laravel", "forks": 5728},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 118, "stars": 15949, "owner": "composer", "forks": 5248},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 110, "stars": 17097, "owner": "fzaninotto", "forks": 2188},
@@ -23,5 +23,5 @@
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 68, "stars": 3982, "owner": "symfony", "forks": 45},
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 67, "stars": 3996, "owner": "symfony", "forks": 65},
 {"description": "The Doctrine Event Manager is a library that provides a simple event system.", "language": "PHP", "repo": "event-manager", "new_stars": 67, "stars": 446, "owner": "doctrine", "forks": 2},
-{"description": "Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.", "language": "PHP", "repo": "utils", "new_stars": 64, "stars": 390, "owner": "nette", "forks": 92}
+{"description": "Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.", "language": "PHP", "repo": "utils", "new_stars": 64, "stars": 391, "owner": "nette", "forks": 92}
 ]

@@ -1,13 +1,13 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3041, "stars": 6900, "owner": "sharkdp", "forks": 109},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3041, "stars": 6902, "owner": "sharkdp", "forks": 109},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 170, "stars": 30432, "owner": "rust-lang", "forks": 5146},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 148, "stars": 10054, "owner": "BurntSushi", "forks": 411},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 148, "stars": 10055, "owner": "BurntSushi", "forks": 411},
 {"description": "A programming language and model of computation that matches the abstract algorithm perfectly.", "language": "Rust", "repo": "abstract-calculus", "new_stars": 122, "stars": 131, "owner": "MaiaVictor", "forks": 7},
-{"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 120, "stars": 1287, "owner": "Aaronepower", "forks": 99},
+{"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 120, "stars": 1288, "owner": "Aaronepower", "forks": 99},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 83, "stars": 3629, "owner": "tikv", "forks": 494},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 87, "stars": 11918, "owner": "jwilm", "forks": 492},
 {"description": "MesaLink is a memory-safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 84, "stars": 815, "owner": "mesalock-linux", "forks": 30},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 80, "stars": 12335, "owner": "servo", "forks": 1953},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 80, "stars": 12336, "owner": "servo", "forks": 1953},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 74, "stars": 307, "owner": "maps4print", "forks": 4},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 74, "stars": 196, "owner": "vi", "forks": 10},
 {"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 69, "stars": 193, "owner": "r-darwish", "forks": 7},
@@ -18,10 +18,10 @@
 {"description": "Fast tar archiver", "language": "Rust", "repo": "fastar", "new_stars": 60, "stars": 66, "owner": "the8472", "forks": 1},
 {"description": "a smol tcp/ip stack", "language": "Rust", "repo": "smoltcp", "new_stars": 56, "stars": 567, "owner": "m-labs", "forks": 50},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 56, "stars": 1745, "owner": "sharkdp", "forks": 33},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 50, "stars": 2059, "owner": "gfx-rs", "forks": 275},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 50, "stars": 2059, "owner": "gfx-rs", "forks": 276},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 5121, "owner": "DenisKolodin", "forks": 174},
 {"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 46, "stars": 46, "owner": "dmexe", "forks": 1},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 44, "stars": 13419, "owner": "google", "forks": 471},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 41, "stars": 2354, "owner": "actix", "forks": 155},
-{"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 41, "stars": 42, "owner": "danleh", "forks": 1}
+{"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 41, "stars": 44, "owner": "danleh", "forks": 1}
 ]

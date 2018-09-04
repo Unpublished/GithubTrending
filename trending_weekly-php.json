@@ -1,5 +1,5 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 203, "stars": 45393, "owner": "laravel", "forks": 14048},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 203, "stars": 45395, "owner": "laravel", "forks": 14048},
 {"description": "This package adds support for creating enums in PHP and includes a generator for Laravel.", "language": "PHP", "repo": "laravel-enum", "new_stars": 141, "stars": 232, "owner": "BenSampo", "forks": 11},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 116, "stars": 13658, "owner": "laravel", "forks": 5728},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 115, "stars": 15949, "owner": "composer", "forks": 5248},
@@ -7,13 +7,13 @@
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 108, "stars": 17097, "owner": "fzaninotto", "forks": 2188},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 90, "stars": 13707, "owner": "guzzle", "forks": 1803},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 91, "stars": 11123, "owner": "sebastianbergmann", "forks": 1649},
-{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 83, "stars": 4443, "owner": "z-song", "forks": 1242},
+{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 83, "stars": 4444, "owner": "z-song", "forks": 1242},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 79, "stars": 4246, "owner": "doctrine", "forks": 35},
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 78, "stars": 4211, "owner": "doctrine", "forks": 22},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 71, "stars": 3917, "owner": "PHPOffice", "forks": 657},
 {"description": "A PSR-5 based resolver of Class names, Types and Structural Element Names", "language": "PHP", "repo": "TypeResolver", "new_stars": 76, "stars": 3835, "owner": "phpDocumentor", "forks": 20},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 75, "stars": 4366, "owner": "doctrine", "forks": 76},
-{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 72, "stars": 9969, "owner": "briannesbitt", "forks": 975},
+{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 72, "stars": 9969, "owner": "briannesbitt", "forks": 976},
 {"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 72, "stars": 4333, "owner": "symfony", "forks": 188},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 71, "stars": 4578, "owner": "symfony", "forks": 141},
 {"description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.", "language": "PHP", "repo": "event-dispatcher", "new_stars": 68, "stars": 4119, "owner": "symfony", "forks": 36},
@@ -23,5 +23,5 @@
 {"description": "The Doctrine Event Manager is a library that provides a simple event system.", "language": "PHP", "repo": "event-manager", "new_stars": 67, "stars": 444, "owner": "doctrine", "forks": 2},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 66, "stars": 3982, "owner": "symfony", "forks": 45},
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 65, "stars": 3996, "owner": "symfony", "forks": 65},
-{"description": "Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.", "language": "PHP", "repo": "utils", "new_stars": 62, "stars": 387, "owner": "nette", "forks": 92}
+{"description": "Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.", "language": "PHP", "repo": "utils", "new_stars": 62, "stars": 388, "owner": "nette", "forks": 92}
 ]

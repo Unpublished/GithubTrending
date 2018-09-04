@@ -1,8 +1,8 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 449, "stars": 6529, "owner": "sharkdp", "forks": 102},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 30417, "owner": "rust-lang", "forks": 5145},
-{"description": "a smol tcp/ip stack", "language": "Rust", "repo": "smoltcp", "new_stars": 18, "stars": 563, "owner": "m-labs", "forks": 50},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 10045, "owner": "BurntSushi", "forks": 411},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 449, "stars": 6531, "owner": "sharkdp", "forks": 102},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 30416, "owner": "rust-lang", "forks": 5145},
+{"description": "a smol tcp/ip stack", "language": "Rust", "repo": "smoltcp", "new_stars": 18, "stars": 566, "owner": "m-labs", "forks": 50},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 10046, "owner": "BurntSushi", "forks": 411},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 15, "stars": 3624, "owner": "tikv", "forks": 493},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 5116, "owner": "DenisKolodin", "forks": 173},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 12, "stars": 3055, "owner": "tokio-rs", "forks": 202},
@@ -21,7 +21,7 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 6, "stars": 3849, "owner": "hyperium", "forks": 613},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 6, "stars": 2296, "owner": "Geal", "forks": 289},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 6, "stars": 2049, "owner": "gfx-rs", "forks": 275},
-{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 6, "stars": 877, "owner": "PyO3", "forks": 54},
+{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 6, "stars": 878, "owner": "PyO3", "forks": 54},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 6, "stars": 303, "owner": "maps4print", "forks": 4},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 6, "stars": 128, "owner": "RustPython", "forks": 5}
 ]

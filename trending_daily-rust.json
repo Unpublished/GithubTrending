@@ -1,18 +1,18 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 462, "stars": 6460, "owner": "sharkdp", "forks": 102},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 30411, "owner": "rust-lang", "forks": 5144},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 462, "stars": 6468, "owner": "sharkdp", "forks": 102},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 30411, "owner": "rust-lang", "forks": 5145},
 {"description": "a smol tcp/ip stack", "language": "Rust", "repo": "smoltcp", "new_stars": 25, "stars": 562, "owner": "m-labs", "forks": 50},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 19, "stars": 10042, "owner": "BurntSushi", "forks": 411},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 11898, "owner": "jwilm", "forks": 492},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 5110, "owner": "DenisKolodin", "forks": 173},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 5112, "owner": "DenisKolodin", "forks": 173},
 {"description": "S\u014dzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more", "language": "Rust", "repo": "sozu", "new_stars": 12, "stars": 654, "owner": "sozu-proxy", "forks": 50},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 7925, "owner": "rust-unofficial", "forks": 520},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 11, "stars": 1285, "owner": "Aaronepower", "forks": 99},
 {"description": "A simple raytracing renderer written in Rust.", "language": "Rust", "repo": "rayn", "new_stars": 11, "stars": 60, "owner": "termhn", "forks": 2},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3619, "owner": "tikv", "forks": 493},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3620, "owner": "tikv", "forks": 493},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 10, "stars": 1277, "owner": "rustwasm", "forks": 138},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 10, "stars": 4692, "owner": "ogham", "forks": 149},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3050, "owner": "tokio-rs", "forks": 201},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3051, "owner": "tokio-rs", "forks": 201},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 8, "stars": 1414, "owner": "rbspy", "forks": 45},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 8, "stars": 302, "owner": "maps4print", "forks": 4},
 {"description": "Show notes, code, and ideas for future topics for \"Hello Rust!\", a YouTube channel about the Rust programming language.", "language": "Rust", "repo": "show", "new_stars": 7, "stars": 129, "owner": "hello-rust", "forks": 9},
@@ -23,5 +23,5 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 6, "stars": 2295, "owner": "Geal", "forks": 289},
 {"description": "PathTracing in Rust", "language": "Rust", "repo": "hanamaru-renderer", "new_stars": 6, "stars": 30, "owner": "gam0022", "forks": 0},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 5, "stars": 4764, "owner": "paritytech", "forks": 1000},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 12332, "owner": "servo", "forks": 1953}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 12333, "owner": "servo", "forks": 1953}
 ]

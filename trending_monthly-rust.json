@@ -1,5 +1,5 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3324, "stars": 6641, "owner": "sharkdp", "forks": 105},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3324, "stars": 6650, "owner": "sharkdp", "forks": 105},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 726, "stars": 30418, "owner": "rust-lang", "forks": 5144},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 512, "stars": 3055, "owner": "tokio-rs", "forks": 202},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 406, "stars": 11904, "owner": "jwilm", "forks": 492},
@@ -9,7 +9,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 265, "stars": 12335, "owner": "servo", "forks": 1953},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 256, "stars": 1538, "owner": "amethyst", "forks": 156},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 245, "stars": 529, "owner": "seanmonstar", "forks": 35},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 239, "stars": 2351, "owner": "actix", "forks": 154},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 239, "stars": 2351, "owner": "actix", "forks": 155},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 237, "stars": 5116, "owner": "DenisKolodin", "forks": 173},
 {"description": "A library to generate syntax diagrams for Rust macros.", "language": "Rust", "repo": "macro_railroad", "new_stars": 218, "stars": 218, "owner": "lukaslueg", "forks": 2},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 209, "stars": 209, "owner": "carllerche", "forks": 15},
@@ -19,9 +19,9 @@
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 175, "stars": 1285, "owner": "Aaronepower", "forks": 99},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 155, "stars": 2568, "owner": "rust-lang", "forks": 759},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 144, "stars": 4766, "owner": "paritytech", "forks": 1000},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 142, "stars": 3716, "owner": "mre", "forks": 435},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 142, "stars": 3716, "owner": "mre", "forks": 436},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 144, "stars": 7882, "owner": "atom", "forks": 186},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 135, "stars": 1277, "owner": "rustwasm", "forks": 138},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 144, "stars": 4693, "owner": "ogham", "forks": 149},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 144, "stars": 4694, "owner": "ogham", "forks": 149},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 138, "stars": 1109, "owner": "Keats", "forks": 89}
 ]

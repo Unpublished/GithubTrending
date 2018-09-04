@@ -1,5 +1,5 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 34, "stars": 45409, "owner": "laravel", "forks": 14051},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 34, "stars": 45411, "owner": "laravel", "forks": 14052},
 {"description": "Lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.", "language": "PHP", "repo": "utils", "new_stars": 31, "stars": 404, "owner": "nette", "forks": 94},
 {"description": "Complete async capable Telegram bot API implementation for PHP7", "language": "PHP", "repo": "telegram-api", "new_stars": 26, "stars": 411, "owner": "unreal4u", "forks": 89},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 25, "stars": 15961, "owner": "composer", "forks": 5249},
@@ -10,12 +10,12 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 16, "stars": 11128, "owner": "sebastianbergmann", "forks": 1649},
 {"description": "Simple, extensible and powerful enumeration implementation for Laravel.", "language": "PHP", "repo": "laravel-enum", "new_stars": 16, "stars": 240, "owner": "BenSampo", "forks": 12},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 15, "stars": 9972, "owner": "briannesbitt", "forks": 978},
-{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 15, "stars": 4450, "owner": "z-song", "forks": 1242},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 16, "stars": 17104, "owner": "fzaninotto", "forks": 2188},
+{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 15, "stars": 4451, "owner": "z-song", "forks": 1242},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 16, "stars": 17105, "owner": "fzaninotto", "forks": 2188},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 16, "stars": 4583, "owner": "symfony", "forks": 141},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 16, "stars": 4370, "owner": "doctrine", "forks": 76},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 16, "stars": 4249, "owner": "doctrine", "forks": 35},
-{"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 16, "stars": 4215, "owner": "doctrine", "forks": 22},
+{"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 16, "stars": 4216, "owner": "doctrine", "forks": 22},
 {"description": "An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.", "language": "PHP", "repo": "actionview", "new_stars": 16, "stars": 338, "owner": "lxerxa", "forks": 76},
 {"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 14, "stars": 4337, "owner": "symfony", "forks": 188},
 {"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 14, "stars": 4086, "owner": "symfony", "forks": 32},
@@ -23,5 +23,5 @@
 {"description": "The Routing component maps an HTTP request to a set of configuration variables.", "language": "PHP", "repo": "routing", "new_stars": 14, "stars": 3957, "owner": "symfony", "forks": 61},
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 14, "stars": 4000, "owner": "symfony", "forks": 65},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 14, "stars": 3986, "owner": "symfony", "forks": 45},
-{"description": "The Doctrine Event Manager is a library that provides a simple event system.", "language": "PHP", "repo": "event-manager", "new_stars": 14, "stars": 452, "owner": "doctrine", "forks": 2}
+{"description": "The Doctrine Event Manager is a library that provides a simple event system.", "language": "PHP", "repo": "event-manager", "new_stars": 14, "stars": 453, "owner": "doctrine", "forks": 2}
 ]

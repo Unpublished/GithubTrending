@@ -12,7 +12,7 @@
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 295, "stars": 4366, "owner": "doctrine", "forks": 76},
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 291, "stars": 4211, "owner": "doctrine", "forks": 22},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 288, "stars": 4246, "owner": "doctrine", "forks": 35},
-{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 271, "stars": 9969, "owner": "briannesbitt", "forks": 976},
+{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 271, "stars": 9970, "owner": "briannesbitt", "forks": 976},
 {"description": "A PSR-5 based resolver of Class names, Types and Structural Element Names", "language": "PHP", "repo": "TypeResolver", "new_stars": 276, "stars": 3835, "owner": "phpDocumentor", "forks": 20},
 {"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 272, "stars": 4333, "owner": "symfony", "forks": 188},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 270, "stars": 4578, "owner": "symfony", "forks": 141},
@@ -21,7 +21,7 @@
 {"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 253, "stars": 4081, "owner": "symfony", "forks": 32},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 252, "stars": 3982, "owner": "symfony", "forks": 45},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 231, "stars": 4397, "owner": "spatie", "forks": 596},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 171, "stars": 11353, "owner": "WordPress", "forks": 6858},
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 171, "stars": 11353, "owner": "WordPress", "forks": 6857},
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 243, "stars": 3996, "owner": "symfony", "forks": 65},
 {"description": "The CssSelector component converts CSS selectors to XPath expressions.", "language": "PHP", "repo": "css-selector", "new_stars": 243, "stars": 3511, "owner": "symfony", "forks": 20}
 ]

@@ -1,16 +1,16 @@
 [
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 98, "stars": 108899, "owner": "tensorflow", "forks": 67233},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 98, "stars": 108900, "owner": "tensorflow", "forks": 67234},
 {"description": "This is a collection of #botnet source codes, unorganized. For EDUCATIONAL PURPOSES ONLY", "language": "C++", "repo": "botnets", "new_stars": 110, "stars": 1329, "owner": "maestron", "forks": 243},
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 49, "stars": 5482, "owner": "ValveSoftware", "forks": 145},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 50, "stars": 64194, "owner": "electron", "forks": 8346},
 {"description": "An Emscripten port of DOSBox", "language": "C++", "repo": "em-dosbox", "new_stars": 50, "stars": 655, "owner": "dreamlayers", "forks": 113},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 37, "stars": 27415, "owner": "opencv", "forks": 19646},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 32, "stars": 18410, "owner": "pytorch", "forks": 4395},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 32, "stars": 18411, "owner": "pytorch", "forks": 4395},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 30, "stars": 28867, "owner": "protocolbuffers", "forks": 8031},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 28, "stars": 16957, "owner": "grpc", "forks": 3853},
 {"description": "Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 26, "stars": 10139, "owner": "google", "forks": 1589},
-{"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation", "language": "C++", "repo": "openpose", "new_stars": 25, "stars": 8780, "owner": "CMU-Perceptual-Computing-Lab", "forks": 2316},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 25, "stars": 20817, "owner": "tesseract-ocr", "forks": 4157},
+{"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation", "language": "C++", "repo": "openpose", "new_stars": 25, "stars": 8781, "owner": "CMU-Perceptual-Computing-Lab", "forks": 2316},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 25, "stars": 20819, "owner": "tesseract-ocr", "forks": 4157},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 22, "stars": 34494, "owner": "bitcoin", "forks": 20886},
 {"description": "Filament is a real-time physically based rendering engine for Android, Windows, Linux and macOS", "language": "C++", "repo": "filament", "new_stars": 22, "stars": 4243, "owner": "google", "forks": 202},
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 21, "stars": 8967, "owner": "uglide", "forks": 1320},
@@ -18,10 +18,10 @@
 {"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 20, "stars": 1476, "owner": "lupoDharkael", "forks": 103},
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 19, "stars": 7696, "owner": "mozilla", "forks": 1306},
 {"description": "Terminal version of the game \"2048\" written in C++ 11", "language": "C++", "repo": "2048.cpp", "new_stars": 18, "stars": 671, "owner": "plibither8", "forks": 58},
-{"description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO", "language": "C++", "repo": "Sonoff-Tasmota", "new_stars": 18, "stars": 3817, "owner": "arendst", "forks": 925},
+{"description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO", "language": "C++", "repo": "Sonoff-Tasmota", "new_stars": 18, "stars": 3818, "owner": "arendst", "forks": 925},
 {"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.", "language": "C++", "repo": "libphonenumber", "new_stars": 18, "stars": 7439, "owner": "googlei18n", "forks": 978},
 {"description": "A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(", "language": "C++", "repo": "LightGBM", "new_stars": 15, "stars": 6416, "owner": "Microsoft", "forks": 1766},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 16, "stars": 4504, "owner": "facebookresearch", "forks": 863},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 17, "stars": 14781, "owner": "google", "forks": 3607},
-{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 16, "stars": 10444, "owner": "v8", "forks": 2118}
+{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 16, "stars": 10445, "owner": "v8", "forks": 2118}
 ]

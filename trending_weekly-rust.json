@@ -1,6 +1,6 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3145, "stars": 7069, "owner": "sharkdp", "forks": 112},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30444, "owner": "rust-lang", "forks": 5147},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3145, "stars": 7077, "owner": "sharkdp", "forks": 112},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30444, "owner": "rust-lang", "forks": 5148},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 141, "stars": 10060, "owner": "BurntSushi", "forks": 411},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 121, "stars": 1290, "owner": "Aaronepower", "forks": 100},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 94, "stars": 11932, "owner": "jwilm", "forks": 493},
@@ -11,7 +11,7 @@
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 75, "stars": 308, "owner": "maps4print", "forks": 4},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 75, "stars": 197, "owner": "vi", "forks": 10},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 70, "stars": 3636, "owner": "tikv", "forks": 495},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 66, "stars": 7935, "owner": "rust-unofficial", "forks": 521},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 66, "stars": 7936, "owner": "rust-unofficial", "forks": 521},
 {"description": "A simple raytracing renderer written in Rust.", "language": "Rust", "repo": "rayn", "new_stars": 64, "stars": 64, "owner": "termhn", "forks": 2},
 {"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 63, "stars": 195, "owner": "r-darwish", "forks": 7},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 60, "stars": 1750, "owner": "sharkdp", "forks": 33},
@@ -21,7 +21,7 @@
 {"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 57, "stars": 57, "owner": "dmexe", "forks": 1},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 51, "stars": 3061, "owner": "tokio-rs", "forks": 202},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 51, "stars": 51, "owner": "danleh", "forks": 1},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 48, "stars": 5124, "owner": "DenisKolodin", "forks": 174},
-{"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 49, "stars": 52, "owner": "andygrove", "forks": 3},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 48, "stars": 5125, "owner": "DenisKolodin", "forks": 174},
+{"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 49, "stars": 53, "owner": "andygrove", "forks": 3},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 45, "stars": 3731, "owner": "mre", "forks": 439}
 ]

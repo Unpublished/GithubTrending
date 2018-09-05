@@ -1,5 +1,5 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3145, "stars": 7102, "owner": "sharkdp", "forks": 112},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3145, "stars": 7111, "owner": "sharkdp", "forks": 113},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30446, "owner": "rust-lang", "forks": 5148},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 141, "stars": 10061, "owner": "BurntSushi", "forks": 411},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 121, "stars": 1290, "owner": "Aaronepower", "forks": 100},
@@ -18,10 +18,10 @@
 {"description": "Fast tar archiver", "language": "Rust", "repo": "fastar", "new_stars": 60, "stars": 66, "owner": "the8472", "forks": 1},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 54, "stars": 2068, "owner": "gfx-rs", "forks": 277},
 {"description": "a smol tcp/ip stack", "language": "Rust", "repo": "smoltcp", "new_stars": 56, "stars": 567, "owner": "m-labs", "forks": 50},
-{"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 57, "stars": 57, "owner": "dmexe", "forks": 1},
+{"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 57, "stars": 58, "owner": "dmexe", "forks": 1},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 51, "stars": 3061, "owner": "tokio-rs", "forks": 202},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 51, "stars": 51, "owner": "danleh", "forks": 1},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 48, "stars": 5126, "owner": "DenisKolodin", "forks": 174},
-{"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 49, "stars": 53, "owner": "andygrove", "forks": 3},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 45, "stars": 3731, "owner": "mre", "forks": 439}
+{"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 49, "stars": 55, "owner": "andygrove", "forks": 3},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 45, "stars": 3732, "owner": "mre", "forks": 439}
 ]

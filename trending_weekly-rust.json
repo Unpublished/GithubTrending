@@ -1,7 +1,7 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3186, "stars": 7139, "owner": "sharkdp", "forks": 113},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30447, "owner": "rust-lang", "forks": 5148},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 140, "stars": 10062, "owner": "BurntSushi", "forks": 411},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 3186, "stars": 7149, "owner": "sharkdp", "forks": 113},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30446, "owner": "rust-lang", "forks": 5148},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 140, "stars": 10063, "owner": "BurntSushi", "forks": 411},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 120, "stars": 1290, "owner": "Aaronepower", "forks": 100},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 94, "stars": 11934, "owner": "jwilm", "forks": 493},
 {"description": "MesaLink is a memory-safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 85, "stars": 815, "owner": "mesalock-linux", "forks": 30},
@@ -13,7 +13,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 68, "stars": 7938, "owner": "rust-unofficial", "forks": 522},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 66, "stars": 3637, "owner": "tikv", "forks": 494},
 {"description": "A simple raytracing renderer written in Rust.", "language": "Rust", "repo": "rayn", "new_stars": 64, "stars": 64, "owner": "termhn", "forks": 2},
-{"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 61, "stars": 195, "owner": "r-darwish", "forks": 7},
+{"description": "Upgrade all the things", "language": "Rust", "repo": "topgrade", "new_stars": 61, "stars": 196, "owner": "r-darwish", "forks": 7},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 61, "stars": 1751, "owner": "sharkdp", "forks": 33},
 {"description": "Fast tar archiver", "language": "Rust", "repo": "fastar", "new_stars": 60, "stars": 66, "owner": "the8472", "forks": 1},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 55, "stars": 2069, "owner": "gfx-rs", "forks": 277},
@@ -21,7 +21,7 @@
 {"description": "a smol tcp/ip stack", "language": "Rust", "repo": "smoltcp", "new_stars": 56, "stars": 567, "owner": "m-labs", "forks": 50},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 50, "stars": 3061, "owner": "tokio-rs", "forks": 202},
 {"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 53, "stars": 55, "owner": "andygrove", "forks": 3},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 5127, "owner": "DenisKolodin", "forks": 174},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 5128, "owner": "DenisKolodin", "forks": 174},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 51, "stars": 53, "owner": "danleh", "forks": 1},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 44, "stars": 3733, "owner": "mre", "forks": 439}
 ]

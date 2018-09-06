@@ -1,15 +1,15 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 292, "stars": 7265, "owner": "sharkdp", "forks": 119},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 292, "stars": 7272, "owner": "sharkdp", "forks": 120},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 30456, "owner": "rust-lang", "forks": 5149},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 21, "stars": 54, "owner": "benfred", "forks": 4},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 2369, "owner": "actix", "forks": 155},
-{"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 14, "stars": 60, "owner": "danleh", "forks": 1},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 21, "stars": 73, "owner": "benfred", "forks": 4},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 2370, "owner": "actix", "forks": 155},
+{"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 14, "stars": 61, "owner": "danleh", "forks": 1},
 {"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 14, "stars": 59, "owner": "andygrove", "forks": 3},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 13, "stars": 12348, "owner": "servo", "forks": 1955},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 12, "stars": 4717, "owner": "ogham", "forks": 150},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 12, "stars": 4718, "owner": "ogham", "forks": 150},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 12, "stars": 11935, "owner": "jwilm", "forks": 492},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 10071, "owner": "BurntSushi", "forks": 411},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 11, "stars": 5132, "owner": "DenisKolodin", "forks": 174},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 11, "stars": 5133, "owner": "DenisKolodin", "forks": 174},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 10, "stars": 7942, "owner": "rust-unofficial", "forks": 524},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 3735, "owner": "mre", "forks": 439},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 10, "stars": 1755, "owner": "sharkdp", "forks": 33},
@@ -23,5 +23,5 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3500, "owner": "rust-lang", "forks": 810},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 6, "stars": 13426, "owner": "google", "forks": 471},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 6, "stars": 1377, "owner": "autozimu", "forks": 129},
-{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 6, "stars": 931, "owner": "CraneStation", "forks": 87}
+{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 6, "stars": 932, "owner": "CraneStation", "forks": 87}
 ]

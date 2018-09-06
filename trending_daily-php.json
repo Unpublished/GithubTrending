@@ -1,7 +1,7 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 40, "stars": 45456, "owner": "laravel", "forks": 14066},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 29, "stars": 15997, "owner": "composer", "forks": 5252},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 24, "stars": 13695, "owner": "laravel", "forks": 5741},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 24, "stars": 13696, "owner": "laravel", "forks": 5741},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 25, "stars": 11157, "owner": "sebastianbergmann", "forks": 1652},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 23, "stars": 4611, "owner": "symfony", "forks": 141},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 22, "stars": 5952, "owner": "swiftmailer", "forks": 693},
@@ -18,7 +18,7 @@
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 18, "stars": 4023, "owner": "symfony", "forks": 65},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 17, "stars": 3933, "owner": "symfony", "forks": 48},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 17, "stars": 4008, "owner": "symfony", "forks": 45},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 16, "stars": 3938, "owner": "PHPOffice", "forks": 665},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 16, "stars": 3939, "owner": "PHPOffice", "forks": 665},
 {"description": "The Routing component maps an HTTP request to a set of configuration variables.", "language": "PHP", "repo": "routing", "new_stars": 16, "stars": 3978, "owner": "symfony", "forks": 61},
 {"description": "The Translation component provides tools to internationalize your application.", "language": "PHP", "repo": "translation", "new_stars": 16, "stars": 3675, "owner": "symfony", "forks": 38},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 15, "stars": 4422, "owner": "spatie", "forks": 601},

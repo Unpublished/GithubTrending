@@ -1,17 +1,17 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 982, "stars": 1435, "owner": "benfred", "forks": 25},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 188, "stars": 7593, "owner": "sharkdp", "forks": 122},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 982, "stars": 1439, "owner": "benfred", "forks": 25},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 188, "stars": 7597, "owner": "sharkdp", "forks": 122},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 30492, "owner": "rust-lang", "forks": 5154},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 21, "stars": 1443, "owner": "rbspy", "forks": 45},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 10099, "owner": "BurntSushi", "forks": 413},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 10101, "owner": "BurntSushi", "forks": 413},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 17, "stars": 4737, "owner": "ogham", "forks": 150},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 11980, "owner": "jwilm", "forks": 492},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 7966, "owner": "rust-unofficial", "forks": 524},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 12, "stars": 3657, "owner": "tikv", "forks": 497},
 {"description": "ANSI SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 11, "stars": 74, "owner": "andygrove", "forks": 5},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 5149, "owner": "DenisKolodin", "forks": 174},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 5150, "owner": "DenisKolodin", "forks": 174},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 3757, "owner": "mre", "forks": 439},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 5141, "owner": "SergioBenitez", "forks": 333},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 5140, "owner": "SergioBenitez", "forks": 333},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 2378, "owner": "actix", "forks": 155},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 8, "stars": 78, "owner": "danleh", "forks": 1},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 7, "stars": 4772, "owner": "paritytech", "forks": 1011},
@@ -23,5 +23,5 @@
 {"description": "Rust library for syntax highlighting using Sublime Text syntax definitions.", "language": "Rust", "repo": "syntect", "new_stars": 6, "stars": 432, "owner": "trishume", "forks": 38},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 5, "stars": 1551, "owner": "amethyst", "forks": 160},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 5, "stars": 1618, "owner": "serde-rs", "forks": 199},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1631, "owner": "actix", "forks": 92}
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1632, "owner": "actix", "forks": 92}
 ]

@@ -1,14 +1,14 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4317, "stars": 7587, "owner": "sharkdp", "forks": 122},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1401, "stars": 1409, "owner": "benfred", "forks": 24},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4317, "stars": 7588, "owner": "sharkdp", "forks": 122},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1401, "stars": 1418, "owner": "benfred", "forks": 24},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 732, "stars": 30491, "owner": "rust-lang", "forks": 5154},
 {"description": "Xori is an automation-ready disassembly and static analysis library for PE32, 32+ and shellcode", "language": "Rust", "repo": "xori", "new_stars": 502, "stars": 502, "owner": "endgameinc", "forks": 45},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 452, "stars": 11978, "owner": "jwilm", "forks": 492},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 452, "stars": 11979, "owner": "jwilm", "forks": 492},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 396, "stars": 10098, "owner": "BurntSushi", "forks": 413},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 367, "stars": 13429, "owner": "google", "forks": 471},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 346, "stars": 3070, "owner": "tokio-rs", "forks": 203},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 308, "stars": 7966, "owner": "rust-unofficial", "forks": 524},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 276, "stars": 12356, "owner": "servo", "forks": 1955},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 276, "stars": 12357, "owner": "servo", "forks": 1955},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 248, "stars": 5148, "owner": "DenisKolodin", "forks": 174},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 232, "stars": 2378, "owner": "actix", "forks": 155},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 209, "stars": 3657, "owner": "tikv", "forks": 497},
@@ -22,6 +22,6 @@
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 182, "stars": 4737, "owner": "ogham", "forks": 150},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 169, "stars": 1550, "owner": "amethyst", "forks": 160},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 155, "stars": 2586, "owner": "rust-lang", "forks": 765},
-{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 164, "stars": 3753, "owner": "mre", "forks": 439},
+{"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 164, "stars": 3755, "owner": "mre", "forks": 439},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 148, "stars": 4772, "owner": "paritytech", "forks": 1011}
 ]

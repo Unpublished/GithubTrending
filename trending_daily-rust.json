@@ -1,9 +1,9 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 506, "stars": 1548, "owner": "benfred", "forks": 28},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 140, "stars": 7642, "owner": "sharkdp", "forks": 124},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 77, "stars": 10163, "owner": "BurntSushi", "forks": 416},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 506, "stars": 1552, "owner": "benfred", "forks": 28},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 140, "stars": 7648, "owner": "sharkdp", "forks": 124},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 77, "stars": 10165, "owner": "BurntSushi", "forks": 416},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 30503, "owner": "rust-lang", "forks": 5154},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 11986, "owner": "jwilm", "forks": 493},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 11987, "owner": "jwilm", "forks": 493},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 14, "stars": 4739, "owner": "ogham", "forks": 151},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 11, "stars": 3760, "owner": "mre", "forks": 439},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 7966, "owner": "rust-unofficial", "forks": 525},
@@ -20,7 +20,7 @@
 {"description": "Specs - Parallel ECS", "language": "Rust", "repo": "specs", "new_stars": 6, "stars": 721, "owner": "slide-rs", "forks": 77},
 {"description": "Rust library for syntax highlighting using Sublime Text syntax definitions.", "language": "Rust", "repo": "syntect", "new_stars": 6, "stars": 432, "owner": "trishume", "forks": 38},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 5, "stars": 891, "owner": "PyO3", "forks": 55},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1633, "owner": "actix", "forks": 92},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1634, "owner": "actix", "forks": 92},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 2380, "owner": "actix", "forks": 155},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 5, "stars": 1763, "owner": "sharkdp", "forks": 31},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 5, "stars": 909, "owner": "rustwasm", "forks": 58}

@@ -1,13 +1,13 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 679, "stars": 1499, "owner": "benfred", "forks": 26},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 173, "stars": 7629, "owner": "sharkdp", "forks": 124},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 30, "stars": 10135, "owner": "BurntSushi", "forks": 414},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 30497, "owner": "rust-lang", "forks": 5154},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 679, "stars": 1507, "owner": "benfred", "forks": 26},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 173, "stars": 7630, "owner": "sharkdp", "forks": 124},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 30, "stars": 10139, "owner": "BurntSushi", "forks": 414},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 30498, "owner": "rust-lang", "forks": 5154},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 14, "stars": 4738, "owner": "ogham", "forks": 150},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 11982, "owner": "jwilm", "forks": 493},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 11983, "owner": "jwilm", "forks": 493},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 7966, "owner": "rust-unofficial", "forks": 525},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 11, "stars": 3760, "owner": "mre", "forks": 439},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3658, "owner": "tikv", "forks": 497},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3659, "owner": "tikv", "forks": 497},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 5152, "owner": "DenisKolodin", "forks": 174},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 10, "stars": 1444, "owner": "rbspy", "forks": 45},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 5140, "owner": "SergioBenitez", "forks": 333},
@@ -21,7 +21,7 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3071, "owner": "tokio-rs", "forks": 203},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2379, "owner": "actix", "forks": 155},
 {"description": "Rust library for syntax highlighting using Sublime Text syntax definitions.", "language": "Rust", "repo": "syntect", "new_stars": 6, "stars": 432, "owner": "trishume", "forks": 38},
-{"description": "Calm&low-contrast spring color scheme for Vim", "language": "Rust", "repo": "vim-color-spring-night", "new_stars": 6, "stars": 101, "owner": "rhysd", "forks": 8},
+{"description": "Calm&low-contrast spring color scheme for Vim", "language": "Rust", "repo": "vim-color-spring-night", "new_stars": 6, "stars": 102, "owner": "rhysd", "forks": 8},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 5, "stars": 1551, "owner": "amethyst", "forks": 160},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 5, "stars": 7902, "owner": "atom", "forks": 187}
 ]

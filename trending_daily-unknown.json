@@ -1,17 +1,17 @@
 [
-{"description": "Tools of The Trade, from Hacker News.", "language": null, "repo": "ToolsOfTheTrade", "new_stars": 1728, "stars": 9109, "owner": "cjbarber", "forks": 815},
+{"description": "Tools of The Trade, from Hacker News.", "language": null, "repo": "ToolsOfTheTrade", "new_stars": 1728, "stars": 9133, "owner": "cjbarber", "forks": 817},
 {"description": "Computer Science Learning Notes", "language": null, "repo": "CS-Notes", "new_stars": 227, "stars": 34941, "owner": "CyC2018", "forks": 10260},
-{"description": "100 Days of ML Coding", "language": null, "repo": "100-Days-Of-ML-Code", "new_stars": 130, "stars": 13124, "owner": "Avik-Jain", "forks": 2359},
+{"description": "100 Days of ML Coding", "language": null, "repo": "100-Days-Of-ML-Code", "new_stars": 130, "stars": 13124, "owner": "Avik-Jain", "forks": 2360},
 {"description": "Curated list of awesome lists", "language": null, "repo": "awesome", "new_stars": 57, "stars": 92144, "owner": "sindresorhus", "forks": 12204},
 {"description": "Build the best interview map. The current content includes JS, network, browser related, performance optimization, security, framework, Git, data structure, algorithm, etc.", "language": null, "repo": "CS-Interview-Knowledge-Map", "new_stars": 46, "stars": 11489, "owner": "InterviewMap", "forks": 1455},
-{"description": "A list of awesome resources for tmux", "language": null, "repo": "awesome-tmux", "new_stars": 51, "stars": 1689, "owner": "rothgar", "forks": 50},
+{"description": "A list of awesome resources for tmux", "language": null, "repo": "awesome-tmux", "new_stars": 51, "stars": 1690, "owner": "rothgar", "forks": 50},
 {"description": "Roadmap to becoming a web developer in 2018", "language": null, "repo": "developer-roadmap", "new_stars": 46, "stars": 56498, "owner": "kamranahmedse", "forks": 8701},
-{"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 45, "stars": 110911, "owner": "EbookFoundation", "forks": 28053},
-{"description": "A complete computer science study plan to become a software engineer.", "language": null, "repo": "coding-interview-university", "new_stars": 37, "stars": 68266, "owner": "jwasham", "forks": 19566},
+{"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 45, "stars": 110913, "owner": "EbookFoundation", "forks": 28053},
+{"description": "A complete computer science study plan to become a software engineer.", "language": null, "repo": "coding-interview-university", "new_stars": 37, "stars": 68267, "owner": "jwasham", "forks": 19567},
 {"description": "\u5907\u6218\u79cb\u62db/\u9762\u8bd5\uff0cCS\u5b66\u4e60\u7b14\u8bb0/\u9762\u7ecf\u3002\u91d1\u4e5d\u94f6\u5341\uff0c\u4f60\u51c6\u5907\u597d\u4e86\u5417\uff1ffrom zero to hero.", "language": null, "repo": "2019_campus_apply", "new_stars": 32, "stars": 632, "owner": "frank-lam", "forks": 147},
-{"description": "A collection of useful .gitignore templates", "language": null, "repo": "gitignore", "new_stars": 28, "stars": 72368, "owner": "github", "forks": 33637},
+{"description": "A collection of useful .gitignore templates", "language": null, "repo": "gitignore", "new_stars": 28, "stars": 72371, "owner": "github", "forks": 33638},
 {"description": "A curated list of awesome things related to Vue.js", "language": null, "repo": "awesome-vue", "new_stars": 27, "stars": 37260, "owner": "vuejs", "forks": 5129},
-{"description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.", "language": null, "repo": "awesome-cpp", "new_stars": 27, "stars": 15230, "owner": "fffaraz", "forks": 2849},
+{"description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.", "language": null, "repo": "awesome-cpp", "new_stars": 27, "stars": 15231, "owner": "fffaraz", "forks": 2849},
 {"description": "A collection of resources (including the papers and datasets) of OCR (Optical Character Recognition).", "language": null, "repo": "awesome-ocr-resources", "new_stars": 26, "stars": 73, "owner": "ZumingHuang", "forks": 14},
 {"description": "Both reference and MATRIX original sol files", "language": null, "repo": "SMARTCONTRACT", "new_stars": 19, "stars": 88, "owner": "MatrixAINetwork", "forks": 77},
 {"description": "Matrix Trendings as well as Digests", "language": null, "repo": "MATRIX_Diary", "new_stars": 21, "stars": 177, "owner": "MatrixAINetwork", "forks": 158},
@@ -22,6 +22,6 @@
 {"description": "\u540e\u7aef\u67b6\u6784\u5e08\u6280\u672f\u56fe\u8c31", "language": null, "repo": "architect-awesome", "new_stars": 20, "stars": 24267, "owner": "xingshaocheng", "forks": 6666},
 {"description": "A collection of awesome things regarding React ecosystem.", "language": null, "repo": "awesome-react", "new_stars": 21, "stars": 27556, "owner": "enaqx", "forks": 3124},
 {"description": "\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a", "language": null, "repo": "gold-miner", "new_stars": 18, "stars": 16163, "owner": "xitu", "forks": 2779},
-{"description": "Build your own (insert technology here)", "language": null, "repo": "build-your-own-x", "new_stars": 18, "stars": 38276, "owner": "danistefanovic", "forks": 2396},
-{"description": "Curated list of project-based tutorials", "language": null, "repo": "project-based-learning", "new_stars": 14, "stars": 13433, "owner": "tuvtran", "forks": 1803}
+{"description": "Build your own (insert technology here)", "language": null, "repo": "build-your-own-x", "new_stars": 18, "stars": 38278, "owner": "danistefanovic", "forks": 2395},
+{"description": "Curated list of project-based tutorials", "language": null, "repo": "project-based-learning", "new_stars": 14, "stars": 13433, "owner": "tuvtran", "forks": 1804}
 ]

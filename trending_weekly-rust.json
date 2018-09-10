@@ -1,15 +1,15 @@
 [
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1987, "stars": 2006, "owner": "benfred", "forks": 46},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1655, "stars": 7873, "owner": "sharkdp", "forks": 131},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1655, "stars": 7875, "owner": "sharkdp", "forks": 131},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 393, "stars": 10425, "owner": "BurntSushi", "forks": 428},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 30533, "owner": "rust-lang", "forks": 5161},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 124, "stars": 12001, "owner": "jwilm", "forks": 495},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 30534, "owner": "rust-lang", "forks": 5161},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 124, "stars": 12002, "owner": "jwilm", "forks": 495},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 85, "stars": 86, "owner": "danleh", "forks": 2},
 {"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 77, "stars": 77, "owner": "dmexe", "forks": 1},
 {"description": "Extensible SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 74, "stars": 76, "owner": "andygrove", "forks": 5},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 72, "stars": 7984, "owner": "rust-unofficial", "forks": 527},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 70, "stars": 5166, "owner": "DenisKolodin", "forks": 175},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 64, "stars": 3674, "owner": "tikv", "forks": 500},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 64, "stars": 3675, "owner": "tikv", "forks": 500},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 63, "stars": 4744, "owner": "ogham", "forks": 152},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 53, "stars": 5152, "owner": "SergioBenitez", "forks": 336},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 54, "stars": 3766, "owner": "mre", "forks": 439},
@@ -22,6 +22,6 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 37, "stars": 2081, "owner": "gfx-rs", "forks": 277},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 35, "stars": 13447, "owner": "google", "forks": 471},
 {"description": "An IDE-ready parser for the Rust programming language", "language": "Rust", "repo": "libsyntax2", "new_stars": 33, "stars": 73, "owner": "matklad", "forks": 10},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 24, "stars": 4778, "owner": "paritytech", "forks": 1017},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 24, "stars": 4779, "owner": "paritytech", "forks": 1017},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 30, "stars": 1768, "owner": "sharkdp", "forks": 33}
 ]

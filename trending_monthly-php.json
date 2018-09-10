@@ -1,14 +1,14 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 820, "stars": 45549, "owner": "laravel", "forks": 14089},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 463, "stars": 13765, "owner": "laravel", "forks": 5755},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 820, "stars": 45550, "owner": "laravel", "forks": 14089},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 463, "stars": 13766, "owner": "laravel", "forks": 5755},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 465, "stars": 16047, "owner": "composer", "forks": 5259},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 395, "stars": 17171, "owner": "fzaninotto", "forks": 2187},
-{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 324, "stars": 4492, "owner": "z-song", "forks": 1257},
+{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 324, "stars": 4493, "owner": "z-song", "forks": 1259},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 354, "stars": 13784, "owner": "guzzle", "forks": 1809},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 353, "stars": 11199, "owner": "sebastianbergmann", "forks": 1655},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 337, "stars": 3975, "owner": "PHPOffice", "forks": 671},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 337, "stars": 3976, "owner": "PHPOffice", "forks": 671},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 340, "stars": 7499, "owner": "nikic", "forks": 528},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 303, "stars": 18521, "owner": "symfony", "forks": 6390},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 303, "stars": 18523, "owner": "symfony", "forks": 6390},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 283, "stars": 5240, "owner": "nextcloud", "forks": 895},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 293, "stars": 4309, "owner": "doctrine", "forks": 36},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 289, "stars": 5992, "owner": "swiftmailer", "forks": 693},
@@ -21,7 +21,7 @@
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 256, "stars": 4038, "owner": "symfony", "forks": 45},
 {"description": "The CssSelector component converts CSS selectors to XPath expressions.", "language": "PHP", "repo": "css-selector", "new_stars": 256, "stars": 3572, "owner": "symfony", "forks": 20},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 249, "stars": 7219, "owner": "thephpleague", "forks": 463},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 193, "stars": 11711, "owner": "PHPMailer", "forks": 6471},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 193, "stars": 11711, "owner": "PHPMailer", "forks": 6470},
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 251, "stars": 4053, "owner": "symfony", "forks": 66},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 246, "stars": 3968, "owner": "symfony", "forks": 48}
 ]

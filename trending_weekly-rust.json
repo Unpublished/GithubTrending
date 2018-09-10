@@ -1,19 +1,19 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1917, "stars": 1926, "owner": "benfred", "forks": 44},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1770, "stars": 7841, "owner": "sharkdp", "forks": 131},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 381, "stars": 10404, "owner": "BurntSushi", "forks": 425},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1917, "stars": 1934, "owner": "benfred", "forks": 44},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1770, "stars": 7842, "owner": "sharkdp", "forks": 131},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 381, "stars": 10407, "owner": "BurntSushi", "forks": 425},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 30527, "owner": "rust-lang", "forks": 5161},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 123, "stars": 11999, "owner": "jwilm", "forks": 495},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 84, "stars": 84, "owner": "danleh", "forks": 2},
 {"description": "Extensible SQL Lexer and Parser for Rust", "language": "Rust", "repo": "sqlparser-rs", "new_stars": 74, "stars": 76, "owner": "andygrove", "forks": 5},
 {"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 76, "stars": 76, "owner": "dmexe", "forks": 1},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 71, "stars": 7981, "owner": "rust-unofficial", "forks": 526},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 71, "stars": 7982, "owner": "rust-unofficial", "forks": 527},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 63, "stars": 3668, "owner": "tikv", "forks": 500},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 67, "stars": 5161, "owner": "DenisKolodin", "forks": 175},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 67, "stars": 5162, "owner": "DenisKolodin", "forks": 175},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 64, "stars": 4742, "owner": "ogham", "forks": 152},
 {"description": "A curated list of linters, code quality checkers, and other static analysis tools for various programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 54, "stars": 3765, "owner": "mre", "forks": 439},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 51, "stars": 5150, "owner": "SergioBenitez", "forks": 336},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 48, "stars": 2387, "owner": "actix", "forks": 155},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 48, "stars": 2388, "owner": "actix", "forks": 155},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 45, "stars": 1451, "owner": "rbspy", "forks": 45},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 43, "stars": 12363, "owner": "servo", "forks": 1956},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 42, "stars": 3083, "owner": "tokio-rs", "forks": 204},
@@ -23,5 +23,5 @@
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 34, "stars": 1768, "owner": "sharkdp", "forks": 33},
 {"description": "An IDE-ready parser for the Rust programming language", "language": "Rust", "repo": "libsyntax2", "new_stars": 32, "stars": 72, "owner": "matklad", "forks": 10},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 25, "stars": 4778, "owner": "paritytech", "forks": 1015},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 31, "stars": 13442, "owner": "google", "forks": 471}
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 31, "stars": 13443, "owner": "google", "forks": 471}
 ]

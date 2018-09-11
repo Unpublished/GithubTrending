@@ -1,12 +1,12 @@
 [
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 215, "stars": 2108, "owner": "benfred", "forks": 47},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 92, "stars": 7917, "owner": "sharkdp", "forks": 133},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 60, "stars": 10453, "owner": "BurntSushi", "forks": 431},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 60, "stars": 10454, "owner": "BurntSushi", "forks": 431},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 30552, "owner": "rust-lang", "forks": 5165},
 {"description": "Executes commands in response to file modifications", "language": "Rust", "repo": "watchexec", "new_stars": 16, "stars": 635, "owner": "watchexec", "forks": 35},
 {"description": "Zero-details, privacy-focused embeddable file system.", "language": "Rust", "repo": "zbox", "new_stars": 13, "stars": 812, "owner": "zboxfs", "forks": 26},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 13, "stars": 3677, "owner": "tikv", "forks": 500},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 12, "stars": 3092, "owner": "tokio-rs", "forks": 203},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 12, "stars": 3094, "owner": "tokio-rs", "forks": 203},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 11, "stars": 2090, "owner": "gfx-rs", "forks": 277},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 10, "stars": 1069, "owner": "tantivy-search", "forks": 66},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 13450, "owner": "google", "forks": 471},
@@ -20,7 +20,7 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 7, "stars": 2393, "owner": "actix", "forks": 155},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 2390, "owner": "rust-lang-nursery", "forks": 337},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 7, "stars": 1457, "owner": "rbspy", "forks": 45},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 6, "stars": 4748, "owner": "ogham", "forks": 152},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 6, "stars": 4749, "owner": "ogham", "forks": 152},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1643, "owner": "actix", "forks": 94},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 1352, "owner": "mimblewimble", "forks": 248},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 5, "stars": 4234, "owner": "uutils", "forks": 375}

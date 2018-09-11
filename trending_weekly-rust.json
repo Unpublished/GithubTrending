@@ -1,9 +1,9 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2104, "stars": 2116, "owner": "benfred", "forks": 47},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1403, "stars": 7921, "owner": "sharkdp", "forks": 133},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2104, "stars": 2120, "owner": "benfred", "forks": 47},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1403, "stars": 7923, "owner": "sharkdp", "forks": 133},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 418, "stars": 10457, "owner": "BurntSushi", "forks": 431},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 166, "stars": 30555, "owner": "rust-lang", "forks": 5165},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 126, "stars": 12011, "owner": "jwilm", "forks": 495},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 126, "stars": 12012, "owner": "jwilm", "forks": 495},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 83, "stars": 86, "owner": "danleh", "forks": 2},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 69, "stars": 7987, "owner": "rust-unofficial", "forks": 528},
 {"description": "A circuit breaker implementation for rust", "language": "Rust", "repo": "failsafe-rs", "new_stars": 65, "stars": 78, "owner": "dmexe", "forks": 1},
@@ -20,7 +20,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 40, "stars": 12370, "owner": "servo", "forks": 1956},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 37, "stars": 2603, "owner": "rust-lang", "forks": 770},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 40, "stars": 13450, "owner": "google", "forks": 471},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 36, "stars": 7912, "owner": "atom", "forks": 187},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 36, "stars": 7913, "owner": "atom", "forks": 187},
 {"description": "Executes commands in response to file modifications", "language": "Rust", "repo": "watchexec", "new_stars": 33, "stars": 635, "owner": "watchexec", "forks": 35},
 {"description": "An IDE-ready parser for the Rust programming language", "language": "Rust", "repo": "libsyntax2", "new_stars": 31, "stars": 73, "owner": "matklad", "forks": 10},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 22, "stars": 4778, "owner": "paritytech", "forks": 1020}

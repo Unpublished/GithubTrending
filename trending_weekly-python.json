@@ -1,19 +1,19 @@
 [
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 1083, "stars": 47411, "owner": "donnemartin", "forks": 6311},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 1083, "stars": 47413, "owner": "donnemartin", "forks": 6311},
 {"description": "Local file system transparently swapping to the cloud", "language": "Python", "repo": "zero", "new_stars": 686, "stars": 687, "owner": "KonstantinSchubert", "forks": 19},
-{"description": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts", "language": "Python", "repo": "jupytext", "new_stars": 670, "stars": 683, "owner": "mwouts", "forks": 31},
+{"description": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts", "language": "Python", "repo": "jupytext", "new_stars": 670, "stars": 686, "owner": "mwouts", "forks": 31},
 {"description": "A command-line and interactive shell framework.", "language": "Python", "repo": "python-nubia", "new_stars": 611, "stars": 621, "owner": "facebookincubator", "forks": 29},
 {"description": "Chinese Translation for Machine Learning Infographics", "language": "Python", "repo": "100-Days-of-ML-Code-Chinese-Version", "new_stars": 510, "stars": 679, "owner": "Avik-Jain", "forks": 201},
-{"description": "Self-Hosted Bookmark and Archive Manager", "language": "Python", "repo": "reminiscence", "new_stars": 546, "stars": 599, "owner": "kanishka-linux", "forks": 19},
-{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 478, "stars": 6954, "owner": "TheAlgorithms", "forks": 2745},
-{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 375, "stars": 41289, "owner": "tensorflow", "forks": 24650},
+{"description": "Self-Hosted Bookmark and Archive Manager", "language": "Python", "repo": "reminiscence", "new_stars": 546, "stars": 600, "owner": "kanishka-linux", "forks": 19},
+{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 478, "stars": 6956, "owner": "TheAlgorithms", "forks": 2745},
+{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 375, "stars": 41290, "owner": "tensorflow", "forks": 24650},
 {"description": "Playground and cheatsheet for learning Python", "language": "Python", "repo": "learn-python", "new_stars": 461, "stars": 2092, "owner": "trekhleb", "forks": 259},
 {"description": "aspider - An async web scraping micro-framework based on asyncio.", "language": "Python", "repo": "aspider", "new_stars": 477, "stars": 501, "owner": "howie6879", "forks": 19},
 {"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 385, "stars": 55105, "owner": "vinta", "forks": 10648},
 {"description": "\u7b80\u5355\u7c97\u66b4TensorFlow | A Concise Handbook of TensorFlow", "language": "Python", "repo": "TensorFlow-cn", "new_stars": 376, "stars": 381, "owner": "snowkylin", "forks": 47},
 {"description": "Simple random DNS, HTTP/S internet traffic noise generator", "language": "Python", "repo": "noisy", "new_stars": 375, "stars": 640, "owner": "1tayH", "forks": 59},
-{"description": "Toolkit for Text Generation and Beyond", "language": "Python", "repo": "texar", "new_stars": 345, "stars": 423, "owner": "asyml", "forks": 46},
-{"description": "Code to reproduce \"imagenet in 18 minutes\" experiments", "language": "Python", "repo": "imagenet18", "new_stars": 339, "stars": 339, "owner": "diux-dev", "forks": 27},
+{"description": "Toolkit for Text Generation and Beyond", "language": "Python", "repo": "texar", "new_stars": 345, "stars": 424, "owner": "asyml", "forks": 46},
+{"description": "Code to reproduce \"imagenet in 18 minutes\" experiments", "language": "Python", "repo": "imagenet18", "new_stars": 339, "stars": 340, "owner": "diux-dev", "forks": 27},
 {"description": null, "language": "Python", "repo": "proSR", "new_stars": 328, "stars": 329, "owner": "fperazzi", "forks": 33},
 {"description": "Command-line program to download videos from YouTube.com and other video sites", "language": "Python", "repo": "youtube-dl", "new_stars": 319, "stars": 41569, "owner": "rg3", "forks": 7305},
 {"description": "A collective list of public JSON APIs for use in web development.", "language": "Python", "repo": "public-apis", "new_stars": 299, "stars": 41994, "owner": "toddmotto", "forks": 4199},
@@ -23,5 +23,5 @@
 {"description": "Animation engine for explanatory math videos", "language": "Python", "repo": "manim", "new_stars": 246, "stars": 4818, "owner": "3b1b", "forks": 569},
 {"description": "2018/2019/\u6821\u62db/\u6625\u62db/\u79cb\u62db/\u7b97\u6cd5/\u673a\u5668\u5b66\u4e60(Machine Learning)/\u6df1\u5ea6\u5b66\u4e60(Deep Learning)/\u81ea\u7136\u8bed\u8a00\u5904\u7406(NLP)/C/C++/Python/\u9762\u8bd5\u7b14\u8bb0", "language": "Python", "repo": "Algorithm_Interview_Notes-Chinese", "new_stars": 192, "stars": 2446, "owner": "imhuay", "forks": 554},
 {"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 170, "stars": 36354, "owner": "django", "forks": 15575},
-{"description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications \u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.", "language": "Python", "repo": "ansible", "new_stars": 150, "stars": 32472, "owner": "ansible", "forks": 12774}
+{"description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications \u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.", "language": "Python", "repo": "ansible", "new_stars": 150, "stars": 32473, "owner": "ansible", "forks": 12774}
 ]

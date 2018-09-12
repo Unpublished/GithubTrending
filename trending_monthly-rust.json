@@ -1,9 +1,9 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4712, "stars": 7992, "owner": "sharkdp", "forks": 134},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2198, "stars": 2205, "owner": "benfred", "forks": 51},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2198, "stars": 2206, "owner": "benfred", "forks": 51},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 744, "stars": 30575, "owner": "rust-lang", "forks": 5166},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 745, "stars": 10485, "owner": "BurntSushi", "forks": 432},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 410, "stars": 12024, "owner": "jwilm", "forks": 497},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 745, "stars": 10486, "owner": "BurntSushi", "forks": 432},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 410, "stars": 12025, "owner": "jwilm", "forks": 497},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 343, "stars": 13451, "owner": "google", "forks": 470},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 318, "stars": 8002, "owner": "rust-unofficial", "forks": 528},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 265, "stars": 12378, "owner": "servo", "forks": 1956},
@@ -22,6 +22,6 @@
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 144, "stars": 1571, "owner": "amethyst", "forks": 162},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 141, "stars": 552, "owner": "seanmonstar", "forks": 35},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 137, "stars": 1773, "owner": "sharkdp", "forks": 33},
-{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 134, "stars": 232, "owner": "carllerche", "forks": 15},
+{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 134, "stars": 233, "owner": "carllerche", "forks": 15},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 124, "stars": 3511, "owner": "rust-lang", "forks": 815}
 ]

@@ -1,18 +1,18 @@
 [
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 80, "stars": 2303, "owner": "benfred", "forks": 57},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 48, "stars": 8061, "owner": "sharkdp", "forks": 138},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 48, "stars": 8062, "owner": "sharkdp", "forks": 138},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 30606, "owner": "rust-lang", "forks": 5168},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 23, "stars": 10512, "owner": "BurntSushi", "forks": 433},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 17, "stars": 5205, "owner": "DenisKolodin", "forks": 175},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 12041, "owner": "jwilm", "forks": 498},
-{"description": "A Rust Client for the Selenium webdriver (WIP)", "language": "Rust", "repo": "selenium-rs", "new_stars": 16, "stars": 34, "owner": "saresend", "forks": 1},
+{"description": "A Rust Client for the Selenium webdriver (WIP)", "language": "Rust", "repo": "selenium-rs", "new_stars": 16, "stars": 35, "owner": "saresend", "forks": 1},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 15, "stars": 3307, "owner": "BurntSushi", "forks": 109},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 14, "stars": 338, "owner": "maps4print", "forks": 5},
 {"description": "A standalone markdown to PDF converter", "language": "Rust", "repo": "mdproof", "new_stars": 14, "stars": 89, "owner": "Geemili", "forks": 3},
 {"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 14, "stars": 55, "owner": "brion", "forks": 0},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 11, "stars": 4802, "owner": "paritytech", "forks": 1028},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3696, "owner": "tikv", "forks": 501},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8012, "owner": "rust-unofficial", "forks": 529},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 3695, "owner": "tikv", "forks": 501},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8011, "owner": "rust-unofficial", "forks": 529},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 2409, "owner": "actix", "forks": 155},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 8, "stars": 4259, "owner": "uutils", "forks": 377},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 7, "stars": 1674, "owner": "habitat-sh", "forks": 261},
@@ -20,8 +20,8 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 12386, "owner": "servo", "forks": 1956},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 6, "stars": 13458, "owner": "google", "forks": 473},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3108, "owner": "tokio-rs", "forks": 205},
-{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 6, "stars": 242, "owner": "carllerche", "forks": 16},
+{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 6, "stars": 243, "owner": "carllerche", "forks": 16},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5164, "owner": "SergioBenitez", "forks": 337},
 {"description": "sled likes eating data: alpha modern embedded database", "language": "Rust", "repo": "sled", "new_stars": 6, "stars": 1476, "owner": "spacejam", "forks": 48},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 1363, "owner": "mimblewimble", "forks": 250}
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 1364, "owner": "mimblewimble", "forks": 250}
 ]

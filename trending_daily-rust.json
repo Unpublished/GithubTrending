@@ -2,12 +2,12 @@
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 83, "stars": 2373, "owner": "benfred", "forks": 63},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 49, "stars": 8088, "owner": "sharkdp", "forks": 138},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 20, "stars": 10521, "owner": "BurntSushi", "forks": 433},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 18, "stars": 30612, "owner": "rust-lang", "forks": 5169},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 18, "stars": 3319, "owner": "BurntSushi", "forks": 109},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 18, "stars": 30613, "owner": "rust-lang", "forks": 5170},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 18, "stars": 3320, "owner": "BurntSushi", "forks": 109},
 {"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 18, "stars": 70, "owner": "brion", "forks": 1},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 14, "stars": 1475, "owner": "rbspy", "forks": 45},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 12, "stars": 6652, "owner": "sharkdp", "forks": 166},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 12048, "owner": "jwilm", "forks": 498},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 12049, "owner": "jwilm", "forks": 498},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 10, "stars": 1314, "owner": "rustwasm", "forks": 140},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 8, "stars": 4804, "owner": "paritytech", "forks": 1031},
 {"description": "Slotmap data structure for Rust", "language": "Rust", "repo": "slotmap", "new_stars": 10, "stars": 78, "owner": "orlp", "forks": 4},
@@ -22,6 +22,6 @@
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 7, "stars": 724, "owner": "xiph", "forks": 51},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 7, "stars": 2411, "owner": "actix", "forks": 155},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 7, "stars": 1383, "owner": "rust-lang-nursery", "forks": 205},
-{"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 6, "stars": 1324, "owner": "Aaronepower", "forks": 103},
+{"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 6, "stars": 1325, "owner": "Aaronepower", "forks": 103},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 12389, "owner": "servo", "forks": 1958}
 ]

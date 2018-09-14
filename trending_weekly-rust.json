@@ -1,13 +1,13 @@
 [
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1232, "stars": 3329, "owner": "BurntSushi", "forks": 109},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1191, "stars": 2394, "owner": "benfred", "forks": 66},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 583, "stars": 8110, "owner": "sharkdp", "forks": 138},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1232, "stars": 3330, "owner": "BurntSushi", "forks": 109},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1191, "stars": 2396, "owner": "benfred", "forks": 66},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 583, "stars": 8112, "owner": "sharkdp", "forks": 138},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 443, "stars": 10526, "owner": "BurntSushi", "forks": 434},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 160, "stars": 30619, "owner": "rust-lang", "forks": 5168},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 160, "stars": 30620, "owner": "rust-lang", "forks": 5168},
 {"description": "A standalone markdown to PDF converter", "language": "Rust", "repo": "mdproof", "new_stars": 94, "stars": 94, "owner": "Geemili", "forks": 3},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 87, "stars": 12049, "owner": "jwilm", "forks": 498},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 6654, "owner": "sharkdp", "forks": 166},
-{"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 72, "stars": 75, "owner": "brion", "forks": 1},
+{"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 72, "stars": 76, "owner": "brion", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 59, "stars": 8015, "owner": "rust-unofficial", "forks": 529},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 47, "stars": 3699, "owner": "tikv", "forks": 502},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 45, "stars": 5174, "owner": "SergioBenitez", "forks": 338},
@@ -21,7 +21,7 @@
 {"description": "Executes commands in response to file modifications", "language": "Rust", "repo": "watchexec", "new_stars": 39, "stars": 648, "owner": "watchexec", "forks": 35},
 {"description": "Automatically track how you are spending your time by watching the file system", "language": "Rust", "repo": "timetrack", "new_stars": 39, "stars": 40, "owner": "JoshMcguigan", "forks": 0},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 38, "stars": 4261, "owner": "uutils", "forks": 377},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 36, "stars": 7926, "owner": "atom", "forks": 190},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 36, "stars": 7927, "owner": "atom", "forks": 190},
 {"description": "A Rust Client for the Selenium webdriver (WIP)", "language": "Rust", "repo": "selenium-rs", "new_stars": 36, "stars": 38, "owner": "saresend", "forks": 1},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 32, "stars": 1369, "owner": "mimblewimble", "forks": 252}
 ]

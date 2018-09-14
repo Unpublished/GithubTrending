@@ -1,9 +1,9 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1591, "stars": 2341, "owner": "benfred", "forks": 60},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1591, "stars": 2349, "owner": "benfred", "forks": 62},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1224, "stars": 3318, "owner": "BurntSushi", "forks": 109},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 646, "stars": 8082, "owner": "sharkdp", "forks": 138},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 443, "stars": 10520, "owner": "BurntSushi", "forks": 433},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 30610, "owner": "rust-lang", "forks": 5169},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 30611, "owner": "rust-lang", "forks": 5169},
 {"description": "A standalone markdown to PDF converter", "language": "Rust", "repo": "mdproof", "new_stars": 92, "stars": 92, "owner": "Geemili", "forks": 3},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 90, "stars": 6652, "owner": "sharkdp", "forks": 166},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 87, "stars": 12045, "owner": "jwilm", "forks": 498},
@@ -11,7 +11,7 @@
 {"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 69, "stars": 70, "owner": "brion", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 63, "stars": 8012, "owner": "rust-unofficial", "forks": 529},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 54, "stars": 3696, "owner": "tikv", "forks": 502},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 42, "stars": 4804, "owner": "paritytech", "forks": 1030},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 42, "stars": 4804, "owner": "paritytech", "forks": 1031},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 46, "stars": 3108, "owner": "tokio-rs", "forks": 204},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 2618, "owner": "rust-lang", "forks": 777},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 43, "stars": 5168, "owner": "SergioBenitez", "forks": 338},
@@ -22,6 +22,6 @@
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 39, "stars": 4261, "owner": "uutils", "forks": 377},
 {"description": "Executes commands in response to file modifications", "language": "Rust", "repo": "watchexec", "new_stars": 39, "stars": 646, "owner": "watchexec", "forks": 35},
 {"description": "Automatically track how you are spending your time by watching the file system", "language": "Rust", "repo": "timetrack", "new_stars": 37, "stars": 38, "owner": "JoshMcguigan", "forks": 0},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 35, "stars": 4756, "owner": "ogham", "forks": 152},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 35, "stars": 4757, "owner": "ogham", "forks": 152},
 {"description": "A Rust Client for the Selenium webdriver (WIP)", "language": "Rust", "repo": "selenium-rs", "new_stars": 35, "stars": 37, "owner": "saresend", "forks": 1}
 ]

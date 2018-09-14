@@ -3,16 +3,16 @@
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2381, "stars": 2385, "owner": "benfred", "forks": 65},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1312, "stars": 3322, "owner": "BurntSushi", "forks": 109},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 754, "stars": 30616, "owner": "rust-lang", "forks": 5169},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 770, "stars": 10522, "owner": "BurntSushi", "forks": 433},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 599, "stars": 6652, "owner": "sharkdp", "forks": 166},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 406, "stars": 12049, "owner": "jwilm", "forks": 498},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 770, "stars": 10523, "owner": "BurntSushi", "forks": 433},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 599, "stars": 6651, "owner": "sharkdp", "forks": 166},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 406, "stars": 12047, "owner": "jwilm", "forks": 498},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 305, "stars": 8013, "owner": "rust-unofficial", "forks": 529},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 265, "stars": 12390, "owner": "servo", "forks": 1958},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 234, "stars": 3696, "owner": "tikv", "forks": 502},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 234, "stars": 3697, "owner": "tikv", "forks": 502},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 224, "stars": 2412, "owner": "actix", "forks": 155},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 205, "stars": 1326, "owner": "Aaronepower", "forks": 103},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 199, "stars": 3111, "owner": "tokio-rs", "forks": 204},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 197, "stars": 5171, "owner": "SergioBenitez", "forks": 338},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 197, "stars": 5172, "owner": "SergioBenitez", "forks": 338},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 196, "stars": 13458, "owner": "google", "forks": 473},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 190, "stars": 4758, "owner": "ogham", "forks": 152},
 {"description": "(Going to be) A microkernel that implements a WebAssembly \"usermode\" that runs in Ring 0.", "language": "Rust", "repo": "nebulet", "new_stars": 180, "stars": 1716, "owner": "nebulet", "forks": 38},
@@ -23,5 +23,5 @@
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 137, "stars": 1580, "owner": "amethyst", "forks": 162},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 136, "stars": 1315, "owner": "rustwasm", "forks": 140},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 131, "stars": 244, "owner": "carllerche", "forks": 17},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 132, "stars": 1780, "owner": "sharkdp", "forks": 33}
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 132, "stars": 1781, "owner": "sharkdp", "forks": 33}
 ]

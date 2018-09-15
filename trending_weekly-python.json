@@ -1,13 +1,13 @@
 [
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 965, "stars": 47712, "owner": "donnemartin", "forks": 6369},
-{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 972, "stars": 7453, "owner": "TheAlgorithms", "forks": 2808},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 965, "stars": 47713, "owner": "donnemartin", "forks": 6369},
+{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 972, "stars": 7455, "owner": "TheAlgorithms", "forks": 2808},
 {"description": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts", "language": "Python", "repo": "jupytext", "new_stars": 770, "stars": 784, "owner": "mwouts", "forks": 34},
 {"description": "Local file system transparently swapping to the cloud", "language": "Python", "repo": "zero", "new_stars": 726, "stars": 726, "owner": "KonstantinSchubert", "forks": 19},
 {"description": "Self-Hosted Bookmark and Archive Manager", "language": "Python", "repo": "reminiscence", "new_stars": 571, "stars": 643, "owner": "kanishka-linux", "forks": 20},
-{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 391, "stars": 41400, "owner": "tensorflow", "forks": 24742},
+{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 391, "stars": 41401, "owner": "tensorflow", "forks": 24743},
 {"description": "aspider - An async web scraping micro-framework based on asyncio.", "language": "Python", "repo": "aspider", "new_stars": 512, "stars": 530, "owner": "howie6879", "forks": 22},
-{"description": "\u7b80\u5355\u7c97\u66b4TensorFlow | A Concise Handbook of TensorFlow", "language": "Python", "repo": "TensorFlow-cn", "new_stars": 412, "stars": 425, "owner": "snowkylin", "forks": 57},
-{"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 357, "stars": 55180, "owner": "vinta", "forks": 10670},
+{"description": "\u7b80\u5355\u7c97\u66b4TensorFlow | A Concise Handbook of TensorFlow", "language": "Python", "repo": "TensorFlow-cn", "new_stars": 412, "stars": 426, "owner": "snowkylin", "forks": 57},
+{"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 357, "stars": 55182, "owner": "vinta", "forks": 10670},
 {"description": "Code to reproduce \"imagenet in 18 minutes\" experiments", "language": "Python", "repo": "imagenet18", "new_stars": 356, "stars": 357, "owner": "diux-dev", "forks": 30},
 {"description": "A command-line and interactive shell framework.", "language": "Python", "repo": "python-nubia", "new_stars": 346, "stars": 714, "owner": "facebookincubator", "forks": 30},
 {"description": "Safe code refactoring for modern Python.", "language": "Python", "repo": "Bowler", "new_stars": 322, "stars": 513, "owner": "facebookincubator", "forks": 15},
@@ -16,12 +16,12 @@
 {"description": "Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.", "language": "Python", "repo": "vid2vid", "new_stars": 288, "stars": 3617, "owner": "NVIDIA", "forks": 376},
 {"description": "A collective list of public JSON APIs for use in web development.", "language": "Python", "repo": "public-apis", "new_stars": 283, "stars": 42085, "owner": "toddmotto", "forks": 4217},
 {"description": "Toolkit for Text Generation and Beyond", "language": "Python", "repo": "texar", "new_stars": 279, "stars": 459, "owner": "asyml", "forks": 47},
-{"description": "The Python programming language", "language": "Python", "repo": "cpython", "new_stars": 194, "stars": 19791, "owner": "python", "forks": 6781},
+{"description": "The Python programming language", "language": "Python", "repo": "cpython", "new_stars": 194, "stars": 19793, "owner": "python", "forks": 6781},
 {"description": "Playground and cheatsheet for learning Python", "language": "Python", "repo": "learn-python", "new_stars": 218, "stars": 2128, "owner": "trekhleb", "forks": 260},
 {"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 177, "stars": 36393, "owner": "django", "forks": 15598},
 {"description": "Awesome React Native UI components updated weekly", "language": "Python", "repo": "awesome-reactnative-ui", "new_stars": 226, "stars": 1055, "owner": "madhavanmalolan", "forks": 35},
 {"description": "2018/2019/\u6821\u62db/\u6625\u62db/\u79cb\u62db/\u7b97\u6cd5/\u673a\u5668\u5b66\u4e60(Machine Learning)/\u6df1\u5ea6\u5b66\u4e60(Deep Learning)/\u81ea\u7136\u8bed\u8a00\u5904\u7406(NLP)/C/C++/Python/\u9762\u8bd5\u7b14\u8bb0", "language": "Python", "repo": "Algorithm_Interview_Notes-Chinese", "new_stars": 196, "stars": 2493, "owner": "imhuay", "forks": 572},
 {"description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications \u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.", "language": "Python", "repo": "ansible", "new_stars": 167, "stars": 32524, "owner": "ansible", "forks": 12799},
 {"description": "Chinese Translation for Machine Learning Infographics", "language": "Python", "repo": "100-Days-of-ML-Code-Chinese-Version", "new_stars": 193, "stars": 702, "owner": "Avik-Jain", "forks": 208},
-{"description": "The Python micro framework for building web applications.", "language": "Python", "repo": "flask", "new_stars": 180, "stars": 38767, "owner": "pallets", "forks": 11284}
+{"description": "The Python micro framework for building web applications.", "language": "Python", "repo": "flask", "new_stars": 180, "stars": 38769, "owner": "pallets", "forks": 11284}
 ]

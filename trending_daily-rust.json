@@ -2,10 +2,10 @@
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 63, "stars": 2422, "owner": "benfred", "forks": 68},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 50, "stars": 8133, "owner": "sharkdp", "forks": 138},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 35, "stars": 3354, "owner": "BurntSushi", "forks": 109},
-{"description": "Data structure serialization library with several opposite design goals from Serde", "language": "Rust", "repo": "miniserde", "new_stars": 30, "stars": 52, "owner": "dtolnay", "forks": 0},
+{"description": "Data structure serialization library with several opposite design goals from Serde", "language": "Rust", "repo": "miniserde", "new_stars": 30, "stars": 53, "owner": "dtolnay", "forks": 0},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 30636, "owner": "rust-lang", "forks": 5167},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 27, "stars": 10549, "owner": "BurntSushi", "forks": 434},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 12, "stars": 6663, "owner": "sharkdp", "forks": 166},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 12, "stars": 6664, "owner": "sharkdp", "forks": 166},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 11, "stars": 1485, "owner": "rbspy", "forks": 45},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 10, "stars": 12052, "owner": "jwilm", "forks": 498},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 10, "stars": 1226, "owner": "servo", "forks": 182},
@@ -20,8 +20,8 @@
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 7, "stars": 731, "owner": "xiph", "forks": 51},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 6, "stars": 2140, "owner": "rayon-rs", "forks": 157},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3115, "owner": "tokio-rs", "forks": 205},
-{"description": "Specs - Parallel ECS", "language": "Rust", "repo": "specs", "new_stars": 6, "stars": 741, "owner": "slide-rs", "forks": 80},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 6, "stars": 1389, "owner": "rust-lang-nursery", "forks": 206},
+{"description": "Specs - Parallel ECS", "language": "Rust", "repo": "specs", "new_stars": 6, "stars": 741, "owner": "slide-rs", "forks": 81},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 6, "stars": 1390, "owner": "rust-lang-nursery", "forks": 206},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 1320, "owner": "rustwasm", "forks": 140},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 6, "stars": 2101, "owner": "gfx-rs", "forks": 277}
 ]

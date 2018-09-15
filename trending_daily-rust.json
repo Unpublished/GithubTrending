@@ -1,20 +1,20 @@
 [
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 39, "stars": 2428, "owner": "benfred", "forks": 68},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 36, "stars": 8146, "owner": "sharkdp", "forks": 138},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 36, "stars": 3363, "owner": "BurntSushi", "forks": 109},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 36, "stars": 3364, "owner": "BurntSushi", "forks": 109},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 32, "stars": 10558, "owner": "BurntSushi", "forks": 435},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 30640, "owner": "rust-lang", "forks": 5169},
 {"description": "Data structure serialization library with several opposite design goals from Serde", "language": "Rust", "repo": "miniserde", "new_stars": 20, "stars": 56, "owner": "dtolnay", "forks": 0},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 6671, "owner": "sharkdp", "forks": 166},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 6673, "owner": "sharkdp", "forks": 166},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 10, "stars": 8023, "owner": "rust-unofficial", "forks": 530},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 13463, "owner": "google", "forks": 474},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 13464, "owner": "google", "forks": 474},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 9, "stars": 1334, "owner": "Aaronepower", "forks": 104},
 {"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 8, "stars": 81, "owner": "brion", "forks": 1},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 7, "stars": 2626, "owner": "rust-lang", "forks": 778},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 7, "stars": 1392, "owner": "rust-lang-nursery", "forks": 207},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 6, "stars": 2141, "owner": "rayon-rs", "forks": 157},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 1322, "owner": "rustwasm", "forks": 141},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3117, "owner": "tokio-rs", "forks": 205},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3118, "owner": "tokio-rs", "forks": 205},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 6, "stars": 12053, "owner": "jwilm", "forks": 498},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 6, "stars": 3019, "owner": "diesel-rs", "forks": 301},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 6, "stars": 1226, "owner": "servo", "forks": 182},
@@ -23,5 +23,5 @@
 {"description": "cat for markdown: Show markdown documents in TTYs", "language": "Rust", "repo": "mdcat", "new_stars": 6, "stars": 265, "owner": "lunaryorn", "forks": 8},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 12396, "owner": "servo", "forks": 1960},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 1658, "owner": "actix", "forks": 94},
-{"description": "Slotmap data structure for Rust", "language": "Rust", "repo": "slotmap", "new_stars": 5, "stars": 82, "owner": "orlp", "forks": 5}
+{"description": "Slotmap data structure for Rust", "language": "Rust", "repo": "slotmap", "new_stars": 5, "stars": 83, "owner": "orlp", "forks": 5}
 ]

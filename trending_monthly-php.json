@@ -22,6 +22,6 @@
 {"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 276, "stars": 280, "owner": "thecodingmachine", "forks": 7},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 275, "stars": 5939, "owner": "mockery", "forks": 324},
 {"description": "A REPL for PHP", "language": "PHP", "repo": "psysh", "new_stars": 269, "stars": 5796, "owner": "bobthecow", "forks": 201},
-{"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 256, "stars": 791, "owner": "symfony", "forks": 34},
+{"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 256, "stars": 795, "owner": "symfony", "forks": 34},
 {"description": "FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.", "language": "PHP", "repo": "php-file-iterator", "new_stars": 249, "stars": 3605, "owner": "sebastianbergmann", "forks": 39}
 ]

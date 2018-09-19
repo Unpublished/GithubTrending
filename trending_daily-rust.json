@@ -1,8 +1,8 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 148, "stars": 13772, "owner": "xi-editor", "forks": 477},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 59, "stars": 2596, "owner": "benfred", "forks": 72},
-{"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 42, "stars": 1544, "owner": "rbspy", "forks": 46},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 32, "stars": 12157, "owner": "jwilm", "forks": 505},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 148, "stars": 13775, "owner": "xi-editor", "forks": 477},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 59, "stars": 2597, "owner": "benfred", "forks": 72},
+{"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 42, "stars": 1546, "owner": "rbspy", "forks": 46},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 32, "stars": 12157, "owner": "jwilm", "forks": 506},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 30742, "owner": "rust-lang", "forks": 5178},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 31, "stars": 8296, "owner": "sharkdp", "forks": 141},
 {"description": "Automatic checking for semantic versioning in library crates", "language": "Rust", "repo": "rust-semverver", "new_stars": 26, "stars": 208, "owner": "rust-lang-nursery", "forks": 9},
@@ -13,7 +13,7 @@
 {"description": "A (future) Ethereum 2.0 client, written in Rust.", "language": "Rust", "repo": "lighthouse", "new_stars": 12, "stars": 88, "owner": "sigp", "forks": 6},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 12415, "owner": "servo", "forks": 1963},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 11, "stars": 2649, "owner": "rust-lang", "forks": 780},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 9, "stars": 1347, "owner": "rustwasm", "forks": 141},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 9, "stars": 1348, "owner": "rustwasm", "forks": 141},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3141, "owner": "tokio-rs", "forks": 208},
 {"description": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust", "language": "Rust", "repo": "relm", "new_stars": 8, "stars": 1002, "owner": "antoyo", "forks": 31},
 {"description": "A service sidecar for Kubernetes and beyond. Proxy repo for Linkerd 2.x.", "language": "Rust", "repo": "linkerd2-proxy", "new_stars": 8, "stars": 133, "owner": "linkerd", "forks": 5},
@@ -21,7 +21,7 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 3727, "owner": "tikv", "forks": 509},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 2123, "owner": "gfx-rs", "forks": 281},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 6, "stars": 7951, "owner": "atom", "forks": 193},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5200, "owner": "SergioBenitez", "forks": 340},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5201, "owner": "SergioBenitez", "forks": 340},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 6, "stars": 147, "owner": "danleh", "forks": 5},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 5, "stars": 3042, "owner": "diesel-rs", "forks": 304}
 ]

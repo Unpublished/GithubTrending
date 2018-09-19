@@ -1,14 +1,14 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 155, "stars": 13640, "owner": "xi-editor", "forks": 475},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 36, "stars": 12128, "owner": "jwilm", "forks": 504},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 155, "stars": 13643, "owner": "xi-editor", "forks": 475},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 36, "stars": 12129, "owner": "jwilm", "forks": 503},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 35, "stars": 8271, "owner": "sharkdp", "forks": 139},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 33, "stars": 2542, "owner": "benfred", "forks": 71},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 30718, "owner": "rust-lang", "forks": 5176},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 30719, "owner": "rust-lang", "forks": 5176},
 {"description": "A (future) Ethereum 2.0 client, written in Rust.", "language": "Rust", "repo": "lighthouse", "new_stars": 28, "stars": 76, "owner": "sigp", "forks": 6},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 21, "stars": 10626, "owner": "BurntSushi", "forks": 435},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 18, "stars": 3426, "owner": "BurntSushi", "forks": 111},
 {"description": "Automatic checking for semantic versioning in library crates", "language": "Rust", "repo": "rust-semverver", "new_stars": 17, "stars": 192, "owner": "rust-lang-nursery", "forks": 9},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 8058, "owner": "rust-unofficial", "forks": 530},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 8059, "owner": "rust-unofficial", "forks": 530},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 13, "stars": 6718, "owner": "sharkdp", "forks": 166},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 12, "stars": 962, "owner": "graphql-rust", "forks": 74},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 11, "stars": 1137, "owner": "tantivy-search", "forks": 69},
@@ -23,5 +23,5 @@
 {"description": "Federated blogging application, thanks to ActivityPub", "language": "Rust", "repo": "Plume", "new_stars": 9, "stars": 663, "owner": "Plume-org", "forks": 44},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 2118, "owner": "gfx-rs", "forks": 281},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 5195, "owner": "SergioBenitez", "forks": 341},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 7, "stars": 4289, "owner": "uutils", "forks": 378}
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 7, "stars": 4289, "owner": "uutils", "forks": 379}
 ]

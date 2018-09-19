@@ -1,17 +1,17 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 153, "stars": 13741, "owner": "xi-editor", "forks": 476},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 51, "stars": 2585, "owner": "benfred", "forks": 72},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 153, "stars": 13742, "owner": "xi-editor", "forks": 476},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 51, "stars": 2587, "owner": "benfred", "forks": 72},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 36, "stars": 8293, "owner": "sharkdp", "forks": 141},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 31, "stars": 12152, "owner": "jwilm", "forks": 505},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 30737, "owner": "rust-lang", "forks": 5177},
-{"description": "Automatic checking for semantic versioning in library crates", "language": "Rust", "repo": "rust-semverver", "new_stars": 31, "stars": 205, "owner": "rust-lang-nursery", "forks": 9},
-{"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 30, "stars": 1537, "owner": "rbspy", "forks": 46},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 6733, "owner": "sharkdp", "forks": 166},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 30738, "owner": "rust-lang", "forks": 5177},
+{"description": "Automatic checking for semantic versioning in library crates", "language": "Rust", "repo": "rust-semverver", "new_stars": 31, "stars": 206, "owner": "rust-lang-nursery", "forks": 9},
+{"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 30, "stars": 1538, "owner": "rbspy", "forks": 46},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 6734, "owner": "sharkdp", "forks": 166},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 8067, "owner": "rust-unofficial", "forks": 530},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 10637, "owner": "BurntSushi", "forks": 435},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 10638, "owner": "BurntSushi", "forks": 435},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 11, "stars": 2650, "owner": "rust-lang", "forks": 780},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 11, "stars": 1812, "owner": "sharkdp", "forks": 34},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 12413, "owner": "servo", "forks": 1963},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 12414, "owner": "servo", "forks": 1963},
 {"description": "A (future) Ethereum 2.0 client, written in Rust.", "language": "Rust", "repo": "lighthouse", "new_stars": 10, "stars": 87, "owner": "sigp", "forks": 6},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 9, "stars": 3431, "owner": "BurntSushi", "forks": 111},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3141, "owner": "tokio-rs", "forks": 206},
@@ -23,5 +23,5 @@
 {"description": "A parallelized PNG encoder in Rust", "language": "Rust", "repo": "mtpng", "new_stars": 7, "stars": 89, "owner": "brion", "forks": 2},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 5, "stars": 1385, "owner": "mimblewimble", "forks": 258},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 6, "stars": 566, "owner": "seanmonstar", "forks": 35},
-{"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 6, "stars": 146, "owner": "danleh", "forks": 5}
+{"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 6, "stars": 147, "owner": "danleh", "forks": 5}
 ]

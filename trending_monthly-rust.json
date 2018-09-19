@@ -1,12 +1,12 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4936, "stars": 8290, "owner": "sharkdp", "forks": 141},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2569, "stars": 2576, "owner": "benfred", "forks": 72},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4936, "stars": 8291, "owner": "sharkdp", "forks": 141},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2569, "stars": 2578, "owner": "benfred", "forks": 72},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1404, "stars": 3429, "owner": "BurntSushi", "forks": 111},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 843, "stars": 10634, "owner": "BurntSushi", "forks": 435},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 767, "stars": 30735, "owner": "rust-lang", "forks": 5177},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 641, "stars": 6727, "owner": "sharkdp", "forks": 166},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 449, "stars": 12149, "owner": "jwilm", "forks": 504},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 403, "stars": 13720, "owner": "xi-editor", "forks": 476},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 641, "stars": 6728, "owner": "sharkdp", "forks": 166},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 449, "stars": 12149, "owner": "jwilm", "forks": 505},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 403, "stars": 13730, "owner": "xi-editor", "forks": 476},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 316, "stars": 8068, "owner": "rust-unofficial", "forks": 530},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 244, "stars": 12413, "owner": "servo", "forks": 1963},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 235, "stars": 3728, "owner": "tikv", "forks": 509},
@@ -21,7 +21,7 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 149, "stars": 2122, "owner": "gfx-rs", "forks": 281},
 {"description": "A programming language and model of computation that matches the abstract algorithm perfectly.", "language": "Rust", "repo": "abstract-calculus", "new_stars": 148, "stars": 148, "owner": "MaiaVictor", "forks": 7},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 146, "stars": 146, "owner": "danleh", "forks": 5},
-{"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 145, "stars": 1527, "owner": "rbspy", "forks": 46},
+{"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 145, "stars": 1530, "owner": "rbspy", "forks": 46},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 131, "stars": 1605, "owner": "amethyst", "forks": 165},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 124, "stars": 3530, "owner": "rust-lang", "forks": 819}
 ]

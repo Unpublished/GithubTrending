@@ -1,11 +1,11 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4963, "stars": 8346, "owner": "sharkdp", "forks": 142},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2637, "stars": 2641, "owner": "benfred", "forks": 73},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 854, "stars": 10666, "owner": "BurntSushi", "forks": 436},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 753, "stars": 30770, "owner": "rust-lang", "forks": 5179},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 723, "stars": 14036, "owner": "xi-editor", "forks": 481},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 658, "stars": 6759, "owner": "sharkdp", "forks": 168},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 492, "stars": 12211, "owner": "jwilm", "forks": 509},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4963, "stars": 8347, "owner": "sharkdp", "forks": 142},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2637, "stars": 2642, "owner": "benfred", "forks": 73},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 854, "stars": 10667, "owner": "BurntSushi", "forks": 436},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 753, "stars": 30771, "owner": "rust-lang", "forks": 5179},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 723, "stars": 14038, "owner": "xi-editor", "forks": 482},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 658, "stars": 6760, "owner": "sharkdp", "forks": 168},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 492, "stars": 12212, "owner": "jwilm", "forks": 511},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 299, "stars": 8083, "owner": "rust-unofficial", "forks": 530},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 234, "stars": 3737, "owner": "tikv", "forks": 511},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 236, "stars": 12420, "owner": "servo", "forks": 1964},
@@ -22,6 +22,6 @@
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 150, "stars": 150, "owner": "danleh", "forks": 5},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 136, "stars": 1616, "owner": "amethyst", "forks": 168},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 141, "stars": 1361, "owner": "rustwasm", "forks": 141},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 138, "stars": 359, "owner": "maps4print", "forks": 6},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 138, "stars": 360, "owner": "maps4print", "forks": 6},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 123, "stars": 3535, "owner": "rust-lang", "forks": 820}
 ]

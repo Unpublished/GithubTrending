@@ -1,10 +1,10 @@
 [
-{"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 269, "stars": 387, "owner": "thecodingmachine", "forks": 9},
+{"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 269, "stars": 388, "owner": "thecodingmachine", "forks": 9},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 208, "stars": 45857, "owner": "laravel", "forks": 14181},
 {"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 231, "stars": 925, "owner": "symfony", "forks": 40},
-{"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 197, "stars": 533, "owner": "antonioribeiro", "forks": 57},
+{"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 197, "stars": 533, "owner": "antonioribeiro", "forks": 58},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 135, "stars": 16257, "owner": "composer", "forks": 5273},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 122, "stars": 13960, "owner": "laravel", "forks": 5796},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 122, "stars": 13961, "owner": "laravel", "forks": 5796},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 132, "stars": 17379, "owner": "fzaninotto", "forks": 2203},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 89, "stars": 14429, "owner": "danielmiessler", "forks": 5065},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 111, "stars": 7679, "owner": "nikic", "forks": 535},
@@ -22,6 +22,6 @@
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 87, "stars": 4177, "owner": "symfony", "forks": 46},
 {"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 85, "stars": 4527, "owner": "symfony", "forks": 188},
 {"description": "This component provides a partial, native PHP implementation for the Mbstring extension.", "language": "PHP", "repo": "polyfill-mbstring", "new_stars": 84, "stars": 4235, "owner": "symfony", "forks": 13},
-{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 81, "stars": 5973, "owner": "mockery", "forks": 325},
+{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 81, "stars": 5974, "owner": "mockery", "forks": 325},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 80, "stars": 4092, "owner": "symfony", "forks": 48}
 ]

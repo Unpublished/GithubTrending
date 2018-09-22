@@ -1,7 +1,7 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 110, "stars": 14068, "owner": "xi-editor", "forks": 485},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 110, "stars": 14069, "owner": "xi-editor", "forks": 485},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 33, "stars": 8363, "owner": "sharkdp", "forks": 143},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 28, "stars": 2655, "owner": "benfred", "forks": 73},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 28, "stars": 2656, "owner": "benfred", "forks": 73},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 30780, "owner": "rust-lang", "forks": 5180},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 12216, "owner": "jwilm", "forks": 510},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 6763, "owner": "sharkdp", "forks": 168},
@@ -13,7 +13,7 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 8, "stars": 2136, "owner": "gfx-rs", "forks": 282},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 1617, "owner": "amethyst", "forks": 168},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 8, "stars": 362, "owner": "maps4print", "forks": 6},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 5213, "owner": "SergioBenitez", "forks": 339},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 5214, "owner": "SergioBenitez", "forks": 339},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 7, "stars": 938, "owner": "ggez", "forks": 118},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 3738, "owner": "tikv", "forks": 511},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2657, "owner": "rust-lang", "forks": 782},
@@ -22,6 +22,6 @@
 {"description": "A (future) Ethereum 2.0 client, written in Rust.", "language": "Rust", "repo": "lighthouse", "new_stars": 6, "stars": 111, "owner": "sigp", "forks": 6},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 5, "stars": 4826, "owner": "paritytech", "forks": 1050},
 {"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 5, "stars": 2083, "owner": "koute", "forks": 108},
-{"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 5, "stars": 421, "owner": "tower-rs", "forks": 18},
+{"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 5, "stars": 422, "owner": "tower-rs", "forks": 18},
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 0, "stars": 389, "owner": "rust-lang", "forks": 305}
 ]

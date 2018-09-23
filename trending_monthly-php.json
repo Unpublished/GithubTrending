@@ -9,7 +9,7 @@
 {"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 405, "stars": 407, "owner": "thecodingmachine", "forks": 9},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 396, "stars": 11380, "owner": "sebastianbergmann", "forks": 1656},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 382, "stars": 13937, "owner": "guzzle", "forks": 1823},
-{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 363, "stars": 10213, "owner": "briannesbitt", "forks": 988},
+{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 363, "stars": 10214, "owner": "briannesbitt", "forks": 988},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 319, "stars": 4625, "owner": "z-song", "forks": 1301},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 366, "stars": 4607, "owner": "doctrine", "forks": 76},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 313, "stars": 18631, "owner": "symfony", "forks": 6408},
@@ -21,7 +21,7 @@
 {"description": "The Debug component provides tools to ease debugging PHP code.", "language": "PHP", "repo": "debug", "new_stars": 328, "stars": 4254, "owner": "symfony", "forks": 28},
 {"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 321, "stars": 4294, "owner": "symfony", "forks": 33},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 317, "stars": 4191, "owner": "symfony", "forks": 46},
-{"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 309, "stars": 645, "owner": "antonioribeiro", "forks": 66},
+{"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 309, "stars": 647, "owner": "antonioribeiro", "forks": 66},
 {"description": "This component provides a partial, native PHP implementation for the Mbstring extension.", "language": "PHP", "repo": "polyfill-mbstring", "new_stars": 312, "stars": 4249, "owner": "symfony", "forks": 13},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 272, "stars": 5342, "owner": "nextcloud", "forks": 926}
 ]

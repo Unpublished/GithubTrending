@@ -2,9 +2,9 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4994, "stars": 8382, "owner": "sharkdp", "forks": 143},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2666, "stars": 2670, "owner": "benfred", "forks": 74},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 854, "stars": 10681, "owner": "BurntSushi", "forks": 436},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 814, "stars": 14140, "owner": "xi-editor", "forks": 485},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 750, "stars": 30797, "owner": "rust-lang", "forks": 5184},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 660, "stars": 6765, "owner": "sharkdp", "forks": 168},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 814, "stars": 14142, "owner": "xi-editor", "forks": 485},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 750, "stars": 30796, "owner": "rust-lang", "forks": 5184},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 660, "stars": 6766, "owner": "sharkdp", "forks": 168},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 492, "stars": 12234, "owner": "jwilm", "forks": 510},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 284, "stars": 8087, "owner": "rust-unofficial", "forks": 530},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 227, "stars": 3741, "owner": "tikv", "forks": 511},
@@ -21,7 +21,7 @@
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 137, "stars": 1623, "owner": "amethyst", "forks": 171},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 114, "stars": 4826, "owner": "paritytech", "forks": 1051},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 140, "stars": 362, "owner": "maps4print", "forks": 6},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 138, "stars": 1365, "owner": "rustwasm", "forks": 141},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 138, "stars": 1366, "owner": "rustwasm", "forks": 141},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 120, "stars": 3535, "owner": "rust-lang", "forks": 821},
 {"description": "Tantivy is a full-text search engine library inspired by Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 122, "stars": 1149, "owner": "tantivy-search", "forks": 70}
 ]

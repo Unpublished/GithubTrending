@@ -1,7 +1,7 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 68, "stars": 14140, "owner": "xi-editor", "forks": 485},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 68, "stars": 14142, "owner": "xi-editor", "forks": 485},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 31, "stars": 8382, "owner": "sharkdp", "forks": 143},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 30797, "owner": "rust-lang", "forks": 5184},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 30796, "owner": "rust-lang", "forks": 5184},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 17, "stars": 2670, "owner": "benfred", "forks": 74},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 12234, "owner": "jwilm", "forks": 510},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 10681, "owner": "BurntSushi", "forks": 436},
@@ -22,6 +22,6 @@
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 0, "stars": 292, "owner": "serenity-rs", "forks": 70},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 0, "stars": 3535, "owner": "rust-lang", "forks": 821},
 {"description": "Encoding and decoding images in Rust", "language": "Rust", "repo": "image", "new_stars": 0, "stars": 772, "owner": "PistonDevelopers", "forks": 203},
-{"description": "GTK+ 3.x bindings and wrappers for Rust", "language": "Rust", "repo": "gtk", "new_stars": 0, "stars": 779, "owner": "gtk-rs", "forks": 64},
+{"description": "GTK+ 3.x bindings and wrappers for Rust", "language": "Rust", "repo": "gtk", "new_stars": 0, "stars": 778, "owner": "gtk-rs", "forks": 64},
 {"description": "cross-platform Rust API for memory mapped IO", "language": "Rust", "repo": "memmap-rs", "new_stars": 0, "stars": 213, "owner": "danburkert", "forks": 41}
 ]

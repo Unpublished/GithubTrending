@@ -1,10 +1,10 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 718, "stars": 14179, "owner": "xi-editor", "forks": 487},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 718, "stars": 14181, "owner": "xi-editor", "forks": 487},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 227, "stars": 8397, "owner": "sharkdp", "forks": 144},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 214, "stars": 2677, "owner": "benfred", "forks": 74},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 186, "stars": 12238, "owner": "jwilm", "forks": 510},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 168, "stars": 30811, "owner": "rust-lang", "forks": 5186},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 124, "stars": 10690, "owner": "BurntSushi", "forks": 436},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 186, "stars": 12240, "owner": "jwilm", "forks": 510},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 168, "stars": 30811, "owner": "rust-lang", "forks": 5187},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 124, "stars": 10691, "owner": "BurntSushi", "forks": 436},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 87, "stars": 6771, "owner": "sharkdp", "forks": 167},
 {"description": "A (future) Ethereum 2.0 client, written in Rust.", "language": "Rust", "repo": "lighthouse", "new_stars": 72, "stars": 115, "owner": "sigp", "forks": 6},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 59, "stars": 3183, "owner": "tokio-rs", "forks": 211},
@@ -23,5 +23,5 @@
 {"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 39, "stars": 539, "owner": "lotabout", "forks": 17},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 36, "stars": 1386, "owner": "citybound", "forks": 66},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 36, "stars": 3056, "owner": "diesel-rs", "forks": 305},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 35, "stars": 4297, "owner": "uutils", "forks": 380}
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 35, "stars": 4299, "owner": "uutils", "forks": 381}
 ]

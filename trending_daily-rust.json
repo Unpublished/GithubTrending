@@ -1,14 +1,14 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 58, "stars": 14184, "owner": "xi-editor", "forks": 487},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 58, "stars": 14189, "owner": "xi-editor", "forks": 487},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 26, "stars": 1386, "owner": "citybound", "forks": 66},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 23, "stars": 8397, "owner": "sharkdp", "forks": 144},
-{"description": "A simple command line utility to download a remote file, similar to wget. This is not intended to be a full feature wget replacement but a simple tool to test few Rust crates.", "language": "Rust", "repo": "rsget", "new_stars": 23, "stars": 31, "owner": "otavio", "forks": 0},
-{"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 20, "stars": 30, "owner": "p-e-w", "forks": 1},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 23, "stars": 8398, "owner": "sharkdp", "forks": 144},
+{"description": "A simple command line utility to download a remote file, similar to wget. This is not intended to be a full feature wget replacement but a simple tool to test few Rust crates.", "language": "Rust", "repo": "rsget", "new_stars": 23, "stars": 32, "owner": "otavio", "forks": 0},
+{"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 20, "stars": 32, "owner": "p-e-w", "forks": 1},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 18, "stars": 30811, "owner": "rust-lang", "forks": 5187},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 10691, "owner": "BurntSushi", "forks": 436},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 10692, "owner": "BurntSushi", "forks": 436},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 12240, "owner": "jwilm", "forks": 510},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 10, "stars": 2678, "owner": "benfred", "forks": 74},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 6772, "owner": "sharkdp", "forks": 167},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 6773, "owner": "sharkdp", "forks": 167},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 2665, "owner": "rust-lang", "forks": 784},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3183, "owner": "tokio-rs", "forks": 211},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 1370, "owner": "rustwasm", "forks": 141},
@@ -21,7 +21,7 @@
 {"description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations", "language": "Rust", "repo": "ndarray", "new_stars": 5, "stars": 586, "owner": "bluss", "forks": 68},
 {"description": "Rust vorbis decoder", "language": "Rust", "repo": "lewton", "new_stars": 5, "stars": 115, "owner": "RustAudio", "forks": 6},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 0, "stars": 570, "owner": "seanmonstar", "forks": 36},
-{"description": "Small Rust library for word wrapping text", "language": "Rust", "repo": "textwrap", "new_stars": 0, "stars": 35, "owner": "mgeisler", "forks": 12},
-{"description": "A 2048 clone with Piston game engine", "language": "Rust", "repo": "rust-2048", "new_stars": 0, "stars": 137, "owner": "coeuvre", "forks": 26},
-{"description": "gtk ui for neovim", "language": "Rust", "repo": "neovim-gtk", "new_stars": 0, "stars": 308, "owner": "daa84", "forks": 20}
+{"description": "Small Rust library for word wrapping text", "language": "Rust", "repo": "textwrap", "new_stars": 0, "stars": 36, "owner": "mgeisler", "forks": 12},
+{"description": "A 2048 clone with Piston game engine", "language": "Rust", "repo": "rust-2048", "new_stars": 0, "stars": 138, "owner": "coeuvre", "forks": 26},
+{"description": "gtk ui for neovim", "language": "Rust", "repo": "neovim-gtk", "new_stars": 0, "stars": 309, "owner": "daa84", "forks": 20}
 ]

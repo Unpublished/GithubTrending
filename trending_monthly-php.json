@@ -7,7 +7,7 @@
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 409, "stars": 7688, "owner": "nikic", "forks": 536},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 404, "stars": 11373, "owner": "sebastianbergmann", "forks": 1656},
 {"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 406, "stars": 931, "owner": "symfony", "forks": 40},
-{"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 400, "stars": 400, "owner": "thecodingmachine", "forks": 9},
+{"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 400, "stars": 401, "owner": "thecodingmachine", "forks": 9},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 382, "stars": 13933, "owner": "guzzle", "forks": 1822},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 329, "stars": 4623, "owner": "z-song", "forks": 1301},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 366, "stars": 10210, "owner": "briannesbitt", "forks": 988},
@@ -23,5 +23,5 @@
 {"description": "This component provides a partial, native PHP implementation for the Mbstring extension.", "language": "PHP", "repo": "polyfill-mbstring", "new_stars": 320, "stars": 4245, "owner": "symfony", "forks": 13},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 278, "stars": 5339, "owner": "nextcloud", "forks": 923},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 306, "stars": 4102, "owner": "symfony", "forks": 48},
-{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 298, "stars": 5983, "owner": "mockery", "forks": 325}
+{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 298, "stars": 5984, "owner": "mockery", "forks": 325}
 ]

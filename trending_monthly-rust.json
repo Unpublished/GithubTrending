@@ -1,10 +1,10 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 4971, "stars": 8402, "owner": "sharkdp", "forks": 144},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2674, "stars": 2681, "owner": "benfred", "forks": 74},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2674, "stars": 2682, "owner": "benfred", "forks": 74},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1410, "stars": 3452, "owner": "BurntSushi", "forks": 113},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 871, "stars": 14191, "owner": "xi-editor", "forks": 487},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 871, "stars": 14194, "owner": "xi-editor", "forks": 487},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 859, "stars": 10694, "owner": "BurntSushi", "forks": 436},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 738, "stars": 30812, "owner": "rust-lang", "forks": 5188},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 738, "stars": 30812, "owner": "rust-lang", "forks": 5189},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 665, "stars": 6774, "owner": "sharkdp", "forks": 167},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 493, "stars": 12241, "owner": "jwilm", "forks": 510},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 277, "stars": 8090, "owner": "rust-unofficial", "forks": 530},
@@ -23,5 +23,5 @@
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 137, "stars": 1628, "owner": "amethyst", "forks": 172},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 141, "stars": 363, "owner": "maps4print", "forks": 6},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 111, "stars": 4824, "owner": "paritytech", "forks": 1050},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 138, "stars": 1370, "owner": "rustwasm", "forks": 141}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 138, "stars": 1371, "owner": "rustwasm", "forks": 141}
 ]

@@ -1,5 +1,5 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 764, "stars": 14230, "owner": "xi-editor", "forks": 488},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 764, "stars": 14235, "owner": "xi-editor", "forks": 488},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 215, "stars": 8413, "owner": "sharkdp", "forks": 144},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 208, "stars": 2686, "owner": "benfred", "forks": 74},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 186, "stars": 12247, "owner": "jwilm", "forks": 510},
@@ -12,16 +12,16 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 58, "stars": 3185, "owner": "tokio-rs", "forks": 211},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 57, "stars": 3454, "owner": "BurntSushi", "forks": 113},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 52, "stars": 5236, "owner": "SergioBenitez", "forks": 338},
-{"description": "A simple command line utility to download a remote file, similar to wget. This is not intended to be a full feature wget replacement but a simple tool to test few Rust crates.", "language": "Rust", "repo": "rsget", "new_stars": 47, "stars": 47, "owner": "otavio", "forks": 0},
+{"description": "A simple command line utility to download a remote file, similar to wget. This is not intended to be a full feature wget replacement but a simple tool to test few Rust crates.", "language": "Rust", "repo": "rsget", "new_stars": 47, "stars": 49, "owner": "otavio", "forks": 0},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 43, "stars": 5267, "owner": "DenisKolodin", "forks": 176},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 44, "stars": 1371, "owner": "rustwasm", "forks": 141},
 {"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 44, "stars": 46, "owner": "p-e-w", "forks": 1},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 41, "stars": 2463, "owner": "actix", "forks": 159},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 38, "stars": 1630, "owner": "amethyst", "forks": 172},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 41, "stars": 2147, "owner": "gfx-rs", "forks": 283},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 41, "stars": 2148, "owner": "gfx-rs", "forks": 283},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 40, "stars": 1389, "owner": "citybound", "forks": 66},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 37, "stars": 7971, "owner": "atom", "forks": 195},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 33, "stars": 3741, "owner": "tikv", "forks": 512},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 34, "stars": 2666, "owner": "rust-lang", "forks": 783},
-{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 36, "stars": 36, "owner": "mtak-", "forks": 1}
+{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 36, "stars": 39, "owner": "mtak-", "forks": 1}
 ]

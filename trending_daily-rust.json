@@ -1,7 +1,7 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 105, "stars": 14278, "owner": "xi-editor", "forks": 488},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 105, "stars": 14279, "owner": "xi-editor", "forks": 488},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 88, "stars": 1028, "owner": "rustwasm", "forks": 63},
-{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 52, "stars": 57, "owner": "mtak-", "forks": 1},
+{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 52, "stars": 58, "owner": "mtak-", "forks": 1},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 39, "stars": 8435, "owner": "sharkdp", "forks": 144},
 {"description": "A simple command line utility to download a remote file, similar to wget. This is not intended to be a full feature wget replacement but a simple tool to test few Rust crates.", "language": "Rust", "repo": "rsget", "new_stars": 27, "stars": 54, "owner": "otavio", "forks": 0},
 {"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 22, "stars": 53, "owner": "p-e-w", "forks": 2},
@@ -20,7 +20,7 @@
 {"description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations", "language": "Rust", "repo": "ndarray", "new_stars": 6, "stars": 590, "owner": "bluss", "forks": 68},
 {"description": "A (future) Ethereum 2.0 client, written in Rust.", "language": "Rust", "repo": "lighthouse", "new_stars": 6, "stars": 121, "owner": "sigp", "forks": 6},
 {"description": "Small Rust library for word wrapping text", "language": "Rust", "repo": "textwrap", "new_stars": 5, "stars": 38, "owner": "mgeisler", "forks": 12},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 3185, "owner": "tokio-rs", "forks": 211},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 3186, "owner": "tokio-rs", "forks": 211},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 2668, "owner": "rust-lang", "forks": 783},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 1371, "owner": "rustwasm", "forks": 141},
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 5, "stars": 157, "owner": "danleh", "forks": 5}

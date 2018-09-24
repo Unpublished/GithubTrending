@@ -1,14 +1,14 @@
 [
 {"description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java\u8bca\u65ad\u5229\u5668Arthas", "language": "Java", "repo": "arthas", "new_stars": 86, "stars": 3381, "owner": "alibaba", "forks": 480},
-{"description": "Download manager based on AOSP DM but allowing downloading to internal private storage", "language": "Java", "repo": "download-manager", "new_stars": 55, "stars": 284, "owner": "novoda", "forks": 36},
+{"description": "Download manager based on AOSP DM but allowing downloading to internal private storage", "language": "Java", "repo": "download-manager", "new_stars": 55, "stars": 285, "owner": "novoda", "forks": 36},
 {"description": "http\u4e0b\u8f7d\u5de5\u5177\uff0c\u57fa\u4e8ehttp\u4ee3\u7406\uff0c\u652f\u6301\u591a\u8fde\u63a5\u5206\u5757\u4e0b\u8f7d", "language": "Java", "repo": "proxyee-down", "new_stars": 37, "stars": 15392, "owner": "proxyee-down-org", "forks": 2701},
-{"description": "A core knowledge that most Java programmers need to master", "language": "Java", "repo": "JavaGuide", "new_stars": 37, "stars": 6096, "owner": "Snailclimb", "forks": 1502},
-{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 37, "stars": 6967, "owner": "TheAlgorithms", "forks": 2745},
+{"description": "A core knowledge that most Java programmers need to master", "language": "Java", "repo": "JavaGuide", "new_stars": 37, "stars": 6097, "owner": "Snailclimb", "forks": 1502},
+{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 37, "stars": 6969, "owner": "TheAlgorithms", "forks": 2745},
 {"description": "HackBar plugin for Burpsuite v1.0", "language": "Java", "repo": "HackBar", "new_stars": 33, "stars": 239, "owner": "d3vilbug", "forks": 45},
 {"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 33, "stars": 39427, "owner": "iluwatar", "forks": 12766},
 {"description": "Bu projenin amac\u0131 yaz\u0131l\u0131m geli\u015ftirmeyi \u00f6\u011frenmekte olan ya da i\u015fi Code Golf seviyesinde ele almak isteyenlere u\u011fra\u015facak problemler \u00e7\u0131kartmakt\u0131r.", "language": "Java", "repo": "kodlama-pratikleri", "new_stars": 26, "stars": 48, "owner": "msusur", "forks": 22},
-{"description": "The \"REST With Spring\" Course:", "language": "Java", "repo": "tutorials", "new_stars": 16, "stars": 8330, "owner": "eugenp", "forks": 12680},
-{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 20, "stars": 29222, "owner": "spring-projects", "forks": 20683},
+{"description": "The \"REST With Spring\" Course:", "language": "Java", "repo": "tutorials", "new_stars": 16, "stars": 8330, "owner": "eugenp", "forks": 12681},
+{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 20, "stars": 29221, "owner": "spring-projects", "forks": 20683},
 {"description": "\u4e00\u6b3e\u7528 Java \u5b9e\u73b0\u7684\u73b0\u4ee3\u5316\u793e\u533a\uff08\u8bba\u575b/BBS/\u793e\u4ea4\u7f51\u7edc/\u535a\u5ba2\uff09\u5e73\u53f0\u3002", "language": "Java", "repo": "symphony", "new_stars": 25, "stars": 4512, "owner": "b3log", "forks": 1102},
 {"description": "Open Source, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 20, "stars": 34605, "owner": "elastic", "forks": 11732},
 {"description": "\u5feb\u901f\u3001\u7b80\u5355\u907f\u514dOOM\u7684java\u5904\u7406Excel\u5de5\u5177", "language": "Java", "repo": "easyexcel", "new_stars": 22, "stars": 912, "owner": "alibaba", "forks": 277},
@@ -17,11 +17,11 @@
 {"description": "Java Core Sprout : basic, concurrent, algorithm", "language": "Java", "repo": "JCSprout", "new_stars": 15, "stars": 13739, "owner": "crossoverJie", "forks": 3353},
 {"description": "RxJava \u2013 Reactive Extensions for the JVM \u2013 a library for composing asynchronous and event-based programs using observable sequences for the Java VM.", "language": "Java", "repo": "RxJava", "new_stars": 15, "stars": 35522, "owner": "ReactiveX", "forks": 6132},
 {"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 14, "stars": 23727, "owner": "spring-projects", "forks": 15104},
-{"description": "Type-safe HTTP client for Android and Java by Square, Inc.", "language": "Java", "repo": "retrofit", "new_stars": 14, "stars": 29667, "owner": "square", "forks": 5685},
+{"description": "Type-safe HTTP client for Android and Java by Square, Inc.", "language": "Java", "repo": "retrofit", "new_stars": 14, "stars": 29667, "owner": "square", "forks": 5684},
 {"description": "Apache Dubbo (incubating) is a high-performance, java based, open source RPC framework.", "language": "Java", "repo": "incubator-dubbo", "new_stars": 11, "stars": 21689, "owner": "apache", "forks": 14954},
 {"description": "Google core libraries for Java", "language": "Java", "repo": "guava", "new_stars": 13, "stars": 27048, "owner": "google", "forks": 6139},
 {"description": "Admin UI for administration of spring boot applications", "language": "Java", "repo": "spring-boot-admin", "new_stars": 14, "stars": 5484, "owner": "codecentric", "forks": 1567},
 {"description": "Simple Binary Encoding (SBE) - High Performance Message Codec", "language": "Java", "repo": "simple-binary-encoding", "new_stars": 14, "stars": 1588, "owner": "real-logic", "forks": 270},
 {"description": "Firebase Quickstart Samples for Android", "language": "Java", "repo": "quickstart-android", "new_stars": 12, "stars": 4451, "owner": "firebase", "forks": 4436},
-{"description": "Java libraries for writing microservices", "language": "Java", "repo": "helidon", "new_stars": 13, "stars": 590, "owner": "oracle", "forks": 58}
+{"description": "Java libraries for writing microservices", "language": "Java", "repo": "helidon", "new_stars": 13, "stars": 591, "owner": "oracle", "forks": 58}
 ]

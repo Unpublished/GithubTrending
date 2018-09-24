@@ -1,9 +1,9 @@
 [
-{"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 362, "stars": 726, "owner": "antonioribeiro", "forks": 69},
-{"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 241, "stars": 411, "owner": "thecodingmachine", "forks": 9},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 194, "stars": 45891, "owner": "laravel", "forks": 14195},
-{"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 227, "stars": 944, "owner": "symfony", "forks": 41},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 123, "stars": 13988, "owner": "laravel", "forks": 5810},
+{"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 362, "stars": 728, "owner": "antonioribeiro", "forks": 69},
+{"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 241, "stars": 413, "owner": "thecodingmachine", "forks": 9},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 194, "stars": 45891, "owner": "laravel", "forks": 14194},
+{"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 227, "stars": 946, "owner": "symfony", "forks": 41},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 123, "stars": 13988, "owner": "laravel", "forks": 5809},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 130, "stars": 17405, "owner": "fzaninotto", "forks": 2204},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 125, "stars": 16278, "owner": "composer", "forks": 5276},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 120, "stars": 11772, "owner": "Seldaek", "forks": 1416},
@@ -19,9 +19,9 @@
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 86, "stars": 6152, "owner": "swiftmailer", "forks": 694},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 75, "stars": 18632, "owner": "symfony", "forks": 6406},
 {"description": "Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 84, "stars": 8732, "owner": "erusev", "forks": 805},
-{"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 85, "stars": 4196, "owner": "symfony", "forks": 46},
-{"description": "This component provides a partial, native PHP implementation for the Mbstring extension.", "language": "PHP", "repo": "polyfill-mbstring", "new_stars": 84, "stars": 4255, "owner": "symfony", "forks": 13},
-{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 83, "stars": 4545, "owner": "symfony", "forks": 188},
+{"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 85, "stars": 4197, "owner": "symfony", "forks": 46},
+{"description": "This component provides a partial, native PHP implementation for the Mbstring extension.", "language": "PHP", "repo": "polyfill-mbstring", "new_stars": 84, "stars": 4256, "owner": "symfony", "forks": 13},
+{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 83, "stars": 4546, "owner": "symfony", "forks": 188},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 75, "stars": 4122, "owner": "PHPOffice", "forks": 688},
-{"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 80, "stars": 4111, "owner": "symfony", "forks": 48}
+{"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 80, "stars": 4112, "owner": "symfony", "forks": 48}
 ]

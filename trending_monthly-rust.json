@@ -7,7 +7,7 @@
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 729, "stars": 30868, "owner": "rust-lang", "forks": 5199},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 643, "stars": 6807, "owner": "sharkdp", "forks": 168},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 524, "stars": 12298, "owner": "jwilm", "forks": 513},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 290, "stars": 5328, "owner": "DenisKolodin", "forks": 178},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 290, "stars": 5329, "owner": "DenisKolodin", "forks": 178},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 276, "stars": 8109, "owner": "rust-unofficial", "forks": 532},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 228, "stars": 3748, "owner": "tikv", "forks": 515},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 237, "stars": 1102, "owner": "rustwasm", "forks": 66},
@@ -23,5 +23,5 @@
 {"description": "A dynamic analysis framework for WebAssembly programs.", "language": "Rust", "repo": "wasabi", "new_stars": 161, "stars": 161, "owner": "danleh", "forks": 5},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 140, "stars": 1641, "owner": "amethyst", "forks": 174},
 {"description": "A programming language and model of computation that matches the optimal \u03bb-calculus reduction algorithm perfectly.", "language": "Rust", "repo": "symmetric-interaction-calculus", "new_stars": 148, "stars": 157, "owner": "MaiaVictor", "forks": 7},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 146, "stars": 1384, "owner": "rustwasm", "forks": 142}
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 146, "stars": 1385, "owner": "rustwasm", "forks": 142}
 ]

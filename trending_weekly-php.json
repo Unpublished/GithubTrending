@@ -1,12 +1,12 @@
 [
 {"description": "Laravel Health Panel", "language": "PHP", "repo": "health", "new_stars": 529, "stars": 865, "owner": "antonioribeiro", "forks": 78},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 194, "stars": 45959, "owner": "laravel", "forks": 14218},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 194, "stars": 45959, "owner": "laravel", "forks": 14219},
 {"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 219, "stars": 547, "owner": "thecodingmachine", "forks": 12},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 128, "stars": 14035, "owner": "laravel", "forks": 5824},
 {"description": "A browser testing and web crawling library for PHP and Symfony", "language": "PHP", "repo": "panther", "new_stars": 130, "stars": 982, "owner": "symfony", "forks": 45},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 106, "stars": 17449, "owner": "fzaninotto", "forks": 2209},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 104, "stars": 16315, "owner": "composer", "forks": 5277},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 82, "stars": 14479, "owner": "danielmiessler", "forks": 5090},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 82, "stars": 14480, "owner": "danielmiessler", "forks": 5090},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 92, "stars": 11804, "owner": "Seldaek", "forks": 1416},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 78, "stars": 18662, "owner": "symfony", "forks": 6413},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 89, "stars": 11418, "owner": "sebastianbergmann", "forks": 1654},
@@ -20,7 +20,7 @@
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 81, "stars": 4414, "owner": "egulias", "forks": 68},
 {"description": "Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 77, "stars": 8763, "owner": "erusev", "forks": 807},
 {"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 76, "stars": 6846, "owner": "ramsey", "forks": 279},
-{"description": "Auto Image upload, resize and crop for Laravel eloquent model using Intervention image", "language": "PHP", "repo": "laravel-imageup", "new_stars": 77, "stars": 80, "owner": "qcod", "forks": 5},
+{"description": "Auto Image upload, resize and crop for Laravel eloquent model using Intervention image", "language": "PHP", "repo": "laravel-imageup", "new_stars": 77, "stars": 83, "owner": "qcod", "forks": 6},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 75, "stars": 6021, "owner": "mockery", "forks": 329},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 76, "stars": 4507, "owner": "doctrine", "forks": 36},
 {"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 55, "stars": 6160, "owner": "magento", "forks": 5287}

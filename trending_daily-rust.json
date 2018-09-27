@@ -1,7 +1,7 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 60, "stars": 14429, "owner": "xi-editor", "forks": 492},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 55, "stars": 8561, "owner": "sharkdp", "forks": 144},
-{"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 33, "stars": 77, "owner": "google", "forks": 10},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 60, "stars": 14430, "owner": "xi-editor", "forks": 492},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 55, "stars": 8562, "owner": "sharkdp", "forks": 144},
+{"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 33, "stars": 78, "owner": "google", "forks": 10},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 30873, "owner": "rust-lang", "forks": 5202},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 27, "stars": 12310, "owner": "jwilm", "forks": 512},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 25, "stars": 5339, "owner": "DenisKolodin", "forks": 177},
@@ -21,7 +21,7 @@
 {"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 7, "stars": 91, "owner": "p-e-w", "forks": 3},
 {"description": "Rust eBPF library", "language": "Rust", "repo": "redbpf", "new_stars": 7, "stars": 26, "owner": "redsift", "forks": 1},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2480, "owner": "actix", "forks": 161},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 6, "stars": 2160, "owner": "gfx-rs", "forks": 284},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 6, "stars": 2161, "owner": "gfx-rs", "forks": 284},
 {"description": "Portable Packed SIMD Vectors for Rust", "language": "Rust", "repo": "packed_simd", "new_stars": 6, "stars": 36, "owner": "rust-lang-nursery", "forks": 6},
 {"description": "Emit test results using Rust and the Test Anything Protocol (TAP)", "language": "Rust", "repo": "TAP-Rust", "new_stars": 6, "stars": 25, "owner": "Cigna", "forks": 2}
 ]

@@ -7,7 +7,7 @@
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 110, "stars": 2733, "owner": "benfred", "forks": 75},
 {"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 107, "stars": 109, "owner": "mtak-", "forks": 2},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 103, "stars": 5342, "owner": "DenisKolodin", "forks": 177},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 96, "stars": 10755, "owner": "BurntSushi", "forks": 437},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 96, "stars": 10756, "owner": "BurntSushi", "forks": 437},
 {"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 92, "stars": 92, "owner": "p-e-w", "forks": 3},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 82, "stars": 83, "owner": "google", "forks": 10},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 66, "stars": 6813, "owner": "sharkdp", "forks": 168},
@@ -20,8 +20,8 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 41, "stars": 2166, "owner": "gfx-rs", "forks": 284},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 41, "stars": 1398, "owner": "rustwasm", "forks": 143},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 37, "stars": 3195, "owner": "tokio-rs", "forks": 216},
-{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 35, "stars": 1642, "owner": "amethyst", "forks": 175},
-{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 37, "stars": 2187, "owner": "rayon-rs", "forks": 160},
+{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 35, "stars": 1642, "owner": "amethyst", "forks": 176},
+{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 37, "stars": 2188, "owner": "rayon-rs", "forks": 160},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 36, "stars": 3475, "owner": "BurntSushi", "forks": 112},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 29, "stars": 4844, "owner": "paritytech", "forks": 1055}
 ]

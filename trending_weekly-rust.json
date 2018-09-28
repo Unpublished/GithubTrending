@@ -3,8 +3,8 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 265, "stars": 8595, "owner": "sharkdp", "forks": 144},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 191, "stars": 1125, "owner": "rustwasm", "forks": 66},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 146, "stars": 30888, "owner": "rust-lang", "forks": 5201},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 138, "stars": 12335, "owner": "jwilm", "forks": 513},
-{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 117, "stars": 119, "owner": "mtak-", "forks": 4},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 138, "stars": 12336, "owner": "jwilm", "forks": 513},
+{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 117, "stars": 120, "owner": "mtak-", "forks": 4},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 107, "stars": 5348, "owner": "DenisKolodin", "forks": 179},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 108, "stars": 2737, "owner": "benfred", "forks": 75},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 98, "stars": 10764, "owner": "BurntSushi", "forks": 438},
@@ -21,7 +21,7 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 42, "stars": 2169, "owner": "gfx-rs", "forks": 284},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 41, "stars": 1400, "owner": "rustwasm", "forks": 143},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 38, "stars": 2188, "owner": "rayon-rs", "forks": 160},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 36, "stars": 3198, "owner": "tokio-rs", "forks": 216},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 36, "stars": 3199, "owner": "tokio-rs", "forks": 216},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 34, "stars": 1644, "owner": "amethyst", "forks": 175},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 30, "stars": 4850, "owner": "paritytech", "forks": 1059}
 ]

@@ -1,9 +1,9 @@
 [
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 39, "stars": 14460, "owner": "xi-editor", "forks": 493},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 35, "stars": 8595, "owner": "sharkdp", "forks": 144},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 28, "stars": 12336, "owner": "jwilm", "forks": 513},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 24, "stars": 3498, "owner": "BurntSushi", "forks": 113},
-{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 20, "stars": 120, "owner": "mtak-", "forks": 4},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 28, "stars": 12337, "owner": "jwilm", "forks": 513},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 24, "stars": 3499, "owner": "BurntSushi", "forks": 113},
+{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 20, "stars": 121, "owner": "mtak-", "forks": 4},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 16, "stars": 4850, "owner": "paritytech", "forks": 1059},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 10764, "owner": "BurntSushi", "forks": 438},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 30888, "owner": "rust-lang", "forks": 5201},
@@ -12,7 +12,7 @@
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 11, "stars": 2737, "owner": "benfred", "forks": 75},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 11, "stars": 1125, "owner": "rustwasm", "forks": 66},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 10, "stars": 2169, "owner": "gfx-rs", "forks": 284},
-{"description": "S\u014dzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more", "language": "Rust", "repo": "sozu", "new_stars": 10, "stars": 686, "owner": "sozu-proxy", "forks": 51},
+{"description": "S\u014dzu HTTP reverse proxy, configurable at runtime, fast and safe, built in Rust. It will be awesome when it will be ready. Not So Secret Project! Ping us on gitter to know more", "language": "Rust", "repo": "sozu", "new_stars": 10, "stars": 687, "owner": "sozu-proxy", "forks": 51},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 9, "stars": 6820, "owner": "sharkdp", "forks": 168},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 8, "stars": 85, "owner": "google", "forks": 11},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 5261, "owner": "SergioBenitez", "forks": 339},
@@ -23,5 +23,5 @@
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 7, "stars": 7991, "owner": "atom", "forks": 197},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 7, "stars": 3923, "owner": "hyperium", "forks": 619},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 6, "stars": 1367, "owner": "Aaronepower", "forks": 105},
-{"description": "Rust library for building and running BPF/eBPF modules", "language": "Rust", "repo": "redbpf", "new_stars": 6, "stars": 32, "owner": "redsift", "forks": 1}
+{"description": "Rust library for building and running BPF/eBPF modules", "language": "Rust", "repo": "redbpf", "new_stars": 6, "stars": 33, "owner": "redsift", "forks": 1}
 ]

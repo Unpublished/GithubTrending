@@ -1,5 +1,5 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 35, "stars": 8633, "owner": "sharkdp", "forks": 144},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 35, "stars": 8634, "owner": "sharkdp", "forks": 144},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 22, "stars": 14490, "owner": "xi-editor", "forks": 493},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 12356, "owner": "jwilm", "forks": 518},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 17, "stars": 106, "owner": "google", "forks": 12},
@@ -8,7 +8,7 @@
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 12, "stars": 3516, "owner": "BurntSushi", "forks": 113},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 10775, "owner": "BurntSushi", "forks": 438},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 10, "stars": 8001, "owner": "atom", "forks": 197},
-{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 9, "stars": 132, "owner": "mtak-", "forks": 5},
+{"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 9, "stars": 133, "owner": "mtak-", "forks": 5},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8128, "owner": "rust-unofficial", "forks": 536},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 5355, "owner": "DenisKolodin", "forks": 179},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 9, "stars": 1871, "owner": "sharkdp", "forks": 34},
@@ -21,7 +21,7 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 3927, "owner": "hyperium", "forks": 621},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 3764, "owner": "tikv", "forks": 514},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 6, "stars": 1426, "owner": "citybound", "forks": 67},
-{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 6, "stars": 784, "owner": "ctz", "forks": 76},
+{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 6, "stars": 785, "owner": "ctz", "forks": 76},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 6, "stars": 583, "owner": "fdehau", "forks": 33},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 5, "stars": 578, "owner": "seanmonstar", "forks": 37}
 ]

@@ -1,15 +1,15 @@
 [
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 357, "stars": 14500, "owner": "xi-editor", "forks": 495},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 287, "stars": 8669, "owner": "sharkdp", "forks": 144},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 287, "stars": 8670, "owner": "sharkdp", "forks": 144},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 203, "stars": 1137, "owner": "rustwasm", "forks": 66},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 132, "stars": 30918, "owner": "rust-lang", "forks": 5205},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 132, "stars": 30919, "owner": "rust-lang", "forks": 5205},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 141, "stars": 12367, "owner": "jwilm", "forks": 518},
 {"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 138, "stars": 138, "owner": "mtak-", "forks": 5},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 122, "stars": 124, "owner": "google", "forks": 12},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 106, "stars": 5361, "owner": "DenisKolodin", "forks": 179},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 100, "stars": 10782, "owner": "BurntSushi", "forks": 438},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 100, "stars": 10783, "owner": "BurntSushi", "forks": 438},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 84, "stars": 2756, "owner": "benfred", "forks": 77},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 81, "stars": 6846, "owner": "sharkdp", "forks": 169},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 81, "stars": 6847, "owner": "sharkdp", "forks": 169},
 {"description": "A modular system monitor written in Rust", "language": "Rust", "repo": "hegemon", "new_stars": 75, "stars": 96, "owner": "p-e-w", "forks": 3},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 70, "stars": 3520, "owner": "BurntSushi", "forks": 113},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 60, "stars": 5273, "owner": "SergioBenitez", "forks": 340},
@@ -21,7 +21,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 40, "stars": 12464, "owner": "servo", "forks": 1963},
 {"description": "A simple command line utility to download a remote file, similar to wget. This is not intended to be a full feature wget replacement but a simple tool to test few Rust crates.", "language": "Rust", "repo": "rsget", "new_stars": 40, "stars": 63, "owner": "otavio", "forks": 0},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 35, "stars": 2697, "owner": "rust-lang", "forks": 790},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 34, "stars": 3212, "owner": "tokio-rs", "forks": 218},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 34, "stars": 3213, "owner": "tokio-rs", "forks": 218},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 35, "stars": 2491, "owner": "actix", "forks": 162},
 {"description": "Rust library for building and running BPF/eBPF modules", "language": "Rust", "repo": "redbpf", "new_stars": 35, "stars": 36, "owner": "redsift", "forks": 1}
 ]

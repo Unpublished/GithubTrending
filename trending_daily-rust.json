@@ -2,9 +2,9 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 36, "stars": 8653, "owner": "sharkdp", "forks": 144},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 30910, "owner": "rust-lang", "forks": 5206},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 12365, "owner": "jwilm", "forks": 518},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 19, "stars": 14496, "owner": "xi-editor", "forks": 494},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 19, "stars": 14497, "owner": "xi-editor", "forks": 494},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 16, "stars": 109, "owner": "google", "forks": 12},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 6841, "owner": "sharkdp", "forks": 169},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 6842, "owner": "sharkdp", "forks": 169},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 10, "stars": 4801, "owner": "ogham", "forks": 151},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8132, "owner": "rust-unofficial", "forks": 535},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 5358, "owner": "DenisKolodin", "forks": 179},
@@ -15,7 +15,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 12459, "owner": "servo", "forks": 1962},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 7, "stars": 265, "owner": "carllerche", "forks": 16},
 {"description": "Hobby OS written in Rust, centered around message passing", "language": "Rust", "repo": "pebble", "new_stars": 7, "stars": 26, "owner": "pebble-os", "forks": 0},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5268, "owner": "SergioBenitez", "forks": 340},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 5269, "owner": "SergioBenitez", "forks": 340},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 1411, "owner": "mimblewimble", "forks": 264},
 {"description": "[WIP] A little demo of how to setup an iOS/android project to use rust", "language": "Rust", "repo": "rust-on-mobile", "new_stars": 6, "stars": 135, "owner": "mtak-", "forks": 5},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 3765, "owner": "tikv", "forks": 514},
@@ -23,5 +23,5 @@
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 5, "stars": 580, "owner": "seanmonstar", "forks": 37},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 5, "stars": 10779, "owner": "BurntSushi", "forks": 438},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 5, "stars": 3860, "owner": "mre", "forks": 441},
-{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 5, "stars": 2195, "owner": "rayon-rs", "forks": 160}
+{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 5, "stars": 2196, "owner": "rayon-rs", "forks": 160}
 ]

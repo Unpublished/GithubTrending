@@ -1,10 +1,10 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 281, "stars": 8716, "owner": "sharkdp", "forks": 148},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 274, "stars": 14561, "owner": "xi-editor", "forks": 500},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 144, "stars": 12392, "owner": "jwilm", "forks": 518},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 274, "stars": 14563, "owner": "xi-editor", "forks": 500},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 144, "stars": 12393, "owner": "jwilm", "forks": 518},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 125, "stars": 30930, "owner": "rust-lang", "forks": 5208},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 132, "stars": 133, "owner": "google", "forks": 11},
-{"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 113, "stars": 1142, "owner": "rustwasm", "forks": 67},
+{"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 113, "stars": 1143, "owner": "rustwasm", "forks": 67},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 105, "stars": 10807, "owner": "BurntSushi", "forks": 441},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 98, "stars": 5364, "owner": "DenisKolodin", "forks": 179},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 80, "stars": 3536, "owner": "BurntSushi", "forks": 114},
@@ -23,5 +23,5 @@
 {"description": "Rust library for building and running BPF/eBPF modules", "language": "Rust", "repo": "redbpf", "new_stars": 36, "stars": 36, "owner": "redsift", "forks": 1},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 34, "stars": 3872, "owner": "mre", "forks": 442},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 33, "stars": 2496, "owner": "actix", "forks": 161},
-{"description": "Shasper beacon chain implementation using the Substrate framework.", "language": "Rust", "repo": "shasper", "new_stars": 34, "stars": 35, "owner": "paritytech", "forks": 1}
+{"description": "Shasper beacon chain implementation using the Substrate framework.", "language": "Rust", "repo": "shasper", "new_stars": 34, "stars": 36, "owner": "paritytech", "forks": 1}
 ]

@@ -1,11 +1,11 @@
 [
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 275, "stars": 14583, "owner": "xi-editor", "forks": 501},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 276, "stars": 8742, "owner": "sharkdp", "forks": 147},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 142, "stars": 12397, "owner": "jwilm", "forks": 518},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 142, "stars": 12398, "owner": "jwilm", "forks": 519},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 136, "stars": 137, "owner": "google", "forks": 11},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 123, "stars": 30935, "owner": "rust-lang", "forks": 5209},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 10813, "owner": "BurntSushi", "forks": 441},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 91, "stars": 5366, "owner": "DenisKolodin", "forks": 179},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 91, "stars": 5367, "owner": "DenisKolodin", "forks": 179},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 85, "stars": 1144, "owner": "rustwasm", "forks": 67},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 78, "stars": 6871, "owner": "sharkdp", "forks": 169},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 68, "stars": 12493, "owner": "servo", "forks": 1964},
@@ -17,11 +17,11 @@
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 38, "stars": 1670, "owner": "amethyst", "forks": 179},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 42, "stars": 1434, "owner": "citybound", "forks": 67},
 {"description": "Shasper beacon chain implementation using the Substrate framework.", "language": "Rust", "repo": "shasper", "new_stars": 42, "stars": 43, "owner": "paritytech", "forks": 1},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 37, "stars": 2707, "owner": "rust-lang", "forks": 791},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 37, "stars": 2708, "owner": "rust-lang", "forks": 791},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 38, "stars": 1404, "owner": "rustwasm", "forks": 144},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 37, "stars": 3877, "owner": "mre", "forks": 443},
 {"description": "tracking performance of rustc-generated binaries over time", "language": "Rust", "repo": "lolbench", "new_stars": 37, "stars": 51, "owner": "anp", "forks": 4},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 36, "stars": 1426, "owner": "mimblewimble", "forks": 264},
 {"description": "Rust library for building and running BPF/eBPF modules", "language": "Rust", "repo": "redbpf", "new_stars": 36, "stars": 36, "owner": "redsift", "forks": 1},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 35, "stars": 4818, "owner": "ogham", "forks": 151}
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 35, "stars": 4819, "owner": "ogham", "forks": 151}
 ]

@@ -1,5 +1,5 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 41, "stars": 46112, "owner": "laravel", "forks": 14282},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 41, "stars": 46112, "owner": "laravel", "forks": 14283},
 {"description": "Use custom html components in your Blade views", "language": "PHP", "repo": "laravel-blade-x", "new_stars": 36, "stars": 178, "owner": "spatie", "forks": 6},
 {"description": "Awesome error handler. Demo:", "language": "PHP", "repo": "slashtrace", "new_stars": 27, "stars": 36, "owner": "slashtrace", "forks": 2},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 18, "stars": 14126, "owner": "laravel", "forks": 5848},
@@ -20,8 +20,8 @@
 {"description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.", "language": "PHP", "repo": "labs", "new_stars": 13, "stars": 6236, "owner": "docker", "forks": 2539},
 {"description": "A REPL for PHP", "language": "PHP", "repo": "psysh", "new_stars": 13, "stars": 5926, "owner": "bobthecow", "forks": 203},
 {"description": "All PHP functions, rewritten to throw exceptions instead of returning false", "language": "PHP", "repo": "safe", "new_stars": 12, "stars": 673, "owner": "thecodingmachine", "forks": 16},
-{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 12, "stars": 10308, "owner": "briannesbitt", "forks": 992},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 12, "stars": 7857, "owner": "vlucas", "forks": 375},
+{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 12, "stars": 10309, "owner": "briannesbitt", "forks": 992},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 12, "stars": 7858, "owner": "vlucas", "forks": 375},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 12, "stars": 6076, "owner": "mockery", "forks": 330},
 {"description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.", "language": "PHP", "repo": "php-code-coverage", "new_stars": 12, "stars": 4498, "owner": "sebastianbergmann", "forks": 252}
 ]

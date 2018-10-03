@@ -1,12 +1,12 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 268, "stars": 14611, "owner": "xi-editor", "forks": 503},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 268, "stars": 14612, "owner": "xi-editor", "forks": 503},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 271, "stars": 8757, "owner": "sharkdp", "forks": 148},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 142, "stars": 12407, "owner": "jwilm", "forks": 520},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 123, "stars": 30947, "owner": "rust-lang", "forks": 5212},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 123, "stars": 30948, "owner": "rust-lang", "forks": 5213},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 124, "stars": 147, "owner": "google", "forks": 12},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 103, "stars": 10820, "owner": "BurntSushi", "forks": 442},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 88, "stars": 3547, "owner": "BurntSushi", "forks": 114},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 6880, "owner": "sharkdp", "forks": 170},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 6881, "owner": "sharkdp", "forks": 170},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 65, "stars": 12498, "owner": "servo", "forks": 1964},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 68, "stars": 1146, "owner": "rustwasm", "forks": 67},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 55, "stars": 8152, "owner": "rust-unofficial", "forks": 538},
@@ -22,6 +22,6 @@
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 38, "stars": 1405, "owner": "rustwasm", "forks": 144},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 38, "stars": 1435, "owner": "citybound", "forks": 67},
 {"description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.", "language": "Rust", "repo": "salsa", "new_stars": 38, "stars": 38, "owner": "salsa-rs", "forks": 2},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 37, "stars": 4820, "owner": "ogham", "forks": 151},
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 37, "stars": 4821, "owner": "ogham", "forks": 151},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 32, "stars": 2499, "owner": "actix", "forks": 162}
 ]

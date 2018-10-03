@@ -1,7 +1,7 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 2403, "stars": 8793, "owner": "sharkdp", "forks": 149},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1473, "stars": 3552, "owner": "BurntSushi", "forks": 114},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1287, "stars": 14659, "owner": "xi-editor", "forks": 511},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1473, "stars": 3553, "owner": "BurntSushi", "forks": 114},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1287, "stars": 14660, "owner": "xi-editor", "forks": 512},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 811, "stars": 10833, "owner": "BurntSushi", "forks": 442},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 645, "stars": 30964, "owner": "rust-lang", "forks": 5217},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 565, "stars": 12419, "owner": "jwilm", "forks": 522},
@@ -23,5 +23,5 @@
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 139, "stars": 1410, "owner": "rustwasm", "forks": 145},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 135, "stars": 2176, "owner": "gfx-rs", "forks": 283},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 130, "stars": 1733, "owner": "phil-opp", "forks": 165},
-{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 126, "stars": 337, "owner": "carllerche", "forks": 18}
+{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 126, "stars": 338, "owner": "carllerche", "forks": 18}
 ]

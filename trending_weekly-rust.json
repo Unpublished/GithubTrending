@@ -1,6 +1,6 @@
 [
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 268, "stars": 14647, "owner": "xi-editor", "forks": 509},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 273, "stars": 8788, "owner": "sharkdp", "forks": 149},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 273, "stars": 8789, "owner": "sharkdp", "forks": 149},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 134, "stars": 12415, "owner": "jwilm", "forks": 522},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 121, "stars": 30961, "owner": "rust-lang", "forks": 5216},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 99, "stars": 10827, "owner": "BurntSushi", "forks": 442},
@@ -15,8 +15,8 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 48, "stars": 3892, "owner": "mre", "forks": 444},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 46, "stars": 5293, "owner": "SergioBenitez", "forks": 340},
 {"description": "Shasper beacon chain implementation using the Substrate framework.", "language": "Rust", "repo": "shasper", "new_stars": 45, "stars": 48, "owner": "paritytech", "forks": 2},
-{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 44, "stars": 305, "owner": "carllerche", "forks": 18},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 38, "stars": 4865, "owner": "paritytech", "forks": 1066},
+{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 44, "stars": 313, "owner": "carllerche", "forks": 18},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 38, "stars": 4866, "owner": "paritytech", "forks": 1066},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 39, "stars": 1680, "owner": "amethyst", "forks": 181},
 {"description": "tracking performance of rustc-generated binaries over time", "language": "Rust", "repo": "lolbench", "new_stars": 44, "stars": 59, "owner": "anp", "forks": 4},
 {"description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.", "language": "Rust", "repo": "salsa", "new_stars": 40, "stars": 40, "owner": "salsa-rs", "forks": 3},

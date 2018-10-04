@@ -1,11 +1,11 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 2368, "stars": 8801, "owner": "sharkdp", "forks": 149},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 2368, "stars": 8802, "owner": "sharkdp", "forks": 149},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1475, "stars": 3554, "owner": "BurntSushi", "forks": 114},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1293, "stars": 14665, "owner": "xi-editor", "forks": 515},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 814, "stars": 10836, "owner": "BurntSushi", "forks": 442},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 643, "stars": 30965, "owner": "rust-lang", "forks": 5218},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1293, "stars": 14667, "owner": "xi-editor", "forks": 515},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 814, "stars": 10837, "owner": "BurntSushi", "forks": 442},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 643, "stars": 30966, "owner": "rust-lang", "forks": 5218},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 563, "stars": 12418, "owner": "jwilm", "forks": 522},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 401, "stars": 6891, "owner": "sharkdp", "forks": 170},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 401, "stars": 6892, "owner": "sharkdp", "forks": 170},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 261, "stars": 8164, "owner": "rust-unofficial", "forks": 538},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 254, "stars": 1150, "owner": "rustwasm", "forks": 67},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 206, "stars": 3242, "owner": "tokio-rs", "forks": 219},
@@ -19,9 +19,9 @@
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 147, "stars": 1682, "owner": "amethyst", "forks": 181},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 121, "stars": 4866, "owner": "paritytech", "forks": 1066},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 144, "stars": 4825, "owner": "ogham", "forks": 151},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 142, "stars": 1411, "owner": "rustwasm", "forks": 145},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 142, "stars": 1412, "owner": "rustwasm", "forks": 145},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 142, "stars": 1881, "owner": "sharkdp", "forks": 34},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 135, "stars": 2177, "owner": "gfx-rs", "forks": 283},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 131, "stars": 1734, "owner": "phil-opp", "forks": 165},
-{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 133, "stars": 340, "owner": "carllerche", "forks": 18}
+{"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 133, "stars": 342, "owner": "carllerche", "forks": 18}
 ]

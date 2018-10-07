@@ -1,8 +1,8 @@
 [
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1507, "stars": 2803, "owner": "benfred", "forks": 82},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1507, "stars": 2804, "owner": "benfred", "forks": 82},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1482, "stars": 3571, "owner": "BurntSushi", "forks": 117},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1390, "stars": 14774, "owner": "xi-editor", "forks": 526},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1345, "stars": 8877, "owner": "sharkdp", "forks": 151},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1390, "stars": 14774, "owner": "xi-editor", "forks": 527},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1345, "stars": 8878, "owner": "sharkdp", "forks": 151},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 798, "stars": 10875, "owner": "BurntSushi", "forks": 443},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 619, "stars": 31026, "owner": "rust-lang", "forks": 5218},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 513, "stars": 12448, "owner": "jwilm", "forks": 525},
@@ -17,11 +17,11 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 158, "stars": 2737, "owner": "rust-lang", "forks": 798},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 169, "stars": 3915, "owner": "mre", "forks": 445},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 154, "stars": 1700, "owner": "amethyst", "forks": 185},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 158, "stars": 1496, "owner": "mimblewimble", "forks": 271},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 158, "stars": 1498, "owner": "mimblewimble", "forks": 271},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 162, "stars": 2523, "owner": "actix", "forks": 166},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 157, "stars": 367, "owner": "carllerche", "forks": 20},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 137, "stars": 3778, "owner": "tikv", "forks": 516},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 116, "stars": 4872, "owner": "paritytech", "forks": 1066},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 116, "stars": 4872, "owner": "paritytech", "forks": 1067},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 141, "stars": 1417, "owner": "rustwasm", "forks": 145},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 128, "stars": 1739, "owner": "phil-opp", "forks": 165}
 ]

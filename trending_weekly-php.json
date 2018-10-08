@@ -1,11 +1,11 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 202, "stars": 46241, "owner": "laravel", "forks": 14326},
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 187, "stars": 1073, "owner": "akaunting", "forks": 371},
-{"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 189, "stars": 7523, "owner": "octobercms", "forks": 1818},
+{"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 189, "stars": 7524, "owner": "octobercms", "forks": 1818},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 120, "stars": 14216, "owner": "laravel", "forks": 5867},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 117, "stars": 14649, "owner": "danielmiessler", "forks": 5161},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 117, "stars": 14650, "owner": "danielmiessler", "forks": 5161},
 {"description": "Use custom HTML components in your Blade views", "language": "PHP", "repo": "laravel-blade-x", "new_stars": 138, "stars": 237, "owner": "spatie", "forks": 10},
-{"description": "A curated collection of useful PHP snippets that you can understand in 30 seconds or less.", "language": "PHP", "repo": "30-seconds-of-php-code", "new_stars": 129, "stars": 1266, "owner": "appzcoder", "forks": 139},
+{"description": "A curated collection of useful PHP snippets that you can understand in 30 seconds or less.", "language": "PHP", "repo": "30-seconds-of-php-code", "new_stars": 129, "stars": 1266, "owner": "appzcoder", "forks": 138},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 125, "stars": 17637, "owner": "fzaninotto", "forks": 2229},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 121, "stars": 16508, "owner": "composer", "forks": 5286},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 111, "stars": 11982, "owner": "Seldaek", "forks": 1419},
@@ -17,11 +17,11 @@
 {"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 97, "stars": 6988, "owner": "ramsey", "forks": 282},
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 97, "stars": 4565, "owner": "egulias", "forks": 70},
 {"description": "Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 94, "stars": 8897, "owner": "erusev", "forks": 809},
-{"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 94, "stars": 4962, "owner": "symfony", "forks": 144},
-{"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 87, "stars": 6306, "owner": "swiftmailer", "forks": 699},
-{"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 88, "stars": 4450, "owner": "symfony", "forks": 33},
-{"description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.", "language": "PHP", "repo": "event-dispatcher", "new_stars": 86, "stars": 4478, "owner": "symfony", "forks": 35},
+{"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 94, "stars": 4963, "owner": "symfony", "forks": 144},
+{"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 87, "stars": 6307, "owner": "swiftmailer", "forks": 699},
+{"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 88, "stars": 4451, "owner": "symfony", "forks": 33},
+{"description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.", "language": "PHP", "repo": "event-dispatcher", "new_stars": 86, "stars": 4479, "owner": "symfony", "forks": 35},
 {"description": "Create deep copies (clones) of your objects", "language": "PHP", "repo": "DeepCopy", "new_stars": 85, "stars": 4095, "owner": "myclabs", "forks": 51},
-{"description": "The Debug component provides tools to ease debugging PHP code.", "language": "PHP", "repo": "debug", "new_stars": 84, "stars": 4404, "owner": "symfony", "forks": 28},
-{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 83, "stars": 4690, "owner": "symfony", "forks": 187}
+{"description": "The Debug component provides tools to ease debugging PHP code.", "language": "PHP", "repo": "debug", "new_stars": 84, "stars": 4405, "owner": "symfony", "forks": 28},
+{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 83, "stars": 4691, "owner": "symfony", "forks": 187}
 ]

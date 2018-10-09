@@ -1,5 +1,5 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1417, "stars": 14799, "owner": "xi-editor", "forks": 528},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1417, "stars": 14801, "owner": "xi-editor", "forks": 528},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 1313, "stars": 3578, "owner": "BurntSushi", "forks": 117},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1227, "stars": 8927, "owner": "sharkdp", "forks": 152},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 1130, "stars": 2819, "owner": "benfred", "forks": 82},
@@ -8,9 +8,9 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 512, "stars": 12466, "owner": "jwilm", "forks": 526},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 359, "stars": 6937, "owner": "sharkdp", "forks": 173},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 260, "stars": 1166, "owner": "rustwasm", "forks": 72},
-{"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 258, "stars": 258, "owner": "google", "forks": 15},
+{"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 258, "stars": 259, "owner": "google", "forks": 15},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 252, "stars": 8198, "owner": "rust-unofficial", "forks": 541},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 232, "stars": 1571, "owner": "mimblewimble", "forks": 277},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 232, "stars": 1572, "owner": "mimblewimble", "forks": 277},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 210, "stars": 5328, "owner": "SergioBenitez", "forks": 343},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 200, "stars": 3262, "owner": "tokio-rs", "forks": 228},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 190, "stars": 12531, "owner": "servo", "forks": 1964},
@@ -21,7 +21,7 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 165, "stars": 2531, "owner": "actix", "forks": 164},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 152, "stars": 368, "owner": "carllerche", "forks": 20},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 118, "stars": 4875, "owner": "paritytech", "forks": 1069},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 134, "stars": 3782, "owner": "tikv", "forks": 519},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 134, "stars": 3783, "owner": "tikv", "forks": 519},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 142, "stars": 1422, "owner": "rustwasm", "forks": 145},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 134, "stars": 1749, "owner": "phil-opp", "forks": 165}
 ]

@@ -1,8 +1,8 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1442, "stars": 14846, "owner": "xi-editor", "forks": 532},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1442, "stars": 14847, "owner": "xi-editor", "forks": 532},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1053, "stars": 9004, "owner": "sharkdp", "forks": 153},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 683, "stars": 2851, "owner": "benfred", "forks": 83},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 604, "stars": 31095, "owner": "rust-lang", "forks": 5230},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 604, "stars": 31094, "owner": "rust-lang", "forks": 5230},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 520, "stars": 12501, "owner": "jwilm", "forks": 527},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 342, "stars": 1693, "owner": "mimblewimble", "forks": 305},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 353, "stars": 6965, "owner": "sharkdp", "forks": 173},
@@ -10,7 +10,7 @@
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 291, "stars": 291, "owner": "google", "forks": 15},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 275, "stars": 1185, "owner": "rustwasm", "forks": 73},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 252, "stars": 8221, "owner": "rust-unofficial", "forks": 544},
-{"description": "Small exercises to get you used to reading and writing Rust code", "language": "Rust", "repo": "rustlings", "new_stars": 256, "stars": 2935, "owner": "rustlings", "forks": 186},
+{"description": "Small exercises to get you used to reading and writing Rust code", "language": "Rust", "repo": "rustlings", "new_stars": 256, "stars": 2936, "owner": "rustlings", "forks": 186},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 233, "stars": 3309, "owner": "tokio-rs", "forks": 231},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 209, "stars": 5342, "owner": "SergioBenitez", "forks": 343},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 200, "stars": 12554, "owner": "servo", "forks": 1967},
@@ -20,7 +20,7 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 165, "stars": 2548, "owner": "actix", "forks": 165},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 154, "stars": 1718, "owner": "amethyst", "forks": 189},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 163, "stars": 390, "owner": "carllerche", "forks": 21},
-{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 157, "stars": 232, "owner": "mit-pdos", "forks": 15},
+{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 157, "stars": 233, "owner": "mit-pdos", "forks": 15},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 144, "stars": 1433, "owner": "rustwasm", "forks": 146},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 120, "stars": 4893, "owner": "paritytech", "forks": 1070},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 143, "stars": 1601, "owner": "rbspy", "forks": 49}

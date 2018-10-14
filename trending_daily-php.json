@@ -1,7 +1,7 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 15, "stars": 46396, "owner": "laravel", "forks": 14394},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 13, "stars": 14737, "owner": "danielmiessler", "forks": 5226},
-{"description": "Self hosted project management and collaboration tool", "language": "PHP", "repo": "goodwork", "new_stars": 10, "stars": 86, "owner": "iluminar", "forks": 56},
+{"description": "Self hosted project management and collaboration tool", "language": "PHP", "repo": "goodwork", "new_stars": 10, "stars": 87, "owner": "iluminar", "forks": 56},
 {"description": "Track your finances, whether it's personal or corporate. Powered by Laravel.", "language": "PHP", "repo": "budget", "new_stars": 10, "stars": 36, "owner": "range-of-motion", "forks": 9},
 {"description": "Another OneDrive Directory Index", "language": "PHP", "repo": "OLAINDEX", "new_stars": 11, "stars": 122, "owner": "WangNingkai", "forks": 19},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 9, "stars": 14307, "owner": "laravel", "forks": 5886},
@@ -17,7 +17,7 @@
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 6, "stars": 4878, "owner": "phpstan", "forks": 327},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 7, "stars": 12062, "owner": "Seldaek", "forks": 1426},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 7, "stars": 10439, "owner": "briannesbitt", "forks": 1002},
-{"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 7, "stars": 4724, "owner": "doctrine", "forks": 37},
+{"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 7, "stars": 4724, "owner": "doctrine", "forks": 38},
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 7, "stars": 4701, "owner": "doctrine", "forks": 24},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 7, "stars": 4864, "owner": "doctrine", "forks": 76},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 7, "stars": 4398, "owner": "symfony", "forks": 46},

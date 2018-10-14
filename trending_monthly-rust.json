@@ -1,7 +1,7 @@
 [
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1467, "stars": 14884, "owner": "xi-editor", "forks": 535},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 977, "stars": 9058, "owner": "sharkdp", "forks": 158},
-{"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 683, "stars": 697, "owner": "dgiagio", "forks": 16},
+{"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 683, "stars": 699, "owner": "dgiagio", "forks": 16},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 596, "stars": 31134, "owner": "rust-lang", "forks": 5236},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 516, "stars": 12531, "owner": "jwilm", "forks": 533},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 457, "stars": 1829, "owner": "mimblewimble", "forks": 310},
@@ -18,7 +18,7 @@
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 191, "stars": 266, "owner": "mit-pdos", "forks": 15},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 159, "stars": 2772, "owner": "rust-lang", "forks": 806},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 171, "stars": 2573, "owner": "actix", "forks": 166},
-{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 156, "stars": 1731, "owner": "amethyst", "forks": 195},
+{"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 156, "stars": 1731, "owner": "amethyst", "forks": 196},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 154, "stars": 394, "owner": "carllerche", "forks": 21},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 134, "stars": 2526, "owner": "rust-lang-nursery", "forks": 358},
 {"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 136, "stars": 1021, "owner": "pest-parser", "forks": 56},

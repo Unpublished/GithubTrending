@@ -1,11 +1,11 @@
 [
-{"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 117, "stars": 813, "owner": "dgiagio", "forks": 19},
+{"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 117, "stars": 815, "owner": "dgiagio", "forks": 19},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 43, "stars": 1874, "owner": "mimblewimble", "forks": 313},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 9083, "owner": "sharkdp", "forks": 159},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 9084, "owner": "sharkdp", "forks": 159},
 {"description": "Apache-Benchmark-Like Tool Written in Rust", "language": "Rust", "repo": "welle", "new_stars": 22, "stars": 24, "owner": "rylev", "forks": 1},
 {"description": "Data-oriented game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 19, "stars": 1749, "owner": "amethyst", "forks": 196},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 11, "stars": 31146, "owner": "rust-lang", "forks": 5237},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 12, "stars": 14896, "owner": "xi-editor", "forks": 536},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 12, "stars": 14898, "owner": "xi-editor", "forks": 536},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 11, "stars": 2539, "owner": "rust-lang-nursery", "forks": 360},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 2583, "owner": "actix", "forks": 168},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 11, "stars": 7005, "owner": "sharkdp", "forks": 178},
@@ -23,5 +23,5 @@
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 5, "stars": 2187, "owner": "clap-rs", "forks": 228},
 {"description": "Parse command line argument by defining a struct.", "language": "Rust", "repo": "structopt", "new_stars": 5, "stars": 601, "owner": "TeXitoi", "forks": 37},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 5, "stars": 303, "owner": "google", "forks": 15},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 0, "stars": 164, "owner": "RustPython", "forks": 11}
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 0, "stars": 164, "owner": "RustPython", "forks": 12}
 ]

@@ -1,10 +1,10 @@
 [
 {"description": "An efficient programming language and proof assistant.", "language": "Rust", "repo": "Formality", "new_stars": 101, "stars": 414, "owner": "MaiaVictor", "forks": 11},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 55, "stars": 2059, "owner": "mimblewimble", "forks": 329},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 55, "stars": 2060, "owner": "mimblewimble", "forks": 329},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 50, "stars": 5569, "owner": "DenisKolodin", "forks": 190},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 9184, "owner": "sharkdp", "forks": 161},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 31212, "owner": "rust-lang", "forks": 5240},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 12635, "owner": "jwilm", "forks": 543},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 12636, "owner": "jwilm", "forks": 543},
 {"description": "Custom memory allocator that helps discover reads from uninitialized memory", "language": "Rust", "repo": "libdiffuzz", "new_stars": 19, "stars": 89, "owner": "Shnatsel", "forks": 4},
 {"description": "\u300aRust\u7f16\u7a0b\u4e4b\u9053\u300b\u968f\u4e66\u6e90\u7801", "language": "Rust", "repo": "tao-of-rust-codes", "new_stars": 17, "stars": 34, "owner": "ZhangHanDong", "forks": 1},
 {"description": "Bahasa pemrograman dengan sintaks Bahasa Indonesia (Programming language with Indonesian syntax)", "language": "Rust", "repo": "naskah", "new_stars": 16, "stars": 50, "owner": "pveyes", "forks": 3},
@@ -19,9 +19,9 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 8, "stars": 4026, "owner": "mre", "forks": 459},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 5399, "owner": "SergioBenitez", "forks": 347},
 {"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 8, "stars": 899, "owner": "dgiagio", "forks": 19},
-{"description": "Wasm interpreter in Rust", "language": "Rust", "repo": "wasmi", "new_stars": 8, "stars": 202, "owner": "paritytech", "forks": 17},
+{"description": "Wasm interpreter in Rust", "language": "Rust", "repo": "wasmi", "new_stars": 8, "stars": 202, "owner": "paritytech", "forks": 18},
 {"description": "Collection of cryptography related traits", "language": "Rust", "repo": "traits", "new_stars": 8, "stars": 38, "owner": "RustCrypto", "forks": 8},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 7, "stars": 2803, "owner": "rust-lang", "forks": 810},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 2565, "owner": "rust-lang-nursery", "forks": 362},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 2566, "owner": "rust-lang-nursery", "forks": 362},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "gutenberg", "new_stars": 6, "stars": 1206, "owner": "Keats", "forks": 106}
 ]

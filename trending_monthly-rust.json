@@ -1,17 +1,17 @@
 [
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1256, "stars": 14953, "owner": "xi-editor", "forks": 542},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1256, "stars": 14955, "owner": "xi-editor", "forks": 542},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 918, "stars": 9184, "owner": "sharkdp", "forks": 161},
-{"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 896, "stars": 896, "owner": "dgiagio", "forks": 19},
+{"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 896, "stars": 897, "owner": "dgiagio", "forks": 19},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 669, "stars": 2051, "owner": "mimblewimble", "forks": 329},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 569, "stars": 31210, "owner": "rust-lang", "forks": 5240},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 511, "stars": 12630, "owner": "jwilm", "forks": 544},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 511, "stars": 12630, "owner": "jwilm", "forks": 543},
 {"description": "An efficient programming language and proof assistant.", "language": "Rust", "repo": "Formality", "new_stars": 387, "stars": 406, "owner": "MaiaVictor", "forks": 11},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 349, "stars": 5569, "owner": "DenisKolodin", "forks": 190},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 324, "stars": 7044, "owner": "sharkdp", "forks": 180},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 322, "stars": 323, "owner": "google", "forks": 16},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 289, "stars": 1215, "owner": "rustwasm", "forks": 74},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 259, "stars": 335, "owner": "mit-pdos", "forks": 15},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 235, "stars": 3359, "owner": "tokio-rs", "forks": 237},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 235, "stars": 3360, "owner": "tokio-rs", "forks": 237},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 233, "stars": 8271, "owner": "rust-unofficial", "forks": 549},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 223, "stars": 5398, "owner": "SergioBenitez", "forks": 347},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 216, "stars": 4025, "owner": "mre", "forks": 459},
@@ -23,5 +23,5 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 154, "stars": 2563, "owner": "rust-lang-nursery", "forks": 362},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 158, "stars": 402, "owner": "carllerche", "forks": 22},
 {"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 151, "stars": 1042, "owner": "pest-parser", "forks": 55},
-{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 139, "stars": 4898, "owner": "ogham", "forks": 154}
+{"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 139, "stars": 4899, "owner": "ogham", "forks": 154}
 ]

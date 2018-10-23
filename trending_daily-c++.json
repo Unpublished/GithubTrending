@@ -1,16 +1,16 @@
 [
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 110, "stars": 112708, "owner": "tensorflow", "forks": 68854},
-{"description": "A semi compile-/run-time associative map container with compile-time lookup and run-time storage", "language": "C++", "repo": "semimap", "new_stars": 126, "stars": 132, "owner": "hogliux", "forks": 4},
-{"description": "A front-end to Jekyll that parses C++ sources to produce and enforce out-of-line documentation", "language": "C++", "repo": "hyde", "new_stars": 105, "stars": 107, "owner": "adobe", "forks": 2},
-{"description": "A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3 and Zero", "language": "C++", "repo": "fbcp-ili9341", "new_stars": 81, "stars": 284, "owner": "juj", "forks": 20},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 110, "stars": 112711, "owner": "tensorflow", "forks": 68854},
+{"description": "A semi compile-/run-time associative map container with compile-time lookup and run-time storage", "language": "C++", "repo": "semimap", "new_stars": 126, "stars": 134, "owner": "hogliux", "forks": 4},
+{"description": "A front-end to Jekyll that parses C++ sources to produce and enforce out-of-line documentation", "language": "C++", "repo": "hyde", "new_stars": 105, "stars": 108, "owner": "adobe", "forks": 2},
+{"description": "A blazing fast display driver for SPI-based LCD displays for Raspberry Pi A, B, 2, 3 and Zero", "language": "C++", "repo": "fbcp-ili9341", "new_stars": 81, "stars": 285, "owner": "juj", "forks": 20},
 {"description": "Emoji", "language": "C++", "repo": "emojicpp", "new_stars": 71, "stars": 73, "owner": "shalithasuranga", "forks": 14},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 50, "stars": 20303, "owner": "pytorch", "forks": 4813},
-{"description": "Fast C++ Parallel Programming with Task Dependency Graphs", "language": "C++", "repo": "cpp-taskflow", "new_stars": 44, "stars": 869, "owner": "cpp-taskflow", "forks": 62},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 35, "stars": 28617, "owner": "opencv", "forks": 20469},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 50, "stars": 20306, "owner": "pytorch", "forks": 4813},
+{"description": "Fast C++ Parallel Programming with Task Dependency Graphs", "language": "C++", "repo": "cpp-taskflow", "new_stars": 44, "stars": 870, "owner": "cpp-taskflow", "forks": 62},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 35, "stars": 28618, "owner": "opencv", "forks": 20469},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 42, "stars": 65794, "owner": "electron", "forks": 8586},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 42, "stars": 21845, "owner": "tesseract-ocr", "forks": 4334},
-{"description": "Hide your Powershell script in plain sight. Bypass all Powershell security features", "language": "C++", "repo": "Invisi-Shell", "new_stars": 37, "stars": 93, "owner": "OmerYa", "forks": 17},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 33, "stars": 35531, "owner": "bitcoin", "forks": 21457},
+{"description": "Hide your Powershell script in plain sight. Bypass all Powershell security features", "language": "C++", "repo": "Invisi-Shell", "new_stars": 37, "stars": 93, "owner": "OmerYa", "forks": 18},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 33, "stars": 35533, "owner": "bitcoin", "forks": 21457},
 {"description": "Cross-platform header-only C++11 library for memory mapped file IO", "language": "C++", "repo": "mio", "new_stars": 35, "stars": 584, "owner": "mandreyel", "forks": 25},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 30, "stars": 29756, "owner": "protocolbuffers", "forks": 8265},
 {"description": "Data Structure & Algorithm", "language": "C++", "repo": "algo", "new_stars": 28, "stars": 780, "owner": "wangzheng0822", "forks": 236},
@@ -23,5 +23,5 @@
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 19, "stars": 11464, "owner": "nlohmann", "forks": 1836},
 {"description": "Google Test", "language": "C++", "repo": "googletest", "new_stars": 16, "stars": 9568, "owner": "google", "forks": 4046},
 {"description": "A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(", "language": "C++", "repo": "LightGBM", "new_stars": 17, "stars": 6956, "owner": "Microsoft", "forks": 1885},
-{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 15, "stars": 13844, "owner": "dmlc", "forks": 6021}
+{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 15, "stars": 13844, "owner": "dmlc", "forks": 6020}
 ]

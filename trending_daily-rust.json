@@ -1,19 +1,19 @@
 [
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 59, "stars": 1838, "owner": "phil-opp", "forks": 174},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 30, "stars": 2199, "owner": "mimblewimble", "forks": 345},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 31, "stars": 11085, "owner": "BurntSushi", "forks": 452},
-{"description": "A very fast implementation of tldr in Rust.", "language": "Rust", "repo": "tealdeer", "new_stars": 26, "stars": 188, "owner": "dbrgn", "forks": 15},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 31, "stars": 11086, "owner": "BurntSushi", "forks": 452},
+{"description": "A very fast implementation of tldr in Rust.", "language": "Rust", "repo": "tealdeer", "new_stars": 26, "stars": 189, "owner": "dbrgn", "forks": 15},
 {"description": "The ultimate Rust string library", "language": "Rust", "repo": "voca_rs", "new_stars": 24, "stars": 38, "owner": "e1r0nd", "forks": 2},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 22, "stars": 12692, "owner": "jwilm", "forks": 548},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 22, "stars": 12693, "owner": "jwilm", "forks": 548},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 20, "stars": 1025, "owner": "CraneStation", "forks": 98},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 17, "stars": 1818, "owner": "amethyst", "forks": 204},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 14, "stars": 31270, "owner": "rust-lang", "forks": 5242},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 15, "stars": 9219, "owner": "sharkdp", "forks": 164},
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 17, "stars": 1819, "owner": "amethyst", "forks": 204},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 14, "stars": 31271, "owner": "rust-lang", "forks": 5242},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 15, "stars": 9220, "owner": "sharkdp", "forks": 164},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 14, "stars": 14998, "owner": "xi-editor", "forks": 547},
 {"description": "Bare-metal Raspberry Pi 3 tutorials in Rust", "language": "Rust", "repo": "rust-raspi3-tutorial", "new_stars": 14, "stars": 127, "owner": "rust-embedded", "forks": 50},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 12, "stars": 4052, "owner": "mre", "forks": 464},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 5608, "owner": "DenisKolodin", "forks": 196},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 13, "stars": 5429, "owner": "SergioBenitez", "forks": 348},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 13, "stars": 5430, "owner": "SergioBenitez", "forks": 348},
 {"description": "Funktional generic programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends.", "language": "Rust", "repo": "frunk", "new_stars": 13, "stars": 434, "owner": "lloydmeta", "forks": 18},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 8307, "owner": "rust-unofficial", "forks": 552},
 {"description": "Work-in-progress software-rendering Vulkan implementation", "language": "Rust", "repo": "kazan", "new_stars": 10, "stars": 145, "owner": "kazan-3d", "forks": 8},
@@ -23,5 +23,5 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 8, "stars": 1785, "owner": "actix", "forks": 116},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 2629, "owner": "actix", "forks": 171},
 {"description": "crates.io documentation generator", "language": "Rust", "repo": "docs.rs", "new_stars": 7, "stars": 305, "owner": "rust-lang-nursery", "forks": 41},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 7, "stars": 442, "owner": "maps4print", "forks": 12}
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 7, "stars": 443, "owner": "maps4print", "forks": 12}
 ]

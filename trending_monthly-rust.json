@@ -1,11 +1,11 @@
 [
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 849, "stars": 15005, "owner": "xi-editor", "forks": 547},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 833, "stars": 2217, "owner": "mimblewimble", "forks": 347},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 833, "stars": 2218, "owner": "mimblewimble", "forks": 347},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 846, "stars": 9223, "owner": "sharkdp", "forks": 164},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 557, "stars": 31276, "owner": "rust-lang", "forks": 5244},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 557, "stars": 31277, "owner": "rust-lang", "forks": 5244},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 483, "stars": 12699, "owner": "jwilm", "forks": 548},
 {"description": "An efficient programming language and proof assistant.", "language": "Rust", "repo": "Formality", "new_stars": 451, "stars": 458, "owner": "MaiaVictor", "forks": 13},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 411, "stars": 11090, "owner": "BurntSushi", "forks": 453},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 411, "stars": 11091, "owner": "BurntSushi", "forks": 453},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 378, "stars": 5616, "owner": "DenisKolodin", "forks": 197},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 328, "stars": 328, "owner": "google", "forks": 16},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 313, "stars": 7070, "owner": "sharkdp", "forks": 182},
@@ -18,10 +18,10 @@
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 215, "stars": 1835, "owner": "amethyst", "forks": 205},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 219, "stars": 12618, "owner": "servo", "forks": 1977},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 216, "stars": 3380, "owner": "tokio-rs", "forks": 242},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 211, "stars": 8137, "owner": "atom", "forks": 198},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 211, "stars": 8138, "owner": "atom", "forks": 198},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 189, "stars": 2631, "owner": "actix", "forks": 172},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 179, "stars": 2593, "owner": "rust-lang-nursery", "forks": 362},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 168, "stars": 2823, "owner": "rust-lang", "forks": 816},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 179, "stars": 2594, "owner": "rust-lang-nursery", "forks": 362},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 168, "stars": 2824, "owner": "rust-lang", "forks": 816},
 {"description": "A fast, boilerplate free, web framework for Rust", "language": "Rust", "repo": "tower-web", "new_stars": 159, "stars": 406, "owner": "carllerche", "forks": 22},
 {"description": "Replacement for 'ls' written in Rust.", "language": "Rust", "repo": "exa", "new_stars": 152, "stars": 4923, "owner": "ogham", "forks": 155}
 ]

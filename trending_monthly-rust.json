@@ -1,9 +1,9 @@
 [
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 1047, "stars": 2450, "owner": "mimblewimble", "forks": 390},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 1047, "stars": 2451, "owner": "mimblewimble", "forks": 390},
 {"description": "Create self-contained single binary applications", "language": "Rust", "repo": "warp", "new_stars": 938, "stars": 939, "owner": "dgiagio", "forks": 24},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 702, "stars": 9310, "owner": "sharkdp", "forks": 164},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 598, "stars": 15052, "owner": "xi-editor", "forks": 552},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 586, "stars": 31387, "owner": "rust-lang", "forks": 5254},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 586, "stars": 31388, "owner": "rust-lang", "forks": 5254},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 471, "stars": 12793, "owner": "jwilm", "forks": 554},
 {"description": "An efficient programming language and proof assistant.", "language": "Rust", "repo": "Formality", "new_stars": 469, "stars": 476, "owner": "MaiaVictor", "forks": 13},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 403, "stars": 11164, "owner": "BurntSushi", "forks": 455},
@@ -12,7 +12,7 @@
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 276, "stars": 356, "owner": "mit-pdos", "forks": 18},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 240, "stars": 1880, "owner": "amethyst", "forks": 214},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 244, "stars": 4089, "owner": "mre", "forks": 471},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 245, "stars": 2974, "owner": "benfred", "forks": 86},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 245, "stars": 2975, "owner": "benfred", "forks": 86},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 238, "stars": 5474, "owner": "SergioBenitez", "forks": 351},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 221, "stars": 12647, "owner": "servo", "forks": 1980},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 213, "stars": 3400, "owner": "tokio-rs", "forks": 245},
@@ -20,8 +20,8 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 198, "stars": 2624, "owner": "rust-lang-nursery", "forks": 366},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 183, "stars": 2859, "owner": "rust-lang", "forks": 819},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 198, "stars": 8161, "owner": "atom", "forks": 198},
-{"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 178, "stars": 1896, "owner": "phil-opp", "forks": 176},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 166, "stars": 556, "owner": "maps4print", "forks": 12},
+{"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 178, "stars": 1897, "owner": "phil-opp", "forks": 176},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 166, "stars": 557, "owner": "maps4print", "forks": 12},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 160, "stars": 4945, "owner": "ogham", "forks": 156},
 {"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 151, "stars": 1056, "owner": "pest-parser", "forks": 59}
 ]

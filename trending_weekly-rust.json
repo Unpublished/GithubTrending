@@ -1,11 +1,11 @@
 [
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 305, "stars": 2478, "owner": "mimblewimble", "forks": 391},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 278, "stars": 750, "owner": "maps4print", "forks": 17},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 172, "stars": 31402, "owner": "rust-lang", "forks": 5257},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 131, "stars": 12800, "owner": "jwilm", "forks": 555},
-{"description": "Frugal Object Storage", "language": "Rust", "repo": "frugalos", "new_stars": 131, "stars": 131, "owner": "frugalos", "forks": 5},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 115, "stars": 9314, "owner": "sharkdp", "forks": 164},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 113, "stars": 11171, "owner": "BurntSushi", "forks": 455},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 278, "stars": 756, "owner": "maps4print", "forks": 18},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 172, "stars": 31403, "owner": "rust-lang", "forks": 5257},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 131, "stars": 12801, "owner": "jwilm", "forks": 555},
+{"description": "Frugal Object Storage", "language": "Rust", "repo": "frugalos", "new_stars": 131, "stars": 132, "owner": "frugalos", "forks": 5},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 115, "stars": 9315, "owner": "sharkdp", "forks": 164},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 113, "stars": 11172, "owner": "BurntSushi", "forks": 455},
 {"description": null, "language": "Rust", "repo": "kirby", "new_stars": 106, "stars": 109, "owner": "rubytogether", "forks": 5},
 {"description": "Draco is a Rust library for building client side web applications with Web Assembly.", "language": "Rust", "repo": "draco", "new_stars": 108, "stars": 109, "owner": "utkarshkukreti", "forks": 2},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 87, "stars": 1887, "owner": "amethyst", "forks": 215},
@@ -21,7 +21,7 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 48, "stars": 4089, "owner": "mre", "forks": 471},
 {"description": "Support for running Rust programs on AWS Lambda", "language": "Rust", "repo": "rust-aws-lambda", "new_stars": 51, "stars": 187, "owner": "srijs", "forks": 14},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 48, "stars": 3164, "owner": "diesel-rs", "forks": 319},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 43, "stars": 12650, "owner": "servo", "forks": 1981},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 43, "stars": 12651, "owner": "servo", "forks": 1981},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 44, "stars": 2861, "owner": "rust-lang", "forks": 819},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 44, "stars": 2625, "owner": "rust-lang-nursery", "forks": 366}
 ]

@@ -8,7 +8,7 @@
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 20, "stars": 12283, "owner": "Seldaek", "forks": 1438},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 20, "stars": 10636, "owner": "briannesbitt", "forks": 1011},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 18, "stars": 14953, "owner": "danielmiessler", "forks": 5343},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 19, "stars": 18013, "owner": "fzaninotto", "forks": 2237},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 19, "stars": 18013, "owner": "fzaninotto", "forks": 2236},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 16, "stars": 4440, "owner": "PHPOffice", "forks": 763},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 16, "stars": 14391, "owner": "guzzle", "forks": 1854},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 15, "stars": 8102, "owner": "vlucas", "forks": 381},
@@ -20,7 +20,7 @@
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 13, "stars": 8173, "owner": "nikic", "forks": 545},
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 13, "stars": 4812, "owner": "egulias", "forks": 72},
 {"description": "A PSR-5 based resolver of Class names, Types and Structural Element Names", "language": "PHP", "repo": "TypeResolver", "new_stars": 13, "stars": 4437, "owner": "phpDocumentor", "forks": 21},
-{"description": "A developer-experience focused HTTP client, optimized for most common use cases.", "language": "PHP", "repo": "zttp", "new_stars": 13, "stars": 952, "owner": "kitetail", "forks": 65},
+{"description": "A developer-experience focused HTTP client, optimized for most common use cases.", "language": "PHP", "repo": "zttp", "new_stars": 13, "stars": 954, "owner": "kitetail", "forks": 65},
 {"description": "Laravel GraphQL Server", "language": "PHP", "repo": "lighthouse", "new_stars": 12, "stars": 427, "owner": "nuwave", "forks": 44},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 12, "stars": 7749, "owner": "thephpleague", "forks": 470},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 9, "stars": 11998, "owner": "PHPMailer", "forks": 6627}

@@ -1,8 +1,8 @@
 [
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 736, "stars": 1228, "owner": "maps4print", "forks": 24},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 736, "stars": 1230, "owner": "maps4print", "forks": 24},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 312, "stars": 2550, "owner": "mimblewimble", "forks": 406},
-{"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 303, "stars": 315, "owner": "Amanieu", "forks": 5},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 185, "stars": 31444, "owner": "rust-lang", "forks": 5259},
+{"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 303, "stars": 318, "owner": "Amanieu", "forks": 5},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 185, "stars": 31446, "owner": "rust-lang", "forks": 5259},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 185, "stars": 9413, "owner": "sharkdp", "forks": 167},
 {"description": "Frugal Object Storage", "language": "Rust", "repo": "frugalos", "new_stars": 147, "stars": 148, "owner": "frugalos", "forks": 6},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 120, "stars": 12818, "owner": "jwilm", "forks": 554},
@@ -12,7 +12,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 87, "stars": 8392, "owner": "rust-unofficial", "forks": 559},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 78, "stars": 15080, "owner": "xi-editor", "forks": 555},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 79, "stars": 7149, "owner": "sharkdp", "forks": 184},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 68, "stars": 3009, "owner": "benfred", "forks": 87},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 68, "stars": 3009, "owner": "benfred", "forks": 88},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 61, "stars": 408, "owner": "mit-pdos", "forks": 22},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 57, "stars": 543, "owner": "paritytech", "forks": 105},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 60, "stars": 5492, "owner": "SergioBenitez", "forks": 351},
@@ -21,7 +21,7 @@
 {"description": "Support for running Rust programs on AWS Lambda", "language": "Rust", "repo": "rust-aws-lambda", "new_stars": 54, "stars": 192, "owner": "srijs", "forks": 15},
 {"description": "Content-routable socks5 proxy switcher for your entire LAN.", "language": "Rust", "repo": "reflow", "new_stars": 53, "stars": 82, "owner": "net-reflow", "forks": 5},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 52, "stars": 2689, "owner": "actix", "forks": 179},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 51, "stars": 4106, "owner": "mre", "forks": 471},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 51, "stars": 4107, "owner": "mre", "forks": 471},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 50, "stars": 3177, "owner": "diesel-rs", "forks": 321},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 51, "stars": 2645, "owner": "rust-lang-nursery", "forks": 366}
 ]

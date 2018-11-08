@@ -1,8 +1,8 @@
 [
-{"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 135, "stars": 148, "owner": "google", "forks": 2},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 68, "stars": 9900, "owner": "sharkdp", "forks": 177},
+{"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 135, "stars": 149, "owner": "google", "forks": 2},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 68, "stars": 9901, "owner": "sharkdp", "forks": 177},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 48, "stars": 87, "owner": "sharkdp", "forks": 3},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 31583, "owner": "rust-lang", "forks": 5274},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 31584, "owner": "rust-lang", "forks": 5274},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 27, "stars": 12937, "owner": "jwilm", "forks": 554},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 23, "stars": 7277, "owner": "sharkdp", "forks": 187},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 20, "stars": 242, "owner": "sharkdp", "forks": 3},
@@ -12,7 +12,7 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 13, "stars": 11300, "owner": "BurntSushi", "forks": 462},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 8485, "owner": "rust-unofficial", "forks": 561},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 11, "stars": 5017, "owner": "ogham", "forks": 155},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 3073, "owner": "benfred", "forks": 102},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 3074, "owner": "benfred", "forks": 102},
 {"description": "RPKI relying party software written in Rust", "language": "Rust", "repo": "routinator", "new_stars": 10, "stars": 51, "owner": "NLnetLabs", "forks": 2},
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 9, "stars": 437, "owner": "Amanieu", "forks": 11},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3455, "owner": "tokio-rs", "forks": 253},
@@ -23,5 +23,5 @@
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 1535, "owner": "rustwasm", "forks": 158},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 7, "stars": 3682, "owner": "rust-lang", "forks": 837},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 7, "stars": 584, "owner": "paritytech", "forks": 116},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15131, "owner": "xi-editor", "forks": 558}
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15132, "owner": "xi-editor", "forks": 558}
 ]

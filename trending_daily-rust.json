@@ -2,7 +2,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 66, "stars": 9952, "owner": "sharkdp", "forks": 176},
 {"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 42, "stars": 174, "owner": "google", "forks": 2},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 31606, "owner": "rust-lang", "forks": 5281},
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 28, "stars": 112, "owner": "sharkdp", "forks": 3},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 28, "stars": 113, "owner": "sharkdp", "forks": 3},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 28, "stars": 59, "owner": "rust-net-web", "forks": 4},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 12949, "owner": "jwilm", "forks": 556},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 11310, "owner": "BurntSushi", "forks": 463},
@@ -23,5 +23,5 @@
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 7, "stars": 247, "owner": "sharkdp", "forks": 3},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 4147, "owner": "mre", "forks": 474},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 2724, "owner": "actix", "forks": 187},
-{"description": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust", "language": "Rust", "repo": "relm", "new_stars": 6, "stars": 1057, "owner": "antoyo", "forks": 34}
+{"description": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust", "language": "Rust", "repo": "relm", "new_stars": 6, "stars": 1058, "owner": "antoyo", "forks": 34}
 ]

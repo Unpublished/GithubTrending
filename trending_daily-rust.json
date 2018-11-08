@@ -1,7 +1,7 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 66, "stars": 9952, "owner": "sharkdp", "forks": 176},
 {"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 42, "stars": 174, "owner": "google", "forks": 2},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 31608, "owner": "rust-lang", "forks": 5281},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 31609, "owner": "rust-lang", "forks": 5281},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 28, "stars": 114, "owner": "sharkdp", "forks": 3},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 28, "stars": 59, "owner": "rust-net-web", "forks": 4},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 12949, "owner": "jwilm", "forks": 556},
@@ -16,12 +16,12 @@
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 9, "stars": 3233, "owner": "diesel-rs", "forks": 324},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 15137, "owner": "xi-editor", "forks": 558},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8492, "owner": "rust-unofficial", "forks": 562},
-{"description": "Rust binding of NumPy C-API", "language": "Rust", "repo": "rust-numpy", "new_stars": 8, "stars": 127, "owner": "rust-numpy", "forks": 14},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 7, "stars": 2923, "owner": "rust-lang", "forks": 831},
+{"description": "Rust binding of NumPy C-API", "language": "Rust", "repo": "rust-numpy", "new_stars": 8, "stars": 128, "owner": "rust-numpy", "forks": 14},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 7, "stars": 2924, "owner": "rust-lang", "forks": 831},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 5561, "owner": "SergioBenitez", "forks": 362},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 3890, "owner": "tikv", "forks": 542},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 7, "stars": 247, "owner": "sharkdp", "forks": 3},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 4147, "owner": "mre", "forks": 474},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 2724, "owner": "actix", "forks": 187},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 2725, "owner": "actix", "forks": 187},
 {"description": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust", "language": "Rust", "repo": "relm", "new_stars": 6, "stars": 1058, "owner": "antoyo", "forks": 34}
 ]

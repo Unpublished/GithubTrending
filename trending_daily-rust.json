@@ -1,14 +1,14 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 54, "stars": 9957, "owner": "sharkdp", "forks": 176},
-{"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 32, "stars": 67, "owner": "rust-net-web", "forks": 7},
+{"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 32, "stars": 69, "owner": "rust-net-web", "forks": 7},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 31611, "owner": "rust-lang", "forks": 5282},
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 30, "stars": 117, "owner": "sharkdp", "forks": 3},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 30, "stars": 118, "owner": "sharkdp", "forks": 3},
 {"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 29, "stars": 178, "owner": "google", "forks": 2},
 {"description": "Neofetch for your source code", "language": "Rust", "repo": "onefetch", "new_stars": 15, "stars": 75, "owner": "o2sh", "forks": 11},
 {"description": "A pure-Rust implementation of Bulletproofs using Ristretto.", "language": "Rust", "repo": "bulletproofs", "new_stars": 14, "stars": 182, "owner": "dalek-cryptography", "forks": 15},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 12951, "owner": "jwilm", "forks": 556},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 12952, "owner": "jwilm", "forks": 556},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 13, "stars": 11312, "owner": "BurntSushi", "forks": 463},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 1454, "owner": "maps4print", "forks": 31},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 1455, "owner": "maps4print", "forks": 31},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 10, "stars": 8495, "owner": "rust-unofficial", "forks": 562},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 5740, "owner": "DenisKolodin", "forks": 202},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 9, "stars": 2925, "owner": "rust-lang", "forks": 831},
@@ -21,7 +21,7 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 4147, "owner": "mre", "forks": 474},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 3463, "owner": "tokio-rs", "forks": 254},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15137, "owner": "xi-editor", "forks": 559},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 3890, "owner": "tikv", "forks": 542},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 3891, "owner": "tikv", "forks": 542},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 6, "stars": 4372, "owner": "uutils", "forks": 389},
 {"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 6, "stars": 2170, "owner": "koute", "forks": 120}
 ]

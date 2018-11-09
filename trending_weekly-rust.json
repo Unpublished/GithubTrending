@@ -1,8 +1,8 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 497, "stars": 9977, "owner": "sharkdp", "forks": 176},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 169, "stars": 31625, "owner": "rust-lang", "forks": 5282},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 497, "stars": 9978, "owner": "sharkdp", "forks": 176},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 169, "stars": 31625, "owner": "rust-lang", "forks": 5281},
 {"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 177, "stars": 181, "owner": "google", "forks": 2},
-{"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 174, "stars": 255, "owner": "sharkdp", "forks": 3},
+{"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 174, "stars": 256, "owner": "sharkdp", "forks": 3},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 151, "stars": 1458, "owner": "maps4print", "forks": 31},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 130, "stars": 134, "owner": "sharkdp", "forks": 3},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 120, "stars": 12963, "owner": "jwilm", "forks": 556},
@@ -21,7 +21,7 @@
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 50, "stars": 82, "owner": "rust-net-web", "forks": 10},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 51, "stars": 15139, "owner": "xi-editor", "forks": 560},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 45, "stars": 2926, "owner": "rust-lang", "forks": 830},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 48, "stars": 3238, "owner": "diesel-rs", "forks": 324},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 48, "stars": 3238, "owner": "diesel-rs", "forks": 325},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 46, "stars": 3470, "owner": "tokio-rs", "forks": 255},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 40, "stars": 2729, "owner": "actix", "forks": 190}
 ]

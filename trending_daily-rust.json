@@ -1,12 +1,12 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 28, "stars": 9996, "owner": "sharkdp", "forks": 176},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 31642, "owner": "rust-lang", "forks": 5285},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 31642, "owner": "rust-lang", "forks": 5286},
 {"description": "\u2622 Guerrilla (or Monkey) Patching in Rust for (unsafe) fun and profit.", "language": "Rust", "repo": "guerrilla", "new_stars": 23, "stars": 25, "owner": "mehcode", "forks": 1},
 {"description": "Federated blogging application, thanks to ActivityPub", "language": "Rust", "repo": "Plume", "new_stars": 22, "stars": 734, "owner": "Plume-org", "forks": 52},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 17, "stars": 94, "owner": "rust-net-web", "forks": 13},
 {"description": "A pure-Rust implementation of Bulletproofs using Ristretto.", "language": "Rust", "repo": "bulletproofs", "new_stars": 17, "stars": 202, "owner": "dalek-cryptography", "forks": 16},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 17, "stars": 141, "owner": "sharkdp", "forks": 3},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 7310, "owner": "sharkdp", "forks": 188},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 7311, "owner": "sharkdp", "forks": 188},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 12972, "owner": "jwilm", "forks": 557},
 {"description": "A Rust based DNS client, server, and resolver", "language": "Rust", "repo": "trust-dns", "new_stars": 13, "stars": 947, "owner": "bluejekyll", "forks": 84},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 11328, "owner": "BurntSushi", "forks": 463},
@@ -22,6 +22,6 @@
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 7, "stars": 259, "owner": "sharkdp", "forks": 3},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 6, "stars": 4159, "owner": "mre", "forks": 475},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2736, "owner": "actix", "forks": 189},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 5, "stars": 2589, "owner": "mimblewimble", "forks": 415},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 5, "stars": 2590, "owner": "mimblewimble", "forks": 415},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 1863, "owner": "actix", "forks": 121}
 ]

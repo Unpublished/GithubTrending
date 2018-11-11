@@ -1,14 +1,14 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 491, "stars": 10005, "owner": "sharkdp", "forks": 176},
-{"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 204, "stars": 208, "owner": "google", "forks": 3},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 176, "stars": 31659, "owner": "rust-lang", "forks": 5287},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 148, "stars": 1470, "owner": "maps4print", "forks": 30},
+{"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 204, "stars": 209, "owner": "google", "forks": 3},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 176, "stars": 31660, "owner": "rust-lang", "forks": 5287},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 148, "stars": 1471, "owner": "maps4print", "forks": 30},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 142, "stars": 142, "owner": "sharkdp", "forks": 3},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 121, "stars": 12981, "owner": "jwilm", "forks": 557},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 116, "stars": 7316, "owner": "sharkdp", "forks": 188},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 116, "stars": 7317, "owner": "sharkdp", "forks": 188},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 107, "stars": 11337, "owner": "BurntSushi", "forks": 464},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 94, "stars": 260, "owner": "sharkdp", "forks": 3},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 86, "stars": 8518, "owner": "rust-unofficial", "forks": 562},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 86, "stars": 8519, "owner": "rust-unofficial", "forks": 562},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 66, "stars": 97, "owner": "rust-net-web", "forks": 14},
 {"description": "Create Arch Linux based bootable USB drives", "language": "Rust", "repo": "alma", "new_stars": 67, "stars": 67, "owner": "r-darwish", "forks": 0},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 62, "stars": 5579, "owner": "SergioBenitez", "forks": 364},
@@ -23,5 +23,5 @@
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 49, "stars": 453, "owner": "Amanieu", "forks": 12},
 {"description": "PostGIS vector tiles server", "language": "Rust", "repo": "martin", "new_stars": 49, "stars": 120, "owner": "urbica", "forks": 6},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 40, "stars": 2737, "owner": "actix", "forks": 188},
-{"description": "Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.", "language": "Rust", "repo": "rusted-ruins", "new_stars": 42, "stars": 42, "owner": "garkimasera", "forks": 2}
+{"description": "Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.", "language": "Rust", "repo": "rusted-ruins", "new_stars": 42, "stars": 43, "owner": "garkimasera", "forks": 2}
 ]

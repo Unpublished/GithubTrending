@@ -1,15 +1,15 @@
 [
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 1107, "stars": 1497, "owner": "maps4print", "forks": 31},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1062, "stars": 10065, "owner": "sharkdp", "forks": 179},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 866, "stars": 2598, "owner": "mimblewimble", "forks": 417},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 696, "stars": 31715, "owner": "rust-lang", "forks": 5293},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 530, "stars": 13015, "owner": "jwilm", "forks": 560},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 866, "stars": 2598, "owner": "mimblewimble", "forks": 418},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 696, "stars": 31718, "owner": "rust-lang", "forks": 5293},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 530, "stars": 13017, "owner": "jwilm", "forks": 560},
 {"description": "An efficient programming language and proof assistant.", "language": "Rust", "repo": "Formality", "new_stars": 504, "stars": 512, "owner": "MaiaVictor", "forks": 14},
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 458, "stars": 460, "owner": "Amanieu", "forks": 12},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 440, "stars": 11366, "owner": "BurntSushi", "forks": 464},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 365, "stars": 7333, "owner": "sharkdp", "forks": 189},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 342, "stars": 15170, "owner": "xi-editor", "forks": 559},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 334, "stars": 8540, "owner": "rust-unofficial", "forks": 562},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 342, "stars": 15171, "owner": "xi-editor", "forks": 559},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 334, "stars": 8541, "owner": "rust-unofficial", "forks": 562},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 321, "stars": 5761, "owner": "DenisKolodin", "forks": 205},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 265, "stars": 5588, "owner": "SergioBenitez", "forks": 365},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 246, "stars": 1962, "owner": "amethyst", "forks": 234},
@@ -22,6 +22,6 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 192, "stars": 12720, "owner": "servo", "forks": 1991},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 202, "stars": 5050, "owner": "ogham", "forks": 158},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 195, "stars": 1964, "owner": "phil-opp", "forks": 181},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 187, "stars": 3492, "owner": "tokio-rs", "forks": 256},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 187, "stars": 3493, "owner": "tokio-rs", "forks": 256},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 194, "stars": 447, "owner": "mit-pdos", "forks": 23}
 ]

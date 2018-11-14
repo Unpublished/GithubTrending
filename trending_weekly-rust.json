@@ -1,9 +1,9 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 286, "stars": 10110, "owner": "sharkdp", "forks": 180},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 218, "stars": 31746, "owner": "rust-lang", "forks": 5294},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 286, "stars": 10112, "owner": "sharkdp", "forks": 180},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 218, "stars": 31747, "owner": "rust-lang", "forks": 5294},
 {"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 226, "stars": 239, "owner": "google", "forks": 3},
 {"description": "tztail (TimeZoneTAIL) allows you to view logs in the timezone you want", "language": "Rust", "repo": "tztail", "new_stars": 177, "stars": 178, "owner": "thecasualcoder", "forks": 4},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 129, "stars": 13033, "owner": "jwilm", "forks": 561},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 129, "stars": 13034, "owner": "jwilm", "forks": 561},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 117, "stars": 11395, "owner": "BurntSushi", "forks": 464},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 113, "stars": 154, "owner": "sharkdp", "forks": 4},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 84, "stars": 115, "owner": "rust-net-web", "forks": 15},
@@ -11,7 +11,7 @@
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 77, "stars": 1504, "owner": "maps4print", "forks": 32},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 77, "stars": 8548, "owner": "rust-unofficial", "forks": 562},
 {"description": "Extensible open world rogue like game with pixel art. Players can explore the wilderness and ruins.", "language": "Rust", "repo": "rusted-ruins", "new_stars": 74, "stars": 74, "owner": "garkimasera", "forks": 2},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 58, "stars": 15176, "owner": "xi-editor", "forks": 559},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 58, "stars": 15177, "owner": "xi-editor", "forks": 559},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 56, "stars": 3497, "owner": "tokio-rs", "forks": 258},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 55, "stars": 2959, "owner": "rust-lang", "forks": 832},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 51, "stars": 4182, "owner": "mre", "forks": 481},
@@ -22,6 +22,6 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 49, "stars": 12727, "owner": "servo", "forks": 1991},
 {"description": "Support for parallelism and low-level concurrency in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 48, "stars": 1134, "owner": "crossbeam-rs", "forks": 77},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 47, "stars": 269, "owner": "sharkdp", "forks": 2},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 44, "stars": 5765, "owner": "DenisKolodin", "forks": 205},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 44, "stars": 5766, "owner": "DenisKolodin", "forks": 205},
 {"description": "\u2622 Guerrilla (or Monkey) Patching in Rust for (unsafe) fun and profit.", "language": "Rust", "repo": "guerrilla", "new_stars": 45, "stars": 45, "owner": "mehcode", "forks": 2}
 ]

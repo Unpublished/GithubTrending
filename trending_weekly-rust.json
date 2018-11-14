@@ -1,10 +1,10 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 286, "stars": 10112, "owner": "sharkdp", "forks": 180},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 286, "stars": 10113, "owner": "sharkdp", "forks": 181},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 218, "stars": 31748, "owner": "rust-lang", "forks": 5294},
 {"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 226, "stars": 239, "owner": "google", "forks": 3},
 {"description": "tztail (TimeZoneTAIL) allows you to view logs in the timezone you want", "language": "Rust", "repo": "tztail", "new_stars": 177, "stars": 178, "owner": "thecasualcoder", "forks": 4},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 129, "stars": 13035, "owner": "jwilm", "forks": 561},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 117, "stars": 11395, "owner": "BurntSushi", "forks": 464},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 117, "stars": 11398, "owner": "BurntSushi", "forks": 464},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 113, "stars": 154, "owner": "sharkdp", "forks": 4},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 84, "stars": 115, "owner": "rust-net-web", "forks": 15},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 85, "stars": 7337, "owner": "sharkdp", "forks": 189},
@@ -20,7 +20,7 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 49, "stars": 5593, "owner": "SergioBenitez", "forks": 365},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 47, "stars": 1974, "owner": "amethyst", "forks": 235},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 49, "stars": 12727, "owner": "servo", "forks": 1991},
-{"description": "Support for parallelism and low-level concurrency in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 48, "stars": 1134, "owner": "crossbeam-rs", "forks": 77},
+{"description": "Support for parallelism and low-level concurrency in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 48, "stars": 1135, "owner": "crossbeam-rs", "forks": 77},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 47, "stars": 269, "owner": "sharkdp", "forks": 2},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 44, "stars": 5766, "owner": "DenisKolodin", "forks": 205},
 {"description": "\u2622 Guerrilla (or Monkey) Patching in Rust for (unsafe) fun and profit.", "language": "Rust", "repo": "guerrilla", "new_stars": 45, "stars": 45, "owner": "mehcode", "forks": 2}

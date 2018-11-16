@@ -1,5 +1,5 @@
 [
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 31802, "owner": "rust-lang", "forks": 5309},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 31803, "owner": "rust-lang", "forks": 5309},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 19, "stars": 10175, "owner": "sharkdp", "forks": 182},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 11460, "owner": "BurntSushi", "forks": 464},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 15, "stars": 3954, "owner": "tikv", "forks": 552},
@@ -10,8 +10,8 @@
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 11, "stars": 8292, "owner": "atom", "forks": 196},
 {"description": null, "language": "Rust", "repo": "typed-html", "new_stars": 11, "stars": 140, "owner": "bodil", "forks": 1},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 10, "stars": 7369, "owner": "sharkdp", "forks": 189},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 5793, "owner": "DenisKolodin", "forks": 206},
-{"description": "Rust compile-time assertions to ensure that invariants are met and your API remains stable", "language": "Rust", "repo": "static-assertions-rs", "new_stars": 10, "stars": 117, "owner": "nvzqz", "forks": 1},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 5794, "owner": "DenisKolodin", "forks": 206},
+{"description": "Rust compile-time assertions to ensure that invariants are met and your API remains stable", "language": "Rust", "repo": "static-assertions-rs", "new_stars": 10, "stars": 118, "owner": "nvzqz", "forks": 1},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 9, "stars": 5078, "owner": "ogham", "forks": 158},
 {"description": "A pure-Rust implementation of Bulletproofs using Ristretto.", "language": "Rust", "repo": "bulletproofs", "new_stars": 9, "stars": 226, "owner": "dalek-cryptography", "forks": 18},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 2764, "owner": "actix", "forks": 189},
@@ -21,7 +21,7 @@
 {"description": "Support for running Rust programs on AWS Lambda", "language": "Rust", "repo": "rust-aws-lambda", "new_stars": 7, "stars": 270, "owner": "srijs", "forks": 17},
 {"description": "Check your crate for (possible) no_std compatibility", "language": "Rust", "repo": "cargo-nono", "new_stars": 7, "stars": 54, "owner": "hobofan", "forks": 0},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 1987, "owner": "amethyst", "forks": 240},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 6, "stars": 357, "owner": "dani-garcia", "forks": 34},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 6, "stars": 358, "owner": "dani-garcia", "forks": 34},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 2609, "owner": "mimblewimble", "forks": 420},
 {"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 6, "stars": 2191, "owner": "koute", "forks": 120}
 ]

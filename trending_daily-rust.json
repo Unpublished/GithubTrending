@@ -3,12 +3,12 @@
 {"description": "Implementation of the Elm architecture in Rust", "language": "Rust", "repo": "willow", "new_stars": 20, "stars": 21, "owner": "sindreij", "forks": 2},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 15, "stars": 1098, "owner": "CraneStation", "forks": 105},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 11476, "owner": "BurntSushi", "forks": 466},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 13, "stars": 31816, "owner": "rust-lang", "forks": 5309},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 13, "stars": 31817, "owner": "rust-lang", "forks": 5309},
 {"description": "WIP cranelift backend for rustc", "language": "Rust", "repo": "rustc_codegen_cranelift", "new_stars": 12, "stars": 28, "owner": "bjorn3", "forks": 2},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 2774, "owner": "actix", "forks": 189},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 2774, "owner": "actix", "forks": 190},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 10, "stars": 13087, "owner": "jwilm", "forks": 564},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 10, "stars": 3520, "owner": "tokio-rs", "forks": 260},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8580, "owner": "rust-unofficial", "forks": 567},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 8581, "owner": "rust-unofficial", "forks": 567},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 5803, "owner": "DenisKolodin", "forks": 206},
 {"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 9, "stars": 619, "owner": "lotabout", "forks": 22},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 12754, "owner": "servo", "forks": 1995},
@@ -22,6 +22,6 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 5, "stars": 2299, "owner": "rust-lang-nursery", "forks": 278},
 {"description": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust", "language": "Rust", "repo": "relm", "new_stars": 5, "stars": 1083, "owner": "antoyo", "forks": 36},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 5, "stars": 363, "owner": "dani-garcia", "forks": 34},
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 5, "stars": 164, "owner": "sharkdp", "forks": 4},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 5, "stars": 165, "owner": "sharkdp", "forks": 4},
 {"description": "Rust's standard library vendor-specific APIs and run-time feature detection", "language": "Rust", "repo": "stdsimd", "new_stars": 0, "stars": 302, "owner": "rust-lang-nursery", "forks": 72}
 ]

@@ -1,10 +1,10 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 31814, "owner": "rust-lang", "forks": 5308},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 20, "stars": 10191, "owner": "sharkdp", "forks": 183},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 11469, "owner": "BurntSushi", "forks": 465},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 20, "stars": 10193, "owner": "sharkdp", "forks": 183},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 11471, "owner": "BurntSushi", "forks": 465},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 11, "stars": 3135, "owner": "benfred", "forks": 110},
-{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 12, "stars": 1094, "owner": "CraneStation", "forks": 105},
-{"description": "WIP cranelift backend for rustc", "language": "Rust", "repo": "rustc_codegen_cranelift", "new_stars": 12, "stars": 25, "owner": "bjorn3", "forks": 2},
+{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 12, "stars": 1095, "owner": "CraneStation", "forks": 105},
+{"description": "WIP cranelift backend for rustc", "language": "Rust", "repo": "rustc_codegen_cranelift", "new_stars": 12, "stars": 26, "owner": "bjorn3", "forks": 2},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 2773, "owner": "actix", "forks": 189},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 10, "stars": 2983, "owner": "rust-lang", "forks": 833},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 10, "stars": 13084, "owner": "jwilm", "forks": 563},
@@ -22,6 +22,6 @@
 {"description": null, "language": "Rust", "repo": "typed-html", "new_stars": 7, "stars": 145, "owner": "bodil", "forks": 1},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 3958, "owner": "tikv", "forks": 553},
 {"description": "A command line progress reporting library for Rust", "language": "Rust", "repo": "indicatif", "new_stars": 6, "stars": 706, "owner": "mitsuhiko", "forks": 37},
-{"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 6, "stars": 616, "owner": "lotabout", "forks": 22},
+{"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 6, "stars": 617, "owner": "lotabout", "forks": 22},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 4079, "owner": "hyperium", "forks": 644}
 ]

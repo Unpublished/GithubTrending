@@ -1,8 +1,8 @@
 [
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 196, "stars": 31814, "owner": "rust-lang", "forks": 5308},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 201, "stars": 10191, "owner": "sharkdp", "forks": 183},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 201, "stars": 10193, "owner": "sharkdp", "forks": 183},
 {"description": "tztail (TimeZoneTAIL) allows you to view logs in the timezone you want", "language": "Rust", "repo": "tztail", "new_stars": 187, "stars": 194, "owner": "thecasualcoder", "forks": 5},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 153, "stars": 11469, "owner": "BurntSushi", "forks": 465},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 153, "stars": 11471, "owner": "BurntSushi", "forks": 465},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 123, "stars": 13084, "owner": "jwilm", "forks": 563},
 {"description": null, "language": "Rust", "repo": "typed-html", "new_stars": 100, "stars": 145, "owner": "bodil", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 69, "stars": 8577, "owner": "rust-unofficial", "forks": 567},
@@ -22,6 +22,6 @@
 {"description": "Check your crate for (possible) no_std compatibility", "language": "Rust", "repo": "cargo-nono", "new_stars": 54, "stars": 54, "owner": "hobofan", "forks": 0},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 47, "stars": 4202, "owner": "mre", "forks": 488},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 48, "stars": 3135, "owner": "benfred", "forks": 110},
-{"description": "An object pool manager in Rust", "language": "Rust", "repo": "lifeguard", "new_stars": 49, "stars": 118, "owner": "zslayton", "forks": 5},
+{"description": "An object pool manager in Rust", "language": "Rust", "repo": "lifeguard", "new_stars": 49, "stars": 119, "owner": "zslayton", "forks": 5},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 48, "stars": 3749, "owner": "BurntSushi", "forks": 122}
 ]

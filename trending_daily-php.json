@@ -1,9 +1,9 @@
 [
 {"description": null, "language": "PHP", "repo": "ArrayAnalyse", "new_stars": 43, "stars": 52, "owner": "AccountOfLom", "forks": 0},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 27, "stars": 47232, "owner": "laravel", "forks": 14634},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 27, "stars": 47233, "owner": "laravel", "forks": 14634},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 22, "stars": 15237, "owner": "danielmiessler", "forks": 5462},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 18, "stars": 17104, "owner": "composer", "forks": 5322},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 18, "stars": 14812, "owner": "laravel", "forks": 5990},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 18, "stars": 14814, "owner": "laravel", "forks": 5991},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 17, "stars": 18260, "owner": "fzaninotto", "forks": 2252},
 {"description": "The Routing component maps an HTTP request to a set of configuration variables.", "language": "PHP", "repo": "routing", "new_stars": 16, "stars": 4614, "owner": "symfony", "forks": 62},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 14, "stars": 12052, "owner": "sebastianbergmann", "forks": 1672},
@@ -15,13 +15,13 @@
 {"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 14, "stars": 4800, "owner": "symfony", "forks": 33},
 {"description": "The CssSelector component converts CSS selectors to XPath expressions.", "language": "PHP", "repo": "css-selector", "new_stars": 14, "stars": 4157, "owner": "symfony", "forks": 22},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 13, "stars": 12521, "owner": "Seldaek", "forks": 1448},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 5753, "owner": "nextcloud", "forks": 1015},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 5754, "owner": "nextcloud", "forks": 1015},
 {"description": null, "language": "PHP", "repo": "log", "new_stars": 13, "stars": 5497, "owner": "php-fig", "forks": 114},
-{"description": "A PSR-5 based resolver of Class names, Types and Structural Element Names", "language": "PHP", "repo": "TypeResolver", "new_stars": 13, "stars": 4618, "owner": "phpDocumentor", "forks": 23},
+{"description": "A PSR-5 based resolver of Class names, Types and Structural Element Names", "language": "PHP", "repo": "TypeResolver", "new_stars": 13, "stars": 4619, "owner": "phpDocumentor", "forks": 23},
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 12, "stars": 4638, "owner": "symfony", "forks": 69},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 12, "stars": 4673, "owner": "symfony", "forks": 47},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 12, "stars": 4537, "owner": "symfony", "forks": 51},
 {"description": "The Translation component provides tools to internationalize your application.", "language": "PHP", "repo": "translation", "new_stars": 12, "stars": 4257, "owner": "symfony", "forks": 40},
 {"description": "Bypassing disabled exec functions in PHP via imap_open", "language": "PHP", "repo": "PHP_imap_open_exploit", "new_stars": 12, "stars": 244, "owner": "Bo0oM", "forks": 36},
-{"description": "Reference code and documentation for Artifact deck codes", "language": "PHP", "repo": "ArtifactDeckCode", "new_stars": 10, "stars": 206, "owner": "ValveSoftware", "forks": 26}
+{"description": "Reference code and documentation for Artifact deck codes", "language": "PHP", "repo": "ArtifactDeckCode", "new_stars": 10, "stars": 207, "owner": "ValveSoftware", "forks": 26}
 ]

@@ -3,8 +3,8 @@
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 27, "stars": 47233, "owner": "laravel", "forks": 14634},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 22, "stars": 15237, "owner": "danielmiessler", "forks": 5462},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 18, "stars": 17105, "owner": "composer", "forks": 5322},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 18, "stars": 14814, "owner": "laravel", "forks": 5990},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 17, "stars": 18260, "owner": "fzaninotto", "forks": 2252},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 18, "stars": 14815, "owner": "laravel", "forks": 5990},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 17, "stars": 18261, "owner": "fzaninotto", "forks": 2252},
 {"description": "The Routing component maps an HTTP request to a set of configuration variables.", "language": "PHP", "repo": "routing", "new_stars": 16, "stars": 4615, "owner": "symfony", "forks": 62},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 14, "stars": 12053, "owner": "sebastianbergmann", "forks": 1672},
 {"description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.", "language": "PHP", "repo": "event-dispatcher", "new_stars": 15, "stars": 4822, "owner": "symfony", "forks": 36},
@@ -23,5 +23,5 @@
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 12, "stars": 4538, "owner": "symfony", "forks": 51},
 {"description": "The Translation component provides tools to internationalize your application.", "language": "PHP", "repo": "translation", "new_stars": 12, "stars": 4258, "owner": "symfony", "forks": 40},
 {"description": "Bypassing disabled exec functions in PHP via imap_open", "language": "PHP", "repo": "PHP_imap_open_exploit", "new_stars": 12, "stars": 244, "owner": "Bo0oM", "forks": 36},
-{"description": "Reference code and documentation for Artifact deck codes", "language": "PHP", "repo": "ArtifactDeckCode", "new_stars": 10, "stars": 207, "owner": "ValveSoftware", "forks": 26}
+{"description": "Reference code and documentation for Artifact deck codes", "language": "PHP", "repo": "ArtifactDeckCode", "new_stars": 10, "stars": 209, "owner": "ValveSoftware", "forks": 26}
 ]

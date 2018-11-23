@@ -1,7 +1,7 @@
 [
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 1045, "stars": 6199, "owner": "monicahq", "forks": 688},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 858, "stars": 47368, "owner": "laravel", "forks": 14692},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 517, "stars": 15336, "owner": "danielmiessler", "forks": 5486},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 517, "stars": 15338, "owner": "danielmiessler", "forks": 5486},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 505, "stars": 14906, "owner": "laravel", "forks": 6004},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 535, "stars": 17200, "owner": "composer", "forks": 5324},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 503, "stars": 18349, "owner": "fzaninotto", "forks": 2260},
@@ -11,7 +11,7 @@
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 425, "stars": 8481, "owner": "nikic", "forks": 554},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 386, "stars": 14642, "owner": "guzzle", "forks": 1864},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 383, "stars": 10905, "owner": "briannesbitt", "forks": 1026},
-{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 367, "stars": 5333, "owner": "phpstan", "forks": 362},
+{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 367, "stars": 5334, "owner": "phpstan", "forks": 362},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 312, "stars": 19126, "owner": "symfony", "forks": 6532},
 {"description": null, "language": "PHP", "repo": "log", "new_stars": 355, "stars": 5568, "owner": "php-fig", "forks": 115},
 {"description": "Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 332, "stars": 9358, "owner": "erusev", "forks": 822},
@@ -21,7 +21,7 @@
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 312, "stars": 5387, "owner": "symfony", "forks": 150},
 {"description": "Create deep copies (clones) of your objects", "language": "PHP", "repo": "DeepCopy", "new_stars": 304, "stars": 4528, "owner": "myclabs", "forks": 53},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 296, "stars": 6699, "owner": "swiftmailer", "forks": 715},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 271, "stars": 5808, "owner": "nextcloud", "forks": 1023},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 271, "stars": 5808, "owner": "nextcloud", "forks": 1024},
 {"description": "PHP errors for cool kids", "language": "PHP", "repo": "whoops", "new_stars": 297, "stars": 8751, "owner": "filp", "forks": 495},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 292, "stars": 6555, "owner": "mockery", "forks": 337}
 ]

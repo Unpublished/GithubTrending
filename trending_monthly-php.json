@@ -1,8 +1,8 @@
 [
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 1045, "stars": 6198, "owner": "monicahq", "forks": 687},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 859, "stars": 47363, "owner": "laravel", "forks": 14691},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 516, "stars": 15331, "owner": "danielmiessler", "forks": 5484},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 505, "stars": 14904, "owner": "laravel", "forks": 6004},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 859, "stars": 47364, "owner": "laravel", "forks": 14691},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 516, "stars": 15333, "owner": "danielmiessler", "forks": 5484},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 505, "stars": 14905, "owner": "laravel", "forks": 6005},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 537, "stars": 17199, "owner": "composer", "forks": 5324},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 505, "stars": 18348, "owner": "fzaninotto", "forks": 2259},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 474, "stars": 12616, "owner": "Seldaek", "forks": 1454},
@@ -12,7 +12,7 @@
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 387, "stars": 14638, "owner": "guzzle", "forks": 1864},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 382, "stars": 10904, "owner": "briannesbitt", "forks": 1025},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 370, "stars": 5331, "owner": "phpstan", "forks": 362},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 310, "stars": 19122, "owner": "symfony", "forks": 6532},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 310, "stars": 19123, "owner": "symfony", "forks": 6532},
 {"description": null, "language": "PHP", "repo": "log", "new_stars": 355, "stars": 5565, "owner": "php-fig", "forks": 115},
 {"description": "Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 332, "stars": 9356, "owner": "erusev", "forks": 822},
 {"description": null, "language": "PHP", "repo": "simple-cache", "new_stars": 336, "stars": 5008, "owner": "php-fig", "forks": 19},
@@ -23,5 +23,5 @@
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 296, "stars": 6696, "owner": "swiftmailer", "forks": 713},
 {"description": "Create deep copies (clones) of your objects", "language": "PHP", "repo": "DeepCopy", "new_stars": 299, "stars": 4524, "owner": "myclabs", "forks": 53},
 {"description": "PHP errors for cool kids", "language": "PHP", "repo": "whoops", "new_stars": 297, "stars": 8750, "owner": "filp", "forks": 495},
-{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 292, "stars": 6554, "owner": "mockery", "forks": 338}
+{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 292, "stars": 6554, "owner": "mockery", "forks": 337}
 ]

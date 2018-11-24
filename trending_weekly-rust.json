@@ -1,9 +1,9 @@
 [
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 958, "stars": 1102, "owner": "bodil", "forks": 19},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 653, "stars": 1578, "owner": "jmacdonald", "forks": 42},
-{"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 497, "stars": 507, "owner": "wasmerio", "forks": 12},
+{"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 497, "stars": 508, "owner": "wasmerio", "forks": 12},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 258, "stars": 10448, "owner": "sharkdp", "forks": 188},
-{"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 200, "stars": 207, "owner": "maciejhirsz", "forks": 3},
+{"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 200, "stars": 208, "owner": "maciejhirsz", "forks": 3},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 180, "stars": 31969, "owner": "rust-lang", "forks": 5320},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 175, "stars": 11641, "owner": "BurntSushi", "forks": 473},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 165, "stars": 13240, "owner": "jwilm", "forks": 572},
@@ -15,13 +15,13 @@
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 83, "stars": 2092, "owner": "sharkdp", "forks": 39},
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 79, "stars": 238, "owner": "djc", "forks": 21},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 71, "stars": 1316, "owner": "getzola", "forks": 118},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 65, "stars": 4022, "owner": "tikv", "forks": 559},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 65, "stars": 4023, "owner": "tikv", "forks": 559},
 {"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 67, "stars": 541, "owner": "jhspetersson", "forks": 14},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 65, "stars": 3810, "owner": "BurntSushi", "forks": 121},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 64, "stars": 15251, "owner": "xi-editor", "forks": 559},
 {"description": "Implementation of the Elm architecture in Rust", "language": "Rust", "repo": "willow", "new_stars": 63, "stars": 79, "owner": "sindreij", "forks": 4},
-{"description": "A Rust crate for abstracted, decoupled modulation sources", "language": "Rust", "repo": "modulator", "new_stars": 62, "stars": 62, "owner": "apessino", "forks": 0},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 59, "stars": 12806, "owner": "servo", "forks": 1994},
+{"description": "A Rust crate for abstracted, decoupled modulation sources", "language": "Rust", "repo": "modulator", "new_stars": 62, "stars": 63, "owner": "apessino", "forks": 0},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 59, "stars": 12807, "owner": "servo", "forks": 1994},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 57, "stars": 328, "owner": "sharkdp", "forks": 5},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 57, "stars": 5137, "owner": "ogham", "forks": 158}
 ]

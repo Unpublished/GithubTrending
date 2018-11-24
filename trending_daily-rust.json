@@ -1,16 +1,16 @@
 [
-{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 92, "stars": 1584, "owner": "jmacdonald", "forks": 43},
+{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 92, "stars": 1585, "owner": "jmacdonald", "forks": 43},
 {"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 62, "stars": 515, "owner": "wasmerio", "forks": 12},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 22, "stars": 31971, "owner": "rust-lang", "forks": 5320},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 10451, "owner": "sharkdp", "forks": 188},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 13242, "owner": "jwilm", "forks": 573},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 13244, "owner": "jwilm", "forks": 573},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 11643, "owner": "BurntSushi", "forks": 473},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 16, "stars": 211, "owner": "maciejhirsz", "forks": 3},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 8670, "owner": "rust-unofficial", "forks": 572},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 12, "stars": 1318, "owner": "rustwasm", "forks": 82},
 {"description": "Super-fast alternative for babel", "language": "Rust", "repo": "swc", "new_stars": 11, "stars": 132, "owner": "swc-project", "forks": 4},
 {"description": "A Rust crate for abstracted, decoupled modulation sources", "language": "Rust", "repo": "modulator", "new_stars": 11, "stars": 64, "owner": "apessino", "forks": 0},
-{"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 8, "stars": 2007, "owner": "phil-opp", "forks": 181},
+{"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 8, "stars": 2008, "owner": "phil-opp", "forks": 181},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 5898, "owner": "DenisKolodin", "forks": 207},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 4025, "owner": "tikv", "forks": 559},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 3565, "owner": "tokio-rs", "forks": 264},
@@ -21,7 +21,7 @@
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 6, "stars": 5140, "owner": "ogham", "forks": 158},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 6, "stars": 3811, "owner": "BurntSushi", "forks": 121},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 6, "stars": 3182, "owner": "benfred", "forks": 111},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2801, "owner": "actix", "forks": 190},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 2802, "owner": "actix", "forks": 190},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 1580, "owner": "rustwasm", "forks": 167},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 6, "stars": 1184, "owner": "CraneStation", "forks": 107}
 ]

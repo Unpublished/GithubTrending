@@ -1,14 +1,14 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1242, "stars": 10435, "owner": "sharkdp", "forks": 188},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 1101, "stars": 1561, "owner": "maps4print", "forks": 34},
-{"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 1097, "stars": 1097, "owner": "bodil", "forks": 18},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 1101, "stars": 1562, "owner": "maps4print", "forks": 34},
+{"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 1097, "stars": 1098, "owner": "bodil", "forks": 18},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 783, "stars": 31958, "owner": "rust-lang", "forks": 5316},
-{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 608, "stars": 1533, "owner": "jmacdonald", "forks": 40},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 565, "stars": 13231, "owner": "jwilm", "forks": 572},
+{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 608, "stars": 1535, "owner": "jmacdonald", "forks": 40},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 565, "stars": 13232, "owner": "jwilm", "forks": 572},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 567, "stars": 11633, "owner": "BurntSushi", "forks": 473},
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 475, "stars": 475, "owner": "Amanieu", "forks": 13},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 430, "stars": 2624, "owner": "mimblewimble", "forks": 422},
-{"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 462, "stars": 473, "owner": "wasmerio", "forks": 10},
+{"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 462, "stars": 474, "owner": "wasmerio", "forks": 10},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 373, "stars": 8660, "owner": "rust-unofficial", "forks": 571},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 326, "stars": 326, "owner": "sharkdp", "forks": 5},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 295, "stars": 5891, "owner": "DenisKolodin", "forks": 207},
@@ -21,7 +21,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 214, "stars": 12802, "owner": "servo", "forks": 1994},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 222, "stars": 5134, "owner": "ogham", "forks": 158},
 {"description": "tztail (TimeZoneTAIL) allows you to view logs in the timezone you want", "language": "Rust", "repo": "tztail", "new_stars": 219, "stars": 220, "owner": "thecasualcoder", "forks": 5},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 198, "stars": 2023, "owner": "amethyst", "forks": 246},
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 198, "stars": 2023, "owner": "amethyst", "forks": 247},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 202, "stars": 4018, "owner": "tikv", "forks": 558},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 199, "stars": 4240, "owner": "mre", "forks": 493}
 ]

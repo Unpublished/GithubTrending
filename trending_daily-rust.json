@@ -1,19 +1,19 @@
 [
-{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 171, "stars": 1571, "owner": "jmacdonald", "forks": 42},
-{"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 94, "stars": 495, "owner": "wasmerio", "forks": 11},
+{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 171, "stars": 1572, "owner": "jmacdonald", "forks": 42},
+{"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 94, "stars": 496, "owner": "wasmerio", "forks": 11},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 31966, "owner": "rust-lang", "forks": 5320},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 29, "stars": 205, "owner": "maciejhirsz", "forks": 3},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 23, "stars": 10444, "owner": "sharkdp", "forks": 188},
 {"description": "A Rust crate for abstracted, decoupled modulation sources", "language": "Rust", "repo": "modulator", "new_stars": 23, "stars": 61, "owner": "apessino", "forks": 0},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 13237, "owner": "jwilm", "forks": 572},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 13238, "owner": "jwilm", "forks": 572},
 {"description": "Super-fast alternative for babel", "language": "Rust", "repo": "swc", "new_stars": 18, "stars": 130, "owner": "swc-project", "forks": 4},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 11639, "owner": "BurntSushi", "forks": 473},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 11640, "owner": "BurntSushi", "forks": 473},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 13, "stars": 3809, "owner": "BurntSushi", "forks": 121},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 11, "stars": 1182, "owner": "CraneStation", "forks": 107},
 {"description": "An alarm clock with environment stats in pure bare metal embedded rust", "language": "Rust", "repo": "rusty-clock", "new_stars": 11, "stars": 56, "owner": "TeXitoi", "forks": 1},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 12805, "owner": "servo", "forks": 1994},
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 9, "stars": 237, "owner": "djc", "forks": 21},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 8664, "owner": "rust-unofficial", "forks": 573},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 8666, "owner": "rust-unofficial", "forks": 573},
 {"description": "Writing an OS in Rust", "language": "Rust", "repo": "blog_os", "new_stars": 8, "stars": 2004, "owner": "phil-opp", "forks": 181},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 8, "stars": 2801, "owner": "actix", "forks": 190},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 4021, "owner": "tikv", "forks": 558},
@@ -23,5 +23,5 @@
 {"description": "Easily Deserialize Postgres rows.", "language": "Rust", "repo": "serde_postgres", "new_stars": 6, "stars": 37, "owner": "1aim", "forks": 1},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 5, "stars": 1099, "owner": "bodil", "forks": 18},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 15249, "owner": "xi-editor", "forks": 559},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 5, "stars": 5892, "owner": "DenisKolodin", "forks": 207}
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 5, "stars": 5893, "owner": "DenisKolodin", "forks": 207}
 ]

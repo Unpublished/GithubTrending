@@ -1,6 +1,6 @@
 [
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 956, "stars": 1099, "owner": "bodil", "forks": 18},
-{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 634, "stars": 1558, "owner": "jmacdonald", "forks": 42},
+{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 634, "stars": 1560, "owner": "jmacdonald", "forks": 42},
 {"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 481, "stars": 491, "owner": "wasmerio", "forks": 10},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 263, "stars": 10442, "owner": "sharkdp", "forks": 188},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 200, "stars": 205, "owner": "maciejhirsz", "forks": 3},
@@ -9,7 +9,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 162, "stars": 13233, "owner": "jwilm", "forks": 572},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 106, "stars": 5892, "owner": "DenisKolodin", "forks": 207},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 8663, "owner": "rust-unofficial", "forks": 572},
-{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 91, "stars": 1180, "owner": "CraneStation", "forks": 107},
+{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 91, "stars": 1181, "owner": "CraneStation", "forks": 107},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 83, "stars": 5688, "owner": "SergioBenitez", "forks": 373},
 {"description": "Super-fast alternative for babel", "language": "Rust", "repo": "swc", "new_stars": 84, "stars": 129, "owner": "swc-project", "forks": 4},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 82, "stars": 2090, "owner": "sharkdp", "forks": 39},
@@ -21,7 +21,7 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 65, "stars": 15249, "owner": "xi-editor", "forks": 559},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 63, "stars": 3808, "owner": "BurntSushi", "forks": 121},
 {"description": "A Rust crate for abstracted, decoupled modulation sources", "language": "Rust", "repo": "modulator", "new_stars": 61, "stars": 61, "owner": "apessino", "forks": 0},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 57, "stars": 12803, "owner": "servo", "forks": 1994},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 57, "stars": 12804, "owner": "servo", "forks": 1994},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 58, "stars": 5135, "owner": "ogham", "forks": 158},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 55, "stars": 326, "owner": "sharkdp", "forks": 5}
 ]

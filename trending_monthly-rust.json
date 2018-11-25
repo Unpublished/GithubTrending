@@ -1,9 +1,9 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1240, "stars": 10453, "owner": "sharkdp", "forks": 188},
-{"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 1106, "stars": 1107, "owner": "bodil", "forks": 20},
+{"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 1106, "stars": 1108, "owner": "bodil", "forks": 20},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 1077, "stars": 1575, "owner": "maps4print", "forks": 34},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 776, "stars": 31978, "owner": "rust-lang", "forks": 5320},
-{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 691, "stars": 1613, "owner": "jmacdonald", "forks": 44},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 776, "stars": 31979, "owner": "rust-lang", "forks": 5320},
+{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 691, "stars": 1614, "owner": "jmacdonald", "forks": 44},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 563, "stars": 13250, "owner": "jwilm", "forks": 573},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 553, "stars": 11644, "owner": "BurntSushi", "forks": 473},
 {"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 523, "stars": 526, "owner": "wasmerio", "forks": 12},
@@ -14,7 +14,7 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 288, "stars": 5900, "owner": "DenisKolodin", "forks": 207},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 276, "stars": 5694, "owner": "SergioBenitez", "forks": 373},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 279, "stars": 15256, "owner": "xi-editor", "forks": 559},
-{"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 275, "stars": 279, "owner": "google", "forks": 8},
+{"description": "Mundane is a Rust cryptography library backed by BoringSSL that is difficult to misuse, ergonomic, and performant (in that order).", "language": "Rust", "repo": "mundane", "new_stars": 275, "stars": 280, "owner": "google", "forks": 8},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 243, "stars": 3186, "owner": "benfred", "forks": 110},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 209, "stars": 3031, "owner": "rust-lang", "forks": 841},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 214, "stars": 12816, "owner": "servo", "forks": 1996},
@@ -22,6 +22,6 @@
 {"description": "tztail (TimeZoneTAIL) allows you to view logs in the timezone you want", "language": "Rust", "repo": "tztail", "new_stars": 219, "stars": 219, "owner": "thecasualcoder", "forks": 5},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 214, "stars": 8330, "owner": "atom", "forks": 195},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 203, "stars": 4025, "owner": "tikv", "forks": 560},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 201, "stars": 3569, "owner": "tokio-rs", "forks": 264},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 201, "stars": 3569, "owner": "tokio-rs", "forks": 263},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 195, "stars": 2046, "owner": "amethyst", "forks": 247}
 ]

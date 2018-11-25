@@ -1,8 +1,8 @@
 [
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 1048, "stars": 6205, "owner": "monicahq", "forks": 692},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 817, "stars": 47385, "owner": "laravel", "forks": 14699},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 817, "stars": 47385, "owner": "laravel", "forks": 14700},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 515, "stars": 15358, "owner": "danielmiessler", "forks": 5497},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 483, "stars": 14919, "owner": "laravel", "forks": 6005},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 483, "stars": 14920, "owner": "laravel", "forks": 6005},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 511, "stars": 17206, "owner": "composer", "forks": 5327},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 483, "stars": 18361, "owner": "fzaninotto", "forks": 2261},
 {"description": "\u4e00\u523b\u793e\u533a\u540e\u7aef API \u6e90\u7801", "language": "PHP", "repo": "api.yike.io", "new_stars": 455, "stars": 459, "owner": "overtrue", "forks": 80},
@@ -13,7 +13,7 @@
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 370, "stars": 14652, "owner": "guzzle", "forks": 1866},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 364, "stars": 5340, "owner": "phpstan", "forks": 364},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 368, "stars": 10917, "owner": "briannesbitt", "forks": 1025},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 307, "stars": 19137, "owner": "symfony", "forks": 6533},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 307, "stars": 19138, "owner": "symfony", "forks": 6533},
 {"description": "Bypassing disabled exec functions in PHP (c) CRLF", "language": "PHP", "repo": "PHP_imap_open_exploit", "new_stars": 323, "stars": 325, "owner": "Bo0oM", "forks": 54},
 {"description": null, "language": "PHP", "repo": "log", "new_stars": 340, "stars": 5576, "owner": "php-fig", "forks": 115},
 {"description": "Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 318, "stars": 9370, "owner": "erusev", "forks": 823},
@@ -23,5 +23,5 @@
 {"description": "Create deep copies (clones) of your objects", "language": "PHP", "repo": "DeepCopy", "new_stars": 302, "stars": 4547, "owner": "myclabs", "forks": 53},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 296, "stars": 5393, "owner": "symfony", "forks": 150},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 265, "stars": 5818, "owner": "nextcloud", "forks": 1026},
-{"description": "swoole msyql proxy \u4e00\u4e2a\u57fa\u4e8emysql\u534f\u8bae\uff0cswoole \u5f00\u53d1\u7684mysql\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u3002 A mysql database connection pool based on mysql protocol, swoole development.", "language": "PHP", "repo": "smproxy", "new_stars": 274, "stars": 274, "owner": "louislivi", "forks": 33}
+{"description": "swoole msyql proxy \u4e00\u4e2a\u57fa\u4e8emysql\u534f\u8bae\uff0cswoole \u5f00\u53d1\u7684mysql\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u3002 A mysql database connection pool based on mysql protocol, swoole development.", "language": "PHP", "repo": "smproxy", "new_stars": 274, "stars": 275, "owner": "louislivi", "forks": 33}
 ]

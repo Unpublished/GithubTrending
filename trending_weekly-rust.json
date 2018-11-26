@@ -1,14 +1,14 @@
 [
-{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 735, "stars": 1662, "owner": "jmacdonald", "forks": 46},
+{"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 735, "stars": 1663, "owner": "jmacdonald", "forks": 46},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 545, "stars": 1118, "owner": "bodil", "forks": 20},
 {"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 531, "stars": 544, "owner": "wasmerio", "forks": 13},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 253, "stars": 10474, "owner": "sharkdp", "forks": 189},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 253, "stars": 10475, "owner": "sharkdp", "forks": 189},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 228, "stars": 234, "owner": "maciejhirsz", "forks": 3},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 183, "stars": 32003, "owner": "rust-lang", "forks": 5323},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 166, "stars": 13263, "owner": "jwilm", "forks": 572},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 138, "stars": 11653, "owner": "BurntSushi", "forks": 473},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 138, "stars": 11654, "owner": "BurntSushi", "forks": 473},
 {"description": "Super-fast alternative for babel", "language": "Rust", "repo": "swc", "new_stars": 99, "stars": 145, "owner": "swc-project", "forks": 4},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 8686, "owner": "rust-unofficial", "forks": 573},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 8687, "owner": "rust-unofficial", "forks": 573},
 {"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 88, "stars": 1193, "owner": "CraneStation", "forks": 108},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 88, "stars": 2101, "owner": "sharkdp", "forks": 39},
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 81, "stars": 243, "owner": "djc", "forks": 21},
@@ -21,7 +21,7 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 4029, "owner": "tikv", "forks": 563},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 57, "stars": 3582, "owner": "tokio-rs", "forks": 266},
 {"description": "A minimal, fast alternative to 'du -sh'", "language": "Rust", "repo": "diskus", "new_stars": 59, "stars": 332, "owner": "sharkdp", "forks": 5},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 55, "stars": 5144, "owner": "ogham", "forks": 159},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 55, "stars": 5145, "owner": "ogham", "forks": 159},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 50, "stars": 1326, "owner": "getzola", "forks": 120},
 {"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 53, "stars": 543, "owner": "jhspetersson", "forks": 14}
 ]

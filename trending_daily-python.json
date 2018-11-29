@@ -1,7 +1,7 @@
 [
-{"description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b", "language": "Python", "repo": "d2l-zh", "new_stars": 495, "stars": 4363, "owner": "diveintodeeplearning", "forks": 1232},
-{"description": "wtfpython\u7684\u4e2d\u6587\u7ffb\u8bd1/\u65bd\u5de5\u7ed3\u675f/ \u80fd\u529b\u6709\u9650\uff0c\u6b22\u8fce\u5e2e\u6211\u6539\u8fdb\u7ffb\u8bd1", "language": "Python", "repo": "wtfpython-cn", "new_stars": 343, "stars": 479, "owner": "leisurelicht", "forks": 41},
-{"description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino", "language": "Python", "repo": "trape", "new_stars": 216, "stars": 2760, "owner": "jofpin", "forks": 402},
+{"description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b", "language": "Python", "repo": "d2l-zh", "new_stars": 495, "stars": 4368, "owner": "diveintodeeplearning", "forks": 1232},
+{"description": "wtfpython\u7684\u4e2d\u6587\u7ffb\u8bd1/\u65bd\u5de5\u7ed3\u675f/ \u80fd\u529b\u6709\u9650\uff0c\u6b22\u8fce\u5e2e\u6211\u6539\u8fdb\u7ffb\u8bd1", "language": "Python", "repo": "wtfpython-cn", "new_stars": 343, "stars": 480, "owner": "leisurelicht", "forks": 41},
+{"description": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino", "language": "Python", "repo": "trape", "new_stars": 216, "stars": 2763, "owner": "jofpin", "forks": 402},
 {"description": "Pytorch-based tools for visualizing and understanding the neurons of a GAN.", "language": "Python", "repo": "gandissect", "new_stars": 154, "stars": 546, "owner": "CSAILVision", "forks": 45},
 {"description": "TensorFlow code and pre-trained models for BERT", "language": "Python", "repo": "bert", "new_stars": 105, "stars": 8483, "owner": "google-research", "forks": 1468},
 {"description": "Dive into Deep Learning (CV chapters coming soon)", "language": "Python", "repo": "d2l-en", "new_stars": 95, "stars": 404, "owner": "diveintodeeplearning", "forks": 85},
@@ -10,10 +10,10 @@
 {"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 65, "stars": 58045, "owner": "vinta", "forks": 11321},
 {"description": "CCNet: Criss-Cross Attention for Semantic Segmentation", "language": "Python", "repo": "CCNet", "new_stars": 66, "stars": 73, "owner": "speedinghzl", "forks": 11},
 {"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 65, "stars": 18660, "owner": "TheAlgorithms", "forks": 5134},
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 59, "stars": 52733, "owner": "donnemartin", "forks": 7370},
-{"description": "A New Padding Scheme: Partial Convolution based Padding", "language": "Python", "repo": "partialconv", "new_stars": 53, "stars": 60, "owner": "NVIDIA", "forks": 7},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 59, "stars": 52734, "owner": "donnemartin", "forks": 7370},
+{"description": "A New Padding Scheme: Partial Convolution based Padding", "language": "Python", "repo": "partialconv", "new_stars": 53, "stars": 61, "owner": "NVIDIA", "forks": 7},
 {"description": "A curated list of awesome Machine Learning frameworks, libraries and software.", "language": "Python", "repo": "awesome-machine-learning", "new_stars": 43, "stars": 36652, "owner": "josephmisiti", "forks": 9049},
-{"description": "Deep Learning for humans", "language": "Python", "repo": "keras", "new_stars": 39, "stars": 35907, "owner": "keras-team", "forks": 13710},
+{"description": "Deep Learning for humans", "language": "Python", "repo": "keras", "new_stars": 39, "stars": 35908, "owner": "keras-team", "forks": 13710},
 {"description": "Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning", "language": "Python", "repo": "BERT-BiLSTM-CRF-NER", "new_stars": 41, "stars": 100, "owner": "macanv", "forks": 20},
 {"description": "Command-line program to download videos from YouTube.com and other video sites", "language": "Python", "repo": "youtube-dl", "new_stars": 39, "stars": 44322, "owner": "rg3", "forks": 7712},
 {"description": "The pytorch improved re-implementation of TPAMI 2017 paper: Face Alignment in Full Pose Range: A 3D Total Solution.", "language": "Python", "repo": "3DDFA", "new_stars": 42, "stars": 1135, "owner": "cleardusk", "forks": 125},
@@ -22,6 +22,6 @@
 {"description": null, "language": "Python", "repo": "code_collection", "new_stars": 39, "stars": 39, "owner": "Allianzcortex", "forks": 6},
 {"description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.", "language": "Python", "repo": "big-list-of-naughty-strings", "new_stars": 41, "stars": 30470, "owner": "minimaxir", "forks": 1270},
 {"description": null, "language": "Python", "repo": "BERT-Classification-Tutorial", "new_stars": 38, "stars": 90, "owner": "Socialbird-AILab", "forks": 18},
-{"description": "Python library that makes it easy for data scientists to create charts.", "language": "Python", "repo": "chartify", "new_stars": 38, "stars": 1321, "owner": "spotify", "forks": 83},
-{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 32, "stars": 37925, "owner": "django", "forks": 16396}
+{"description": "Python library that makes it easy for data scientists to create charts.", "language": "Python", "repo": "chartify", "new_stars": 38, "stars": 1322, "owner": "spotify", "forks": 83},
+{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 32, "stars": 37924, "owner": "django", "forks": 16396}
 ]

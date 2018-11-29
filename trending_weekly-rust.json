@@ -1,12 +1,12 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 4168, "stars": 4263, "owner": "firecracker-microvm", "forks": 159},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 4168, "stars": 4274, "owner": "firecracker-microvm", "forks": 159},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 779, "stars": 1708, "owner": "jmacdonald", "forks": 48},
 {"description": "High-Performance WebAssembly JIT interpreter", "language": "Rust", "repo": "wasmer", "new_stars": 383, "stars": 579, "owner": "wasmerio", "forks": 14},
 {"description": "Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 219, "stars": 227, "owner": "nervosnetwork", "forks": 22},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 219, "stars": 256, "owner": "maciejhirsz", "forks": 3},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 195, "stars": 32087, "owner": "rust-lang", "forks": 5336},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 174, "stars": 13330, "owner": "jwilm", "forks": 574},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 150, "stars": 10539, "owner": "sharkdp", "forks": 190},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 195, "stars": 32089, "owner": "rust-lang", "forks": 5336},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 174, "stars": 13331, "owner": "jwilm", "forks": 574},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 150, "stars": 10539, "owner": "sharkdp", "forks": 189},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 104, "stars": 11703, "owner": "BurntSushi", "forks": 475},
 {"description": "An efficient programming language and proof assistant.", "language": "Rust", "repo": "Formality", "new_stars": 102, "stars": 616, "owner": "MaiaVictor", "forks": 17},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 86, "stars": 8717, "owner": "rust-unofficial", "forks": 577},
@@ -23,5 +23,5 @@
 {"description": "Super-fast alternative for babel", "language": "Rust", "repo": "swc", "new_stars": 60, "stars": 147, "owner": "swc-project", "forks": 4},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 58, "stars": 1610, "owner": "maps4print", "forks": 34},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 48, "stars": 196, "owner": "rust-net-web", "forks": 32},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 48, "stars": 4050, "owner": "tikv", "forks": 566}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 48, "stars": 4052, "owner": "tikv", "forks": 566}
 ]

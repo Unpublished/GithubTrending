@@ -1,10 +1,10 @@
 [
 {"description": "Complex period comparisons", "language": "PHP", "repo": "period", "new_stars": 68, "stars": 126, "owner": "spatie", "forks": 3},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 33, "stars": 47504, "owner": "laravel", "forks": 14740},
-{"description": "PHP in Go", "language": "PHP", "repo": "goro", "new_stars": 37, "stars": 540, "owner": "MagicalTux", "forks": 22},
-{"description": "PHP Runtime Layer for AWS Lambda", "language": "PHP", "repo": "php-lambda-layer", "new_stars": 33, "stars": 38, "owner": "stackery", "forks": 4},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 33, "stars": 47504, "owner": "laravel", "forks": 14741},
+{"description": "PHP in Go", "language": "PHP", "repo": "goro", "new_stars": 37, "stars": 541, "owner": "MagicalTux", "forks": 22},
+{"description": "PHP Runtime Layer for AWS Lambda", "language": "PHP", "repo": "php-lambda-layer", "new_stars": 33, "stars": 39, "owner": "stackery", "forks": 4},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 29, "stars": 15018, "owner": "laravel", "forks": 6022},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 23, "stars": 15441, "owner": "danielmiessler", "forks": 5543},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 23, "stars": 15442, "owner": "danielmiessler", "forks": 5543},
 {"description": "DuckChat\uff0c\u4e00\u6b3e\u72ec\u7acb\u90e8\u7f72\u7684\u804a\u5929\u7cfb\u7edf", "language": "PHP", "repo": "gaga", "new_stars": 19, "stars": 1015, "owner": "duckchat", "forks": 198},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 20, "stars": 17302, "owner": "composer", "forks": 5328},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 19, "stars": 14732, "owner": "guzzle", "forks": 1871},
@@ -13,15 +13,15 @@
 {"description": "FreeScout \u2014 Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)", "language": "PHP", "repo": "freescout", "new_stars": 15, "stars": 217, "owner": "freescout-helpdesk", "forks": 34},
 {"description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS", "language": "PHP", "repo": "grav", "new_stars": 14, "stars": 9869, "owner": "getgrav", "forks": 990},
 {"description": "Which is the fastest web framework?", "language": "PHP", "repo": "web-frameworks", "new_stars": 16, "stars": 1369, "owner": "the-benchmarker", "forks": 121},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 14, "stars": 4713, "owner": "PHPOffice", "forks": 824},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 14, "stars": 4713, "owner": "PHPOffice", "forks": 825},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 13, "stars": 19200, "owner": "symfony", "forks": 6540},
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 14, "stars": 3465, "owner": "guzzle", "forks": 150},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 5860, "owner": "nextcloud", "forks": 1034},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 13, "stars": 8552, "owner": "nikic", "forks": 559},
-{"description": "An account managent panel which is used for SS(R) & base on SSR database version.", "language": "PHP", "repo": "SSRPanel", "new_stars": 10, "stars": 1560, "owner": "ssrpanel", "forks": 824},
+{"description": "An account managent panel which is used for SS(R) & base on SSR database version.", "language": "PHP", "repo": "SSRPanel", "new_stars": 10, "stars": 1561, "owner": "ssrpanel", "forks": 825},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 13, "stars": 5100, "owner": "z-song", "forks": 1416},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 12, "stars": 5389, "owner": "phpstan", "forks": 368},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 9, "stars": 11692, "owner": "WordPress", "forks": 7129},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 12, "stars": 5020, "owner": "spatie", "forks": 677},
-{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 7, "stars": 6423, "owner": "magento", "forks": 5597}
+{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 7, "stars": 6424, "owner": "magento", "forks": 5598}
 ]

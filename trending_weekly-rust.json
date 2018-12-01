@@ -1,8 +1,8 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 5053, "stars": 5070, "owner": "firecracker-microvm", "forks": 202},
-{"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 400, "stars": 404, "owner": "awslabs", "forks": 14},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 5053, "stars": 5072, "owner": "firecracker-microvm", "forks": 204},
+{"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 400, "stars": 406, "owner": "awslabs", "forks": 14},
 {"description": "Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 254, "stars": 256, "owner": "nervosnetwork", "forks": 27},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 205, "stars": 32152, "owner": "rust-lang", "forks": 5342},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 205, "stars": 32151, "owner": "rust-lang", "forks": 5342},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 177, "stars": 1736, "owner": "jmacdonald", "forks": 48},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 159, "stars": 10599, "owner": "sharkdp", "forks": 189},
 {"description": "Rust Language Cheat Sheet -", "language": "Rust", "repo": "cheats.rs", "new_stars": 134, "stars": 134, "owner": "ralfbiedert", "forks": 5},
@@ -22,6 +22,6 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 58, "stars": 12854, "owner": "servo", "forks": 2002},
 {"description": "CKB's vm", "language": "Rust", "repo": "ckb-vm", "new_stars": 60, "stars": 60, "owner": "nervosnetwork", "forks": 4},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 57, "stars": 262, "owner": "maciejhirsz", "forks": 4},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 55, "stars": 15298, "owner": "xi-editor", "forks": 561},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 55, "stars": 15297, "owner": "xi-editor", "forks": 561},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 53, "stars": 1151, "owner": "bodil", "forks": 21}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 29, "stars": 47587, "owner": "laravel", "forks": 14760},
 {"description": "Gamify your Laravel app with Reputation Points & Achievements Badges support", "language": "PHP", "repo": "laravel-gamify", "new_stars": 32, "stars": 122, "owner": "qcod", "forks": 5},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 20, "stars": 15559, "owner": "danielmiessler", "forks": 5581},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 20, "stars": 15560, "owner": "danielmiessler", "forks": 5581},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 21, "stars": 15075, "owner": "laravel", "forks": 6031},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 24, "stars": 17366, "owner": "composer", "forks": 5331},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 23, "stars": 18506, "owner": "fzaninotto", "forks": 2271},
@@ -11,11 +11,11 @@
 {"description": "A set of abstractions extracted out of the Symfony components", "language": "PHP", "repo": "contracts", "new_stars": 19, "stars": 183, "owner": "symfony", "forks": 3},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 17, "stars": 8603, "owner": "nikic", "forks": 560},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 16, "stars": 14783, "owner": "guzzle", "forks": 1872},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 16, "stars": 12760, "owner": "Seldaek", "forks": 1460},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 16, "stars": 12761, "owner": "Seldaek", "forks": 1460},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 16, "stars": 11027, "owner": "briannesbitt", "forks": 1031},
 {"description": "Zephir is a compiled high level language aimed to the creation of C-extensions for PHP", "language": "PHP", "repo": "zephir", "new_stars": 16, "stars": 2511, "owner": "phalcon", "forks": 382},
 {"description": "Easily store some values", "language": "PHP", "repo": "valuestore", "new_stars": 16, "stars": 240, "owner": "spatie", "forks": 20},
-{"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 12, "stars": 1900, "owner": "donwa", "forks": 801},
+{"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 12, "stars": 1901, "owner": "donwa", "forks": 802},
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 15, "stars": 5193, "owner": "egulias", "forks": 76},
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 14, "stars": 3504, "owner": "guzzle", "forks": 151},
 {"description": "Hands-On labs for the global 2018 event series", "language": "PHP", "repo": "global-2018-hol", "new_stars": 11, "stars": 42, "owner": "dockersamples", "forks": 38},
@@ -23,5 +23,5 @@
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 12, "stars": 8066, "owner": "thephpleague", "forks": 475},
 {"description": "Reference code and documentation for Artifact deck codes", "language": "PHP", "repo": "ArtifactDeckCode", "new_stars": 11, "stars": 291, "owner": "ValveSoftware", "forks": 36},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 10, "stars": 4738, "owner": "PHPOffice", "forks": 835},
-{"description": "The little blogging framework making it easier for you to write your story.", "language": "PHP", "repo": "Phost", "new_stars": 12, "stars": 42, "owner": "danieltj27", "forks": 5}
+{"description": "The little blogging framework making it easier for you to write your story.", "language": "PHP", "repo": "Phost", "new_stars": 12, "stars": 43, "owner": "danieltj27", "forks": 5}
 ]

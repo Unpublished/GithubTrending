@@ -1,15 +1,15 @@
 [
-{"description": "\u3010Java\u5b66\u4e60+\u9762\u8bd5\u6307\u5357\u3011 \u4e00\u4efd\u6db5\u76d6\u5927\u90e8\u5206Java\u7a0b\u5e8f\u5458\u6240\u9700\u8981\u638c\u63e1\u7684\u6838\u5fc3\u77e5\u8bc6\u3002", "language": "Java", "repo": "JavaGuide", "new_stars": 974, "stars": 15008, "owner": "Snailclimb", "forks": 4176},
+{"description": "\u3010Java\u5b66\u4e60+\u9762\u8bd5\u6307\u5357\u3011 \u4e00\u4efd\u6db5\u76d6\u5927\u90e8\u5206Java\u7a0b\u5e8f\u5458\u6240\u9700\u8981\u638c\u63e1\u7684\u6838\u5fc3\u77e5\u8bc6\u3002", "language": "Java", "repo": "JavaGuide", "new_stars": 974, "stars": 15007, "owner": "Snailclimb", "forks": 4176},
 {"description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java\u8bca\u65ad\u5229\u5668Arthas", "language": "Java", "repo": "arthas", "new_stars": 791, "stars": 6967, "owner": "alibaba", "forks": 1136},
 {"description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming", "language": "Java", "repo": "resilience4j", "new_stars": 517, "stars": 2164, "owner": "resilience4j", "forks": 236},
-{"description": "\u66f4\u4f18\u96c5\u7684\u9a7e\u8f66\u4f53\u9a8c", "language": "Java", "repo": "JAViewer", "new_stars": 403, "stars": 2348, "owner": "SplashCodes", "forks": 389},
-{"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 354, "stars": 42170, "owner": "iluwatar", "forks": 13671},
+{"description": "\u66f4\u4f18\u96c5\u7684\u9a7e\u8f66\u4f53\u9a8c", "language": "Java", "repo": "JAViewer", "new_stars": 403, "stars": 2349, "owner": "SplashCodes", "forks": 389},
+{"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 354, "stars": 42171, "owner": "iluwatar", "forks": 13671},
 {"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 314, "stars": 31784, "owner": "spring-projects", "forks": 21828},
 {"description": "\u53c8\u4e00\u4e2a\u5c0f\u5546\u57ce\u3002litemall = Spring Boot\u540e\u7aef + Vue\u7ba1\u7406\u5458\u524d\u7aef + \u5fae\u4fe1\u5c0f\u7a0b\u5e8f\u7528\u6237\u524d\u7aef", "language": "Java", "repo": "litemall", "new_stars": 330, "stars": 2815, "owner": "linlinjava", "forks": 875},
 {"description": "\u4e00\u6b3e\u7528 Java \u5b9e\u73b0\u7684\u73b0\u4ee3\u5316\u793e\u533a\uff08\u8bba\u575b/BBS/\u793e\u4ea4\u7f51\u7edc/\u535a\u5ba2\uff09\u5e73\u53f0\u3002", "language": "Java", "repo": "symphony", "new_stars": 308, "stars": 8160, "owner": "b3log", "forks": 2799},
 {"description": "The \"REST With Spring\" Course:", "language": "Java", "repo": "tutorials", "new_stars": 209, "stars": 9841, "owner": "eugenp", "forks": 14835},
-{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 282, "stars": 8888, "owner": "TheAlgorithms", "forks": 3479},
-{"description": "Everything you need to know to get the job.", "language": "Java", "repo": "interviews", "new_stars": 279, "stars": 30702, "owner": "kdn251", "forks": 5979},
+{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 282, "stars": 8888, "owner": "TheAlgorithms", "forks": 3480},
+{"description": "Everything you need to know to get the job.", "language": "Java", "repo": "interviews", "new_stars": 279, "stars": 30702, "owner": "kdn251", "forks": 5980},
 {"description": "Java Core Sprout : basic, concurrent, algorithm", "language": "Java", "repo": "JCSprout", "new_stars": 242, "stars": 17162, "owner": "crossoverJie", "forks": 4558},
 {"description": "Powerful, comprehensive (Android) application performance management platform. 360\u79fb\u52a8\u6027\u80fd\u76d1\u63a7\u5e73\u53f0", "language": "Java", "repo": "ArgusAPM", "new_stars": 276, "stars": 419, "owner": "Qihoo360", "forks": 45},
 {"description": "Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.", "language": "Java", "repo": "spring-cloud-alibaba", "new_stars": 244, "stars": 2362, "owner": "spring-cloud-incubator", "forks": 480},
@@ -23,5 +23,5 @@
 {"description": "Netty project - an event-driven asynchronous network application framework", "language": "Java", "repo": "netty", "new_stars": 154, "stars": 16915, "owner": "netty", "forks": 7424},
 {"description": "\u963f\u91cc\u5df4\u5df4\u6570\u636e\u5e93\u4e8b\u4e1a\u90e8\u51fa\u54c1\uff0c\u4e3a\u76d1\u63a7\u800c\u751f\u7684\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u30022018\u5e74\u5f00\u6e90\u4e2d\u56fd\u6700\u53d7\u6b22\u8fce\u5f00\u6e90\u8f6f\u4ef6\u8bc4\u9009\u8bf7\u53c2\u4e0e\u6295\u7968", "language": "Java", "repo": "druid", "new_stars": 136, "stars": 14116, "owner": "alibaba", "forks": 5324},
 {"description": "Apache Flink", "language": "Java", "repo": "flink", "new_stars": 131, "stars": 5186, "owner": "apache", "forks": 3221},
-{"description": "Android developers should collect the following utils(updating).", "language": "Java", "repo": "AndroidUtilCode", "new_stars": 137, "stars": 21288, "owner": "Blankj", "forks": 6997}
+{"description": "Android developers should collect the following utils(updating).", "language": "Java", "repo": "AndroidUtilCode", "new_stars": 137, "stars": 21289, "owner": "Blankj", "forks": 6997}
 ]

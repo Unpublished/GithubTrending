@@ -1,11 +1,11 @@
 [
-{"description": "NVIDIA PhysX SDK 3.4", "language": "C++", "repo": "PhysX-3.4", "new_stars": 1326, "stars": 1723, "owner": "NVIDIAGameWorks", "forks": 113},
+{"description": "NVIDIA PhysX SDK 3.4", "language": "C++", "repo": "PhysX-3.4", "new_stars": 1326, "stars": 1724, "owner": "NVIDIAGameWorks", "forks": 113},
 {"description": "Tools for capturing and analysing keyboard input paired with microphone capture", "language": "C++", "repo": "kbd-audio", "new_stars": 1011, "stars": 1632, "owner": "ggerganov", "forks": 134},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 616, "stars": 116243, "owner": "tensorflow", "forks": 70406},
-{"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 723, "stars": 2239, "owner": "google", "forks": 123},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 616, "stars": 116247, "owner": "tensorflow", "forks": 70406},
+{"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 723, "stars": 2240, "owner": "google", "forks": 123},
 {"description": "Simple Encrypted Arithmetic Library (SEAL) is an easy-to-use but powerful homomorphic encryption library written in C++. It supports both the BFV and the CKKS encryption schemes.", "language": "C++", "repo": "SEAL", "new_stars": 570, "stars": 571, "owner": "Microsoft", "forks": 42},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 491, "stars": 22304, "owner": "pytorch", "forks": 5316},
-{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 505, "stars": 513, "owner": "MisterBooo", "forks": 32},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 491, "stars": 22306, "owner": "pytorch", "forks": 5317},
+{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 505, "stars": 521, "owner": "MisterBooo", "forks": 35},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 243, "stars": 30097, "owner": "opencv", "forks": 21508},
 {"description": "ONNX Runtime", "language": "C++", "repo": "onnxruntime", "new_stars": 320, "stars": 335, "owner": "Microsoft", "forks": 41},
 {"description": "Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.", "language": "C++", "repo": "dust3d", "new_stars": 327, "stars": 667, "owner": "huxingyi", "forks": 25},
@@ -23,5 +23,5 @@
 {"description": "C++ front/service proxy", "language": "C++", "repo": "envoy", "new_stars": 107, "stars": 7486, "owner": "envoyproxy", "forks": 1061},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 106, "stars": 45983, "owner": "apple", "forks": 7307},
 {"description": "A fast, distributed, high performance gradient boosting (GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks. It is under the umbrella of the DMTK(", "language": "C++", "repo": "LightGBM", "new_stars": 106, "stars": 7411, "owner": "Microsoft", "forks": 1981},
-{"description": "Distributed training framework for TensorFlow, Keras, and PyTorch.", "language": "C++", "repo": "horovod", "new_stars": 103, "stars": 4542, "owner": "uber", "forks": 634}
+{"description": "Distributed training framework for TensorFlow, Keras, and PyTorch.", "language": "C++", "repo": "horovod", "new_stars": 103, "stars": 4543, "owner": "uber", "forks": 634}
 ]

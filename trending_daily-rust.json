@@ -1,14 +1,14 @@
 [
-{"description": "High-Performance WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 122, "stars": 1071, "owner": "wasmerio", "forks": 27},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 50, "stars": 6049, "owner": "firecracker-microvm", "forks": 278},
-{"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 44, "stars": 1111, "owner": "cantino", "forks": 21},
+{"description": "High-Performance WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 122, "stars": 1072, "owner": "wasmerio", "forks": 27},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 50, "stars": 6052, "owner": "firecracker-microvm", "forks": 278},
+{"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 44, "stars": 1112, "owner": "cantino", "forks": 21},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 32400, "owner": "rust-lang", "forks": 5379},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 27, "stars": 5930, "owner": "SergioBenitez", "forks": 387},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 25, "stars": 11870, "owner": "BurntSushi", "forks": 485},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 18, "stars": 186, "owner": "Peltoche", "forks": 9},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 16, "stars": 10791, "owner": "sharkdp", "forks": 196},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 15, "stars": 12968, "owner": "servo", "forks": 2013},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 13496, "owner": "jwilm", "forks": 575},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 15, "stars": 12970, "owner": "servo", "forks": 2013},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 13497, "owner": "jwilm", "forks": 575},
 {"description": "Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`", "language": "Rust", "repo": "libui-rs", "new_stars": 13, "stars": 303, "owner": "LeoTindall", "forks": 19},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 11, "stars": 312, "owner": "rust-net-web", "forks": 37},
 {"description": "Scalable, social, Code REView system that we desperately need (WIP)", "language": "Rust", "repo": "crev", "new_stars": 11, "stars": 123, "owner": "dpc", "forks": 4},
@@ -22,6 +22,6 @@
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 8, "stars": 2719, "owner": "mimblewimble", "forks": 445},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 8, "stars": 2576, "owner": "Geal", "forks": 305},
 {"description": null, "language": "Rust", "repo": "spirit", "new_stars": 8, "stars": 48, "owner": "vorner", "forks": 3},
-{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 7, "stars": 1240, "owner": "CraneStation", "forks": 113},
+{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 7, "stars": 1241, "owner": "CraneStation", "forks": 113},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 7, "stars": 7648, "owner": "sharkdp", "forks": 196}
 ]

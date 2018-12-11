@@ -1,8 +1,8 @@
 [
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 1022, "stars": 1116, "owner": "cantino", "forks": 21},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 512, "stars": 6063, "owner": "firecracker-microvm", "forks": 280},
-{"description": "High-Performance WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 487, "stars": 1085, "owner": "wasmerio", "forks": 27},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 219, "stars": 32406, "owner": "rust-lang", "forks": 5379},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 512, "stars": 6065, "owner": "firecracker-microvm", "forks": 280},
+{"description": "High-Performance WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 487, "stars": 1086, "owner": "wasmerio", "forks": 27},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 219, "stars": 32407, "owner": "rust-lang", "forks": 5379},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 182, "stars": 5932, "owner": "SergioBenitez", "forks": 388},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 184, "stars": 187, "owner": "Peltoche", "forks": 9},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 171, "stars": 10795, "owner": "sharkdp", "forks": 196},
@@ -13,15 +13,15 @@
 {"description": "A command line progress reporting library for Rust", "language": "Rust", "repo": "indicatif", "new_stars": 99, "stars": 878, "owner": "mitsuhiko", "forks": 47},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 86, "stars": 8851, "owner": "rust-unofficial", "forks": 586},
 {"description": "Zero-boilerplate configuration management in Rust", "language": "Rust", "repo": "confy", "new_stars": 86, "stars": 97, "owner": "rust-clique", "forks": 2},
-{"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 83, "stars": 312, "owner": "rust-net-web", "forks": 37},
+{"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 83, "stars": 313, "owner": "rust-net-web", "forks": 37},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 62, "stars": 6019, "owner": "DenisKolodin", "forks": 214},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 54, "stars": 4140, "owner": "tikv", "forks": 592},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 54, "stars": 4141, "owner": "tikv", "forks": 592},
 {"description": "A JSON Query Language CLI tool", "language": "Rust", "repo": "jql", "new_stars": 62, "stars": 86, "owner": "yamafaktory", "forks": 4},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 55, "stars": 2721, "owner": "mimblewimble", "forks": 445},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 49, "stars": 3167, "owner": "rust-lang", "forks": 866},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 54, "stars": 2788, "owner": "rust-lang", "forks": 376},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 55, "stars": 516, "owner": "awslabs", "forks": 22},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 50, "stars": 2177, "owner": "amethyst", "forks": 266},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 54, "stars": 7650, "owner": "sharkdp", "forks": 196},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 50, "stars": 4340, "owner": "mre", "forks": 509}
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 50, "stars": 2178, "owner": "amethyst", "forks": 266},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 54, "stars": 7651, "owner": "sharkdp", "forks": 196},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 50, "stars": 4341, "owner": "mre", "forks": 509}
 ]

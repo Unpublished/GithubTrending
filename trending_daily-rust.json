@@ -1,14 +1,14 @@
 [
 {"description": "High-Performance WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 85, "stars": 1093, "owner": "wasmerio", "forks": 28},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 58, "stars": 6080, "owner": "firecracker-microvm", "forks": 281},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 58, "stars": 6082, "owner": "firecracker-microvm", "forks": 281},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 34, "stars": 1122, "owner": "cantino", "forks": 21},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 32415, "owner": "rust-lang", "forks": 5380},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 17, "stars": 5939, "owner": "SergioBenitez", "forks": 388},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 17, "stars": 5940, "owner": "SergioBenitez", "forks": 388},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 17, "stars": 4343, "owner": "mre", "forks": 509},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 17, "stars": 10797, "owner": "sharkdp", "forks": 196},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 17, "stars": 10798, "owner": "sharkdp", "forks": 196},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 13504, "owner": "jwilm", "forks": 575},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 15, "stars": 274, "owner": "RustPython", "forks": 20},
-{"description": "A JSON Query Language CLI tool", "language": "Rust", "repo": "jql", "new_stars": 15, "stars": 88, "owner": "yamafaktory", "forks": 4},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 15, "stars": 275, "owner": "RustPython", "forks": 20},
+{"description": "A JSON Query Language CLI tool", "language": "Rust", "repo": "jql", "new_stars": 15, "stars": 89, "owner": "yamafaktory", "forks": 4},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 14, "stars": 12976, "owner": "servo", "forks": 2014},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 14, "stars": 190, "owner": "Peltoche", "forks": 9},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 13, "stars": 11870, "owner": "BurntSushi", "forks": 485},
@@ -22,6 +22,6 @@
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 9, "stars": 7652, "owner": "sharkdp", "forks": 197},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4144, "owner": "tikv", "forks": 592},
 {"description": "Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`", "language": "Rust", "repo": "libui-rs", "new_stars": 9, "stars": 308, "owner": "LeoTindall", "forks": 19},
-{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 8, "stars": 1242, "owner": "CraneStation", "forks": 113},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 8, "stars": 2724, "owner": "mimblewimble", "forks": 446}
+{"description": "Cranelift code generator (formerly, Cretonne)", "language": "Rust", "repo": "cranelift", "new_stars": 8, "stars": 1243, "owner": "CraneStation", "forks": 113},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 8, "stars": 2725, "owner": "mimblewimble", "forks": 447}
 ]

@@ -1,16 +1,16 @@
 [
-{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 3448, "stars": 3477, "owner": "MisterBooo", "forks": 277},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 607, "stars": 116599, "owner": "tensorflow", "forks": 70541},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 664, "stars": 22637, "owner": "pytorch", "forks": 5368},
-{"description": "Static analyzer for C/C++ based on the theory of Abstract Interpretation.", "language": "C++", "repo": "ikos", "new_stars": 576, "stars": 657, "owner": "NASA-SW-VnV", "forks": 34},
-{"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 307, "stars": 2387, "owner": "google", "forks": 135},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 298, "stars": 67570, "owner": "electron", "forks": 8804},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 225, "stars": 30230, "owner": "opencv", "forks": 21602},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 155, "stars": 30795, "owner": "protocolbuffers", "forks": 8512},
-{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 142, "stars": 3549, "owner": "topjohnwu", "forks": 492},
+{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 3448, "stars": 3485, "owner": "MisterBooo", "forks": 279},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 607, "stars": 116601, "owner": "tensorflow", "forks": 70542},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 664, "stars": 22639, "owner": "pytorch", "forks": 5367},
+{"description": "Static analyzer for C/C++ based on the theory of Abstract Interpretation.", "language": "C++", "repo": "ikos", "new_stars": 576, "stars": 661, "owner": "NASA-SW-VnV", "forks": 34},
+{"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 307, "stars": 2388, "owner": "google", "forks": 135},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 298, "stars": 67572, "owner": "electron", "forks": 8804},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 225, "stars": 30231, "owner": "opencv", "forks": 21602},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 155, "stars": 30795, "owner": "protocolbuffers", "forks": 8513},
+{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 142, "stars": 3550, "owner": "topjohnwu", "forks": 492},
 {"description": "ONNX Runtime", "language": "C++", "repo": "onnxruntime", "new_stars": 147, "stars": 382, "owner": "Microsoft", "forks": 44},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 137, "stars": 23029, "owner": "tesseract-ocr", "forks": 4524},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 111, "stars": 36342, "owner": "bitcoin", "forks": 21673},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 111, "stars": 36342, "owner": "bitcoin", "forks": 21674},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 121, "stars": 18474, "owner": "grpc", "forks": 4271},
 {"description": "Tools for capturing and analysing keyboard input paired with microphone capture", "language": "C++", "repo": "kbd-audio", "new_stars": 123, "stars": 1691, "owner": "ggerganov", "forks": 142},
 {"description": "Code for the paper \"Quantifying Transfer in Reinforcement Learning\"", "language": "C++", "repo": "coinrun", "new_stars": 120, "stars": 120, "owner": "openai", "forks": 11},
@@ -23,5 +23,5 @@
 {"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 100, "stars": 12449, "owner": "aria2", "forks": 1425},
 {"description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called \"baidu-rpc\" inside Baidu.", "language": "C++", "repo": "brpc", "new_stars": 98, "stars": 7936, "owner": "brpc", "forks": 1801},
 {"description": "C/C++\u9762\u8bd5\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 94, "stars": 2070, "owner": "huihut", "forks": 632},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 95, "stars": 46021, "owner": "apple", "forks": 7315}
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 95, "stars": 46022, "owner": "apple", "forks": 7315}
 ]

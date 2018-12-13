@@ -1,9 +1,9 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6188, "stars": 6196, "owner": "firecracker-microvm", "forks": 294},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6188, "stars": 6199, "owner": "firecracker-microvm", "forks": 295},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 1176, "stars": 1180, "owner": "cantino", "forks": 22},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 1139, "stars": 1189, "owner": "bodil", "forks": 22},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1127, "stars": 1132, "owner": "wasmerio", "forks": 29},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 836, "stars": 32462, "owner": "rust-lang", "forks": 5391},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1127, "stars": 1133, "owner": "wasmerio", "forks": 29},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 836, "stars": 32464, "owner": "rust-lang", "forks": 5391},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 857, "stars": 1778, "owner": "jmacdonald", "forks": 50},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 768, "stars": 10833, "owner": "sharkdp", "forks": 197},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 573, "stars": 13552, "owner": "jwilm", "forks": 576},
@@ -21,7 +21,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 234, "stars": 3181, "owner": "rust-lang", "forks": 866},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 229, "stars": 2189, "owner": "amethyst", "forks": 268},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 239, "stars": 243, "owner": "Peltoche", "forks": 9},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 231, "stars": 15359, "owner": "xi-editor", "forks": 560},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 231, "stars": 15358, "owner": "xi-editor", "forks": 560},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 219, "stars": 3704, "owner": "tokio-rs", "forks": 274},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 210, "stars": 324, "owner": "rust-net-web", "forks": 37}
 ]

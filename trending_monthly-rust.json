@@ -1,5 +1,5 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6184, "stars": 6191, "owner": "firecracker-microvm", "forks": 294},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6184, "stars": 6193, "owner": "firecracker-microvm", "forks": 294},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 1171, "stars": 1179, "owner": "cantino", "forks": 22},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 1139, "stars": 1189, "owner": "bodil", "forks": 22},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1126, "stars": 1132, "owner": "wasmerio", "forks": 28},
@@ -7,7 +7,7 @@
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 856, "stars": 1778, "owner": "jmacdonald", "forks": 50},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 775, "stars": 10833, "owner": "sharkdp", "forks": 197},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 570, "stars": 13552, "owner": "jwilm", "forks": 576},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 549, "stars": 11898, "owner": "BurntSushi", "forks": 488},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 549, "stars": 11899, "owner": "BurntSushi", "forks": 489},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 524, "stars": 525, "owner": "awslabs", "forks": 23},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 404, "stars": 5967, "owner": "SergioBenitez", "forks": 390},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 365, "stars": 8877, "owner": "rust-unofficial", "forks": 587},
@@ -19,8 +19,8 @@
 {"description": "Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 281, "stars": 281, "owner": "nervosnetwork", "forks": 31},
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 277, "stars": 283, "owner": "maciejhirsz", "forks": 6},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 235, "stars": 3181, "owner": "rust-lang", "forks": 866},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 230, "stars": 2187, "owner": "amethyst", "forks": 267},
-{"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 235, "stars": 239, "owner": "Peltoche", "forks": 9},
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 230, "stars": 2188, "owner": "amethyst", "forks": 268},
+{"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 235, "stars": 241, "owner": "Peltoche", "forks": 9},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 228, "stars": 15359, "owner": "xi-editor", "forks": 560},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 218, "stars": 3704, "owner": "tokio-rs", "forks": 274},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 210, "stars": 323, "owner": "rust-net-web", "forks": 37}

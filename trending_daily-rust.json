@@ -1,6 +1,6 @@
 [
-{"description": "A frontend framework for Rust, via WebAssembly", "language": "Rust", "repo": "seed", "new_stars": 51, "stars": 107, "owner": "David-OConnor", "forks": 0},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 40, "stars": 6207, "owner": "firecracker-microvm", "forks": 297},
+{"description": "A frontend framework for Rust, via WebAssembly", "language": "Rust", "repo": "seed", "new_stars": 51, "stars": 108, "owner": "David-OConnor", "forks": 0},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 40, "stars": 6208, "owner": "firecracker-microvm", "forks": 297},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 32471, "owner": "rust-lang", "forks": 5393},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 29, "stars": 247, "owner": "Peltoche", "forks": 9},
 {"description": "A crate that helps you make GBA games", "language": "Rust", "repo": "gba", "new_stars": 27, "stars": 71, "owner": "rust-console", "forks": 4},
@@ -8,7 +8,7 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 18, "stars": 6064, "owner": "DenisKolodin", "forks": 215},
 {"description": "PEG parser combinators using operator overloading without macros.", "language": "Rust", "repo": "pom", "new_stars": 17, "stars": 172, "owner": "J-F-Liu", "forks": 7},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 16, "stars": 2402, "owner": "gfx-rs", "forks": 303},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 16, "stars": 5973, "owner": "SergioBenitez", "forks": 390},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 16, "stars": 5974, "owner": "SergioBenitez", "forks": 390},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 15, "stars": 10839, "owner": "sharkdp", "forks": 197},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 15, "stars": 1185, "owner": "cantino", "forks": 22},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 13, "stars": 4371, "owner": "mre", "forks": 510},
@@ -21,7 +21,7 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 11907, "owner": "BurntSushi", "forks": 488},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 4170, "owner": "tikv", "forks": 594},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 1136, "owner": "wasmerio", "forks": 29},
-{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 9, "stars": 8403, "owner": "atom", "forks": 199},
+{"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 9, "stars": 8405, "owner": "atom", "forks": 199},
 {"description": "asynchronous networking primitives", "language": "Rust", "repo": "romio", "new_stars": 9, "stars": 176, "owner": "withoutboats", "forks": 9},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 9, "stars": 97, "owner": "CraneStation", "forks": 12}
 ]

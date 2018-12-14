@@ -1,12 +1,12 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 511, "stars": 1140, "owner": "wasmerio", "forks": 30},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 511, "stars": 1141, "owner": "wasmerio", "forks": 30},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 328, "stars": 6211, "owner": "firecracker-microvm", "forks": 297},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 261, "stars": 1187, "owner": "cantino", "forks": 22},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 194, "stars": 5974, "owner": "SergioBenitez", "forks": 390},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 32473, "owner": "rust-lang", "forks": 5393},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 32474, "owner": "rust-lang", "forks": 5393},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 155, "stars": 250, "owner": "Peltoche", "forks": 9},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 138, "stars": 13564, "owner": "jwilm", "forks": 578},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 114, "stars": 10840, "owner": "sharkdp", "forks": 197},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 114, "stars": 10841, "owner": "sharkdp", "forks": 197},
 {"description": "A frontend framework for Rust, via WebAssembly", "language": "Rust", "repo": "seed", "new_stars": 110, "stars": 114, "owner": "David-OConnor", "forks": 1},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 11909, "owner": "BurntSushi", "forks": 488},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 83, "stars": 12995, "owner": "servo", "forks": 2024},
@@ -22,6 +22,6 @@
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 47, "stars": 2740, "owner": "mimblewimble", "forks": 449},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 50, "stars": 15361, "owner": "xi-editor", "forks": 560},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 46, "stars": 3706, "owner": "tokio-rs", "forks": 275},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 41, "stars": 702, "owner": "paritytech", "forks": 145},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 41, "stars": 703, "owner": "paritytech", "forks": 145},
 {"description": "Rust bindings to the minimalist, native, cross-platform UI toolkit `libui`", "language": "Rust", "repo": "libui-rs", "new_stars": 44, "stars": 318, "owner": "LeoTindall", "forks": 20}
 ]

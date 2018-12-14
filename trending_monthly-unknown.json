@@ -1,9 +1,9 @@
 [
-{"description": "Computer Science Learning Notes", "language": null, "repo": "CS-Notes", "new_stars": 4510, "stars": 44254, "owner": "CyC2018", "forks": 13539},
-{"description": "Curated list of awesome lists", "language": null, "repo": "awesome", "new_stars": 2131, "stars": 97933, "owner": "sindresorhus", "forks": 13025},
-{"description": "A book series on JavaScript.", "language": null, "repo": "You-Dont-Know-JS", "new_stars": 1769, "stars": 93074, "owner": "getify", "forks": 17993},
-{"description": "A collection of useful .gitignore templates", "language": null, "repo": "gitignore", "new_stars": 1362, "stars": 76383, "owner": "github", "forks": 36345},
-{"description": "Roadmap to becoming a web developer in 2018", "language": null, "repo": "developer-roadmap", "new_stars": 1713, "stars": 62995, "owner": "kamranahmedse", "forks": 9947},
+{"description": "Computer Science Learning Notes", "language": null, "repo": "CS-Notes", "new_stars": 4510, "stars": 44257, "owner": "CyC2018", "forks": 13539},
+{"description": "Curated list of awesome lists", "language": null, "repo": "awesome", "new_stars": 2131, "stars": 97934, "owner": "sindresorhus", "forks": 13026},
+{"description": "A book series on JavaScript.", "language": null, "repo": "You-Dont-Know-JS", "new_stars": 1769, "stars": 93075, "owner": "getify", "forks": 17995},
+{"description": "A collection of useful .gitignore templates", "language": null, "repo": "gitignore", "new_stars": 1362, "stars": 76384, "owner": "github", "forks": 36346},
+{"description": "Roadmap to becoming a web developer in 2018", "language": null, "repo": "developer-roadmap", "new_stars": 1713, "stars": 62996, "owner": "kamranahmedse", "forks": 9946},
 {"description": "Microsoft Edge", "language": null, "repo": "MSEdge", "new_stars": 1777, "stars": 1778, "owner": "MicrosoftEdge", "forks": 38},
 {"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 1422, "stars": 114943, "owner": "EbookFoundation", "forks": 28989},
 {"description": "A complete computer science study plan to become a software engineer.", "language": null, "repo": "coding-interview-university", "new_stars": 1236, "stars": 71959, "owner": "jwasham", "forks": 20989},
@@ -14,14 +14,14 @@
 {"description": "A document describing the HTTP/3 and QUIC protocols", "language": null, "repo": "http3-explained", "new_stars": 752, "stars": 765, "owner": "bagder", "forks": 70},
 {"description": "Path to a free self-taught education in Computer Science!", "language": null, "repo": "computer-science", "new_stars": 682, "stars": 36295, "owner": "ossu", "forks": 5182},
 {"description": "The largest Node.JS best practices list (November 2018)", "language": null, "repo": "nodebestpractices", "new_stars": 688, "stars": 19050, "owner": "i0natan", "forks": 1333},
-{"description": "Help beginners to contribute to open source projects", "language": null, "repo": "first-contributions", "new_stars": 357, "stars": 5272, "owner": "firstcontributions", "forks": 13899},
+{"description": "Help beginners to contribute to open source projects", "language": null, "repo": "first-contributions", "new_stars": 357, "stars": 5273, "owner": "firstcontributions", "forks": 13900},
 {"description": "\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a", "language": null, "repo": "gold-miner", "new_stars": 627, "stars": 17956, "owner": "xitu", "forks": 3058},
 {"description": "A curated list of UI styleguides \u2014", "language": null, "repo": "awesome-styleguides", "new_stars": 663, "stars": 664, "owner": "streamich", "forks": 24},
 {"description": "A topic-centric list of HQ open datasets in public domains. PR \u261b\u261b\u261b", "language": null, "repo": "awesome-public-datasets", "new_stars": 581, "stars": 29606, "owner": "awesomedata", "forks": 4915},
 {"description": "A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.", "language": null, "repo": "awesome-cpp", "new_stars": 583, "stars": 16814, "owner": "fffaraz", "forks": 3056},
 {"description": "A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.", "language": null, "repo": "Awesome-pytorch-list", "new_stars": 531, "stars": 4859, "owner": "bharathgs", "forks": 1033},
 {"description": "\u6211\u662f\u6728\u6613\u6768\uff0c\u7f51\u6613\u9ad8\u7ea7\u524d\u7aef\u5de5\u7a0b\u5e08\uff0c\u8ddf\u7740\u6211\u6bcf\u5468\u91cd\u70b9\u653b\u514b\u4e00\u4e2a\u524d\u7aef\u9762\u8bd5\u91cd\u96be\u70b9\u3002\u63a5\u4e0b\u6765\u8ba9\u6211\u5e26\u4f60\u8d70\u8fdb\u9ad8\u7ea7\u524d\u7aef\u7684\u4e16\u754c\uff0c\u5728\u8fdb\u9636\u7684\u8def\u4e0a\uff0c\u5171\u52c9\uff01", "language": null, "repo": "blog", "new_stars": 579, "stars": 688, "owner": "yygmind", "forks": 64},
-{"description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.", "language": null, "repo": "android-architecture", "new_stars": 498, "stars": 30613, "owner": "googlesamples", "forks": 8642},
+{"description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.", "language": null, "repo": "android-architecture", "new_stars": 498, "stars": 30614, "owner": "googlesamples", "forks": 8642},
 {"description": "A list of awesome beginners-friendly projects.", "language": null, "repo": "awesome-for-beginners", "new_stars": 539, "stars": 7806, "owner": "MunGell", "forks": 1232},
-{"description": "Delightful Node.js packages and resources", "language": null, "repo": "awesome-nodejs", "new_stars": 525, "stars": 27487, "owner": "sindresorhus", "forks": 3400}
+{"description": "Delightful Node.js packages and resources", "language": null, "repo": "awesome-nodejs", "new_stars": 525, "stars": 27488, "owner": "sindresorhus", "forks": 3400}
 ]

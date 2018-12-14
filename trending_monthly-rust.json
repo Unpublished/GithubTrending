@@ -1,7 +1,7 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6214, "stars": 6221, "owner": "firecracker-microvm", "forks": 298},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6214, "stars": 6223, "owner": "firecracker-microvm", "forks": 298},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 1187, "stars": 1192, "owner": "cantino", "forks": 22},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1143, "stars": 1156, "owner": "wasmerio", "forks": 30},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1143, "stars": 1158, "owner": "wasmerio", "forks": 30},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 828, "stars": 32480, "owner": "rust-lang", "forks": 5395},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 860, "stars": 1781, "owner": "jmacdonald", "forks": 50},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 753, "stars": 10848, "owner": "sharkdp", "forks": 197},
@@ -10,7 +10,7 @@
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 529, "stars": 531, "owner": "awslabs", "forks": 24},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 406, "stars": 5978, "owner": "SergioBenitez", "forks": 390},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 367, "stars": 8888, "owner": "rust-unofficial", "forks": 587},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 373, "stars": 7697, "owner": "sharkdp", "forks": 196},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 373, "stars": 7698, "owner": "sharkdp", "forks": 196},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 321, "stars": 6068, "owner": "DenisKolodin", "forks": 215},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 295, "stars": 12995, "owner": "servo", "forks": 2024},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 297, "stars": 5348, "owner": "ogham", "forks": 164},

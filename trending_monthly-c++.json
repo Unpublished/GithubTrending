@@ -1,10 +1,10 @@
 [
-{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 4099, "stars": 4111, "owner": "MisterBooo", "forks": 345},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 2560, "stars": 116686, "owner": "tensorflow", "forks": 70568},
+{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 4099, "stars": 4117, "owner": "MisterBooo", "forks": 346},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 2560, "stars": 116685, "owner": "tensorflow", "forks": 70568},
 {"description": "Tools for capturing and analysing keyboard input paired with microphone capture", "language": "C++", "repo": "kbd-audio", "new_stars": 1699, "stars": 1700, "owner": "ggerganov", "forks": 143},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1577, "stars": 22708, "owner": "pytorch", "forks": 5386},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1577, "stars": 22707, "owner": "pytorch", "forks": 5386},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1105, "stars": 30267, "owner": "opencv", "forks": 21636},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1213, "stars": 67631, "owner": "electron", "forks": 8811},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1213, "stars": 67632, "owner": "electron", "forks": 8811},
 {"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 1036, "stars": 2418, "owner": "google", "forks": 137},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 677, "stars": 30835, "owner": "protocolbuffers", "forks": 8516},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 696, "stars": 23053, "owner": "tesseract-ocr", "forks": 4531},
@@ -14,7 +14,7 @@
 {"description": "Kakao Hangul Analyzer III", "language": "C++", "repo": "khaiii", "new_stars": 648, "stars": 648, "owner": "kakao", "forks": 127},
 {"description": "Simple Encrypted Arithmetic Library (SEAL) is an easy-to-use but powerful homomorphic encryption library written in C++. It supports both the BFV and the CKKS encryption schemes.", "language": "C++", "repo": "SEAL", "new_stars": 624, "stars": 624, "owner": "Microsoft", "forks": 49},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 524, "stars": 10283, "owner": "CMU-Perceptual-Computing-Lab", "forks": 2809},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 520, "stars": 18202, "owner": "godotengine", "forks": 3720},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 520, "stars": 18203, "owner": "godotengine", "forks": 3720},
 {"description": "Truly native C++ cross-platform framework for Android and iOS development", "language": "C++", "repo": "boden", "new_stars": 568, "stars": 568, "owner": "AshampooSystems", "forks": 19},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 507, "stars": 18501, "owner": "grpc", "forks": 4275},
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 497, "stars": 10326, "owner": "uglide", "forks": 1591},
@@ -22,6 +22,6 @@
 {"description": "A platform that lets you build agents to learn to play StarCraft: Brood War.", "language": "C++", "repo": "TorchCraftAI", "new_stars": 486, "stars": 486, "owner": "TorchCraft", "forks": 85},
 {"description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.", "language": "C++", "repo": "xbmc", "new_stars": 473, "stars": 8006, "owner": "xbmc", "forks": 4836},
 {"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research", "language": "C++", "repo": "AirSim", "new_stars": 446, "stars": 6477, "owner": "Microsoft", "forks": 1707},
-{"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 405, "stars": 26515, "owner": "BVLC", "forks": 16120},
+{"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 405, "stars": 26514, "owner": "BVLC", "forks": 16120},
 {"description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO", "language": "C++", "repo": "Sonoff-Tasmota", "new_stars": 428, "stars": 4988, "owner": "arendst", "forks": 1144}
 ]

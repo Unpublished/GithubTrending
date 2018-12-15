@@ -1,6 +1,6 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 24, "stars": 47853, "owner": "laravel", "forks": 14845},
-{"description": "A beautiful dashboard for your Laravel Dusk tests", "language": "PHP", "repo": "dusk-dashboard", "new_stars": 24, "stars": 173, "owner": "beyondcode", "forks": 6},
+{"description": "A beautiful dashboard for your Laravel Dusk tests", "language": "PHP", "repo": "dusk-dashboard", "new_stars": 24, "stars": 174, "owner": "beyondcode", "forks": 6},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 19, "stars": 15244, "owner": "laravel", "forks": 6095},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 18, "stars": 17545, "owner": "composer", "forks": 5343},
 {"description": "PHP errors for cool kids", "language": "PHP", "repo": "whoops", "new_stars": 18, "stars": 8963, "owner": "filp", "forks": 501},
@@ -10,8 +10,8 @@
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 13, "stars": 18658, "owner": "fzaninotto", "forks": 2281},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 13, "stars": 12916, "owner": "Seldaek", "forks": 1469},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 13, "stars": 11118, "owner": "briannesbitt", "forks": 1035},
-{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 11, "stars": 16372, "owner": "domnikl", "forks": 3538},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 11, "stars": 15704, "owner": "danielmiessler", "forks": 5652},
+{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 11, "stars": 16373, "owner": "domnikl", "forks": 3538},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 11, "stars": 15704, "owner": "danielmiessler", "forks": 5653},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 12, "stars": 12391, "owner": "sebastianbergmann", "forks": 1684},
 {"description": "Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.", "language": "PHP", "repo": "TrustedProxy", "new_stars": 11, "stars": 4383, "owner": "fideloper", "forks": 69},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 10, "stars": 8741, "owner": "nikic", "forks": 563},
@@ -21,7 +21,7 @@
 {"description": "A GraphQL API for WordPress", "language": "PHP", "repo": "wp-graphql", "new_stars": 9, "stars": 984, "owner": "wp-graphql", "forks": 130},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 8, "stars": 11786, "owner": "WordPress", "forks": 7168},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 8, "stars": 4836, "owner": "PHPOffice", "forks": 851},
-{"description": "Complex period comparisons", "language": "PHP", "repo": "period", "new_stars": 8, "stars": 339, "owner": "spatie", "forks": 6},
+{"description": "Complex period comparisons", "language": "PHP", "repo": "period", "new_stars": 8, "stars": 340, "owner": "spatie", "forks": 6},
 {"description": "A REPL for PHP", "language": "PHP", "repo": "psysh", "new_stars": 8, "stars": 6518, "owner": "bobthecow", "forks": 217},
 {"description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!", "language": "PHP", "repo": "matomo", "new_stars": 7, "stars": 10343, "owner": "matomo-org", "forks": 1676}
 ]

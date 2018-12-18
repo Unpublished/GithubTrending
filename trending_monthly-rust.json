@@ -1,15 +1,15 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6335, "stars": 6342, "owner": "firecracker-microvm", "forks": 310},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6335, "stars": 6343, "owner": "firecracker-microvm", "forks": 310},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 1214, "stars": 1218, "owner": "cantino", "forks": 23},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1201, "stars": 1208, "owner": "wasmerio", "forks": 31},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 963, "stars": 1194, "owner": "bodil", "forks": 23},
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 951, "stars": 966, "owner": "MaxBittker", "forks": 39},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 951, "stars": 970, "owner": "MaxBittker", "forks": 39},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 854, "stars": 32589, "owner": "rust-lang", "forks": 5396},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 873, "stars": 1797, "owner": "jmacdonald", "forks": 51},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 703, "stars": 10891, "owner": "sharkdp", "forks": 197},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 558, "stars": 13610, "owner": "jwilm", "forks": 584},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 540, "stars": 542, "owner": "awslabs", "forks": 24},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 502, "stars": 11962, "owner": "BurntSushi", "forks": 491},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 502, "stars": 11963, "owner": "BurntSushi", "forks": 491},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 411, "stars": 6003, "owner": "SergioBenitez", "forks": 391},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 365, "stars": 8926, "owner": "rust-unofficial", "forks": 589},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 362, "stars": 7725, "owner": "sharkdp", "forks": 198},
@@ -22,6 +22,6 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 240, "stars": 4196, "owner": "tikv", "forks": 599},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 222, "stars": 2212, "owner": "amethyst", "forks": 271},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 209, "stars": 3194, "owner": "rust-lang", "forks": 872},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 218, "stars": 15377, "owner": "xi-editor", "forks": 562},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 218, "stars": 15376, "owner": "xi-editor", "forks": 562},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 208, "stars": 3720, "owner": "tokio-rs", "forks": 278}
 ]

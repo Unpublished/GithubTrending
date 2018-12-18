@@ -1,9 +1,9 @@
 [
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 611, "stars": 746, "owner": "MaxBittker", "forks": 27},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 64, "stars": 265, "owner": "rust-analyzer", "forks": 28},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 611, "stars": 754, "owner": "MaxBittker", "forks": 27},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 64, "stars": 268, "owner": "rust-analyzer", "forks": 28},
 {"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 40, "stars": 32577, "owner": "rust-lang", "forks": 5395},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 27, "stars": 6321, "owner": "firecracker-microvm", "forks": 307},
-{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 27, "stars": 1909, "owner": "harababurel", "forks": 52},
+{"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 27, "stars": 1911, "owner": "harababurel", "forks": 52},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 18, "stars": 1206, "owner": "wasmerio", "forks": 31},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 16, "stars": 8921, "owner": "rust-unofficial", "forks": 589},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 13601, "owner": "jwilm", "forks": 584},
@@ -11,7 +11,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 15, "stars": 10880, "owner": "sharkdp", "forks": 197},
 {"description": "Neofetch for your source code", "language": "Rust", "repo": "onefetch", "new_stars": 12, "stars": 110, "owner": "o2sh", "forks": 15},
 {"description": null, "language": "Rust", "repo": "luster", "new_stars": 10, "stars": 94, "owner": "kyren", "forks": 3},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4192, "owner": "tikv", "forks": 597},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4193, "owner": "tikv", "forks": 597},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 9, "stars": 1212, "owner": "cantino", "forks": 23},
 {"description": "Represent large sets and maps compactly with finite state transducers.", "language": "Rust", "repo": "fst", "new_stars": 9, "stars": 572, "owner": "BurntSushi", "forks": 40},
 {"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 9, "stars": 161, "owner": "dpc", "forks": 5},
@@ -21,7 +21,7 @@
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 8, "stars": 273, "owner": "Peltoche", "forks": 10},
 {"description": "Deploy right meow!", "language": "Rust", "repo": "shipcat", "new_stars": 8, "stars": 52, "owner": "Babylonpartners", "forks": 1},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15377, "owner": "xi-editor", "forks": 563},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 3190, "owner": "rust-lang", "forks": 871},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 3191, "owner": "rust-lang", "forks": 871},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 7, "stars": 11953, "owner": "BurntSushi", "forks": 490},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 7, "stars": 1408, "owner": "servo", "forks": 194}
 ]

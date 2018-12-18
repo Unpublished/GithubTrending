@@ -1,15 +1,15 @@
 [
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 795, "stars": 847, "owner": "MaxBittker", "forks": 31},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 795, "stars": 852, "owner": "MaxBittker", "forks": 32},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 256, "stars": 6325, "owner": "firecracker-microvm", "forks": 307},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 32582, "owner": "rust-lang", "forks": 5396},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 32583, "owner": "rust-lang", "forks": 5396},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 137, "stars": 138, "owner": "David-OConnor", "forks": 3},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 121, "stars": 1208, "owner": "wasmerio", "forks": 31},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 114, "stars": 13605, "owner": "jwilm", "forks": 584},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 115, "stars": 273, "owner": "rust-analyzer", "forks": 29},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 115, "stars": 274, "owner": "rust-analyzer", "forks": 29},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 96, "stars": 1215, "owner": "cantino", "forks": 23},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 91, "stars": 6109, "owner": "DenisKolodin", "forks": 219},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 90, "stars": 11956, "owner": "BurntSushi", "forks": 490},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 87, "stars": 10884, "owner": "sharkdp", "forks": 197},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 87, "stars": 10885, "owner": "sharkdp", "forks": 197},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 87, "stars": 274, "owner": "Peltoche", "forks": 10},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 80, "stars": 8923, "owner": "rust-unofficial", "forks": 589},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 71, "stars": 6002, "owner": "SergioBenitez", "forks": 390},
@@ -22,6 +22,6 @@
 {"description": "Create ridiculously fast Lexers", "language": "Rust", "repo": "logos", "new_stars": 48, "stars": 324, "owner": "maciejhirsz", "forks": 12},
 {"description": null, "language": "Rust", "repo": "luster", "new_stars": 50, "stars": 96, "owner": "kyren", "forks": 3},
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 45, "stars": 1912, "owner": "harababurel", "forks": 52},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 40, "stars": 2759, "owner": "mimblewimble", "forks": 456},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 40, "stars": 2760, "owner": "mimblewimble", "forks": 456},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 41, "stars": 3718, "owner": "tokio-rs", "forks": 277}
 ]

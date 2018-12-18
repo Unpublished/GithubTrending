@@ -1,9 +1,9 @@
 [
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 895, "stars": 935, "owner": "MaxBittker", "forks": 38},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 249, "stars": 6336, "owner": "firecracker-microvm", "forks": 309},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 182, "stars": 32588, "owner": "rust-lang", "forks": 5396},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 895, "stars": 937, "owner": "MaxBittker", "forks": 39},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 249, "stars": 6338, "owner": "firecracker-microvm", "forks": 309},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 182, "stars": 32589, "owner": "rust-lang", "forks": 5396},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 137, "stars": 138, "owner": "David-OConnor", "forks": 3},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 122, "stars": 279, "owner": "rust-analyzer", "forks": 29},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 122, "stars": 280, "owner": "rust-analyzer", "forks": 29},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 117, "stars": 13610, "owner": "jwilm", "forks": 584},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 112, "stars": 1208, "owner": "wasmerio", "forks": 31},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 92, "stars": 11961, "owner": "BurntSushi", "forks": 491},
@@ -11,9 +11,9 @@
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 89, "stars": 1218, "owner": "cantino", "forks": 23},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 86, "stars": 275, "owner": "Peltoche", "forks": 10},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 84, "stars": 10890, "owner": "sharkdp", "forks": 197},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 77, "stars": 8924, "owner": "rust-unofficial", "forks": 589},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 77, "stars": 8925, "owner": "rust-unofficial", "forks": 589},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 67, "stars": 7724, "owner": "sharkdp", "forks": 198},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 65, "stars": 6003, "owner": "SergioBenitez", "forks": 390},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 65, "stars": 6003, "owner": "SergioBenitez", "forks": 391},
 {"description": "A crate that helps you make GBA games", "language": "Rust", "repo": "gba", "new_stars": 63, "stars": 98, "owner": "rust-console", "forks": 6},
 {"description": "Easy, transparent, trustless trading of cryptocurrencies using atomic swaps.", "language": "Rust", "repo": "comit-rs", "new_stars": 62, "stars": 65, "owner": "comit-network", "forks": 2},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 52, "stars": 13021, "owner": "servo", "forks": 2025},
@@ -23,5 +23,5 @@
 {"description": null, "language": "Rust", "repo": "luster", "new_stars": 51, "stars": 97, "owner": "kyren", "forks": 3},
 {"description": "a FUSE file system based on Google Drive", "language": "Rust", "repo": "gcsf", "new_stars": 48, "stars": 1915, "owner": "harababurel", "forks": 53},
 {"description": "An SVG rendering library.", "language": "Rust", "repo": "resvg", "new_stars": 46, "stars": 308, "owner": "RazrFalcon", "forks": 16},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 41, "stars": 3720, "owner": "tokio-rs", "forks": 277}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 41, "stars": 3719, "owner": "tokio-rs", "forks": 278}
 ]

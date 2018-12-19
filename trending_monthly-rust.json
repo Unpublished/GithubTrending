@@ -1,15 +1,15 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6346, "stars": 6352, "owner": "firecracker-microvm", "forks": 310},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6346, "stars": 6353, "owner": "firecracker-microvm", "forks": 310},
 {"description": "Fly through your shell history. Great Scott!", "language": "Rust", "repo": "mcfly", "new_stars": 1216, "stars": 1220, "owner": "cantino", "forks": 23},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 1203, "stars": 1212, "owner": "wasmerio", "forks": 31},
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 1032, "stars": 1047, "owner": "MaxBittker", "forks": 46},
-{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 853, "stars": 32596, "owner": "rust-lang", "forks": 5398},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 1032, "stars": 1050, "owner": "MaxBittker", "forks": 46},
+{"description": "A safe, concurrent, practical language.", "language": "Rust", "repo": "rust", "new_stars": 853, "stars": 32595, "owner": "rust-lang", "forks": 5398},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 875, "stars": 1799, "owner": "jmacdonald", "forks": 51},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 793, "stars": 1195, "owner": "bodil", "forks": 23},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 707, "stars": 10899, "owner": "sharkdp", "forks": 197},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 557, "stars": 13615, "owner": "jwilm", "forks": 585},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 707, "stars": 10900, "owner": "sharkdp", "forks": 197},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 557, "stars": 13616, "owner": "jwilm", "forks": 585},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 542, "stars": 544, "owner": "awslabs", "forks": 25},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 494, "stars": 11965, "owner": "BurntSushi", "forks": 491},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 494, "stars": 11966, "owner": "BurntSushi", "forks": 491},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 406, "stars": 6005, "owner": "SergioBenitez", "forks": 391},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 364, "stars": 8930, "owner": "rust-unofficial", "forks": 590},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 369, "stars": 7732, "owner": "sharkdp", "forks": 198},
@@ -23,5 +23,5 @@
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 226, "stars": 2214, "owner": "amethyst", "forks": 271},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 207, "stars": 3196, "owner": "rust-lang", "forks": 872},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 214, "stars": 15377, "owner": "xi-editor", "forks": 562},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 208, "stars": 3723, "owner": "tokio-rs", "forks": 278}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 208, "stars": 3724, "owner": "tokio-rs", "forks": 278}
 ]

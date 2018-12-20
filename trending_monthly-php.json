@@ -1,10 +1,10 @@
 [
 {"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 1562, "stars": 1562, "owner": "beyondcode", "forks": 60},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 811, "stars": 47972, "owner": "laravel", "forks": 14881},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 533, "stars": 15774, "owner": "danielmiessler", "forks": 5687},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 533, "stars": 15775, "owner": "danielmiessler", "forks": 5687},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 498, "stars": 15313, "owner": "laravel", "forks": 6106},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 519, "stars": 17619, "owner": "composer", "forks": 5349},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 484, "stars": 18740, "owner": "fzaninotto", "forks": 2283},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 484, "stars": 18741, "owner": "fzaninotto", "forks": 2283},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 460, "stars": 12990, "owner": "Seldaek", "forks": 1471},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 403, "stars": 12453, "owner": "sebastianbergmann", "forks": 1684},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 332, "stars": 19364, "owner": "symfony", "forks": 6616},
@@ -15,7 +15,7 @@
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 276, "stars": 4882, "owner": "PHPOffice", "forks": 863},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 294, "stars": 5560, "owner": "phpstan", "forks": 375},
 {"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 224, "stars": 2005, "owner": "donwa", "forks": 862},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 208, "stars": 12282, "owner": "PHPMailer", "forks": 6795},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 208, "stars": 12283, "owner": "PHPMailer", "forks": 6795},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 263, "stars": 3988, "owner": "doctrine", "forks": 928},
 {"description": "Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.", "language": "PHP", "repo": "TrustedProxy", "new_stars": 264, "stars": 4432, "owner": "fideloper", "forks": 70},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 262, "stars": 5596, "owner": "symfony", "forks": 152},
@@ -23,5 +23,5 @@
 {"description": "Simple library for creating colored console ouput", "language": "PHP", "repo": "PHP-Console-Color", "new_stars": 261, "stars": 3869, "owner": "JakubOnderka", "forks": 10},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 238, "stars": 5167, "owner": "spatie", "forks": 697},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 187, "stars": 11812, "owner": "WordPress", "forks": 7185},
-{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 222, "stars": 16417, "owner": "domnikl", "forks": 3547}
+{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 222, "stars": 16418, "owner": "domnikl", "forks": 3547}
 ]

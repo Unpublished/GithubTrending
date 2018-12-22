@@ -4,7 +4,7 @@
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 526, "stars": 15789, "owner": "danielmiessler", "forks": 5692},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 488, "stars": 15331, "owner": "laravel", "forks": 6106},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 518, "stars": 17641, "owner": "composer", "forks": 5351},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 477, "stars": 18757, "owner": "fzaninotto", "forks": 2283},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 477, "stars": 18758, "owner": "fzaninotto", "forks": 2283},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 450, "stars": 13003, "owner": "Seldaek", "forks": 1471},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 419, "stars": 15005, "owner": "guzzle", "forks": 1881},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 394, "stars": 12466, "owner": "sebastianbergmann", "forks": 1685},
@@ -14,7 +14,7 @@
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 314, "stars": 6090, "owner": "nextcloud", "forks": 1067},
 {"description": "Swoole MySQL Proxy \u4e00\u4e2a\u57fa\u4e8e MySQL \u534f\u8bae\uff0cSwoole \u5f00\u53d1\u7684MySQL\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u3002 A MySQL database connection pool based on MySQL protocol and Swoole.", "language": "PHP", "repo": "SMProxy", "new_stars": 318, "stars": 515, "owner": "louislivi", "forks": 59},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 272, "stars": 4887, "owner": "PHPOffice", "forks": 865},
-{"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 287, "stars": 3665, "owner": "guzzle", "forks": 154},
+{"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 287, "stars": 3666, "owner": "guzzle", "forks": 154},
 {"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 223, "stars": 2009, "owner": "donwa", "forks": 866},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 276, "stars": 5566, "owner": "phpstan", "forks": 375},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 207, "stars": 12289, "owner": "PHPMailer", "forks": 6799},
@@ -22,6 +22,6 @@
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 259, "stars": 3996, "owner": "doctrine", "forks": 928},
 {"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 230, "stars": 16427, "owner": "domnikl", "forks": 3549},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 259, "stars": 5605, "owner": "symfony", "forks": 152},
-{"description": "Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.", "language": "PHP", "repo": "TrustedProxy", "new_stars": 258, "stars": 4440, "owner": "fideloper", "forks": 70},
+{"description": "Laravel Proxy Package for handling sessions when behind load balancers or other intermediaries.", "language": "PHP", "repo": "TrustedProxy", "new_stars": 258, "stars": 4439, "owner": "fideloper", "forks": 70},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 223, "stars": 5233, "owner": "z-song", "forks": 1460}
 ]

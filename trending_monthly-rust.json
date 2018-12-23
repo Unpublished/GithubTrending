@@ -8,7 +8,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 495, "stars": 13661, "owner": "jwilm", "forks": 586},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 448, "stars": 1802, "owner": "jmacdonald", "forks": 51},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 412, "stars": 12007, "owner": "BurntSushi", "forks": 493},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 373, "stars": 6033, "owner": "SergioBenitez", "forks": 394},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 373, "stars": 6034, "owner": "SergioBenitez", "forks": 395},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 358, "stars": 8976, "owner": "rust-unofficial", "forks": 591},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 314, "stars": 5438, "owner": "ogham", "forks": 165},
 {"description": "An ls with a lot of pretty colors and awesome icons", "language": "Rust", "repo": "lsd", "new_stars": 299, "stars": 299, "owner": "Peltoche", "forks": 13},
@@ -20,7 +20,7 @@
 {"description": "asynchronous networking primitives", "language": "Rust", "repo": "romio", "new_stars": 216, "stars": 217, "owner": "withoutboats", "forks": 12},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 197, "stars": 3211, "owner": "rust-lang", "forks": 884},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 202, "stars": 3750, "owner": "tokio-rs", "forks": 277},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 182, "stars": 2787, "owner": "mimblewimble", "forks": 469},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 182, "stars": 2788, "owner": "mimblewimble", "forks": 469},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 198, "stars": 333, "owner": "rust-analyzer", "forks": 33},
 {"description": "(wip) Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 193, "stars": 340, "owner": "rust-net-web", "forks": 40},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 197, "stars": 15399, "owner": "xi-editor", "forks": 561}

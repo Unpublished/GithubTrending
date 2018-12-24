@@ -1,11 +1,11 @@
 [
-{"description": "A (toy) Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 33, "stars": 40, "owner": "archSeer", "forks": 1},
-{"description": "Command-line tool that breaks rotating-xor (and similar) ciphertexts", "language": "Rust", "repo": "XORcism", "new_stars": 28, "stars": 28, "owner": "BenH11235", "forks": 1},
+{"description": "A (toy) Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 33, "stars": 42, "owner": "archSeer", "forks": 1},
+{"description": "Command-line tool that breaks rotating-xor (and similar) ciphertexts", "language": "Rust", "repo": "XORcism", "new_stars": 28, "stars": 30, "owner": "BenH11235", "forks": 1},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 23, "stars": 2815, "owner": "mimblewimble", "forks": 475},
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 20, "stars": 1273, "owner": "MaxBittker", "forks": 56},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 20, "stars": 1275, "owner": "MaxBittker", "forks": 56},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 8997, "owner": "rust-unofficial", "forks": 593},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 18, "stars": 6485, "owner": "firecracker-microvm", "forks": 319},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 32672, "owner": "rust-lang", "forks": 5404},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 32673, "owner": "rust-lang", "forks": 5404},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 12, "stars": 1319, "owner": "tantivy-search", "forks": 81},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 10, "stars": 1244, "owner": "crossbeam-rs", "forks": 87},
 {"description": "An implementation of Verifiable Delay Functions in Rust", "language": "Rust", "repo": "vdf", "new_stars": 10, "stars": 22, "owner": "poanetwork", "forks": 3},
@@ -19,9 +19,9 @@
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 7, "stars": 2243, "owner": "amethyst", "forks": 273},
 {"description": "Ferrugo is a JVM implementation written in Rust", "language": "Rust", "repo": "ferrugo", "new_stars": 7, "stars": 58, "owner": "maekawatoshiki", "forks": 0},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 2838, "owner": "rust-lang", "forks": 389},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 4230, "owner": "tikv", "forks": 606},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 4231, "owner": "tikv", "forks": 606},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 6, "stars": 2807, "owner": "carllerche", "forks": 341},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 5, "stars": 2365, "owner": "clap-rs", "forks": 242},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 5, "stars": 2366, "owner": "clap-rs", "forks": 242},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 15402, "owner": "xi-editor", "forks": 560},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 5, "stars": 1702, "owner": "autozimu", "forks": 149}
 ]

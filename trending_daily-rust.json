@@ -1,21 +1,21 @@
 [
 {"description": "A (toy) Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 24, "stars": 27, "owner": "archSeer", "forks": 1},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 20, "stars": 8992, "owner": "rust-unofficial", "forks": 593},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 20, "stars": 8994, "owner": "rust-unofficial", "forks": 593},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 32669, "owner": "rust-lang", "forks": 5403},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 18, "stars": 6484, "owner": "firecracker-microvm", "forks": 319},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 18, "stars": 1270, "owner": "MaxBittker", "forks": 56},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 16, "stars": 2804, "owner": "mimblewimble", "forks": 472},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 16, "stars": 2807, "owner": "mimblewimble", "forks": 473},
 {"description": "A rust library to print aligned and formatted tables", "language": "Rust", "repo": "prettytable-rs", "new_stars": 15, "stars": 221, "owner": "phsym", "forks": 26},
 {"description": "Linear algebra library for Rust.", "language": "Rust", "repo": "nalgebra", "new_stars": 11, "stars": 928, "owner": "rustsim", "forks": 131},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 3216, "owner": "rust-lang", "forks": 890},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 12017, "owner": "BurntSushi", "forks": 493},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 10, "stars": 1316, "owner": "tantivy-search", "forks": 81},
 {"description": "An implementation of Verifiable Delay Functions in Rust", "language": "Rust", "repo": "vdf", "new_stars": 10, "stars": 22, "owner": "poanetwork", "forks": 3},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 9, "stars": 13670, "owner": "jwilm", "forks": 588},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 9, "stars": 13671, "owner": "jwilm", "forks": 588},
 {"description": "Ferrugo is a JVM implementation written in Rust", "language": "Rust", "repo": "ferrugo", "new_stars": 9, "stars": 58, "owner": "maekawatoshiki", "forks": 0},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 8, "stars": 1241, "owner": "crossbeam-rs", "forks": 87},
 {"description": "Dose Response is a roguelike in development where you play an addict. Avoid the dangers threatening your mind and body while desperately looking for the next fix.", "language": "Rust", "repo": "dose-response", "new_stars": 8, "stars": 51, "owner": "tryjumping", "forks": 4},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 7, "stars": 5449, "owner": "ogham", "forks": 167},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 7, "stars": 5449, "owner": "ogham", "forks": 168},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 4228, "owner": "tikv", "forks": 606},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 7, "stars": 2240, "owner": "amethyst", "forks": 273},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 7, "stars": 1701, "owner": "autozimu", "forks": 149},
@@ -23,5 +23,5 @@
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 5, "stars": 2363, "owner": "clap-rs", "forks": 242},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 5, "stars": 10957, "owner": "sharkdp", "forks": 197},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 5, "stars": 7774, "owner": "sharkdp", "forks": 199},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 4214, "owner": "hyperium", "forks": 651}
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 4215, "owner": "hyperium", "forks": 651}
 ]

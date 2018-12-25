@@ -1,18 +1,18 @@
 [
-{"description": "A natural language modeling framework based on PyTorch", "language": "Python", "repo": "pytext", "new_stars": 3652, "stars": 3654, "owner": "facebookresearch", "forks": 263},
-{"description": "Free software that works great, and also happens to be open-source Python.", "language": "Python", "repo": "awesome-python-applications", "new_stars": 3074, "stars": 3094, "owner": "mahmoud", "forks": 434},
+{"description": "A natural language modeling framework based on PyTorch", "language": "Python", "repo": "pytext", "new_stars": 3652, "stars": 3655, "owner": "facebookresearch", "forks": 263},
+{"description": "Free software that works great, and also happens to be open-source Python.", "language": "Python", "repo": "awesome-python-applications", "new_stars": 3074, "stars": 3099, "owner": "mahmoud", "forks": 434},
 {"description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b\uff0c\u82f1\u6587\u7248\u5373\u4f2f\u514b\u5229\u6df1\u5ea6\u5b66\u4e60\uff08STAT 157\uff0c2019\u6625\uff09\u6559\u6750\u3002\u9762\u5411\u4e2d\u6587\u8bfb\u8005\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u8ba8\u8bba\u3002", "language": "Python", "repo": "d2l-zh", "new_stars": 2157, "stars": 5580, "owner": "diveintodeeplearning", "forks": 1516},
 {"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 2349, "stars": 2555, "owner": "google", "forks": 107},
 {"description": "Python logging made (stupidly) simple", "language": "Python", "repo": "loguru", "new_stars": 2286, "stars": 2286, "owner": "Delgan", "forks": 61},
-{"description": "TensorFlow code and pre-trained models for BERT", "language": "Python", "repo": "bert", "new_stars": 2021, "stars": 10071, "owner": "google-research", "forks": 1860},
-{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 1617, "stars": 46332, "owner": "tensorflow", "forks": 28216},
-{"description": "\u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee\uff0c\u5e2e\u4f60\u627e\u5230\u7f16\u7a0b\u7684\u4e50\u8da3\u3002\u6b22\u8fce\u63a8\u8350\u3001\u81ea\u8350\u9879\u76ee\uff0c\u8ba9\u66f4\u591a\u4eba\u77e5\u9053\u4f60\u7684\u9879\u76ee", "language": "Python", "repo": "HelloGitHub", "new_stars": 1700, "stars": 8039, "owner": "521xueweihan", "forks": 841},
+{"description": "TensorFlow code and pre-trained models for BERT", "language": "Python", "repo": "bert", "new_stars": 2021, "stars": 10072, "owner": "google-research", "forks": 1860},
+{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 1617, "stars": 46334, "owner": "tensorflow", "forks": 28217},
+{"description": "\u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee\uff0c\u5e2e\u4f60\u627e\u5230\u7f16\u7a0b\u7684\u4e50\u8da3\u3002\u6b22\u8fce\u63a8\u8350\u3001\u81ea\u8350\u9879\u76ee\uff0c\u8ba9\u66f4\u591a\u4eba\u77e5\u9053\u4f60\u7684\u9879\u76ee", "language": "Python", "repo": "HelloGitHub", "new_stars": 1700, "stars": 8042, "owner": "521xueweihan", "forks": 841},
 {"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 1514, "stars": 53848, "owner": "donnemartin", "forks": 7634},
 {"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 1373, "stars": 19652, "owner": "TheAlgorithms", "forks": 5438},
-{"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 1345, "stars": 59072, "owner": "vinta", "forks": 11479},
-{"description": "Deep Learning for humans", "language": "Python", "repo": "keras", "new_stars": 1150, "stars": 36781, "owner": "keras-team", "forks": 14028},
+{"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 1345, "stars": 59073, "owner": "vinta", "forks": 11479},
+{"description": "Deep Learning for humans", "language": "Python", "repo": "keras", "new_stars": 1150, "stars": 36782, "owner": "keras-team", "forks": 14028},
 {"description": "A Python toolbox for performing gradient-free optimization", "language": "Python", "repo": "nevergrad", "new_stars": 1291, "stars": 1291, "owner": "facebookresearch", "forks": 83},
-{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 1231, "stars": 45595, "owner": "toddmotto", "forks": 4727},
+{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 1231, "stars": 45597, "owner": "toddmotto", "forks": 4727},
 {"description": "Command-line program to download videos from YouTube.com and other video sites", "language": "Python", "repo": "youtube-dl", "new_stars": 1126, "stars": 45212, "owner": "rg3", "forks": 7873},
 {"description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.", "language": "Python", "repo": "dgl", "new_stars": 1042, "stars": 1051, "owner": "dmlc", "forks": 95},
 {"description": "Open source home automation that puts local control and privacy first", "language": "Python", "repo": "home-assistant", "new_stars": 914, "stars": 19568, "owner": "home-assistant", "forks": 5744},
@@ -23,5 +23,5 @@
 {"description": "Mapping a variable-length sentence to a fixed-length vector using BERT model", "language": "Python", "repo": "bert-as-service", "new_stars": 846, "stars": 1369, "owner": "hanxiao", "forks": 224},
 {"description": "\u9ad8\u6548\u5fae\u4fe1\u516c\u4f17\u53f7\u5386\u53f2\u6587\u7ae0\u548c\u9605\u8bfb\u6570\u636e\u722c\u866bpowered by scrapy", "language": "Python", "repo": "weixin_crawler", "new_stars": 824, "stars": 824, "owner": "wonderfulsuccess", "forks": 178},
 {"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 711, "stars": 38417, "owner": "django", "forks": 16614},
-{"description": "The Python programming language", "language": "Python", "repo": "cpython", "new_stars": 642, "stars": 21553, "owner": "python", "forks": 8080}
+{"description": "The Python programming language", "language": "Python", "repo": "cpython", "new_stars": 642, "stars": 21555, "owner": "python", "forks": 8080}
 ]

@@ -1,11 +1,11 @@
 [
 {"description": "A (toy) Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 36, "stars": 49, "owner": "archSeer", "forks": 1},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 31, "stars": 2825, "owner": "mimblewimble", "forks": 475},
-{"description": "Command-line tool that breaks rotating-xor (and similar) ciphertexts", "language": "Rust", "repo": "XORcism", "new_stars": 29, "stars": 36, "owner": "BenH11235", "forks": 1},
+{"description": "Command-line tool that breaks rotating-xor (and similar) ciphertexts", "language": "Rust", "repo": "XORcism", "new_stars": 29, "stars": 37, "owner": "BenH11235", "forks": 1},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 24, "stars": 1279, "owner": "MaxBittker", "forks": 56},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 6489, "owner": "firecracker-microvm", "forks": 319},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 17, "stars": 32676, "owner": "rust-lang", "forks": 5404},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 9001, "owner": "rust-unofficial", "forks": 595},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 17, "stars": 32677, "owner": "rust-lang", "forks": 5404},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 9002, "owner": "rust-unofficial", "forks": 595},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 12, "stars": 1320, "owner": "tantivy-search", "forks": 81},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 10, "stars": 10962, "owner": "sharkdp", "forks": 198},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 2246, "owner": "amethyst", "forks": 273},
@@ -22,6 +22,6 @@
 {"description": "Ferrugo is a JVM implementation written in Rust", "language": "Rust", "repo": "ferrugo", "new_stars": 7, "stars": 59, "owner": "maekawatoshiki", "forks": 0},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 4232, "owner": "tikv", "forks": 606},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 2044, "owner": "actix", "forks": 131},
-{"description": "An implementation of Verifiable Delay Functions in Rust", "language": "Rust", "repo": "vdf", "new_stars": 6, "stars": 23, "owner": "poanetwork", "forks": 3},
+{"description": "An implementation of Verifiable Delay Functions in Rust", "language": "Rust", "repo": "vdf", "new_stars": 6, "stars": 24, "owner": "poanetwork", "forks": 3},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 5, "stars": 2839, "owner": "rust-lang", "forks": 389}
 ]

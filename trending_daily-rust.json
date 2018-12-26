@@ -1,13 +1,13 @@
 [
-{"description": "demo for rust asynchronous io: from mio to coroutine", "language": "Rust", "repo": "async-io-demo", "new_stars": 43, "stars": 63, "owner": "Hexilee", "forks": 0},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 32695, "owner": "rust-lang", "forks": 5407},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 15, "stars": 6504, "owner": "firecracker-microvm", "forks": 321},
+{"description": "demo for rust asynchronous io: from mio to coroutine", "language": "Rust", "repo": "async-io-demo", "new_stars": 43, "stars": 65, "owner": "Hexilee", "forks": 0},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 32696, "owner": "rust-lang", "forks": 5407},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 15, "stars": 6505, "owner": "firecracker-microvm", "forks": 321},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 14, "stars": 2263, "owner": "amethyst", "forks": 275},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 14, "stars": 1296, "owner": "MaxBittker", "forks": 57},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 12, "stars": 465, "owner": "pingcap", "forks": 57},
 {"description": "A (toy) Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 12, "stars": 64, "owner": "archSeer", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 13685, "owner": "jwilm", "forks": 591},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 10, "stars": 2838, "owner": "mimblewimble", "forks": 477},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 10, "stars": 2839, "owner": "mimblewimble", "forks": 477},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 15414, "owner": "xi-editor", "forks": 561},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 10, "stars": 9013, "owner": "rust-unofficial", "forks": 595},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 9, "stars": 801, "owner": "fdehau", "forks": 43},
@@ -22,6 +22,6 @@
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 5, "stars": 490, "owner": "nannou-org", "forks": 31},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 5, "stars": 12020, "owner": "BurntSushi", "forks": 494},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 3762, "owner": "tokio-rs", "forks": 277},
-{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 5, "stars": 140, "owner": "lpil", "forks": 5},
+{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 5, "stars": 141, "owner": "lpil", "forks": 5},
 {"description": "Standalone miner for grin", "language": "Rust", "repo": "grin-miner", "new_stars": 5, "stars": 79, "owner": "mimblewimble", "forks": 28}
 ]

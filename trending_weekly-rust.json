@@ -1,5 +1,5 @@
 [
-{"description": "demo for rust asynchronous io: from mio to stackless coroutine", "language": "Rust", "repo": "async-io-demo", "new_stars": 201, "stars": 207, "owner": "Hexilee", "forks": 3},
+{"description": "demo for rust asynchronous io: from mio to stackless coroutine", "language": "Rust", "repo": "async-io-demo", "new_stars": 201, "stars": 208, "owner": "Hexilee", "forks": 3},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 169, "stars": 6617, "owner": "firecracker-microvm", "forks": 330},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 151, "stars": 13797, "owner": "jwilm", "forks": 593},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 143, "stars": 32770, "owner": "rust-lang", "forks": 5419},
@@ -14,7 +14,7 @@
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 65, "stars": 5491, "owner": "ogham", "forks": 169},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 62, "stars": 7823, "owner": "sharkdp", "forks": 205},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 4273, "owner": "tikv", "forks": 614},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 61, "stars": 2292, "owner": "amethyst", "forks": 277},
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 61, "stars": 2293, "owner": "amethyst", "forks": 277},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 61, "stars": 261, "owner": "toshi-search", "forks": 7},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 58, "stars": 6082, "owner": "SergioBenitez", "forks": 398},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 57, "stars": 192, "owner": "lpil", "forks": 5},
@@ -22,6 +22,6 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 50, "stars": 2479, "owner": "gfx-rs", "forks": 308},
 {"description": "Postgres extension library for Rust", "language": "Rust", "repo": "pg-extend-rs", "new_stars": 46, "stars": 47, "owner": "bluejekyll", "forks": 0},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 43, "stars": 2075, "owner": "actix", "forks": 136},
-{"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 43, "stars": 480, "owner": "pingcap", "forks": 61},
+{"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 43, "stars": 481, "owner": "pingcap", "forks": 61},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 45, "stars": 1325, "owner": "wasmerio", "forks": 33}
 ]

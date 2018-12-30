@@ -14,7 +14,7 @@
 {"description": "bypass disable_functions via LD_PRELOA (no need /usr/sbin/sendmail)", "language": "PHP", "repo": "bypass_disablefunc_via_LD_PRELOAD", "new_stars": 7, "stars": 161, "owner": "yangyangwithgnu", "forks": 43},
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 7, "stars": 6355, "owner": "monicahq", "forks": 723},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 7, "stars": 13099, "owner": "Seldaek", "forks": 1475},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 7, "stars": 15431, "owner": "laravel", "forks": 6133},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 7, "stars": 15431, "owner": "laravel", "forks": 6134},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 7, "stars": 11280, "owner": "briannesbitt", "forks": 1040},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 7, "stars": 9703, "owner": "erusev", "forks": 831},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 7, "stars": 5671, "owner": "symfony", "forks": 152},
@@ -22,6 +22,6 @@
 {"description": null, "language": "PHP", "repo": "log", "new_stars": 6, "stars": 5905, "owner": "php-fig", "forks": 116},
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 6, "stars": 3719, "owner": "guzzle", "forks": 152},
 {"description": "Directus 7 Suite \u2014 Future-Proof Headless CMS & API for Custom Databases", "language": "PHP", "repo": "directus", "new_stars": 6, "stars": 3720, "owner": "directus", "forks": 397},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 5, "stars": 6180, "owner": "nextcloud", "forks": 1087},
-{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 5, "stars": 16466, "owner": "domnikl", "forks": 3558}
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 5, "stars": 6179, "owner": "nextcloud", "forks": 1087},
+{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 5, "stars": 16465, "owner": "domnikl", "forks": 3558}
 ]

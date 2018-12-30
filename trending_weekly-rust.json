@@ -2,7 +2,7 @@
 {"description": "demo for rust asynchronous io: from mio to stackless coroutine", "language": "Rust", "repo": "async-io-demo", "new_stars": 207, "stars": 213, "owner": "Hexilee", "forks": 3},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 167, "stars": 6625, "owner": "firecracker-microvm", "forks": 331},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 154, "stars": 13802, "owner": "jwilm", "forks": 594},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 146, "stars": 32778, "owner": "rust-lang", "forks": 5420},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 146, "stars": 32779, "owner": "rust-lang", "forks": 5420},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 123, "stars": 124, "owner": "chmln", "forks": 3},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 115, "stars": 1365, "owner": "MaxBittker", "forks": 57},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 100, "stars": 1405, "owner": "tantivy-search", "forks": 86},
@@ -13,7 +13,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 74, "stars": 11020, "owner": "sharkdp", "forks": 200},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 66, "stars": 2300, "owner": "amethyst", "forks": 277},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 68, "stars": 268, "owner": "toshi-search", "forks": 7},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 64, "stars": 7827, "owner": "sharkdp", "forks": 206},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 64, "stars": 7828, "owner": "sharkdp", "forks": 206},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 4275, "owner": "tikv", "forks": 615},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 60, "stars": 6089, "owner": "SergioBenitez", "forks": 399},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 59, "stars": 194, "owner": "lpil", "forks": 5},
@@ -22,6 +22,6 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 44, "stars": 3249, "owner": "rust-lang", "forks": 902},
 {"description": "Postgres extension library for Rust", "language": "Rust", "repo": "pg-extend-rs", "new_stars": 53, "stars": 53, "owner": "bluejekyll", "forks": 0},
 {"description": "Command-line tool that breaks rotating-xor (and similar) ciphertexts", "language": "Rust", "repo": "XORcism", "new_stars": 52, "stars": 52, "owner": "BenH11235", "forks": 4},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 47, "stars": 13085, "owner": "servo", "forks": 2031},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 47, "stars": 13085, "owner": "servo", "forks": 2032},
 {"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 46, "stars": 54, "owner": "kpcyrd", "forks": 1}
 ]

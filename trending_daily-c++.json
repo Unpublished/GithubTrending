@@ -1,13 +1,13 @@
 [
-{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 672, "stars": 7167, "owner": "MisterBooo", "forks": 686},
-{"description": "Free (as in freedom) open source clone of the Age of Empires II engine", "language": "C++", "repo": "openage", "new_stars": 146, "stars": 8207, "owner": "SFTtech", "forks": 812},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 75, "stars": 117625, "owner": "tensorflow", "forks": 70957},
+{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 672, "stars": 7167, "owner": "MisterBooo", "forks": 687},
+{"description": "Free (as in freedom) open source clone of the Age of Empires II engine", "language": "C++", "repo": "openage", "new_stars": 146, "stars": 8207, "owner": "SFTtech", "forks": 813},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 75, "stars": 117627, "owner": "tensorflow", "forks": 70958},
 {"description": "Angora is a mutation-based fuzzer. The main goal of Angora is to increase branch coverage by solving path constraints without symbolic execution.", "language": "C++", "repo": "Angora", "new_stars": 71, "stars": 219, "owner": "AngoraFuzzer", "forks": 24},
 {"description": "Making C++ cool again, bringing in those expressions from other languages that you wish you had; list comprehension style maps, filters, ranges, etc.", "language": "C++", "repo": "lazyCode", "new_stars": 69, "stars": 110, "owner": "SaadAttieh", "forks": 2},
 {"description": "An experiment with lazily reading indexed files", "language": "C++", "repo": "vroom", "new_stars": 52, "stars": 62, "owner": "jimhester", "forks": 1},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 39, "stars": 68181, "owner": "electron", "forks": 8868},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 39, "stars": 68181, "owner": "electron", "forks": 8867},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 29, "stars": 30607, "owner": "opencv", "forks": 21892},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 30, "stars": 23268, "owner": "pytorch", "forks": 5499},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 30, "stars": 23270, "owner": "pytorch", "forks": 5499},
 {"description": "Facebook AI Research Automatic Speech Recognition Toolkit", "language": "C++", "repo": "wav2letter", "new_stars": 30, "stars": 3018, "owner": "facebookresearch", "forks": 394},
 {"description": "An industrial deep learning framework for high-dimension sparse data", "language": "C++", "repo": "x-deeplearning", "new_stars": 26, "stars": 1744, "owner": "alibaba", "forks": 361},
 {"description": "Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications", "language": "C++", "repo": "pulseeffects", "new_stars": 28, "stars": 753, "owner": "wwmm", "forks": 54},
@@ -18,10 +18,10 @@
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 15, "stars": 36542, "owner": "bitcoin", "forks": 21800},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 20, "stars": 4979, "owner": "fmtlib", "forks": 615},
 {"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 19, "stars": 2711, "owner": "google", "forks": 150},
-{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 16, "stars": 11978, "owner": "ApolloAuto", "forks": 3509},
+{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 16, "stars": 11978, "owner": "ApolloAuto", "forks": 3510},
 {"description": "A C++ standalone library for machine learning", "language": "C++", "repo": "flashlight", "new_stars": 16, "stars": 592, "owner": "facebookresearch", "forks": 51},
 {"description": "\u673a\u5668\u4eba\u89c6\u89c9 \u65e0\u4eba\u9a7e\u9a76 VS-SLAM ORB-SLAM2 \u6df1\u5ea6\u5b66\u4e60\u76ee\u6807\u68c0\u6d4b yolov3 \u884c\u4e3a\u68c0\u6d4b opencv PCL \u673a\u5668\u5b66\u4e60\u79fb\u52a8\u673a\u5668\u4eba", "language": "C++", "repo": "MVision", "new_stars": 16, "stars": 1029, "owner": "Ewenwan", "forks": 485},
 {"description": "C++ front/service proxy", "language": "C++", "repo": "envoy", "new_stars": 15, "stars": 7794, "owner": "envoyproxy", "forks": 1112},
-{"description": "Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.", "language": "C++", "repo": "leela-zero", "new_stars": 16, "stars": 3046, "owner": "gcp", "forks": 620},
-{"description": "SLib - A universal, efficient, light-weight framework for building cross-platform applications on Android/iOS/macOS/Tizen/Win32/Linux platforms, developed by SLIBIO. Based on C++, provides desktop/mobile widgets, OpenGL rendering and networking solutions.", "language": "C++", "repo": "SLib", "new_stars": 11, "stars": 92, "owner": "SLIBIO", "forks": 34}
+{"description": "Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.", "language": "C++", "repo": "leela-zero", "new_stars": 16, "stars": 3047, "owner": "gcp", "forks": 620},
+{"description": "SLib - A universal, efficient, light-weight framework for building cross-platform applications on Android/iOS/macOS/Tizen/Win32/Linux platforms, developed by SLIBIO. Based on C++, provides desktop/mobile widgets, OpenGL rendering and networking solutions.", "language": "C++", "repo": "SLib", "new_stars": 11, "stars": 93, "owner": "SLIBIO", "forks": 34}
 ]

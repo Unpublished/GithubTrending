@@ -1,7 +1,7 @@
 [
 {"description": "demo for rust asynchronous io: from mio to stackless coroutine", "language": "Rust", "repo": "async-io-demo", "new_stars": 208, "stars": 215, "owner": "Hexilee", "forks": 4},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 168, "stars": 6630, "owner": "firecracker-microvm", "forks": 333},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 148, "stars": 32787, "owner": "rust-lang", "forks": 5421},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 148, "stars": 32788, "owner": "rust-lang", "forks": 5421},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 149, "stars": 13801, "owner": "jwilm", "forks": 595},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 126, "stars": 126, "owner": "chmln", "forks": 3},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 116, "stars": 1369, "owner": "MaxBittker", "forks": 57},
@@ -18,10 +18,10 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 59, "stars": 6089, "owner": "SergioBenitez", "forks": 399},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 58, "stars": 5497, "owner": "ogham", "forks": 169},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 59, "stars": 194, "owner": "lpil", "forks": 5},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 57, "stars": 12065, "owner": "BurntSushi", "forks": 495},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 57, "stars": 12065, "owner": "BurntSushi", "forks": 494},
 {"description": "Postgres extension library for Rust", "language": "Rust", "repo": "pg-extend-rs", "new_stars": 55, "stars": 55, "owner": "bluejekyll", "forks": 0},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 45, "stars": 3253, "owner": "rust-lang", "forks": 902},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 52, "stars": 2486, "owner": "gfx-rs", "forks": 308},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 46, "stars": 13085, "owner": "servo", "forks": 2032},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 46, "stars": 13086, "owner": "servo", "forks": 2032},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 47, "stars": 15437, "owner": "xi-editor", "forks": 560}
 ]

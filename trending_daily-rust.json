@@ -1,8 +1,8 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 32787, "owner": "rust-lang", "forks": 5421},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 14, "stars": 6629, "owner": "firecracker-microvm", "forks": 332},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 14, "stars": 6629, "owner": "firecracker-microvm", "forks": 333},
 {"description": "A Rust library for manipulating curves", "language": "Rust", "repo": "kurbo", "new_stars": 14, "stars": 25, "owner": "linebender", "forks": 1},
-{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 13, "stars": 1367, "owner": "MaxBittker", "forks": 57},
+{"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 13, "stars": 1369, "owner": "MaxBittker", "forks": 57},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 13, "stars": 270, "owner": "toshi-search", "forks": 7},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 10, "stars": 3252, "owner": "rust-lang", "forks": 902},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 11, "stars": 2303, "owner": "amethyst", "forks": 277},
@@ -22,6 +22,6 @@
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 7, "stars": 2487, "owner": "rayon-rs", "forks": 170},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 2486, "owner": "gfx-rs", "forks": 308},
 {"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 7, "stars": 182, "owner": "dpc", "forks": 7},
-{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 6, "stars": 1722, "owner": "autozimu", "forks": 152},
+{"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 6, "stars": 1723, "owner": "autozimu", "forks": 152},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 3777, "owner": "tokio-rs", "forks": 280}
 ]

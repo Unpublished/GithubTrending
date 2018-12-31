@@ -1,6 +1,6 @@
 [
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 36, "stars": 204, "owner": "David-OConnor", "forks": 4},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 32815, "owner": "rust-lang", "forks": 5423},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 32816, "owner": "rust-lang", "forks": 5424},
 {"description": "Distributed consensus protocol for replicated state machines", "language": "Rust", "repo": "paxos", "new_stars": 20, "stars": 35, "owner": "nwtnni", "forks": 1},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 6646, "owner": "firecracker-microvm", "forks": 335},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 13816, "owner": "jwilm", "forks": 597},
@@ -12,7 +12,7 @@
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 12, "stars": 217, "owner": "sharkdp", "forks": 6},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 12, "stars": 139, "owner": "chmln", "forks": 4},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3785, "owner": "tokio-rs", "forks": 281},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 8, "stars": 4236, "owner": "hyperium", "forks": 654},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 8, "stars": 4237, "owner": "hyperium", "forks": 654},
 {"description": "Lock free bounded non blocking pub sub queue", "language": "Rust", "repo": "bus-queue", "new_stars": 8, "stars": 26, "owner": "filipdulic", "forks": 4},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 1726, "owner": "rustwasm", "forks": 193},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 4283, "owner": "tikv", "forks": 615},

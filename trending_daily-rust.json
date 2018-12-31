@@ -1,7 +1,7 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 32806, "owner": "rust-lang", "forks": 5423},
-{"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 25, "stars": 193, "owner": "David-OConnor", "forks": 4},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 18, "stars": 6640, "owner": "firecracker-microvm", "forks": 334},
+{"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 25, "stars": 194, "owner": "David-OConnor", "forks": 4},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 18, "stars": 6641, "owner": "firecracker-microvm", "forks": 335},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 16, "stars": 2314, "owner": "amethyst", "forks": 278},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 14, "stars": 7840, "owner": "sharkdp", "forks": 205},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 12, "stars": 13811, "owner": "jwilm", "forks": 597},
@@ -17,7 +17,7 @@
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 8, "stars": 1776, "owner": "maps4print", "forks": 39},
 {"description": "Postgres extension library for Rust", "language": "Rust", "repo": "pg-extend-rs", "new_stars": 8, "stars": 61, "owner": "bluejekyll", "forks": 0},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 7, "stars": 2883, "owner": "mimblewimble", "forks": 490},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 7, "stars": 1334, "owner": "wasmerio", "forks": 33},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 7, "stars": 1335, "owner": "wasmerio", "forks": 33},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 6, "stars": 1265, "owner": "crossbeam-rs", "forks": 88},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 6, "stars": 2223, "owner": "sharkdp", "forks": 43},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 6, "stars": 1983, "owner": "rust-lang", "forks": 379},

@@ -5,15 +5,15 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 20, "stars": 11068, "owner": "sharkdp", "forks": 202},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 17, "stars": 4307, "owner": "tikv", "forks": 617},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 13844, "owner": "jwilm", "forks": 597},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 12095, "owner": "BurntSushi", "forks": 494},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 12096, "owner": "BurntSushi", "forks": 494},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 6206, "owner": "DenisKolodin", "forks": 227},
 {"description": "Bare-metal Raspberry Pi 3 tutorials in Rust", "language": "Rust", "repo": "rust-raspi3-tutorial", "new_stars": 14, "stars": 259, "owner": "rust-embedded", "forks": 11},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 12, "stars": 2909, "owner": "mimblewimble", "forks": 498},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9092, "owner": "rust-unofficial", "forks": 601},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9093, "owner": "rust-unofficial", "forks": 601},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 12, "stars": 2242, "owner": "sharkdp", "forks": 44},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 12, "stars": 1370, "owner": "wasmerio", "forks": 33},
 {"description": "Nintendo 64 emulator (written in Rust)", "language": "Rust", "repo": "r64emu", "new_stars": 12, "stars": 50, "owner": "rasky", "forks": 3},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 11, "stars": 7866, "owner": "sharkdp", "forks": 205},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 11, "stars": 7867, "owner": "sharkdp", "forks": 205},
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 11, "stars": 35, "owner": "indygreg", "forks": 2},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 10, "stars": 2502, "owner": "gfx-rs", "forks": 308},
 {"description": "UNIC: Unicode and Internationalization Crates for Rust", "language": "Rust", "repo": "rust-unic", "new_stars": 10, "stars": 92, "owner": "open-i18n", "forks": 13},
@@ -23,5 +23,5 @@
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 8, "stars": 4504, "owner": "uutils", "forks": 396},
 {"description": null, "language": "Rust", "repo": "ld39", "new_stars": 8, "stars": 22, "owner": "agmcleod", "forks": 0},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 4457, "owner": "mre", "forks": 522},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 6109, "owner": "SergioBenitez", "forks": 399}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 6110, "owner": "SergioBenitez", "forks": 399}
 ]

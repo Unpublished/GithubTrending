@@ -1,7 +1,7 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 32878, "owner": "rust-lang", "forks": 5437},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 32880, "owner": "rust-lang", "forks": 5437},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 140, "stars": 6710, "owner": "firecracker-microvm", "forks": 346},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 95, "stars": 13853, "owner": "jwilm", "forks": 595},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 95, "stars": 13855, "owner": "jwilm", "forks": 595},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 91, "stars": 11081, "owner": "sharkdp", "forks": 202},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 92, "stars": 170, "owner": "chmln", "forks": 4},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 83, "stars": 7876, "owner": "sharkdp", "forks": 205},
@@ -9,7 +9,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 72, "stars": 9103, "owner": "rust-unofficial", "forks": 602},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 70, "stars": 12110, "owner": "BurntSushi", "forks": 494},
 {"description": "Postgres extension library for Rust", "language": "Rust", "repo": "pg-extend-rs", "new_stars": 70, "stars": 70, "owner": "bluejekyll", "forks": 1},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 63, "stars": 2340, "owner": "amethyst", "forks": 281},
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 63, "stars": 2341, "owner": "amethyst", "forks": 281},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 63, "stars": 225, "owner": "David-OConnor", "forks": 7},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 57, "stars": 2910, "owner": "mimblewimble", "forks": 499},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 61, "stars": 4312, "owner": "tikv", "forks": 618},
@@ -18,10 +18,10 @@
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 54, "stars": 1384, "owner": "MaxBittker", "forks": 61},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 53, "stars": 6208, "owner": "DenisKolodin", "forks": 227},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 53, "stars": 2504, "owner": "gfx-rs", "forks": 309},
-{"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 50, "stars": 57, "owner": "indygreg", "forks": 5},
+{"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 50, "stars": 58, "owner": "indygreg", "forks": 5},
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 50, "stars": 1540, "owner": "gluon-lang", "forks": 87},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 50, "stars": 5519, "owner": "ogham", "forks": 169},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 43, "stars": 3271, "owner": "rust-lang", "forks": 911},
-{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 47, "stars": 1583, "owner": "citybound", "forks": 78},
+{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 47, "stars": 1584, "owner": "citybound", "forks": 78},
 {"description": "Distributed consensus protocol for replicated state machines", "language": "Rust", "repo": "paxos", "new_stars": 42, "stars": 42, "owner": "nwtnni", "forks": 0}
 ]

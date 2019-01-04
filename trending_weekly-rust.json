@@ -1,12 +1,12 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 32887, "owner": "rust-lang", "forks": 5438},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 139, "stars": 6724, "owner": "firecracker-microvm", "forks": 347},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 124, "stars": 2990, "owner": "mimblewimble", "forks": 503},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 32888, "owner": "rust-lang", "forks": 5438},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 139, "stars": 6725, "owner": "firecracker-microvm", "forks": 347},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 124, "stars": 2993, "owner": "mimblewimble", "forks": 503},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 98, "stars": 11092, "owner": "sharkdp", "forks": 202},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 89, "stars": 13861, "owner": "jwilm", "forks": 596},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 7886, "owner": "sharkdp", "forks": 205},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 81, "stars": 175, "owner": "chmln", "forks": 4},
-{"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 76, "stars": 81, "owner": "indygreg", "forks": 6},
+{"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 76, "stars": 82, "owner": "indygreg", "forks": 6},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 78, "stars": 12121, "owner": "BurntSushi", "forks": 494},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 78, "stars": 278, "owner": "toshi-search", "forks": 7},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 71, "stars": 9107, "owner": "rust-unofficial", "forks": 605},
@@ -22,6 +22,6 @@
 {"description": "A static, type inferred and embeddable language written in Rust.", "language": "Rust", "repo": "gluon", "new_stars": 48, "stars": 1539, "owner": "gluon-lang", "forks": 87},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 45, "stars": 2506, "owner": "gfx-rs", "forks": 309},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 44, "stars": 1385, "owner": "MaxBittker", "forks": 61},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 45, "stars": 5522, "owner": "ogham", "forks": 170},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 45, "stars": 5523, "owner": "ogham", "forks": 170},
 {"description": "Distributed consensus protocol for replicated state machines", "language": "Rust", "repo": "paxos", "new_stars": 42, "stars": 42, "owner": "nwtnni", "forks": 0}
 ]

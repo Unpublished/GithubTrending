@@ -1,18 +1,18 @@
 [
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 45, "stars": 78, "owner": "indygreg", "forks": 6},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 41, "stars": 2974, "owner": "mimblewimble", "forks": 500},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 41, "stars": 2978, "owner": "mimblewimble", "forks": 500},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 6724, "owner": "firecracker-microvm", "forks": 347},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 26, "stars": 12120, "owner": "BurntSushi", "forks": 494},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 11092, "owner": "sharkdp", "forks": 202},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 21, "stars": 13859, "owner": "jwilm", "forks": 596},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 32886, "owner": "rust-lang", "forks": 5438},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 32887, "owner": "rust-lang", "forks": 5438},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 19, "stars": 7886, "owner": "sharkdp", "forks": 205},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 17, "stars": 1589, "owner": "citybound", "forks": 78},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 9107, "owner": "rust-unofficial", "forks": 603},
-{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 11, "stars": 198, "owner": "dpc", "forks": 9},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 11, "stars": 4315, "owner": "tikv", "forks": 620},
-{"description": "UNIC: Unicode and Internationalization Crates for Rust", "language": "Rust", "repo": "rust-unic", "new_stars": 11, "stars": 102, "owner": "open-i18n", "forks": 13},
-{"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 10, "stars": 174, "owner": "chmln", "forks": 4},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 9107, "owner": "rust-unofficial", "forks": 604},
+{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 11, "stars": 199, "owner": "dpc", "forks": 9},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 11, "stars": 4316, "owner": "tikv", "forks": 620},
+{"description": "UNIC: Unicode and Internationalization Crates for Rust", "language": "Rust", "repo": "rust-unic", "new_stars": 11, "stars": 103, "owner": "open-i18n", "forks": 13},
+{"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 10, "stars": 175, "owner": "chmln", "forks": 4},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 6118, "owner": "SergioBenitez", "forks": 400},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 2343, "owner": "amethyst", "forks": 281},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 8, "stars": 5522, "owner": "ogham", "forks": 170},
@@ -23,5 +23,5 @@
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 6, "stars": 5106, "owner": "paritytech", "forks": 1158},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 6, "stars": 15456, "owner": "xi-editor", "forks": 560},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 6, "stars": 6210, "owner": "DenisKolodin", "forks": 227},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3854, "owner": "rust-lang", "forks": 871}
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3853, "owner": "rust-lang", "forks": 871}
 ]

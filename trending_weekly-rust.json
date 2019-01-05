@@ -1,13 +1,13 @@
 [
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 268, "stars": 3139, "owner": "mimblewimble", "forks": 510},
-{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 234, "stars": 424, "owner": "dpc", "forks": 12},
+{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 234, "stars": 427, "owner": "dpc", "forks": 12},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 166, "stars": 32914, "owner": "rust-lang", "forks": 5444},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 147, "stars": 6755, "owner": "firecracker-microvm", "forks": 353},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 119, "stars": 11130, "owner": "sharkdp", "forks": 202},
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 114, "stars": 123, "owner": "indygreg", "forks": 7},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 93, "stars": 13875, "owner": "jwilm", "forks": 596},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 95, "stars": 7911, "owner": "sharkdp", "forks": 205},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 85, "stars": 12143, "owner": "BurntSushi", "forks": 496},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 85, "stars": 12144, "owner": "BurntSushi", "forks": 496},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 75, "stars": 9119, "owner": "rust-unofficial", "forks": 607},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 71, "stars": 2360, "owner": "amethyst", "forks": 284},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 71, "stars": 191, "owner": "chmln", "forks": 4},
@@ -22,6 +22,6 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 6218, "owner": "DenisKolodin", "forks": 227},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 44, "stars": 3280, "owner": "rust-lang", "forks": 915},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 48, "stars": 2263, "owner": "sharkdp", "forks": 44},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 46, "stars": 15470, "owner": "xi-editor", "forks": 562},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 46, "stars": 15469, "owner": "xi-editor", "forks": 562},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 44, "stars": 3812, "owner": "tokio-rs", "forks": 281}
 ]

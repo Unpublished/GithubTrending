@@ -1,18 +1,18 @@
 [
-{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 293, "stars": 475, "owner": "dpc", "forks": 14},
+{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 293, "stars": 476, "owner": "dpc", "forks": 14},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 279, "stars": 3152, "owner": "mimblewimble", "forks": 511},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 32927, "owner": "rust-lang", "forks": 5446},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 151, "stars": 6764, "owner": "firecracker-microvm", "forks": 353},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 32926, "owner": "rust-lang", "forks": 5446},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 151, "stars": 6765, "owner": "firecracker-microvm", "forks": 353},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 121, "stars": 11138, "owner": "sharkdp", "forks": 202},
-{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 118, "stars": 637, "owner": "mit-pdos", "forks": 24},
+{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 118, "stars": 645, "owner": "mit-pdos", "forks": 24},
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 114, "stars": 128, "owner": "indygreg", "forks": 7},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 99, "stars": 13887, "owner": "jwilm", "forks": 596},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 93, "stars": 7915, "owner": "sharkdp", "forks": 205},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 89, "stars": 12149, "owner": "BurntSushi", "forks": 497},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 78, "stars": 9126, "owner": "rust-unofficial", "forks": 610},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 89, "stars": 12150, "owner": "BurntSushi", "forks": 497},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 78, "stars": 9127, "owner": "rust-unofficial", "forks": 610},
 {"description": "A utf8 text rope for manipulating and editing large texts.", "language": "Rust", "repo": "ropey", "new_stars": 76, "stars": 228, "owner": "cessen", "forks": 3},
 {"description": "A low level regular expression library that uses deterministic finite automata.", "language": "Rust", "repo": "regex-automata", "new_stars": 75, "stars": 75, "owner": "BurntSushi", "forks": 1},
-{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 70, "stars": 2365, "owner": "amethyst", "forks": 284},
+{"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 70, "stars": 2366, "owner": "amethyst", "forks": 284},
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 72, "stars": 194, "owner": "chmln", "forks": 4},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 62, "stars": 4335, "owner": "tikv", "forks": 622},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 62, "stars": 1385, "owner": "wasmerio", "forks": 32},
@@ -23,5 +23,5 @@
 {"description": "An abstraction for 2D graphics.", "language": "Rust", "repo": "piet", "new_stars": 51, "stars": 51, "owner": "linebender", "forks": 2},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 49, "stars": 6223, "owner": "DenisKolodin", "forks": 227},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 48, "stars": 2263, "owner": "sharkdp", "forks": 44},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 46, "stars": 15472, "owner": "xi-editor", "forks": 562}
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 46, "stars": 15473, "owner": "xi-editor", "forks": 562}
 ]

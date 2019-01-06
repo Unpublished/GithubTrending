@@ -1,14 +1,14 @@
 [
-{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 104, "stars": 470, "owner": "dpc", "forks": 14},
-{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 85, "stars": 612, "owner": "mit-pdos", "forks": 24},
+{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 104, "stars": 472, "owner": "dpc", "forks": 14},
+{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 85, "stars": 616, "owner": "mit-pdos", "forks": 24},
 {"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 35, "stars": 613, "owner": "jhspetersson", "forks": 14},
 {"description": "A low level regular expression library that uses deterministic finite automata.", "language": "Rust", "repo": "regex-automata", "new_stars": 22, "stars": 73, "owner": "BurntSushi", "forks": 1},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 32924, "owner": "rust-lang", "forks": 5446},
 {"description": "High performance JavaScript to JavaScript compiler with a Rust core", "language": "Rust", "repo": "ratel-core", "new_stars": 21, "stars": 217, "owner": "ratel-rust", "forks": 14},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 20, "stars": 3150, "owner": "mimblewimble", "forks": 510},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 20, "stars": 3151, "owner": "mimblewimble", "forks": 510},
 {"description": "An abstraction for 2D graphics.", "language": "Rust", "repo": "piet", "new_stars": 20, "stars": 51, "owner": "linebender", "forks": 2},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 19, "stars": 6763, "owner": "firecracker-microvm", "forks": 353},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 13882, "owner": "jwilm", "forks": 596},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 13884, "owner": "jwilm", "forks": 596},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 16, "stars": 11135, "owner": "sharkdp", "forks": 202},
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 16, "stars": 128, "owner": "indygreg", "forks": 7},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 13, "stars": 6141, "owner": "SergioBenitez", "forks": 403},
@@ -21,7 +21,7 @@
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 10, "stars": 194, "owner": "chmln", "forks": 4},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 9, "stars": 2516, "owner": "gfx-rs", "forks": 309},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 2365, "owner": "amethyst", "forks": 284},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 8, "stars": 4332, "owner": "tikv", "forks": 622},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 8, "stars": 4333, "owner": "tikv", "forks": 622},
 {"description": "Specs - Parallel ECS", "language": "Rust", "repo": "specs", "new_stars": 8, "stars": 938, "owner": "slide-rs", "forks": 102},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 6, "stars": 389, "owner": "rust-analyzer", "forks": 39}
 ]

@@ -1,9 +1,9 @@
 [
 {"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 881, "stars": 1670, "owner": "beyondcode", "forks": 68},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 727, "stars": 48247, "owner": "laravel", "forks": 14991},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 431, "stars": 15498, "owner": "laravel", "forks": 6149},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 727, "stars": 48247, "owner": "laravel", "forks": 14990},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 431, "stars": 15499, "owner": "laravel", "forks": 6149},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 396, "stars": 15952, "owner": "danielmiessler", "forks": 5773},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 443, "stars": 17790, "owner": "composer", "forks": 5365},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 443, "stars": 17791, "owner": "composer", "forks": 5365},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 409, "stars": 18899, "owner": "fzaninotto", "forks": 2294},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 414, "stars": 13172, "owner": "Seldaek", "forks": 1475},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 360, "stars": 6251, "owner": "nextcloud", "forks": 1094},
@@ -18,10 +18,10 @@
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 258, "stars": 8326, "owner": "thephpleague", "forks": 486},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 257, "stars": 5665, "owner": "phpstan", "forks": 381},
 {"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible.", "language": "PHP", "repo": "twill", "new_stars": 248, "stars": 864, "owner": "area17", "forks": 52},
-{"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 245, "stars": 7022, "owner": "swiftmailer", "forks": 724},
-{"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 248, "stars": 5722, "owner": "symfony", "forks": 152},
-{"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 198, "stars": 2102, "owner": "donwa", "forks": 901},
+{"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 245, "stars": 7023, "owner": "swiftmailer", "forks": 724},
+{"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 248, "stars": 5723, "owner": "symfony", "forks": 152},
+{"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 198, "stars": 2103, "owner": "donwa", "forks": 902},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 240, "stars": 6888, "owner": "mockery", "forks": 340},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 233, "stars": 8550, "owner": "vlucas", "forks": 405},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 233, "stars": 8551, "owner": "vlucas", "forks": 405},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 181, "stars": 11868, "owner": "WordPress", "forks": 7210}
 ]

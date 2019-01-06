@@ -10,7 +10,7 @@
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 363, "stars": 15144, "owner": "guzzle", "forks": 1890},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 353, "stars": 8963, "owner": "nikic", "forks": 570},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 349, "stars": 12594, "owner": "sebastianbergmann", "forks": 1685},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 282, "stars": 19485, "owner": "symfony", "forks": 6644},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 282, "stars": 19486, "owner": "symfony", "forks": 6644},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 312, "stars": 11326, "owner": "briannesbitt", "forks": 1044},
 {"description": "A high-level machine learning library that allows you to build programs that learn from data using the PHP language.", "language": "PHP", "repo": "RubixML", "new_stars": 278, "stars": 284, "owner": "RubixML", "forks": 11},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 252, "stars": 5005, "owner": "PHPOffice", "forks": 886},
@@ -23,5 +23,5 @@
 {"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 196, "stars": 2104, "owner": "donwa", "forks": 902},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 240, "stars": 6888, "owner": "mockery", "forks": 340},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 234, "stars": 8552, "owner": "vlucas", "forks": 405},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 180, "stars": 11868, "owner": "WordPress", "forks": 7210}
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 180, "stars": 11869, "owner": "WordPress", "forks": 7210}
 ]

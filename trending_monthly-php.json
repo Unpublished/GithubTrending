@@ -1,8 +1,8 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 717, "stars": 48251, "owner": "laravel", "forks": 14996},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 717, "stars": 48251, "owner": "laravel", "forks": 14997},
 {"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 671, "stars": 1681, "owner": "beyondcode", "forks": 68},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 426, "stars": 15504, "owner": "laravel", "forks": 6149},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 389, "stars": 15956, "owner": "danielmiessler", "forks": 5777},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 389, "stars": 15957, "owner": "danielmiessler", "forks": 5778},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 432, "stars": 17795, "owner": "composer", "forks": 5364},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 401, "stars": 18902, "owner": "fzaninotto", "forks": 2292},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 403, "stars": 13176, "owner": "Seldaek", "forks": 1474},
@@ -23,5 +23,5 @@
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 236, "stars": 8558, "owner": "vlucas", "forks": 405},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 237, "stars": 7026, "owner": "swiftmailer", "forks": 724},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 237, "stars": 6889, "owner": "mockery", "forks": 340},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 176, "stars": 11871, "owner": "WordPress", "forks": 7211}
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 176, "stars": 11872, "owner": "WordPress", "forks": 7211}
 ]

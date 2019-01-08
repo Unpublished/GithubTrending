@@ -1,13 +1,13 @@
 [
-{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 360, "stars": 869, "owner": "mit-pdos", "forks": 30},
-{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 336, "stars": 520, "owner": "dpc", "forks": 19},
+{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 360, "stars": 871, "owner": "mit-pdos", "forks": 30},
+{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 336, "stars": 521, "owner": "dpc", "forks": 19},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 295, "stars": 3177, "owner": "mimblewimble", "forks": 516},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 171, "stars": 32967, "owner": "rust-lang", "forks": 5447},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 177, "stars": 11207, "owner": "sharkdp", "forks": 203},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 171, "stars": 32969, "owner": "rust-lang", "forks": 5448},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 177, "stars": 11208, "owner": "sharkdp", "forks": 203},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 150, "stars": 6788, "owner": "firecracker-microvm", "forks": 356},
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 132, "stars": 154, "owner": "indygreg", "forks": 7},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 122, "stars": 7961, "owner": "sharkdp", "forks": 205},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 114, "stars": 12180, "owner": "BurntSushi", "forks": 496},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 114, "stars": 12181, "owner": "BurntSushi", "forks": 496},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 107, "stars": 13912, "owner": "jwilm", "forks": 597},
 {"description": "A lock-free, eventually consistent, concurrent multi-value map.", "language": "Rust", "repo": "rust-evmap", "new_stars": 103, "stars": 266, "owner": "jonhoo", "forks": 8},
 {"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 101, "stars": 674, "owner": "jhspetersson", "forks": 14},
@@ -23,5 +23,5 @@
 {"description": "Intuitive find & replace CLI", "language": "Rust", "repo": "sd", "new_stars": 59, "stars": 199, "owner": "chmln", "forks": 4},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 56, "stars": 2280, "owner": "sharkdp", "forks": 45},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 54, "stars": 15487, "owner": "xi-editor", "forks": 562},
-{"description": "The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly", "language": "Rust", "repo": "webgl-water-tutorial", "new_stars": 49, "stars": 56, "owner": "chinedufn", "forks": 3}
+{"description": "The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly", "language": "Rust", "repo": "webgl-water-tutorial", "new_stars": 49, "stars": 58, "owner": "chinedufn", "forks": 3}
 ]

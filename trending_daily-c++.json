@@ -1,16 +1,16 @@
 [
-{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 377, "stars": 9239, "owner": "MisterBooo", "forks": 951},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 118, "stars": 118153, "owner": "tensorflow", "forks": 71168},
+{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 377, "stars": 9250, "owner": "MisterBooo", "forks": 951},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 118, "stars": 118153, "owner": "tensorflow", "forks": 71169},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 64, "stars": 23611, "owner": "pytorch", "forks": 5594},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 63, "stars": 68502, "owner": "electron", "forks": 8916},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 63, "stars": 68506, "owner": "electron", "forks": 8916},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 49, "stars": 30883, "owner": "opencv", "forks": 22064},
-{"description": "Zep - An embeddable editor, with optional support for using vim keystrokes.", "language": "C++", "repo": "zep", "new_stars": 63, "stars": 146, "owner": "cmaughan", "forks": 5},
+{"description": "Zep - An embeddable editor, with optional support for using vim keystrokes.", "language": "C++", "repo": "zep", "new_stars": 63, "stars": 147, "owner": "cmaughan", "forks": 5},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 38, "stars": 31354, "owner": "protocolbuffers", "forks": 8625},
 {"description": "Decomposing a image into layers via \"color unblending\"", "language": "C++", "repo": "unblending", "new_stars": 33, "stars": 40, "owner": "yuki-koyama", "forks": 2},
-{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 23, "stars": 12097, "owner": "ApolloAuto", "forks": 3568},
+{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 23, "stars": 12100, "owner": "ApolloAuto", "forks": 3569},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 28, "stars": 23571, "owner": "tesseract-ocr", "forks": 4624},
 {"description": "Cryptocurrency for world adoption.", "language": "C++", "repo": "energi", "new_stars": 29, "stars": 1125, "owner": "energicryptocurrency", "forks": 21868},
-{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 27, "stars": 6145, "owner": "yuzu-emu", "forks": 385},
+{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 27, "stars": 6146, "owner": "yuzu-emu", "forks": 385},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 22, "stars": 36684, "owner": "bitcoin", "forks": 21868},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 24, "stars": 10606, "owner": "CMU-Perceptual-Computing-Lab", "forks": 2895},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 25, "stars": 18594, "owner": "godotengine", "forks": 3771},
@@ -20,8 +20,8 @@
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 21, "stars": 10651, "owner": "uglide", "forks": 1664},
 {"description": "An open-source music and rhythm game.", "language": "C++", "repo": "performous", "new_stars": 24, "stars": 258, "owner": "performous", "forks": 82},
 {"description": "C++ front/service proxy", "language": "C++", "repo": "envoy", "new_stars": 22, "stars": 7916, "owner": "envoyproxy", "forks": 1137},
-{"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.", "language": "C++", "repo": "MMKV", "new_stars": 22, "stars": 6066, "owner": "Tencent", "forks": 567},
+{"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on iOS, Android, macOS and Windows.", "language": "C++", "repo": "MMKV", "new_stars": 22, "stars": 6067, "owner": "Tencent", "forks": 567},
 {"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 18, "stars": 26739, "owner": "BVLC", "forks": 16237},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 19, "stars": 46267, "owner": "apple", "forks": 7335},
-{"description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more", "language": "C++", "repo": "incubator-mxnet", "new_stars": 17, "stars": 15969, "owner": "apache", "forks": 5788}
+{"description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more", "language": "C++", "repo": "incubator-mxnet", "new_stars": 17, "stars": 15970, "owner": "apache", "forks": 5788}
 ]

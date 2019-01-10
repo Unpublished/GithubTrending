@@ -1,12 +1,12 @@
 [
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 1536, "stars": 1932, "owner": "sharkdp", "forks": 35},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 1536, "stars": 1961, "owner": "sharkdp", "forks": 35},
 {"description": "Slice and dice logs on the command line", "language": "Rust", "repo": "angle-grinder", "new_stars": 75, "stars": 528, "owner": "rcoh", "forks": 12},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 61, "stars": 8060, "owner": "sharkdp", "forks": 208},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 61, "stars": 8061, "owner": "sharkdp", "forks": 208},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 47, "stars": 6881, "owner": "firecracker-microvm", "forks": 363},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 38, "stars": 2336, "owner": "sharkdp", "forks": 49},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 36, "stars": 12248, "owner": "BurntSushi", "forks": 497},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 33041, "owner": "rust-lang", "forks": 5456},
-{"description": "A simple implementation of the Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 30, "stars": 135, "owner": "archSeer", "forks": 5},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 38, "stars": 2337, "owner": "sharkdp", "forks": 49},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 36, "stars": 12249, "owner": "BurntSushi", "forks": 497},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 33042, "owner": "rust-lang", "forks": 5456},
+{"description": "A simple implementation of the Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 30, "stars": 136, "owner": "archSeer", "forks": 5},
 {"description": "Parse command line argument by defining a struct.", "language": "Rust", "repo": "structopt", "new_stars": 27, "stars": 730, "owner": "TeXitoi", "forks": 44},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 20, "stars": 3232, "owner": "mimblewimble", "forks": 526},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 9172, "owner": "rust-unofficial", "forks": 611},
@@ -22,6 +22,6 @@
 {"description": "\u300aRust\u7f16\u7a0b\u4e4b\u9053\u300b\u968f\u4e66\u6e90\u7801", "language": "Rust", "repo": "tao-of-rust-codes", "new_stars": 11, "stars": 201, "owner": "ZhangHanDong", "forks": 16},
 {"description": "Make distributable Python applications using Rust", "language": "Rust", "repo": "PyOxidizer", "new_stars": 11, "stars": 186, "owner": "indygreg", "forks": 8},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 10, "stars": 3024, "owner": "actix", "forks": 211},
-{"description": "Standalone miner for grin", "language": "Rust", "repo": "grin-miner", "new_stars": 9, "stars": 126, "owner": "mimblewimble", "forks": 48},
+{"description": "Standalone miner for grin", "language": "Rust", "repo": "grin-miner", "new_stars": 9, "stars": 127, "owner": "mimblewimble", "forks": 48},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 6178, "owner": "SergioBenitez", "forks": 402}
 ]

@@ -1,13 +1,13 @@
 [
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 1734, "stars": 2049, "owner": "sharkdp", "forks": 37},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 1734, "stars": 2070, "owner": "sharkdp", "forks": 38},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 883, "stars": 6883, "owner": "firecracker-microvm", "forks": 363},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 738, "stars": 33043, "owner": "rust-lang", "forks": 5456},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 738, "stars": 33045, "owner": "rust-lang", "forks": 5456},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 534, "stars": 3233, "owner": "mimblewimble", "forks": 527},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 512, "stars": 13946, "owner": "jwilm", "forks": 599},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 450, "stars": 914, "owner": "mit-pdos", "forks": 30},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 434, "stars": 8070, "owner": "sharkdp", "forks": 208},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 434, "stars": 8071, "owner": "sharkdp", "forks": 208},
 {"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 430, "stars": 548, "owner": "dpc", "forks": 20},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 407, "stars": 12251, "owner": "BurntSushi", "forks": 498},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 407, "stars": 12252, "owner": "BurntSushi", "forks": 499},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 365, "stars": 9172, "owner": "rust-unofficial", "forks": 612},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 372, "stars": 1400, "owner": "wasmerio", "forks": 32},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 290, "stars": 5596, "owner": "ogham", "forks": 171},
@@ -23,5 +23,5 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 176, "stars": 4497, "owner": "mre", "forks": 528},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 181, "stars": 2340, "owner": "sharkdp", "forks": 49},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 172, "stars": 2539, "owner": "gfx-rs", "forks": 313},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 169, "stars": 3832, "owner": "tokio-rs", "forks": 287}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 169, "stars": 3833, "owner": "tokio-rs", "forks": 287}
 ]

@@ -1,8 +1,8 @@
 [
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 1369, "stars": 1812, "owner": "sharkdp", "forks": 32},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 1369, "stars": 1834, "owner": "sharkdp", "forks": 33},
 {"description": "Slice and dice logs on the command line", "language": "Rust", "repo": "angle-grinder", "new_stars": 64, "stars": 518, "owner": "rcoh", "forks": 12},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 57, "stars": 8056, "owner": "sharkdp", "forks": 208},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 51, "stars": 6877, "owner": "firecracker-microvm", "forks": 362},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 57, "stars": 8057, "owner": "sharkdp", "forks": 208},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 51, "stars": 6878, "owner": "firecracker-microvm", "forks": 363},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 33, "stars": 2335, "owner": "sharkdp", "forks": 49},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 32, "stars": 12246, "owner": "BurntSushi", "forks": 497},
 {"description": "A simple implementation of the Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 31, "stars": 135, "owner": "archSeer", "forks": 5},
@@ -10,7 +10,7 @@
 {"description": "Parse command line argument by defining a struct.", "language": "Rust", "repo": "structopt", "new_stars": 26, "stars": 728, "owner": "TeXitoi", "forks": 44},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 22, "stars": 3227, "owner": "mimblewimble", "forks": 526},
 {"description": "The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly", "language": "Rust", "repo": "webgl-water-tutorial", "new_stars": 17, "stars": 128, "owner": "chinedufn", "forks": 5},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 13940, "owner": "jwilm", "forks": 598},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 13941, "owner": "jwilm", "forks": 598},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 9170, "owner": "rust-unofficial", "forks": 611},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 14, "stars": 913, "owner": "mit-pdos", "forks": 30},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 13, "stars": 6177, "owner": "SergioBenitez", "forks": 401},
@@ -23,5 +23,5 @@
 {"description": "\u300aRust\u7f16\u7a0b\u4e4b\u9053\u300b\u968f\u4e66\u6e90\u7801", "language": "Rust", "repo": "tao-of-rust-codes", "new_stars": 11, "stars": 199, "owner": "ZhangHanDong", "forks": 16},
 {"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 11, "stars": 546, "owner": "dpc", "forks": 20},
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 10, "stars": 62, "owner": "Canop", "forks": 3},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 3024, "owner": "actix", "forks": 211}
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 3025, "owner": "actix", "forks": 211}
 ]

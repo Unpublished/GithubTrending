@@ -1,8 +1,8 @@
 [
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 147, "stars": 3165, "owner": "sharkdp", "forks": 63},
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 79, "stars": 424, "owner": "toshi-search", "forks": 12},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 33108, "owner": "rust-lang", "forks": 5461},
-{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 19, "stars": 1470, "owner": "tantivy-search", "forks": 87},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 147, "stars": 3173, "owner": "sharkdp", "forks": 63},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 79, "stars": 453, "owner": "toshi-search", "forks": 13},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 33109, "owner": "rust-lang", "forks": 5461},
+{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 19, "stars": 1479, "owner": "tantivy-search", "forks": 87},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 18, "stars": 9215, "owner": "rust-unofficial", "forks": 612},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 8144, "owner": "sharkdp", "forks": 210},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 14, "stars": 6933, "owner": "firecracker-microvm", "forks": 371},
@@ -12,10 +12,10 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 12282, "owner": "BurntSushi", "forks": 498},
 {"description": "Rust concurrency checker", "language": "Rust", "repo": "loom", "new_stars": 9, "stars": 63, "owner": "carllerche", "forks": 0},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 3335, "owner": "rust-lang", "forks": 923},
-{"description": "Federated blogging application, thanks to ActivityPub", "language": "Rust", "repo": "Plume", "new_stars": 8, "stars": 845, "owner": "Plume-org", "forks": 57},
+{"description": "Federated blogging application, thanks to ActivityPub", "language": "Rust", "repo": "Plume", "new_stars": 8, "stars": 846, "owner": "Plume-org", "forks": 57},
 {"description": "\u300aRust\u7f16\u7a0b\u4e4b\u9053\u300b\u968f\u4e66\u6e90\u7801", "language": "Rust", "repo": "tao-of-rust-codes", "new_stars": 8, "stars": 222, "owner": "ZhangHanDong", "forks": 15},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 2914, "owner": "rust-lang", "forks": 399},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 7, "stars": 1863, "owner": "maps4print", "forks": 46},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 2915, "owner": "rust-lang", "forks": 400},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 7, "stars": 1864, "owner": "maps4print", "forks": 46},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 7, "stars": 2524, "owner": "rayon-rs", "forks": 172},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 3256, "owner": "mimblewimble", "forks": 538},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 4380, "owner": "tikv", "forks": 624},
@@ -23,5 +23,5 @@
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 6, "stars": 110, "owner": "Canop", "forks": 6},
 {"description": "Rust game development tutorial with specs ECS and SDL2", "language": "Rust", "repo": "rust-simple-game-dev-tutorial", "new_stars": 6, "stars": 58, "owner": "sunjay", "forks": 4},
 {"description": "Data-oriented, and data driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 5, "stars": 2413, "owner": "amethyst", "forks": 290},
-{"description": "Rust allocator using jemalloc as a backend", "language": "Rust", "repo": "jemallocator", "new_stars": 5, "stars": 88, "owner": "alexcrichton", "forks": 16}
+{"description": "Rust allocator using jemalloc as a backend", "language": "Rust", "repo": "jemallocator", "new_stars": 5, "stars": 89, "owner": "alexcrichton", "forks": 16}
 ]

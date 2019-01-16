@@ -1,12 +1,12 @@
 [
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 3247, "stars": 3519, "owner": "sharkdp", "forks": 78},
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1233, "stars": 1529, "owner": "toshi-search", "forks": 35},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 3247, "stars": 3523, "owner": "sharkdp", "forks": 78},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1233, "stars": 1532, "owner": "toshi-search", "forks": 35},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 424, "stars": 1847, "owner": "tantivy-search", "forks": 92},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 258, "stars": 11512, "owner": "sharkdp", "forks": 205},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 258, "stars": 11513, "owner": "sharkdp", "forks": 205},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 196, "stars": 8184, "owner": "sharkdp", "forks": 210},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 186, "stars": 33169, "owner": "rust-lang", "forks": 5465},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 156, "stars": 6970, "owner": "firecracker-microvm", "forks": 377},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 149, "stars": 3353, "owner": "mimblewimble", "forks": 552},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 149, "stars": 3355, "owner": "mimblewimble", "forks": 552},
 {"description": "Slice and dice logs on the command line", "language": "Rust", "repo": "angle-grinder", "new_stars": 132, "stars": 575, "owner": "rcoh", "forks": 12},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 126, "stars": 12326, "owner": "BurntSushi", "forks": 500},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 116, "stars": 14034, "owner": "jwilm", "forks": 602},
@@ -22,6 +22,6 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 58, "stars": 15543, "owner": "xi-editor", "forks": 565},
 {"description": "A simple implementation of the Erlang VM in Rust", "language": "Rust", "repo": "enigma", "new_stars": 57, "stars": 154, "owner": "archSeer", "forks": 6},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 54, "stars": 13168, "owner": "servo", "forks": 2038},
-{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 57, "stars": 590, "owner": "dpc", "forks": 21},
+{"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 57, "stars": 591, "owner": "dpc", "forks": 21},
 {"description": "Parse command line argument by defining a struct.", "language": "Rust", "repo": "structopt", "new_stars": 55, "stars": 754, "owner": "TeXitoi", "forks": 44}
 ]

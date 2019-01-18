@@ -1,13 +1,13 @@
 [
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 3427, "stars": 3626, "owner": "sharkdp", "forks": 83},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1408, "stars": 1603, "owner": "toshi-search", "forks": 38},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 770, "stars": 33253, "owner": "rust-lang", "forks": 5471},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 730, "stars": 3470, "owner": "mimblewimble", "forks": 576},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 717, "stars": 7006, "owner": "firecracker-microvm", "forks": 381},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 745, "stars": 11598, "owner": "sharkdp", "forks": 209},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 770, "stars": 33254, "owner": "rust-lang", "forks": 5471},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 730, "stars": 3474, "owner": "mimblewimble", "forks": 576},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 717, "stars": 7006, "owner": "firecracker-microvm", "forks": 382},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 745, "stars": 11599, "owner": "sharkdp", "forks": 209},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 726, "stars": 1437, "owner": "MaxBittker", "forks": 64},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 584, "stars": 1877, "owner": "tantivy-search", "forks": 93},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 516, "stars": 14065, "owner": "jwilm", "forks": 602},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 516, "stars": 14066, "owner": "jwilm", "forks": 602},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 490, "stars": 956, "owner": "mit-pdos", "forks": 32},
 {"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 438, "stars": 595, "owner": "dpc", "forks": 21},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 432, "stars": 12360, "owner": "BurntSushi", "forks": 502},
@@ -21,7 +21,7 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 228, "stars": 15558, "owner": "xi-editor", "forks": 566},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 203, "stars": 3371, "owner": "rust-lang", "forks": 929},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 221, "stars": 6313, "owner": "DenisKolodin", "forks": 227},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 205, "stars": 13198, "owner": "servo", "forks": 2041},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 205, "stars": 13200, "owner": "servo", "forks": 2041},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 221, "stars": 221, "owner": "chmln", "forks": 4},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 194, "stars": 2383, "owner": "sharkdp", "forks": 50}
 ]

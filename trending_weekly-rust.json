@@ -1,5 +1,5 @@
 [
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1330, "stars": 1633, "owner": "toshi-search", "forks": 38},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1330, "stars": 1635, "owner": "toshi-search", "forks": 38},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 829, "stars": 3646, "owner": "sharkdp", "forks": 84},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 452, "stars": 1882, "owner": "tantivy-search", "forks": 93},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 253, "stars": 3498, "owner": "mimblewimble", "forks": 582},
@@ -16,9 +16,9 @@
 {"description": "Standalone miner for grin", "language": "Rust", "repo": "grin-miner", "new_stars": 64, "stars": 189, "owner": "mimblewimble", "forks": 60},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 68, "stars": 1503, "owner": "rustwasm", "forks": 92},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 65, "stars": 1650, "owner": "Aaronepower", "forks": 119},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 58, "stars": 3376, "owner": "rust-lang", "forks": 929},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 58, "stars": 3376, "owner": "rust-lang", "forks": 928},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 59, "stars": 6321, "owner": "DenisKolodin", "forks": 227},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 59, "stars": 1908, "owner": "maps4print", "forks": 47},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 59, "stars": 1906, "owner": "maps4print", "forks": 47},
 {"description": "Beautifully formatted output for your terminal", "language": "Rust", "repo": "prettyprint", "new_stars": 58, "stars": 92, "owner": "mre", "forks": 4},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 53, "stars": 4418, "owner": "tikv", "forks": 631},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 53, "stars": 3080, "owner": "actix", "forks": 217},

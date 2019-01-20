@@ -1,9 +1,9 @@
 [
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 60, "stars": 1706, "owner": "toshi-search", "forks": 40},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 33319, "owner": "rust-lang", "forks": 5482},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 22, "stars": 3536, "owner": "mimblewimble", "forks": 586},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 22, "stars": 3538, "owner": "mimblewimble", "forks": 586},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 14099, "owner": "jwilm", "forks": 608},
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 15, "stars": 3668, "owner": "sharkdp", "forks": 86},
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 15, "stars": 3669, "owner": "sharkdp", "forks": 86},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 14, "stars": 1898, "owner": "tantivy-search", "forks": 96},
 {"description": "A flexible web framework that promotes stability, safety, security and speed.", "language": "Rust", "repo": "gotham", "new_stars": 12, "stars": 1140, "owner": "gotham-rs", "forks": 68},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 10, "stars": 1507, "owner": "Spotifyd", "forks": 76},
@@ -12,9 +12,9 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 9, "stars": 11632, "owner": "sharkdp", "forks": 210},
 {"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 8, "stars": 191, "owner": "vislyhq", "forks": 9},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 7, "stars": 9300, "owner": "rust-unofficial", "forks": 618},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 6330, "owner": "DenisKolodin", "forks": 227},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 6331, "owner": "DenisKolodin", "forks": 227},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 8, "stars": 3401, "owner": "benfred", "forks": 113},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 3477, "owner": "diesel-rs", "forks": 339},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 3478, "owner": "diesel-rs", "forks": 339},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 7, "stars": 6275, "owner": "SergioBenitez", "forks": 405},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 7, "stars": 1781, "owner": "autozimu", "forks": 154},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 7, "stars": 1112, "owner": "seanmonstar", "forks": 194},
@@ -23,5 +23,5 @@
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 6, "stars": 960, "owner": "chinedufn", "forks": 24},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 5, "stars": 3887, "owner": "tokio-rs", "forks": 289},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 15564, "owner": "xi-editor", "forks": 566},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 5, "stars": 1444, "owner": "wasmerio", "forks": 33}
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 5, "stars": 1445, "owner": "wasmerio", "forks": 33}
 ]

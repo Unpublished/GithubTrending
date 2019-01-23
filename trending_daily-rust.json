@@ -1,15 +1,15 @@
 [
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 158, "stars": 203, "owner": "cloudflare", "forks": 8},
-{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 130, "stars": 612, "owner": "djc", "forks": 34},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 38, "stars": 33436, "owner": "rust-lang", "forks": 5486},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 158, "stars": 208, "owner": "cloudflare", "forks": 8},
+{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 130, "stars": 613, "owner": "djc", "forks": 34},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 38, "stars": 33437, "owner": "rust-lang", "forks": 5486},
 {"description": "Fast floating point to string conversion", "language": "Rust", "repo": "ryu", "new_stars": 34, "stars": 63, "owner": "dtolnay", "forks": 3},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 28, "stars": 11689, "owner": "sharkdp", "forks": 209},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 18, "stars": 3597, "owner": "mimblewimble", "forks": 606},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 28, "stars": 11690, "owner": "sharkdp", "forks": 209},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 18, "stars": 3598, "owner": "mimblewimble", "forks": 606},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 14141, "owner": "jwilm", "forks": 610},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 7052, "owner": "firecracker-microvm", "forks": 390},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 7053, "owner": "firecracker-microvm", "forks": 390},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 17, "stars": 13259, "owner": "servo", "forks": 2046},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 16, "stars": 9335, "owner": "rust-unofficial", "forks": 620},
-{"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 15, "stars": 79, "owner": "lark-exploration", "forks": 6},
+{"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 15, "stars": 80, "owner": "lark-exploration", "forks": 6},
 {"description": "Beautifully formatted output for your terminal", "language": "Rust", "repo": "prettyprint", "new_stars": 15, "stars": 120, "owner": "mre", "forks": 5},
 {"description": "(alpha) modern embedded database", "language": "Rust", "repo": "sled", "new_stars": 15, "stars": 1711, "owner": "spacejam", "forks": 58},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 13, "stars": 1767, "owner": "toshi-search", "forks": 42},
@@ -21,7 +21,7 @@
 {"description": "DataFusion is an attempt at building a modern distributed compute platform in Rust, using Apache Arrow as the memory model", "language": "Rust", "repo": "datafusion", "new_stars": 11, "stars": 502, "owner": "andygrove", "forks": 49},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 11, "stars": 3902, "owner": "tokio-rs", "forks": 290},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 11, "stars": 2460, "owner": "amethyst", "forks": 296},
-{"description": "Configurable metrics toolkit for Rust applications", "language": "Rust", "repo": "dipstick", "new_stars": 11, "stars": 37, "owner": "fralalonde", "forks": 3},
+{"description": "Configurable metrics toolkit for Rust applications", "language": "Rust", "repo": "dipstick", "new_stars": 11, "stars": 38, "owner": "fralalonde", "forks": 3},
 {"description": "A OAuth2 server library, for use in combination with actix or other frontends, featuring a set of configurable and pluggable backends.", "language": "Rust", "repo": "oxide-auth", "new_stars": 10, "stars": 72, "owner": "HeroicKatora", "forks": 5},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4441, "owner": "tikv", "forks": 635}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4442, "owner": "tikv", "forks": 635}
 ]

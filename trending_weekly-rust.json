@@ -1,14 +1,14 @@
 [
-{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 313, "stars": 611, "owner": "djc", "forks": 34},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 278, "stars": 33435, "owner": "rust-lang", "forks": 5486},
+{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 313, "stars": 612, "owner": "djc", "forks": 34},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 278, "stars": 33436, "owner": "rust-lang", "forks": 5486},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 244, "stars": 3597, "owner": "mimblewimble", "forks": 606},
-{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 231, "stars": 1766, "owner": "toshi-search", "forks": 41},
+{"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 231, "stars": 1767, "owner": "toshi-search", "forks": 42},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 218, "stars": 3738, "owner": "sharkdp", "forks": 86},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 182, "stars": 11689, "owner": "sharkdp", "forks": 209},
-{"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 174, "stars": 203, "owner": "vislyhq", "forks": 10},
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 152, "stars": 201, "owner": "cloudflare", "forks": 8},
+{"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 174, "stars": 204, "owner": "vislyhq", "forks": 10},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 152, "stars": 203, "owner": "cloudflare", "forks": 8},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 115, "stars": 14141, "owner": "jwilm", "forks": 610},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 91, "stars": 13258, "owner": "servo", "forks": 2046},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 91, "stars": 13259, "owner": "servo", "forks": 2046},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 93, "stars": 12415, "owner": "BurntSushi", "forks": 504},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 89, "stars": 9335, "owner": "rust-unofficial", "forks": 620},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 86, "stars": 7052, "owner": "firecracker-microvm", "forks": 390},
@@ -22,6 +22,6 @@
 {"description": "Standalone miner for grin", "language": "Rust", "repo": "grin-miner", "new_stars": 43, "stars": 200, "owner": "mimblewimble", "forks": 72},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 51, "stars": 1512, "owner": "rustwasm", "forks": 92},
 {"description": "A utf8 text rope for manipulating and editing large texts.", "language": "Rust", "repo": "ropey", "new_stars": 50, "stars": 296, "owner": "cessen", "forks": 3},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 49, "stars": 468, "owner": "rust-analyzer", "forks": 46},
-{"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 49, "stars": 78, "owner": "lark-exploration", "forks": 6}
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 49, "stars": 472, "owner": "rust-analyzer", "forks": 46},
+{"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 49, "stars": 79, "owner": "lark-exploration", "forks": 6}
 ]

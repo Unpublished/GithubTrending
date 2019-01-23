@@ -1,13 +1,13 @@
 [
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 177, "stars": 218, "owner": "cloudflare", "forks": 9},
-{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 104, "stars": 618, "owner": "djc", "forks": 35},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 177, "stars": 221, "owner": "cloudflare", "forks": 9},
+{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 104, "stars": 619, "owner": "djc", "forks": 35},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 39, "stars": 33443, "owner": "rust-lang", "forks": 5486},
-{"description": "Fast floating point to string conversion", "language": "Rust", "repo": "ryu", "new_stars": 37, "stars": 68, "owner": "dtolnay", "forks": 4},
+{"description": "Fast floating point to string conversion", "language": "Rust", "repo": "ryu", "new_stars": 37, "stars": 69, "owner": "dtolnay", "forks": 4},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 11691, "owner": "sharkdp", "forks": 209},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 16, "stars": 3598, "owner": "mimblewimble", "forks": 606},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 18, "stars": 13260, "owner": "servo", "forks": 2046},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 7055, "owner": "firecracker-microvm", "forks": 390},
-{"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 18, "stars": 81, "owner": "lark-exploration", "forks": 6},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 16, "stars": 3599, "owner": "mimblewimble", "forks": 606},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 18, "stars": 13261, "owner": "servo", "forks": 2046},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 7056, "owner": "firecracker-microvm", "forks": 390},
+{"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 18, "stars": 82, "owner": "lark-exploration", "forks": 6},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 14141, "owner": "jwilm", "forks": 610},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 17, "stars": 474, "owner": "rust-analyzer", "forks": 46},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 16, "stars": 9335, "owner": "rust-unofficial", "forks": 620},
@@ -21,7 +21,7 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 4442, "owner": "tikv", "forks": 636},
 {"description": "DataFusion is an attempt at building a modern distributed compute platform in Rust, using Apache Arrow as the memory model", "language": "Rust", "repo": "datafusion", "new_stars": 10, "stars": 502, "owner": "andygrove", "forks": 49},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 12416, "owner": "BurntSushi", "forks": 504},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 10, "stars": 2461, "owner": "amethyst", "forks": 296},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 10, "stars": 2462, "owner": "amethyst", "forks": 296},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 3902, "owner": "tokio-rs", "forks": 290},
-{"description": "The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly", "language": "Rust", "repo": "webgl-water-tutorial", "new_stars": 9, "stars": 170, "owner": "chinedufn", "forks": 6}
+{"description": "The source code for a tutorial on rendering water using WebGL + Rust + WebAssembly", "language": "Rust", "repo": "webgl-water-tutorial", "new_stars": 9, "stars": 171, "owner": "chinedufn", "forks": 6}
 ]

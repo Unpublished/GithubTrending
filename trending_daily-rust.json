@@ -1,15 +1,15 @@
 [
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 137, "stars": 302, "owner": "cloudflare", "forks": 10},
-{"description": "Serde serializable and deserializable trait objects", "language": "Rust", "repo": "typetag", "new_stars": 71, "stars": 84, "owner": "dtolnay", "forks": 1},
-{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 43, "stars": 641, "owner": "djc", "forks": 35},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 33469, "owner": "rust-lang", "forks": 5486},
+{"description": "Serde serializable and deserializable trait objects", "language": "Rust", "repo": "typetag", "new_stars": 71, "stars": 87, "owner": "dtolnay", "forks": 1},
+{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 43, "stars": 642, "owner": "djc", "forks": 35},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 33468, "owner": "rust-lang", "forks": 5486},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 26, "stars": 492, "owner": "rust-analyzer", "forks": 47},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 23, "stars": 11709, "owner": "sharkdp", "forks": 210},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 23, "stars": 11710, "owner": "sharkdp", "forks": 210},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 21, "stars": 3758, "owner": "sharkdp", "forks": 87},
 {"description": "Fast floating point to string conversion", "language": "Rust", "repo": "ryu", "new_stars": 21, "stars": 76, "owner": "dtolnay", "forks": 4},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 7066, "owner": "firecracker-microvm", "forks": 390},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 15, "stars": 13267, "owner": "servo", "forks": 2044},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 12, "stars": 3608, "owner": "mimblewimble", "forks": 607},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 12, "stars": 3610, "owner": "mimblewimble", "forks": 607},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9346, "owner": "rust-unofficial", "forks": 620},
 {"description": "A demand-driven compiler with strong IDE support", "language": "Rust", "repo": "lark", "new_stars": 13, "stars": 88, "owner": "lark-exploration", "forks": 6},
 {"description": "Read Rust allows you to keep up articles about the Rust programming language", "language": "Rust", "repo": "read-rust", "new_stars": 13, "stars": 36, "owner": "wezm", "forks": 1},
@@ -22,6 +22,6 @@
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 9, "stars": 432, "owner": "Peltoche", "forks": 14},
 {"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 9, "stars": 211, "owner": "vislyhq", "forks": 10},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 8, "stars": 14147, "owner": "jwilm", "forks": 611},
-{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 8, "stars": 3027, "owner": "neon-bindings", "forks": 129},
+{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 8, "stars": 3027, "owner": "neon-bindings", "forks": 130},
 {"description": "(alpha) modern embedded database", "language": "Rust", "repo": "sled", "new_stars": 8, "stars": 1719, "owner": "spacejam", "forks": 58}
 ]

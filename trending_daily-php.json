@@ -1,6 +1,6 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 24, "stars": 48763, "owner": "laravel", "forks": 15139},
-{"description": "Catch incoming emails in your Laravel application", "language": "PHP", "repo": "laravel-mailbox", "new_stars": 19, "stars": 283, "owner": "beyondcode", "forks": 10},
+{"description": "Catch incoming emails in your Laravel application", "language": "PHP", "repo": "laravel-mailbox", "new_stars": 19, "stars": 284, "owner": "beyondcode", "forks": 11},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 17, "stars": 15835, "owner": "laravel", "forks": 6188},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 13, "stars": 16273, "owner": "danielmiessler", "forks": 5923},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 11, "stars": 15422, "owner": "guzzle", "forks": 1893},
@@ -9,7 +9,7 @@
 {"description": "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.", "language": "PHP", "repo": "Slim", "new_stars": 9, "stars": 9496, "owner": "slimphp", "forks": 1827},
 {"description": "A set of abstractions extracted out of the Symfony components", "language": "PHP", "repo": "contracts", "new_stars": 9, "stars": 826, "owner": "symfony", "forks": 3},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 8, "stars": 6494, "owner": "nextcloud", "forks": 1127},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 8, "stars": 19181, "owner": "fzaninotto", "forks": 2306},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 8, "stars": 19183, "owner": "fzaninotto", "forks": 2306},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 8, "stars": 13448, "owner": "Seldaek", "forks": 1489},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 8, "stars": 9922, "owner": "erusev", "forks": 844},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 8, "stars": 8699, "owner": "vlucas", "forks": 408},

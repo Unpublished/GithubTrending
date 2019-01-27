@@ -1,10 +1,10 @@
 [
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 47, "stars": 505, "owner": "vi", "forks": 20},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 33593, "owner": "rust-lang", "forks": 5490},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 33595, "owner": "rust-lang", "forks": 5490},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 14185, "owner": "jwilm", "forks": 613},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 14, "stars": 1729, "owner": "rust-lang-nursery", "forks": 264},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 12466, "owner": "BurntSushi", "forks": 508},
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 14, "stars": 395, "owner": "cloudflare", "forks": 13},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 14, "stars": 396, "owner": "cloudflare", "forks": 13},
 {"description": "A comparison of some web frameworks and libs written in Rust", "language": "Rust", "repo": "rust-web-framework-comparison", "new_stars": 12, "stars": 1062, "owner": "flosse", "forks": 49},
 {"description": "C/C++ programming probelms re-written in Rust", "language": "Rust", "repo": "Rust-for-undergrads", "new_stars": 12, "stars": 197, "owner": "rustindia", "forks": 110},
 {"description": "A manga(comic/album) export tool written in Rust", "language": "Rust", "repo": "manga-rs", "new_stars": 12, "stars": 26, "owner": "Hentioe", "forks": 1},
@@ -20,7 +20,7 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6, "stars": 7119, "owner": "firecracker-microvm", "forks": 393},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 6, "stars": 15591, "owner": "xi-editor", "forks": 567},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 3945, "owner": "rust-lang", "forks": 881},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 2487, "owner": "amethyst", "forks": 298},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 2488, "owner": "amethyst", "forks": 298},
 {"description": "Caching layer load balancer.", "language": "Rust", "repo": "synchrotron", "new_stars": 6, "stars": 25, "owner": "nuclearfurnace", "forks": 0},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 5, "stars": 4603, "owner": "mre", "forks": 540},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 5, "stars": 1937, "owner": "maps4print", "forks": 47}

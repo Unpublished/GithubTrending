@@ -1,11 +1,11 @@
 [
 {"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 5572, "stars": 11823, "owner": "MisterBooo", "forks": 1310},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 2420, "stars": 119478, "owner": "tensorflow", "forks": 71635},
-{"description": "A brief computer graphics / rendering course", "language": "C++", "repo": "tinyraytracer", "new_stars": 1920, "stars": 1946, "owner": "ssloy", "forks": 70},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1477, "stars": 69387, "owner": "electron", "forks": 9009},
-{"description": "A Fractal Physics Game", "language": "C++", "repo": "MarbleMarcher", "new_stars": 1327, "stars": 1328, "owner": "HackerPoet", "forks": 77},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 2420, "stars": 119478, "owner": "tensorflow", "forks": 71636},
+{"description": "A brief computer graphics / rendering course", "language": "C++", "repo": "tinyraytracer", "new_stars": 1920, "stars": 1956, "owner": "ssloy", "forks": 70},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1477, "stars": 69388, "owner": "electron", "forks": 9009},
+{"description": "A Fractal Physics Game", "language": "C++", "repo": "MarbleMarcher", "new_stars": 1327, "stars": 1329, "owner": "HackerPoet", "forks": 77},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 931, "stars": 31391, "owner": "opencv", "forks": 22413},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1123, "stars": 24214, "owner": "pytorch", "forks": 5748},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1123, "stars": 24215, "owner": "pytorch", "forks": 5748},
 {"description": "A distributed graph deep learning framework.", "language": "C++", "repo": "euler", "new_stars": 993, "stars": 993, "owner": "alibaba", "forks": 196},
 {"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 937, "stars": 3586, "owner": "google", "forks": 196},
 {"description": "A client-side image transcoding library.", "language": "C++", "repo": "spectrum", "new_stars": 877, "stars": 1051, "owner": "facebookincubator", "forks": 69},
@@ -13,8 +13,8 @@
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 746, "stars": 31775, "owner": "protocolbuffers", "forks": 8711},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 722, "stars": 19052, "owner": "godotengine", "forks": 3837},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 595, "stars": 19243, "owner": "grpc", "forks": 4429},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 532, "stars": 36928, "owner": "bitcoin", "forks": 21977},
-{"description": "A Curated List of Game Network Programming Resources", "language": "C++", "repo": "Awesome-Game-Networking", "new_stars": 619, "stars": 985, "owner": "MFatihMAR", "forks": 50},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 532, "stars": 36929, "owner": "bitcoin", "forks": 21977},
+{"description": "A Curated List of Game Network Programming Resources", "language": "C++", "repo": "Awesome-Game-Networking", "new_stars": 619, "stars": 986, "owner": "MFatihMAR", "forks": 50},
 {"description": "This is the canonical git mirror of the LLVM subversion repository. Please see", "language": "C++", "repo": "llvm-project", "new_stars": 594, "stars": 600, "owner": "llvm", "forks": 43},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 521, "stars": 10951, "owner": "CMU-Perceptual-Computing-Lab", "forks": 2992},
 {"description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO", "language": "C++", "repo": "Sonoff-Tasmota", "new_stars": 500, "stars": 5631, "owner": "arendst", "forks": 1298},
@@ -23,5 +23,5 @@
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 474, "stars": 13487, "owner": "ocornut", "forks": 1880},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 428, "stars": 46472, "owner": "apple", "forks": 7358},
 {"description": "An industrial deep learning framework for high-dimension sparse data", "language": "C++", "repo": "x-deeplearning", "new_stars": 416, "stars": 2089, "owner": "alibaba", "forks": 453},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 416, "stars": 8158, "owner": "envoyproxy", "forks": 1184}
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 416, "stars": 8159, "owner": "envoyproxy", "forks": 1184}
 ]

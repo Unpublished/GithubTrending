@@ -4,7 +4,7 @@
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 29, "stars": 657, "owner": "cloudflare", "forks": 19},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 11828, "owner": "sharkdp", "forks": 215},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 23, "stars": 14239, "owner": "jwilm", "forks": 614},
-{"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 21, "stars": 233, "owner": "kpcyrd", "forks": 13},
+{"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 21, "stars": 234, "owner": "kpcyrd", "forks": 13},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 9423, "owner": "rust-unofficial", "forks": 621},
 {"description": "WIP GTK terminal emulator based on Alacritty", "language": "Rust", "repo": "galacritty", "new_stars": 16, "stars": 74, "owner": "myfreeweb", "forks": 3},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 12514, "owner": "BurntSushi", "forks": 508},
@@ -14,14 +14,14 @@
 {"description": "Zemeroth is a 2D turn-based tactical game in Rust.", "language": "Rust", "repo": "zemeroth", "new_stars": 13, "stars": 403, "owner": "ozkriff", "forks": 17},
 {"description": "A library for to allow multiple return types by automatically generated enum in Rust.", "language": "Rust", "repo": "auto_enums", "new_stars": 12, "stars": 33, "owner": "taiki-e", "forks": 0},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 11, "stars": 6339, "owner": "SergioBenitez", "forks": 411},
-{"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 11, "stars": 567, "owner": "vi", "forks": 21},
+{"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 11, "stars": 568, "owner": "vi", "forks": 21},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 10, "stars": 3947, "owner": "tokio-rs", "forks": 296},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 10, "stars": 8336, "owner": "sharkdp", "forks": 214},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 10, "stars": 2577, "owner": "rayon-rs", "forks": 173},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 1965, "owner": "maps4print", "forks": 47},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 1966, "owner": "maps4print", "forks": 47},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 9, "stars": 3536, "owner": "diesel-rs", "forks": 346},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 9, "stars": 5196, "owner": "paritytech", "forks": 1180},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 9, "stars": 6445, "owner": "DenisKolodin", "forks": 229},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 8, "stars": 7165, "owner": "firecracker-microvm", "forks": 397},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 7, "stars": 3691, "owner": "mimblewimble", "forks": 633}
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 7, "stars": 3692, "owner": "mimblewimble", "forks": 633}
 ]

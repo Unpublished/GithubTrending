@@ -5,8 +5,8 @@
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 19, "stars": 8112, "owner": "octobercms", "forks": 1889},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 17, "stars": 15890, "owner": "laravel", "forks": 6212},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 20, "stars": 18180, "owner": "composer", "forks": 5377},
-{"description": "Serverless PHP on AWS Lambda", "language": "PHP", "repo": "bref", "new_stars": 19, "stars": 745, "owner": "mnapoli", "forks": 55},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 18, "stars": 15489, "owner": "guzzle", "forks": 1896},
+{"description": "Serverless PHP on AWS Lambda", "language": "PHP", "repo": "bref", "new_stars": 19, "stars": 747, "owner": "mnapoli", "forks": 55},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 18, "stars": 15490, "owner": "guzzle", "forks": 1896},
 {"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 10, "stars": 6743, "owner": "magento", "forks": 5861},
 {"description": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.", "language": "PHP", "repo": "cms", "new_stars": 16, "stars": 1515, "owner": "craftcms", "forks": 260},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 16, "stars": 12871, "owner": "sebastianbergmann", "forks": 1691},
@@ -15,13 +15,13 @@
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 13, "stars": 13495, "owner": "Seldaek", "forks": 1487},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 13, "stars": 19709, "owner": "symfony", "forks": 6663},
 {"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 13, "stars": 16645, "owner": "domnikl", "forks": 3594},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 10, "stars": 12482, "owner": "PHPMailer", "forks": 6906},
-{"description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.", "language": "PHP", "repo": "labs", "new_stars": 10, "stars": 6879, "owner": "docker", "forks": 2918},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 10, "stars": 12483, "owner": "PHPMailer", "forks": 6906},
+{"description": "This is a collection of tutorials for learning how to use Docker with various tools. Contributions welcome.", "language": "PHP", "repo": "labs", "new_stars": 10, "stars": 6879, "owner": "docker", "forks": 2919},
 {"description": "yii2 ( PHP ) fecshop core code used for ecommerce shop \u591a\u8bed\u8a00\u591a\u8d27\u5e01\u591a\u5165\u53e3\u7684\u5f00\u6e90\u7535\u5546 B2C \u5546\u57ce\uff0c\u652f\u6301\u79fb\u52a8\u7aefvue, app, html5", "language": "PHP", "repo": "yii2_fecshop", "new_stars": 11, "stars": 2467, "owner": "fecshop", "forks": 741},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 11, "stars": 9965, "owner": "erusev", "forks": 844},
 {"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 11, "stars": 8748, "owner": "barryvdh", "forks": 864},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 7, "stars": 11991, "owner": "WordPress", "forks": 7266},
 {"description": "Scout Extended: The Full Power of Algolia in Laravel", "language": "PHP", "repo": "scout-extended", "new_stars": 10, "stars": 185, "owner": "algolia", "forks": 11},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 10, "stars": 8531, "owner": "thephpleague", "forks": 486},
-{"description": "Central repository for third party Magento extensions with known security issues.", "language": "PHP", "repo": "magento-module-blacklist", "new_stars": 10, "stars": 31, "owner": "gwillem", "forks": 1}
+{"description": "Central repository for third party Magento extensions with known security issues.", "language": "PHP", "repo": "magevulndb", "new_stars": 10, "stars": 31, "owner": "gwillem", "forks": 1}
 ]

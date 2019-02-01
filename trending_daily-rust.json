@@ -1,8 +1,8 @@
 [
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 41, "stars": 1503, "owner": "crossbeam-rs", "forks": 93},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 33742, "owner": "rust-lang", "forks": 5502},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 33743, "owner": "rust-lang", "forks": 5502},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 25, "stars": 663, "owner": "cloudflare", "forks": 20},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 11834, "owner": "sharkdp", "forks": 216},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 11835, "owner": "sharkdp", "forks": 216},
 {"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 23, "stars": 240, "owner": "kpcyrd", "forks": 14},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 14243, "owner": "jwilm", "forks": 615},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 9424, "owner": "rust-unofficial", "forks": 621},
@@ -10,7 +10,7 @@
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 13, "stars": 3697, "owner": "mimblewimble", "forks": 637},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 12518, "owner": "BurntSushi", "forks": 508},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 13, "stars": 4509, "owner": "tikv", "forks": 644},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 11, "stars": 13338, "owner": "servo", "forks": 2054},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 11, "stars": 13339, "owner": "servo", "forks": 2054},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 11, "stars": 1562, "owner": "wasmerio", "forks": 40},
 {"description": "WIP GTK terminal emulator based on Alacritty", "language": "Rust", "repo": "galacritty", "new_stars": 11, "stars": 78, "owner": "myfreeweb", "forks": 4},
 {"description": "A library for to allow multiple return types by automatically generated enum in Rust.", "language": "Rust", "repo": "auto_enums", "new_stars": 11, "stars": 35, "owner": "taiki-e", "forks": 0},
@@ -20,7 +20,7 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 6342, "owner": "SergioBenitez", "forks": 411},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 9, "stars": 3539, "owner": "diesel-rs", "forks": 346},
 {"description": "Zemeroth is a 2D turn-based tactical game in Rust.", "language": "Rust", "repo": "zemeroth", "new_stars": 8, "stars": 405, "owner": "ozkriff", "forks": 17},
-{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 7, "stars": 2577, "owner": "rayon-rs", "forks": 173},
+{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 7, "stars": 2578, "owner": "rayon-rs", "forks": 173},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 3951, "owner": "tokio-rs", "forks": 295},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 7, "stars": 1351, "owner": "CraneStation", "forks": 122},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 7, "stars": 1809, "owner": "autozimu", "forks": 159}

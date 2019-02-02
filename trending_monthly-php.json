@@ -1,8 +1,8 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 893, "stars": 48907, "owner": "laravel", "forks": 15187},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 503, "stars": 16373, "owner": "danielmiessler", "forks": 5979},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 893, "stars": 48909, "owner": "laravel", "forks": 15188},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 503, "stars": 16374, "owner": "danielmiessler", "forks": 5979},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 507, "stars": 15909, "owner": "laravel", "forks": 6223},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 508, "stars": 18200, "owner": "composer", "forks": 5378},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 508, "stars": 18201, "owner": "composer", "forks": 5378},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 439, "stars": 15504, "owner": "guzzle", "forks": 1896},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 423, "stars": 6038, "owner": "phpstan", "forks": 406},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 429, "stars": 9319, "owner": "nikic", "forks": 575},
@@ -11,10 +11,10 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 376, "stars": 12892, "owner": "sebastianbergmann", "forks": 1692},
 {"description": "Catch incoming emails in your Laravel application", "language": "PHP", "repo": "laravel-mailbox", "new_stars": 359, "stars": 359, "owner": "beyondcode", "forks": 13},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 329, "stars": 1803, "owner": "firefly-iii", "forks": 308},
-{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 232, "stars": 6745, "owner": "magento", "forks": 5872},
+{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 232, "stars": 6745, "owner": "magento", "forks": 5873},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 295, "stars": 5240, "owner": "PHPOffice", "forks": 941},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 297, "stars": 11554, "owner": "briannesbitt", "forks": 1047},
-{"description": "A Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)", "language": "PHP", "repo": "UNIT3D", "new_stars": 298, "stars": 599, "owner": "HDInnovations", "forks": 91},
+{"description": "A Nex-Gen Private Torrent Tracker (Aimed For Movie / TV Use)", "language": "PHP", "repo": "UNIT3D", "new_stars": 298, "stars": 600, "owner": "HDInnovations", "forks": 91},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 290, "stars": 9976, "owner": "erusev", "forks": 844},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 282, "stars": 4320, "owner": "doctrine", "forks": 939},
 {"description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS", "language": "PHP", "repo": "grav", "new_stars": 262, "stars": 10272, "owner": "getgrav", "forks": 1020},
@@ -22,6 +22,6 @@
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 251, "stars": 6596, "owner": "monicahq", "forks": 751},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 264, "stars": 8540, "owner": "thephpleague", "forks": 488},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 204, "stars": 12487, "owner": "PHPMailer", "forks": 6911},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 257, "stars": 8735, "owner": "vlucas", "forks": 409},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 257, "stars": 8734, "owner": "vlucas", "forks": 409},
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 240, "stars": 8122, "owner": "octobercms", "forks": 1894}
 ]

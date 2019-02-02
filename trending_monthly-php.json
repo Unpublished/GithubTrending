@@ -1,13 +1,13 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 893, "stars": 48907, "owner": "laravel", "forks": 15186},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 506, "stars": 16373, "owner": "danielmiessler", "forks": 5977},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 893, "stars": 48906, "owner": "laravel", "forks": 15186},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 506, "stars": 16373, "owner": "danielmiessler", "forks": 5978},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 505, "stars": 15909, "owner": "laravel", "forks": 6223},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 512, "stars": 18200, "owner": "composer", "forks": 5378},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 442, "stars": 15504, "owner": "guzzle", "forks": 1896},
-{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 421, "stars": 6037, "owner": "phpstan", "forks": 406},
+{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 421, "stars": 6038, "owner": "phpstan", "forks": 406},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 431, "stars": 9319, "owner": "nikic", "forks": 575},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 348, "stars": 19726, "owner": "symfony", "forks": 6664},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 366, "stars": 6543, "owner": "nextcloud", "forks": 1135},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 348, "stars": 19725, "owner": "symfony", "forks": 6664},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 366, "stars": 6544, "owner": "nextcloud", "forks": 1135},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 379, "stars": 12892, "owner": "sebastianbergmann", "forks": 1692},
 {"description": "Catch incoming emails in your Laravel application", "language": "PHP", "repo": "laravel-mailbox", "new_stars": 359, "stars": 359, "owner": "beyondcode", "forks": 13},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 330, "stars": 1803, "owner": "firefly-iii", "forks": 308},
@@ -21,7 +21,7 @@
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 272, "stars": 5933, "owner": "symfony", "forks": 154},
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 251, "stars": 6595, "owner": "monicahq", "forks": 751},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 263, "stars": 8540, "owner": "thephpleague", "forks": 488},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 203, "stars": 12486, "owner": "PHPMailer", "forks": 6911},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 203, "stars": 12487, "owner": "PHPMailer", "forks": 6911},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 258, "stars": 8735, "owner": "vlucas", "forks": 409},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 259, "stars": 7217, "owner": "swiftmailer", "forks": 726}
 ]

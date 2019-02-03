@@ -1,14 +1,14 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 897, "stars": 48910, "owner": "laravel", "forks": 15190},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 503, "stars": 16379, "owner": "danielmiessler", "forks": 5982},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 504, "stars": 15911, "owner": "laravel", "forks": 6226},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 504, "stars": 15911, "owner": "laravel", "forks": 6227},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 503, "stars": 18203, "owner": "composer", "forks": 5379},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 442, "stars": 19258, "owner": "fzaninotto", "forks": 2312},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 437, "stars": 15505, "owner": "guzzle", "forks": 1897},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 423, "stars": 6038, "owner": "phpstan", "forks": 406},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 425, "stars": 9321, "owner": "nikic", "forks": 575},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 342, "stars": 19726, "owner": "symfony", "forks": 6664},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 364, "stars": 6548, "owner": "nextcloud", "forks": 1136},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 364, "stars": 6549, "owner": "nextcloud", "forks": 1136},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 375, "stars": 12897, "owner": "sebastianbergmann", "forks": 1692},
 {"description": "Catch incoming emails in your Laravel application", "language": "PHP", "repo": "laravel-mailbox", "new_stars": 360, "stars": 361, "owner": "beyondcode", "forks": 13},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 327, "stars": 1808, "owner": "firefly-iii", "forks": 308},
@@ -23,5 +23,5 @@
 {"description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS", "language": "PHP", "repo": "grav", "new_stars": 255, "stars": 10271, "owner": "getgrav", "forks": 1020},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 262, "stars": 8541, "owner": "thephpleague", "forks": 488},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 202, "stars": 12489, "owner": "PHPMailer", "forks": 6912},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 256, "stars": 8735, "owner": "vlucas", "forks": 409}
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 256, "stars": 8736, "owner": "vlucas", "forks": 409}
 ]

@@ -1,6 +1,6 @@
 [
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 988, "stars": 1467, "owner": "RustPython", "forks": 59},
-{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 63, "stars": 280, "owner": "Canop", "forks": 9},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 988, "stars": 1475, "owner": "RustPython", "forks": 59},
+{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 63, "stars": 281, "owner": "Canop", "forks": 9},
 {"description": "A Rust port of FlameGraph", "language": "Rust", "repo": "inferno", "new_stars": 28, "stars": 134, "owner": "jonhoo", "forks": 8},
 {"description": "A Rust implementation of Redux.", "language": "Rust", "repo": "redux-rs", "new_stars": 21, "stars": 72, "owner": "redux-rs", "forks": 0},
 {"description": "The \"Command Line Interactive Controller for Kubernetes\"", "language": "Rust", "repo": "click", "new_stars": 17, "stars": 841, "owner": "databricks", "forks": 39},
@@ -11,8 +11,8 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 12, "stars": 14269, "owner": "jwilm", "forks": 619},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 12, "stars": 6369, "owner": "SergioBenitez", "forks": 415},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 13, "stars": 12559, "owner": "BurntSushi", "forks": 509},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 13, "stars": 7189, "owner": "firecracker-microvm", "forks": 398},
-{"description": "A simple CLI tool for installing and maintaining linux GOG games", "language": "Rust", "repo": "wyvern", "new_stars": 12, "stars": 27, "owner": "nicohman", "forks": 1},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 13, "stars": 7190, "owner": "firecracker-microvm", "forks": 398},
+{"description": "A simple CLI tool for installing and maintaining linux GOG games", "language": "Rust", "repo": "wyvern", "new_stars": 12, "stars": 28, "owner": "nicohman", "forks": 1},
 {"description": "Microkernel and userspace written in Rust, centered around message passing", "language": "Rust", "repo": "pebble", "new_stars": 11, "stars": 62, "owner": "pebble-os", "forks": 1},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 13358, "owner": "servo", "forks": 2056},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 9, "stars": 8361, "owner": "sharkdp", "forks": 214},
@@ -20,7 +20,7 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 8, "stars": 4634, "owner": "mre", "forks": 545},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 3973, "owner": "tokio-rs", "forks": 294},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 8, "stars": 2460, "owner": "sharkdp", "forks": 51},
-{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 8, "stars": 1959, "owner": "tantivy-search", "forks": 103},
+{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 8, "stars": 1960, "owner": "tantivy-search", "forks": 103},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 8, "stars": 681, "owner": "cloudflare", "forks": 21},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 6480, "owner": "DenisKolodin", "forks": 229},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 2621, "owner": "gfx-rs", "forks": 313}

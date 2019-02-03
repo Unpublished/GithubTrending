@@ -1,10 +1,10 @@
 [
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 668, "stars": 1055, "owner": "RustPython", "forks": 47},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 668, "stars": 1075, "owner": "RustPython", "forks": 48},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 292, "stars": 677, "owner": "cloudflare", "forks": 21},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 237, "stars": 33773, "owner": "rust-lang", "forks": 5508},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 237, "stars": 33774, "owner": "rust-lang", "forks": 5508},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 198, "stars": 1526, "owner": "crossbeam-rs", "forks": 94},
 {"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 181, "stars": 253, "owner": "kpcyrd", "forks": 15},
-{"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 137, "stars": 3249, "owner": "swc-project", "forks": 48},
+{"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 137, "stars": 3251, "owner": "swc-project", "forks": 48},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 136, "stars": 614, "owner": "vi", "forks": 22},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 123, "stars": 11876, "owner": "sharkdp", "forks": 217},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 103, "stars": 14264, "owner": "jwilm", "forks": 618},
@@ -20,8 +20,8 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 66, "stars": 6364, "owner": "SergioBenitez", "forks": 414},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 64, "stars": 1579, "owner": "wasmerio", "forks": 40},
 {"description": "A procedural macro for auto logging output of functions", "language": "Rust", "repo": "log-derive", "new_stars": 61, "stars": 61, "owner": "elichai", "forks": 0},
-{"description": "A Rust implementation of Redux.", "language": "Rust", "repo": "redux-rs", "new_stars": 60, "stars": 60, "owner": "redux-rs", "forks": 0},
+{"description": "A Rust implementation of Redux.", "language": "Rust", "repo": "redux-rs", "new_stars": 60, "stars": 61, "owner": "redux-rs", "forks": 0},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 56, "stars": 3970, "owner": "tokio-rs", "forks": 294},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 55, "stars": 4516, "owner": "tikv", "forks": 645},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 55, "stars": 4516, "owner": "tikv", "forks": 646},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 55, "stars": 3556, "owner": "diesel-rs", "forks": 347}
 ]

@@ -1,18 +1,18 @@
 [
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 604, "stars": 1733, "owner": "RustPython", "forks": 69},
-{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 64, "stars": 299, "owner": "Canop", "forks": 9},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 604, "stars": 1756, "owner": "RustPython", "forks": 69},
+{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 64, "stars": 303, "owner": "Canop", "forks": 9},
 {"description": "A Rust port of FlameGraph", "language": "Rust", "repo": "inferno", "new_stars": 25, "stars": 138, "owner": "jonhoo", "forks": 8},
-{"description": "A simple CLI tool for installing and maintaining linux GOG games", "language": "Rust", "repo": "wyvern", "new_stars": 22, "stars": 37, "owner": "nicohman", "forks": 1},
+{"description": "A simple CLI tool for installing and maintaining linux GOG games", "language": "Rust", "repo": "wyvern", "new_stars": 22, "stars": 38, "owner": "nicohman", "forks": 1},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 33791, "owner": "rust-lang", "forks": 5508},
-{"description": "A Rust implementation of Redux.", "language": "Rust", "repo": "redux-rs", "new_stars": 16, "stars": 77, "owner": "redux-rs", "forks": 0},
+{"description": "A Rust implementation of Redux.", "language": "Rust", "repo": "redux-rs", "new_stars": 16, "stars": 79, "owner": "redux-rs", "forks": 0},
 {"description": "The \"Command Line Interactive Controller for Kubernetes\"", "language": "Rust", "repo": "click", "new_stars": 14, "stars": 849, "owner": "databricks", "forks": 39},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 14, "stars": 11891, "owner": "sharkdp", "forks": 219},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 12, "stars": 14276, "owner": "jwilm", "forks": 619},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 7194, "owner": "firecracker-microvm", "forks": 398},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 14, "stars": 11893, "owner": "sharkdp", "forks": 219},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 12, "stars": 14277, "owner": "jwilm", "forks": 619},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 7195, "owner": "firecracker-microvm", "forks": 398},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 9462, "owner": "rust-unofficial", "forks": 620},
 {"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 11, "stars": 3263, "owner": "swc-project", "forks": 48},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 11, "stars": 688, "owner": "cloudflare", "forks": 21},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 12562, "owner": "BurntSushi", "forks": 509},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 12563, "owner": "BurntSushi", "forks": 509},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 9, "stars": 3870, "owner": "sharkdp", "forks": 94},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 13360, "owner": "servo", "forks": 2057},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 9, "stars": 2464, "owner": "sharkdp", "forks": 51},
@@ -23,5 +23,5 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 6370, "owner": "SergioBenitez", "forks": 416},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 5, "stars": 3721, "owner": "mimblewimble", "forks": 646},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 7, "stars": 8366, "owner": "sharkdp", "forks": 214},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 6484, "owner": "DenisKolodin", "forks": 229}
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 6485, "owner": "DenisKolodin", "forks": 229}
 ]

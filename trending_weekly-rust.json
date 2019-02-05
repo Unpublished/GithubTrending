@@ -1,14 +1,14 @@
 [
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1701, "stars": 2078, "owner": "RustPython", "forks": 83},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 194, "stars": 33818, "owner": "rust-lang", "forks": 5512},
-{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 201, "stars": 334, "owner": "Canop", "forks": 12},
-{"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 193, "stars": 1532, "owner": "crossbeam-rs", "forks": 94},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1701, "stars": 2083, "owner": "RustPython", "forks": 83},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 194, "stars": 33819, "owner": "rust-lang", "forks": 5512},
+{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 201, "stars": 335, "owner": "Canop", "forks": 12},
+{"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 193, "stars": 1532, "owner": "crossbeam-rs", "forks": 95},
 {"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 164, "stars": 263, "owner": "kpcyrd", "forks": 15},
 {"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 148, "stars": 3272, "owner": "swc-project", "forks": 49},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 133, "stars": 11911, "owner": "sharkdp", "forks": 220},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 121, "stars": 700, "owner": "cloudflare", "forks": 21},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 100, "stars": 14289, "owner": "jwilm", "forks": 619},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 12576, "owner": "BurntSushi", "forks": 511},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 12577, "owner": "BurntSushi", "forks": 511},
 {"description": "A Rust implementation of Redux.", "language": "Rust", "repo": "redux-rs", "new_stars": 93, "stars": 94, "owner": "redux-rs", "forks": 0},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 90, "stars": 9468, "owner": "rust-unofficial", "forks": 619},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 71, "stars": 3726, "owner": "mimblewimble", "forks": 647},
@@ -20,8 +20,8 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 73, "stars": 7209, "owner": "firecracker-microvm", "forks": 400},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 67, "stars": 13372, "owner": "servo", "forks": 2058},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 69, "stars": 1600, "owner": "wasmerio", "forks": 40},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 61, "stars": 8372, "owner": "sharkdp", "forks": 214},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 61, "stars": 8373, "owner": "sharkdp", "forks": 214},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 57, "stars": 3982, "owner": "tokio-rs", "forks": 294},
 {"description": "WIP GTK terminal emulator based on Alacritty", "language": "Rust", "repo": "galacritty", "new_stars": 54, "stars": 91, "owner": "myfreeweb", "forks": 4},
-{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 51, "stars": 3878, "owner": "sharkdp", "forks": 94}
+{"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 51, "stars": 3878, "owner": "sharkdp", "forks": 95}
 ]

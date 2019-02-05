@@ -1,7 +1,7 @@
 [
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 403, "stars": 2016, "owner": "RustPython", "forks": 81},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 403, "stars": 2023, "owner": "RustPython", "forks": 81},
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 43, "stars": 332, "owner": "Canop", "forks": 11},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 33814, "owner": "rust-lang", "forks": 5512},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 33811, "owner": "rust-lang", "forks": 5512},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 11906, "owner": "sharkdp", "forks": 220},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 14287, "owner": "jwilm", "forks": 619},
 {"description": "A simple CLI tool for installing and maintaining linux GOG games", "language": "Rust", "repo": "wyvern", "new_stars": 18, "stars": 50, "owner": "nicohman", "forks": 1},
@@ -16,12 +16,12 @@
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 10, "stars": 2596, "owner": "rayon-rs", "forks": 173},
 {"description": "The \"Command Line Interactive Controller for Kubernetes\"", "language": "Rust", "repo": "click", "new_stars": 10, "stars": 853, "owner": "databricks", "forks": 39},
 {"description": "A procedural macro for auto logging output of functions", "language": "Rust", "repo": "log-derive", "new_stars": 10, "stars": 76, "owner": "elichai", "forks": 0},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4527, "owner": "tikv", "forks": 647},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4525, "owner": "tikv", "forks": 647},
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 9, "stars": 3876, "owner": "sharkdp", "forks": 94},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 1597, "owner": "wasmerio", "forks": 40},
-{"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 8, "stars": 3270, "owner": "swc-project", "forks": 49},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 9468, "owner": "rust-unofficial", "forks": 619},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 8371, "owner": "sharkdp", "forks": 214},
-{"description": "Rust library for Neovim clients", "language": "Rust", "repo": "neovim-lib", "new_stars": 8, "stars": 56, "owner": "daa84", "forks": 13},
+{"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 8, "stars": 3269, "owner": "swc-project", "forks": 49},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 9467, "owner": "rust-unofficial", "forks": 619},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 8370, "owner": "sharkdp", "forks": 214},
+{"description": "Rust library for Neovim clients", "language": "Rust", "repo": "neovim-lib", "new_stars": 8, "stars": 57, "owner": "daa84", "forks": 13},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 7, "stars": 3725, "owner": "mimblewimble", "forks": 646}
 ]

@@ -1,8 +1,8 @@
 [
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 3637, "stars": 3877, "owner": "sharkdp", "forks": 94},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1692, "stars": 2024, "owner": "RustPython", "forks": 81},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1692, "stars": 2029, "owner": "RustPython", "forks": 81},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1547, "stars": 1823, "owner": "toshi-search", "forks": 49},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1005, "stars": 33811, "owner": "rust-lang", "forks": 5512},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1005, "stars": 33812, "owner": "rust-lang", "forks": 5512},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 821, "stars": 11906, "owner": "sharkdp", "forks": 220},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 624, "stars": 3725, "owner": "mimblewimble", "forks": 646},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 673, "stars": 697, "owner": "cloudflare", "forks": 21},
@@ -11,7 +11,7 @@
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 495, "stars": 8371, "owner": "sharkdp", "forks": 214},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 477, "stars": 14287, "owner": "jwilm", "forks": 619},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 487, "stars": 992, "owner": "mit-pdos", "forks": 34},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 467, "stars": 12575, "owner": "BurntSushi", "forks": 511},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 467, "stars": 12576, "owner": "BurntSushi", "forks": 511},
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 439, "stars": 719, "owner": "djc", "forks": 39},
 {"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 425, "stars": 3269, "owner": "swc-project", "forks": 49},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 393, "stars": 9467, "owner": "rust-unofficial", "forks": 619},
@@ -23,5 +23,5 @@
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 272, "stars": 619, "owner": "vi", "forks": 22},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 251, "stars": 1531, "owner": "crossbeam-rs", "forks": 94},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 218, "stars": 4525, "owner": "tikv", "forks": 647},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 223, "stars": 1597, "owner": "wasmerio", "forks": 40}
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 223, "stars": 1598, "owner": "wasmerio", "forks": 40}
 ]

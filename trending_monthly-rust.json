@@ -1,6 +1,6 @@
 [
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 3639, "stars": 3880, "owner": "sharkdp", "forks": 95},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1776, "stars": 2097, "owner": "RustPython", "forks": 84},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1776, "stars": 2098, "owner": "RustPython", "forks": 85},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1547, "stars": 1823, "owner": "toshi-search", "forks": 49},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1008, "stars": 33819, "owner": "rust-lang", "forks": 5512},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 820, "stars": 11911, "owner": "sharkdp", "forks": 220},
@@ -12,16 +12,16 @@
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 487, "stars": 992, "owner": "mit-pdos", "forks": 34},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 471, "stars": 14290, "owner": "jwilm", "forks": 619},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 467, "stars": 12577, "owner": "BurntSushi", "forks": 511},
-{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 440, "stars": 720, "owner": "djc", "forks": 39},
+{"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 440, "stars": 720, "owner": "djc", "forks": 40},
 {"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 424, "stars": 3273, "owner": "swc-project", "forks": 49},
-{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 324, "stars": 336, "owner": "Canop", "forks": 12},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 293, "stars": 13372, "owner": "servo", "forks": 2058},
+{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 324, "stars": 337, "owner": "Canop", "forks": 12},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 293, "stars": 13373, "owner": "servo", "forks": 2058},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 294, "stars": 6495, "owner": "DenisKolodin", "forks": 229},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 280, "stars": 6383, "owner": "SergioBenitez", "forks": 416},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 272, "stars": 620, "owner": "vi", "forks": 22},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 252, "stars": 1532, "owner": "crossbeam-rs", "forks": 95},
 {"description": "Scalable, social, Code REView and recommendation system that we desperately need", "language": "Rust", "repo": "crev", "new_stars": 233, "stars": 631, "owner": "dpc", "forks": 20},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 213, "stars": 4525, "owner": "tikv", "forks": 647},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 226, "stars": 1600, "owner": "wasmerio", "forks": 40},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 226, "stars": 1602, "owner": "wasmerio", "forks": 40},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 215, "stars": 2466, "owner": "sharkdp", "forks": 51}
 ]

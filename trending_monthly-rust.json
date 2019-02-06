@@ -1,16 +1,16 @@
 [
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 3646, "stars": 3890, "owner": "sharkdp", "forks": 95},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1950, "stars": 2270, "owner": "RustPython", "forks": 94},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1950, "stars": 2271, "owner": "RustPython", "forks": 94},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 1548, "stars": 1825, "owner": "toshi-search", "forks": 49},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1005, "stars": 33834, "owner": "rust-lang", "forks": 5516},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 830, "stars": 11933, "owner": "sharkdp", "forks": 221},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1005, "stars": 33835, "owner": "rust-lang", "forks": 5516},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 830, "stars": 11934, "owner": "sharkdp", "forks": 221},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol", "language": "Rust", "repo": "quiche", "new_stars": 694, "stars": 721, "owner": "cloudflare", "forks": 22},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 613, "stars": 3738, "owner": "mimblewimble", "forks": 650},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 561, "stars": 1973, "owner": "tantivy-search", "forks": 104},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 500, "stars": 8387, "owner": "sharkdp", "forks": 215},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 477, "stars": 7216, "owner": "firecracker-microvm", "forks": 401},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 477, "stars": 7215, "owner": "firecracker-microvm", "forks": 401},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 474, "stars": 14308, "owner": "jwilm", "forks": 620},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 467, "stars": 12584, "owner": "BurntSushi", "forks": 511},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 467, "stars": 12587, "owner": "BurntSushi", "forks": 511},
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 441, "stars": 722, "owner": "djc", "forks": 40},
 {"description": "Super-fast alternative for babel written in rust", "language": "Rust", "repo": "swc", "new_stars": 425, "stars": 3283, "owner": "swc-project", "forks": 49},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 366, "stars": 993, "owner": "mit-pdos", "forks": 34},
@@ -22,6 +22,6 @@
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 251, "stars": 1534, "owner": "crossbeam-rs", "forks": 95},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 239, "stars": 1616, "owner": "wasmerio", "forks": 40},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 206, "stars": 4525, "owner": "tikv", "forks": 647},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 220, "stars": 2473, "owner": "sharkdp", "forks": 51},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 208, "stars": 3188, "owner": "actix", "forks": 228}
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 220, "stars": 2474, "owner": "sharkdp", "forks": 51},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 208, "stars": 3188, "owner": "actix", "forks": 229}
 ]

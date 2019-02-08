@@ -1,7 +1,7 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 126, "stars": 49515, "owner": "laravel", "forks": 15243},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 24, "stars": 16020, "owner": "laravel", "forks": 6231},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 22, "stars": 18304, "owner": "composer", "forks": 5387},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 24, "stars": 16021, "owner": "laravel", "forks": 6232},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 22, "stars": 18304, "owner": "composer", "forks": 5388},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 20, "stars": 19349, "owner": "fzaninotto", "forks": 2315},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 18, "stars": 19791, "owner": "symfony", "forks": 6676},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 18, "stars": 13589, "owner": "Seldaek", "forks": 1492},
@@ -13,7 +13,7 @@
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 12, "stars": 4038, "owner": "guzzle", "forks": 159},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 12, "stars": 9391, "owner": "nikic", "forks": 585},
 {"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 7, "stars": 6772, "owner": "magento", "forks": 5907},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 10, "stars": 5282, "owner": "PHPOffice", "forks": 950},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 10, "stars": 5283, "owner": "PHPOffice", "forks": 950},
 {"description": "PHP errors for cool kids", "language": "PHP", "repo": "whoops", "new_stars": 11, "stars": 9353, "owner": "filp", "forks": 508},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 9, "stars": 16458, "owner": "danielmiessler", "forks": 6030},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 10, "stars": 7143, "owner": "mockery", "forks": 344},

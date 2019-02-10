@@ -1,6 +1,6 @@
 [
 {"description": "Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.", "language": "Java", "repo": "fescar", "new_stars": 3852, "stars": 4682, "owner": "alibaba", "forks": 1058},
-{"description": "\u4e92\u8054\u7f51 Java \u5de5\u7a0b\u5e08\u8fdb\u9636\u77e5\u8bc6\u5b8c\u5168\u626b\u76f2", "language": "Java", "repo": "advanced-java", "new_stars": 3256, "stars": 8364, "owner": "doocs", "forks": 1546},
+{"description": "\u4e92\u8054\u7f51 Java \u5de5\u7a0b\u5e08\u8fdb\u9636\u77e5\u8bc6\u5b8c\u5168\u626b\u76f2", "language": "Java", "repo": "advanced-java", "new_stars": 3256, "stars": 8365, "owner": "doocs", "forks": 1546},
 {"description": "Apache Flink", "language": "Java", "repo": "flink", "new_stars": 1500, "stars": 7222, "owner": "apache", "forks": 3873},
 {"description": "\u4e00\u6b3e\u7528 Java \u5b9e\u73b0\u7684\u73b0\u4ee3\u5316\u793e\u533a\uff08\u8bba\u575b/BBS/\u793e\u4ea4\u7f51\u7edc/\u535a\u5ba2\uff09\u5e73\u53f0\u3002", "language": "Java", "repo": "symphony", "new_stars": 1377, "stars": 10561, "owner": "b3log", "forks": 3281},
 {"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 1079, "stars": 33940, "owner": "spring-projects", "forks": 22738},
@@ -8,7 +8,7 @@
 {"description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.", "language": "Java", "repo": "nacos", "new_stars": 1140, "stars": 4154, "owner": "alibaba", "forks": 834},
 {"description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java\u8bca\u65ad\u5229\u5668Arthas", "language": "Java", "repo": "arthas", "new_stars": 1066, "stars": 9612, "owner": "alibaba", "forks": 1776},
 {"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 1022, "stars": 44297, "owner": "iluwatar", "forks": 14370},
-{"description": "This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.", "language": "Java", "repo": "h4cker", "new_stars": 1023, "stars": 1768, "owner": "The-Art-of-Hacking", "forks": 266},
+{"description": "This repository is primarily maintained by Omar Santos and includes resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.", "language": "Java", "repo": "h4cker", "new_stars": 1023, "stars": 1770, "owner": "The-Art-of-Hacking", "forks": 266},
 {"description": "Open Source, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 806, "stars": 38231, "owner": "elastic", "forks": 12825},
 {"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 744, "stars": 10421, "owner": "TheAlgorithms", "forks": 4000},
 {"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 644, "stars": 26422, "owner": "spring-projects", "forks": 16822},
@@ -18,10 +18,10 @@
 {"description": "Google core libraries for Java", "language": "Java", "repo": "guava", "new_stars": 552, "stars": 29701, "owner": "google", "forks": 6713},
 {"description": "Netty project - an event-driven asynchronous network application framework", "language": "Java", "repo": "netty", "new_stars": 438, "stars": 17820, "owner": "netty", "forks": 7878},
 {"description": "RxJava \u2013 Reactive Extensions for the JVM \u2013 a library for composing asynchronous and event-based programs using observable sequences for the Java VM.", "language": "Java", "repo": "RxJava", "new_stars": 464, "stars": 37525, "owner": "ReactiveX", "forks": 6382},
-{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "Java", "repo": "Magisk", "new_stars": 446, "stars": 4306, "owner": "topjohnwu", "forks": 578},
+{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "Java", "repo": "Magisk", "new_stars": 446, "stars": 4307, "owner": "topjohnwu", "forks": 578},
 {"description": "Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate) on top of Redis server. State of the Art Redis Java client", "language": "Java", "repo": "redisson", "new_stars": 418, "stars": 7876, "owner": "redisson", "forks": 2001},
 {"description": "\u963f\u91cc\u5df4\u5df4\u6570\u636e\u5e93\u4e8b\u4e1a\u90e8\u51fa\u54c1\uff0c\u4e3a\u76d1\u63a7\u800c\u751f\u7684\u6570\u636e\u5e93\u8fde\u63a5\u6c60\u3002\u963f\u91cc\u4e91Data Lake Analytics(", "language": "Java", "repo": "druid", "new_stars": 378, "stars": 15065, "owner": "alibaba", "forks": 5546},
 {"description": "Mirror of Apache Kafka", "language": "Java", "repo": "kafka", "new_stars": 351, "stars": 11063, "owner": "apache", "forks": 6014},
 {"description": "An HTTP+HTTP/2 client for Android and Java applications.", "language": "Java", "repo": "okhttp", "new_stars": 376, "stars": 30770, "owner": "square", "forks": 6908},
-{"description": "Render After Effects animations natively on Android and iOS, Web, and React Native", "language": "Java", "repo": "lottie-android", "new_stars": 370, "stars": 24164, "owner": "airbnb", "forks": 3789}
+{"description": "Render After Effects animations natively on Android and iOS, Web, and React Native", "language": "Java", "repo": "lottie-android", "new_stars": 370, "stars": 24166, "owner": "airbnb", "forks": 3789}
 ]

@@ -1,11 +1,11 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 37, "stars": 49615, "owner": "laravel", "forks": 15269},
 {"description": "PHP library for generating and parsing license", "language": "PHP", "repo": "php-license", "new_stars": 29, "stars": 40, "owner": "ziishaned", "forks": 1},
-{"description": null, "language": "PHP", "repo": "aggregate.stitcher.io", "new_stars": 25, "stars": 78, "owner": "brendt", "forks": 16},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 18, "stars": 16480, "owner": "danielmiessler", "forks": 6052},
-{"description": "A high-level machine learning library that allows you to build programs that learn from data using the PHP language.", "language": "PHP", "repo": "RubixML", "new_stars": 19, "stars": 334, "owner": "RubixML", "forks": 14},
+{"description": null, "language": "PHP", "repo": "aggregate.stitcher.io", "new_stars": 25, "stars": 79, "owner": "brendt", "forks": 16},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 18, "stars": 16481, "owner": "danielmiessler", "forks": 6052},
+{"description": "A high-level machine learning library that allows you to build programs that learn from data using the PHP language.", "language": "PHP", "repo": "RubixML", "new_stars": 19, "stars": 338, "owner": "RubixML", "forks": 14},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 18, "stars": 19383, "owner": "fzaninotto", "forks": 2318},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 17, "stars": 16057, "owner": "laravel", "forks": 6239},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 17, "stars": 16058, "owner": "laravel", "forks": 6239},
 {"description": "A PHP GraphQL Framework", "language": "PHP", "repo": "railt", "new_stars": 17, "stars": 144, "owner": "railt", "forks": 9},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 16, "stars": 9419, "owner": "nikic", "forks": 587},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 16, "stars": 18341, "owner": "composer", "forks": 5390},
@@ -14,7 +14,7 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 13, "stars": 13012, "owner": "sebastianbergmann", "forks": 1692},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 13, "stars": 11646, "owner": "briannesbitt", "forks": 1050},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 19814, "owner": "symfony", "forks": 6680},
-{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 11, "stars": 1435, "owner": "vimeo", "forks": 85},
+{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 11, "stars": 1436, "owner": "vimeo", "forks": 85},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 12, "stars": 5998, "owner": "doctrine", "forks": 38},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 12, "stars": 6160, "owner": "doctrine", "forks": 85},
 {"description": "The Debug component provides tools to ease debugging PHP code.", "language": "PHP", "repo": "debug", "new_stars": 12, "stars": 5361, "owner": "symfony", "forks": 31},
@@ -22,6 +22,6 @@
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 11, "stars": 5250, "owner": "symfony", "forks": 52},
 {"description": "The VarDumper component provides mechanisms for walking through any arbitrary PHP variable. Built on top, it provides a better dump() function that you can use instead of var_dump().", "language": "PHP", "repo": "var-dumper", "new_stars": 11, "stars": 5047, "owner": "symfony", "forks": 52},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 11, "stars": 4394, "owner": "doctrine", "forks": 939},
-{"description": "Strongly typed enums in PHP supporting autocompletion and refactoring", "language": "PHP", "repo": "enum", "new_stars": 11, "stars": 47, "owner": "spatie", "forks": 0},
+{"description": "Strongly typed enums in PHP supporting autocompletion and refactoring", "language": "PHP", "repo": "enum", "new_stars": 11, "stars": 48, "owner": "spatie", "forks": 0},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 10, "stars": 10059, "owner": "erusev", "forks": 845}
 ]

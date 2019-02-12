@@ -1,13 +1,13 @@
 [
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 269, "stars": 4366, "owner": "swc-project", "forks": 62},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 204, "stars": 1714, "owner": "nathan", "forks": 26},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 269, "stars": 4375, "owner": "swc-project", "forks": 62},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 204, "stars": 1715, "owner": "nathan", "forks": 26},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 55, "stars": 643, "owner": "notion-cli", "forks": 25},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 31, "stars": 2737, "owner": "RustPython", "forks": 123},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 33947, "owner": "rust-lang", "forks": 5527},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 33947, "owner": "rust-lang", "forks": 5528},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 25, "stars": 12686, "owner": "BurntSushi", "forks": 518},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 20, "stars": 9540, "owner": "rust-unofficial", "forks": 625},
-{"description": "Layer 4 load balancer with dynamic configuration loading", "language": "Rust", "repo": "convey", "new_stars": 20, "stars": 40, "owner": "bparli", "forks": 3},
-{"description": "Binary coverage tool without binary modification for Windows", "language": "Rust", "repo": "mesos", "new_stars": 19, "stars": 79, "owner": "gamozolabs", "forks": 3},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 20, "stars": 9542, "owner": "rust-unofficial", "forks": 625},
+{"description": "Layer 4 load balancer with dynamic configuration loading", "language": "Rust", "repo": "convey", "new_stars": 20, "stars": 41, "owner": "bparli", "forks": 3},
+{"description": "Binary coverage tool without binary modification for Windows", "language": "Rust", "repo": "mesos", "new_stars": 19, "stars": 82, "owner": "gamozolabs", "forks": 3},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 18, "stars": 7288, "owner": "firecracker-microvm", "forks": 412},
 {"description": "Easy and usable rust crypto", "language": "Rust", "repo": "orion", "new_stars": 18, "stars": 66, "owner": "brycx", "forks": 4},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 14379, "owner": "jwilm", "forks": 627},
@@ -23,5 +23,5 @@
 {"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 10, "stars": 327, "owner": "rust-embedded", "forks": 13},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 9, "stars": 1569, "owner": "crossbeam-rs", "forks": 96},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 9, "stars": 3011, "owner": "rust-lang", "forks": 411},
-{"description": "A tool to easily run flatpak apps isolated inside a VM using QEMU/KVM", "language": "Rust", "repo": "flatkvm", "new_stars": 9, "stars": 39, "owner": "flatkvm", "forks": 2}
+{"description": "A tool to easily run flatpak apps isolated inside a VM using QEMU/KVM", "language": "Rust", "repo": "flatkvm", "new_stars": 9, "stars": 40, "owner": "flatkvm", "forks": 2}
 ]

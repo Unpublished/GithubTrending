@@ -1,14 +1,14 @@
 [
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 48, "stars": 4826, "owner": "swc-project", "forks": 67},
-{"description": "Work in progress firewall for Linux syscalls, written in Rust", "language": "Rust", "repo": "syswall", "new_stars": 30, "stars": 43, "owner": "polaris64", "forks": 3},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 28, "stars": 12143, "owner": "sharkdp", "forks": 226},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 24, "stars": 4761, "owner": "mre", "forks": 557},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 48, "stars": 4827, "owner": "swc-project", "forks": 67},
+{"description": "Work in progress firewall for Linux syscalls, written in Rust", "language": "Rust", "repo": "syswall", "new_stars": 30, "stars": 44, "owner": "polaris64", "forks": 3},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 28, "stars": 12144, "owner": "sharkdp", "forks": 226},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 24, "stars": 4761, "owner": "mre", "forks": 558},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 22, "stars": 34040, "owner": "rust-lang", "forks": 5542},
 {"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 21, "stars": 694, "owner": "RedBeardLab", "forks": 55},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 17, "stars": 2625, "owner": "amethyst", "forks": 312},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 14462, "owner": "jwilm", "forks": 628},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 14463, "owner": "jwilm", "forks": 628},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 12760, "owner": "BurntSushi", "forks": 517},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9611, "owner": "rust-unofficial", "forks": 629},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9612, "owner": "rust-unofficial", "forks": 629},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 13, "stars": 8488, "owner": "sharkdp", "forks": 216},
 {"description": null, "language": "Rust", "repo": "rust-headless-chrome", "new_stars": 12, "stars": 193, "owner": "atroche", "forks": 6},
 {"description": "Rust proc macro for easily and safely use shell scripts in rust", "language": "Rust", "repo": "shellfn", "new_stars": 11, "stars": 88, "owner": "synek317", "forks": 2},
@@ -22,6 +22,6 @@
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 7, "stars": 774, "owner": "cloudflare", "forks": 24},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 7, "stars": 602, "owner": "pingcap", "forks": 79},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 844, "owner": "paritytech", "forks": 189},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 13467, "owner": "servo", "forks": 2070},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 13468, "owner": "servo", "forks": 2070},
 {"description": "Encoding and decoding images in Rust", "language": "Rust", "repo": "image", "new_stars": 6, "stars": 902, "owner": "PistonDevelopers", "forks": 224}
 ]

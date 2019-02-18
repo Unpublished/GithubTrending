@@ -1,20 +1,20 @@
 [
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 2458, "stars": 2809, "owner": "RustPython", "forks": 132},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1827, "stars": 4844, "owner": "swc-project", "forks": 67},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 859, "stars": 34045, "owner": "rust-lang", "forks": 5542},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1827, "stars": 4845, "owner": "swc-project", "forks": 68},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 859, "stars": 34046, "owner": "rust-lang", "forks": 5542},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 745, "stars": 774, "owner": "cloudflare", "forks": 24},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 625, "stars": 679, "owner": "notion-cli", "forks": 27},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 572, "stars": 12153, "owner": "sharkdp", "forks": 226},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 572, "stars": 12155, "owner": "sharkdp", "forks": 226},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 512, "stars": 1846, "owner": "nathan", "forks": 25},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 446, "stars": 14470, "owner": "jwilm", "forks": 631},
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 439, "stars": 740, "owner": "djc", "forks": 41},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 430, "stars": 12768, "owner": "BurntSushi", "forks": 517},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 342, "stars": 3806, "owner": "mimblewimble", "forks": 686},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 360, "stars": 9614, "owner": "rust-unofficial", "forks": 630},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 360, "stars": 9615, "owner": "rust-unofficial", "forks": 630},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 347, "stars": 7334, "owner": "firecracker-microvm", "forks": 417},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 292, "stars": 13468, "owner": "servo", "forks": 2071},
-{"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 299, "stars": 659, "owner": "vi", "forks": 25},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 299, "stars": 8491, "owner": "sharkdp", "forks": 217},
+{"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 299, "stars": 661, "owner": "vi", "forks": 25},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 299, "stars": 8492, "owner": "sharkdp", "forks": 217},
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 294, "stars": 418, "owner": "Canop", "forks": 11},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 280, "stars": 1595, "owner": "crossbeam-rs", "forks": 97},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 270, "stars": 6568, "owner": "DenisKolodin", "forks": 229},
@@ -23,5 +23,5 @@
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 256, "stars": 1867, "owner": "toshi-search", "forks": 50},
 {"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 203, "stars": 510, "owner": "holochain", "forks": 183},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 236, "stars": 6475, "owner": "SergioBenitez", "forks": 422},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 232, "stars": 4764, "owner": "mre", "forks": 560}
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 232, "stars": 4763, "owner": "mre", "forks": 560}
 ]

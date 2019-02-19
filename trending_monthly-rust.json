@@ -1,6 +1,6 @@
 [
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 2466, "stars": 2817, "owner": "RustPython", "forks": 132},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1842, "stars": 4862, "owner": "swc-project", "forks": 68},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1842, "stars": 4864, "owner": "swc-project", "forks": 68},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 851, "stars": 34053, "owner": "rust-lang", "forks": 5543},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 746, "stars": 776, "owner": "cloudflare", "forks": 24},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 630, "stars": 685, "owner": "notion-cli", "forks": 27},
@@ -10,7 +10,7 @@
 {"description": "Futures-based QUIC implementation in Rust", "language": "Rust", "repo": "quinn", "new_stars": 437, "stars": 740, "owner": "djc", "forks": 41},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 432, "stars": 12773, "owner": "BurntSushi", "forks": 517},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 331, "stars": 3811, "owner": "mimblewimble", "forks": 684},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 361, "stars": 9622, "owner": "rust-unofficial", "forks": 630},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 361, "stars": 9624, "owner": "rust-unofficial", "forks": 630},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 348, "stars": 7335, "owner": "firecracker-microvm", "forks": 417},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 305, "stars": 8498, "owner": "sharkdp", "forks": 218},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 301, "stars": 661, "owner": "vi", "forks": 25},
@@ -21,7 +21,7 @@
 {"description": "git commit --fixup, but automatic", "language": "Rust", "repo": "git-absorb", "new_stars": 262, "stars": 279, "owner": "tummychow", "forks": 7},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 255, "stars": 1686, "owner": "wasmerio", "forks": 49},
 {"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 203, "stars": 510, "owner": "holochain", "forks": 183},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 234, "stars": 4769, "owner": "mre", "forks": 563},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 236, "stars": 6476, "owner": "SergioBenitez", "forks": 422},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 234, "stars": 4770, "owner": "mre", "forks": 563},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 236, "stars": 6477, "owner": "SergioBenitez", "forks": 422},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 233, "stars": 1867, "owner": "toshi-search", "forks": 50}
 ]

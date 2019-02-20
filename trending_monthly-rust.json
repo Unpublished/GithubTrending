@@ -1,6 +1,6 @@
 [
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 2479, "stars": 2835, "owner": "RustPython", "forks": 133},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1865, "stars": 4901, "owner": "swc-project", "forks": 70},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1865, "stars": 4902, "owner": "swc-project", "forks": 70},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 861, "stars": 34087, "owner": "rust-lang", "forks": 5547},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 750, "stars": 780, "owner": "cloudflare", "forks": 24},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 638, "stars": 693, "owner": "notion-cli", "forks": 28},
@@ -12,7 +12,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 368, "stars": 9639, "owner": "rust-unofficial", "forks": 632},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 359, "stars": 7350, "owner": "firecracker-microvm", "forks": 417},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 317, "stars": 3821, "owner": "mimblewimble", "forks": 685},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 315, "stars": 8516, "owner": "sharkdp", "forks": 220},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 315, "stars": 8517, "owner": "sharkdp", "forks": 220},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 302, "stars": 662, "owner": "vi", "forks": 25},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 283, "stars": 13475, "owner": "servo", "forks": 2074},
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 298, "stars": 422, "owner": "Canop", "forks": 12},
@@ -20,8 +20,8 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 270, "stars": 6577, "owner": "DenisKolodin", "forks": 230},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 261, "stars": 1696, "owner": "wasmerio", "forks": 50},
 {"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 206, "stars": 513, "owner": "holochain", "forks": 184},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 244, "stars": 4781, "owner": "mre", "forks": 565},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 234, "stars": 6482, "owner": "SergioBenitez", "forks": 425},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 219, "stars": 2645, "owner": "amethyst", "forks": 313},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 244, "stars": 4782, "owner": "mre", "forks": 565},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 234, "stars": 6483, "owner": "SergioBenitez", "forks": 425},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 219, "stars": 2646, "owner": "amethyst", "forks": 313},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 209, "stars": 3285, "owner": "actix", "forks": 236}
 ]

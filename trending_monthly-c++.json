@@ -1,19 +1,19 @@
 [
-{"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 2956, "stars": 2964, "owner": "lemire", "forks": 92},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 2319, "stars": 121066, "owner": "tensorflow", "forks": 72224},
-{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 2104, "stars": 13357, "owner": "MisterBooo", "forks": 1509},
+{"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 2956, "stars": 2972, "owner": "lemire", "forks": 91},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 2319, "stars": 121067, "owner": "tensorflow", "forks": 72225},
+{"description": "Demonstrate all the questions on LeetCode in the form of animation.\uff08\u7528\u52a8\u753b\u7684\u5f62\u5f0f\u5448\u73b0\u89e3LeetCode\u9898\u76ee\u7684\u601d\u8def\uff09", "language": "C++", "repo": "LeetCodeAnimation", "new_stars": 2104, "stars": 13359, "owner": "MisterBooo", "forks": 1509},
 {"description": "The smallest UI framework for all platform -- 5k lines code", "language": "C++", "repo": "GuiLite", "new_stars": 1422, "stars": 2205, "owner": "idea4good", "forks": 207},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1277, "stars": 70299, "owner": "electron", "forks": 9161},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1277, "stars": 70300, "owner": "electron", "forks": 9161},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1088, "stars": 25061, "owner": "pytorch", "forks": 5936},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 834, "stars": 31998, "owner": "opencv", "forks": 22932},
 {"description": "A brief computer graphics / rendering course", "language": "C++", "repo": "tinyraytracer", "new_stars": 997, "stars": 2459, "owner": "ssloy", "forks": 103},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 861, "stars": 24685, "owner": "tesseract-ocr", "forks": 4778},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 861, "stars": 24686, "owner": "tesseract-ocr", "forks": 4777},
 {"description": "486 lines of C++: old-school FPS in a weekend", "language": "C++", "repo": "tinyraycaster", "new_stars": 853, "stars": 860, "owner": "ssloy", "forks": 39},
-{"description": "TypeScript web server - 15x faster than Deno", "language": "C++", "repo": "uWebSockets.js", "new_stars": 829, "stars": 1005, "owner": "uNetworking", "forks": 49},
+{"description": "TypeScript web server - 15x faster than Deno", "language": "C++", "repo": "uWebSockets.js", "new_stars": 829, "stars": 1010, "owner": "uNetworking", "forks": 50},
 {"description": "A cross-platform desktop app framework based on Node.js and the system webview", "language": "C++", "repo": "DeskGap", "new_stars": 711, "stars": 711, "owner": "patr0nus", "forks": 7},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 612, "stars": 32232, "owner": "protocolbuffers", "forks": 8838},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 601, "stars": 19486, "owner": "godotengine", "forks": 3925},
-{"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.", "language": "C++", "repo": "libphonenumber", "new_stars": 603, "stars": 8625, "owner": "googlei18n", "forks": 1098},
+{"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.", "language": "C++", "repo": "libphonenumber", "new_stars": 603, "stars": 8627, "owner": "googlei18n", "forks": 1098},
 {"description": "A brief computer graphics / rendering course", "language": "C++", "repo": "tinyrenderer", "new_stars": 610, "stars": 6397, "owner": "ssloy", "forks": 492},
 {"description": "Jsonnet - The data templating language", "language": "C++", "repo": "jsonnet", "new_stars": 609, "stars": 2513, "owner": "google", "forks": 215},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 518, "stars": 19624, "owner": "grpc", "forks": 4505},
@@ -23,5 +23,5 @@
 {"description": "C/C++\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 481, "stars": 2910, "owner": "huihut", "forks": 897},
 {"description": "A memory allocator that automatically reduces the memory footprint of C/C++ applications.", "language": "C++", "repo": "Mesh", "new_stars": 491, "stars": 497, "owner": "plasma-umass", "forks": 14},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 419, "stars": 46725, "owner": "apple", "forks": 7401},
-{"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 446, "stars": 3915, "owner": "google", "forks": 223}
+{"description": "Desktop implementations of the Flutter embedding API", "language": "C++", "repo": "flutter-desktop-embedding", "new_stars": 446, "stars": 3916, "owner": "google", "forks": 223}
 ]

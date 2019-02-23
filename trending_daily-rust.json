@@ -1,8 +1,8 @@
 [
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 37, "stars": 190, "owner": "xi-editor", "forks": 10},
-{"description": "A universal gravity simulator written using rust_sdl2", "language": "Rust", "repo": "Gravisim", "new_stars": 35, "stars": 43, "owner": "bcamp1", "forks": 3},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 25, "stars": 4968, "owner": "swc-project", "forks": 71},
-{"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 16, "stars": 530, "owner": "holochain", "forks": 197},
+{"description": "A universal gravity simulator written using rust_sdl2", "language": "Rust", "repo": "Gravisim", "new_stars": 35, "stars": 44, "owner": "bcamp1", "forks": 3},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 25, "stars": 4969, "owner": "swc-project", "forks": 71},
+{"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 16, "stars": 531, "owner": "holochain", "forks": 197},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 34144, "owner": "rust-lang", "forks": 5549},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 18, "stars": 12260, "owner": "sharkdp", "forks": 226},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 16, "stars": 512, "owner": "Peltoche", "forks": 18},
@@ -15,7 +15,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 9678, "owner": "rust-unofficial", "forks": 632},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 11, "stars": 13487, "owner": "servo", "forks": 2079},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 11, "stars": 3341, "owner": "rust-lang", "forks": 232},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 4080, "owner": "tokio-rs", "forks": 306},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 4082, "owner": "tokio-rs", "forks": 306},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 9, "stars": 1910, "owner": "nathan", "forks": 26},
 {"description": "An incremental parsing system for programmings tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 9, "stars": 1032, "owner": "tree-sitter", "forks": 57},
 {"description": "Yarte stands for Yet Another Rust Template Engine, is a handlebars-like template engine implemented in rust.", "language": "Rust", "repo": "yarte", "new_stars": 9, "stars": 69, "owner": "rust-iendo", "forks": 1},
@@ -23,5 +23,5 @@
 {"description": "Build beautiful desktop apps with flutter and rust.", "language": "Rust", "repo": "flutter-rs", "new_stars": 8, "stars": 234, "owner": "gliheng", "forks": 2},
 {"description": "Rust proc macro for easily and safely use shell scripts in rust", "language": "Rust", "repo": "shellfn", "new_stars": 8, "stars": 119, "owner": "synek317", "forks": 2},
 {"description": "Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 7, "stars": 447, "owner": "rust-net-web", "forks": 50},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 4806, "owner": "mre", "forks": 567}
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 4807, "owner": "mre", "forks": 567}
 ]

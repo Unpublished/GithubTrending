@@ -7,15 +7,15 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 98, "stars": 12827, "owner": "BurntSushi", "forks": 518},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 95, "stars": 8550, "owner": "sharkdp", "forks": 221},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 89, "stars": 14512, "owner": "jwilm", "forks": 634},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 89, "stars": 9677, "owner": "rust-unofficial", "forks": 632},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 89, "stars": 9678, "owner": "rust-unofficial", "forks": 632},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 86, "stars": 4806, "owner": "mre", "forks": 567},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 90, "stars": 1910, "owner": "nathan", "forks": 26},
 {"description": "Work in progress firewall for Linux syscalls, written in Rust", "language": "Rust", "repo": "syswall", "new_stars": 86, "stars": 86, "owner": "polaris64", "forks": 3},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 81, "stars": 2670, "owner": "amethyst", "forks": 314},
 {"description": "Rust proc macro for easily and safely use shell scripts in rust", "language": "Rust", "repo": "shellfn", "new_stars": 84, "stars": 118, "owner": "synek317", "forks": 2},
 {"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 70, "stars": 744, "owner": "RedBeardLab", "forks": 57},
-{"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 65, "stars": 188, "owner": "xi-editor", "forks": 10},
-{"description": "Yarte stands for Yet Another Rust Template Engine, is a handlebars-like template engine implemented in rust.", "language": "Rust", "repo": "yarte", "new_stars": 66, "stars": 68, "owner": "rust-iendo", "forks": 1},
+{"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 65, "stars": 189, "owner": "xi-editor", "forks": 10},
+{"description": "Yarte stands for Yet Another Rust Template Engine, is a handlebars-like template engine implemented in rust.", "language": "Rust", "repo": "yarte", "new_stars": 66, "stars": 69, "owner": "rust-iendo", "forks": 1},
 {"description": "A high-performance UDP-based load generator, written in Rust", "language": "Rust", "repo": "anevicon", "new_stars": 57, "stars": 60, "owner": "Gymmasssorla", "forks": 2},
 {"description": "Type-safe, compiled Jinja-like templates for Rust", "language": "Rust", "repo": "askama", "new_stars": 55, "stars": 628, "owner": "djc", "forks": 46},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 54, "stars": 6605, "owner": "DenisKolodin", "forks": 230},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 44, "stars": 4079, "owner": "tokio-rs", "forks": 306},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 41, "stars": 4614, "owner": "tikv", "forks": 668},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 43, "stars": 6497, "owner": "SergioBenitez", "forks": 429},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 41, "stars": 3838, "owner": "mimblewimble", "forks": 688}
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 41, "stars": 3838, "owner": "mimblewimble", "forks": 690}
 ]

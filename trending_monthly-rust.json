@@ -1,12 +1,12 @@
 [
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 2522, "stars": 2878, "owner": "RustPython", "forks": 134},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1905, "stars": 4964, "owner": "swc-project", "forks": 71},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 819, "stars": 34137, "owner": "rust-lang", "forks": 5549},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 819, "stars": 34138, "owner": "rust-lang", "forks": 5549},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 679, "stars": 782, "owner": "cloudflare", "forks": 26},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 643, "stars": 698, "owner": "notion-cli", "forks": 29},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 611, "stars": 12260, "owner": "sharkdp", "forks": 226},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 574, "stars": 1910, "owner": "nathan", "forks": 26},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 446, "stars": 12827, "owner": "BurntSushi", "forks": 518},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 446, "stars": 12828, "owner": "BurntSushi", "forks": 518},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 430, "stars": 14512, "owner": "jwilm", "forks": 634},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 401, "stars": 7420, "owner": "firecracker-microvm", "forks": 422},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 377, "stars": 9678, "owner": "rust-unofficial", "forks": 632},
@@ -23,5 +23,5 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 237, "stars": 6497, "owner": "SergioBenitez", "forks": 429},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 228, "stars": 2670, "owner": "amethyst", "forks": 314},
 {"description": null, "language": "Rust", "repo": "rust-headless-chrome", "new_stars": 219, "stars": 219, "owner": "atroche", "forks": 10},
-{"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 212, "stars": 282, "owner": "kpcyrd", "forks": 17}
+{"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 212, "stars": 283, "owner": "kpcyrd", "forks": 17}
 ]

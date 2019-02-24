@@ -1,7 +1,7 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 34168, "owner": "rust-lang", "forks": 5551},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 14531, "owner": "jwilm", "forks": 634},
-{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 14, "stars": 254, "owner": "lpil", "forks": 7},
+{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 14, "stars": 255, "owner": "lpil", "forks": 7},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 13, "stars": 12850, "owner": "BurntSushi", "forks": 518},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 12, "stars": 4981, "owner": "swc-project", "forks": 71},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 12, "stars": 4092, "owner": "tokio-rs", "forks": 306},
@@ -15,7 +15,7 @@
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 8, "stars": 676, "owner": "vi", "forks": 26},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 6507, "owner": "SergioBenitez", "forks": 429},
 {"description": "A sampling CPU profiler for Linux", "language": "Rust", "repo": "not-perf", "new_stars": 8, "stars": 417, "owner": "nokia", "forks": 12},
-{"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 8, "stars": 198, "owner": "xi-editor", "forks": 10},
+{"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 8, "stars": 199, "owner": "xi-editor", "forks": 10},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 13492, "owner": "servo", "forks": 2079},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 3630, "owner": "diesel-rs", "forks": 356},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 7, "stars": 1222, "owner": "graphql-rust", "forks": 86},

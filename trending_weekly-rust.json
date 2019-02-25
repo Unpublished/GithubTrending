@@ -4,15 +4,15 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 138, "stars": 12279, "owner": "sharkdp", "forks": 226},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 113, "stars": 7441, "owner": "firecracker-microvm", "forks": 425},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 113, "stars": 12870, "owner": "BurntSushi", "forks": 519},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 103, "stars": 2910, "owner": "RustPython", "forks": 138},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 103, "stars": 2911, "owner": "RustPython", "forks": 138},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 94, "stars": 14543, "owner": "jwilm", "forks": 634},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 9703, "owner": "rust-unofficial", "forks": 634},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 9704, "owner": "rust-unofficial", "forks": 634},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 8569, "owner": "sharkdp", "forks": 223},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 81, "stars": 205, "owner": "xi-editor", "forks": 11},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 81, "stars": 1920, "owner": "nathan", "forks": 26},
 {"description": "A high-performance UDP-based load generator, written in Rust", "language": "Rust", "repo": "anevicon", "new_stars": 64, "stars": 67, "owner": "Gymmasssorla", "forks": 3},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 57, "stars": 4819, "owner": "mre", "forks": 569},
-{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 62, "stars": 67, "owner": "jonhoo", "forks": 0},
+{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 62, "stars": 70, "owner": "jonhoo", "forks": 0},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 61, "stars": 6626, "owner": "DenisKolodin", "forks": 230},
 {"description": "Type-safe, compiled Jinja-like templates for Rust", "language": "Rust", "repo": "askama", "new_stars": 61, "stars": 634, "owner": "djc", "forks": 45},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 57, "stars": 4105, "owner": "tokio-rs", "forks": 308},
@@ -23,5 +23,5 @@
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 49, "stars": 269, "owner": "lpil", "forks": 7},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 48, "stars": 530, "owner": "Peltoche", "forks": 20},
 {"description": "A universal gravity simulator written using rust_sdl2", "language": "Rust", "repo": "Gravisim", "new_stars": 48, "stars": 56, "owner": "bcamp1", "forks": 4},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 42, "stars": 13502, "owner": "servo", "forks": 2079}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 42, "stars": 13503, "owner": "servo", "forks": 2079}
 ]

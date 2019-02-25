@@ -1,13 +1,13 @@
 [
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 52, "stars": 5043, "owner": "swc-project", "forks": 77},
-{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 39, "stars": 67, "owner": "jonhoo", "forks": 0},
+{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 39, "stars": 70, "owner": "jonhoo", "forks": 0},
 {"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 35, "stars": 1169, "owner": "hansihe", "forks": 55},
-{"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 33, "stars": 42, "owner": "chinedufn", "forks": 4},
+{"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 33, "stars": 43, "owner": "chinedufn", "forks": 5},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 34202, "owner": "rust-lang", "forks": 5552},
 {"description": "A fast, practical GPU rasterizer for fonts and vector graphics", "language": "Rust", "repo": "pathfinder", "new_stars": 27, "stars": 1217, "owner": "pcwalton", "forks": 54},
-{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 25, "stars": 49, "owner": "johnthagen", "forks": 1},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 21, "stars": 9703, "owner": "rust-unofficial", "forks": 634},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 17, "stars": 2910, "owner": "RustPython", "forks": 138},
+{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 25, "stars": 51, "owner": "johnthagen", "forks": 1},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 21, "stars": 9704, "owner": "rust-unofficial", "forks": 634},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 17, "stars": 2911, "owner": "RustPython", "forks": 138},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 12870, "owner": "BurntSushi", "forks": 519},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 15, "stars": 799, "owner": "cloudflare", "forks": 27},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 14, "stars": 12279, "owner": "sharkdp", "forks": 226},
@@ -21,7 +21,7 @@
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 9, "stars": 1920, "owner": "nathan", "forks": 26},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 8, "stars": 7441, "owner": "firecracker-microvm", "forks": 425},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 8, "stars": 4819, "owner": "mre", "forks": 569},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 13502, "owner": "servo", "forks": 2079},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 13503, "owner": "servo", "forks": 2079},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 8, "stars": 1622, "owner": "crossbeam-rs", "forks": 99},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 8, "stars": 1033, "owner": "chinedufn", "forks": 26}
 ]

@@ -1,11 +1,11 @@
 [
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 57, "stars": 5040, "owner": "swc-project", "forks": 76},
-{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 36, "stars": 61, "owner": "jonhoo", "forks": 0},
-{"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 30, "stars": 1162, "owner": "hansihe", "forks": 55},
+{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 36, "stars": 62, "owner": "jonhoo", "forks": 0},
+{"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 30, "stars": 1163, "owner": "hansihe", "forks": 55},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 34199, "owner": "rust-lang", "forks": 5551},
 {"description": "A fast, practical GPU rasterizer for fonts and vector graphics", "language": "Rust", "repo": "pathfinder", "new_stars": 27, "stars": 1214, "owner": "pcwalton", "forks": 54},
-{"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 26, "stars": 28, "owner": "chinedufn", "forks": 3},
-{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 22, "stars": 43, "owner": "johnthagen", "forks": 1},
+{"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 26, "stars": 30, "owner": "chinedufn", "forks": 3},
+{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 22, "stars": 44, "owner": "johnthagen", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 9701, "owner": "rust-unofficial", "forks": 634},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 17, "stars": 2908, "owner": "RustPython", "forks": 138},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 12868, "owner": "BurntSushi", "forks": 519},
@@ -19,9 +19,9 @@
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 9, "stars": 1032, "owner": "chinedufn", "forks": 26},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 9, "stars": 264, "owner": "lpil", "forks": 7},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 8, "stars": 4818, "owner": "mre", "forks": 569},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 4628, "owner": "tikv", "forks": 673},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 4629, "owner": "tikv", "forks": 673},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 6624, "owner": "DenisKolodin", "forks": 230},
 {"description": "Build beautiful desktop apps with flutter and rust.", "language": "Rust", "repo": "flutter-rs", "new_stars": 8, "stars": 245, "owner": "gliheng", "forks": 2},
 {"description": "Exponential backoff and retry for Rust.", "language": "Rust", "repo": "backoff", "new_stars": 8, "stars": 49, "owner": "ihrwein", "forks": 2},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 7, "stars": 7440, "owner": "firecracker-microvm", "forks": 425}
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 7, "stars": 7441, "owner": "firecracker-microvm", "forks": 425}
 ]

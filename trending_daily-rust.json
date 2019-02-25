@@ -1,10 +1,10 @@
 [
-{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 39, "stars": 48, "owner": "jonhoo", "forks": 0},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 38, "stars": 5025, "owner": "swc-project", "forks": 73},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 34196, "owner": "rust-lang", "forks": 5550},
+{"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 39, "stars": 51, "owner": "jonhoo", "forks": 0},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 38, "stars": 5027, "owner": "swc-project", "forks": 74},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 34197, "owner": "rust-lang", "forks": 5550},
 {"description": "A fast, practical GPU rasterizer for fonts and vector graphics", "language": "Rust", "repo": "pathfinder", "new_stars": 18, "stars": 1209, "owner": "pcwalton", "forks": 54},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 16, "stars": 2903, "owner": "RustPython", "forks": 137},
-{"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 16, "stars": 1152, "owner": "hansihe", "forks": 55},
+{"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 16, "stars": 1154, "owner": "hansihe", "forks": 55},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 12861, "owner": "BurntSushi", "forks": 518},
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 15, "stars": 35, "owner": "johnthagen", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 14538, "owner": "jwilm", "forks": 634},
@@ -17,11 +17,11 @@
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 8, "stars": 8566, "owner": "sharkdp", "forks": 222},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 7, "stars": 3849, "owner": "mimblewimble", "forks": 692},
 {"description": "A modular toolkit for building isomorphic web apps with Rust + WebAssembly", "language": "Rust", "repo": "percy", "new_stars": 7, "stars": 1029, "owner": "chinedufn", "forks": 26},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 7, "stars": 7438, "owner": "firecracker-microvm", "forks": 424},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 7, "stars": 7439, "owner": "firecracker-microvm", "forks": 424},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 7, "stars": 6622, "owner": "DenisKolodin", "forks": 231},
 {"description": "Exponential backoff and retry for Rust.", "language": "Rust", "repo": "backoff", "new_stars": 7, "stars": 46, "owner": "ihrwein", "forks": 2},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 6, "stars": 3635, "owner": "diesel-rs", "forks": 356},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 6, "stars": 1619, "owner": "crossbeam-rs", "forks": 99},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 1226, "owner": "graphql-rust", "forks": 86},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 1227, "owner": "graphql-rust", "forks": 86},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 6, "stars": 261, "owner": "lpil", "forks": 7}
 ]

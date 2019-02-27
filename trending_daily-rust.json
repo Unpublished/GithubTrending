@@ -1,11 +1,11 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 340, "stars": 2355, "owner": "wasmerio", "forks": 68},
-{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 100, "stars": 356, "owner": "chmln", "forks": 7},
-{"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 63, "stars": 77, "owner": "zesterer", "forks": 1},
-{"description": "Find files (ff) by name!", "language": "Rust", "repo": "ff", "new_stars": 63, "stars": 70, "owner": "vishaltelangre", "forks": 2},
-{"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 35, "stars": 89, "owner": "vhakulinen", "forks": 1},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 34, "stars": 8612, "owner": "sharkdp", "forks": 224},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 12322, "owner": "sharkdp", "forks": 227},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 340, "stars": 2357, "owner": "wasmerio", "forks": 68},
+{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 100, "stars": 359, "owner": "chmln", "forks": 7},
+{"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 63, "stars": 78, "owner": "zesterer", "forks": 1},
+{"description": "Find files (ff) by name!", "language": "Rust", "repo": "ff", "new_stars": 63, "stars": 72, "owner": "vishaltelangre", "forks": 2},
+{"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 35, "stars": 90, "owner": "vhakulinen", "forks": 1},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 34, "stars": 8615, "owner": "sharkdp", "forks": 224},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 12324, "owner": "sharkdp", "forks": 227},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 34243, "owner": "rust-lang", "forks": 5554},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 21, "stars": 7485, "owner": "firecracker-microvm", "forks": 428},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 21, "stars": 138, "owner": "svartalf", "forks": 5},
@@ -17,11 +17,11 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 16, "stars": 13524, "owner": "servo", "forks": 2081},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 14, "stars": 235, "owner": "CraneStation", "forks": 24},
 {"description": "A hostile memory allocator to make WebAssembly applications more predictable.", "language": "Rust", "repo": "was-not-wasm", "new_stars": 14, "stars": 37, "owner": "jedisct1", "forks": 1},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9727, "owner": "rust-unofficial", "forks": 634},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9728, "owner": "rust-unofficial", "forks": 634},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 12, "stars": 5850, "owner": "ogham", "forks": 185},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 12, "stars": 6535, "owner": "SergioBenitez", "forks": 432},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 12, "stars": 4664, "owner": "tikv", "forks": 672},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 11, "stars": 5069, "owner": "swc-project", "forks": 77},
-{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 11, "stars": 91, "owner": "johnthagen", "forks": 2},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 4838, "owner": "mre", "forks": 569}
+{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 11, "stars": 92, "owner": "johnthagen", "forks": 2},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 4838, "owner": "mre", "forks": 570}
 ]

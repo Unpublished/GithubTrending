@@ -1,19 +1,19 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 617, "stars": 2334, "owner": "wasmerio", "forks": 66},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 617, "stars": 2338, "owner": "wasmerio", "forks": 67},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 173, "stars": 34243, "owner": "rust-lang", "forks": 5555},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 165, "stars": 5067, "owner": "swc-project", "forks": 77},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 135, "stars": 136, "owner": "svartalf", "forks": 5},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 130, "stars": 7478, "owner": "firecracker-microvm", "forks": 428},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 130, "stars": 7479, "owner": "firecracker-microvm", "forks": 428},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 120, "stars": 12319, "owner": "sharkdp", "forks": 227},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 107, "stars": 2943, "owner": "RustPython", "forks": 144},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 100, "stars": 12894, "owner": "BurntSushi", "forks": 520},
-{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 93, "stars": 342, "owner": "chmln", "forks": 7},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 89, "stars": 14567, "owner": "jwilm", "forks": 634},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 100, "stars": 12895, "owner": "BurntSushi", "forks": 520},
+{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 93, "stars": 347, "owner": "chmln", "forks": 7},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 89, "stars": 14568, "owner": "jwilm", "forks": 634},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 88, "stars": 9723, "owner": "rust-unofficial", "forks": 634},
 {"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 87, "stars": 87, "owner": "jonhoo", "forks": 1},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 85, "stars": 211, "owner": "xi-editor", "forks": 12},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 84, "stars": 8599, "owner": "sharkdp", "forks": 224},
-{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 79, "stars": 89, "owner": "johnthagen", "forks": 2},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 84, "stars": 8600, "owner": "sharkdp", "forks": 224},
+{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 79, "stars": 90, "owner": "johnthagen", "forks": 2},
 {"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 76, "stars": 76, "owner": "chinedufn", "forks": 6},
 {"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 70, "stars": 1192, "owner": "hansihe", "forks": 56},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 70, "stars": 287, "owner": "lpil", "forks": 7},
@@ -23,5 +23,5 @@
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 63, "stars": 68, "owner": "zesterer", "forks": 0},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 60, "stars": 13525, "owner": "servo", "forks": 2080},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 60, "stars": 4117, "owner": "tokio-rs", "forks": 307},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 4660, "owner": "tikv", "forks": 672}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 4661, "owner": "tikv", "forks": 672}
 ]

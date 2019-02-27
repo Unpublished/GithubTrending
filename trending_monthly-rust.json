@@ -1,7 +1,7 @@
 [
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 2582, "stars": 2945, "owner": "RustPython", "forks": 144},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1979, "stars": 5070, "owner": "swc-project", "forks": 77},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 853, "stars": 2369, "owner": "wasmerio", "forks": 68},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 853, "stars": 2372, "owner": "wasmerio", "forks": 68},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 756, "stars": 34249, "owner": "rust-lang", "forks": 5554},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 649, "stars": 704, "owner": "notion-cli", "forks": 29},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 596, "stars": 12326, "owner": "sharkdp", "forks": 227},
@@ -11,17 +11,17 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 389, "stars": 7485, "owner": "firecracker-microvm", "forks": 428},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 390, "stars": 9729, "owner": "rust-unofficial", "forks": 634},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 344, "stars": 8616, "owner": "sharkdp", "forks": 224},
-{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 311, "stars": 440, "owner": "Canop", "forks": 13},
+{"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 311, "stars": 441, "owner": "Canop", "forks": 13},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 305, "stars": 1633, "owner": "crossbeam-rs", "forks": 100},
 {"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 221, "stars": 541, "owner": "holochain", "forks": 199},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 261, "stars": 13525, "owner": "servo", "forks": 2081},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 261, "stars": 13526, "owner": "servo", "forks": 2081},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 237, "stars": 3855, "owner": "mimblewimble", "forks": 697},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 251, "stars": 6536, "owner": "SergioBenitez", "forks": 432},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 251, "stars": 6536, "owner": "SergioBenitez", "forks": 433},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 244, "stars": 4838, "owner": "mre", "forks": 570},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 253, "stars": 6642, "owner": "DenisKolodin", "forks": 231},
 {"description": null, "language": "Rust", "repo": "rust-headless-chrome", "new_stars": 226, "stars": 226, "owner": "atroche", "forks": 11},
 {"description": "Build beautiful desktop apps with flutter and rust.", "language": "Rust", "repo": "flutter-rs", "new_stars": 230, "stars": 251, "owner": "gliheng", "forks": 2},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 216, "stars": 2690, "owner": "amethyst", "forks": 318},
 {"description": "Semi-automatic OSINT framework and package manager", "language": "Rust", "repo": "sn0int", "new_stars": 217, "stars": 288, "owner": "kpcyrd", "forks": 18},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 205, "stars": 4664, "owner": "tikv", "forks": 672}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 205, "stars": 4665, "owner": "tikv", "forks": 672}
 ]

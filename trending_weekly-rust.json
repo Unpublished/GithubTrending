@@ -1,10 +1,10 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 560, "stars": 2256, "owner": "wasmerio", "forks": 62},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 560, "stars": 2260, "owner": "wasmerio", "forks": 62},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 172, "stars": 34235, "owner": "rust-lang", "forks": 5556},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 173, "stars": 5065, "owner": "swc-project", "forks": 77},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 125, "stars": 7470, "owner": "firecracker-microvm", "forks": 428},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 125, "stars": 7471, "owner": "firecracker-microvm", "forks": 428},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 125, "stars": 127, "owner": "svartalf", "forks": 5},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 116, "stars": 12307, "owner": "sharkdp", "forks": 227},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 116, "stars": 12308, "owner": "sharkdp", "forks": 227},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 107, "stars": 2937, "owner": "RustPython", "forks": 143},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 12888, "owner": "BurntSushi", "forks": 520},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 89, "stars": 9718, "owner": "rust-unofficial", "forks": 633},
@@ -14,7 +14,7 @@
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 77, "stars": 87, "owner": "johnthagen", "forks": 2},
 {"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 74, "stars": 74, "owner": "chinedufn", "forks": 6},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 73, "stars": 8581, "owner": "sharkdp", "forks": 224},
-{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 71, "stars": 314, "owner": "chmln", "forks": 7},
+{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 71, "stars": 315, "owner": "chmln", "forks": 7},
 {"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 68, "stars": 1190, "owner": "hansihe", "forks": 56},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 67, "stars": 284, "owner": "lpil", "forks": 7},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 67, "stars": 6641, "owner": "DenisKolodin", "forks": 230},
@@ -23,5 +23,5 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 4657, "owner": "tikv", "forks": 673},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 58, "stars": 4115, "owner": "tokio-rs", "forks": 307},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 55, "stars": 6531, "owner": "SergioBenitez", "forks": 432},
-{"description": "Efficient transactional memory in rust.", "language": "Rust", "repo": "swym", "new_stars": 58, "stars": 58, "owner": "mtak-", "forks": 0}
+{"description": "Efficient transactional memory in rust.", "language": "Rust", "repo": "swym", "new_stars": 58, "stars": 59, "owner": "mtak-", "forks": 0}
 ]

@@ -1,18 +1,18 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 53, "stars": 2436, "owner": "wasmerio", "forks": 70},
-{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 50, "stars": 425, "owner": "chmln", "forks": 9},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 53, "stars": 2437, "owner": "wasmerio", "forks": 70},
+{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 50, "stars": 426, "owner": "chmln", "forks": 9},
 {"description": "A Rust library for low-level text layout.", "language": "Rust", "repo": "skribo", "new_stars": 42, "stars": 62, "owner": "linebender", "forks": 2},
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 40, "stars": 126, "owner": "vishaltelangre", "forks": 2},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 34281, "owner": "rust-lang", "forks": 5556},
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 27, "stars": 122, "owner": "johnthagen", "forks": 2},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 26, "stars": 7513, "owner": "firecracker-microvm", "forks": 429},
-{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 26, "stars": 318, "owner": "lpil", "forks": 10},
-{"description": "Experimental Mustache-like templating engine.", "language": "Rust", "repo": "ramhorns", "new_stars": 26, "stars": 37, "owner": "maciejhirsz", "forks": 1},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 26, "stars": 7513, "owner": "firecracker-microvm", "forks": 430},
+{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 26, "stars": 321, "owner": "lpil", "forks": 10},
+{"description": "Experimental Mustache-like templating engine.", "language": "Rust", "repo": "ramhorns", "new_stars": 26, "stars": 38, "owner": "maciejhirsz", "forks": 1},
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 23, "stars": 108, "owner": "zesterer", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 14592, "owner": "jwilm", "forks": 636},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 17, "stars": 2709, "owner": "amethyst", "forks": 320},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 12920, "owner": "BurntSushi", "forks": 522},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 2958, "owner": "RustPython", "forks": 145},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 2959, "owner": "RustPython", "forks": 145},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 14, "stars": 552, "owner": "Peltoche", "forks": 20},
 {"description": "Higher kinded types and your favourite Haskell type classes for Rust", "language": "Rust", "repo": "higher", "new_stars": 14, "stars": 74, "owner": "bodil", "forks": 0},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 13, "stars": 8636, "owner": "sharkdp", "forks": 224},
@@ -23,5 +23,5 @@
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 11, "stars": 5861, "owner": "ogham", "forks": 185},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 10, "stars": 5081, "owner": "swc-project", "forks": 78},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 4674, "owner": "tikv", "forks": 675},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 10, "stars": 12339, "owner": "sharkdp", "forks": 227}
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 10, "stars": 12340, "owner": "sharkdp", "forks": 227}
 ]

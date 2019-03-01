@@ -1,17 +1,17 @@
 [
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 738, "stars": 2437, "owner": "wasmerio", "forks": 70},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 187, "stars": 34282, "owner": "rust-lang", "forks": 5556},
-{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 182, "stars": 426, "owner": "chmln", "forks": 9},
+{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 182, "stars": 427, "owner": "chmln", "forks": 9},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 149, "stars": 5081, "owner": "swc-project", "forks": 78},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 149, "stars": 150, "owner": "svartalf", "forks": 5},
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 126, "stars": 127, "owner": "vishaltelangre", "forks": 2},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 116, "stars": 7513, "owner": "firecracker-microvm", "forks": 430},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 110, "stars": 12921, "owner": "BurntSushi", "forks": 522},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 110, "stars": 12922, "owner": "BurntSushi", "forks": 522},
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 111, "stars": 122, "owner": "johnthagen", "forks": 2},
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 109, "stars": 109, "owner": "zesterer", "forks": 1},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 108, "stars": 12341, "owner": "sharkdp", "forks": 227},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 99, "stars": 2959, "owner": "RustPython", "forks": 145},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 103, "stars": 8636, "owner": "sharkdp", "forks": 224},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 108, "stars": 12342, "owner": "sharkdp", "forks": 227},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 99, "stars": 2960, "owner": "RustPython", "forks": 145},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 103, "stars": 8637, "owner": "sharkdp", "forks": 224},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 102, "stars": 321, "owner": "lpil", "forks": 10},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 100, "stars": 14593, "owner": "jwilm", "forks": 636},
 {"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 89, "stars": 89, "owner": "jonhoo", "forks": 2},
@@ -23,5 +23,5 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 70, "stars": 13536, "owner": "servo", "forks": 2081},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 68, "stars": 4674, "owner": "tikv", "forks": 675},
 {"description": "Efficient transactional memory in rust.", "language": "Rust", "repo": "swym", "new_stars": 69, "stars": 69, "owner": "mtak-", "forks": 0},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 64, "stars": 6656, "owner": "DenisKolodin", "forks": 231}
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 64, "stars": 6655, "owner": "DenisKolodin", "forks": 231}
 ]

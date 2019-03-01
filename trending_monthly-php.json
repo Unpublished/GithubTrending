@@ -4,7 +4,7 @@
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 469, "stars": 16324, "owner": "laravel", "forks": 6292},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 476, "stars": 18627, "owner": "composer", "forks": 5400},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 427, "stars": 19645, "owner": "fzaninotto", "forks": 2335},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 348, "stars": 20018, "owner": "symfony", "forks": 6732},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 348, "stars": 20019, "owner": "symfony", "forks": 6733},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 365, "stars": 13838, "owner": "Seldaek", "forks": 1499},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 347, "stars": 15815, "owner": "guzzle", "forks": 1900},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 344, "stars": 13207, "owner": "sebastianbergmann", "forks": 1696},
@@ -19,9 +19,9 @@
 {"description": "Helper functions I find super-duper handy", "language": "PHP", "repo": "awesome-helpers", "new_stars": 239, "stars": 240, "owner": "calebporzio", "forks": 18},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 243, "stars": 8760, "owner": "thephpleague", "forks": 494},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 231, "stars": 6253, "owner": "phpstan", "forks": 429},
-{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 222, "stars": 5643, "owner": "spatie", "forks": 768},
+{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 222, "stars": 5644, "owner": "spatie", "forks": 768},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 234, "stars": 7295, "owner": "mockery", "forks": 347},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 229, "stars": 4534, "owner": "doctrine", "forks": 949},
-{"description": "Design Pattern Examples in PHP", "language": "PHP", "repo": "design-patterns-php", "new_stars": 226, "stars": 266, "owner": "RefactoringGuru", "forks": 27},
+{"description": "Design Pattern Examples in PHP", "language": "PHP", "repo": "design-patterns-php", "new_stars": 226, "stars": 267, "owner": "RefactoringGuru", "forks": 27},
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 231, "stars": 4197, "owner": "guzzle", "forks": 160}
 ]

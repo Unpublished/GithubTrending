@@ -1,10 +1,10 @@
 [
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 36, "stars": 454, "owner": "chmln", "forks": 9},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 34299, "owner": "rust-lang", "forks": 5554},
-{"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 25, "stars": 149, "owner": "vishaltelangre", "forks": 4},
+{"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 25, "stars": 150, "owner": "vishaltelangre", "forks": 4},
 {"description": "An insanely simple self-hosted functional programming language", "language": "Rust", "repo": "atto", "new_stars": 25, "stars": 36, "owner": "zesterer", "forks": 0},
 {"description": "Experimental Mustache-like templating engine.", "language": "Rust", "repo": "ramhorns", "new_stars": 21, "stars": 58, "owner": "maciejhirsz", "forks": 1},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 18, "stars": 5099, "owner": "swc-project", "forks": 78},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 18, "stars": 5100, "owner": "swc-project", "forks": 78},
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 18, "stars": 142, "owner": "johnthagen", "forks": 2},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 17, "stars": 2455, "owner": "wasmerio", "forks": 72},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 16, "stars": 329, "owner": "lpil", "forks": 10},
@@ -21,7 +21,7 @@
 {"description": "Higher kinded types and your favourite Haskell type classes for Rust", "language": "Rust", "repo": "higher", "new_stars": 11, "stars": 81, "owner": "bodil", "forks": 0},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 10, "stars": 2719, "owner": "amethyst", "forks": 321},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 10, "stars": 2967, "owner": "RustPython", "forks": 144},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 10, "stars": 12345, "owner": "sharkdp", "forks": 227},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 10, "stars": 12346, "owner": "sharkdp", "forks": 227},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 6550, "owner": "SergioBenitez", "forks": 436},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 6660, "owner": "DenisKolodin", "forks": 232}
 ]

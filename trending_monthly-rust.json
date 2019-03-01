@@ -10,11 +10,11 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 388, "stars": 14594, "owner": "jwilm", "forks": 636},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 375, "stars": 7518, "owner": "firecracker-microvm", "forks": 431},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 342, "stars": 9741, "owner": "rust-unofficial", "forks": 633},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 322, "stars": 8638, "owner": "sharkdp", "forks": 224},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 322, "stars": 8639, "owner": "sharkdp", "forks": 224},
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 316, "stars": 445, "owner": "Canop", "forks": 13},
 {"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 207, "stars": 543, "owner": "holochain", "forks": 200},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 233, "stars": 4847, "owner": "mre", "forks": 574},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 227, "stars": 13537, "owner": "servo", "forks": 2082},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 227, "stars": 13536, "owner": "servo", "forks": 2082},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 232, "stars": 6656, "owner": "DenisKolodin", "forks": 232},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 220, "stars": 6544, "owner": "SergioBenitez", "forks": 434},
 {"description": null, "language": "Rust", "repo": "rust-headless-chrome", "new_stars": 228, "stars": 228, "owner": "atroche", "forks": 12},
@@ -22,6 +22,6 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 210, "stars": 2713, "owner": "amethyst", "forks": 320},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 179, "stars": 3859, "owner": "mimblewimble", "forks": 703},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 202, "stars": 434, "owner": "chmln", "forks": 9},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 185, "stars": 4127, "owner": "tokio-rs", "forks": 310},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 185, "stars": 4128, "owner": "tokio-rs", "forks": 310},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 185, "stars": 3336, "owner": "actix", "forks": 239}
 ]

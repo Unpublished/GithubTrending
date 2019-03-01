@@ -8,14 +8,14 @@
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 26, "stars": 322, "owner": "lpil", "forks": 10},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 24, "stars": 7518, "owner": "firecracker-microvm", "forks": 431},
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 22, "stars": 113, "owner": "zesterer", "forks": 1},
-{"description": "Experimental Mustache-like templating engine.", "language": "Rust", "repo": "ramhorns", "new_stars": 21, "stars": 41, "owner": "maciejhirsz", "forks": 1},
+{"description": "Experimental Mustache-like templating engine.", "language": "Rust", "repo": "ramhorns", "new_stars": 21, "stars": 42, "owner": "maciejhirsz", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 14594, "owner": "jwilm", "forks": 636},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 12923, "owner": "BurntSushi", "forks": 522},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 15, "stars": 2962, "owner": "RustPython", "forks": 145},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 8638, "owner": "sharkdp", "forks": 224},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 8639, "owner": "sharkdp", "forks": 224},
 {"description": "Higher kinded types and your favourite Haskell type classes for Rust", "language": "Rust", "repo": "higher", "new_stars": 15, "stars": 75, "owner": "bodil", "forks": 0},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 14, "stars": 2713, "owner": "amethyst", "forks": 320},
-{"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 14, "stars": 118, "owner": "vhakulinen", "forks": 1},
+{"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 14, "stars": 119, "owner": "vhakulinen", "forks": 1},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 13, "stars": 5085, "owner": "swc-project", "forks": 78},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 12, "stars": 12342, "owner": "sharkdp", "forks": 227},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 12, "stars": 5864, "owner": "ogham", "forks": 185},
@@ -23,5 +23,5 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 11, "stars": 6656, "owner": "DenisKolodin", "forks": 232},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 10, "stars": 3336, "owner": "actix", "forks": 239},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 2112, "owner": "maps4print", "forks": 52},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 13537, "owner": "servo", "forks": 2082}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 13536, "owner": "servo", "forks": 2082}
 ]

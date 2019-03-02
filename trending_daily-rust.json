@@ -3,13 +3,13 @@
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 23, "stars": 155, "owner": "vishaltelangre", "forks": 4},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 22, "stars": 2460, "owner": "wasmerio", "forks": 72},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 34307, "owner": "rust-lang", "forks": 5555},
-{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 21, "stars": 146, "owner": "johnthagen", "forks": 2},
+{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 21, "stars": 147, "owner": "johnthagen", "forks": 2},
 {"description": "An insanely simple self-hosted functional programming language", "language": "Rust", "repo": "atto", "new_stars": 21, "stars": 39, "owner": "zesterer", "forks": 0},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 16, "stars": 5104, "owner": "swc-project", "forks": 78},
 {"description": "Experimental Mustache-like templating engine.", "language": "Rust", "repo": "ramhorns", "new_stars": 16, "stars": 59, "owner": "maciejhirsz", "forks": 1},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 12934, "owner": "BurntSushi", "forks": 522},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 9753, "owner": "rust-unofficial", "forks": 633},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 11, "stars": 8649, "owner": "sharkdp", "forks": 225},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 11, "stars": 8650, "owner": "sharkdp", "forks": 225},
 {"description": "A simple semi-reliable UDP protocol for multiplayer games", "language": "Rust", "repo": "laminar", "new_stars": 11, "stars": 116, "owner": "amethyst", "forks": 13},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 11, "stars": 7529, "owner": "firecracker-microvm", "forks": 430},
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 11, "stars": 130, "owner": "vhakulinen", "forks": 2},
@@ -22,6 +22,6 @@
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 8, "stars": 330, "owner": "lpil", "forks": 11},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 8, "stars": 15724, "owner": "xi-editor", "forks": 569},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 8, "stars": 12348, "owner": "sharkdp", "forks": 227},
-{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 8, "stars": 3146, "owner": "neon-bindings", "forks": 131},
+{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 8, "stars": 3147, "owner": "neon-bindings", "forks": 131},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 8, "stars": 2970, "owner": "RustPython", "forks": 144}
 ]

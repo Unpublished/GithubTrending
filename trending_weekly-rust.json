@@ -1,16 +1,16 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 751, "stars": 2456, "owner": "wasmerio", "forks": 72},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 751, "stars": 2457, "owner": "wasmerio", "forks": 72},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 210, "stars": 457, "owner": "chmln", "forks": 9},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 34300, "owner": "rust-lang", "forks": 5554},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 34301, "owner": "rust-lang", "forks": 5554},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 152, "stars": 153, "owner": "svartalf", "forks": 5},
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 151, "stars": 152, "owner": "vishaltelangre", "forks": 4},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 141, "stars": 5100, "owner": "swc-project", "forks": 78},
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 132, "stars": 143, "owner": "johnthagen", "forks": 2},
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 117, "stars": 117, "owner": "zesterer", "forks": 2},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 112, "stars": 7527, "owner": "firecracker-microvm", "forks": 430},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 112, "stars": 7528, "owner": "firecracker-microvm", "forks": 430},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 109, "stars": 12933, "owner": "BurntSushi", "forks": 522},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 108, "stars": 8649, "owner": "sharkdp", "forks": 225},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 99, "stars": 14601, "owner": "jwilm", "forks": 638},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 99, "stars": 14600, "owner": "jwilm", "forks": 638},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 95, "stars": 2968, "owner": "RustPython", "forks": 144},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 96, "stars": 12348, "owner": "sharkdp", "forks": 227},
 {"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 93, "stars": 93, "owner": "jonhoo", "forks": 3},
@@ -23,5 +23,5 @@
 {"description": "Efficient transactional memory in rust.", "language": "Rust", "repo": "swym", "new_stars": 73, "stars": 73, "owner": "mtak-", "forks": 0},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 67, "stars": 4678, "owner": "tikv", "forks": 677},
 {"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 68, "stars": 1197, "owner": "hansihe", "forks": 57},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 66, "stars": 13540, "owner": "servo", "forks": 2083}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 66, "stars": 13541, "owner": "servo", "forks": 2083}
 ]

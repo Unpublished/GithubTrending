@@ -1,7 +1,7 @@
 [
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1892, "stars": 5120, "owner": "swc-project", "forks": 78},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 1688, "stars": 2985, "owner": "RustPython", "forks": 147},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 898, "stars": 2472, "owner": "wasmerio", "forks": 73},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 898, "stars": 2473, "owner": "wasmerio", "forks": 73},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 624, "stars": 34321, "owner": "rust-lang", "forks": 5558},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 655, "stars": 711, "owner": "notion-cli", "forks": 29},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 610, "stars": 1960, "owner": "nathan", "forks": 25},
@@ -22,6 +22,6 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 197, "stars": 3362, "owner": "actix", "forks": 239},
 {"description": "An interactive tree view, a fuzzy search, a balanced BFS descent and customizable commands.", "language": "Rust", "repo": "broot", "new_stars": 200, "stars": 446, "owner": "Canop", "forks": 13},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 166, "stars": 3869, "owner": "mimblewimble", "forks": 706},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 175, "stars": 4683, "owner": "tikv", "forks": 680},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 175, "stars": 4684, "owner": "tikv", "forks": 680},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 177, "stars": 4138, "owner": "tokio-rs", "forks": 310}
 ]

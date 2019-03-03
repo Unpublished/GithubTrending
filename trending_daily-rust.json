@@ -1,9 +1,9 @@
 [
-{"description": "PBR rendering example/experiment with rendy", "language": "Rust", "repo": "rendy-pbr", "new_stars": 34, "stars": 37, "owner": "termhn", "forks": 1},
-{"description": "Make production Rust binaries auditable", "language": "Rust", "repo": "rust-audit", "new_stars": 24, "stars": 26, "owner": "Shnatsel", "forks": 0},
+{"description": "PBR rendering example/experiment with rendy", "language": "Rust", "repo": "rendy-pbr", "new_stars": 34, "stars": 38, "owner": "termhn", "forks": 1},
+{"description": "Make production Rust binaries auditable", "language": "Rust", "repo": "rust-audit", "new_stars": 24, "stars": 27, "owner": "Shnatsel", "forks": 0},
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 17, "stars": 678, "owner": "Amanieu", "forks": 22},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 2984, "owner": "RustPython", "forks": 147},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 3359, "owner": "actix", "forks": 239},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 3360, "owner": "actix", "forks": 239},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 14615, "owner": "jwilm", "forks": 638},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 15, "stars": 476, "owner": "chmln", "forks": 9},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9766, "owner": "rust-unofficial", "forks": 637},
@@ -21,7 +21,7 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 8, "stars": 15729, "owner": "xi-editor", "forks": 569},
 {"description": "A simple semi-reliable UDP protocol for multiplayer games", "language": "Rust", "repo": "laminar", "new_stars": 8, "stars": 126, "owner": "amethyst", "forks": 13},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 7, "stars": 12354, "owner": "sharkdp", "forks": 227},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 4861, "owner": "mre", "forks": 574},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 4862, "owner": "mre", "forks": 574},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 3654, "owner": "diesel-rs", "forks": 358},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 7, "stars": 3154, "owner": "neon-bindings", "forks": 131}
 ]

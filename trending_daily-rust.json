@@ -1,7 +1,7 @@
 [
 {"description": "Make production Rust binaries auditable", "language": "Rust", "repo": "rust-audit", "new_stars": 31, "stars": 31, "owner": "Shnatsel", "forks": 0},
 {"description": "PBR rendering example/experiment with rendy", "language": "Rust", "repo": "rendy-pbr", "new_stars": 29, "stars": 41, "owner": "termhn", "forks": 1},
-{"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 16, "stars": 678, "owner": "Amanieu", "forks": 22},
+{"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 16, "stars": 679, "owner": "Amanieu", "forks": 22},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 16, "stars": 477, "owner": "chmln", "forks": 9},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 2984, "owner": "RustPython", "forks": 147},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 14617, "owner": "jwilm", "forks": 638},
@@ -21,7 +21,7 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 2734, "owner": "amethyst", "forks": 322},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 8, "stars": 3155, "owner": "neon-bindings", "forks": 131},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 8, "stars": 2331, "owner": "actix", "forks": 158},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15729, "owner": "xi-editor", "forks": 569},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15729, "owner": "xi-editor", "forks": 568},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 7, "stars": 12355, "owner": "sharkdp", "forks": 227},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 3654, "owner": "diesel-rs", "forks": 358}
 ]

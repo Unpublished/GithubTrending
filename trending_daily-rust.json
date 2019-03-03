@@ -1,14 +1,14 @@
 [
 {"description": "Make production Rust binaries auditable", "language": "Rust", "repo": "rust-audit", "new_stars": 31, "stars": 31, "owner": "Shnatsel", "forks": 0},
 {"description": "PBR rendering example/experiment with rendy", "language": "Rust", "repo": "rendy-pbr", "new_stars": 29, "stars": 41, "owner": "termhn", "forks": 1},
-{"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 16, "stars": 679, "owner": "Amanieu", "forks": 22},
-{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 16, "stars": 477, "owner": "chmln", "forks": 9},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 2984, "owner": "RustPython", "forks": 147},
+{"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 16, "stars": 680, "owner": "Amanieu", "forks": 22},
+{"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 16, "stars": 478, "owner": "chmln", "forks": 9},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 2985, "owner": "RustPython", "forks": 147},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 14617, "owner": "jwilm", "forks": 638},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 14, "stars": 5117, "owner": "swc-project", "forks": 78},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 14, "stars": 5118, "owner": "swc-project", "forks": 78},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 3360, "owner": "actix", "forks": 239},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 14, "stars": 846, "owner": "seanmonstar", "forks": 65},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 13, "stars": 34318, "owner": "rust-lang", "forks": 5559},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 13, "stars": 34318, "owner": "rust-lang", "forks": 5558},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 9766, "owner": "rust-unofficial", "forks": 637},
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 13, "stars": 170, "owner": "vishaltelangre", "forks": 4},
 {"description": "An insanely simple self-hosted functional programming language", "language": "Rust", "repo": "atto", "new_stars": 13, "stars": 52, "owner": "zesterer", "forks": 1},
@@ -22,6 +22,6 @@
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 8, "stars": 3155, "owner": "neon-bindings", "forks": 131},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 8, "stars": 2331, "owner": "actix", "forks": 158},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 15729, "owner": "xi-editor", "forks": 568},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 7, "stars": 12355, "owner": "sharkdp", "forks": 227},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 7, "stars": 12354, "owner": "sharkdp", "forks": 227},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 3654, "owner": "diesel-rs", "forks": 358}
 ]

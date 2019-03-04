@@ -5,9 +5,9 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 34338, "owner": "rust-lang", "forks": 5558},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 155, "stars": 157, "owner": "svartalf", "forks": 5},
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 120, "stars": 124, "owner": "zesterer", "forks": 3},
-{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 119, "stars": 266, "owner": "kyren", "forks": 9},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 110, "stars": 8671, "owner": "sharkdp", "forks": 224},
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 109, "stars": 159, "owner": "timvisee", "forks": 3},
+{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 119, "stars": 269, "owner": "kyren", "forks": 9},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 110, "stars": 8672, "owner": "sharkdp", "forks": 224},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 109, "stars": 163, "owner": "timvisee", "forks": 3},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 102, "stars": 7537, "owner": "firecracker-microvm", "forks": 429},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 102, "stars": 14634, "owner": "jwilm", "forks": 639},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 9782, "owner": "rust-unofficial", "forks": 637},
@@ -20,8 +20,8 @@
 {"description": "Higher kinded types and your favourite Haskell type classes for Rust", "language": "Rust", "repo": "higher", "new_stars": 82, "stars": 82, "owner": "bodil", "forks": 0},
 {"description": "Efficient transactional memory in rust.", "language": "Rust", "repo": "swym", "new_stars": 77, "stars": 77, "owner": "mtak-", "forks": 0},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 74, "stars": 336, "owner": "lpil", "forks": 12},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 68, "stars": 4692, "owner": "tikv", "forks": 680},
-{"description": "ncurses Spotify client written in Rust using librespot, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 71, "stars": 76, "owner": "hrkfdn", "forks": 4},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 68, "stars": 4693, "owner": "tikv", "forks": 681},
+{"description": "ncurses Spotify client written in Rust using librespot, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 71, "stars": 77, "owner": "hrkfdn", "forks": 4},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 67, "stars": 2741, "owner": "amethyst", "forks": 323},
 {"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 69, "stars": 85, "owner": "chinedufn", "forks": 6}
 ]

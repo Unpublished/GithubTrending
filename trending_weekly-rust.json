@@ -1,5 +1,5 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 769, "stars": 2477, "owner": "wasmerio", "forks": 73},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 769, "stars": 2480, "owner": "wasmerio", "forks": 73},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 234, "stars": 485, "owner": "chmln", "forks": 9},
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 173, "stars": 172, "owner": "vishaltelangre", "forks": 5},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 163, "stars": 34337, "owner": "rust-lang", "forks": 5558},
@@ -7,10 +7,10 @@
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 119, "stars": 124, "owner": "zesterer", "forks": 3},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 111, "stars": 8670, "owner": "sharkdp", "forks": 224},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 104, "stars": 5125, "owner": "swc-project", "forks": 77},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 102, "stars": 7536, "owner": "firecracker-microvm", "forks": 429},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 102, "stars": 7537, "owner": "firecracker-microvm", "forks": 429},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 103, "stars": 14631, "owner": "jwilm", "forks": 639},
-{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 99, "stars": 251, "owner": "kyren", "forks": 9},
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 99, "stars": 147, "owner": "timvisee", "forks": 3},
+{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 99, "stars": 255, "owner": "kyren", "forks": 9},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 99, "stars": 150, "owner": "timvisee", "forks": 3},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 95, "stars": 9781, "owner": "rust-unofficial", "forks": 637},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 97, "stars": 12361, "owner": "sharkdp", "forks": 227},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 93, "stars": 12950, "owner": "BurntSushi", "forks": 524},
@@ -23,5 +23,5 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 68, "stars": 4692, "owner": "tikv", "forks": 680},
 {"description": "A Rust API for parsing and working with PSD files.", "language": "Rust", "repo": "psd", "new_stars": 71, "stars": 85, "owner": "chinedufn", "forks": 6},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 67, "stars": 2740, "owner": "amethyst", "forks": 323},
-{"description": "Experimental Mustache template engine implementation in pure Rust.", "language": "Rust", "repo": "ramhorns", "new_stars": 67, "stars": 69, "owner": "maciejhirsz", "forks": 1}
+{"description": "Experimental Mustache template engine implementation in pure Rust.", "language": "Rust", "repo": "ramhorns", "new_stars": 67, "stars": 70, "owner": "maciejhirsz", "forks": 1}
 ]

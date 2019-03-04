@@ -1,15 +1,15 @@
 [
-{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 219, "stars": 365, "owner": "kyren", "forks": 13},
+{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 219, "stars": 367, "owner": "kyren", "forks": 14},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 93, "stars": 203, "owner": "timvisee", "forks": 3},
-{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 80, "stars": 99, "owner": "cloudflare", "forks": 4},
-{"description": "ncurses Spotify client written in Rust using librespot, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 61, "stars": 97, "owner": "hrkfdn", "forks": 5},
+{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 80, "stars": 108, "owner": "cloudflare", "forks": 4},
+{"description": "ncurses Spotify client written in Rust using librespot, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 61, "stars": 98, "owner": "hrkfdn", "forks": 5},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 55, "stars": 613, "owner": "Peltoche", "forks": 21},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 32, "stars": 34356, "owner": "rust-lang", "forks": 5557},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 23, "stars": 14643, "owner": "jwilm", "forks": 639},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 18, "stars": 2490, "owner": "wasmerio", "forks": 75},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 9789, "owner": "rust-unofficial", "forks": 638},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 17, "stars": 12373, "owner": "sharkdp", "forks": 226},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 12959, "owner": "BurntSushi", "forks": 523},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 12960, "owner": "BurntSushi", "forks": 523},
 {"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 15, "stars": 1257, "owner": "pest-parser", "forks": 71},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 13, "stars": 4700, "owner": "tikv", "forks": 682},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 13, "stars": 5133, "owner": "swc-project", "forks": 77},
@@ -23,5 +23,5 @@
 {"description": "Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 10, "stars": 478, "owner": "rustasync", "forks": 53},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 2744, "owner": "amethyst", "forks": 323},
 {"description": "Experimental Mustache template engine implementation in pure Rust.", "language": "Rust", "repo": "ramhorns", "new_stars": 9, "stars": 75, "owner": "maciejhirsz", "forks": 2},
-{"description": "A Tween Animation Kit for Rust", "language": "Rust", "repo": "tweek-rust", "new_stars": 9, "stars": 34, "owner": "wasm-network", "forks": 0}
+{"description": "A Tween Animation Kit for Rust", "language": "Rust", "repo": "tweek-rust", "new_stars": 9, "stars": 35, "owner": "wasm-network", "forks": 0}
 ]

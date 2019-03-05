@@ -6,13 +6,13 @@
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 659, "stars": 714, "owner": "notion-cli", "forks": 29},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 625, "stars": 1977, "owner": "nathan", "forks": 26},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 495, "stars": 12389, "owner": "sharkdp", "forks": 227},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 424, "stars": 12986, "owner": "BurntSushi", "forks": 523},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 424, "stars": 12987, "owner": "BurntSushi", "forks": 523},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 403, "stars": 14655, "owner": "jwilm", "forks": 641},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 355, "stars": 7547, "owner": "firecracker-microvm", "forks": 430},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 358, "stars": 9804, "owner": "rust-unofficial", "forks": 639},
-{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 360, "stars": 484, "owner": "kyren", "forks": 17},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 358, "stars": 9805, "owner": "rust-unofficial", "forks": 639},
+{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 360, "stars": 485, "owner": "kyren", "forks": 17},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 331, "stars": 8689, "owner": "sharkdp", "forks": 224},
-{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 281, "stars": 284, "owner": "cloudflare", "forks": 9},
+{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 281, "stars": 286, "owner": "cloudflare", "forks": 9},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 271, "stars": 504, "owner": "chmln", "forks": 9},
 {"description": "The core Holochain framework written in Rust, a container API for that (with rust and node implementations), and hdk-rust library for Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 201, "stars": 550, "owner": "holochain", "forks": 201},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 243, "stars": 4888, "owner": "mre", "forks": 578},
@@ -23,5 +23,5 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 209, "stars": 3384, "owner": "actix", "forks": 238},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 189, "stars": 4706, "owner": "tikv", "forks": 682},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 201, "stars": 240, "owner": "timvisee", "forks": 3},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 184, "stars": 4155, "owner": "tokio-rs", "forks": 312}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 184, "stars": 4156, "owner": "tokio-rs", "forks": 312}
 ]

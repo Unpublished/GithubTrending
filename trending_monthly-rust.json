@@ -1,13 +1,13 @@
 [
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1891, "stars": 5137, "owner": "swc-project", "forks": 77},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 930, "stars": 3000, "owner": "RustPython", "forks": 149},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 905, "stars": 2496, "owner": "wasmerio", "forks": 75},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 628, "stars": 34369, "owner": "rust-lang", "forks": 5557},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 905, "stars": 2497, "owner": "wasmerio", "forks": 75},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 628, "stars": 34368, "owner": "rust-lang", "forks": 5557},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 659, "stars": 714, "owner": "notion-cli", "forks": 29},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 622, "stars": 1976, "owner": "nathan", "forks": 26},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 502, "stars": 12384, "owner": "sharkdp", "forks": 227},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 421, "stars": 12980, "owner": "BurntSushi", "forks": 523},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 405, "stars": 14653, "owner": "jwilm", "forks": 641},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 421, "stars": 12981, "owner": "BurntSushi", "forks": 523},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 405, "stars": 14654, "owner": "jwilm", "forks": 641},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 360, "stars": 7547, "owner": "firecracker-microvm", "forks": 430},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 353, "stars": 9800, "owner": "rust-unofficial", "forks": 639},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 332, "stars": 8687, "owner": "sharkdp", "forks": 224},
@@ -22,6 +22,6 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 211, "stars": 13555, "owner": "servo", "forks": 2087},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 209, "stars": 3383, "owner": "actix", "forks": 238},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 188, "stars": 4705, "owner": "tikv", "forks": 681},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 185, "stars": 4153, "owner": "tokio-rs", "forks": 312},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 185, "stars": 4154, "owner": "tokio-rs", "forks": 312},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 162, "stars": 3874, "owner": "mimblewimble", "forks": 708}
 ]

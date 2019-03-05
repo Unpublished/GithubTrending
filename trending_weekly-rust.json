@@ -1,10 +1,10 @@
 [
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 777, "stars": 2493, "owner": "wasmerio", "forks": 75},
-{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 284, "stars": 429, "owner": "kyren", "forks": 17},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 777, "stars": 2494, "owner": "wasmerio", "forks": 75},
+{"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 284, "stars": 431, "owner": "kyren", "forks": 17},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 243, "stars": 496, "owner": "chmln", "forks": 9},
-{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 192, "stars": 207, "owner": "cloudflare", "forks": 7},
+{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 192, "stars": 213, "owner": "cloudflare", "forks": 7},
 {"description": "Find files (ff) by name, fast!", "language": "Rust", "repo": "ff", "new_stars": 184, "stars": 184, "owner": "vishaltelangre", "forks": 5},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 172, "stars": 34362, "owner": "rust-lang", "forks": 5558},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 172, "stars": 34363, "owner": "rust-lang", "forks": 5557},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 177, "stars": 218, "owner": "timvisee", "forks": 3},
 {"description": "A lightweight, elegant scripting language with built-in Rust-FFI.", "language": "Rust", "repo": "forge", "new_stars": 117, "stars": 125, "owner": "zesterer", "forks": 3},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 111, "stars": 8682, "owner": "sharkdp", "forks": 224},
@@ -23,5 +23,5 @@
 {"description": "Experimental Mustache template engine implementation in pure Rust.", "language": "Rust", "repo": "ramhorns", "new_stars": 76, "stars": 76, "owner": "maciejhirsz", "forks": 2},
 {"description": "Rust crate providing cross-platform information about batteries.", "language": "Rust", "repo": "rust-battery", "new_stars": 73, "stars": 159, "owner": "svartalf", "forks": 7},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 64, "stars": 4885, "owner": "mre", "forks": 577},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 62, "stars": 4702, "owner": "tikv", "forks": 682}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 62, "stars": 4703, "owner": "tikv", "forks": 681}
 ]

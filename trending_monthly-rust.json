@@ -9,9 +9,9 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 430, "stars": 12995, "owner": "BurntSushi", "forks": 523},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 402, "stars": 14666, "owner": "jwilm", "forks": 641},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 388, "stars": 512, "owner": "kyren", "forks": 17},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 362, "stars": 9812, "owner": "rust-unofficial", "forks": 639},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 357, "stars": 7553, "owner": "firecracker-microvm", "forks": 430},
-{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 331, "stars": 332, "owner": "cloudflare", "forks": 12},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 362, "stars": 9813, "owner": "rust-unofficial", "forks": 639},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 357, "stars": 7555, "owner": "firecracker-microvm", "forks": 430},
+{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 331, "stars": 334, "owner": "cloudflare", "forks": 12},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 327, "stars": 8694, "owner": "sharkdp", "forks": 224},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 272, "stars": 506, "owner": "chmln", "forks": 9},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 254, "stars": 4901, "owner": "mre", "forks": 579},
@@ -23,5 +23,5 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 215, "stars": 3395, "owner": "actix", "forks": 238},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 204, "stars": 13562, "owner": "servo", "forks": 2089},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 215, "stars": 253, "owner": "timvisee", "forks": 3},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 193, "stars": 4710, "owner": "tikv", "forks": 682}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 193, "stars": 4710, "owner": "tikv", "forks": 683}
 ]

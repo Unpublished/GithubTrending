@@ -1,16 +1,16 @@
 [
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1895, "stars": 5152, "owner": "swc-project", "forks": 78},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 898, "stars": 2507, "owner": "wasmerio", "forks": 75},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 735, "stars": 3011, "owner": "RustPython", "forks": 149},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 637, "stars": 34397, "owner": "rust-lang", "forks": 5558},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 735, "stars": 3012, "owner": "RustPython", "forks": 149},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 637, "stars": 34400, "owner": "rust-lang", "forks": 5557},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 628, "stars": 1982, "owner": "nathan", "forks": 26},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 495, "stars": 715, "owner": "notion-cli", "forks": 29},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 495, "stars": 12402, "owner": "sharkdp", "forks": 227},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 495, "stars": 12406, "owner": "sharkdp", "forks": 227},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 429, "stars": 13001, "owner": "BurntSushi", "forks": 523},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 402, "stars": 14668, "owner": "jwilm", "forks": 641},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 402, "stars": 14669, "owner": "jwilm", "forks": 641},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 392, "stars": 516, "owner": "kyren", "forks": 17},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 360, "stars": 7556, "owner": "firecracker-microvm", "forks": 430},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 363, "stars": 9814, "owner": "rust-unofficial", "forks": 639},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 360, "stars": 7557, "owner": "firecracker-microvm", "forks": 430},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 363, "stars": 9817, "owner": "rust-unofficial", "forks": 639},
 {"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 338, "stars": 343, "owner": "cloudflare", "forks": 12},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 327, "stars": 8696, "owner": "sharkdp", "forks": 224},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 272, "stars": 507, "owner": "chmln", "forks": 9},
@@ -23,5 +23,5 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 212, "stars": 6579, "owner": "SergioBenitez", "forks": 436},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 205, "stars": 13566, "owner": "servo", "forks": 2089},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 217, "stars": 255, "owner": "timvisee", "forks": 3},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 193, "stars": 4710, "owner": "tikv", "forks": 683}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 193, "stars": 4711, "owner": "tikv", "forks": 683}
 ]

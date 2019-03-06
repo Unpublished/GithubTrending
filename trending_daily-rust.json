@@ -1,11 +1,11 @@
 [
-{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 101, "stars": 339, "owner": "cloudflare", "forks": 12},
+{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 101, "stars": 340, "owner": "cloudflare", "forks": 12},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 62, "stars": 515, "owner": "kyren", "forks": 17},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 32, "stars": 255, "owner": "timvisee", "forks": 3},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 34394, "owner": "rust-lang", "forks": 5558},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 24, "stars": 657, "owner": "Peltoche", "forks": 24},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 21, "stars": 12998, "owner": "BurntSushi", "forks": 523},
-{"description": "\u300aRust\u7f16\u7a0b\u4e4b\u9053\u300b\u968f\u4e66\u6e90\u7801", "language": "Rust", "repo": "tao-of-rust-codes", "new_stars": 20, "stars": 355, "owner": "ZhangHanDong", "forks": 17},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 24, "stars": 659, "owner": "Peltoche", "forks": 24},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 21, "stars": 12999, "owner": "BurntSushi", "forks": 523},
+{"description": "\u300aRust\u7f16\u7a0b\u4e4b\u9053\u300b\u968f\u4e66\u6e90\u7801", "language": "Rust", "repo": "tao-of-rust-codes", "new_stars": 20, "stars": 356, "owner": "ZhangHanDong", "forks": 17},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 19, "stars": 2772, "owner": "amethyst", "forks": 326},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 18, "stars": 4903, "owner": "mre", "forks": 579},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 14668, "owner": "jwilm", "forks": 641},
@@ -13,7 +13,7 @@
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 17, "stars": 1738, "owner": "citybound", "forks": 81},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 9814, "owner": "rust-unofficial", "forks": 639},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 14, "stars": 3583, "owner": "benfred", "forks": 119},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 3396, "owner": "actix", "forks": 238},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 3398, "owner": "actix", "forks": 238},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 13, "stars": 1043, "owner": "xiph", "forks": 79},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 13, "stars": 4168, "owner": "tokio-rs", "forks": 312},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 13, "stars": 667, "owner": "rust-analyzer", "forks": 63},
@@ -22,6 +22,6 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 15750, "owner": "xi-editor", "forks": 569},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 10, "stars": 7556, "owner": "firecracker-microvm", "forks": 430},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 9, "stars": 116, "owner": "hrkfdn", "forks": 8},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 9, "stars": 8695, "owner": "sharkdp", "forks": 224},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 9, "stars": 8696, "owner": "sharkdp", "forks": 224},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 2506, "owner": "wasmerio", "forks": 75}
 ]

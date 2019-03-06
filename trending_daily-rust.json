@@ -10,11 +10,11 @@
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 22, "stars": 1738, "owner": "citybound", "forks": 81},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 21, "stars": 14665, "owner": "jwilm", "forks": 641},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 8692, "owner": "sharkdp", "forks": 224},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 14, "stars": 3579, "owner": "benfred", "forks": 119},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 14, "stars": 3581, "owner": "benfred", "forks": 119},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 13, "stars": 2765, "owner": "amethyst", "forks": 326},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 12, "stars": 4895, "owner": "mre", "forks": 579},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9810, "owner": "rust-unofficial", "forks": 639},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 3390, "owner": "actix", "forks": 238},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9811, "owner": "rust-unofficial", "forks": 639},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 3391, "owner": "actix", "forks": 238},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 12, "stars": 1039, "owner": "xiph", "forks": 79},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 12, "stars": 116, "owner": "hrkfdn", "forks": 7},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 12, "stars": 1978, "owner": "nathan", "forks": 26},
@@ -22,6 +22,6 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 10, "stars": 3535, "owner": "rust-lang", "forks": 972},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 15749, "owner": "xi-editor", "forks": 569},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 9, "stars": 3007, "owner": "RustPython", "forks": 149},
-{"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 9, "stars": 1268, "owner": "pest-parser", "forks": 71},
+{"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 9, "stars": 1269, "owner": "pest-parser", "forks": 71},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 9, "stars": 662, "owner": "rust-analyzer", "forks": 63}
 ]

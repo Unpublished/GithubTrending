@@ -5,13 +5,13 @@
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 651, "stars": 2004, "owner": "nathan", "forks": 26},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 552, "stars": 3025, "owner": "RustPython", "forks": 149},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 521, "stars": 12464, "owner": "sharkdp", "forks": 228},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 429, "stars": 13020, "owner": "BurntSushi", "forks": 525},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 429, "stars": 13021, "owner": "BurntSushi", "forks": 525},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 414, "stars": 537, "owner": "kyren", "forks": 19},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 405, "stars": 14688, "owner": "jwilm", "forks": 644},
 {"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 374, "stars": 375, "owner": "cloudflare", "forks": 15},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 363, "stars": 9828, "owner": "rust-unofficial", "forks": 640},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 348, "stars": 7572, "owner": "firecracker-microvm", "forks": 435},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 334, "stars": 8720, "owner": "sharkdp", "forks": 224},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 334, "stars": 8721, "owner": "sharkdp", "forks": 224},
 {"description": "Notion: the hassle-free JavaScript toolchain manager", "language": "Rust", "repo": "notion", "new_stars": 278, "stars": 717, "owner": "notion-cli", "forks": 29},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 279, "stars": 513, "owner": "chmln", "forks": 9},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 252, "stars": 4911, "owner": "mre", "forks": 579},
@@ -22,6 +22,6 @@
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 222, "stars": 685, "owner": "Peltoche", "forks": 26},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 202, "stars": 4720, "owner": "tikv", "forks": 688},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 222, "stars": 260, "owner": "timvisee", "forks": 4},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 208, "stars": 6584, "owner": "SergioBenitez", "forks": 436},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 208, "stars": 6585, "owner": "SergioBenitez", "forks": 436},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 196, "stars": 13573, "owner": "servo", "forks": 2089}
 ]

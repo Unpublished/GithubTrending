@@ -1,8 +1,8 @@
 [
-{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 102, "stars": 108, "owner": "wasplang", "forks": 3},
+{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 102, "stars": 109, "owner": "wasplang", "forks": 3},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 44, "stars": 12517, "owner": "sharkdp", "forks": 229},
 {"description": "Online introspection for Rust", "language": "Rust", "repo": "interact", "new_stars": 31, "stars": 49, "owner": "interact-rs", "forks": 2},
-{"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 30, "stars": 47, "owner": "ferrous-systems", "forks": 1},
+{"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 30, "stars": 49, "owner": "ferrous-systems", "forks": 1},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 34479, "owner": "rust-lang", "forks": 5567},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 23, "stars": 13050, "owner": "BurntSushi", "forks": 527},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 22, "stars": 237, "owner": "gfx-rs", "forks": 15},
@@ -22,6 +22,6 @@
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 9, "stars": 5164, "owner": "swc-project", "forks": 78},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 9, "stars": 4921, "owner": "mre", "forks": 579},
 {"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 9, "stars": 759, "owner": "jhspetersson", "forks": 14},
-{"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 9, "stars": 385, "owner": "rust-embedded", "forks": 17},
+{"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 9, "stars": 386, "owner": "rust-embedded", "forks": 17},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 8, "stars": 3105, "owner": "rust-lang", "forks": 424}
 ]

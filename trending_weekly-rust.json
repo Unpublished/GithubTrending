@@ -3,9 +3,9 @@
 {"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 390, "stars": 392, "owner": "cloudflare", "forks": 15},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 225, "stars": 267, "owner": "timvisee", "forks": 4},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 203, "stars": 34498, "owner": "rust-lang", "forks": 5569},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 183, "stars": 12530, "owner": "sharkdp", "forks": 229},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 161, "stars": 715, "owner": "Peltoche", "forks": 27},
-{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 162, "stars": 166, "owner": "wasplang", "forks": 5},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 183, "stars": 12531, "owner": "sharkdp", "forks": 229},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 161, "stars": 716, "owner": "Peltoche", "forks": 27},
+{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 162, "stars": 167, "owner": "wasplang", "forks": 5},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 133, "stars": 240, "owner": "gfx-rs", "forks": 16},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 126, "stars": 14722, "owner": "jwilm", "forks": 649},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 125, "stars": 125, "owner": "hrkfdn", "forks": 8},
@@ -22,6 +22,6 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 64, "stars": 3418, "owner": "actix", "forks": 239},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 64, "stars": 5168, "owner": "swc-project", "forks": 78},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 62, "stars": 4194, "owner": "tokio-rs", "forks": 312},
-{"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 62, "stars": 62, "owner": "ferrous-systems", "forks": 1},
+{"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 62, "stars": 63, "owner": "ferrous-systems", "forks": 1},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 58, "stars": 3033, "owner": "RustPython", "forks": 152}
 ]

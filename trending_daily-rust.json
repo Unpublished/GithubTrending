@@ -1,7 +1,7 @@
 [
 {"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 107, "stars": 116, "owner": "wasplang", "forks": 3},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 37, "stars": 12519, "owner": "sharkdp", "forks": 229},
-{"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 31, "stars": 51, "owner": "ferrous-systems", "forks": 1},
+{"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 31, "stars": 52, "owner": "ferrous-systems", "forks": 1},
 {"description": "Online introspection for Rust", "language": "Rust", "repo": "interact", "new_stars": 31, "stars": 51, "owner": "interact-rs", "forks": 2},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 34488, "owner": "rust-lang", "forks": 5568},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 22, "stars": 13052, "owner": "BurntSushi", "forks": 527},
@@ -14,14 +14,14 @@
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 14, "stars": 2796, "owner": "gfx-rs", "forks": 326},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 13, "stars": 2796, "owner": "amethyst", "forks": 324},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 13, "stars": 2530, "owner": "wasmerio", "forks": 75},
-{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 13, "stars": 390, "owner": "cloudflare", "forks": 15},
+{"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 13, "stars": 391, "owner": "cloudflare", "forks": 15},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 12, "stars": 552, "owner": "kyren", "forks": 19},
 {"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 11, "stars": 388, "owner": "rust-embedded", "forks": 17},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 10, "stars": 9840, "owner": "rust-unofficial", "forks": 642},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 4921, "owner": "mre", "forks": 579},
-{"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 10, "stars": 764, "owner": "jhspetersson", "forks": 14},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 4922, "owner": "mre", "forks": 579},
+{"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 10, "stars": 765, "owner": "jhspetersson", "forks": 14},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 9, "stars": 7585, "owner": "firecracker-microvm", "forks": 436},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 6598, "owner": "SergioBenitez", "forks": 437},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 9, "stars": 5164, "owner": "swc-project", "forks": 78},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 9, "stars": 5165, "owner": "swc-project", "forks": 78},
 {"description": "Official NEAR Protocol client.", "language": "Rust", "repo": "nearcore", "new_stars": 8, "stars": 117, "owner": "nearprotocol", "forks": 11}
 ]

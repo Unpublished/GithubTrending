@@ -11,7 +11,7 @@
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 125, "stars": 125, "owner": "hrkfdn", "forks": 8},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 121, "stars": 13060, "owner": "BurntSushi", "forks": 528},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 120, "stars": 8780, "owner": "sharkdp", "forks": 224},
-{"description": "Rust bindings for PyTorch", "language": "Rust", "repo": "tch-rs", "new_stars": 118, "stars": 122, "owner": "LaurentMazare", "forks": 3},
+{"description": "Rust bindings for PyTorch", "language": "Rust", "repo": "tch-rs", "new_stars": 118, "stars": 123, "owner": "LaurentMazare", "forks": 3},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 90, "stars": 9852, "owner": "rust-unofficial", "forks": 643},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 86, "stars": 2798, "owner": "gfx-rs", "forks": 326},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 72, "stars": 4930, "owner": "mre", "forks": 580},
@@ -21,7 +21,7 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 68, "stars": 4201, "owner": "tokio-rs", "forks": 312},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 64, "stars": 7591, "owner": "firecracker-microvm", "forks": 438},
 {"description": null, "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 67, "stars": 67, "owner": "ferrous-systems", "forks": 1},
-{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 61, "stars": 2018, "owner": "nathan", "forks": 26},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 60, "stars": 3418, "owner": "actix", "forks": 239},
+{"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 61, "stars": 2019, "owner": "nathan", "forks": 26},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 60, "stars": 3419, "owner": "actix", "forks": 239},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 53, "stars": 4731, "owner": "tikv", "forks": 691}
 ]

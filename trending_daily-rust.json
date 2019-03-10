@@ -1,8 +1,8 @@
 [
 {"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 66, "stars": 177, "owner": "wasplang", "forks": 5},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 34, "stars": 8779, "owner": "sharkdp", "forks": 224},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 34503, "owner": "rust-lang", "forks": 5570},
-{"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 24, "stars": 172, "owner": "jasonwilliams", "forks": 5},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 34504, "owner": "rust-lang", "forks": 5570},
+{"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 24, "stars": 175, "owner": "jasonwilliams", "forks": 5},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 12539, "owner": "sharkdp", "forks": 229},
 {"description": "Find files with SQL-like queries", "language": "Rust", "repo": "fselect", "new_stars": 20, "stars": 780, "owner": "jhspetersson", "forks": 14},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 14726, "owner": "jwilm", "forks": 650},
@@ -23,5 +23,5 @@
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 7, "stars": 1434, "owner": "CraneStation", "forks": 127},
 {"description": "Rust bindings for PyTorch", "language": "Rust", "repo": "tch-rs", "new_stars": 7, "stars": 120, "owner": "LaurentMazare", "forks": 3},
 {"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 6, "stars": 2383, "owner": "koute", "forks": 125},
-{"description": "An incremental parsing system for programmings tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 6, "stars": 1061, "owner": "tree-sitter", "forks": 62}
+{"description": "An incremental parsing system for programmings tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 6, "stars": 1062, "owner": "tree-sitter", "forks": 62}
 ]

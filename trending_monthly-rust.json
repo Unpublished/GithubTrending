@@ -1,13 +1,13 @@
 [
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 1651, "stars": 5176, "owner": "swc-project", "forks": 79},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 901, "stars": 2542, "owner": "wasmerio", "forks": 76},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 694, "stars": 34516, "owner": "rust-lang", "forks": 5575},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 694, "stars": 34518, "owner": "rust-lang", "forks": 5575},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 661, "stars": 2020, "owner": "nathan", "forks": 26},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 586, "stars": 12549, "owner": "sharkdp", "forks": 229},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 586, "stars": 12550, "owner": "sharkdp", "forks": 229},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 435, "stars": 13066, "owner": "BurntSushi", "forks": 528},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 427, "stars": 14734, "owner": "jwilm", "forks": 650},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 431, "stars": 555, "owner": "kyren", "forks": 19},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 388, "stars": 3038, "owner": "RustPython", "forks": 153},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 388, "stars": 3039, "owner": "RustPython", "forks": 153},
 {"description": "An execution engine for Wireshark-like filters", "language": "Rust", "repo": "wirefilter", "new_stars": 396, "stars": 397, "owner": "cloudflare", "forks": 15},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 392, "stars": 8791, "owner": "sharkdp", "forks": 224},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 364, "stars": 9857, "owner": "rust-unofficial", "forks": 643},
@@ -19,9 +19,9 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 209, "stars": 4731, "owner": "tikv", "forks": 691},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 233, "stars": 271, "owner": "timvisee", "forks": 4},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 218, "stars": 3420, "owner": "actix", "forks": 239},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 211, "stars": 6612, "owner": "SergioBenitez", "forks": 439},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 211, "stars": 6613, "owner": "SergioBenitez", "forks": 439},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 210, "stars": 4207, "owner": "tokio-rs", "forks": 313},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 197, "stars": 13582, "owner": "servo", "forks": 2094},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 197, "stars": 13583, "owner": "servo", "forks": 2094},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 192, "stars": 3479, "owner": "rust-lang", "forks": 250},
 {"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 192, "stars": 193, "owner": "wasplang", "forks": 6}
 ]

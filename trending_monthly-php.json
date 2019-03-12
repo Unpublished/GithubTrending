@@ -1,9 +1,9 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 1135, "stars": 50659, "owner": "laravel", "forks": 15467},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 598, "stars": 17047, "owner": "danielmiessler", "forks": 6333},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 598, "stars": 17048, "owner": "danielmiessler", "forks": 6333},
 {"description": "Rdebug \u2014 Real Debugger", "language": "PHP", "repo": "rdebug", "new_stars": 493, "stars": 493, "owner": "didi", "forks": 49},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 434, "stars": 16463, "owner": "laravel", "forks": 6311},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 461, "stars": 18780, "owner": "composer", "forks": 5412},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 461, "stars": 18781, "owner": "composer", "forks": 5412},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 413, "stars": 19773, "owner": "fzaninotto", "forks": 2345},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 345, "stars": 20122, "owner": "symfony", "forks": 6757},
 {"description": "An eCommerce Framework built on laravel for All to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 368, "stars": 580, "owner": "bagisto", "forks": 117},
@@ -21,7 +21,7 @@
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 277, "stars": 6245, "owner": "doctrine", "forks": 28},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 214, "stars": 12719, "owner": "PHPMailer", "forks": 7002},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 226, "stars": 5731, "owner": "z-song", "forks": 1587},
-{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 231, "stars": 5720, "owner": "spatie", "forks": 779},
+{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 231, "stars": 5721, "owner": "spatie", "forks": 779},
 {"description": "A set of abstractions extracted out of the Symfony components", "language": "PHP", "repo": "contracts", "new_stars": 247, "stars": 1216, "owner": "symfony", "forks": 4},
 {"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 212, "stars": 16873, "owner": "domnikl", "forks": 3641}
 ]

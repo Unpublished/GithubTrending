@@ -1,7 +1,7 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 216, "stars": 34565, "owner": "rust-lang", "forks": 5576},
-{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 221, "stars": 221, "owner": "wasplang", "forks": 6},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 211, "stars": 12591, "owner": "sharkdp", "forks": 229},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 216, "stars": 34566, "owner": "rust-lang", "forks": 5576},
+{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 221, "stars": 222, "owner": "wasplang", "forks": 6},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 211, "stars": 12592, "owner": "sharkdp", "forks": 229},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 140, "stars": 14780, "owner": "jwilm", "forks": 654},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 142, "stars": 8826, "owner": "sharkdp", "forks": 227},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 136, "stars": 249, "owner": "gfx-rs", "forks": 17},
@@ -9,9 +9,9 @@
 {"description": "Rust bindings for PyTorch", "language": "Rust", "repo": "tch-rs", "new_stars": 115, "stars": 127, "owner": "LaurentMazare", "forks": 4},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 110, "stars": 13087, "owner": "BurntSushi", "forks": 532},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 95, "stars": 562, "owner": "kyren", "forks": 20},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 91, "stars": 9887, "owner": "rust-unofficial", "forks": 644},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 91, "stars": 9888, "owner": "rust-unofficial", "forks": 644},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 91, "stars": 2806, "owner": "gfx-rs", "forks": 328},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 83, "stars": 3500, "owner": "rust-lang", "forks": 250},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 83, "stars": 3501, "owner": "rust-lang", "forks": 250},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 79, "stars": 7618, "owner": "firecracker-microvm", "forks": 439},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 77, "stars": 4231, "owner": "tokio-rs", "forks": 314},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 77, "stars": 5208, "owner": "swc-project", "forks": 79},
@@ -23,5 +23,5 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 63, "stars": 2812, "owner": "amethyst", "forks": 325},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 62, "stars": 2553, "owner": "wasmerio", "forks": 76},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 58, "stars": 4940, "owner": "mre", "forks": 580},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 53, "stars": 13596, "owner": "servo", "forks": 2096}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 53, "stars": 13597, "owner": "servo", "forks": 2096}
 ]

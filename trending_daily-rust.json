@@ -1,15 +1,15 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1235, "stars": 1691, "owner": "timvisee", "forks": 31},
-{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 137, "stars": 221, "owner": "ferrous-systems", "forks": 5},
-{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 104, "stars": 109, "owner": "rustwasm", "forks": 2},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1235, "stars": 1710, "owner": "timvisee", "forks": 31},
+{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 137, "stars": 222, "owner": "ferrous-systems", "forks": 5},
+{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 104, "stars": 110, "owner": "rustwasm", "forks": 2},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 63, "stars": 207, "owner": "hrkfdn", "forks": 9},
 {"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 41, "stars": 803, "owner": "RedBeardLab", "forks": 59},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 37, "stars": 12629, "owner": "sharkdp", "forks": 229},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 34592, "owner": "rust-lang", "forks": 5579},
-{"description": "A WebAssembly runtime designed for multitenancy", "language": "Rust", "repo": "wasabi", "new_stars": 29, "stars": 38, "owner": "maxmcd", "forks": 3},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 26, "stars": 783, "owner": "Peltoche", "forks": 29},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 37, "stars": 12631, "owner": "sharkdp", "forks": 229},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 34591, "owner": "rust-lang", "forks": 5579},
+{"description": "A WebAssembly runtime designed for multitenancy", "language": "Rust", "repo": "wasabi", "new_stars": 29, "stars": 40, "owner": "maxmcd", "forks": 3},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 26, "stars": 784, "owner": "Peltoche", "forks": 29},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 24, "stars": 8849, "owner": "sharkdp", "forks": 228},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 9907, "owner": "rust-unofficial", "forks": 645},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 9908, "owner": "rust-unofficial", "forks": 645},
 {"description": "A binary grep written in Rust.", "language": "Rust", "repo": "bgrep", "new_stars": 19, "stars": 75, "owner": "gahag", "forks": 1},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 7636, "owner": "firecracker-microvm", "forks": 440},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 16, "stars": 4246, "owner": "tokio-rs", "forks": 316},
@@ -22,6 +22,6 @@
 {"description": "Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 13, "stars": 523, "owner": "rustasync", "forks": 57},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 12, "stars": 13609, "owner": "servo", "forks": 2097},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 12, "stars": 4663, "owner": "uutils", "forks": 401},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 12, "stars": 6635, "owner": "SergioBenitez", "forks": 440},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 11, "stars": 2826, "owner": "amethyst", "forks": 327}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 12, "stars": 6634, "owner": "SergioBenitez", "forks": 440},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 11, "stars": 2827, "owner": "amethyst", "forks": 327}
 ]

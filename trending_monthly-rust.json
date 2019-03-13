@@ -1,6 +1,6 @@
 [
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 908, "stars": 2556, "owner": "wasmerio", "forks": 76},
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 837, "stars": 943, "owner": "timvisee", "forks": 16},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 837, "stars": 958, "owner": "timvisee", "forks": 18},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 814, "stars": 5215, "owner": "swc-project", "forks": 80},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 709, "stars": 34580, "owner": "rust-lang", "forks": 5576},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 601, "stars": 12600, "owner": "sharkdp", "forks": 229},
@@ -8,7 +8,7 @@
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 439, "stars": 563, "owner": "kyren", "forks": 20},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 422, "stars": 13091, "owner": "BurntSushi", "forks": 532},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 418, "stars": 8835, "owner": "sharkdp", "forks": 228},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 371, "stars": 9895, "owner": "rust-unofficial", "forks": 646},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 371, "stars": 9896, "owner": "rust-unofficial", "forks": 646},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 349, "stars": 7622, "owner": "firecracker-microvm", "forks": 438},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 325, "stars": 3054, "owner": "RustPython", "forks": 156},
 {"description": "The fastest JavaScript bundler in the galaxy.", "language": "Rust", "repo": "pax", "new_stars": 311, "stars": 2037, "owner": "nathan", "forks": 26},
@@ -23,5 +23,5 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 207, "stars": 13601, "owner": "servo", "forks": 2096},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 211, "stars": 3505, "owner": "rust-lang", "forks": 251},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 209, "stars": 6628, "owner": "SergioBenitez", "forks": 439},
-{"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 178, "stars": 181, "owner": "hrkfdn", "forks": 9}
+{"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 178, "stars": 182, "owner": "hrkfdn", "forks": 9}
 ]

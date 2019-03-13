@@ -1,13 +1,13 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 562, "stars": 943, "owner": "timvisee", "forks": 16},
-{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 73, "stars": 155, "owner": "ferrous-systems", "forks": 5},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 562, "stars": 958, "owner": "timvisee", "forks": 18},
+{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "cargo-flamegraph", "new_stars": 73, "stars": 159, "owner": "ferrous-systems", "forks": 5},
 {"description": "A binary grep written in Rust.", "language": "Rust", "repo": "bgrep", "new_stars": 61, "stars": 66, "owner": "gahag", "forks": 1},
-{"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 48, "stars": 181, "owner": "hrkfdn", "forks": 9},
-{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 35, "stars": 48, "owner": "rustwasm", "forks": 0},
+{"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 48, "stars": 182, "owner": "hrkfdn", "forks": 9},
+{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 35, "stars": 52, "owner": "rustwasm", "forks": 0},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 31, "stars": 8835, "owner": "sharkdp", "forks": 228},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 34580, "owner": "rust-lang", "forks": 5576},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 29, "stars": 14788, "owner": "jwilm", "forks": 653},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 22, "stars": 9895, "owner": "rust-unofficial", "forks": 646},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 22, "stars": 9896, "owner": "rust-unofficial", "forks": 646},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 22, "stars": 5215, "owner": "swc-project", "forks": 80},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 12600, "owner": "sharkdp", "forks": 229},
 {"description": "python game engine that runs in browser", "language": "Rust", "repo": "pyckitup", "new_stars": 19, "stars": 33, "owner": "pickitup247", "forks": 1},
@@ -23,5 +23,5 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 15778, "owner": "xi-editor", "forks": 574},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 6628, "owner": "SergioBenitez", "forks": 439},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 10, "stars": 3693, "owner": "diesel-rs", "forks": 359},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 9, "stars": 2162, "owner": "maps4print", "forks": 53}
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 9, "stars": 2163, "owner": "maps4print", "forks": 53}
 ]

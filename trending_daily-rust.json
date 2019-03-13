@@ -1,8 +1,8 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1085, "stars": 1854, "owner": "timvisee", "forks": 34},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1085, "stars": 1865, "owner": "timvisee", "forks": 34},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 108, "stars": 242, "owner": "ferrous-systems", "forks": 5},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 93, "stars": 122, "owner": "rustwasm", "forks": 2},
-{"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 48, "stars": 809, "owner": "RedBeardLab", "forks": 59},
+{"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 48, "stars": 810, "owner": "RedBeardLab", "forks": 59},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 45, "stars": 12645, "owner": "sharkdp", "forks": 229},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 37, "stars": 210, "owner": "hrkfdn", "forks": 9},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 34599, "owner": "rust-lang", "forks": 5579},
@@ -17,11 +17,11 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 9909, "owner": "rust-unofficial", "forks": 645},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 16, "stars": 4667, "owner": "uutils", "forks": 402},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 13106, "owner": "BurntSushi", "forks": 533},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 14802, "owner": "jwilm", "forks": 653},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 14803, "owner": "jwilm", "forks": 653},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 14, "stars": 7636, "owner": "firecracker-microvm", "forks": 440},
 {"description": "A binary grep written in Rust.", "language": "Rust", "repo": "bgrep", "new_stars": 13, "stars": 79, "owner": "gahag", "forks": 1},
 {"description": "Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 11, "stars": 524, "owner": "rustasync", "forks": 59},
-{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 11, "stars": 3201, "owner": "neon-bindings", "forks": 132},
+{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 11, "stars": 3202, "owner": "neon-bindings", "forks": 132},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 11, "stars": 770, "owner": "dani-garcia", "forks": 73},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 6636, "owner": "SergioBenitez", "forks": 440}
 ]

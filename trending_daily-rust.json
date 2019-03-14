@@ -1,11 +1,11 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 941, "stars": 2103, "owner": "timvisee", "forks": 37},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 941, "stars": 2113, "owner": "timvisee", "forks": 37},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 78, "stars": 253, "owner": "ferrous-systems", "forks": 5},
-{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 66, "stars": 143, "owner": "rustwasm", "forks": 2},
+{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 66, "stars": 144, "owner": "rustwasm", "forks": 2},
 {"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 62, "stars": 828, "owner": "RedBeardLab", "forks": 59},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 44, "stars": 7680, "owner": "firecracker-microvm", "forks": 442},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 44, "stars": 7682, "owner": "firecracker-microvm", "forks": 442},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 38, "stars": 12647, "owner": "sharkdp", "forks": 229},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 34611, "owner": "rust-lang", "forks": 5579},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 34611, "owner": "rust-lang", "forks": 5578},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 25, "stars": 8859, "owner": "sharkdp", "forks": 228},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 22, "stars": 213, "owner": "hrkfdn", "forks": 10},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 22, "stars": 4672, "owner": "uutils", "forks": 403},
@@ -15,13 +15,13 @@
 {"description": "A command-line hex viewer", "language": "Rust", "repo": "hexyl", "new_stars": 19, "stars": 4130, "owner": "sharkdp", "forks": 106},
 {"description": "A WebAssembly runtime designed for multitenancy", "language": "Rust", "repo": "wasabi", "new_stars": 19, "stars": 45, "owner": "maxmcd", "forks": 3},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 18, "stars": 2837, "owner": "amethyst", "forks": 327},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 17, "stars": 788, "owner": "Peltoche", "forks": 30},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 17, "stars": 789, "owner": "Peltoche", "forks": 30},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 17, "stars": 5233, "owner": "swc-project", "forks": 81},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 13108, "owner": "BurntSushi", "forks": 533},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 9913, "owner": "rust-unofficial", "forks": 644},
 {"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 13, "stars": 453, "owner": "rust-embedded", "forks": 18},
-{"description": "Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 11, "stars": 531, "owner": "rustasync", "forks": 59},
+{"description": "Modular web framework", "language": "Rust", "repo": "tide", "new_stars": 11, "stars": 532, "owner": "rustasync", "forks": 59},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 12, "stars": 771, "owner": "dani-garcia", "forks": 73},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 11, "stars": 6640, "owner": "SergioBenitez", "forks": 441},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 4749, "owner": "tikv", "forks": 699}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 4750, "owner": "tikv", "forks": 699}
 ]

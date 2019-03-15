@@ -1,13 +1,13 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 2263, "stars": 2536, "owner": "timvisee", "forks": 42},
-{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 276, "stars": 357, "owner": "fitzgen", "forks": 11},
-{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 258, "stars": 289, "owner": "ferrous-systems", "forks": 7},
-{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 212, "stars": 237, "owner": "wasplang", "forks": 6},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 2263, "stars": 2543, "owner": "timvisee", "forks": 42},
+{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 276, "stars": 362, "owner": "fitzgen", "forks": 12},
+{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 258, "stars": 290, "owner": "ferrous-systems", "forks": 7},
+{"description": "a web assembly Lisp programming language", "language": "Rust", "repo": "wasp", "new_stars": 212, "stars": 238, "owner": "wasplang", "forks": 6},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 34626, "owner": "rust-lang", "forks": 5584},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 178, "stars": 12678, "owner": "sharkdp", "forks": 229},
-{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 176, "stars": 177, "owner": "rustwasm", "forks": 2},
+{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 176, "stars": 178, "owner": "rustwasm", "forks": 2},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 155, "stars": 8883, "owner": "sharkdp", "forks": 228},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 142, "stars": 7718, "owner": "firecracker-microvm", "forks": 446},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 142, "stars": 7719, "owner": "firecracker-microvm", "forks": 445},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 132, "stars": 14824, "owner": "jwilm", "forks": 656},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 120, "stars": 810, "owner": "Peltoche", "forks": 31},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 105, "stars": 9932, "owner": "rust-unofficial", "forks": 645},
@@ -21,7 +21,7 @@
 {"description": "A binary grep written in Rust.", "language": "Rust", "repo": "bgrep", "new_stars": 81, "stars": 84, "owner": "gahag", "forks": 1},
 {"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 75, "stars": 221, "owner": "jasonwilliams", "forks": 7},
 {"description": "PROST! a Protocol Buffers implementation for the Rust Language", "language": "Rust", "repo": "prost", "new_stars": 73, "stars": 554, "owner": "danburkert", "forks": 47},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 68, "stars": 6783, "owner": "DenisKolodin", "forks": 238},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 62, "stars": 6648, "owner": "SergioBenitez", "forks": 444},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 62, "stars": 4698, "owner": "uutils", "forks": 403}
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 68, "stars": 6784, "owner": "DenisKolodin", "forks": 238},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 62, "stars": 6649, "owner": "SergioBenitez", "forks": 444},
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 62, "stars": 4699, "owner": "uutils", "forks": 403}
 ]

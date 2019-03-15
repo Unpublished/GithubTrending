@@ -1,8 +1,8 @@
 [
-{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 296, "stars": 393, "owner": "fitzgen", "forks": 13},
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 269, "stars": 2580, "owner": "timvisee", "forks": 42},
+{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 296, "stars": 394, "owner": "fitzgen", "forks": 13},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 269, "stars": 2583, "owner": "timvisee", "forks": 42},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 27, "stars": 182, "owner": "rustwasm", "forks": 3},
-{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 23, "stars": 294, "owner": "ferrous-systems", "forks": 8},
+{"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 23, "stars": 295, "owner": "ferrous-systems", "forks": 8},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 19, "stars": 34632, "owner": "rust-lang", "forks": 5585},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 12682, "owner": "sharkdp", "forks": 230},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 14828, "owner": "jwilm", "forks": 657},
@@ -22,6 +22,6 @@
 {"description": "A Rust port of FlameGraph", "language": "Rust", "repo": "inferno", "new_stars": 9, "stars": 272, "owner": "jonhoo", "forks": 24},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 8, "stars": 4278, "owner": "tokio-rs", "forks": 318},
 {"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 8, "stars": 1226, "owner": "rusterlium", "forks": 60},
-{"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 8, "stars": 352, "owner": "David-OConnor", "forks": 15},
+{"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 8, "stars": 353, "owner": "David-OConnor", "forks": 15},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 8, "stars": 5290, "owner": "paritytech", "forks": 1205}
 ]

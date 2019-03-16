@@ -1,17 +1,17 @@
 [
-{"description": "An open source library for face detection in images. The face detection speed can reach 1500FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 1273, "stars": 4153, "owner": "ShiqiYu", "forks": 1335},
-{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 362, "stars": 12926, "owner": "Microsoft", "forks": 1723},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 119, "stars": 122962, "owner": "tensorflow", "forks": 72864},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 52, "stars": 32656, "owner": "opencv", "forks": 23483},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 50, "stars": 25264, "owner": "tesseract-ocr", "forks": 4872},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 46, "stars": 25815, "owner": "pytorch", "forks": 6123},
+{"description": "An open source library for face detection in images. The face detection speed can reach 1500FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 1273, "stars": 4168, "owner": "ShiqiYu", "forks": 1335},
+{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 362, "stars": 12927, "owner": "Microsoft", "forks": 1723},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 119, "stars": 122961, "owner": "tensorflow", "forks": 72865},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 52, "stars": 32656, "owner": "opencv", "forks": 23484},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 50, "stars": 25265, "owner": "tesseract-ocr", "forks": 4872},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 46, "stars": 25814, "owner": "pytorch", "forks": 6123},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 46, "stars": 71011, "owner": "electron", "forks": 9250},
-{"description": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. Encryption.", "language": "C++", "repo": "GameNetworkingSockets", "new_stars": 48, "stars": 3774, "owner": "ValveSoftware", "forks": 176},
-{"description": "Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.", "language": "C++", "repo": "dust3d", "new_stars": 39, "stars": 920, "owner": "huxingyi", "forks": 48},
+{"description": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. Encryption.", "language": "C++", "repo": "GameNetworkingSockets", "new_stars": 48, "stars": 3777, "owner": "ValveSoftware", "forks": 176},
+{"description": "Dust3D is a cross-platform open-source 3D modeling software. Auto UV unwrapping, auto rigging with PBR Material support, pose and motion authoring all in one.", "language": "C++", "repo": "dust3d", "new_stars": 39, "stars": 921, "owner": "huxingyi", "forks": 48},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 34, "stars": 19978, "owner": "godotengine", "forks": 4021},
 {"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 35, "stars": 6114, "owner": "lemire", "forks": 282},
 {"description": "C/C++\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 23, "stars": 3653, "owner": "huihut", "forks": 1104},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 27, "stars": 32731, "owner": "protocolbuffers", "forks": 8962},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 27, "stars": 32733, "owner": "protocolbuffers", "forks": 8964},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 23, "stars": 20001, "owner": "grpc", "forks": 4592},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 22, "stars": 4823, "owner": "pybind", "forks": 625},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 18, "stars": 10848, "owner": "google", "forks": 4494},
@@ -23,5 +23,5 @@
 {"description": "Watches files and records, or triggers actions, when they change.", "language": "C++", "repo": "watchman", "new_stars": 19, "stars": 7724, "owner": "facebook", "forks": 581},
 {"description": "ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.", "language": "C++", "repo": "arangodb", "new_stars": 19, "stars": 7608, "owner": "arangodb", "forks": 543},
 {"description": "a language for making art using mathematics", "language": "C++", "repo": "curv", "new_stars": 17, "stars": 513, "owner": "curv3d", "forks": 35},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 15, "stars": 8777, "owner": "envoyproxy", "forks": 1311}
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 15, "stars": 8778, "owner": "envoyproxy", "forks": 1311}
 ]

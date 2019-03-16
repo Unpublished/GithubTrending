@@ -1,7 +1,7 @@
 [
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 178, "stars": 2640, "owner": "timvisee", "forks": 43},
-{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 158, "stars": 446, "owner": "fitzgen", "forks": 14},
-{"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 33, "stars": 39, "owner": "jonasmr", "forks": 0},
+{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 158, "stars": 447, "owner": "fitzgen", "forks": 15},
+{"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 33, "stars": 40, "owner": "jonasmr", "forks": 0},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 34644, "owner": "rust-lang", "forks": 5586},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 23, "stars": 304, "owner": "ferrous-systems", "forks": 8},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 23, "stars": 1800, "owner": "Aaronepower", "forks": 128},
@@ -10,7 +10,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 14834, "owner": "jwilm", "forks": 658},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 17, "stars": 188, "owner": "rustwasm", "forks": 4},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 8893, "owner": "sharkdp", "forks": 228},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 9937, "owner": "rust-unofficial", "forks": 646},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 9936, "owner": "rust-unofficial", "forks": 646},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 13, "stars": 7728, "owner": "firecracker-microvm", "forks": 445},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 13, "stars": 6655, "owner": "SergioBenitez", "forks": 444},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 13, "stars": 5253, "owner": "swc-project", "forks": 81},

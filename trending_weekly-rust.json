@@ -1,17 +1,17 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 2511, "stars": 2791, "owner": "timvisee", "forks": 47},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 2511, "stars": 2792, "owner": "timvisee", "forks": 47},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 430, "stars": 507, "owner": "fitzgen", "forks": 17},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 246, "stars": 315, "owner": "ferrous-systems", "forks": 8},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 201, "stars": 203, "owner": "rustwasm", "forks": 5},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 173, "stars": 34658, "owner": "rust-lang", "forks": 5590},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 165, "stars": 12701, "owner": "sharkdp", "forks": 231},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 149, "stars": 7741, "owner": "firecracker-microvm", "forks": 446},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 128, "stars": 14850, "owner": "jwilm", "forks": 659},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 130, "stars": 8911, "owner": "sharkdp", "forks": 228},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 128, "stars": 14852, "owner": "jwilm", "forks": 659},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 130, "stars": 8912, "owner": "sharkdp", "forks": 228},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 122, "stars": 844, "owner": "Peltoche", "forks": 30},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 109, "stars": 236, "owner": "hrkfdn", "forks": 10},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 102, "stars": 9944, "owner": "rust-unofficial", "forks": 647},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 93, "stars": 13148, "owner": "BurntSushi", "forks": 537},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 93, "stars": 13150, "owner": "BurntSushi", "forks": 537},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 94, "stars": 5263, "owner": "swc-project", "forks": 81},
 {"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 94, "stars": 855, "owner": "RedBeardLab", "forks": 60},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 87, "stars": 3560, "owner": "rust-lang", "forks": 258},
@@ -20,8 +20,8 @@
 {"description": "A binary grep written in Rust.", "language": "Rust", "repo": "bgrep", "new_stars": 84, "stars": 87, "owner": "gahag", "forks": 2},
 {"description": "PROST! a Protocol Buffers implementation for the Rust Language", "language": "Rust", "repo": "prost", "new_stars": 78, "stars": 561, "owner": "danburkert", "forks": 47},
 {"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 77, "stars": 478, "owner": "rust-embedded", "forks": 19},
-{"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 70, "stars": 73, "owner": "jonasmr", "forks": 0},
+{"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 70, "stars": 74, "owner": "jonasmr", "forks": 0},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 67, "stars": 4709, "owner": "uutils", "forks": 405},
 {"description": "python game engine that runs in browser", "language": "Rust", "repo": "pyckitup", "new_stars": 69, "stars": 71, "owner": "pickitup247", "forks": 4},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 65, "stars": 6663, "owner": "SergioBenitez", "forks": 444}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 65, "stars": 6664, "owner": "SergioBenitez", "forks": 444}
 ]

@@ -1,7 +1,7 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 133, "stars": 2881, "owner": "timvisee", "forks": 48},
-{"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 41, "stars": 53, "owner": "cmyr", "forks": 1},
-{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 38, "stars": 536, "owner": "fitzgen", "forks": 20},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 133, "stars": 2886, "owner": "timvisee", "forks": 48},
+{"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 41, "stars": 56, "owner": "cmyr", "forks": 1},
+{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 38, "stars": 538, "owner": "fitzgen", "forks": 20},
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 31, "stars": 55, "owner": "wchang22", "forks": 0},
 {"description": "Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.", "language": "Rust", "repo": "actix-realworld-example-app", "new_stars": 29, "stars": 67, "owner": "fairingrey", "forks": 3},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 34675, "owner": "rust-lang", "forks": 5591},
@@ -9,9 +9,9 @@
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 23, "stars": 854, "owner": "Peltoche", "forks": 30},
 {"description": "An Operating System written in Rust on RISC V(rv32im)", "language": "Rust", "repo": "osmium", "new_stars": 22, "stars": 34, "owner": "moratorium08", "forks": 0},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 12714, "owner": "sharkdp", "forks": 231},
-{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 19, "stars": 216, "owner": "rustwasm", "forks": 5},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 14861, "owner": "jwilm", "forks": 658},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 8924, "owner": "sharkdp", "forks": 228},
+{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 19, "stars": 217, "owner": "rustwasm", "forks": 5},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 17, "stars": 14862, "owner": "jwilm", "forks": 658},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 15, "stars": 8925, "owner": "sharkdp", "forks": 228},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 13, "stars": 3567, "owner": "rust-lang", "forks": 259},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 12, "stars": 13638, "owner": "servo", "forks": 2107},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 13155, "owner": "BurntSushi", "forks": 537},
@@ -21,7 +21,7 @@
 {"description": "A learning experience in implementing TCP in Rust", "language": "Rust", "repo": "rust-tcp", "new_stars": 10, "stars": 117, "owner": "jonhoo", "forks": 4},
 {"description": "A set of data and constructs to use in games.", "language": "Rust", "repo": "game_features", "new_stars": 10, "stars": 29, "owner": "jojolepro", "forks": 1},
 {"description": "A Redis module that provides rate limiting in Redis as a single command.", "language": "Rust", "repo": "redis-cell", "new_stars": 9, "stars": 500, "owner": "brandur", "forks": 29},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 9952, "owner": "rust-unofficial", "forks": 647},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 9954, "owner": "rust-unofficial", "forks": 647},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 9, "stars": 1823, "owner": "Aaronepower", "forks": 128},
 {"description": "Rust bindings for GDNative", "language": "Rust", "repo": "godot-rust", "new_stars": 9, "stars": 292, "owner": "GodotNativeTools", "forks": 25}
 ]

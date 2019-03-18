@@ -1,11 +1,11 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 2780, "stars": 2823, "owner": "timvisee", "forks": 47},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 2780, "stars": 2826, "owner": "timvisee", "forks": 48},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 905, "stars": 2579, "owner": "wasmerio", "forks": 76},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 712, "stars": 34666, "owner": "rust-lang", "forks": 5590},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 602, "stars": 12709, "owner": "sharkdp", "forks": 231},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 472, "stars": 5263, "owner": "swc-project", "forks": 81},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 446, "stars": 14854, "owner": "jwilm", "forks": 659},
-{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 451, "stars": 521, "owner": "fitzgen", "forks": 19},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 446, "stars": 14856, "owner": "jwilm", "forks": 659},
+{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 451, "stars": 522, "owner": "fitzgen", "forks": 19},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 451, "stars": 8917, "owner": "sharkdp", "forks": 228},
 {"description": "An experimental Lua VM implemented in pure Rust", "language": "Rust", "repo": "luster", "new_stars": 445, "stars": 575, "owner": "kyren", "forks": 20},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 428, "stars": 7742, "owner": "firecracker-microvm", "forks": 447},
@@ -22,6 +22,6 @@
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 236, "stars": 236, "owner": "hrkfdn", "forks": 10},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 209, "stars": 13637, "owner": "servo", "forks": 2106},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 216, "stars": 6665, "owner": "SergioBenitez", "forks": 444},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 192, "stars": 4767, "owner": "tikv", "forks": 702},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 192, "stars": 4768, "owner": "tikv", "forks": 702},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 204, "stars": 3461, "owner": "actix", "forks": 241}
 ]

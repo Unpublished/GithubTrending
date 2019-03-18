@@ -1,15 +1,15 @@
 [
-{"description": "PHPUnit Plugin for detecting Memory Leaks in code and tests", "language": "PHP", "repo": "no-leaks", "new_stars": 44, "stars": 118, "owner": "Roave", "forks": 2},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 37, "stars": 50816, "owner": "laravel", "forks": 15490},
+{"description": "PHPUnit Plugin for detecting Memory Leaks in code and tests", "language": "PHP", "repo": "no-leaks", "new_stars": 44, "stars": 121, "owner": "Roave", "forks": 2},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 37, "stars": 50817, "owner": "laravel", "forks": 15490},
 {"description": "Design Pattern Examples in PHP", "language": "PHP", "repo": "design-patterns-php", "new_stars": 28, "stars": 382, "owner": "RefactoringGuru", "forks": 34},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 19, "stars": 17138, "owner": "danielmiessler", "forks": 6387},
-{"description": "A compiler. For PHP", "language": "PHP", "repo": "php-compiler", "new_stars": 20, "stars": 410, "owner": "ircmaxell", "forks": 10},
+{"description": "A compiler. For PHP", "language": "PHP", "repo": "php-compiler", "new_stars": 20, "stars": 411, "owner": "ircmaxell", "forks": 10},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 17, "stars": 16543, "owner": "laravel", "forks": 6320},
 {"description": "Get insights about your Laravel or Lumen Project", "language": "PHP", "repo": "laravel-stats", "new_stars": 16, "stars": 828, "owner": "stefanzweifel", "forks": 48},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 11, "stars": 12168, "owner": "WordPress", "forks": 7381},
 {"description": "Small set of defensive programming utilities/traits for PHP", "language": "PHP", "repo": "Dont", "new_stars": 12, "stars": 71, "owner": "Roave", "forks": 7},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 11, "stars": 16001, "owner": "guzzle", "forks": 1908},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 10, "stars": 14017, "owner": "Seldaek", "forks": 1509},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 10, "stars": 14017, "owner": "Seldaek", "forks": 1510},
 {"description": "A request execution time statistics tools with Laravel", "language": "PHP", "repo": "laravel-running-time", "new_stars": 11, "stars": 23, "owner": "y-ui", "forks": 2},
 {"description": "JSON Web Token Authentication for Laravel & Lumen", "language": "PHP", "repo": "jwt-auth", "new_stars": 10, "stars": 7515, "owner": "tymondesigns", "forks": 934},
 {"description": "HTPC/Homelab Services Organizer - Written in PHP", "language": "PHP", "repo": "Organizr", "new_stars": 10, "stars": 1862, "owner": "causefx", "forks": 145},
@@ -21,7 +21,7 @@
 {"description": "An eCommerce Framework built on laravel for All to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 8, "stars": 656, "owner": "bagisto", "forks": 132},
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 8, "stars": 8312, "owner": "octobercms", "forks": 1919},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 8, "stars": 10380, "owner": "erusev", "forks": 859},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 6, "stars": 12756, "owner": "PHPMailer", "forks": 7031},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 6, "stars": 12757, "owner": "PHPMailer", "forks": 7031},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 7, "stars": 5772, "owner": "z-song", "forks": 1597},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 8, "stars": 11975, "owner": "briannesbitt", "forks": 1054}
 ]

@@ -1,7 +1,7 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 73, "stars": 3005, "owner": "timvisee", "forks": 53},
-{"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 59, "stars": 131, "owner": "wchang22", "forks": 1},
-{"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 56, "stars": 64, "owner": "MichaelBurge", "forks": 3},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 73, "stars": 3006, "owner": "timvisee", "forks": 53},
+{"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 59, "stars": 132, "owner": "wchang22", "forks": 1},
+{"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 56, "stars": 66, "owner": "MichaelBurge", "forks": 3},
 {"description": "A fast bump allocation arena for Rust", "language": "Rust", "repo": "bumpalo", "new_stars": 45, "stars": 76, "owner": "fitzgen", "forks": 6},
 {"description": "IMAP client library for Rust", "language": "Rust", "repo": "rust-imap", "new_stars": 31, "stars": 86, "owner": "jonhoo", "forks": 3},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 34712, "owner": "rust-lang", "forks": 5589},
@@ -13,7 +13,7 @@
 {"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 17, "stars": 116, "owner": "cmyr", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 9971, "owner": "rust-unofficial", "forks": 648},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 15, "stars": 566, "owner": "fitzgen", "forks": 20},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 14, "stars": 3590, "owner": "rust-lang", "forks": 263},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 14, "stars": 3591, "owner": "rust-lang", "forks": 263},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 14, "stars": 6013, "owner": "ogham", "forks": 190},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 13, "stars": 4312, "owner": "tokio-rs", "forks": 321},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 13, "stars": 2610, "owner": "wasmerio", "forks": 77},
@@ -21,7 +21,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 13651, "owner": "servo", "forks": 2109},
 {"description": "A simple Erlang VM implementation in Rust", "language": "Rust", "repo": "enigma", "new_stars": 11, "stars": 222, "owner": "archseer", "forks": 9},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 10, "stars": 236, "owner": "rustwasm", "forks": 7},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 2201, "owner": "maps4print", "forks": 55},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 10, "stars": 2202, "owner": "maps4print", "forks": 55},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 9, "stars": 2418, "owner": "actix", "forks": 165},
 {"description": "Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.", "language": "Rust", "repo": "actix-realworld-example-app", "new_stars": 9, "stars": 86, "owner": "fairingrey", "forks": 4}
 ]

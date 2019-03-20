@@ -6,10 +6,10 @@
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 145, "stars": 238, "owner": "rustwasm", "forks": 7},
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 144, "stars": 144, "owner": "wchang22", "forks": 1},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 139, "stars": 333, "owner": "ferrous-systems", "forks": 8},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 133, "stars": 909, "owner": "Peltoche", "forks": 33},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 133, "stars": 910, "owner": "Peltoche", "forks": 33},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 123, "stars": 7752, "owner": "firecracker-microvm", "forks": 451},
 {"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 120, "stars": 120, "owner": "cmyr", "forks": 1},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 110, "stars": 14895, "owner": "jwilm", "forks": 659},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 110, "stars": 14896, "owner": "jwilm", "forks": 659},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 110, "stars": 8948, "owner": "sharkdp", "forks": 228},
 {"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 102, "stars": 104, "owner": "MichaelBurge", "forks": 5},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 100, "stars": 13190, "owner": "BurntSushi", "forks": 538},
@@ -23,5 +23,5 @@
 {"description": "A fast bump allocation arena for Rust", "language": "Rust", "repo": "bumpalo", "new_stars": 70, "stars": 80, "owner": "fitzgen", "forks": 6},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 68, "stars": 1832, "owner": "Aaronepower", "forks": 128},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 64, "stars": 4719, "owner": "uutils", "forks": 406},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 56, "stars": 13656, "owner": "servo", "forks": 2109}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 56, "stars": 13659, "owner": "servo", "forks": 2109}
 ]

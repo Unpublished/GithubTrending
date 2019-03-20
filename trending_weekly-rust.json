@@ -1,5 +1,5 @@
 [
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1887, "stars": 3025, "owner": "timvisee", "forks": 54},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1887, "stars": 3026, "owner": "timvisee", "forks": 54},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 494, "stars": 572, "owner": "fitzgen", "forks": 20},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 164, "stars": 34716, "owner": "rust-lang", "forks": 5589},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 161, "stars": 238, "owner": "rustwasm", "forks": 7},
@@ -8,14 +8,14 @@
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 140, "stars": 144, "owner": "wchang22", "forks": 1},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 134, "stars": 909, "owner": "Peltoche", "forks": 33},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 128, "stars": 7752, "owner": "firecracker-microvm", "forks": 451},
-{"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 119, "stars": 119, "owner": "cmyr", "forks": 1},
+{"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 119, "stars": 120, "owner": "cmyr", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 113, "stars": 14894, "owner": "jwilm", "forks": 659},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 110, "stars": 8948, "owner": "sharkdp", "forks": 228},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 13190, "owner": "BurntSushi", "forks": 538},
 {"description": "Redis module that provides a completely functional SQL database", "language": "Rust", "repo": "rediSQL", "new_stars": 98, "stars": 860, "owner": "RedBeardLab", "forks": 60},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 96, "stars": 1363, "owner": "bodil", "forks": 30},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 87, "stars": 3594, "owner": "rust-lang", "forks": 263},
-{"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 88, "stars": 95, "owner": "MichaelBurge", "forks": 5},
+{"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 88, "stars": 97, "owner": "MichaelBurge", "forks": 5},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 87, "stars": 9976, "owner": "rust-unofficial", "forks": 648},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 82, "stars": 4318, "owner": "tokio-rs", "forks": 321},
 {"description": "Implementation of the RealWorld backend API spec in Actix, Rust's powerful actor system and most fun web framework.", "language": "Rust", "repo": "actix-realworld-example-app", "new_stars": 81, "stars": 86, "owner": "fairingrey", "forks": 5},
@@ -23,5 +23,5 @@
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 70, "stars": 4718, "owner": "uutils", "forks": 406},
 {"description": "A fast bump allocation arena for Rust", "language": "Rust", "repo": "bumpalo", "new_stars": 70, "stars": 80, "owner": "fitzgen", "forks": 6},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 69, "stars": 1832, "owner": "Aaronepower", "forks": 128},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 56, "stars": 13655, "owner": "servo", "forks": 2109}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 56, "stars": 13656, "owner": "servo", "forks": 2109}
 ]

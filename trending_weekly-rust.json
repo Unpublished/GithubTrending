@@ -1,7 +1,7 @@
 [
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 1151, "stars": 3058, "owner": "timvisee", "forks": 55},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 504, "stars": 580, "owner": "fitzgen", "forks": 20},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 34735, "owner": "rust-lang", "forks": 5589},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 161, "stars": 34736, "owner": "rust-lang", "forks": 5589},
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 149, "stars": 149, "owner": "wchang22", "forks": 1},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 144, "stars": 931, "owner": "Peltoche", "forks": 35},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 123, "stars": 7766, "owner": "firecracker-microvm", "forks": 452},
@@ -10,7 +10,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 125, "stars": 12759, "owner": "sharkdp", "forks": 230},
 {"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 122, "stars": 122, "owner": "cmyr", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 116, "stars": 14912, "owner": "jwilm", "forks": 660},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 103, "stars": 8959, "owner": "sharkdp", "forks": 228},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 103, "stars": 8960, "owner": "sharkdp", "forks": 228},
 {"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 99, "stars": 1366, "owner": "bodil", "forks": 30},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 94, "stars": 336, "owner": "ferrous-systems", "forks": 8},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 87, "stars": 9986, "owner": "rust-unofficial", "forks": 648},
@@ -20,7 +20,7 @@
 {"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 78, "stars": 80, "owner": "jonasmr", "forks": 0},
 {"description": "A fast bump allocation arena for Rust", "language": "Rust", "repo": "bumpalo", "new_stars": 74, "stars": 84, "owner": "fitzgen", "forks": 6},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 65, "stars": 13667, "owner": "servo", "forks": 2109},
-{"description": "Avoid memcpy calls when working with standard containers", "language": "Rust", "repo": "copyless", "new_stars": 66, "stars": 73, "owner": "kvark", "forks": 1},
+{"description": "Avoid memcpy calls when working with standard containers", "language": "Rust", "repo": "copyless", "new_stars": 66, "stars": 75, "owner": "kvark", "forks": 1},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 64, "stars": 1833, "owner": "Aaronepower", "forks": 128},
 {"description": "IMAP client library for Rust", "language": "Rust", "repo": "rust-imap", "new_stars": 62, "stars": 113, "owner": "jonhoo", "forks": 4},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 59, "stars": 2621, "owner": "wasmerio", "forks": 78}

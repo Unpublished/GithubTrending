@@ -2,9 +2,9 @@
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 3024, "stars": 3067, "owner": "timvisee", "forks": 55},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 935, "stars": 2624, "owner": "wasmerio", "forks": 78},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 718, "stars": 34739, "owner": "rust-lang", "forks": 5589},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 565, "stars": 12766, "owner": "sharkdp", "forks": 230},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 565, "stars": 12767, "owner": "sharkdp", "forks": 230},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 509, "stars": 581, "owner": "fitzgen", "forks": 20},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 465, "stars": 14915, "owner": "jwilm", "forks": 662},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 465, "stars": 14916, "owner": "jwilm", "forks": 662},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 446, "stars": 938, "owner": "Peltoche", "forks": 35},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 444, "stars": 8962, "owner": "sharkdp", "forks": 228},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 410, "stars": 7767, "owner": "firecracker-microvm", "forks": 452},
@@ -13,8 +13,8 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 361, "stars": 9988, "owner": "rust-unofficial", "forks": 648},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 337, "stars": 337, "owner": "ferrous-systems", "forks": 8},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 286, "stars": 3603, "owner": "rust-lang", "forks": 266},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 280, "stars": 4328, "owner": "tokio-rs", "forks": 321},
-{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 257, "stars": 257, "owner": "rustwasm", "forks": 9},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 280, "stars": 4329, "owner": "tokio-rs", "forks": 321},
+{"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 257, "stars": 259, "owner": "rustwasm", "forks": 9},
 {"description": "a web assembly programming language", "language": "Rust", "repo": "wasp", "new_stars": 249, "stars": 249, "owner": "wasplang", "forks": 6},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 246, "stars": 246, "owner": "hrkfdn", "forks": 10},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 233, "stars": 3083, "owner": "RustPython", "forks": 162},
@@ -23,5 +23,5 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 214, "stars": 2867, "owner": "amethyst", "forks": 333},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 214, "stars": 6680, "owner": "SergioBenitez", "forks": 445},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 210, "stars": 4995, "owner": "mre", "forks": 587},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 215, "stars": 6023, "owner": "ogham", "forks": 190}
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 215, "stars": 6024, "owner": "ogham", "forks": 190}
 ]

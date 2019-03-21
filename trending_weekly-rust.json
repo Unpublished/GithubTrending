@@ -1,7 +1,7 @@
 [
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 935, "stars": 3075, "owner": "timvisee", "forks": 55},
-{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 507, "stars": 582, "owner": "fitzgen", "forks": 20},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 158, "stars": 34741, "owner": "rust-lang", "forks": 5590},
+{"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 507, "stars": 583, "owner": "fitzgen", "forks": 20},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 158, "stars": 34741, "owner": "rust-lang", "forks": 5589},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 147, "stars": 938, "owner": "Peltoche", "forks": 35},
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 149, "stars": 152, "owner": "wchang22", "forks": 1},
 {"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 134, "stars": 136, "owner": "MichaelBurge", "forks": 7},
@@ -19,8 +19,8 @@
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 81, "stars": 337, "owner": "ferrous-systems", "forks": 8},
 {"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 78, "stars": 81, "owner": "jonasmr", "forks": 0},
 {"description": "A fast bump allocation arena for Rust", "language": "Rust", "repo": "bumpalo", "new_stars": 75, "stars": 87, "owner": "fitzgen", "forks": 6},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 72, "stars": 4330, "owner": "tokio-rs", "forks": 321},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 68, "stars": 13670, "owner": "servo", "forks": 2109},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 72, "stars": 4329, "owner": "tokio-rs", "forks": 321},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 68, "stars": 13669, "owner": "servo", "forks": 2109},
 {"description": "IMAP client library for Rust", "language": "Rust", "repo": "rust-imap", "new_stars": 65, "stars": 115, "owner": "jonhoo", "forks": 4},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 63, "stars": 1834, "owner": "Aaronepower", "forks": 128},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 60, "stars": 2626, "owner": "wasmerio", "forks": 78}

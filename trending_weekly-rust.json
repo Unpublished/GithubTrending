@@ -1,14 +1,14 @@
 [
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 649, "stars": 3111, "owner": "timvisee", "forks": 55},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 298, "stars": 596, "owner": "fitzgen", "forks": 20},
-{"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 166, "stars": 635, "owner": "rust-embedded", "forks": 22},
+{"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 166, "stars": 636, "owner": "rust-embedded", "forks": 22},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 151, "stars": 34750, "owner": "rust-lang", "forks": 5589},
-{"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 151, "stars": 151, "owner": "MichaelBurge", "forks": 6},
+{"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 151, "stars": 152, "owner": "MichaelBurge", "forks": 6},
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 153, "stars": 155, "owner": "wchang22", "forks": 1},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 143, "stars": 951, "owner": "Peltoche", "forks": 36},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 143, "stars": 952, "owner": "Peltoche", "forks": 36},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 129, "stars": 14939, "owner": "jwilm", "forks": 663},
 {"description": "Avoid memcpy calls when working with standard containers", "language": "Rust", "repo": "copyless", "new_stars": 133, "stars": 133, "owner": "kvark", "forks": 2},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 122, "stars": 12784, "owner": "sharkdp", "forks": 230},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 122, "stars": 12785, "owner": "sharkdp", "forks": 230},
 {"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 122, "stars": 122, "owner": "cmyr", "forks": 1},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 98, "stars": 273, "owner": "rustwasm", "forks": 10},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 101, "stars": 8978, "owner": "sharkdp", "forks": 228},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 66, "stars": 4335, "owner": "tokio-rs", "forks": 322},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 64, "stars": 13672, "owner": "servo", "forks": 2110},
 {"description": "IMAP client library for Rust", "language": "Rust", "repo": "rust-imap", "new_stars": 66, "stars": 116, "owner": "jonhoo", "forks": 4},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 65, "stars": 2632, "owner": "wasmerio", "forks": 78}
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 65, "stars": 2633, "owner": "wasmerio", "forks": 78}
 ]

@@ -6,10 +6,10 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 151, "stars": 34761, "owner": "rust-lang", "forks": 5589},
 {"description": "A fast and reliable alternative to rsync for synchronizing local files written in Rust", "language": "Rust", "repo": "LuminS", "new_stars": 158, "stars": 158, "owner": "wchang22", "forks": 1},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 138, "stars": 14956, "owner": "jwilm", "forks": 665},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 141, "stars": 957, "owner": "Peltoche", "forks": 37},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 141, "stars": 958, "owner": "Peltoche", "forks": 37},
 {"description": "Avoid memcpy calls when working with standard containers", "language": "Rust", "repo": "copyless", "new_stars": 142, "stars": 143, "owner": "kvark", "forks": 2},
 {"description": "A cargo plugin to generate Xcode Instruments trace files", "language": "Rust", "repo": "cargo-instruments", "new_stars": 124, "stars": 124, "owner": "cmyr", "forks": 1},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 120, "stars": 12788, "owner": "sharkdp", "forks": 230},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 120, "stars": 12789, "owner": "sharkdp", "forks": 230},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 93, "stars": 278, "owner": "rustwasm", "forks": 11},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 96, "stars": 8982, "owner": "sharkdp", "forks": 228},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 92, "stars": 10016, "owner": "rust-unofficial", "forks": 649},
@@ -21,7 +21,7 @@
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 70, "stars": 5316, "owner": "swc-project", "forks": 85},
 {"description": "microprofile for rust", "language": "Rust", "repo": "microprofile-rust", "new_stars": 70, "stars": 84, "owner": "jonasmr", "forks": 0},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 69, "stars": 2639, "owner": "wasmerio", "forks": 78},
-{"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 69, "stars": 1373, "owner": "bodil", "forks": 30},
+{"description": "Type checked JSX for Rust", "language": "Rust", "repo": "typed-html", "new_stars": 69, "stars": 1374, "owner": "bodil", "forks": 30},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 67, "stars": 4336, "owner": "tokio-rs", "forks": 322},
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 67, "stars": 757, "owner": "Amanieu", "forks": 24}
 ]

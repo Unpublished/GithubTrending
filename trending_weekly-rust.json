@@ -1,7 +1,7 @@
 [
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3209, "stars": 3259, "owner": "valeriansaliou", "forks": 60},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3209, "stars": 3266, "owner": "valeriansaliou", "forks": 59},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 233, "stars": 3247, "owner": "timvisee", "forks": 56},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 178, "stars": 15064, "owner": "jwilm", "forks": 670},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 178, "stars": 15066, "owner": "jwilm", "forks": 670},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 156, "stars": 12894, "owner": "sharkdp", "forks": 233},
 {"description": "Avoid memcpy calls when working with standard containers", "language": "Rust", "repo": "copyless", "new_stars": 147, "stars": 169, "owner": "kvark", "forks": 3},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 140, "stars": 34831, "owner": "rust-lang", "forks": 5596},
@@ -9,7 +9,7 @@
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 112, "stars": 1013, "owner": "Peltoche", "forks": 40},
 {"description": "A NES emulator made to learn the Rust programming language", "language": "Rust", "repo": "nes-emulator", "new_stars": 96, "stars": 169, "owner": "MichaelBurge", "forks": 7},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 89, "stars": 5359, "owner": "swc-project", "forks": 88},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 74, "stars": 7822, "owner": "firecracker-microvm", "forks": 459},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 74, "stars": 7824, "owner": "firecracker-microvm", "forks": 459},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 72, "stars": 3662, "owner": "rust-lang", "forks": 269},
 {"description": "Rust port of Google's SwissTable hash map", "language": "Rust", "repo": "hashbrown", "new_stars": 73, "stars": 766, "owner": "Amanieu", "forks": 25},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 66, "stars": 13708, "owner": "servo", "forks": 2118},

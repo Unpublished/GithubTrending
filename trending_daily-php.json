@@ -1,11 +1,11 @@
 [
-{"description": "Free eCommerce plugin with a large set of extensions", "language": "PHP", "repo": "oc-shopaholic-plugin", "new_stars": 60, "stars": 147, "owner": "lovata", "forks": 22},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 49, "stars": 51091, "owner": "laravel", "forks": 15569},
+{"description": "Free eCommerce plugin with a large set of extensions", "language": "PHP", "repo": "oc-shopaholic-plugin", "new_stars": 60, "stars": 159, "owner": "lovata", "forks": 22},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 49, "stars": 51092, "owner": "laravel", "forks": 15571},
 {"description": "Use filters easily in your blade templates.", "language": "PHP", "repo": "blade-filters", "new_stars": 25, "stars": 43, "owner": "thepinecode", "forks": 0},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 24, "stars": 19990, "owner": "fzaninotto", "forks": 2358},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 24, "stars": 19991, "owner": "fzaninotto", "forks": 2357},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 19, "stars": 16691, "owner": "laravel", "forks": 6336},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 19, "stars": 19020, "owner": "composer", "forks": 5429},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 18, "stars": 14149, "owner": "Seldaek", "forks": 1511},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 19, "stars": 19022, "owner": "composer", "forks": 5429},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 18, "stars": 14150, "owner": "Seldaek", "forks": 1511},
 {"description": "Show unused composer packages by scanning your code", "language": "PHP", "repo": "composer-unused", "new_stars": 15, "stars": 224, "owner": "icanhazstring", "forks": 8},
 {"description": "Abstraction for local and remote filesystems", "language": "PHP", "repo": "flysystem", "new_stars": 15, "stars": 8972, "owner": "thephpleague", "forks": 500},
 {"description": "Create deep copies (clones) of your objects", "language": "PHP", "repo": "DeepCopy", "new_stars": 15, "stars": 5473, "owner": "myclabs", "forks": 56},
@@ -14,7 +14,7 @@
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 12, "stars": 5712, "owner": "PHPOffice", "forks": 1041},
 {"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 14, "stars": 9089, "owner": "barryvdh", "forks": 892},
 {"description": "This component provides a partial, native PHP implementation for the Intl extension (IDN features).", "language": "PHP", "repo": "polyfill-intl-idn", "new_stars": 14, "stars": 270, "owner": "symfony", "forks": 0},
-{"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 13, "stars": 13471, "owner": "sebastianbergmann", "forks": 1705},
+{"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 13, "stars": 13472, "owner": "sebastianbergmann", "forks": 1705},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 13, "stars": 12066, "owner": "briannesbitt", "forks": 1054},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 13, "stars": 7470, "owner": "mockery", "forks": 352},
 {"description": "Highly opinionated mocking framework for PHP 5.3+", "language": "PHP", "repo": "prophecy", "new_stars": 13, "stars": 6060, "owner": "phpspec", "forks": 190},
@@ -22,6 +22,6 @@
 {"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 11, "stars": 17008, "owner": "domnikl", "forks": 3670},
 {"description": null, "language": "PHP", "repo": "tinker", "new_stars": 12, "stars": 4644, "owner": "laravel", "forks": 64},
 {"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us and others on Spectrum!", "language": "PHP", "repo": "twill", "new_stars": 12, "stars": 1125, "owner": "area17", "forks": 89},
-{"description": "High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.", "language": "PHP", "repo": "laravel-swoole", "new_stars": 11, "stars": 1980, "owner": "swooletw", "forks": 155},
+{"description": "High performance HTTP server based on Swoole. Speed up your Laravel or Lumen applications.", "language": "PHP", "repo": "laravel-swoole", "new_stars": 11, "stars": 1981, "owner": "swooletw", "forks": 155},
 {"description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!", "language": "PHP", "repo": "matomo", "new_stars": 12, "stars": 10974, "owner": "matomo-org", "forks": 1729}
 ]

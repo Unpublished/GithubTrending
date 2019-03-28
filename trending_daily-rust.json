@@ -1,14 +1,14 @@
 [
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 632, "stars": 926, "owner": "cloudflare", "forks": 23},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 269, "stars": 3848, "owner": "valeriansaliou", "forks": 82},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler", "language": "Rust", "repo": "lucet", "new_stars": 200, "stars": 278, "owner": "fastly", "forks": 7},
-{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 139, "stars": 469, "owner": "CraneStation", "forks": 37},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 632, "stars": 932, "owner": "cloudflare", "forks": 23},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 269, "stars": 3852, "owner": "valeriansaliou", "forks": 82},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 200, "stars": 315, "owner": "fastly", "forks": 7},
+{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 139, "stars": 471, "owner": "CraneStation", "forks": 37},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 52, "stars": 695, "owner": "rust-lang", "forks": 68},
 {"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 34, "stars": 43, "owner": "target", "forks": 0},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 32, "stars": 34884, "owner": "rust-lang", "forks": 5596},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 32, "stars": 34885, "owner": "rust-lang", "forks": 5596},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 29, "stars": 3303, "owner": "timvisee", "forks": 58},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 23, "stars": 2690, "owner": "wasmerio", "forks": 80},
-{"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 23, "stars": 1499, "owner": "CraneStation", "forks": 129},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 23, "stars": 2691, "owner": "wasmerio", "forks": 80},
+{"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 23, "stars": 1502, "owner": "CraneStation", "forks": 129},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 22, "stars": 15115, "owner": "jwilm", "forks": 671},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 17, "stars": 4838, "owner": "tikv", "forks": 707},
 {"description": "A Rust based event store using the Redis protocol", "language": "Rust", "repo": "MeiliES", "new_stars": 15, "stars": 109, "owner": "meilisearch", "forks": 0},
@@ -21,7 +21,7 @@
 {"description": "free as in lock-free embedded database", "language": "Rust", "repo": "sled", "new_stars": 12, "stars": 1855, "owner": "spacejam", "forks": 74},
 {"description": "Dart-like cascade expressions in Rust", "language": "Rust", "repo": "cascade", "new_stars": 12, "stars": 40, "owner": "JacksonCoder", "forks": 1},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 11, "stars": 317, "owner": "rustwasm", "forks": 14},
-{"description": "A lightweight kubernetes development setup", "language": "Rust", "repo": "k3s-in-docker", "new_stars": 11, "stars": 35, "owner": "zeerorg", "forks": 1},
+{"description": "A lightweight kubernetes development setup", "language": "Rust", "repo": "k3s-in-docker", "new_stars": 11, "stars": 36, "owner": "zeerorg", "forks": 1},
 {"description": "Rust Bitcoin library", "language": "Rust", "repo": "rust-bitcoin", "new_stars": 10, "stars": 385, "owner": "rust-bitcoin", "forks": 91},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 13726, "owner": "servo", "forks": 2122}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 13727, "owner": "servo", "forks": 2122}
 ]

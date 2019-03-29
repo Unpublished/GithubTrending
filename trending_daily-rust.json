@@ -1,10 +1,10 @@
 [
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 985, "stars": 1047, "owner": "fastly", "forks": 20},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 248, "stars": 1107, "owner": "cloudflare", "forks": 26},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 208, "stars": 4024, "owner": "valeriansaliou", "forks": 90},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 985, "stars": 1057, "owner": "fastly", "forks": 21},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 248, "stars": 1109, "owner": "cloudflare", "forks": 26},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 208, "stars": 4027, "owner": "valeriansaliou", "forks": 90},
 {"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 88, "stars": 94, "owner": "target", "forks": 4},
 {"description": "a basic calculator REPL (WIP)", "language": "Rust", "repo": "eva", "new_stars": 72, "stars": 75, "owner": "NerdyPepper", "forks": 1},
-{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 67, "stars": 525, "owner": "CraneStation", "forks": 39},
+{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 67, "stars": 526, "owner": "CraneStation", "forks": 39},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 60, "stars": 1549, "owner": "CraneStation", "forks": 130},
 {"description": "Rust mid-level IR Abstract Interpreter", "language": "Rust", "repo": "MIRAI", "new_stars": 53, "stars": 133, "owner": "facebookexperimental", "forks": 8},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 47, "stars": 57, "owner": "cloudflare", "forks": 3},
@@ -20,8 +20,8 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 18, "stars": 3693, "owner": "rust-lang", "forks": 271},
 {"description": "A Rust framework for front-end web development", "language": "Rust", "repo": "smithy", "new_stars": 16, "stars": 71, "owner": "rbalicki2", "forks": 2},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 10093, "owner": "rust-unofficial", "forks": 651},
-{"description": "free as in lock-free embedded database", "language": "Rust", "repo": "sled", "new_stars": 14, "stars": 1867, "owner": "spacejam", "forks": 74},
+{"description": "free as in lock-free embedded database", "language": "Rust", "repo": "sled", "new_stars": 14, "stars": 1866, "owner": "spacejam", "forks": 74},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 13, "stars": 2652, "owner": "sharkdp", "forks": 55},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 12, "stars": 704, "owner": "rust-lang", "forks": 68},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 11, "stars": 12937, "owner": "sharkdp", "forks": 234}
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 11, "stars": 12938, "owner": "sharkdp", "forks": 234}
 ]

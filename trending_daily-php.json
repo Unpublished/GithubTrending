@@ -1,8 +1,8 @@
 [
 {"description": "Free eCommerce plugin with a large set of extensions", "language": "PHP", "repo": "oc-shopaholic-plugin", "new_stars": 179, "stars": 261, "owner": "lovata", "forks": 22},
-{"description": "MailEclipse", "language": "PHP", "repo": "laravel-mail-editor", "new_stars": 92, "stars": 466, "owner": "Qoraiche", "forks": 23},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 51, "stars": 51117, "owner": "laravel", "forks": 15574},
-{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 19, "stars": 7084, "owner": "magento", "forks": 6106},
+{"description": "MailEclipse", "language": "PHP", "repo": "laravel-mail-editor", "new_stars": 92, "stars": 468, "owner": "Qoraiche", "forks": 23},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 51, "stars": 51118, "owner": "laravel", "forks": 15574},
+{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 19, "stars": 7086, "owner": "magento", "forks": 6106},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 19, "stars": 20005, "owner": "fzaninotto", "forks": 2358},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 18, "stars": 19031, "owner": "composer", "forks": 5429},
 {"description": "Which is the fastest web framework?", "language": "PHP", "repo": "web-frameworks", "new_stars": 15, "stars": 1876, "owner": "the-benchmarker", "forks": 159},
@@ -11,10 +11,10 @@
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 13, "stars": 5861, "owner": "z-song", "forks": 1614},
 {"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. Chat with us and others on Spectrum!", "language": "PHP", "repo": "twill", "new_stars": 15, "stars": 1130, "owner": "area17", "forks": 89},
 {"description": "Use filters easily in your blade templates.", "language": "PHP", "repo": "blade-filters", "new_stars": 15, "stars": 48, "owner": "thepinecode", "forks": 0},
-{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 12, "stars": 5719, "owner": "PHPOffice", "forks": 1043},
+{"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 12, "stars": 5720, "owner": "PHPOffice", "forks": 1043},
 {"description": "\u4e00\u4e2a\u8fd8\u4e0d\u9519\u7684\u56fe\u5e8a\u5de5\u5177\uff0c\u652f\u6301Mac\u548cWin\u3001\u652f\u6301\u538b\u7f29\u540e\u4e0a\u4f20\u3001\u6dfb\u52a0\u56fe\u7247\u6216\u6587\u5b57\u6c34\u5370\u3001\u591a\u5f20\u540c\u65f6\u4e0a\u4f20\u3001\u540c\u65f6\u4e0a\u4f20\u5230\u591a\u4e2a\u4e91\u3001\u53f3\u51fb\u56fe\u7247\u6587\u4ef6\u4e0a\u4f20\u3001\u5feb\u6377\u952e\u4e0a\u4f20\u526a\u8d34\u677f\u622a\u56fe\u3001\u63d0\u4f9bMweb\u63a5\u53e3\uff0c\u76ee\u524d\u652f\u6301\u7684\u4e91\u6709\uff1a\u4e03\u725b\u3001\u963f\u91cc\u3001\u817e\u8baf\u3001\u7f51\u6613\u3001\u4eac\u4e1c\u3001\u767e\u5ea6\u3001\u53c8\u62cd\u3001\u9752\u4e91\u3001Ucloud\u3001sm.ms\u3001Imgur\u3001Gibhub\uff01", "language": "PHP", "repo": "PicUploader", "new_stars": 13, "stars": 74, "owner": "xiebruce", "forks": 15},
-{"description": "Show unused composer packages by scanning your code", "language": "PHP", "repo": "composer-unused", "new_stars": 13, "stars": 232, "owner": "icanhazstring", "forks": 8},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 12, "stars": 14158, "owner": "Seldaek", "forks": 1511},
+{"description": "Show unused composer packages by scanning your code", "language": "PHP", "repo": "composer-unused", "new_stars": 13, "stars": 233, "owner": "icanhazstring", "forks": 8},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 12, "stars": 14159, "owner": "Seldaek", "forks": 1511},
 {"description": "This component provides a partial, native PHP implementation for the Intl extension (IDN features).", "language": "PHP", "repo": "polyfill-intl-idn", "new_stars": 12, "stars": 275, "owner": "symfony", "forks": 0},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 10, "stars": 9064, "owner": "vlucas", "forks": 423},
 {"description": "Open Source PHP Framework (originally from EllisLab)", "language": "PHP", "repo": "CodeIgniter", "new_stars": 8, "stars": 17109, "owner": "bcit-ci", "forks": 7666},
@@ -22,6 +22,6 @@
 {"description": null, "language": "PHP", "repo": "telescope", "new_stars": 11, "stars": 2924, "owner": "laravel", "forks": 239},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 10, "stars": 6996, "owner": "nextcloud", "forks": 1247},
 {"description": "LaravelS is a glue that is used to quickly integrate Swoole into Laravel or Lumen and then give them better performance and more possibilities.", "language": "PHP", "repo": "laravel-s", "new_stars": 10, "stars": 1747, "owner": "hhxsv5", "forks": 206},
-{"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 10, "stars": 9096, "owner": "barryvdh", "forks": 891},
+{"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 10, "stars": 9097, "owner": "barryvdh", "forks": 891},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 10, "stars": 6442, "owner": "doctrine", "forks": 41}
 ]

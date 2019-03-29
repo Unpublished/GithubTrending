@@ -1,10 +1,10 @@
 [
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3873, "stars": 3908, "owner": "valeriansaliou", "forks": 85},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 991, "stars": 1007, "owner": "cloudflare", "forks": 24},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 551, "stars": 616, "owner": "fastly", "forks": 11},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3873, "stars": 3911, "owner": "valeriansaliou", "forks": 85},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 991, "stars": 1011, "owner": "cloudflare", "forks": 24},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 551, "stars": 640, "owner": "fastly", "forks": 12},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 220, "stars": 497, "owner": "CraneStation", "forks": 38},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 205, "stars": 3308, "owner": "timvisee", "forks": 57},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 196, "stars": 15118, "owner": "jwilm", "forks": 671},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 196, "stars": 15119, "owner": "jwilm", "forks": 671},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 171, "stars": 34897, "owner": "rust-lang", "forks": 5598},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 164, "stars": 12935, "owner": "sharkdp", "forks": 234},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 143, "stars": 701, "owner": "rust-lang", "forks": 68},
@@ -15,13 +15,13 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 77, "stars": 3686, "owner": "rust-lang", "forks": 270},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 75, "stars": 7845, "owner": "firecracker-microvm", "forks": 460},
 {"description": "Rust bare-metal and OS tutorials on the Raspberry Pi 3", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 72, "stars": 691, "owner": "rust-embedded", "forks": 25},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 66, "stars": 13729, "owner": "servo", "forks": 2120},
-{"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 69, "stars": 1522, "owner": "CraneStation", "forks": 129},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 68, "stars": 2698, "owner": "wasmerio", "forks": 80},
-{"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 60, "stars": 63, "owner": "target", "forks": 2},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 66, "stars": 13730, "owner": "servo", "forks": 2120},
+{"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 69, "stars": 1524, "owner": "CraneStation", "forks": 129},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 68, "stars": 2699, "owner": "wasmerio", "forks": 80},
+{"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 60, "stars": 65, "owner": "target", "forks": 2},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 59, "stars": 6079, "owner": "ogham", "forks": 191},
 {"description": "Learn Rust by writing Entirely Too Many linked lists", "language": "Rust", "repo": "too-many-lists", "new_stars": 56, "stars": 629, "owner": "rust-unofficial", "forks": 76},
 {"description": "A modular toolkit for building fast, reliable Web applications and libraries with Rust and Wasm", "language": "Rust", "repo": "gloo", "new_stars": 49, "stars": 320, "owner": "rustwasm", "forks": 15},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 48, "stars": 4842, "owner": "tikv", "forks": 709},
-{"description": "process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 50, "stars": 52, "owner": "andrewchambers", "forks": 1}
+{"description": "process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 50, "stars": 53, "owner": "andrewchambers", "forks": 1}
 ]

@@ -1,8 +1,8 @@
 [
 {"description": "Free eCommerce plugin with a large set of extensions", "language": "PHP", "repo": "oc-shopaholic-plugin", "new_stars": 184, "stars": 268, "owner": "lovata", "forks": 22},
-{"description": "MailEclipse", "language": "PHP", "repo": "laravel-mail-editor", "new_stars": 127, "stars": 493, "owner": "Qoraiche", "forks": 25},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 60, "stars": 51129, "owner": "laravel", "forks": 15574},
-{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 26, "stars": 7088, "owner": "magento", "forks": 6107},
+{"description": "MailEclipse", "language": "PHP", "repo": "laravel-mail-editor", "new_stars": 127, "stars": 501, "owner": "Qoraiche", "forks": 26},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 60, "stars": 51130, "owner": "laravel", "forks": 15574},
+{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 26, "stars": 7090, "owner": "magento", "forks": 6107},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 17, "stars": 16708, "owner": "laravel", "forks": 6337},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 19, "stars": 19032, "owner": "composer", "forks": 5429},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 19, "stars": 20007, "owner": "fzaninotto", "forks": 2358},
@@ -14,14 +14,14 @@
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 20274, "owner": "symfony", "forks": 6777},
 {"description": null, "language": "PHP", "repo": "telescope", "new_stars": 14, "stars": 2928, "owner": "laravel", "forks": 239},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 13, "stars": 14161, "owner": "Seldaek", "forks": 1511},
-{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 11, "stars": 5862, "owner": "z-song", "forks": 1614},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 11, "stars": 9065, "owner": "vlucas", "forks": 423},
+{"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 11, "stars": 5863, "owner": "z-song", "forks": 1614},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 11, "stars": 9065, "owner": "vlucas", "forks": 424},
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 12, "stars": 12077, "owner": "briannesbitt", "forks": 1054},
-{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 9, "stars": 17014, "owner": "domnikl", "forks": 3673},
+{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 9, "stars": 17015, "owner": "domnikl", "forks": 3673},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 12, "stars": 10496, "owner": "erusev", "forks": 864},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 10, "stars": 12220, "owner": "WordPress", "forks": 7405},
-{"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 11, "stars": 6222, "owner": "squizlabs", "forks": 1050},
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 10, "stars": 12220, "owner": "WordPress", "forks": 7406},
+{"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 11, "stars": 6223, "owner": "squizlabs", "forks": 1050},
 {"description": "A set of abstractions extracted out of the Symfony components", "language": "PHP", "repo": "contracts", "new_stars": 11, "stars": 1385, "owner": "symfony", "forks": 6},
 {"description": "This component provides a partial, native PHP implementation for the Intl extension (IDN features).", "language": "PHP", "repo": "polyfill-intl-idn", "new_stars": 11, "stars": 276, "owner": "symfony", "forks": 0},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 10, "stars": 6998, "owner": "nextcloud", "forks": 1247}
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 10, "stars": 6999, "owner": "nextcloud", "forks": 1247}
 ]

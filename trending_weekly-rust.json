@@ -1,8 +1,8 @@
 [
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 4003, "stars": 4132, "owner": "valeriansaliou", "forks": 93},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1234, "stars": 1242, "owner": "fastly", "forks": 24},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1159, "stars": 1160, "owner": "cloudflare", "forks": 26},
-{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 277, "stars": 546, "owner": "CraneStation", "forks": 39},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 4003, "stars": 4136, "owner": "valeriansaliou", "forks": 93},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1234, "stars": 1249, "owner": "fastly", "forks": 25},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1159, "stars": 1162, "owner": "cloudflare", "forks": 26},
+{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 277, "stars": 547, "owner": "CraneStation", "forks": 39},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 208, "stars": 3340, "owner": "timvisee", "forks": 59},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 182, "stars": 34927, "owner": "rust-lang", "forks": 5600},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 183, "stars": 15142, "owner": "jwilm", "forks": 671},
@@ -19,9 +19,9 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 74, "stars": 7857, "owner": "firecracker-microvm", "forks": 461},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 73, "stars": 2715, "owner": "wasmerio", "forks": 81},
 {"description": "Ordered process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 71, "stars": 72, "owner": "andrewchambers", "forks": 3},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 71, "stars": 72, "owner": "cloudflare", "forks": 3},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 69, "stars": 5390, "owner": "swc-project", "forks": 88},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 71, "stars": 73, "owner": "cloudflare", "forks": 3},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 69, "stars": 5391, "owner": "swc-project", "forks": 88},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 64, "stars": 4860, "owner": "tikv", "forks": 710},
-{"description": "Rust mid-level IR Abstract Interpreter", "language": "Rust", "repo": "MIRAI", "new_stars": 66, "stars": 141, "owner": "facebookexperimental", "forks": 8},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 59, "stars": 13738, "owner": "servo", "forks": 2121}
+{"description": "Rust mid-level IR Abstract Interpreter", "language": "Rust", "repo": "MIRAI", "new_stars": 66, "stars": 142, "owner": "facebookexperimental", "forks": 8},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 59, "stars": 13739, "owner": "servo", "forks": 2121}
 ]

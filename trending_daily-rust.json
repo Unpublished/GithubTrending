@@ -1,10 +1,10 @@
 [
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 574, "stars": 1174, "owner": "fastly", "forks": 22},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 175, "stars": 4090, "owner": "valeriansaliou", "forks": 91},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 141, "stars": 1141, "owner": "cloudflare", "forks": 26},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 574, "stars": 1180, "owner": "fastly", "forks": 22},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 175, "stars": 4092, "owner": "valeriansaliou", "forks": 91},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 141, "stars": 1143, "owner": "cloudflare", "forks": 26},
 {"description": "Rust mid-level IR Abstract Interpreter", "language": "Rust", "repo": "MIRAI", "new_stars": 54, "stars": 139, "owner": "facebookexperimental", "forks": 8},
 {"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 46, "stars": 110, "owner": "target", "forks": 4},
-{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 44, "stars": 540, "owner": "CraneStation", "forks": 39},
+{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 44, "stars": 541, "owner": "CraneStation", "forks": 39},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 39, "stars": 1559, "owner": "CraneStation", "forks": 131},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 29, "stars": 30, "owner": "dtolnay", "forks": 7},
 {"description": "a basic calculator REPL (WIP)", "language": "Rust", "repo": "eva", "new_stars": 32, "stars": 79, "owner": "NerdyPepper", "forks": 1},
@@ -19,9 +19,9 @@
 {"description": "A Rust based event store using the Redis protocol", "language": "Rust", "repo": "MeiliES", "new_stars": 15, "stars": 128, "owner": "meilisearch", "forks": 0},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 14, "stars": 4854, "owner": "tikv", "forks": 710},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 13, "stars": 2709, "owner": "wasmerio", "forks": 81},
-{"description": "Rust version of THU uCore OS. Linux compatible.", "language": "Rust", "repo": "rCore", "new_stars": 13, "stars": 108, "owner": "rcore-os", "forks": 30},
+{"description": "Rust version of THU uCore OS. Linux compatible.", "language": "Rust", "repo": "rCore", "new_stars": 13, "stars": 109, "owner": "rcore-os", "forks": 31},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 10098, "owner": "rust-unofficial", "forks": 651},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 11, "stars": 12943, "owner": "sharkdp", "forks": 234},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 11, "stars": 2653, "owner": "sharkdp", "forks": 55},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 11, "stars": 2654, "owner": "sharkdp", "forks": 55},
 {"description": "free as in lock-free embedded database", "language": "Rust", "repo": "sled", "new_stars": 11, "stars": 1868, "owner": "spacejam", "forks": 74}
 ]

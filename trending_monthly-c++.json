@@ -1,9 +1,9 @@
 [
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 14783, "stars": 14811, "owner": "Microsoft", "forks": 2104},
-{"description": "An open source library for face detection in images. The face detection speed can reach 1500FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 3870, "stars": 6319, "owner": "ShiqiYu", "forks": 1727},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 3200, "stars": 124262, "owner": "tensorflow", "forks": 73340},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1519, "stars": 21016, "owner": "godotengine", "forks": 4131},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1044, "stars": 33129, "owner": "opencv", "forks": 23926},
+{"description": "An open source library for face detection in images. The face detection speed can reach 1500FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 3870, "stars": 6318, "owner": "ShiqiYu", "forks": 1727},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 3200, "stars": 124262, "owner": "tensorflow", "forks": 73341},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1519, "stars": 21016, "owner": "godotengine", "forks": 4132},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1044, "stars": 33131, "owner": "opencv", "forks": 23926},
 {"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 1466, "stars": 6404, "owner": "lemire", "forks": 307},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1291, "stars": 71620, "owner": "electron", "forks": 9328},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1211, "stars": 26341, "owner": "pytorch", "forks": 6242},
@@ -11,8 +11,8 @@
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 917, "stars": 25691, "owner": "tesseract-ocr", "forks": 4950},
 {"description": "Sandboxed API automatically generates sandboxes for C/C++ libraries", "language": "C++", "repo": "sandboxed-api", "new_stars": 920, "stars": 920, "owner": "google", "forks": 71},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 793, "stars": 33091, "owner": "protocolbuffers", "forks": 9034},
-{"description": "Professional open-source NLE video editor", "language": "C++", "repo": "olive", "new_stars": 791, "stars": 1270, "owner": "olive-editor", "forks": 109},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 585, "stars": 20280, "owner": "grpc", "forks": 4678},
+{"description": "Professional open-source NLE video editor", "language": "C++", "repo": "olive", "new_stars": 791, "stars": 1271, "owner": "olive-editor", "forks": 109},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 585, "stars": 20281, "owner": "grpc", "forks": 4678},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 547, "stars": 37704, "owner": "bitcoin", "forks": 22348},
 {"description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.", "language": "C++", "repo": "ODM", "new_stars": 602, "stars": 2260, "owner": "OpenDroneMap", "forks": 577},
 {"description": "Tiling window manager for macOS based on plugin architecture", "language": "C++", "repo": "chunkwm", "new_stars": 575, "stars": 3655, "owner": "koekeishiya", "forks": 174},
@@ -21,7 +21,7 @@
 {"description": "Free and open-source GUI for radare2 reverse engineering framework", "language": "C++", "repo": "cutter", "new_stars": 516, "stars": 4749, "owner": "radareorg", "forks": 376},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 448, "stars": 8978, "owner": "envoyproxy", "forks": 1354},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 443, "stars": 13391, "owner": "nlohmann", "forks": 2217},
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 413, "stars": 14317, "owner": "ocornut", "forks": 2092},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 413, "stars": 14317, "owner": "ocornut", "forks": 2093},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 415, "stars": 16887, "owner": "google", "forks": 4046},
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 428, "stars": 11551, "owner": "uglide", "forks": 1823}
 ]

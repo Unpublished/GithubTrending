@@ -1,13 +1,13 @@
 [
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3662, "stars": 4173, "owner": "valeriansaliou", "forks": 95},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3662, "stars": 4174, "owner": "valeriansaliou", "forks": 95},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1298, "stars": 1299, "owner": "fastly", "forks": 26},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1177, "stars": 1179, "owner": "cloudflare", "forks": 27},
-{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 284, "stars": 553, "owner": "CraneStation", "forks": 39},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1177, "stars": 1180, "owner": "cloudflare", "forks": 27},
+{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 284, "stars": 554, "owner": "CraneStation", "forks": 39},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 208, "stars": 3346, "owner": "timvisee", "forks": 59},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 34935, "owner": "rust-lang", "forks": 5599},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 34936, "owner": "rust-lang", "forks": 5599},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 187, "stars": 15154, "owner": "jwilm", "forks": 671},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 149, "stars": 709, "owner": "rust-lang", "forks": 69},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 145, "stars": 12950, "owner": "sharkdp", "forks": 235},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 145, "stars": 12952, "owner": "sharkdp", "forks": 235},
 {"description": "A Rust based event store using the Redis protocol", "language": "Rust", "repo": "MeiliES", "new_stars": 127, "stars": 130, "owner": "meilisearch", "forks": 0},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 122, "stars": 1574, "owner": "CraneStation", "forks": 131},
 {"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 116, "stars": 116, "owner": "target", "forks": 4},
@@ -22,6 +22,6 @@
 {"description": "Ordered process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 73, "stars": 73, "owner": "andrewchambers", "forks": 3},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 71, "stars": 2223, "owner": "tantivy-search", "forks": 116},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 65, "stars": 4861, "owner": "tikv", "forks": 710},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 66, "stars": 6882, "owner": "DenisKolodin", "forks": 245},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 66, "stars": 6883, "owner": "DenisKolodin", "forks": 245},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 66, "stars": 5392, "owner": "swc-project", "forks": 88}
 ]

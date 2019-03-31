@@ -1,7 +1,7 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 129756, "stars": 129814, "owner": "996icu", "forks": 9254},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 2911, "stars": 4314, "owner": "valeriansaliou", "forks": 99},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1378, "stars": 1382, "owner": "fastly", "forks": 28},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 129756, "stars": 129840, "owner": "996icu", "forks": 9258},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 2911, "stars": 4317, "owner": "valeriansaliou", "forks": 99},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1378, "stars": 1383, "owner": "fastly", "forks": 28},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1200, "stars": 1202, "owner": "cloudflare", "forks": 30},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 296, "stars": 565, "owner": "CraneStation", "forks": 40},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 206, "stars": 34959, "owner": "rust-lang", "forks": 5601},
@@ -15,7 +15,7 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 109, "stars": 3737, "owner": "rust-lang", "forks": 275},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 93, "stars": 10115, "owner": "rust-unofficial", "forks": 653},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 89, "stars": 1079, "owner": "Peltoche", "forks": 42},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 83, "stars": 2730, "owner": "wasmerio", "forks": 81},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 83, "stars": 2731, "owner": "wasmerio", "forks": 81},
 {"description": "a basic calculator REPL (WIP)", "language": "Rust", "repo": "eva", "new_stars": 83, "stars": 84, "owner": "NerdyPepper", "forks": 2},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 83, "stars": 83, "owner": "cloudflare", "forks": 4},
 {"description": "Rust mid-level IR Abstract Interpreter", "language": "Rust", "repo": "MIRAI", "new_stars": 81, "stars": 156, "owner": "facebookexperimental", "forks": 10},
@@ -23,5 +23,5 @@
 {"description": "Ordered process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 74, "stars": 74, "owner": "andrewchambers", "forks": 3},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 71, "stars": 6892, "owner": "DenisKolodin", "forks": 245},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 63, "stars": 5394, "owner": "swc-project", "forks": 88},
-{"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 64, "stars": 67, "owner": "ftilde", "forks": 1}
+{"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 64, "stars": 70, "owner": "ftilde", "forks": 1}
 ]

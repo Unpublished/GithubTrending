@@ -1,12 +1,12 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 129756, "stars": 129874, "owner": "996icu", "forks": 9259},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 2911, "stars": 4322, "owner": "valeriansaliou", "forks": 99},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1378, "stars": 1385, "owner": "fastly", "forks": 28},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 129756, "stars": 129943, "owner": "996icu", "forks": 9261},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 2911, "stars": 4323, "owner": "valeriansaliou", "forks": 99},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1378, "stars": 1388, "owner": "fastly", "forks": 28},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1200, "stars": 1202, "owner": "cloudflare", "forks": 30},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 296, "stars": 565, "owner": "CraneStation", "forks": 40},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 206, "stars": 34959, "owner": "rust-lang", "forks": 5601},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 192, "stars": 3357, "owner": "timvisee", "forks": 60},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 180, "stars": 15166, "owner": "jwilm", "forks": 672},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 180, "stars": 15167, "owner": "jwilm", "forks": 672},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 149, "stars": 709, "owner": "rust-lang", "forks": 69},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 142, "stars": 12959, "owner": "sharkdp", "forks": 236},
 {"description": "A Rust based event store using the Redis protocol", "language": "Rust", "repo": "MeiliES", "new_stars": 127, "stars": 130, "owner": "meilisearch", "forks": 0},
@@ -23,5 +23,5 @@
 {"description": "Ordered process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 74, "stars": 74, "owner": "andrewchambers", "forks": 3},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 71, "stars": 6892, "owner": "DenisKolodin", "forks": 245},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 63, "stars": 5394, "owner": "swc-project", "forks": 88},
-{"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 64, "stars": 70, "owner": "ftilde", "forks": 1}
+{"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 64, "stars": 71, "owner": "ftilde", "forks": 1}
 ]

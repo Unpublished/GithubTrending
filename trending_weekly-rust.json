@@ -1,10 +1,10 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 134118, "stars": 136283, "owner": "996icu", "forks": 9770},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 2745, "stars": 4378, "owner": "valeriansaliou", "forks": 101},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1417, "stars": 1433, "owner": "fastly", "forks": 29},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1207, "stars": 1211, "owner": "cloudflare", "forks": 30},
-{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 294, "stars": 567, "owner": "CraneStation", "forks": 40},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 203, "stars": 34962, "owner": "rust-lang", "forks": 5601},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 134118, "stars": 136753, "owner": "996icu", "forks": 9808},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 2745, "stars": 4384, "owner": "valeriansaliou", "forks": 101},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1417, "stars": 1439, "owner": "fastly", "forks": 29},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1207, "stars": 1213, "owner": "cloudflare", "forks": 30},
+{"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 294, "stars": 568, "owner": "CraneStation", "forks": 40},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 203, "stars": 34963, "owner": "rust-lang", "forks": 5601},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 184, "stars": 3360, "owner": "timvisee", "forks": 59},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 176, "stars": 15170, "owner": "jwilm", "forks": 672},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 149, "stars": 710, "owner": "rust-lang", "forks": 69},
@@ -18,10 +18,10 @@
 {"description": "a basic calculator REPL (WIP)", "language": "Rust", "repo": "eva", "new_stars": 85, "stars": 87, "owner": "NerdyPepper", "forks": 1},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 83, "stars": 2733, "owner": "wasmerio", "forks": 81},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 83, "stars": 83, "owner": "cloudflare", "forks": 4},
-{"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 77, "stars": 78, "owner": "ftilde", "forks": 1},
+{"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 77, "stars": 79, "owner": "ftilde", "forks": 1},
 {"description": "Ordered process (re)start, shutdown, and supervision.", "language": "Rust", "repo": "orderly", "new_stars": 74, "stars": 75, "owner": "andrewchambers", "forks": 3},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 69, "stars": 7868, "owner": "firecracker-microvm", "forks": 463},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 69, "stars": 6895, "owner": "DenisKolodin", "forks": 245},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 60, "stars": 4863, "owner": "tikv", "forks": 709},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 61, "stars": 5395, "owner": "swc-project", "forks": 88}
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 61, "stars": 5396, "owner": "swc-project", "forks": 88}
 ]

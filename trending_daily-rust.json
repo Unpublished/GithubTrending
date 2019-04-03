@@ -1,10 +1,10 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 11614, "stars": 156200, "owner": "996icu", "forks": 11749},
-{"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 237, "stars": 928, "owner": "chrisdickinson", "forks": 16},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 217, "stars": 4778, "owner": "valeriansaliou", "forks": 109},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 11614, "stars": 156653, "owner": "996icu", "forks": 11784},
+{"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 237, "stars": 929, "owner": "chrisdickinson", "forks": 16},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 217, "stars": 4788, "owner": "valeriansaliou", "forks": 110},
 {"description": "A string type for Rust that is not required to be valid UTF-8.", "language": "Rust", "repo": "bstr", "new_stars": 94, "stars": 105, "owner": "BurntSushi", "forks": 2},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 78, "stars": 1407, "owner": "cloudflare", "forks": 33},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 73, "stars": 1583, "owner": "fastly", "forks": 33},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 73, "stars": 1585, "owner": "fastly", "forks": 33},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 67, "stars": 481, "owner": "lpil", "forks": 20},
 {"description": "Server-side redis proxy", "language": "Rust", "repo": "undermoon", "new_stars": 36, "stars": 48, "owner": "doyoubi", "forks": 0},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 27, "stars": 15217, "owner": "jwilm", "forks": 672},
@@ -21,7 +21,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 13763, "owner": "servo", "forks": 2118},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 10, "stars": 3763, "owner": "rust-lang", "forks": 277},
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 10, "stars": 2748, "owner": "wasmerio", "forks": 83},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 10, "stars": 2487, "owner": "actix", "forks": 170},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 10, "stars": 2488, "owner": "actix", "forks": 170},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 6758, "owner": "SergioBenitez", "forks": 446},
 {"description": "Intuitive find & replace CLI (sed alternative)", "language": "Rust", "repo": "sd", "new_stars": 9, "stars": 601, "owner": "chmln", "forks": 12}
 ]

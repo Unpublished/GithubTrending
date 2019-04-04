@@ -1,8 +1,8 @@
 [
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1563, "stars": 1640, "owner": "fastly", "forks": 33},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 1388, "stars": 5200, "owner": "valeriansaliou", "forks": 114},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 1388, "stars": 5209, "owner": "valeriansaliou", "forks": 115},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 980, "stars": 988, "owner": "chrisdickinson", "forks": 16},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 600, "stars": 1473, "owner": "cloudflare", "forks": 35},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 600, "stars": 1474, "owner": "cloudflare", "forks": 35},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 211, "stars": 35065, "owner": "rust-lang", "forks": 5607},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 175, "stars": 637, "owner": "CraneStation", "forks": 44},
 {"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 152, "stars": 168, "owner": "target", "forks": 9},
@@ -16,12 +16,12 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 114, "stars": 3787, "owner": "rust-lang", "forks": 281},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 112, "stars": 1150, "owner": "Peltoche", "forks": 43},
 {"description": "An alternative TUI for gdb", "language": "Rust", "repo": "ugdb", "new_stars": 102, "stars": 102, "owner": "ftilde", "forks": 1},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 96, "stars": 2778, "owner": "wasmerio", "forks": 83},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 96, "stars": 2779, "owner": "wasmerio", "forks": 83},
 {"description": "Rust mid-level IR Abstract Interpreter", "language": "Rust", "repo": "MIRAI", "new_stars": 87, "stars": 164, "owner": "facebookexperimental", "forks": 12},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 87, "stars": 10162, "owner": "rust-unofficial", "forks": 655},
-{"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 85, "stars": 86, "owner": "dtolnay", "forks": 9},
+{"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 85, "stars": 87, "owner": "dtolnay", "forks": 9},
 {"description": "a calculator REPL, similar to bc(1)", "language": "Rust", "repo": "eva", "new_stars": 88, "stars": 89, "owner": "NerdyPepper", "forks": 2},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 86, "stars": 6936, "owner": "DenisKolodin", "forks": 246},
 {"description": "A modern Prolog implementation written mostly in Rust.", "language": "Rust", "repo": "scryer-prolog", "new_stars": 85, "stars": 190, "owner": "mthom", "forks": 10},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 81, "stars": 93, "owner": "cloudflare", "forks": 4}
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 81, "stars": 93, "owner": "cloudflare", "forks": 3}
 ]

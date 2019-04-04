@@ -1,14 +1,14 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 10369, "stars": 174254, "owner": "996icu", "forks": 13470},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 232, "stars": 5156, "owner": "valeriansaliou", "forks": 114},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 10369, "stars": 174376, "owner": "996icu", "forks": 13476},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 232, "stars": 5162, "owner": "valeriansaliou", "forks": 114},
 {"description": "Rust library for decentralized private computation", "language": "Rust", "repo": "zexe", "new_stars": 102, "stars": 138, "owner": "scipr-lab", "forks": 12},
-{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 41, "stars": 1462, "owner": "cloudflare", "forks": 35},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 35051, "owner": "rust-lang", "forks": 5603},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 30, "stars": 1632, "owner": "fastly", "forks": 33},
+{"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 41, "stars": 1464, "owner": "cloudflare", "forks": 35},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 35052, "owner": "rust-lang", "forks": 5603},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 30, "stars": 1634, "owner": "fastly", "forks": 33},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 30, "stars": 984, "owner": "chrisdickinson", "forks": 16},
-{"description": "MesaLink is a memory safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 23, "stars": 955, "owner": "mesalock-linux", "forks": 39},
+{"description": "MesaLink is a memory safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 23, "stars": 956, "owner": "mesalock-linux", "forks": 39},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 19, "stars": 15239, "owner": "jwilm", "forks": 673},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 13437, "owner": "BurntSushi", "forks": 544},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 13438, "owner": "BurntSushi", "forks": 544},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 16, "stars": 507, "owner": "lpil", "forks": 21},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 15, "stars": 82, "owner": "dtolnay", "forks": 9},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 15, "stars": 1149, "owner": "Peltoche", "forks": 43},
@@ -19,9 +19,9 @@
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 13, "stars": 2774, "owner": "wasmerio", "forks": 83},
 {"description": "A string type for Rust that is not required to be valid UTF-8.", "language": "Rust", "repo": "bstr", "new_stars": 13, "stars": 131, "owner": "BurntSushi", "forks": 2},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 12, "stars": 631, "owner": "CraneStation", "forks": 44},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 7902, "owner": "firecracker-microvm", "forks": 464},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 7903, "owner": "firecracker-microvm", "forks": 464},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 6935, "owner": "DenisKolodin", "forks": 246},
 {"description": "Tiny, no-nonsense, self contained, Tensorflow and ONNX inference", "language": "Rust", "repo": "tract", "new_stars": 12, "stars": 91, "owner": "snipsco", "forks": 9},
 {"description": "Ultra fast binary serialization and deserialization for types with a constant size (known at compile time).", "language": "Rust", "repo": "desse", "new_stars": 12, "stars": 36, "owner": "devashishdxt", "forks": 0},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 11, "stars": 4422, "owner": "tokio-rs", "forks": 331}
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 11, "stars": 4423, "owner": "tokio-rs", "forks": 331}
 ]

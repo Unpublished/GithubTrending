@@ -1,6 +1,6 @@
 [
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1440, "stars": 1640, "owner": "fastly", "forks": 33},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 1389, "stars": 5212, "owner": "valeriansaliou", "forks": 115},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1440, "stars": 1643, "owner": "fastly", "forks": 33},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 1389, "stars": 5215, "owner": "valeriansaliou", "forks": 115},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 981, "stars": 988, "owner": "chrisdickinson", "forks": 16},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 577, "stars": 1474, "owner": "cloudflare", "forks": 35},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 211, "stars": 35065, "owner": "rust-lang", "forks": 5607},
@@ -11,7 +11,7 @@
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 135, "stars": 508, "owner": "lpil", "forks": 21},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 133, "stars": 1623, "owner": "CraneStation", "forks": 131},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 126, "stars": 3425, "owner": "timvisee", "forks": 59},
-{"description": "A string type for Rust that is not required to be valid UTF-8.", "language": "Rust", "repo": "bstr", "new_stars": 126, "stars": 132, "owner": "BurntSushi", "forks": 2},
+{"description": "A string type for Rust that is not required to be valid UTF-8.", "language": "Rust", "repo": "bstr", "new_stars": 126, "stars": 134, "owner": "BurntSushi", "forks": 2},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 124, "stars": 13440, "owner": "BurntSushi", "forks": 544},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 111, "stars": 3787, "owner": "rust-lang", "forks": 281},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 111, "stars": 1150, "owner": "Peltoche", "forks": 43},
@@ -22,6 +22,6 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 86, "stars": 10162, "owner": "rust-unofficial", "forks": 655},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 86, "stars": 6937, "owner": "DenisKolodin", "forks": 246},
 {"description": "A modern Prolog implementation written mostly in Rust.", "language": "Rust", "repo": "scryer-prolog", "new_stars": 85, "stars": 190, "owner": "mthom", "forks": 10},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 83, "stars": 13006, "owner": "sharkdp", "forks": 236},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 83, "stars": 13008, "owner": "sharkdp", "forks": 236},
 {"description": "A simple X11 status bar for use with simple WMs.", "language": "Rust", "repo": "cnx", "new_stars": 78, "stars": 84, "owner": "mjkillough", "forks": 3}
 ]

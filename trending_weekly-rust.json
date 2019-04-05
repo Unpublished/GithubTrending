@@ -1,15 +1,15 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 70252, "stars": 178485, "owner": "996icu", "forks": 13846},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 70252, "stars": 178503, "owner": "996icu", "forks": 13846},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 1297, "stars": 5322, "owner": "valeriansaliou", "forks": 118},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 996, "stars": 1003, "owner": "chrisdickinson", "forks": 16},
-{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 610, "stars": 2439, "owner": "citybound", "forks": 90},
+{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 610, "stars": 2490, "owner": "citybound", "forks": 90},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 598, "stars": 1672, "owner": "fastly", "forks": 35},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 382, "stars": 1494, "owner": "cloudflare", "forks": 35},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 203, "stars": 35088, "owner": "rust-lang", "forks": 5611},
 {"description": "Rust library for decentralized private computation", "language": "Rust", "repo": "zexe", "new_stars": 167, "stars": 167, "owner": "scipr-lab", "forks": 12},
 {"description": "MesaLink is a memory safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 163, "stars": 1084, "owner": "mesalock-linux", "forks": 42},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 139, "stars": 15254, "owner": "jwilm", "forks": 674},
-{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 137, "stars": 510, "owner": "lpil", "forks": 20},
+{"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 137, "stars": 511, "owner": "lpil", "forks": 20},
 {"description": "A string type for Rust that is not required to be valid UTF-8.", "language": "Rust", "repo": "bstr", "new_stars": 134, "stars": 140, "owner": "BurntSushi", "forks": 3},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 117, "stars": 3436, "owner": "timvisee", "forks": 59},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 114, "stars": 643, "owner": "CraneStation", "forks": 44},
@@ -21,7 +21,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 87, "stars": 13021, "owner": "sharkdp", "forks": 236},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 84, "stars": 10171, "owner": "rust-unofficial", "forks": 659},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 86, "stars": 6945, "owner": "DenisKolodin", "forks": 247},
-{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 81, "stars": 2787, "owner": "wasmerio", "forks": 84},
+{"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 81, "stars": 2787, "owner": "wasmerio", "forks": 85},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 80, "stars": 1634, "owner": "CraneStation", "forks": 131},
-{"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 77, "stars": 175, "owner": "target", "forks": 9}
+{"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 77, "stars": 176, "owner": "target", "forks": 9}
 ]

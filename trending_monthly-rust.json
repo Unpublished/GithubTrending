@@ -1,13 +1,13 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 181495, "stars": 181687, "owner": "996icu", "forks": 14137},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 181495, "stars": 181774, "owner": "996icu", "forks": 14151},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 5370, "stars": 5378, "owner": "valeriansaliou", "forks": 121},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 3192, "stars": 3448, "owner": "timvisee", "forks": 59},
-{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 1897, "stars": 3664, "owner": "citybound", "forks": 118},
+{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 1897, "stars": 3669, "owner": "citybound", "forks": 118},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1698, "stars": 1698, "owner": "fastly", "forks": 36},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1506, "stars": 1507, "owner": "cloudflare", "forks": 36},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 1004, "stars": 1010, "owner": "chrisdickinson", "forks": 16},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 810, "stars": 35118, "owner": "rust-lang", "forks": 5616},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 643, "stars": 15269, "owner": "jwilm", "forks": 674},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 643, "stars": 15268, "owner": "jwilm", "forks": 674},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 641, "stars": 13036, "owner": "sharkdp", "forks": 236},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 584, "stars": 658, "owner": "fitzgen", "forks": 22},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 494, "stars": 1156, "owner": "Peltoche", "forks": 44},
@@ -22,6 +22,6 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 279, "stars": 4436, "owner": "tokio-rs", "forks": 333},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 286, "stars": 5420, "owner": "swc-project", "forks": 87},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 276, "stars": 6956, "owner": "DenisKolodin", "forks": 249},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 253, "stars": 13790, "owner": "servo", "forks": 2119},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 258, "stars": 6130, "owner": "ogham", "forks": 193}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 253, "stars": 13790, "owner": "servo", "forks": 2120},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 258, "stars": 6129, "owner": "ogham", "forks": 193}
 ]

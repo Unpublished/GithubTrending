@@ -1,9 +1,9 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 182401, "stars": 182662, "owner": "996icu", "forks": 14223},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 5375, "stars": 5381, "owner": "valeriansaliou", "forks": 121},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 182401, "stars": 182750, "owner": "996icu", "forks": 14235},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 5375, "stars": 5383, "owner": "valeriansaliou", "forks": 121},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 3189, "stars": 3448, "owner": "timvisee", "forks": 59},
-{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 1991, "stars": 3764, "owner": "citybound", "forks": 122},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1699, "stars": 1702, "owner": "fastly", "forks": 36},
+{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 1991, "stars": 3776, "owner": "citybound", "forks": 122},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1699, "stars": 1703, "owner": "fastly", "forks": 36},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1506, "stars": 1509, "owner": "cloudflare", "forks": 36},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 1005, "stars": 1010, "owner": "chrisdickinson", "forks": 16},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 809, "stars": 35123, "owner": "rust-lang", "forks": 5616},
@@ -11,7 +11,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 637, "stars": 13040, "owner": "sharkdp", "forks": 236},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 584, "stars": 658, "owner": "fitzgen", "forks": 22},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 489, "stars": 1156, "owner": "Peltoche", "forks": 44},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 474, "stars": 13458, "owner": "BurntSushi", "forks": 545},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 474, "stars": 13459, "owner": "BurntSushi", "forks": 545},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 404, "stars": 659, "owner": "CraneStation", "forks": 44},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 395, "stars": 10188, "owner": "rust-unofficial", "forks": 663},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 381, "stars": 3804, "owner": "rust-lang", "forks": 283},
@@ -21,7 +21,7 @@
 {"description": "Universal Binaries Powered by WebAssembly", "language": "Rust", "repo": "wasmer", "new_stars": 295, "stars": 2792, "owner": "wasmerio", "forks": 86},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 287, "stars": 5421, "owner": "swc-project", "forks": 87},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 276, "stars": 4436, "owner": "tokio-rs", "forks": 333},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 254, "stars": 13792, "owner": "servo", "forks": 2120},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 254, "stars": 13793, "owner": "servo", "forks": 2120},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 258, "stars": 6129, "owner": "ogham", "forks": 193},
 {"description": "a web assembly programming language", "language": "Rust", "repo": "wasp", "new_stars": 258, "stars": 258, "owner": "wasplang", "forks": 6}
 ]

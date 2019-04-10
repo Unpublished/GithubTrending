@@ -1,12 +1,12 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 205785, "stars": 205835, "owner": "996icu", "forks": 16688},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 205785, "stars": 205850, "owner": "996icu", "forks": 16689},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 5595, "stars": 5601, "owner": "valeriansaliou", "forks": 126},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 3222, "stars": 3492, "owner": "timvisee", "forks": 59},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 2964, "stars": 4709, "owner": "citybound", "forks": 144},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1774, "stars": 1774, "owner": "fastly", "forks": 39},
 {"description": "Userspace WireGuard\u00ae Implementation in Rust", "language": "Rust", "repo": "boringtun", "new_stars": 1548, "stars": 1549, "owner": "cloudflare", "forks": 39},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 832, "stars": 35240, "owner": "rust-lang", "forks": 5626},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 754, "stars": 15438, "owner": "jwilm", "forks": 683},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 754, "stars": 15439, "owner": "jwilm", "forks": 683},
 {"description": "A fast, bump-allocated virtual DOM library for Rust and WebAssembly.", "language": "Rust", "repo": "dodrio", "new_stars": 598, "stars": 672, "owner": "fitzgen", "forks": 22},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 588, "stars": 13105, "owner": "sharkdp", "forks": 238},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 468, "stars": 13511, "owner": "BurntSushi", "forks": 547},
@@ -22,6 +22,6 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 272, "stars": 13827, "owner": "servo", "forks": 2121},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 269, "stars": 4456, "owner": "tokio-rs", "forks": 335},
 {"description": "ranger-like file browser written in rust", "language": "Rust", "repo": "hunter", "new_stars": 264, "stars": 265, "owner": "rabite0", "forks": 6},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 246, "stars": 6821, "owner": "SergioBenitez", "forks": 450},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 246, "stars": 6822, "owner": "SergioBenitez", "forks": 450},
 {"description": "MesaLink is a memory safe and OpenSSL-compatible TLS library.", "language": "Rust", "repo": "mesalink", "new_stars": 244, "stars": 1153, "owner": "mesalock-linux", "forks": 44}
 ]

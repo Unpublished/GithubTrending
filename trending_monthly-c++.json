@@ -1,18 +1,18 @@
 [
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 4393, "stars": 15503, "owner": "Microsoft", "forks": 2267},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 3191, "stars": 125272, "owner": "tensorflow", "forks": 73685},
-{"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "C++", "repo": "REKCARC-TSC-UHT", "new_stars": 3246, "stars": 3318, "owner": "PKUanonym", "forks": 879},
+{"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "C++", "repo": "REKCARC-TSC-UHT", "new_stars": 3246, "stars": 3327, "owner": "PKUanonym", "forks": 883},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1657, "stars": 21359, "owner": "godotengine", "forks": 4172},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1205, "stars": 33613, "owner": "opencv", "forks": 24283},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1205, "stars": 33613, "owner": "opencv", "forks": 24285},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1371, "stars": 72060, "owner": "electron", "forks": 9381},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1267, "stars": 26813, "owner": "pytorch", "forks": 6354},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1267, "stars": 26814, "owner": "pytorch", "forks": 6354},
 {"description": "A Multithreaded Fork of Redis", "language": "C++", "repo": "KeyDB", "new_stars": 1350, "stars": 1455, "owner": "JohnSully", "forks": 65},
 {"description": "C/C++\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 965, "stars": 4456, "owner": "huihut", "forks": 1353},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 973, "stars": 26034, "owner": "tesseract-ocr", "forks": 5000},
 {"description": "Sandboxed API automatically generates sandboxes for C/C++ libraries", "language": "C++", "repo": "sandboxed-api", "new_stars": 957, "stars": 958, "owner": "google", "forks": 73},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 865, "stars": 33406, "owner": "protocolbuffers", "forks": 9097},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 607, "stars": 20484, "owner": "grpc", "forks": 4742},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 561, "stars": 37877, "owner": "bitcoin", "forks": 22453},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 607, "stars": 20485, "owner": "grpc", "forks": 4742},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 561, "stars": 37877, "owner": "bitcoin", "forks": 22452},
 {"description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.", "language": "C++", "repo": "ODM", "new_stars": 630, "stars": 2298, "owner": "OpenDroneMap", "forks": 586},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 560, "stars": 12132, "owner": "CMU-Perceptual-Computing-Lab", "forks": 3349},
 {"description": "Boost Engine for Token Economy", "language": "C++", "repo": "evt", "new_stars": 584, "stars": 912, "owner": "everitoken", "forks": 181},
@@ -22,6 +22,6 @@
 {"description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix", "language": "C++", "repo": "drogon", "new_stars": 562, "stars": 671, "owner": "an-tao", "forks": 47},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 456, "stars": 13079, "owner": "ApolloAuto", "forks": 4090},
 {"description": "Serenity Operating System (x86)", "language": "C++", "repo": "serenity", "new_stars": 540, "stars": 543, "owner": "awesomekling", "forks": 22},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 496, "stars": 13571, "owner": "nlohmann", "forks": 2240},
-{"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 491, "stars": 14171, "owner": "aria2", "forks": 1592}
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 496, "stars": 13573, "owner": "nlohmann", "forks": 2240},
+{"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 491, "stars": 14174, "owner": "aria2", "forks": 1593}
 ]

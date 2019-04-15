@@ -1,13 +1,13 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 219748, "stars": 219845, "owner": "996icu", "forks": 18216},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 219748, "stars": 219860, "owner": "996icu", "forks": 18217},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 5744, "stars": 5752, "owner": "valeriansaliou", "forks": 131},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 3193, "stars": 4954, "owner": "citybound", "forks": 150},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1841, "stars": 1844, "owner": "fastly", "forks": 47},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 1070, "stars": 1076, "owner": "chrisdickinson", "forks": 16},
-{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 997, "stars": 3549, "owner": "timvisee", "forks": 60},
+{"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 997, "stars": 3550, "owner": "timvisee", "forks": 60},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 902, "stars": 35442, "owner": "rust-lang", "forks": 5642},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 756, "stars": 15531, "owner": "jwilm", "forks": 685},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 545, "stars": 13196, "owner": "sharkdp", "forks": 242},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 545, "stars": 13199, "owner": "sharkdp", "forks": 242},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 469, "stars": 732, "owner": "CraneStation", "forks": 49},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 468, "stars": 13572, "owner": "BurntSushi", "forks": 549},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 421, "stars": 10326, "owner": "rust-unofficial", "forks": 670},
@@ -21,7 +21,7 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 290, "stars": 7991, "owner": "firecracker-microvm", "forks": 468},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 284, "stars": 7035, "owner": "DenisKolodin", "forks": 250},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 266, "stars": 13855, "owner": "servo", "forks": 2125},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 281, "stars": 5513, "owner": "swc-project", "forks": 89},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 262, "stars": 4520, "owner": "tokio-rs", "forks": 338},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 281, "stars": 5514, "owner": "swc-project", "forks": 89},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 262, "stars": 4521, "owner": "tokio-rs", "forks": 338},
 {"description": "A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost", "language": "Rust", "repo": "orange_slice", "new_stars": 254, "stars": 255, "owner": "gamozolabs", "forks": 7}
 ]

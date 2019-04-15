@@ -1,11 +1,11 @@
 [
-{"description": "\u597d\u8036 \u662f\u5973\u88c5", "language": "Ruby", "repo": "Dress", "new_stars": 365, "stars": 8992, "owner": "komeiji-satori", "forks": 1225},
+{"description": "\u597d\u8036 \u662f\u5973\u88c5", "language": "Ruby", "repo": "Dress", "new_stars": 365, "stars": 8993, "owner": "komeiji-satori", "forks": 1225},
 {"description": "Setup instructions for Le Wagon's students on their first day of camp", "language": "Ruby", "repo": "setup", "new_stars": 251, "stars": 3922, "owner": "lewagon", "forks": 315},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 109, "stars": 17156, "owner": "Homebrew", "forks": 3809},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 109, "stars": 17157, "owner": "Homebrew", "forks": 3808},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 112, "stars": 25120, "owner": "fastlane", "forks": 3831},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 106, "stars": 15990, "owner": "rapid7", "forks": 7984},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 82, "stars": 42795, "owner": "rails", "forks": 17247},
-{"description": "\u6536\u96c6\u6574\u7406\u8fdc\u7a0b\u5de5\u4f5c\u76f8\u5173\u7684\u8d44\u6599", "language": "Ruby", "repo": "remote-working", "new_stars": 95, "stars": 3829, "owner": "greatghoul", "forks": 384},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 106, "stars": 15991, "owner": "rapid7", "forks": 7984},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 82, "stars": 42796, "owner": "rails", "forks": 17247},
+{"description": "\u6536\u96c6\u6574\u7406\u8fdc\u7a0b\u5de5\u4f5c\u76f8\u5173\u7684\u8d44\u6599", "language": "Ruby", "repo": "remote-working", "new_stars": 95, "stars": 3830, "owner": "greatghoul", "forks": 384},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 78, "stars": 37384, "owner": "jekyll", "forks": 8136},
 {"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 74, "stars": 8817, "owner": "thepracticaldev", "forks": 968},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 82, "stars": 7680, "owner": "fluent", "forks": 897},
@@ -13,8 +13,8 @@
 {"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 50, "stars": 5611, "owner": "Homebrew", "forks": 6112},
 {"description": "lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. Also, it can generate .sql migration scripts.", "language": "Ruby", "repo": "lol_dba", "new_stars": 77, "stars": 1092, "owner": "plentz", "forks": 48},
 {"description": "Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.", "language": "Ruby", "repo": "klaxon", "new_stars": 76, "stars": 297, "owner": "themarshallproject", "forks": 109},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 66, "stars": 17336, "owner": "tootsuite", "forks": 3034},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 15, "stars": 1010, "owner": "github", "forks": 2967},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 66, "stars": 17337, "owner": "tootsuite", "forks": 3034},
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 15, "stars": 1010, "owner": "github", "forks": 2969},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 62, "stars": 21046, "owner": "huginn", "forks": 2288},
 {"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 60, "stars": 24016, "owner": "bayandin", "forks": 3012},
 {"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 39, "stars": 15091, "owner": "Homebrew", "forks": 7113},
@@ -23,5 +23,5 @@
 {"description": "InSpec: Auditing and Testing Framework", "language": "Ruby", "repo": "inspec", "new_stars": 45, "stars": 1727, "owner": "inspec", "forks": 484},
 {"description": "Backup GMail (or other IMAP) accounts to disk", "language": "Ruby", "repo": "imap-backup", "new_stars": 44, "stars": 301, "owner": "joeyates", "forks": 22},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 34, "stars": 9907, "owner": "rubocop-hq", "forks": 2067},
-{"description": "Catch bad SQL queries before they cause problems in production", "language": "Ruby", "repo": "shiba", "new_stars": 36, "stars": 76, "owner": "burrito-brothers", "forks": 1}
+{"description": "Catch bad SQL queries before they cause problems in production", "language": "Ruby", "repo": "shiba", "new_stars": 36, "stars": 77, "owner": "burrito-brothers", "forks": 1}
 ]

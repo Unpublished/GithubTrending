@@ -1,14 +1,14 @@
 [
-{"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "C++", "repo": "REKCARC-TSC-UHT", "new_stars": 4346, "stars": 4348, "owner": "PKUanonym", "forks": 1182},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 3002, "stars": 125528, "owner": "tensorflow", "forks": 73766},
-{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 2854, "stars": 15637, "owner": "Microsoft", "forks": 2292},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1184, "stars": 33721, "owner": "opencv", "forks": 24373},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1614, "stars": 21492, "owner": "godotengine", "forks": 4189},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1342, "stars": 72175, "owner": "electron", "forks": 9400},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1213, "stars": 26910, "owner": "pytorch", "forks": 6389},
-{"description": "C/C++\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 940, "stars": 4554, "owner": "huihut", "forks": 1379},
+{"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "C++", "repo": "REKCARC-TSC-UHT", "new_stars": 4346, "stars": 4354, "owner": "PKUanonym", "forks": 1185},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 3002, "stars": 125530, "owner": "tensorflow", "forks": 73766},
+{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 2854, "stars": 15638, "owner": "Microsoft", "forks": 2292},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1184, "stars": 33722, "owner": "opencv", "forks": 24373},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1614, "stars": 21493, "owner": "godotengine", "forks": 4189},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1342, "stars": 72176, "owner": "electron", "forks": 9400},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1213, "stars": 26911, "owner": "pytorch", "forks": 6389},
+{"description": "C/C++\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 940, "stars": 4556, "owner": "huihut", "forks": 1382},
 {"description": "Sandboxed API automatically generates sandboxes for C/C++ libraries", "language": "C++", "repo": "sandboxed-api", "new_stars": 964, "stars": 966, "owner": "google", "forks": 75},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 914, "stars": 26095, "owner": "tesseract-ocr", "forks": 5015},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 914, "stars": 26096, "owner": "tesseract-ocr", "forks": 5015},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 843, "stars": 33500, "owner": "protocolbuffers", "forks": 9119},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 609, "stars": 20564, "owner": "grpc", "forks": 4757},
 {"description": "A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images.", "language": "C++", "repo": "ODM", "new_stars": 630, "stars": 2301, "owner": "OpenDroneMap", "forks": 588},
@@ -21,7 +21,7 @@
 {"description": "Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 546, "stars": 554, "owner": "awesomekling", "forks": 23},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 438, "stars": 13126, "owner": "ApolloAuto", "forks": 4109},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 464, "stars": 13603, "owner": "nlohmann", "forks": 2250},
-{"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 448, "stars": 17122, "owner": "google", "forks": 4085},
+{"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 448, "stars": 17123, "owner": "google", "forks": 4085},
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 456, "stars": 11761, "owner": "uglide", "forks": 1852},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 451, "stars": 9208, "owner": "envoyproxy", "forks": 1381}
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 451, "stars": 9210, "owner": "envoyproxy", "forks": 1381}
 ]

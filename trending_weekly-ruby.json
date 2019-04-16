@@ -1,11 +1,11 @@
 [
-{"description": "\u597d\u8036 \u662f\u5973\u88c5", "language": "Ruby", "repo": "Dress", "new_stars": 342, "stars": 9029, "owner": "komeiji-satori", "forks": 1226},
-{"description": "Setup instructions for Le Wagon's students on their first day of camp", "language": "Ruby", "repo": "setup", "new_stars": 132, "stars": 4048, "owner": "lewagon", "forks": 316},
+{"description": "\u597d\u8036 \u662f\u5973\u88c5", "language": "Ruby", "repo": "Dress", "new_stars": 342, "stars": 9031, "owner": "komeiji-satori", "forks": 1226},
+{"description": "Setup instructions for Le Wagon's students on their first day of camp", "language": "Ruby", "repo": "setup", "new_stars": 132, "stars": 4048, "owner": "lewagon", "forks": 317},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 115, "stars": 16009, "owner": "rapid7", "forks": 7986},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 105, "stars": 17177, "owner": "Homebrew", "forks": 3814},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 108, "stars": 25136, "owner": "fastlane", "forks": 3833},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 105, "stars": 17178, "owner": "Homebrew", "forks": 3814},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 108, "stars": 25137, "owner": "fastlane", "forks": 3834},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 87, "stars": 42801, "owner": "rails", "forks": 17249},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 83, "stars": 37398, "owner": "jekyll", "forks": 8141},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 83, "stars": 37398, "owner": "jekyll", "forks": 8140},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 87, "stars": 7695, "owner": "fluent", "forks": 899},
 {"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 78, "stars": 8830, "owner": "thepracticaldev", "forks": 969},
 {"description": "lol_dba is a small package of rake tasks that scan your application models and displays a list of columns that probably should be indexed. Also, it can generate .sql migration scripts.", "language": "Ruby", "repo": "lol_dba", "new_stars": 86, "stars": 1102, "owner": "plentz", "forks": 48},
@@ -17,11 +17,11 @@
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 65, "stars": 21054, "owner": "huginn", "forks": 2288},
 {"description": "\u6536\u96c6\u6574\u7406\u8fdc\u7a0b\u5de5\u4f5c\u76f8\u5173\u7684\u8d44\u6599", "language": "Ruby", "repo": "remote-working", "new_stars": 67, "stars": 3837, "owner": "greatghoul", "forks": 384},
 {"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 61, "stars": 24019, "owner": "bayandin", "forks": 3012},
-{"description": "\u4e00\u4e2a\u4e3b\u8981\u7528\u4e8e\u4fe1\u606f\u641c\u96c6\u7684\u5de5\u5177\u96c6\uff0c\u4e3b\u8981\u662f\u7528\u4e8e\u5bf9\u7f51\u7ad9\u5b50\u57df\u540d\u3001\u5f00\u653e\u7aef\u53e3\u3001\u7aef\u53e3\u6307\u7eb9\u3001c\u6bb5\u5730\u5740\u3001\u654f\u611f\u76ee\u5f55\u7b49\u4fe1\u606f\u8fdb\u884c\u6279\u91cf\u641c\u96c6\u3002", "language": "Ruby", "repo": "FuzzScanner", "new_stars": 54, "stars": 75, "owner": "TideSec", "forks": 13},
+{"description": "\u4e00\u4e2a\u4e3b\u8981\u7528\u4e8e\u4fe1\u606f\u641c\u96c6\u7684\u5de5\u5177\u96c6\uff0c\u4e3b\u8981\u662f\u7528\u4e8e\u5bf9\u7f51\u7ad9\u5b50\u57df\u540d\u3001\u5f00\u653e\u7aef\u53e3\u3001\u7aef\u53e3\u6307\u7eb9\u3001c\u6bb5\u5730\u5740\u3001\u654f\u611f\u76ee\u5f55\u7b49\u4fe1\u606f\u8fdb\u884c\u6279\u91cf\u641c\u96c6\u3002", "language": "Ruby", "repo": "FuzzScanner", "new_stars": 54, "stars": 76, "owner": "TideSec", "forks": 13},
 {"description": "Backup GMail (or other IMAP) accounts to disk", "language": "Ruby", "repo": "imap-backup", "new_stars": 49, "stars": 306, "owner": "joeyates", "forks": 23},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 34, "stars": 15096, "owner": "Homebrew", "forks": 7114},
-{"description": "InSpec: Auditing and Testing Framework", "language": "Ruby", "repo": "inspec", "new_stars": 45, "stars": 1732, "owner": "inspec", "forks": 486},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 34, "stars": 15097, "owner": "Homebrew", "forks": 7114},
+{"description": "InSpec: Auditing and Testing Framework", "language": "Ruby", "repo": "inspec", "new_stars": 45, "stars": 1732, "owner": "inspec", "forks": 485},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 42, "stars": 15556, "owner": "ruby", "forks": 4139},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 43, "stars": 18269, "owner": "hashicorp", "forks": 3690},
-{"description": "A guide for programming in style.", "language": "Ruby", "repo": "guides", "new_stars": 37, "stars": 7902, "owner": "thoughtbot", "forks": 1234}
+{"description": "A guide for programming in style.", "language": "Ruby", "repo": "guides", "new_stars": 37, "stars": 7903, "owner": "thoughtbot", "forks": 1234}
 ]

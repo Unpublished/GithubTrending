@@ -1,12 +1,12 @@
 [
-{"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "C++", "repo": "REKCARC-TSC-UHT", "new_stars": 402, "stars": 5034, "owner": "PKUanonym", "forks": 1370},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 95, "stars": 125723, "owner": "tensorflow", "forks": 73837},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 46, "stars": 33806, "owner": "opencv", "forks": 24430},
-{"description": "Cryptocurrency for world adoption.", "language": "C++", "repo": "energi", "new_stars": 48, "stars": 2663, "owner": "energicryptocurrency", "forks": 22511},
+{"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "C++", "repo": "REKCARC-TSC-UHT", "new_stars": 402, "stars": 5035, "owner": "PKUanonym", "forks": 1371},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 95, "stars": 125724, "owner": "tensorflow", "forks": 73838},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 46, "stars": 33805, "owner": "opencv", "forks": 24430},
+{"description": "Cryptocurrency for world adoption.", "language": "C++", "repo": "energi", "new_stars": 48, "stars": 2668, "owner": "energicryptocurrency", "forks": 22513},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 41, "stars": 72259, "owner": "electron", "forks": 9414},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 40, "stars": 21572, "owner": "godotengine", "forks": 4207},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 37, "stars": 27003, "owner": "pytorch", "forks": 6414},
-{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 39, "stars": 15732, "owner": "Microsoft", "forks": 2309},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 37, "stars": 27004, "owner": "pytorch", "forks": 6414},
+{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 39, "stars": 15735, "owner": "Microsoft", "forks": 2309},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 32, "stars": 33560, "owner": "protocolbuffers", "forks": 9125},
 {"description": "Professional open-source NLE video editor", "language": "C++", "repo": "olive", "new_stars": 31, "stars": 1455, "owner": "olive-editor", "forks": 118},
 {"description": "Cross-platform GUI management tool for Redis", "language": "C++", "repo": "RedisDesktopManager", "new_stars": 24, "stars": 11805, "owner": "uglide", "forks": 1866},
@@ -14,7 +14,7 @@
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 26, "stars": 26142, "owner": "tesseract-ocr", "forks": 5019},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 25, "stars": 12239, "owner": "CMU-Perceptual-Computing-Lab", "forks": 3375},
 {"description": "C/C++\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3", "language": "C++", "repo": "interview", "new_stars": 21, "stars": 4602, "owner": "huihut", "forks": 1397},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 19, "stars": 37939, "owner": "bitcoin", "forks": 22511},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 19, "stars": 37939, "owner": "bitcoin", "forks": 22513},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 20, "stars": 20617, "owner": "grpc", "forks": 4768},
 {"description": "Coroutine-based concurrency library for PHP (Like Golang)", "language": "C++", "repo": "swoole-src", "new_stars": 22, "stars": 12922, "owner": "swoole", "forks": 2602},
 {"description": "A fast and accurate disassembler", "language": "C++", "repo": "ddisasm", "new_stars": 22, "stars": 58, "owner": "GrammaTech", "forks": 4},
@@ -22,6 +22,6 @@
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 18, "stars": 13519, "owner": "facebook", "forks": 2942},
 {"description": "Intermediate Representation for Binary analysis and transformation", "language": "C++", "repo": "gtirb", "new_stars": 19, "stars": 59, "owner": "GrammaTech", "forks": 6},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 15, "stars": 13147, "owner": "ApolloAuto", "forks": 4116},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 18, "stars": 9244, "owner": "envoyproxy", "forks": 1383},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 16, "stars": 13640, "owner": "nlohmann", "forks": 2261}
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 18, "stars": 9245, "owner": "envoyproxy", "forks": 1383},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 16, "stars": 13641, "owner": "nlohmann", "forks": 2261}
 ]

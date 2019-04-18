@@ -1,11 +1,11 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 224562, "stars": 224590, "owner": "996icu", "forks": 18729},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 224562, "stars": 224623, "owner": "996icu", "forks": 18728},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 5805, "stars": 5812, "owner": "valeriansaliou", "forks": 132},
-{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 3286, "stars": 5044, "owner": "citybound", "forks": 149},
+{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 3286, "stars": 5046, "owner": "citybound", "forks": 149},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 1878, "stars": 1879, "owner": "fastly", "forks": 49},
 {"description": "git, implemented in rust, for fun and education", "language": "Rust", "repo": "git-rs", "new_stars": 1076, "stars": 1082, "owner": "chrisdickinson", "forks": 16},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 937, "stars": 35508, "owner": "rust-lang", "forks": 5645},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 864, "stars": 13989, "owner": "BurntSushi", "forks": 560},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 864, "stars": 13991, "owner": "BurntSushi", "forks": 560},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 802, "stars": 15605, "owner": "jwilm", "forks": 687},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 774, "stars": 3563, "owner": "timvisee", "forks": 62},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 585, "stars": 13263, "owner": "sharkdp", "forks": 243},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 277, "stars": 4547, "owner": "tokio-rs", "forks": 341},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 262, "stars": 13867, "owner": "servo", "forks": 2126},
 {"description": "A research kernel and hypervisor attempting to get fully deterministic emulation with minimum performance cost", "language": "Rust", "repo": "orange_slice", "new_stars": 263, "stars": 263, "owner": "gamozolabs", "forks": 9},
-{"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 257, "stars": 266, "owner": "rustasync", "forks": 3}
+{"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 257, "stars": 267, "owner": "rustasync", "forks": 3}
 ]

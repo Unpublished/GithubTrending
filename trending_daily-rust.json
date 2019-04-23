@@ -1,14 +1,14 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 3113, "stars": 232810, "owner": "996icu", "forks": 19843},
-{"description": "Colorful panic backtraces for Rust", "language": "Rust", "repo": "color-backtrace", "new_stars": 72, "stars": 315, "owner": "athre0z", "forks": 3},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 3113, "stars": 232849, "owner": "996icu", "forks": 19845},
+{"description": "Colorful panic backtraces for Rust", "language": "Rust", "repo": "color-backtrace", "new_stars": 72, "stars": 316, "owner": "athre0z", "forks": 3},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 49, "stars": 14180, "owner": "BurntSushi", "forks": 566},
 {"description": "A traffic simulation game exploring how small changes affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 48, "stars": 58, "owner": "dabreegster", "forks": 1},
 {"description": "Easily and securely share files from the command line. A fully featured Firefox Send client.", "language": "Rust", "repo": "ffsend", "new_stars": 44, "stars": 3622, "owner": "timvisee", "forks": 65},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 37, "stars": 15721, "owner": "jwilm", "forks": 691},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 35642, "owner": "rust-lang", "forks": 5658},
-{"description": "Inline Python code directly in your Rust code", "language": "Rust", "repo": "inline-python", "new_stars": 35, "stars": 44, "owner": "dronesforwork", "forks": 0},
+{"description": "Inline Python code directly in your Rust code", "language": "Rust", "repo": "inline-python", "new_stars": 35, "stars": 45, "owner": "dronesforwork", "forks": 0},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 31, "stars": 5934, "owner": "valeriansaliou", "forks": 135},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 29, "stars": 3282, "owner": "RustPython", "forks": 179},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 29, "stars": 3282, "owner": "RustPython", "forks": 180},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 27, "stars": 3740, "owner": "actix", "forks": 261},
 {"description": "Full featured GameBoy emulator. Let's dance!", "language": "Rust", "repo": "gameboy", "new_stars": 20, "stars": 567, "owner": "mohanson", "forks": 19},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 18, "stars": 731, "owner": "dessalines", "forks": 23},
@@ -21,7 +21,7 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 14, "stars": 3096, "owner": "amethyst", "forks": 356},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 14, "stars": 10438, "owner": "rust-unofficial", "forks": 675},
 {"description": "RustConAsia 2019\u5927\u4f1aworkshop", "language": "Rust", "repo": "actix-workshop-rustconasia2019", "new_stars": 14, "stars": 33, "owner": "ZhangHanDong", "forks": 4},
-{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 13, "stars": 3055, "owner": "wasmerio", "forks": 95},
+{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 13, "stars": 3056, "owner": "wasmerio", "forks": 95},
 {"description": "Easily assign underlying errors into domain-specific errors while adding context", "language": "Rust", "repo": "snafu", "new_stars": 13, "stars": 48, "owner": "shepmaster", "forks": 1},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 12, "stars": 1951, "owner": "fastly", "forks": 54}
 ]

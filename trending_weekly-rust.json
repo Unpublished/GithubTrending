@@ -1,11 +1,11 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 11581, "stars": 239308, "owner": "996icu", "forks": 20732},
-{"description": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.", "language": "Rust", "repo": "sauron", "new_stars": 545, "stars": 546, "owner": "ivanceras", "forks": 7},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 11581, "stars": 239315, "owner": "996icu", "forks": 20732},
+{"description": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.", "language": "Rust", "repo": "sauron", "new_stars": 545, "stars": 548, "owner": "ivanceras", "forks": 7},
 {"description": "Colorful panic backtraces for Rust", "language": "Rust", "repo": "color-backtrace", "new_stars": 399, "stars": 400, "owner": "athre0z", "forks": 4},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 232, "stars": 35800, "owner": "rust-lang", "forks": 5671},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 206, "stars": 6079, "owner": "valeriansaliou", "forks": 141},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 169, "stars": 14264, "owner": "BurntSushi", "forks": 569},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 166, "stars": 15815, "owner": "jwilm", "forks": 694},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 169, "stars": 14265, "owner": "BurntSushi", "forks": 569},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 166, "stars": 15816, "owner": "jwilm", "forks": 693},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 145, "stars": 818, "owner": "dessalines", "forks": 27},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 144, "stars": 3172, "owner": "wasmerio", "forks": 98},
 {"description": "Inline Python code directly in your Rust code", "language": "Rust", "repo": "inline-python", "new_stars": 135, "stars": 135, "owner": "dronesforwork", "forks": 1},
@@ -22,6 +22,6 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 76, "stars": 3146, "owner": "amethyst", "forks": 361},
 {"description": "WebAssembly Package Manager (CLI)", "language": "Rust", "repo": "wapm-cli", "new_stars": 75, "stars": 76, "owner": "wasmerio", "forks": 4},
 {"description": null, "language": "Rust", "repo": "raybench", "new_stars": 68, "stars": 81, "owner": "niofis", "forks": 16},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 71, "stars": 8108, "owner": "firecracker-microvm", "forks": 476},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 71, "stars": 8109, "owner": "firecracker-microvm", "forks": 476},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 68, "stars": 1985, "owner": "fastly", "forks": 55}
 ]

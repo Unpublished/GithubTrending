@@ -3,14 +3,14 @@
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 131, "stars": 17911, "owner": "danielmiessler", "forks": 6796},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 100, "stars": 17097, "owner": "laravel", "forks": 6410},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 105, "stars": 19451, "owner": "composer", "forks": 5468},
-{"description": "This package helps you to associate users with permissions and permission groups", "language": "PHP", "repo": "laravel-acl", "new_stars": 109, "stars": 122, "owner": "mateusjunges", "forks": 8},
+{"description": "This package helps you to associate users with permissions and permission groups", "language": "PHP", "repo": "laravel-acl", "new_stars": 109, "stars": 123, "owner": "mateusjunges", "forks": 8},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 93, "stars": 20400, "owner": "fzaninotto", "forks": 2372},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 91, "stars": 10278, "owner": "nikic", "forks": 612},
 {"description": "A school management Software", "language": "PHP", "repo": "Unifiedtransform", "new_stars": 81, "stars": 1014, "owner": "changeweb", "forks": 289},
 {"description": "A compiler. For PHP", "language": "PHP", "repo": "php-compiler", "new_stars": 83, "stars": 577, "owner": "ircmaxell", "forks": 20},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 82, "stars": 14499, "owner": "Seldaek", "forks": 1521},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 67, "stars": 20590, "owner": "symfony", "forks": 6851},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 75, "stars": 7315, "owner": "nextcloud", "forks": 1301},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 75, "stars": 7316, "owner": "nextcloud", "forks": 1301},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 74, "stars": 13775, "owner": "sebastianbergmann", "forks": 1720},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 75, "stars": 16454, "owner": "guzzle", "forks": 1925},
 {"description": "OneDrive Index with QCloud SCF (", "language": "PHP", "repo": "OneDrive_SCF", "new_stars": 64, "stars": 64, "owner": "Tai7sy", "forks": 22},
@@ -23,5 +23,5 @@
 {"description": "\u57fa\u4e8ess-panel-v3-mod\u7684 UI \u4fee\u6539\u7248", "language": "PHP", "repo": "ss-panel-v3-mod_Uim", "new_stars": 51, "stars": 1797, "owner": "Anankke", "forks": 1202},
 {"description": "PHP Email validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 64, "stars": 6588, "owner": "egulias", "forks": 88},
 {"description": "An Account Managent Panel Which Is Used For Shadowsocks & ShadowsocksR & V2Ray & VNET", "language": "PHP", "repo": "SSRPanel", "new_stars": 56, "stars": 2509, "owner": "ssrpanel", "forks": 1165},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 51, "stars": 13028, "owner": "PHPMailer", "forks": 7183}
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 51, "stars": 13027, "owner": "PHPMailer", "forks": 7183}
 ]

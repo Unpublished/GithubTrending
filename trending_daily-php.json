@@ -1,6 +1,6 @@
 [
 {"description": "The modern, privacy-aware URL Shortener built in PHP.", "language": "PHP", "repo": "UrlHum", "new_stars": 39, "stars": 105, "owner": "urlhum", "forks": 6},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 31, "stars": 51987, "owner": "laravel", "forks": 15854},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 31, "stars": 51988, "owner": "laravel", "forks": 15854},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 24, "stars": 20444, "owner": "fzaninotto", "forks": 2379},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 23, "stars": 19508, "owner": "composer", "forks": 5476},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 21, "stars": 10319, "owner": "nikic", "forks": 612},
@@ -19,7 +19,7 @@
 {"description": "The EventDispatcher component provides tools that allow your application components to communicate with each other by dispatching events and listening to them.", "language": "PHP", "repo": "event-dispatcher", "new_stars": 14, "stars": 5943, "owner": "symfony", "forks": 38},
 {"description": "The HttpKernel component provides a structured process for converting a Request into a Response.", "language": "PHP", "repo": "http-kernel", "new_stars": 14, "stars": 5759, "owner": "symfony", "forks": 57},
 {"description": "The Finder component finds files and directories via an intuitive fluent interface.", "language": "PHP", "repo": "finder", "new_stars": 14, "stars": 5915, "owner": "symfony", "forks": 33},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 7339, "owner": "nextcloud", "forks": 1310},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 7338, "owner": "nextcloud", "forks": 1310},
 {"description": "The Routing component maps an HTTP request to a set of configuration variables.", "language": "PHP", "repo": "routing", "new_stars": 13, "stars": 5586, "owner": "symfony", "forks": 70},
 {"description": "The CssSelector component converts CSS selectors to XPath expressions.", "language": "PHP", "repo": "css-selector", "new_stars": 13, "stars": 5195, "owner": "symfony", "forks": 21},
 {"description": "A set of abstractions extracted out of the Symfony components", "language": "PHP", "repo": "contracts", "new_stars": 13, "stars": 1680, "owner": "symfony", "forks": 6},

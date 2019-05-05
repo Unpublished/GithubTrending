@@ -1,9 +1,9 @@
 [
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 3007, "stars": 241905, "owner": "996icu", "forks": 21039},
 {"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 412, "stars": 720, "owner": "vislyhq", "forks": 20},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 149, "stars": 35934, "owner": "rust-lang", "forks": 5683},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 154, "stars": 15955, "owner": "jwilm", "forks": 702},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 146, "stars": 6214, "owner": "valeriansaliou", "forks": 152},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 149, "stars": 35934, "owner": "rust-lang", "forks": 5682},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 154, "stars": 15956, "owner": "jwilm", "forks": 702},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 146, "stars": 6215, "owner": "valeriansaliou", "forks": 152},
 {"description": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.", "language": "Rust", "repo": "sauron", "new_stars": 118, "stars": 661, "owner": "ivanceras", "forks": 9},
 {"description": "Quickly test Rust code on macOS", "language": "Rust", "repo": "RustPlayground", "new_stars": 112, "stars": 118, "owner": "cmyr", "forks": 1},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 99, "stars": 14361, "owner": "BurntSushi", "forks": 574},
@@ -21,7 +21,7 @@
 {"description": "ranger-like file browser written in rust", "language": "Rust", "repo": "hunter", "new_stars": 64, "stars": 393, "owner": "rabite0", "forks": 8},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 62, "stars": 1213, "owner": "mit-pdos", "forks": 47},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 61, "stars": 4676, "owner": "tokio-rs", "forks": 347},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 57, "stars": 13973, "owner": "servo", "forks": 2146},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 57, "stars": 13973, "owner": "servo", "forks": 2147},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 57, "stars": 7263, "owner": "DenisKolodin", "forks": 265},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 56, "stars": 5676, "owner": "swc-project", "forks": 91}
 ]

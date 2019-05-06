@@ -1,11 +1,11 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 2695, "stars": 242247, "owner": "996icu", "forks": 21081},
-{"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 418, "stars": 726, "owner": "vislyhq", "forks": 20},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 2695, "stars": 242252, "owner": "996icu", "forks": 21081},
+{"description": "High performance flexbox implementation written in rust", "language": "Rust", "repo": "stretch", "new_stars": 418, "stars": 727, "owner": "vislyhq", "forks": 20},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 164, "stars": 15990, "owner": "jwilm", "forks": 704},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 145, "stars": 35950, "owner": "rust-lang", "forks": 5682},
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 144, "stars": 1121, "owner": "cloudflare", "forks": 49},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 145, "stars": 35951, "owner": "rust-lang", "forks": 5682},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 144, "stars": 1122, "owner": "cloudflare", "forks": 49},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 127, "stars": 6223, "owner": "valeriansaliou", "forks": 154},
-{"description": "A command-line application to view images from the terminal written in Rust.", "language": "Rust", "repo": "viu", "new_stars": 118, "stars": 118, "owner": "atanunq", "forks": 7},
+{"description": "A command-line application to view images from the terminal written in Rust.", "language": "Rust", "repo": "viu", "new_stars": 118, "stars": 120, "owner": "atanunq", "forks": 7},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 106, "stars": 14373, "owner": "BurntSushi", "forks": 574},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 99, "stars": 3282, "owner": "wasmerio", "forks": 100},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 98, "stars": 13502, "owner": "sharkdp", "forks": 248},
@@ -14,7 +14,7 @@
 {"description": "Ruby extension to run WebAssembly binaries.", "language": "Rust", "repo": "ruby-ext-wasm", "new_stars": 85, "stars": 87, "owner": "wasmerio", "forks": 1},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 68, "stars": 3852, "owner": "actix", "forks": 267},
 {"description": "Lolcate -- A comically fast way of indexing and querying your filesystem. Replaces locate / mlocate / updatedb. Written in Rust.", "language": "Rust", "repo": "lolcate-rs", "new_stars": 69, "stars": 70, "owner": "ngirard", "forks": 5},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 66, "stars": 10572, "owner": "rust-unofficial", "forks": 689},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 66, "stars": 10573, "owner": "rust-unofficial", "forks": 689},
 {"description": "ranger-like file browser written in rust", "language": "Rust", "repo": "hunter", "new_stars": 67, "stars": 397, "owner": "rabite0", "forks": 8},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 65, "stars": 1217, "owner": "mit-pdos", "forks": 47},
 {"description": "Quickly test Rust code on macOS", "language": "Rust", "repo": "RustPlayground", "new_stars": 65, "stars": 119, "owner": "cmyr", "forks": 1},
@@ -23,5 +23,5 @@
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 61, "stars": 1613, "owner": "MaxBittker", "forks": 72},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 61, "stars": 9390, "owner": "sharkdp", "forks": 240},
 {"description": "Yet another Vulkan based rendering engine.", "language": "Rust", "repo": "rendy", "new_stars": 59, "stars": 349, "owner": "amethyst", "forks": 41},
-{"description": "Multi-protocol Minecraft-compatible client written in Rust", "language": "Rust", "repo": "stevenarella", "new_stars": 58, "stars": 80, "owner": "iceiix", "forks": 3}
+{"description": "Multi-protocol Minecraft-compatible client written in Rust", "language": "Rust", "repo": "stevenarella", "new_stars": 58, "stars": 82, "owner": "iceiix", "forks": 3}
 ]

@@ -1,18 +1,18 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 2137, "stars": 243651, "owner": "996icu", "forks": 21196},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 2137, "stars": 243658, "owner": "996icu", "forks": 21197},
 {"description": null, "language": "Rust", "repo": "rust-hypervisor-firmware", "new_stars": 221, "stars": 227, "owner": "intel", "forks": 10},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 220, "stars": 16163, "owner": "jwilm", "forks": 710},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 158, "stars": 36070, "owner": "rust-lang", "forks": 5690},
-{"description": "Inline expression interpolation for Rust.", "language": "Rust", "repo": "ifmt", "new_stars": 138, "stars": 143, "owner": "ct-austin", "forks": 1},
-{"description": "\u26a1Compress files on the client side super fast using WASM. Supports GZIP, ZLIB and DEFLATE compression and decompression", "language": "Rust", "repo": "wasm-flate", "new_stars": 135, "stars": 137, "owner": "drbh", "forks": 1},
+{"description": "Inline expression interpolation for Rust.", "language": "Rust", "repo": "ifmt", "new_stars": 138, "stars": 144, "owner": "ct-austin", "forks": 2},
+{"description": "\u26a1Compress files on the client side super fast using WASM. Supports GZIP, ZLIB and DEFLATE compression and decompression", "language": "Rust", "repo": "wasm-flate", "new_stars": 135, "stars": 138, "owner": "drbh", "forks": 1},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 112, "stars": 14463, "owner": "BurntSushi", "forks": 579},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 106, "stars": 13589, "owner": "sharkdp", "forks": 252},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 105, "stars": 16137, "owner": "xi-editor", "forks": 598},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 105, "stars": 16138, "owner": "xi-editor", "forks": 598},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 81, "stars": 4191, "owner": "rust-lang", "forks": 326},
 {"description": "A command-line application to view images from the terminal written in Rust.", "language": "Rust", "repo": "viu", "new_stars": 82, "stars": 176, "owner": "atanunq", "forks": 8},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 77, "stars": 1156, "owner": "cloudflare", "forks": 51},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 72, "stars": 14037, "owner": "servo", "forks": 2151},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 74, "stars": 8226, "owner": "firecracker-microvm", "forks": 487},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 74, "stars": 8227, "owner": "firecracker-microvm", "forks": 487},
 {"description": "Reference implementation for the JavaScript Binary AST format", "language": "Rust", "repo": "binjs-ref", "new_stars": 76, "stars": 191, "owner": "binast", "forks": 23},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 72, "stars": 10626, "owner": "rust-unofficial", "forks": 692},
 {"description": "Test harness for ui tests of compiler diagnostics", "language": "Rust", "repo": "trybuild", "new_stars": 73, "stars": 73, "owner": "dtolnay", "forks": 0},
@@ -23,5 +23,5 @@
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 65, "stars": 3335, "owner": "wasmerio", "forks": 100},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 62, "stars": 2038, "owner": "XAMPPRocky", "forks": 143},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 59, "stars": 3901, "owner": "actix", "forks": 273},
-{"description": "Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support", "language": "Rust", "repo": "sear", "new_stars": 62, "stars": 77, "owner": "iqlusioninc", "forks": 0}
+{"description": "Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support", "language": "Rust", "repo": "sear", "new_stars": 62, "stars": 80, "owner": "iqlusioninc", "forks": 0}
 ]

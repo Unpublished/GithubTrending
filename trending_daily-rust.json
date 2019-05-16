@@ -1,13 +1,13 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 181, "stars": 244184, "owner": "996icu", "forks": 21225},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 181, "stars": 244188, "owner": "996icu", "forks": 21225},
 {"description": null, "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 64, "stars": 127, "owner": "intel", "forks": 6},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 38, "stars": 36160, "owner": "rust-lang", "forks": 5710},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 29, "stars": 6324, "owner": "valeriansaliou", "forks": 159},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 38, "stars": 36161, "owner": "rust-lang", "forks": 5710},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 29, "stars": 6326, "owner": "valeriansaliou", "forks": 159},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 13639, "owner": "sharkdp", "forks": 252},
-{"description": "Rust client for Kubernetes", "language": "Rust", "repo": "kubernetes-rust", "new_stars": 17, "stars": 149, "owner": "ynqa", "forks": 14},
-{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 17, "stars": 5806, "owner": "swc-project", "forks": 93},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 16218, "owner": "jwilm", "forks": 712},
-{"description": "Ignorance is bliss! Ignore your .gitignore", "language": "Rust", "repo": "bliss", "new_stars": 16, "stars": 89, "owner": "ajmwagar", "forks": 2},
+{"description": "Rust client for Kubernetes", "language": "Rust", "repo": "kubernetes-rust", "new_stars": 17, "stars": 151, "owner": "ynqa", "forks": 14},
+{"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 17, "stars": 5807, "owner": "swc-project", "forks": 93},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 16, "stars": 16219, "owner": "jwilm", "forks": 712},
+{"description": "Ignorance is bliss! Ignore your .gitignore", "language": "Rust", "repo": "bliss", "new_stars": 16, "stars": 90, "owner": "ajmwagar", "forks": 2},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 15, "stars": 14515, "owner": "BurntSushi", "forks": 579},
 {"description": "An RPC framework for Rust with a focus on ease of use.", "language": "Rust", "repo": "tarpc", "new_stars": 15, "stars": 926, "owner": "google", "forks": 66},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 3939, "owner": "actix", "forks": 276},
@@ -22,6 +22,6 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 10, "stars": 871, "owner": "rust-analyzer", "forks": 93},
 {"description": null, "language": "Rust", "repo": "rust-hypervisor-firmware", "new_stars": 9, "stars": 280, "owner": "intel", "forks": 11},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 9, "stars": 10656, "owner": "rust-unofficial", "forks": 693},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 8, "stars": 4108, "owner": "mimblewimble", "forks": 783},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 8, "stars": 4108, "owner": "mimblewimble", "forks": 784},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 8, "stars": 3034, "owner": "gfx-rs", "forks": 348}
 ]

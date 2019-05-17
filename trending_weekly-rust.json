@@ -1,10 +1,10 @@
 [
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1266, "stars": 244301, "owner": "996icu", "forks": 21241},
 {"description": null, "language": "Rust", "repo": "rust-hypervisor-firmware", "new_stars": 258, "stars": 282, "owner": "intel", "forks": 11},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 194, "stars": 36196, "owner": "rust-lang", "forks": 5714},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 194, "stars": 36197, "owner": "rust-lang", "forks": 5713},
 {"description": "Signed/Encrypted ARchive: always-encrypted tar-like archive tool with optional signature support", "language": "Rust", "repo": "sear", "new_stars": 201, "stars": 201, "owner": "iqlusioninc", "forks": 2},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 158, "stars": 16245, "owner": "jwilm", "forks": 714},
-{"description": null, "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 145, "stars": 147, "owner": "intel", "forks": 6},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 158, "stars": 16246, "owner": "jwilm", "forks": 714},
+{"description": null, "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 145, "stars": 148, "owner": "intel", "forks": 6},
 {"description": "Super-fast javascript to javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 131, "stars": 5818, "owner": "swc-project", "forks": 93},
 {"description": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference", "language": "Rust", "repo": "tract", "new_stars": 125, "stars": 254, "owner": "snipsco", "forks": 19},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 110, "stars": 14539, "owner": "BurntSushi", "forks": 580},
@@ -20,7 +20,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 69, "stars": 10665, "owner": "rust-unofficial", "forks": 692},
 {"description": "Inspect your shell history", "language": "Rust", "repo": "shell-hist", "new_stars": 67, "stars": 68, "owner": "jamesmunns", "forks": 4},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 62, "stars": 14066, "owner": "servo", "forks": 2153},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 61, "stars": 8262, "owner": "firecracker-microvm", "forks": 490},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 61, "stars": 8264, "owner": "firecracker-microvm", "forks": 490},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 60, "stars": 9496, "owner": "sharkdp", "forks": 246},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 56, "stars": 7072, "owner": "SergioBenitez", "forks": 468},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 58, "stars": 5310, "owner": "mre", "forks": 622}

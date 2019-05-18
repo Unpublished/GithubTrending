@@ -1,15 +1,15 @@
 [
-{"description": "Instant PHP quality checks from your console", "language": "PHP", "repo": "phpinsights", "new_stars": 1572, "stars": 1656, "owner": "nunomaduro", "forks": 60},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 192, "stars": 52312, "owner": "laravel", "forks": 15976},
+{"description": "Instant PHP quality checks from your console", "language": "PHP", "repo": "phpinsights", "new_stars": 1572, "stars": 1659, "owner": "nunomaduro", "forks": 60},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 192, "stars": 52314, "owner": "laravel", "forks": 15976},
 {"description": "Which is the fastest web framework?", "language": "PHP", "repo": "web-frameworks", "new_stars": 172, "stars": 2277, "owner": "the-benchmarker", "forks": 180},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 119, "stars": 18233, "owner": "danielmiessler", "forks": 6962},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 105, "stars": 17330, "owner": "laravel", "forks": 6469},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 121, "stars": 2357, "owner": "firefly-iii", "forks": 375},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 99, "stars": 1829, "owner": "vimeo", "forks": 112},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 95, "stars": 19710, "owner": "composer", "forks": 5493},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 95, "stars": 19711, "owner": "composer", "forks": 5493},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 89, "stars": 7476, "owner": "nextcloud", "forks": 1334},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 93, "stars": 6750, "owner": "phpstan", "forks": 462},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 73, "stars": 20735, "owner": "symfony", "forks": 6892},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 73, "stars": 20736, "owner": "symfony", "forks": 6892},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 78, "stars": 20611, "owner": "fzaninotto", "forks": 2382},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 79, "stars": 14699, "owner": "Seldaek", "forks": 1520},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 65, "stars": 6222, "owner": "z-song", "forks": 1734},
@@ -22,6 +22,6 @@
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 52, "stars": 12461, "owner": "WordPress", "forks": 7541},
 {"description": "PHP Email address validator library inspired in", "language": "PHP", "repo": "EmailValidator", "new_stars": 68, "stars": 6766, "owner": "egulias", "forks": 92},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 67, "stars": 10461, "owner": "nikic", "forks": 613},
-{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 63, "stars": 12498, "owner": "briannesbitt", "forks": 1062},
+{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 63, "stars": 12499, "owner": "briannesbitt", "forks": 1062},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 64, "stars": 10906, "owner": "erusev", "forks": 879}
 ]

@@ -1,13 +1,13 @@
 [
-{"description": "The new Windows Terminal, and the original Windows console host -- all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 452, "stars": 39255, "owner": "microsoft", "forks": 3638},
-{"description": "Experimental wrapper over LLVM for generating and compiling code at run-time.", "language": "C++", "repo": "codegen", "new_stars": 244, "stars": 252, "owner": "pdziepak", "forks": 5},
-{"description": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.", "language": "C++", "repo": "SPTAG", "new_stars": 179, "stars": 2739, "owner": "microsoft", "forks": 278},
-{"description": "A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.", "language": "C++", "repo": "3d-game-shaders-for-beginners", "new_stars": 114, "stars": 3661, "owner": "lettier", "forks": 166},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 71, "stars": 127905, "owner": "tensorflow", "forks": 74814},
+{"description": "The new Windows Terminal, and the original Windows console host -- all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 452, "stars": 39257, "owner": "microsoft", "forks": 3638},
+{"description": "Experimental wrapper over LLVM for generating and compiling code at run-time.", "language": "C++", "repo": "codegen", "new_stars": 244, "stars": 253, "owner": "pdziepak", "forks": 5},
+{"description": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.", "language": "C++", "repo": "SPTAG", "new_stars": 179, "stars": 2740, "owner": "microsoft", "forks": 278},
+{"description": "A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.", "language": "C++", "repo": "3d-game-shaders-for-beginners", "new_stars": 114, "stars": 3662, "owner": "lettier", "forks": 167},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 71, "stars": 127906, "owner": "tensorflow", "forks": 74814},
 {"description": "Computer Graphics R&D Infrastructure", "language": "C++", "repo": "taichi", "new_stars": 66, "stars": 2628, "owner": "yuanming-hu", "forks": 234},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 36, "stars": 34873, "owner": "opencv", "forks": 25386},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 42, "stars": 28213, "owner": "pytorch", "forks": 6722},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 41, "stars": 73439, "owner": "electron", "forks": 9573},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 36, "stars": 34872, "owner": "opencv", "forks": 25386},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 42, "stars": 28214, "owner": "pytorch", "forks": 6722},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 41, "stars": 73440, "owner": "electron", "forks": 9573},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 30, "stars": 27087, "owner": "tesseract-ocr", "forks": 5189},
 {"description": "A simple-to-use cpp color library", "language": "C++", "repo": "vivid", "new_stars": 31, "stars": 62, "owner": "gurki", "forks": 1},
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 27, "stars": 16818, "owner": "microsoft", "forks": 2571},
@@ -22,6 +22,6 @@
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 21, "stars": 22274, "owner": "godotengine", "forks": 4340},
 {"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 21, "stars": 5990, "owner": "topjohnwu", "forks": 867},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 19, "stars": 9655, "owner": "envoyproxy", "forks": 1465},
-{"description": "Lovely console emulator package for Windows", "language": "C++", "repo": "cmder", "new_stars": 20, "stars": 18255, "owner": "cmderdev", "forks": 1298},
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 19, "stars": 15246, "owner": "ocornut", "forks": 2253}
+{"description": "Lovely console emulator package for Windows", "language": "C++", "repo": "cmder", "new_stars": 20, "stars": 18256, "owner": "cmderdev", "forks": 1298},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 19, "stars": 15245, "owner": "ocornut", "forks": 2254}
 ]

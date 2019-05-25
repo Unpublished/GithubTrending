@@ -1,7 +1,7 @@
 [
 {"description": "Instant PHP quality checks from your console", "language": "PHP", "repo": "phpinsights", "new_stars": 2189, "stars": 2228, "owner": "nunomaduro", "forks": 88},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 818, "stars": 52495, "owner": "laravel", "forks": 16026},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 547, "stars": 18342, "owner": "danielmiessler", "forks": 7046},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 818, "stars": 52495, "owner": "laravel", "forks": 16027},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 547, "stars": 18343, "owner": "danielmiessler", "forks": 7045},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 409, "stars": 17411, "owner": "laravel", "forks": 6489},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 424, "stars": 19779, "owner": "composer", "forks": 5501},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 362, "stars": 20667, "owner": "fzaninotto", "forks": 2389},
@@ -23,5 +23,5 @@
 {"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 245, "stars": 12544, "owner": "briannesbitt", "forks": 1064},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 228, "stars": 6226, "owner": "spatie", "forks": 840},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 241, "stars": 10954, "owner": "erusev", "forks": 881},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 192, "stars": 13161, "owner": "PHPMailer", "forks": 7267}
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 192, "stars": 13162, "owner": "PHPMailer", "forks": 7267}
 ]

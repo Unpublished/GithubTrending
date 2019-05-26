@@ -7,13 +7,13 @@
 {"description": "Sauron is an html web framework for building web-apps. It is heavily inspired by elm.", "language": "Rust", "repo": "sauron", "new_stars": 677, "stars": 723, "owner": "ivanceras", "forks": 10},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 488, "stars": 6447, "owner": "valeriansaliou", "forks": 165},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 415, "stars": 13748, "owner": "sharkdp", "forks": 252},
-{"description": "Analysis of various tricky Rust code", "language": "Rust", "repo": "case-studies", "new_stars": 413, "stars": 414, "owner": "dtolnay", "forks": 8},
+{"description": "Analysis of various tricky Rust code", "language": "Rust", "repo": "case-studies", "new_stars": 413, "stars": 415, "owner": "dtolnay", "forks": 8},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 350, "stars": 3462, "owner": "wasmerio", "forks": 109},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 329, "stars": 4352, "owner": "rust-lang", "forks": 346},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 329, "stars": 4353, "owner": "rust-lang", "forks": 346},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 335, "stars": 10755, "owner": "rust-unofficial", "forks": 698},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 298, "stars": 4036, "owner": "actix", "forks": 281},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 298, "stars": 4038, "owner": "actix", "forks": 281},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 275, "stars": 14138, "owner": "servo", "forks": 2165},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 287, "stars": 7396, "owner": "DenisKolodin", "forks": 266},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 287, "stars": 7397, "owner": "DenisKolodin", "forks": 266},
 {"description": "Safe Rust bridge for creating Erlang NIF functions", "language": "Rust", "repo": "rustler", "new_stars": 279, "stars": 1540, "owner": "rusterlium", "forks": 73},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 262, "stars": 8339, "owner": "firecracker-microvm", "forks": 494},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 252, "stars": 3355, "owner": "amethyst", "forks": 375},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 205, "stars": 4790, "owner": "tokio-rs", "forks": 363},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 210, "stars": 2174, "owner": "fastly", "forks": 60},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 208, "stars": 1175, "owner": "cloudflare", "forks": 54},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 197, "stars": 5356, "owner": "mre", "forks": 627}
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 197, "stars": 5357, "owner": "mre", "forks": 627}
 ]

@@ -1,17 +1,17 @@
 [
 {"description": "Instant PHP quality checks from your console", "language": "PHP", "repo": "phpinsights", "new_stars": 2314, "stars": 2354, "owner": "nunomaduro", "forks": 92},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 820, "stars": 52593, "owner": "laravel", "forks": 16052},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 542, "stars": 18404, "owner": "danielmiessler", "forks": 7091},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 820, "stars": 52594, "owner": "laravel", "forks": 16053},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 542, "stars": 18404, "owner": "danielmiessler", "forks": 7092},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 409, "stars": 17461, "owner": "laravel", "forks": 6502},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 409, "stars": 19819, "owner": "composer", "forks": 5504},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 353, "stars": 7632, "owner": "nextcloud", "forks": 1355},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 353, "stars": 7633, "owner": "nextcloud", "forks": 1355},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 358, "stars": 20711, "owner": "fzaninotto", "forks": 2394},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 284, "stars": 20820, "owner": "symfony", "forks": 6915},
 {"description": "Which is the fastest web framework?", "language": "PHP", "repo": "web-frameworks", "new_stars": 317, "stars": 2368, "owner": "the-benchmarker", "forks": 189},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 317, "stars": 14791, "owner": "Seldaek", "forks": 1527},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 314, "stars": 16733, "owner": "guzzle", "forks": 1934},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 296, "stars": 10551, "owner": "nikic", "forks": 615},
-{"description": "A cutting-edge choice for your Customer Relationship Management \u5ba2\u6237\u7ba1\u7406\u7684\u524d\u6cbf\u521b\u65b0-\u609f\u7a7aCRM", "language": "PHP", "repo": "72crm", "new_stars": 262, "stars": 845, "owner": "72crm", "forks": 159},
+{"description": "A cutting-edge choice for your Customer Relationship Management \u5ba2\u6237\u7ba1\u7406\u7684\u524d\u6cbf\u521b\u65b0-\u609f\u7a7aCRM", "language": "PHP", "repo": "72crm", "new_stars": 262, "stars": 846, "owner": "72crm", "forks": 159},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 245, "stars": 6313, "owner": "z-song", "forks": 1751},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 254, "stars": 6198, "owner": "PHPOffice", "forks": 1141},
 {"description": "Composer \u5168\u91cf\u955c\u50cf\u53d1\u5e03\u4e8e2017\u5e743\u6708\uff0c\u81f3\u4eca\u5df2\u4e0d\u95f4\u65ad\u8fd0\u884c2\u5e74\u591a\u3002\u8fd9\u4e2a\u5f00\u6e90\u6709\u52a9\u4e8e\u7406\u89e3 Composer \u955c\u50cf\u7684\u5de5\u4f5c\u539f\u7406\uff0c\u5982\u679c\u4f60\u89c9\u5f97\u6709\u4e9b\u6536\u83b7\uff0c\u53ef\u4ee5\u70b9 Star \u652f\u6301\u6211", "language": "PHP", "repo": "composer-mirror", "new_stars": 270, "stars": 281, "owner": "zencodex", "forks": 23},
@@ -21,7 +21,7 @@
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 262, "stars": 6954, "owner": "doctrine", "forks": 29},
 {"description": "Doctrine Inflector is a small library that can perform string manipulations with regard to uppercase/lowercase and singular/plural forms of words.", "language": "PHP", "repo": "inflector", "new_stars": 260, "stars": 7152, "owner": "doctrine", "forks": 88},
 {"description": null, "language": "PHP", "repo": "instantiator", "new_stars": 256, "stars": 6969, "owner": "doctrine", "forks": 41},
-{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 247, "stars": 1925, "owner": "vimeo", "forks": 117},
+{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 247, "stars": 1927, "owner": "vimeo", "forks": 117},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 183, "stars": 12513, "owner": "WordPress", "forks": 7584},
-{"description": "Wizard\u662f\u57fa\u4e8eLaravel\u5f00\u53d1\u6846\u67b6\u5f00\u53d1\u7684\u4e00\u6b3e\u5f00\u6e90\u9879\u76ee\uff08API\uff09\u6587\u6863\u7ba1\u7406\u5de5\u5177\u3002", "language": "PHP", "repo": "wizard", "new_stars": 235, "stars": 316, "owner": "mylxsw", "forks": 56}
+{"description": "Wizard\u662f\u57fa\u4e8eLaravel\u5f00\u53d1\u6846\u67b6\u5f00\u53d1\u7684\u4e00\u6b3e\u5f00\u6e90\u9879\u76ee\uff08API\uff09\u6587\u6863\u7ba1\u7406\u5de5\u5177\u3002", "language": "PHP", "repo": "wizard", "new_stars": 235, "stars": 317, "owner": "mylxsw", "forks": 56}
 ]

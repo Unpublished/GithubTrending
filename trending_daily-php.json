@@ -1,5 +1,5 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 19, "stars": 52784, "owner": "laravel", "forks": 16118},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 19, "stars": 52784, "owner": "laravel", "forks": 16119},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 11, "stars": 18566, "owner": "danielmiessler", "forks": 7183},
 {"description": "Instant PHP quality checks from your console", "language": "PHP", "repo": "phpinsights", "new_stars": 16, "stars": 2508, "owner": "nunomaduro", "forks": 102},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 15, "stars": 16819, "owner": "guzzle", "forks": 1938},
@@ -8,12 +8,12 @@
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 11, "stars": 19931, "owner": "composer", "forks": 5514},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 12, "stars": 20816, "owner": "fzaninotto", "forks": 2401},
 {"description": "An open source status page system for everyone.", "language": "PHP", "repo": "Cachet", "new_stars": 11, "stars": 9815, "owner": "CachetHQ", "forks": 1136},
-{"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 11, "stars": 10640, "owner": "nikic", "forks": 622},
+{"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 11, "stars": 10640, "owner": "nikic", "forks": 623},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 11, "stars": 14883, "owner": "Seldaek", "forks": 1533},
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 10, "stars": 7051, "owner": "doctrine", "forks": 30},
 {"description": "Using Laravel's authorization on the front-end.", "language": "PHP", "repo": "policy", "new_stars": 10, "stars": 30, "owner": "thepinecode", "forks": 0},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 9, "stars": 6431, "owner": "doctrine", "forks": 2102},
-{"description": "This package contains a set of reusable Laravel validation rules.", "language": "PHP", "repo": "laravel-validation-rules", "new_stars": 9, "stars": 64, "owner": "alphametric", "forks": 11},
+{"description": "This package contains a set of reusable Laravel validation rules.", "language": "PHP", "repo": "laravel-validation-rules", "new_stars": 9, "stars": 64, "owner": "alphametric", "forks": 12},
 {"description": "MailEclipse", "language": "PHP", "repo": "laravel-mail-editor", "new_stars": 9, "stars": 959, "owner": "Qoraiche", "forks": 67},
 {"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 8, "stars": 8183, "owner": "the-control-group", "forks": 1975},
 {"description": "Doctrine Database Migrations Library", "language": "PHP", "repo": "migrations", "new_stars": 8, "stars": 2407, "owner": "doctrine", "forks": 293},
@@ -22,6 +22,6 @@
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 8, "stars": 4837, "owner": "guzzle", "forks": 165},
 {"description": "The HttpClient component provides powerful methods to fetch HTTP resources synchronously or asynchronously.", "language": "PHP", "repo": "http-client", "new_stars": 8, "stars": 223, "owner": "symfony", "forks": 8},
 {"description": "The Laravel adapter for Inertia.js.", "language": "PHP", "repo": "inertia-laravel", "new_stars": 8, "stars": 208, "owner": "inertiajs", "forks": 18},
-{"description": "The MIME component allows manipulating MIME types.", "language": "PHP", "repo": "mime", "new_stars": 8, "stars": 171, "owner": "symfony", "forks": 0},
-{"description": "A set of event dispatcher abstractions extracted out of the Symfony components", "language": "PHP", "repo": "event-dispatcher-contracts", "new_stars": 8, "stars": 114, "owner": "symfony", "forks": 0}
+{"description": "The MIME component allows manipulating MIME types.", "language": "PHP", "repo": "mime", "new_stars": 8, "stars": 172, "owner": "symfony", "forks": 0},
+{"description": "A set of event dispatcher abstractions extracted out of the Symfony components", "language": "PHP", "repo": "event-dispatcher-contracts", "new_stars": 8, "stars": 115, "owner": "symfony", "forks": 0}
 ]

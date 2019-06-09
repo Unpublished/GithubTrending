@@ -1,6 +1,6 @@
 [
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 41, "stars": 245686, "owner": "996icu", "forks": 21342},
-{"description": "A \u03bb-calculus grammar/interpretor written using LALRPOP and `\u03bb!`.", "language": "Rust", "repo": "lalrpop-lambda", "new_stars": 39, "stars": 40, "owner": "nixpulvis", "forks": 2},
+{"description": "A \u03bb-calculus grammar/interpretor written using LALRPOP and `\u03bb!`.", "language": "Rust", "repo": "lalrpop-lambda", "new_stars": 39, "stars": 41, "owner": "nixpulvis", "forks": 2},
 {"description": "An experimental GUI framework for Rust, backed by per-platform native widgets. React, AppKit/UIKit inspired. EXPERIMENTAL, runs on Cocoa right now. ;P", "language": "Rust", "repo": "alchemy", "new_stars": 17, "stars": 57, "owner": "ryanmcgrath", "forks": 0},
 {"description": "a language for programming GPUs", "language": "Rust", "repo": "emu", "new_stars": 16, "stars": 813, "owner": "calebwin", "forks": 19},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 13, "stars": 36668, "owner": "rust-lang", "forks": 5776},
@@ -20,7 +20,7 @@
 {"description": "A standard library for the client-side Web", "language": "Rust", "repo": "stdweb", "new_stars": 7, "stars": 2635, "owner": "koute", "forks": 133},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 7, "stars": 1480, "owner": "seanmonstar", "forks": 230},
 {"description": "Rust library for single assignment cells and lazy statics without macros", "language": "Rust", "repo": "once_cell", "new_stars": 7, "stars": 100, "owner": "matklad", "forks": 5},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 14227, "owner": "servo", "forks": 2175},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 14228, "owner": "servo", "forks": 2175},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 6, "stars": 2865, "owner": "sharkdp", "forks": 58},
 {"description": "Nix code formatter for nixpkgs [maintainer=", "language": "Rust", "repo": "nixpkgs-fmt", "new_stars": 6, "stars": 31, "owner": "nix-community", "forks": 1},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 437, "owner": "actix", "forks": 139}

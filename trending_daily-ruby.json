@@ -1,11 +1,11 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 15, "stars": 2964, "owner": "opf", "forks": 935},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 11, "stars": 37920, "owner": "jekyll", "forks": 8265},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 10, "stars": 43306, "owner": "rails", "forks": 17414},
-{"description": "A truly monstrous async web chat using no JS whatsoever on the frontend", "language": "Ruby", "repo": "css-only-chat", "new_stars": 10, "stars": 5091, "owner": "kkuchta", "forks": 242},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 10, "stars": 43307, "owner": "rails", "forks": 17414},
+{"description": "A truly monstrous async web chat using no JS whatsoever on the frontend", "language": "Ruby", "repo": "css-only-chat", "new_stars": 10, "stars": 5092, "owner": "kkuchta", "forks": 242},
 {"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 10, "stars": 9421, "owner": "thepracticaldev", "forks": 1108},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 10, "stars": 28385, "owner": "discourse", "forks": 6446},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 8, "stars": 16654, "owner": "rapid7", "forks": 8257},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 8, "stars": 16655, "owner": "rapid7", "forks": 8257},
 {"description": "A gem for turning URLs into website previews", "language": "Ruby", "repo": "onebox", "new_stars": 10, "stars": 625, "owner": "discourse", "forks": 139},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 9, "stars": 17832, "owner": "tootsuite", "forks": 3131},
 {"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 7, "stars": 17877, "owner": "Homebrew", "forks": 3986},
@@ -21,7 +21,7 @@
 {"description": "A Ruby implementation of an Event Store based on Active Record", "language": "Ruby", "repo": "rails_event_store", "new_stars": 0, "stars": 684, "owner": "RailsEventStore", "forks": 65},
 {"description": "Receives and queues service hook notifications from GitHub for processing.", "language": "Ruby", "repo": "travis-listener", "new_stars": 0, "stars": 40, "owner": "travis-ci", "forks": 18},
 {"description": "The Travis CI API", "language": "Ruby", "repo": "travis-api", "new_stars": 0, "stars": 263, "owner": "travis-ci", "forks": 147},
-{"description": "A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.", "language": "Ruby", "repo": "https-portal", "new_stars": 0, "stars": 3240, "owner": "SteveLTN", "forks": 184},
+{"description": "A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.", "language": "Ruby", "repo": "https-portal", "new_stars": 0, "stars": 3241, "owner": "SteveLTN", "forks": 184},
 {"description": null, "language": "Ruby", "repo": "bc3-integrations", "new_stars": 0, "stars": 32, "owner": "basecamp", "forks": 87},
 {"description": "A simple OFX (Open Financial Exchange) parser built on top of Nokogiri. Currently supports OFX 1.0.2.", "language": "Ruby", "repo": "ofx", "new_stars": 0, "stars": 111, "owner": "annacruz", "forks": 50}
 ]

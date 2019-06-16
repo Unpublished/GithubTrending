@@ -3,6 +3,8 @@ A scraper for github's trending pages based on maniac103's script
 """
 import scrapy
 
+REPO_LIST_PATH = "/html/body/div[4]/main/div[2]/div/div[1]/div/div[2]"
+
 
 class TrendingSpiderBase(scrapy.Spider):
     lang = "all"
@@ -13,16 +15,16 @@ class TrendingSpiderBase(scrapy.Spider):
         yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        repo_list = response.css(".repo-list")
-        for item in repo_list[0].css("li"):
+        repo_list = response.xpath(REPO_LIST_PATH)
+        for item in repo_list.xpath('article'):
             yield {
-                'owner':       item.xpath("div/h3/a/span/text()").re(r'[^\s\/]*')[0],
-                'repo':        self.to_string(item.xpath("div/h3/a/text()[2]")),
-                'description': self.to_string(item.xpath("div[3]/p/text()")),
-                'language':    self.to_string(item.xpath("div[4]/span/span[@itemprop='programmingLanguage']/text()")),
-                'stars':       self.to_int(item.xpath("div[4]/a[1]/text()[2]")),
-                'forks':       self.to_int(item.xpath("div[4]/a[2]/text()[2]")),
-                'new_stars':   self.to_int(item.xpath("div[4]/span[@class='d-inline-block float-sm-right']/text()"))
+                'owner':       item.xpath("h1/a/span/text()").re(r'[^\s\/]*')[0],
+                'repo':        self.to_string(item.xpath("h1/a/text()")),
+                'description': self.to_string(item.xpath("p/text()")),
+                'language':    self.to_string(item.xpath("div[2]/span/span[@itemprop='programmingLanguage']/text()")),
+                'stars':       self.to_int(item.xpath("div[2]/a[1]/text()[2]")),
+                'forks':       self.to_int(item.xpath("div[2]/a[2]/text()[2]")),
+                'new_stars':   self.to_int(item.xpath("div[2]/span[@class='d-inline-block float-sm-right']/text()"))
             }
 
     @staticmethod

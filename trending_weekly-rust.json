@@ -1,19 +1,19 @@
 [
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 104, "stars": 2333, "owner": "fastly", "forks": 74},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 85, "stars": 1531, "owner": "tree-sitter", "forks": 84},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 150, "stars": 14988, "owner": "BurntSushi", "forks": 608},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 151, "stars": 14989, "owner": "BurntSushi", "forks": 608},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1502, "stars": 1729, "owner": "pingcap", "forks": 168},
 {"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 35, "stars": 727, "owner": "rustasync", "forks": 20},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 73, "stars": 3597, "owner": "amethyst", "forks": 394},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 64, "stars": 5519, "owner": "mre", "forks": 650},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 129, "stars": 14055, "owner": "sharkdp", "forks": 265},
-{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 218, "stars": 1187, "owner": "nannou-org", "forks": 54},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 131, "stars": 14057, "owner": "sharkdp", "forks": 265},
+{"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 214, "stars": 1187, "owner": "nannou-org", "forks": 54},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 22, "stars": 453, "owner": "nervosnetwork", "forks": 66},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 20, "stars": 1198, "owner": "paritytech", "forks": 275},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 21, "stars": 1199, "owner": "paritytech", "forks": 275},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 49, "stars": 1294, "owner": "xiph", "forks": 90},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 24, "stars": 4204, "owner": "mimblewimble", "forks": 803},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 98, "stars": 11047, "owner": "rust-unofficial", "forks": 726},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 144, "stars": 6690, "owner": "valeriansaliou", "forks": 178},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 142, "stars": 6690, "owner": "valeriansaliou", "forks": 178},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 45, "stars": 4937, "owner": "tokio-rs", "forks": 383},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 61, "stars": 5375, "owner": "tikv", "forks": 767},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 27, "stars": 1067, "owner": "shadowsocks", "forks": 273},
@@ -23,5 +23,5 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 35, "stars": 2134, "owner": "rust-lang-nursery", "forks": 307},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 23, "stars": 2869, "owner": "clap-rs", "forks": 282},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 22, "stars": 301, "owner": "cloudflare", "forks": 27},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 139, "stars": 36819, "owner": "rust-lang", "forks": 5803}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 138, "stars": 36819, "owner": "rust-lang", "forks": 5803}
 ]

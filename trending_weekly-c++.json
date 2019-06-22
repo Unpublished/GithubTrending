@@ -6,10 +6,10 @@
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 102, "stars": 11906, "owner": "google", "forks": 4868},
 {"description": "Emscripten: An LLVM-to-Web Compiler", "language": "C++", "repo": "emscripten", "new_stars": 111, "stars": 17367, "owner": "emscripten-core", "forks": 2040},
 {"description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.", "language": "C++", "repo": "xbmc", "new_stars": 138, "stars": 9259, "owner": "xbmc", "forks": 5088},
-{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 103, "stars": 16372, "owner": "dmlc", "forks": 6746},
-{"description": "Convert HTML to PDF using Webkit (QtWebKit)", "language": "C++", "repo": "wkhtmltopdf", "new_stars": 46, "stars": 8336, "owner": "wkhtmltopdf", "forks": 1166},
+{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 104, "stars": 16373, "owner": "dmlc", "forks": 6746},
+{"description": "Convert HTML to PDF using Webkit (QtWebKit)", "language": "C++", "repo": "wkhtmltopdf", "new_stars": 45, "stars": 8336, "owner": "wkhtmltopdf", "forks": 1166},
 {"description": "High performance server-side application framework", "language": "C++", "repo": "seastar", "new_stars": 26, "stars": 4641, "owner": "scylladb", "forks": 919},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 272, "stars": 74471, "owner": "electron", "forks": 9726},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 274, "stars": 74473, "owner": "electron", "forks": 9727},
 {"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, Suse), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 53, "stars": 576, "owner": "xournalpp", "forks": 104},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 124, "stars": 21721, "owner": "grpc", "forks": 5044},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 259, "stars": 29229, "owner": "pytorch", "forks": 7061},
@@ -22,6 +22,6 @@
 {"description": "A toolkit for making real world machine learning and data analysis applications in C++", "language": "C++", "repo": "dlib", "new_stars": 42, "stars": 7439, "owner": "davisking", "forks": 2217},
 {"description": "32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required", "language": "C++", "repo": "BIGTREETECH-SKR-V1.3", "new_stars": 10, "stars": 115, "owner": "bigtreetech", "forks": 79},
 {"description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more", "language": "C++", "repo": "incubator-mxnet", "new_stars": 65, "stars": 17192, "owner": "apache", "forks": 6117},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 80, "stars": 6035, "owner": "gabime", "forks": 1320},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 81, "stars": 6036, "owner": "gabime", "forks": 1320},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 107, "stars": 10034, "owner": "envoyproxy", "forks": 1543}
 ]

@@ -1,12 +1,12 @@
 [
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 127, "stars": 3673, "owner": "amethyst", "forks": 400},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 30, "stars": 4216, "owner": "mimblewimble", "forks": 803},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 190, "stars": 36931, "owner": "rust-lang", "forks": 5812},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 190, "stars": 36931, "owner": "rust-lang", "forks": 5813},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 188, "stars": 15076, "owner": "BurntSushi", "forks": 607},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 61, "stars": 5552, "owner": "mre", "forks": 648},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 37, "stars": 4422, "owner": "rust-lang", "forks": 955},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 101, "stars": 11092, "owner": "rust-unofficial", "forks": 735},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 292, "stars": 1884, "owner": "pingcap", "forks": 179},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 38, "stars": 4423, "owner": "rust-lang", "forks": 955},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 99, "stars": 11092, "owner": "rust-unofficial", "forks": 735},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 291, "stars": 1885, "owner": "pingcap", "forks": 179},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 41, "stars": 2673, "owner": "maps4print", "forks": 101},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 31, "stars": 470, "owner": "nervosnetwork", "forks": 69},
 {"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 46, "stars": 744, "owner": "rustasync", "forks": 20},
@@ -21,7 +21,7 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 118, "stars": 4721, "owner": "rust-lang", "forks": 396},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 30, "stars": 1316, "owner": "xiph", "forks": 92},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 17, "stars": 4087, "owner": "diesel-rs", "forks": 388},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 45, "stars": 4961, "owner": "tokio-rs", "forks": 387},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 46, "stars": 4962, "owner": "tokio-rs", "forks": 387},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 37, "stars": 2355, "owner": "fastly", "forks": 75},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 93, "stars": 14101, "owner": "sharkdp", "forks": 264}
 ]

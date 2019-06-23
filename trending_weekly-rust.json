@@ -1,12 +1,12 @@
 [
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 125, "stars": 3686, "owner": "amethyst", "forks": 401},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 209, "stars": 36968, "owner": "rust-lang", "forks": 5817},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 210, "stars": 36968, "owner": "rust-lang", "forks": 5817},
 {"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 36, "stars": 746, "owner": "rustasync", "forks": 20},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 33, "stars": 4222, "owner": "mimblewimble", "forks": 804},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 40, "stars": 2677, "owner": "maps4print", "forks": 102},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 29, "stars": 3124, "owner": "gfx-rs", "forks": 364},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 181, "stars": 15083, "owner": "BurntSushi", "forks": 607},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 40, "stars": 4429, "owner": "rust-lang", "forks": 956},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 40, "stars": 4428, "owner": "rust-lang", "forks": 956},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 99, "stars": 11106, "owner": "rust-unofficial", "forks": 737},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 136, "stars": 16916, "owner": "jwilm", "forks": 748},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 56, "stars": 5556, "owner": "mre", "forks": 649},
@@ -19,9 +19,9 @@
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 31, "stars": 701, "owner": "rust-windowing", "forks": 224},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 28, "stars": 1017, "owner": "serde-rs", "forks": 178},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 17, "stars": 58, "owner": "input-output-hk", "forks": 26},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 44, "stars": 4390, "owner": "BurntSushi", "forks": 142},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 43, "stars": 4390, "owner": "BurntSushi", "forks": 142},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 47, "stars": 4971, "owner": "tokio-rs", "forks": 387},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 114, "stars": 4732, "owner": "rust-lang", "forks": 399},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 114, "stars": 4731, "owner": "rust-lang", "forks": 399},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 27, "stars": 2888, "owner": "clap-rs", "forks": 284},
 {"description": "A toolbox for zkSNARKs on Ethereum", "language": "Rust", "repo": "ZoKrates", "new_stars": 13, "stars": 682, "owner": "Zokrates", "forks": 156}
 ]

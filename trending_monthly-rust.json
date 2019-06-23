@@ -1,11 +1,11 @@
 [
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 108, "stars": 1208, "owner": "paritytech", "forks": 282},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 80, "stars": 474, "owner": "actix", "forks": 148},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1694, "stars": 1906, "owner": "pingcap", "forks": 179},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1695, "stars": 1907, "owner": "pingcap", "forks": 180},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 440, "stars": 4730, "owner": "rust-lang", "forks": 399},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 581, "stars": 4575, "owner": "actix", "forks": 319},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 725, "stars": 36965, "owner": "rust-lang", "forks": 5817},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 358, "stars": 3684, "owner": "amethyst", "forks": 401},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 725, "stars": 36966, "owner": "rust-lang", "forks": 5817},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 360, "stars": 3686, "owner": "amethyst", "forks": 401},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 223, "stars": 4971, "owner": "tokio-rs", "forks": 387},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 139, "stars": 1320, "owner": "xiph", "forks": 92},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 402, "stars": 11105, "owner": "rust-unofficial", "forks": 737},
@@ -13,7 +13,7 @@
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 113, "stars": 4091, "owner": "diesel-rs", "forks": 388},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 220, "stars": 5556, "owner": "mre", "forks": 649},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 415, "stars": 14112, "owner": "sharkdp", "forks": 266},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 179, "stars": 2935, "owner": "actix", "forks": 196},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 178, "stars": 2935, "owner": "actix", "forks": 196},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 60, "stars": 1073, "owner": "shadowsocks", "forks": 277},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 118, "stars": 4429, "owner": "rust-lang", "forks": 956},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 321, "stars": 1546, "owner": "tree-sitter", "forks": 85},
@@ -22,6 +22,6 @@
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 97, "stars": 247, "owner": "dtolnay", "forks": 36},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 51, "stars": 430, "owner": "paritytech", "forks": 97},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 163, "stars": 315, "owner": "cloudflare", "forks": 29},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 110, "stars": 4220, "owner": "mimblewimble", "forks": 803},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 111, "stars": 4221, "owner": "mimblewimble", "forks": 803},
 {"description": "A toolbox for zkSNARKs on Ethereum", "language": "Rust", "repo": "ZoKrates", "new_stars": 44, "stars": 682, "owner": "Zokrates", "forks": 156}
 ]

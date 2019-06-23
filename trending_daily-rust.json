@@ -1,19 +1,19 @@
 [
-{"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 30, "stars": 389, "owner": "jasonwilliams", "forks": 20},
+{"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 30, "stars": 390, "owner": "jasonwilliams", "forks": 21},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 3, "stars": 8496, "owner": "firecracker-microvm", "forks": 511},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 1, "stars": 794, "owner": "pingcap", "forks": 110},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 5, "stars": 57, "owner": "input-output-hk", "forks": 25},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 16, "stars": 1900, "owner": "pingcap", "forks": 178},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 36955, "owner": "rust-lang", "forks": 5815},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 36957, "owner": "rust-lang", "forks": 5815},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 1517, "owner": "seanmonstar", "forks": 238},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 7, "stars": 4572, "owner": "actix", "forks": 319},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 4428, "owner": "rust-lang", "forks": 955},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 14319, "owner": "servo", "forks": 2181},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 7, "stars": 3918, "owner": "rust-lang", "forks": 1072},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 12, "stars": 16907, "owner": "jwilm", "forks": 747},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 3918, "owner": "rust-lang", "forks": 1072},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 16908, "owner": "jwilm", "forks": 748},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 1, "stars": 474, "owner": "serenity-rs", "forks": 107},
-{"description": "A python inspired panic handler for rust", "language": "Rust", "repo": "better-panic", "new_stars": 18, "stars": 184, "owner": "mitsuhiko", "forks": 2},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 19, "stars": 16323, "owner": "xi-editor", "forks": 597},
+{"description": "A python inspired panic handler for rust", "language": "Rust", "repo": "better-panic", "new_stars": 17, "stars": 185, "owner": "mitsuhiko", "forks": 2},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 19, "stars": 16324, "owner": "xi-editor", "forks": 597},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 6, "stars": 697, "owner": "rust-windowing", "forks": 222},
 {"description": "Rust port of simdjson", "language": "Rust", "repo": "simdjson-rs", "new_stars": 2, "stars": 136, "owner": "Licenser", "forks": 5},
 {"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 13, "stars": 328, "owner": "johnthagen", "forks": 5},
@@ -23,5 +23,5 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 2, "stars": 2663, "owner": "rust-lang-nursery", "forks": 325},
 {"description": "Easy flamegraphs for Rust projects and everything else, without Perl or pipes <3", "language": "Rust", "repo": "flamegraph", "new_stars": 7, "stars": 471, "owner": "ferrous-systems", "forks": 15},
 {"description": "A nonsense activity generator", "language": "Rust", "repo": "genact", "new_stars": 2, "stars": 3604, "owner": "svenstaro", "forks": 154},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 6, "stars": 7317, "owner": "SergioBenitez", "forks": 490}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 7319, "owner": "SergioBenitez", "forks": 490}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "CLI that generates beautiful README.md files", "language": "JavaScript", "repo": "readme-md-generator", "new_stars": 2273, "stars": 3846, "owner": "kefranabg", "forks": 142},
+{"description": "CLI that generates beautiful README.md files", "language": "JavaScript", "repo": "readme-md-generator", "new_stars": 2270, "stars": 3847, "owner": "kefranabg", "forks": 142},
 {"description": "Kibana analytics and search dashboard for Elasticsearch", "language": "JavaScript", "repo": "kibana", "new_stars": 222, "stars": 12239, "owner": "elastic", "forks": 4735},
 {"description": "A well tested feature rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for over 20 Firebase services.", "language": "JavaScript", "repo": "react-native-firebase", "new_stars": 63, "stars": 5603, "owner": "invertase", "forks": 861},
-{"description": "\"The mother of all demo apps\" \u2014 Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more", "language": "JavaScript", "repo": "realworld", "new_stars": 623, "stars": 27850, "owner": "gothinkster", "forks": 1883},
-{"description": "Algorithms study materials, behavioral content and tips for rocking your coding interview", "language": "JavaScript", "repo": "tech-interview-handbook", "new_stars": 418, "stars": 28509, "owner": "yangshun", "forks": 3941},
+{"description": "\"The mother of all demo apps\" \u2014 Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more", "language": "JavaScript", "repo": "realworld", "new_stars": 622, "stars": 27850, "owner": "gothinkster", "forks": 1883},
+{"description": "Algorithms study materials, behavioral content and tips for rocking your coding interview", "language": "JavaScript", "repo": "tech-interview-handbook", "new_stars": 420, "stars": 28511, "owner": "yangshun", "forks": 3941},
 {"description": "\u524d\u7aef\u6280\u80fd\u6c47\u603b Frontend Knowledge Structure", "language": "JavaScript", "repo": "fks", "new_stars": 128, "stars": 14554, "owner": "JacksonTian", "forks": 4480},
 {"description": "\ud83e\udde0 Leon is your open-source personal assistant.", "language": "JavaScript", "repo": "leon", "new_stars": 152, "stars": 5617, "owner": "leon-ai", "forks": 324},
 {"description": "\u5fae\u4fe1\u6bcf\u65e5\u8bf4\uff0c\u722c\u866b\u811a\u672c\u6bcf\u5929\u5b9a\u65f6\u7ed9\u5973(\u7537)\u670b\u53cb\u53d1\u5fae\u4fe1\u6696\u5fc3\u6d88\u606f", "language": "JavaScript", "repo": "wechatBot", "new_stars": 179, "stars": 625, "owner": "gengchen528", "forks": 116},
@@ -12,7 +12,7 @@
 {"description": "Jumpserver\u662f\u5168\u7403\u9996\u6b3e\u5b8c\u5168\u5f00\u6e90\u7684\u5821\u5792\u673a\uff0c\u662f\u7b26\u5408 4A \u7684\u4e13\u4e1a\u8fd0\u7ef4\u5ba1\u8ba1\u7cfb\u7edf\u3002", "language": "JavaScript", "repo": "jumpserver", "new_stars": 252, "stars": 9223, "owner": "jumpserver", "forks": 2933},
 {"description": "A frontend Framework for building admin applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design", "language": "JavaScript", "repo": "react-admin", "new_stars": 282, "stars": 8504, "owner": "marmelab", "forks": 1859},
 {"description": "\u8c37\u6b4c\u8bbf\u95ee\u52a9\u624b\u7834\u89e3\u7248", "language": "JavaScript", "repo": "google-access-helper", "new_stars": 86, "stars": 1297, "owner": "haotian-wang", "forks": 418},
-{"description": "Set up a modern web app by running one command.", "language": "JavaScript", "repo": "create-react-app", "new_stars": 278, "stars": 68833, "owner": "facebook", "forks": 15636},
+{"description": "Set up a modern web app by running one command.", "language": "JavaScript", "repo": "create-react-app", "new_stars": 279, "stars": 68834, "owner": "facebook", "forks": 15636},
 {"description": "Standard Tooling for Vue.js Development", "language": "JavaScript", "repo": "vue-cli", "new_stars": 135, "stars": 21362, "owner": "vuejs", "forks": 3564},
 {"description": "Lightweight Mobile UI Components built on Vue", "language": "JavaScript", "repo": "vant", "new_stars": 139, "stars": 9121, "owner": "youzan", "forks": 2679},
 {"description": "Algorithms and data structures implemented in JavaScript with explanations and links to further readings", "language": "JavaScript", "repo": "javascript-algorithms", "new_stars": 269, "stars": 50006, "owner": "trekhleb", "forks": 7296},
@@ -22,6 +22,6 @@
 {"description": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL", "language": "JavaScript", "repo": "mapbox-gl-js", "new_stars": 59, "stars": 4520, "owner": "mapbox", "forks": 1079},
 {"description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.", "language": "JavaScript", "repo": "webpack", "new_stars": 177, "stars": 49535, "owner": "webpack", "forks": 6233},
 {"description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.", "language": "JavaScript", "repo": "uBlock", "new_stars": 443, "stars": 17193, "owner": "gorhill", "forks": 1412},
-{"description": "A framework for building native apps with React.", "language": "JavaScript", "repo": "react-native", "new_stars": 256, "stars": 78342, "owner": "facebook", "forks": 17509},
+{"description": "A framework for building native apps with React.", "language": "JavaScript", "repo": "react-native", "new_stars": 257, "stars": 78343, "owner": "facebook", "forks": 17509},
 {"description": "Tweak React components in real time.", "language": "JavaScript", "repo": "react-hot-loader", "new_stars": 61, "stars": 10670, "owner": "gaearon", "forks": 745}
 ]

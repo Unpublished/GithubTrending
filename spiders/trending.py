@@ -7,7 +7,7 @@ REPO_LIST_PATH = "/html/body/div[4]/main/div[2]/div/div[1]/div/div[2]"
 
 
 class TrendingSpiderBase(scrapy.Spider):
-    lang = "all"
+    lang = ""
     timeRange = ""
 
     def start_requests(self):

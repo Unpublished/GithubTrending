@@ -1,16 +1,16 @@
 [
-{"description": "The new Windows Terminal, and the original Windows console host -- all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 438, "stars": 46777, "owner": "microsoft", "forks": 4491},
+{"description": "The new Windows Terminal, and the original Windows console host -- all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 437, "stars": 46781, "owner": "microsoft", "forks": 4491},
 {"description": "Deepin Wine for Ubuntu/Debian", "language": "C++", "repo": "deepin-wine-ubuntu", "new_stars": 10, "stars": 2301, "owner": "wszqkzqk", "forks": 352},
-{"description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO", "language": "C++", "repo": "Sonoff-Tasmota", "new_stars": 15, "stars": 7082, "owner": "arendst", "forks": 1652},
-{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 29, "stars": 7275, "owner": "yuzu-emu", "forks": 484},
-{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 6, "stars": 3845, "owner": "monero-project", "forks": 2037},
+{"description": "Provide ESP8266 based itead Sonoff with Web, MQTT and OTA firmware using Arduino IDE or PlatformIO", "language": "C++", "repo": "Sonoff-Tasmota", "new_stars": 14, "stars": 7082, "owner": "arendst", "forks": 1652},
+{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 29, "stars": 7276, "owner": "yuzu-emu", "forks": 484},
+{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 5, "stars": 3845, "owner": "monero-project", "forks": 2037},
 {"description": "X-Ray Engine 1.6 expansion. Original version was used in S.T.A.L.K.E.R.: Call of Pripyat.", "language": "C++", "repo": "xray-16", "new_stars": 19, "stars": 844, "owner": "OpenXRay", "forks": 231},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 4, "stars": 5364, "owner": "dolphin-emu", "forks": 1264},
 {"description": "A Non-Euclidean Rendering Engine for 3D scenes.", "language": "C++", "repo": "NonEuclidean", "new_stars": 6, "stars": 1778, "owner": "HackerPoet", "forks": 152},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 16, "stars": 38919, "owner": "bitcoin", "forks": 23422},
 {"description": "Monero (XMR) CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 5, "stars": 2438, "owner": "xmrig", "forks": 1074},
 {"description": "OpenSCAD - The Programmers Solid 3D CAD Modeller", "language": "C++", "repo": "openscad", "new_stars": 3, "stars": 2775, "owner": "openscad", "forks": 661},
-{"description": "Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 34, "stars": 1931, "owner": "SerenityOS", "forks": 97},
+{"description": "Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 31, "stars": 1931, "owner": "SerenityOS", "forks": 97},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 22, "stars": 22880, "owner": "godotengine", "forks": 4474},
 {"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 4, "stars": 4085, "owner": "ArduPilot", "forks": 7928},
 {"description": "\u767e\u5ea6\u7f51\u76d8\u4e0b\u8f7d\u795e\u5668", "language": "C++", "repo": "baiduCDP", "new_stars": 5, "stars": 1346, "owner": "cool2528", "forks": 257},
@@ -20,8 +20,8 @@
 {"description": "A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction,for All Traffics(TCP/UDP/ICMP)", "language": "C++", "repo": "UDPspeeder", "new_stars": 5, "stars": 2566, "owner": "wangyu-", "forks": 499},
 {"description": "Extracts text from video games and visual novels. Highly extensible.", "language": "C++", "repo": "Textractor", "new_stars": 3, "stars": 162, "owner": "Artikash", "forks": 20},
 {"description": "ALVR is an open source remote VR display for Gear VR and Oculus Go. With it, you can play SteamVR games in your standalone headset.", "language": "C++", "repo": "ALVR", "new_stars": 6, "stars": 917, "owner": "polygraphene", "forks": 114},
-{"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at", "language": "C++", "repo": "FreeCAD", "new_stars": 3, "stars": 4003, "owner": "FreeCAD", "forks": 1388},
+{"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at", "language": "C++", "repo": "FreeCAD", "new_stars": 2, "stars": 4003, "owner": "FreeCAD", "forks": 1388},
 {"description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities", "language": "C++", "repo": "ORB_SLAM2", "new_stars": 7, "stars": 3899, "owner": "raulmur", "forks": 2616},
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 5, "stars": 6298, "owner": "ceph", "forks": 3177},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 15, "stars": 6620, "owner": "qbittorrent", "forks": 1135}
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 14, "stars": 6620, "owner": "qbittorrent", "forks": 1135}
 ]

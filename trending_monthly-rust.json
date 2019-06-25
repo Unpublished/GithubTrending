@@ -1,13 +1,13 @@
 [
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 428, "stars": 11143, "owner": "rust-unofficial", "forks": 739},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 78, "stars": 476, "owner": "actix", "forks": 148},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 285, "stars": 5049, "owner": "tokio-rs", "forks": 390},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 284, "stars": 5049, "owner": "tokio-rs", "forks": 390},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 732, "stars": 37023, "owner": "rust-lang", "forks": 5821},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1733, "stars": 1945, "owner": "pingcap", "forks": 186},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 104, "stars": 1209, "owner": "paritytech", "forks": 283},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 600, "stars": 4611, "owner": "actix", "forks": 321},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 231, "stars": 5417, "owner": "tikv", "forks": 775},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 360, "stars": 3696, "owner": "amethyst", "forks": 404},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 232, "stars": 5418, "owner": "tikv", "forks": 775},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 362, "stars": 3698, "owner": "amethyst", "forks": 404},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 113, "stars": 1324, "owner": "xiph", "forks": 92},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 82, "stars": 733, "owner": "rust-windowing", "forks": 231},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 218, "stars": 5563, "owner": "mre", "forks": 649},
@@ -23,5 +23,5 @@
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 118, "stars": 4230, "owner": "mimblewimble", "forks": 807},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 121, "stars": 4436, "owner": "rust-lang", "forks": 956},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 334, "stars": 1559, "owner": "tree-sitter", "forks": 85},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 109, "stars": 3072, "owner": "Geal", "forks": 342}
+{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 110, "stars": 3073, "owner": "Geal", "forks": 342}
 ]

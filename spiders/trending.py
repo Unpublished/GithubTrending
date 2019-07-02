@@ -3,7 +3,7 @@ A scraper for github's trending pages based on maniac103's script
 """
 import scrapy
 
-REPO_LIST_PATH = "/html/body/div[4]/main/div[2]/div/div[1]/div/div[2]"
+REPO_LIST_PATH = "/html/body/div[4]/main/div[3]/div/div[2]"
 
 
 class TrendingSpiderBase(scrapy.Spider):

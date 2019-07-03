@@ -4,10 +4,10 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 20, "stars": 8570, "owner": "firecracker-microvm", "forks": 517},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 1231, "owner": "paritytech", "forks": 291},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 2, "stars": 797, "owner": "librespot-org", "forks": 107},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 15, "stars": 7705, "owner": "DenisKolodin", "forks": 279},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 7705, "owner": "DenisKolodin", "forks": 279},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 21, "stars": 4010, "owner": "benfred", "forks": 148},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 12, "stars": 1023, "owner": "rust-analyzer", "forks": 118},
-{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 2, "stars": 3148, "owner": "gfx-rs", "forks": 367},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 12, "stars": 1024, "owner": "rust-analyzer", "forks": 118},
+{"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 3, "stars": 3149, "owner": "gfx-rs", "forks": 367},
 {"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 6, "stars": 668, "owner": "tower-rs", "forks": 45},
 {"description": "Darwinia relay chain for the Darwinia Network, can connect to Polkadot as parachain in Polkadot Model", "language": "Rust", "repo": "darwinia", "new_stars": 4, "stars": 20, "owner": "darwinia-network", "forks": 8},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 37211, "owner": "rust-lang", "forks": 5845},
@@ -19,9 +19,9 @@
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 2, "stars": 501, "owner": "actix", "forks": 155},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 6, "stars": 812, "owner": "pingcap", "forks": 116},
 {"description": "The core Holochain framework written in rust, a container API for running it (with rust and node implementations), and hdk-rust library for writing Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 0, "stars": 698, "owner": "holochain", "forks": 238},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 57, "stars": 246385, "owner": "996icu", "forks": 21339},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 58, "stars": 246385, "owner": "996icu", "forks": 21339},
 {"description": "RISC-V hypervisor written in Rust", "language": "Rust", "repo": "RVirt", "new_stars": 12, "stars": 69, "owner": "mit-pdos", "forks": 5},
 {"description": "A rust implementation of \"Ray Tracing in One Weekend\"", "language": "Rust", "repo": "weekend-raytracer-rust", "new_stars": 4, "stars": 23, "owner": "Nelarius", "forks": 3},
-{"description": "A Rust wrapper over the mimalloc memory allocator", "language": "Rust", "repo": "mimalloc_rust", "new_stars": 10, "stars": 33, "owner": "purpleprotocol", "forks": 1},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 619, "stars": 1116, "owner": "timberio", "forks": 23}
+{"description": "A Rust wrapper over the mimalloc memory allocator", "language": "Rust", "repo": "mimalloc_rust", "new_stars": 9, "stars": 33, "owner": "purpleprotocol", "forks": 1},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 591, "stars": 1118, "owner": "timberio", "forks": 23}
 ]

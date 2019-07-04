@@ -1,11 +1,11 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 46, "stars": 1026, "owner": "rust-analyzer", "forks": 118},
-{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 523, "stars": 1428, "owner": "indygreg", "forks": 39},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 186, "stars": 37230, "owner": "rust-lang", "forks": 5846},
+{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 521, "stars": 1428, "owner": "indygreg", "forks": 39},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 187, "stars": 37231, "owner": "rust-lang", "forks": 5845},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 83, "stars": 5173, "owner": "tokio-rs", "forks": 402},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 76, "stars": 7709, "owner": "DenisKolodin", "forks": 279},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 25, "stars": 465, "owner": "paritytech", "forks": 103},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 63, "stars": 8579, "owner": "firecracker-microvm", "forks": 520},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 24, "stars": 465, "owner": "paritytech", "forks": 103},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 63, "stars": 8580, "owner": "firecracker-microvm", "forks": 520},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 23, "stars": 4258, "owner": "mimblewimble", "forks": 818},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 30, "stars": 3965, "owner": "rust-lang", "forks": 1085},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 35, "stars": 4480, "owner": "rust-lang", "forks": 962},
@@ -14,14 +14,14 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 25, "stars": 4775, "owner": "hyperium", "forks": 712},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 51, "stars": 14402, "owner": "servo", "forks": 2192},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 21, "stars": 1555, "owner": "seanmonstar", "forks": 241},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 36, "stars": 3136, "owner": "Geal", "forks": 350},
+{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 35, "stars": 3136, "owner": "Geal", "forks": 350},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 61, "stars": 4016, "owner": "benfred", "forks": 149},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 126, "stars": 2988, "owner": "Peltoche", "forks": 95},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 31, "stars": 771, "owner": "rust-windowing", "forks": 236},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 18, "stars": 3083, "owner": "tokio-rs", "forks": 373},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 26, "stars": 503, "owner": "actix", "forks": 156},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 19, "stars": 1233, "owner": "paritytech", "forks": 293},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 19, "stars": 1233, "owner": "paritytech", "forks": 294},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 46, "stars": 5477, "owner": "tikv", "forks": 785},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 52, "stars": 6643, "owner": "ogham", "forks": 215},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 26, "stars": 4951, "owner": "uutils", "forks": 415}
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 26, "stars": 4951, "owner": "uutils", "forks": 414}
 ]

@@ -1,11 +1,11 @@
 [
-{"description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).", "language": "Python", "repo": "DeepFaceLab", "new_stars": 1013, "stars": 4163, "owner": "iperov", "forks": 1031},
+{"description": "DeepFaceLab is a tool that utilizes machine learning to replace faces in videos. Includes prebuilt ready to work standalone Windows 7,8,10 binary (look readme.md).", "language": "Python", "repo": "DeepFaceLab", "new_stars": 1012, "stars": 4165, "owner": "iperov", "forks": 1031},
 {"description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b\uff1a\u9762\u5411\u4e2d\u6587\u8bfb\u8005\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u8ba8\u8bba\u3002\u82f1\u6587\u7248\u5373\u4f2f\u514b\u5229\u201c\u6df1\u5ea6\u5b66\u4e60\u5bfc\u8bba\uff08STAT 157\uff09\u201d\u6559\u6750\u3002", "language": "Python", "repo": "d2l-zh", "new_stars": 1865, "stars": 9961, "owner": "d2l-ai", "forks": 2521},
 {"description": "Non official project based on original /r/Deepfakes thread. Many thanks to him!", "language": "Python", "repo": "faceswap", "new_stars": 1279, "stars": 20241, "owner": "deepfakes", "forks": 6732},
 {"description": "A complete and graceful API for Wechat. \u5fae\u4fe1\u4e2a\u4eba\u53f7\u63a5\u53e3\u3001\u5fae\u4fe1\u673a\u5668\u4eba\u53ca\u547d\u4ee4\u884c\u5fae\u4fe1\uff0c\u4e09\u5341\u884c\u5373\u53ef\u81ea\u5b9a\u4e49\u4e2a\u4eba\u53f7\u673a\u5668\u4eba\u3002", "language": "Python", "repo": "ItChat", "new_stars": 1086, "stars": 17649, "owner": "littlecodersh", "forks": 4081},
 {"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 4582, "stars": 68555, "owner": "donnemartin", "forks": 10564},
 {"description": "Open MMLab Detection Toolbox and Benchmark", "language": "Python", "repo": "mmdetection", "new_stars": 1037, "stars": 4762, "owner": "open-mmlab", "forks": 1296},
-{"description": "Advanced information gathering & OSINT tool for phone numbers.", "language": "Python", "repo": "PhoneInfoga", "new_stars": 295, "stars": 586, "owner": "sundowndev", "forks": 137},
+{"description": "Advanced information gathering & OSINT tool for phone numbers.", "language": "Python", "repo": "PhoneInfoga", "new_stars": 294, "stars": 586, "owner": "sundowndev", "forks": 137},
 {"description": "ChromeGo \u7ffb\u5899\u5de5\u5177\u5305", "language": "Python", "repo": "chromego", "new_stars": 146, "stars": 389, "owner": "killgcd", "forks": 175},
 {"description": "The Big-&-Extending-Repository-of-Transformers: Pretrained PyTorch models for Google's BERT, OpenAI GPT & GPT-2, Google/CMU Transformer-XL.", "language": "Python", "repo": "pytorch-pretrained-BERT", "new_stars": 980, "stars": 7608, "owner": "huggingface", "forks": 1944},
 {"description": "TensorFlow code and pre-trained models for BERT", "language": "Python", "repo": "bert", "new_stars": 990, "stars": 16347, "owner": "google-research", "forks": 4026},
@@ -19,9 +19,9 @@
 {"description": "Parallel computing with task scheduling", "language": "Python", "repo": "dask", "new_stars": 306, "stars": 5227, "owner": "dask", "forks": 822},
 {"description": "Interactive Web Plotting for Python", "language": "Python", "repo": "bokeh", "new_stars": 463, "stars": 9965, "owner": "bokeh", "forks": 2616},
 {"description": "\u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee", "language": "Python", "repo": "HelloGitHub", "new_stars": 1127, "stars": 13947, "owner": "521xueweihan", "forks": 1523},
-{"description": "A Python library for building robust production-ready data and analytics pipelines.", "language": "Python", "repo": "kedro", "new_stars": 1074, "stars": 1246, "owner": "quantumblacklabs", "forks": 86},
-{"description": "StyleGAN - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan", "new_stars": 394, "stars": 7093, "owner": "NVlabs", "forks": 1267},
-{"description": "A PyTorch implementation of EfficientNet", "language": "Python", "repo": "EfficientNet-PyTorch", "new_stars": 809, "stars": 1749, "owner": "lukemelas", "forks": 248},
+{"description": "A Python library for building robust production-ready data and analytics pipelines.", "language": "Python", "repo": "kedro", "new_stars": 1072, "stars": 1246, "owner": "quantumblacklabs", "forks": 86},
+{"description": "StyleGAN - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan", "new_stars": 395, "stars": 7094, "owner": "NVlabs", "forks": 1267},
+{"description": "A PyTorch implementation of EfficientNet", "language": "Python", "repo": "EfficientNet-PyTorch", "new_stars": 807, "stars": 1749, "owner": "lukemelas", "forks": 248},
 {"description": "Open MMLab Computer Vision Foundation", "language": "Python", "repo": "mmcv", "new_stars": 85, "stars": 895, "owner": "open-mmlab", "forks": 175},
 {"description": "Synapse: Matrix reference homeserver", "language": "Python", "repo": "synapse", "new_stars": 187, "stars": 4347, "owner": "matrix-org", "forks": 698}
 ]

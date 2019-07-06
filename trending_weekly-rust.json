@@ -1,12 +1,12 @@
 [
-{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 273, "stars": 1456, "owner": "indygreg", "forks": 39},
+{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 271, "stars": 1456, "owner": "indygreg", "forks": 39},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 61, "stars": 1052, "owner": "rust-analyzer", "forks": 118},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 178, "stars": 37272, "owner": "rust-lang", "forks": 5848},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 179, "stars": 37273, "owner": "rust-lang", "forks": 5848},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 53, "stars": 4023, "owner": "benfred", "forks": 149},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 84, "stars": 7729, "owner": "DenisKolodin", "forks": 281},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 25, "stars": 4262, "owner": "mimblewimble", "forks": 822},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 68, "stars": 5183, "owner": "tokio-rs", "forks": 404},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 23, "stars": 472, "owner": "paritytech", "forks": 103},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 69, "stars": 5184, "owner": "tokio-rs", "forks": 404},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 24, "stars": 473, "owner": "paritytech", "forks": 103},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 37, "stars": 4487, "owner": "rust-lang", "forks": 961},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 70, "stars": 8593, "owner": "firecracker-microvm", "forks": 521},
 {"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 71, "stars": 542, "owner": "jasonwilliams", "forks": 34},
@@ -22,6 +22,6 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 19, "stars": 1557, "owner": "seanmonstar", "forks": 243},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 14, "stars": 316, "owner": "hyperledger", "forks": 366},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 52, "stars": 16447, "owner": "xi-editor", "forks": 600},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 45, "stars": 6646, "owner": "ogham", "forks": 216},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 44, "stars": 6646, "owner": "ogham", "forks": 216},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 30, "stars": 3024, "owner": "rayon-rs", "forks": 196}
 ]

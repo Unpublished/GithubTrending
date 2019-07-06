@@ -1,6 +1,6 @@
 [
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 7, "stars": 1070, "owner": "ctz", "forks": 107},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 11, "stars": 16447, "owner": "xi-editor", "forks": 600},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 9, "stars": 16447, "owner": "xi-editor", "forks": 600},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 3, "stars": 3088, "owner": "tokio-rs", "forks": 373},
 {"description": "The Rust Implementation of libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 2, "stars": 825, "owner": "libp2p", "forks": 148},
 {"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 3, "stars": 904, "owner": "rustasync", "forks": 86},
@@ -16,12 +16,12 @@
 {"description": "Blockchain Rebuilt for Scale", "language": "Rust", "repo": "solana", "new_stars": 4, "stars": 474, "owner": "solana-labs", "forks": 96},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 2304, "owner": "rustwasm", "forks": 268},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 2, "stars": 316, "owner": "hyperledger", "forks": 366},
-{"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 6, "stars": 2001, "owner": "crossbeam-rs", "forks": 136},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 136, "stars": 1446, "owner": "timberio", "forks": 37},
+{"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 5, "stars": 2001, "owner": "crossbeam-rs", "forks": 136},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 130, "stars": 1447, "owner": "timberio", "forks": 37},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 6, "stars": 472, "owner": "paritytech", "forks": 103},
-{"description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.", "language": "Rust", "repo": "ripgrep-all", "new_stars": 7, "stars": 1111, "owner": "phiresky", "forks": 17},
+{"description": "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.", "language": "Rust", "repo": "ripgrep-all", "new_stars": 8, "stars": 1112, "owner": "phiresky", "forks": 17},
 {"description": "A toolbox for zkSNARKs on Ethereum", "language": "Rust", "repo": "ZoKrates", "new_stars": 1, "stars": 694, "owner": "Zokrates", "forks": 157},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 8, "stars": 4488, "owner": "rust-lang", "forks": 961},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 8, "stars": 4487, "owner": "rust-lang", "forks": 961},
 {"description": "An opinionated 2D game engine for Rust", "language": "Rust", "repo": "coffee", "new_stars": 1, "stars": 252, "owner": "hecrj", "forks": 11},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 2, "stars": 3514, "owner": "rust-lang", "forks": 467}
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 3, "stars": 3515, "owner": "rust-lang", "forks": 467}
 ]

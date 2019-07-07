@@ -1,13 +1,13 @@
 [
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 4705, "owner": "actix", "forks": 331},
-{"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 5, "stars": 85, "owner": "input-output-hk", "forks": 36},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 15242, "owner": "BurntSushi", "forks": 615},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 7, "stars": 4706, "owner": "actix", "forks": 331},
+{"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 85, "owner": "input-output-hk", "forks": 36},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 10, "stars": 15243, "owner": "BurntSushi", "forks": 615},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 11, "stars": 7739, "owner": "DenisKolodin", "forks": 283},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 7415, "owner": "SergioBenitez", "forks": 498},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 11, "stars": 14277, "owner": "sharkdp", "forks": 267},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 4, "stars": 9953, "owner": "sharkdp", "forks": 258},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 8, "stars": 3662, "owner": "RustPython", "forks": 214},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 3, "stars": 14412, "owner": "servo", "forks": 2193},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 7, "stars": 3662, "owner": "RustPython", "forks": 214},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 4, "stars": 14413, "owner": "servo", "forks": 2193},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 1561, "owner": "seanmonstar", "forks": 243},
 {"description": "High-performance log search engine.", "language": "Rust", "repo": "minsql", "new_stars": 7, "stars": 251, "owner": "minio", "forks": 20},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 3, "stars": 2695, "owner": "rust-lang-nursery", "forks": 326},
@@ -21,7 +21,7 @@
 {"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 1, "stars": 908, "owner": "rustasync", "forks": 86},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 5, "stars": 1058, "owner": "rust-analyzer", "forks": 119},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 3780, "owner": "amethyst", "forks": 408},
-{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 3, "stars": 3800, "owner": "wasmerio", "forks": 122},
+{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 2, "stars": 3800, "owner": "wasmerio", "forks": 122},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 2309, "owner": "rustwasm", "forks": 268},
-{"description": "An easy-to-use, 2D GUI library written entirely in Rust.", "language": "Rust", "repo": "conrod", "new_stars": 3, "stars": 2253, "owner": "PistonDevelopers", "forks": 222}
+{"description": "An easy-to-use, 2D GUI library written entirely in Rust.", "language": "Rust", "repo": "conrod", "new_stars": 2, "stars": 2253, "owner": "PistonDevelopers", "forks": 222}
 ]

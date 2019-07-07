@@ -5,16 +5,16 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 392, "stars": 11273, "owner": "rust-unofficial", "forks": 743},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 64, "stars": 1095, "owner": "shadowsocks", "forks": 285},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 735, "stars": 37283, "owner": "rust-lang", "forks": 5847},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1928, "stars": 2153, "owner": "pingcap", "forks": 212},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1929, "stars": 2154, "owner": "pingcap", "forks": 212},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 112, "stars": 772, "owner": "rust-windowing", "forks": 238},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 137, "stars": 1055, "owner": "rust-analyzer", "forks": 118},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 216, "stars": 5619, "owner": "mre", "forks": 654},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 216, "stars": 5620, "owner": "mre", "forks": 654},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 114, "stars": 1348, "owner": "xiph", "forks": 96},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 89, "stars": 509, "owner": "actix", "forks": 156},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 309, "stars": 3777, "owner": "amethyst", "forks": 408},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 308, "stars": 3777, "owner": "amethyst", "forks": 408},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 70, "stars": 475, "owner": "paritytech", "forks": 103},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 68, "stars": 492, "owner": "nervosnetwork", "forks": 76},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 206, "stars": 5487, "owner": "tikv", "forks": 789},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 207, "stars": 5488, "owner": "tikv", "forks": 789},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 126, "stars": 2212, "owner": "rust-lang-nursery", "forks": 316},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 129, "stars": 3973, "owner": "rust-lang", "forks": 1090},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 139, "stars": 4492, "owner": "rust-lang", "forks": 961},
@@ -23,5 +23,5 @@
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 123, "stars": 1076, "owner": "ctz", "forks": 108},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 109, "stars": 4145, "owner": "diesel-rs", "forks": 392},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 168, "stars": 2375, "owner": "fastly", "forks": 76},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 140, "stars": 2062, "owner": "getzola", "forks": 190}
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 139, "stars": 2062, "owner": "getzola", "forks": 190}
 ]

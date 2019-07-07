@@ -1,10 +1,10 @@
 [
-{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 48, "stars": 6031, "owner": "Homebrew", "forks": 6493},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 83, "stars": 43553, "owner": "rails", "forks": 17501},
+{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 47, "stars": 6031, "owner": "Homebrew", "forks": 6493},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 84, "stars": 43554, "owner": "rails", "forks": 17501},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 14, "stars": 4287, "owner": "rails", "forks": 891},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 26, "stars": 10332, "owner": "elastic", "forks": 2782},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 10, "stars": 11727, "owner": "CocoaPods", "forks": 2109},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 29, "stars": 8030, "owner": "fluent", "forks": 938},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 28, "stars": 8030, "owner": "fluent", "forks": 938},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 16, "stars": 5782, "owner": "puma", "forks": 987},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 20, "stars": 10122, "owner": "rubocop-hq", "forks": 2136},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 32, "stars": 6881, "owner": "github", "forks": 2470},
@@ -23,5 +23,5 @@
 {"description": "Generate Entity-Relationship Diagrams for Rails applications", "language": "Ruby", "repo": "rails-erd", "new_stars": 8, "stars": 3119, "owner": "voormedia", "forks": 296},
 {"description": "Core formulae for the Linuxbrew package manager", "language": "Ruby", "repo": "linuxbrew-core", "new_stars": 4, "stars": 531, "owner": "Homebrew", "forks": 224},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 8, "stars": 7411, "owner": "plataformatec", "forks": 1241},
-{"description": "A RuboCop extension focused on enforcing Rails best practices and coding conventions.", "language": "Ruby", "repo": "rubocop-rails", "new_stars": 15, "stars": 147, "owner": "rubocop-hq", "forks": 17}
+{"description": "A RuboCop extension focused on enforcing Rails best practices and coding conventions.", "language": "Ruby", "repo": "rubocop-rails", "new_stars": 14, "stars": 147, "owner": "rubocop-hq", "forks": 17}
 ]

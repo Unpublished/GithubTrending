@@ -1,7 +1,7 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 351, "stars": 5206, "owner": "tokio-rs", "forks": 404},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 350, "stars": 5206, "owner": "tokio-rs", "forks": 404},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 140, "stars": 3150, "owner": "Geal", "forks": 355},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 739, "stars": 37308, "owner": "rust-lang", "forks": 5852},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 738, "stars": 37308, "owner": "rust-lang", "forks": 5852},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 396, "stars": 11292, "owner": "rust-unofficial", "forks": 744},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 63, "stars": 1097, "owner": "shadowsocks", "forks": 286},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1949, "stars": 2175, "owner": "pingcap", "forks": 219},
@@ -20,7 +20,7 @@
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 73, "stars": 477, "owner": "paritytech", "forks": 104},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 165, "stars": 2377, "owner": "fastly", "forks": 76},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 109, "stars": 4434, "owner": "BurntSushi", "forks": 142},
-{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 131, "stars": 1086, "owner": "ctz", "forks": 108},
+{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 132, "stars": 1087, "owner": "ctz", "forks": 108},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 431, "stars": 14301, "owner": "sharkdp", "forks": 268},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 104, "stars": 359, "owner": "cloudflare", "forks": 33},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 116, "stars": 4152, "owner": "diesel-rs", "forks": 392}

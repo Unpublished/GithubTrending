@@ -1,19 +1,19 @@
 [
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 33, "stars": 3813, "owner": "amethyst", "forks": 412},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 35, "stars": 3815, "owner": "amethyst", "forks": 412},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 9, "stars": 3669, "owner": "RustPython", "forks": 215},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 15, "stars": 7755, "owner": "DenisKolodin", "forks": 284},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 7756, "owner": "DenisKolodin", "forks": 284},
 {"description": "A fast, practical GPU rasterizer for fonts and vector graphics", "language": "Rust", "repo": "pathfinder", "new_stars": 0, "stars": 1596, "owner": "servo", "forks": 75},
 {"description": "High-performance log search engine.", "language": "Rust", "repo": "minsql", "new_stars": 18, "stars": 270, "owner": "minio", "forks": 20},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 2, "stars": 1560, "owner": "ggez", "forks": 197},
 {"description": "A web application completely written in Rust.", "language": "Rust", "repo": "webapp.rs", "new_stars": 5, "stars": 959, "owner": "saschagrunert", "forks": 66},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 14, "stars": 4866, "owner": "rust-lang", "forks": 418},
-{"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 3, "stars": 785, "owner": "rustasync", "forks": 23},
+{"description": "Empowering everyone to build asynchronous software", "language": "Rust", "repo": "runtime", "new_stars": 4, "stars": 786, "owner": "rustasync", "forks": 23},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 4, "stars": 2009, "owner": "crossbeam-rs", "forks": 135},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 16, "stars": 37306, "owner": "rust-lang", "forks": 5851},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 37306, "owner": "rust-lang", "forks": 5851},
 {"description": "The Rust Implementation of libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 2, "stars": 832, "owner": "libp2p", "forks": 148},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 3, "stars": 5519, "owner": "paritytech", "forks": 1281},
 {"description": "Zero-details, privacy-focused in-app file system.", "language": "Rust", "repo": "zbox", "new_stars": 13, "stars": 970, "owner": "zboxfs", "forks": 33},
-{"description": "A collection of functional programming jargon explained in Rust", "language": "Rust", "repo": "functional-programming-jargon.rs", "new_stars": 30, "stars": 62, "owner": "JasonShin", "forks": 1},
+{"description": "A collection of functional programming jargon explained in Rust", "language": "Rust", "repo": "functional-programming-jargon.rs", "new_stars": 28, "stars": 62, "owner": "JasonShin", "forks": 1},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 7, "stars": 359, "owner": "cloudflare", "forks": 34},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 3, "stars": 1243, "owner": "paritytech", "forks": 301},
 {"description": "Idiomatic, GTK+-based, GUI library, inspired by Elm, written in Rust", "language": "Rust", "repo": "relm", "new_stars": 8, "stars": 1337, "owner": "antoyo", "forks": 51},
@@ -23,5 +23,5 @@
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 86, "owner": "input-output-hk", "forks": 37},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 3, "stars": 1927, "owner": "rustwasm", "forks": 111},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 12, "stars": 11291, "owner": "rust-unofficial", "forks": 744},
-{"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 12, "stars": 1047, "owner": "lotabout", "forks": 37}
+{"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 13, "stars": 1048, "owner": "lotabout", "forks": 37}
 ]

@@ -1,8 +1,8 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 357, "stars": 5213, "owner": "tokio-rs", "forks": 404},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 141, "stars": 3152, "owner": "Geal", "forks": 356},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 742, "stars": 37316, "owner": "rust-lang", "forks": 5852},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 400, "stars": 11301, "owner": "rust-unofficial", "forks": 744},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 743, "stars": 37317, "owner": "rust-lang", "forks": 5852},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 399, "stars": 11301, "owner": "rust-unofficial", "forks": 744},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 62, "stars": 1097, "owner": "shadowsocks", "forks": 288},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1955, "stars": 2181, "owner": "pingcap", "forks": 220},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 104, "stars": 4270, "owner": "mimblewimble", "forks": 825},
@@ -10,10 +10,10 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 143, "stars": 1065, "owner": "rust-analyzer", "forks": 119},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 73, "stars": 498, "owner": "nervosnetwork", "forks": 75},
 {"description": "The fastest and safest AV1 encoder.", "language": "Rust", "repo": "rav1e", "new_stars": 116, "stars": 1352, "owner": "xiph", "forks": 96},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 341, "stars": 3830, "owner": "amethyst", "forks": 413},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 340, "stars": 3830, "owner": "amethyst", "forks": 413},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 98, "stars": 2932, "owner": "clap-rs", "forks": 288},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 208, "stars": 5498, "owner": "tikv", "forks": 789},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 139, "stars": 2229, "owner": "rust-lang-nursery", "forks": 316},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 208, "stars": 5498, "owner": "tikv", "forks": 790},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 138, "stars": 2228, "owner": "rust-lang-nursery", "forks": 316},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 135, "stars": 3984, "owner": "rust-lang", "forks": 1090},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 70, "stars": 509, "owner": "actix", "forks": 158},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 83, "stars": 1245, "owner": "paritytech", "forks": 301},
@@ -21,7 +21,7 @@
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 166, "stars": 2378, "owner": "fastly", "forks": 76},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 110, "stars": 4435, "owner": "BurntSushi", "forks": 142},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 135, "stars": 1090, "owner": "ctz", "forks": 109},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 436, "stars": 14308, "owner": "sharkdp", "forks": 268},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 437, "stars": 14309, "owner": "sharkdp", "forks": 268},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 105, "stars": 361, "owner": "cloudflare", "forks": 33},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 121, "stars": 4159, "owner": "diesel-rs", "forks": 393}
 ]

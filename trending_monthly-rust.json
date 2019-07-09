@@ -1,11 +1,11 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 353, "stars": 5209, "owner": "tokio-rs", "forks": 404},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 140, "stars": 3151, "owner": "Geal", "forks": 356},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 742, "stars": 37313, "owner": "rust-lang", "forks": 5853},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 400, "stars": 11297, "owner": "rust-unofficial", "forks": 744},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 741, "stars": 37313, "owner": "rust-lang", "forks": 5853},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 399, "stars": 11297, "owner": "rust-unofficial", "forks": 744},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 63, "stars": 1097, "owner": "shadowsocks", "forks": 287},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1951, "stars": 2177, "owner": "pingcap", "forks": 220},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 109, "stars": 4269, "owner": "mimblewimble", "forks": 825},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1952, "stars": 2178, "owner": "pingcap", "forks": 220},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 108, "stars": 4269, "owner": "mimblewimble", "forks": 825},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 114, "stars": 773, "owner": "rust-windowing", "forks": 239},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 141, "stars": 1063, "owner": "rust-analyzer", "forks": 119},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 73, "stars": 497, "owner": "nervosnetwork", "forks": 75},
@@ -21,7 +21,7 @@
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 166, "stars": 2378, "owner": "fastly", "forks": 76},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 110, "stars": 4435, "owner": "BurntSushi", "forks": 142},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 135, "stars": 1090, "owner": "ctz", "forks": 109},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 431, "stars": 14304, "owner": "sharkdp", "forks": 268},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 105, "stars": 360, "owner": "cloudflare", "forks": 33},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 431, "stars": 14303, "owner": "sharkdp", "forks": 268},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 106, "stars": 361, "owner": "cloudflare", "forks": 33},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 122, "stars": 4159, "owner": "diesel-rs", "forks": 393}
 ]

@@ -1,10 +1,10 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 355, "stars": 5211, "owner": "tokio-rs", "forks": 404},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 140, "stars": 3151, "owner": "Geal", "forks": 356},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 741, "stars": 37313, "owner": "rust-lang", "forks": 5852},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 740, "stars": 37313, "owner": "rust-lang", "forks": 5852},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 398, "stars": 11298, "owner": "rust-unofficial", "forks": 744},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 62, "stars": 1097, "owner": "shadowsocks", "forks": 287},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1954, "stars": 2180, "owner": "pingcap", "forks": 220},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 1955, "stars": 2181, "owner": "pingcap", "forks": 220},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 107, "stars": 4270, "owner": "mimblewimble", "forks": 825},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 114, "stars": 773, "owner": "rust-windowing", "forks": 239},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 142, "stars": 1064, "owner": "rust-analyzer", "forks": 119},
@@ -21,7 +21,7 @@
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 166, "stars": 2378, "owner": "fastly", "forks": 76},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 110, "stars": 4435, "owner": "BurntSushi", "forks": 142},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 135, "stars": 1090, "owner": "ctz", "forks": 109},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 433, "stars": 14305, "owner": "sharkdp", "forks": 268},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 435, "stars": 14307, "owner": "sharkdp", "forks": 268},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 106, "stars": 361, "owner": "cloudflare", "forks": 33},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 122, "stars": 4159, "owner": "diesel-rs", "forks": 393}
 ]

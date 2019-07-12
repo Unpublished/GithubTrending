@@ -1,6 +1,6 @@
 [
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 15, "stars": 4822, "owner": "hyperium", "forks": 719},
-{"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 7, "stars": 1311, "owner": "sfackler", "forks": 137},
+{"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 9, "stars": 1313, "owner": "sfackler", "forks": 137},
 {"description": "a simple {bash, zsh} prompt for programmers", "language": "Rust", "repo": "pista", "new_stars": 11, "stars": 105, "owner": "NerdyPepper", "forks": 6},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 8644, "owner": "firecracker-microvm", "forks": 527},
 {"description": "ranger-like file browser written in rust", "language": "Rust", "repo": "hunter", "new_stars": 15, "stars": 636, "owner": "rabite0", "forks": 17},
@@ -20,7 +20,7 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 37369, "owner": "rust-lang", "forks": 5860},
 {"description": "Error management", "language": "Rust", "repo": "failure", "new_stars": 1, "stars": 1198, "owner": "rust-lang-nursery", "forks": 124},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 9, "stars": 2769, "owner": "maps4print", "forks": 110},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 4740, "owner": "actix", "forks": 339},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 4741, "owner": "actix", "forks": 339},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 5, "stars": 2089, "owner": "getzola", "forks": 193},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 8, "stars": 4918, "owner": "rust-lang", "forks": 426},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 3, "stars": 3099, "owner": "tokio-rs", "forks": 375}

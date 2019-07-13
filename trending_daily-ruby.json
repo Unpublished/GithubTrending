@@ -6,9 +6,9 @@
 {"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 5, "stars": 15596, "owner": "Homebrew", "forks": 7362},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 3, "stars": 8876, "owner": "ruby-grape", "forks": 1092},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 2, "stars": 1659, "owner": "zammad", "forks": 309},
-{"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 1, "stars": 923, "owner": "elastic", "forks": 538},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 5, "stars": 11747, "owner": "CocoaPods", "forks": 2111},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 43605, "owner": "rails", "forks": 17528},
+{"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 0, "stars": 923, "owner": "elastic", "forks": 538},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 4, "stars": 11747, "owner": "CocoaPods", "forks": 2111},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 43605, "owner": "rails", "forks": 17529},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 0, "stars": 6536, "owner": "thoughtbot", "forks": 1826},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 1, "stars": 1629, "owner": "github", "forks": 575},
 {"description": "Analytics for Rails", "language": "Ruby", "repo": "ahoy", "new_stars": 1, "stars": 2717, "owner": "ankane", "forks": 268},
@@ -22,6 +22,6 @@
 {"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 2, "stars": 10615, "owner": "sinatra", "forks": 1905},
 {"description": "This tool is used to map out the network data flow to help penetration testers identify potentially valuable targets.", "language": "Ruby", "repo": "leprechaun", "new_stars": 2, "stars": 157, "owner": "vonahi-security", "forks": 19},
 {"description": "Shopify App CLI helps you build Shopify apps faster.", "language": "Ruby", "repo": "shopify-app-cli", "new_stars": 0, "stars": 67, "owner": "Shopify", "forks": 8},
-{"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 0, "stars": 3417, "owner": "redmine", "forks": 1866},
+{"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 1, "stars": 3418, "owner": "redmine", "forks": 1866},
 {"description": "Server automation framework and application", "language": "Ruby", "repo": "puppet", "new_stars": 3, "stars": 5372, "owner": "puppetlabs", "forks": 2105}
 ]

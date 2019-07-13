@@ -6,10 +6,10 @@
 {"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 2, "stars": 6602, "owner": "squizlabs", "forks": 1089},
 {"description": "A simple library to work with JSON Web Token and JSON Web Signature", "language": "PHP", "repo": "jwt", "new_stars": 3, "stars": 4400, "owner": "lcobucci", "forks": 365},
 {"description": "Better Markdown Parser in PHP", "language": "PHP", "repo": "parsedown", "new_stars": 4, "stars": 11302, "owner": "erusev", "forks": 893},
-{"description": "Community-based GPL-licensed network monitoring system", "language": "PHP", "repo": "librenms", "new_stars": 2, "stars": 1528, "owner": "librenms", "forks": 1107},
+{"description": "Community-based GPL-licensed network monitoring system", "language": "PHP", "repo": "librenms", "new_stars": 3, "stars": 1529, "owner": "librenms", "forks": 1107},
 {"description": "PHP Image Manipulation", "language": "PHP", "repo": "image", "new_stars": 4, "stars": 9522, "owner": "Intervention", "forks": 1086},
 {"description": "An open source status page system for everyone.", "language": "PHP", "repo": "Cachet", "new_stars": 1, "stars": 9993, "owner": "CachetHQ", "forks": 1157},
-{"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 6, "stars": 14343, "owner": "sebastianbergmann", "forks": 1754},
+{"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 7, "stars": 14344, "owner": "sebastianbergmann", "forks": 1754},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 2, "stars": 3814, "owner": "PrestaShop", "forks": 3244},
 {"description": null, "language": "PHP", "repo": "passport", "new_stars": 1, "stars": 1998, "owner": "laravel", "forks": 476},
 {"description": "A server side OAuth2 Bundle for Symfony2", "language": "PHP", "repo": "FOSOAuthServerBundle", "new_stars": 0, "stars": 941, "owner": "FriendsOfSymfony", "forks": 348},
@@ -21,7 +21,7 @@
 {"description": "Highly opinionated mocking framework for PHP 5.3+", "language": "PHP", "repo": "prophecy", "new_stars": 1, "stars": 6603, "owner": "phpspec", "forks": 190},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 2, "stars": 6569, "owner": "doctrine", "forks": 2114},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 3, "stars": 21138, "owner": "symfony", "forks": 7031},
-{"description": "Model Settings for your Laravel app", "language": "PHP", "repo": "laravel-model-settings", "new_stars": 13, "stars": 121, "owner": "glorand", "forks": 5},
+{"description": "Model Settings for your Laravel app", "language": "PHP", "repo": "laravel-model-settings", "new_stars": 13, "stars": 122, "owner": "glorand", "forks": 5},
 {"description": "HTTPlug, the HTTP client abstraction for PHP", "language": "PHP", "repo": "httplug", "new_stars": 0, "stars": 1613, "owner": "php-http", "forks": 22},
 {"description": "Promise used for asynchronous HTTP requests", "language": "PHP", "repo": "promise", "new_stars": 0, "stars": 1008, "owner": "php-http", "forks": 2}
 ]

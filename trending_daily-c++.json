@@ -1,13 +1,13 @@
 [
-{"description": "Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.", "language": "C++", "repo": "hermes", "new_stars": 409, "stars": 2562, "owner": "facebook", "forks": 60},
-{"description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines", "language": "C++", "repo": "mediapipe", "new_stars": 46, "stars": 292, "owner": "google", "forks": 44},
+{"description": "Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.", "language": "C++", "repo": "hermes", "new_stars": 417, "stars": 2574, "owner": "facebook", "forks": 60},
+{"description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines", "language": "C++", "repo": "mediapipe", "new_stars": 44, "stars": 293, "owner": "google", "forks": 44},
 {"description": "The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.", "language": "C++", "repo": "cpprestsdk", "new_stars": 15, "stars": 4178, "owner": "microsoft", "forks": 1038},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 19, "stars": 7015, "owner": "facebookresearch", "forks": 1312},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 9, "stars": 48490, "owner": "apple", "forks": 7774},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 54, "stars": 130853, "owner": "tensorflow", "forks": 76055},
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 8, "stars": 48490, "owner": "apple", "forks": 7774},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 56, "stars": 130855, "owner": "tensorflow", "forks": 76055},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 15, "stars": 29792, "owner": "pytorch", "forks": 7233},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 28, "stars": 28353, "owner": "tesseract-ocr", "forks": 5404},
-{"description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.", "language": "C++", "repo": "bgfx", "new_stars": 2, "stars": 6460, "owner": "bkaradzic", "forks": 1049},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 27, "stars": 28353, "owner": "tesseract-ocr", "forks": 5404},
+{"description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.", "language": "C++", "repo": "bgfx", "new_stars": 3, "stars": 6461, "owner": "bkaradzic", "forks": 1049},
 {"description": "Free open-source non-linear video editor", "language": "C++", "repo": "olive", "new_stars": 7, "stars": 2093, "owner": "olive-editor", "forks": 168},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 16, "stars": 22102, "owner": "grpc", "forks": 5146},
 {"description": "OpenThread released by Google is an open-source implementation of the Thread networking protocol", "language": "C++", "repo": "openthread", "new_stars": 2, "stars": 1923, "owner": "openthread", "forks": 586},
@@ -22,6 +22,6 @@
 {"description": "Official Intel(R) Threading Building Blocks (Intel TBB) GitHub repository.", "language": "C++", "repo": "tbb", "new_stars": 3, "stars": 1304, "owner": "intel", "forks": 289},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 25, "stars": 3736, "owner": "google", "forks": 566},
 {"description": "A fast compressor/decompressor", "language": "C++", "repo": "snappy", "new_stars": 5, "stars": 3535, "owner": "google", "forks": 607},
-{"description": "Intel(R) Math Kernel Library for Deep Neural Networks (Intel(R) MKL-DNN)", "language": "C++", "repo": "mkl-dnn", "new_stars": 1, "stars": 1490, "owner": "intel", "forks": 360},
+{"description": "Intel(R) Math Kernel Library for Deep Neural Networks (Intel(R) MKL-DNN)", "language": "C++", "repo": "mkl-dnn", "new_stars": 0, "stars": 1490, "owner": "intel", "forks": 360},
 {"description": "ESP8266 WiFi Connection manager with web captive portal", "language": "C++", "repo": "WiFiManager", "new_stars": 2, "stars": 3360, "owner": "tzapu", "forks": 991}
 ]

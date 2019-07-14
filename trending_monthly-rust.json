@@ -1,10 +1,10 @@
 [
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 384, "stars": 5282, "owner": "tokio-rs", "forks": 413},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 153, "stars": 3178, "owner": "Geal", "forks": 357},
+{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 154, "stars": 3179, "owner": "Geal", "forks": 357},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 140, "stars": 4844, "owner": "hyperium", "forks": 723},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 756, "stars": 37419, "owner": "rust-lang", "forks": 5869},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 757, "stars": 37421, "owner": "rust-lang", "forks": 5869},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 404, "stars": 11374, "owner": "rust-unofficial", "forks": 751},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 673, "stars": 2233, "owner": "pingcap", "forks": 230},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 671, "stars": 2233, "owner": "pingcap", "forks": 230},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 104, "stars": 4276, "owner": "mimblewimble", "forks": 825},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 153, "stars": 1084, "owner": "rust-analyzer", "forks": 120},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 334, "stars": 3861, "owner": "amethyst", "forks": 411},
@@ -15,13 +15,13 @@
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 68, "stars": 524, "owner": "actix", "forks": 161},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 78, "stars": 512, "owner": "nervosnetwork", "forks": 76},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 68, "stars": 3106, "owner": "tokio-rs", "forks": 375},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 77, "stars": 492, "owner": "paritytech", "forks": 108},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 77, "stars": 491, "owner": "paritytech", "forks": 108},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 111, "stars": 4450, "owner": "BurntSushi", "forks": 142},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 97, "stars": 2944, "owner": "clap-rs", "forks": 288},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 493, "stars": 15350, "owner": "BurntSushi", "forks": 622},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 217, "stars": 7461, "owner": "SergioBenitez", "forks": 503},
-{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 138, "stars": 1098, "owner": "ctz", "forks": 110},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 218, "stars": 7462, "owner": "SergioBenitez", "forks": 503},
+{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 138, "stars": 1097, "owner": "ctz", "forks": 110},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 107, "stars": 3185, "owner": "gfx-rs", "forks": 374},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 112, "stars": 777, "owner": "rust-windowing", "forks": 240},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 148, "stars": 2101, "owner": "getzola", "forks": 194}
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 148, "stars": 2101, "owner": "getzola", "forks": 195}
 ]

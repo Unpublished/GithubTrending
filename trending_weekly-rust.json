@@ -1,9 +1,9 @@
 [
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 64, "stars": 4844, "owner": "hyperium", "forks": 723},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 86, "stars": 8675, "owner": "firecracker-microvm", "forks": 530},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 44, "stars": 3702, "owner": "RustPython", "forks": 218},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 45, "stars": 3703, "owner": "RustPython", "forks": 218},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 97, "stars": 4950, "owner": "rust-lang", "forks": 432},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 26, "stars": 1588, "owner": "seanmonstar", "forks": 249},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 27, "stars": 1588, "owner": "seanmonstar", "forks": 249},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 54, "stars": 3036, "owner": "actix", "forks": 196},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 87, "stars": 5282, "owner": "tokio-rs", "forks": 413},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 97, "stars": 10045, "owner": "sharkdp", "forks": 260},
@@ -22,6 +22,6 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 53, "stars": 14462, "owner": "servo", "forks": 2200},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 54, "stars": 6703, "owner": "ogham", "forks": 214},
 {"description": "A gRPC client & server implementation.", "language": "Rust", "repo": "tower-grpc", "new_stars": 13, "stars": 425, "owner": "tower-rs", "forks": 59},
-{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 26, "stars": 5410, "owner": "citybound", "forks": 165},
+{"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 27, "stars": 5411, "owner": "citybound", "forks": 165},
 {"description": "Blender integrated game engine built on Amethyst and Rust.", "language": "Rust", "repo": "arsenal", "new_stars": 20, "stars": 55, "owner": "katharostech", "forks": 1}
 ]

@@ -8,14 +8,14 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 86, "stars": 5282, "owner": "tokio-rs", "forks": 413},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 97, "stars": 10045, "owner": "sharkdp", "forks": 260},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 38, "stars": 2101, "owner": "getzola", "forks": 195},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 56, "stars": 2792, "owner": "maps4print", "forks": 111},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 76, "stars": 3861, "owner": "amethyst", "forks": 411},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 57, "stars": 2793, "owner": "maps4print", "forks": 111},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 74, "stars": 3861, "owner": "amethyst", "forks": 411},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 17, "stars": 1876, "owner": "CraneStation", "forks": 151},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 48, "stars": 2553, "owner": "tantivy-search", "forks": 140},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 25, "stars": 2319, "owner": "serde-rs", "forks": 261},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 140, "stars": 37421, "owner": "rust-lang", "forks": 5869},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 111, "stars": 15350, "owner": "BurntSushi", "forks": 622},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 18, "stars": 5531, "owner": "paritytech", "forks": 1286},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 110, "stars": 15350, "owner": "BurntSushi", "forks": 622},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 19, "stars": 5532, "owner": "paritytech", "forks": 1286},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 83, "stars": 7821, "owner": "DenisKolodin", "forks": 286},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 28, "stars": 1759, "owner": "servo", "forks": 211},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 53, "stars": 3853, "owner": "wasmerio", "forks": 128},
@@ -23,5 +23,5 @@
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 54, "stars": 6703, "owner": "ogham", "forks": 214},
 {"description": "A gRPC client & server implementation.", "language": "Rust", "repo": "tower-grpc", "new_stars": 13, "stars": 425, "owner": "tower-rs", "forks": 59},
 {"description": "A work-in-progress, open-source, multi-player city simulation game.", "language": "Rust", "repo": "citybound", "new_stars": 27, "stars": 5411, "owner": "citybound", "forks": 165},
-{"description": "Blender integrated game engine built on Amethyst and Rust.", "language": "Rust", "repo": "arsenal", "new_stars": 20, "stars": 55, "owner": "katharostech", "forks": 1}
+{"description": "Blender integrated game engine built on Amethyst and Rust.", "language": "Rust", "repo": "arsenal", "new_stars": 21, "stars": 56, "owner": "katharostech", "forks": 1}
 ]

@@ -1,19 +1,19 @@
 [
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 392, "stars": 5303, "owner": "tokio-rs", "forks": 416},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 155, "stars": 4863, "owner": "hyperium", "forks": 722},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 783, "stars": 37483, "owner": "rust-lang", "forks": 5877},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 401, "stars": 11393, "owner": "rust-unofficial", "forks": 753},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 393, "stars": 5304, "owner": "tokio-rs", "forks": 416},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 157, "stars": 4865, "owner": "hyperium", "forks": 722},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 782, "stars": 37483, "owner": "rust-lang", "forks": 5877},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 402, "stars": 11394, "owner": "rust-unofficial", "forks": 753},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 160, "stars": 3187, "owner": "Geal", "forks": 358},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 108, "stars": 1600, "owner": "seanmonstar", "forks": 250},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 186, "stars": 6730, "owner": "ogham", "forks": 218},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 166, "stars": 1106, "owner": "rust-analyzer", "forks": 122},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 114, "stars": 779, "owner": "rust-windowing", "forks": 241},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 163, "stars": 4030, "owner": "rust-lang", "forks": 1098},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 333, "stars": 3883, "owner": "amethyst", "forks": 415},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 164, "stars": 4031, "owner": "rust-lang", "forks": 1098},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 332, "stars": 3883, "owner": "amethyst", "forks": 415},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 163, "stars": 4077, "owner": "benfred", "forks": 153},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 108, "stars": 4285, "owner": "mimblewimble", "forks": 823},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 176, "stars": 2804, "owner": "maps4print", "forks": 112},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 657, "stars": 2283, "owner": "pingcap", "forks": 239},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 658, "stars": 2285, "owner": "pingcap", "forks": 239},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 67, "stars": 3108, "owner": "tokio-rs", "forks": 376},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 239, "stars": 7485, "owner": "SergioBenitez", "forks": 504},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 82, "stars": 497, "owner": "paritytech", "forks": 108},
@@ -23,5 +23,5 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 157, "stars": 3046, "owner": "actix", "forks": 197},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 91, "stars": 1275, "owner": "paritytech", "forks": 305},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 120, "stars": 2241, "owner": "rust-lang-nursery", "forks": 319},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 205, "stars": 5551, "owner": "tikv", "forks": 800}
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 204, "stars": 5551, "owner": "tikv", "forks": 800}
 ]

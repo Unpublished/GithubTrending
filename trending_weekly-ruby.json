@@ -1,13 +1,13 @@
 [
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 20, "stars": 7241, "owner": "Shopify", "forks": 945},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 78, "stars": 15562, "owner": "kilimchoi", "forks": 1803},
-{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 75, "stars": 20981, "owner": "freeCodeCamp", "forks": 1371},
+{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 75, "stars": 20982, "owner": "freeCodeCamp", "forks": 1371},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 23, "stars": 7838, "owner": "stympy", "forks": 2040},
 {"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 18, "stars": 10622, "owner": "sinatra", "forks": 1907},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 73, "stars": 43639, "owner": "rails", "forks": 17551},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 73, "stars": 43639, "owner": "rails", "forks": 17550},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 89, "stars": 17060, "owner": "rapid7", "forks": 8396},
 {"description": "Fluentd daemonset for Kubernetes and it Docker image", "language": "Ruby", "repo": "fluentd-kubernetes-daemonset", "new_stars": 10, "stars": 486, "owner": "fluent", "forks": 438},
-{"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 22, "stars": 628, "owner": "dependabot", "forks": 117},
+{"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 23, "stars": 629, "owner": "dependabot", "forks": 117},
 {"description": "Remote multi-server automation tool", "language": "Ruby", "repo": "capistrano", "new_stars": 25, "stars": 11108, "owner": "capistrano", "forks": 1713},
 {"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 68, "stars": 9087, "owner": "atech", "forks": 534},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 6, "stars": 4361, "owner": "doorkeeper-gem", "forks": 867},
@@ -22,6 +22,6 @@
 {"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 9, "stars": 929, "owner": "elastic", "forks": 541},
 {"description": "Core formulae for the Linuxbrew package manager", "language": "Ruby", "repo": "linuxbrew-core", "new_stars": 7, "stars": 541, "owner": "Homebrew", "forks": 230},
 {"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 21, "stars": 239, "owner": "samber", "forks": 32},
-{"description": "Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.", "language": "Ruby", "repo": "devise_token_auth", "new_stars": 7, "stars": 2773, "owner": "lynndylanhurley", "forks": 853},
+{"description": "Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.", "language": "Ruby", "repo": "devise_token_auth", "new_stars": 7, "stars": 2773, "owner": "lynndylanhurley", "forks": 852},
 {"description": "A Ruby client library for Apache Kafka", "language": "Ruby", "repo": "ruby-kafka", "new_stars": 5, "stars": 810, "owner": "zendesk", "forks": 237}
 ]

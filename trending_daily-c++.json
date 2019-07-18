@@ -1,10 +1,10 @@
 [
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 46, "stars": 12289, "owner": "google", "forks": 4968},
-{"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 8, "stars": 1726, "owner": "intel-isl", "forks": 403},
-{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 13, "stars": 6847, "owner": "Tencent", "forks": 1820},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 24, "stars": 23305, "owner": "godotengine", "forks": 4564},
-{"description": "Elements C++ GUI library", "language": "C++", "repo": "elements", "new_stars": 17, "stars": 467, "owner": "cycfi", "forks": 26},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 18, "stars": 14570, "owner": "nlohmann", "forks": 2476},
+{"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 7, "stars": 1726, "owner": "intel-isl", "forks": 403},
+{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 14, "stars": 6848, "owner": "Tencent", "forks": 1820},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 25, "stars": 23306, "owner": "godotengine", "forks": 4564},
+{"description": "Elements C++ GUI library", "language": "C++", "repo": "elements", "new_stars": 16, "stars": 467, "owner": "cycfi", "forks": 26},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 18, "stars": 14570, "owner": "nlohmann", "forks": 2477},
 {"description": "MNN is a lightweight deep neural network inference engine.", "language": "C++", "repo": "MNN", "new_stars": 4, "stars": 2120, "owner": "alibaba", "forks": 418},
 {"description": "static analysis of C/C++ code", "language": "C++", "repo": "cppcheck", "new_stars": 5, "stars": 2300, "owner": "danmar", "forks": 725},
 {"description": "Tengine is a lite, high performance, modular inference engine for embedded device", "language": "C++", "repo": "Tengine", "new_stars": 10, "stars": 769, "owner": "OAID", "forks": 259},
@@ -13,8 +13,8 @@
 {"description": "GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.", "language": "C++", "repo": "gdal", "new_stars": 2, "stars": 1288, "owner": "OSGeo", "forks": 698},
 {"description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more", "language": "C++", "repo": "incubator-mxnet", "new_stars": 4, "stars": 17384, "owner": "apache", "forks": 6162},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 13, "stars": 12522, "owner": "google", "forks": 1967},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 35, "stars": 35787, "owner": "protocolbuffers", "forks": 9714},
-{"description": "High-level tracing language for Linux eBPF", "language": "C++", "repo": "bpftrace", "new_stars": 5, "stars": 1604, "owner": "iovisor", "forks": 190},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 36, "stars": 35789, "owner": "protocolbuffers", "forks": 9714},
+{"description": "High-level tracing language for Linux eBPF", "language": "C++", "repo": "bpftrace", "new_stars": 6, "stars": 1605, "owner": "iovisor", "forks": 190},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 9, "stars": 5454, "owner": "pybind", "forks": 730},
 {"description": "OKEx Open REST API V3 SDK, supported language: Java, Python, C#, C++, Go", "language": "C++", "repo": "open-api-v3-sdk", "new_stars": 1, "stars": 240, "owner": "okcoin-okex", "forks": 222},
 {"description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events", "language": "C++", "repo": "async-profiler", "new_stars": 3, "stars": 1935, "owner": "jvm-profiling-tools", "forks": 220},
@@ -23,5 +23,5 @@
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 11, "stars": 10677, "owner": "mozilla", "forks": 1978},
 {"description": "A tensorflow implementation of EAST text detector", "language": "C++", "repo": "EAST", "new_stars": 4, "stars": 1825, "owner": "argman", "forks": 714},
 {"description": "\u817e\u8baf\u4e91\u901a\u4fe1\u6d88\u606f\u670d\u52a1SDK\uff0c\u7b80\u5355\u5feb\u901f\u7684\u5373\u65f6\u901a\u8baf\u89e3\u51b3\u65b9\u6848\u3002", "language": "C++", "repo": "TIMSDK", "new_stars": 5, "stars": 370, "owner": "tencentyun", "forks": 448},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 14, "stars": 6238, "owner": "gabime", "forks": 1375}
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 15, "stars": 6239, "owner": "gabime", "forks": 1375}
 ]

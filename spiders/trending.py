@@ -3,7 +3,7 @@ A scraper for github's trending pages based on maniac103's script
 """
 import scrapy
 
-REPO_LIST_PATH = "/html/body/div[4]/main/div[3]/div/div[2]"
+REPO_LIST_PATH = ".explore-pjax-container > div:nth-child(1) > div:nth-child(2)"
 
 
 class TrendingSpiderBase(scrapy.Spider):
@@ -15,7 +15,7 @@ class TrendingSpiderBase(scrapy.Spider):
         yield scrapy.Request(url=url, callback=self.parse)
 
     def parse(self, response):
-        repo_list = response.xpath(REPO_LIST_PATH)
+        repo_list = response.css(REPO_LIST_PATH)
         for item in repo_list.xpath('article'):
             yield {
                 'owner':       item.xpath("h1/a/span/text()").re(r'[^\s\/]*')[0],

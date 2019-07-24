@@ -1,12 +1,12 @@
 [
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 367, "stars": 7090, "owner": "ogham", "forks": 223},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 81, "stars": 5622, "owner": "tikv", "forks": 811},
-{"description": "Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.", "language": "Rust", "repo": "osgood", "new_stars": 169, "stars": 453, "owner": "IntrinsicLabs", "forks": 14},
+{"description": "Osgood is a secure, fast, and simple platform for running JavaScript HTTP servers.", "language": "Rust", "repo": "osgood", "new_stars": 168, "stars": 453, "owner": "IntrinsicLabs", "forks": 14},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 102, "stars": 7937, "owner": "DenisKolodin", "forks": 292},
 {"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 60, "stars": 994, "owner": "rustasync", "forks": 89},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 77, "stars": 7553, "owner": "SergioBenitez", "forks": 510},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 323, "stars": 37774, "owner": "rust-lang", "forks": 5897},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 472, "stars": 246743, "owner": "996icu", "forks": 21357},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 471, "stars": 246743, "owner": "996icu", "forks": 21357},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 51, "stars": 4126, "owner": "benfred", "forks": 157},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 60, "stars": 3099, "owner": "actix", "forks": 202},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 49, "stars": 4075, "owner": "rust-lang", "forks": 1107},
@@ -18,10 +18,10 @@
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 44, "stars": 2602, "owner": "tantivy-search", "forks": 145},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 66, "stars": 4920, "owner": "hyperium", "forks": 727},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 70, "stars": 8767, "owner": "firecracker-microvm", "forks": 540},
-{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 226, "stars": 1324, "owner": "ctz", "forks": 112},
+{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 227, "stars": 1325, "owner": "ctz", "forks": 112},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 125, "stars": 11508, "owner": "rust-unofficial", "forks": 758},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 32, "stars": 1574, "owner": "graphql-rust", "forks": 110},
-{"description": "A collection of functional programming jargon explained in Rust", "language": "Rust", "repo": "functional-programming-jargon.rs", "new_stars": 119, "stars": 255, "owner": "JasonShin", "forks": 5},
-{"description": "Create beautiful image of your source code.", "language": "Rust", "repo": "silicon", "new_stars": 96, "stars": 336, "owner": "Aloxaf", "forks": 7},
+{"description": "A collection of functional programming jargon explained in Rust", "language": "Rust", "repo": "functional-programming-jargon.rs", "new_stars": 118, "stars": 255, "owner": "JasonShin", "forks": 5},
+{"description": "Create beautiful image of your source code.", "language": "Rust", "repo": "silicon", "new_stars": 95, "stars": 336, "owner": "Aloxaf", "forks": 7},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 35, "stars": 4216, "owner": "diesel-rs", "forks": 400}
 ]

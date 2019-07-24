@@ -7,7 +7,7 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 117, "stars": 1627, "owner": "seanmonstar", "forks": 255},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 523, "stars": 7090, "owner": "ogham", "forks": 223},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 93, "stars": 4299, "owner": "mimblewimble", "forks": 834},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 351, "stars": 7937, "owner": "DenisKolodin", "forks": 292},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 350, "stars": 7937, "owner": "DenisKolodin", "forks": 292},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 428, "stars": 11508, "owner": "rust-unofficial", "forks": 758},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 189, "stars": 4126, "owner": "benfred", "forks": 157},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 255, "stars": 7553, "owner": "SergioBenitez", "forks": 510},
@@ -20,8 +20,8 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 75, "stars": 2733, "owner": "rust-lang-nursery", "forks": 334},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 193, "stars": 1152, "owner": "rust-analyzer", "forks": 123},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 101, "stars": 2977, "owner": "clap-rs", "forks": 294},
-{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 361, "stars": 1324, "owner": "ctz", "forks": 112},
+{"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 362, "stars": 1325, "owner": "ctz", "forks": 112},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 75, "stars": 957, "owner": "vi", "forks": 39},
 {"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 59, "stars": 705, "owner": "tower-rs", "forks": 47},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 444, "stars": 15501, "owner": "BurntSushi", "forks": 630}
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 445, "stars": 15502, "owner": "BurntSushi", "forks": 630}
 ]

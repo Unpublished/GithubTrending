@@ -1,16 +1,16 @@
 [
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 164, "stars": 3204, "owner": "Geal", "forks": 364},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 199, "stars": 4920, "owner": "hyperium", "forks": 727},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 200, "stars": 4921, "owner": "hyperium", "forks": 727},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 414, "stars": 5367, "owner": "tokio-rs", "forks": 419},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 894, "stars": 37783, "owner": "rust-lang", "forks": 5897},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 293, "stars": 8767, "owner": "firecracker-microvm", "forks": 540},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 896, "stars": 37786, "owner": "rust-lang", "forks": 5897},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 294, "stars": 8768, "owner": "firecracker-microvm", "forks": 540},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 118, "stars": 1628, "owner": "seanmonstar", "forks": 255},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 523, "stars": 7090, "owner": "ogham", "forks": 223},
-{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 94, "stars": 4300, "owner": "mimblewimble", "forks": 834},
+{"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 95, "stars": 4301, "owner": "mimblewimble", "forks": 834},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 349, "stars": 7938, "owner": "DenisKolodin", "forks": 292},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 430, "stars": 11512, "owner": "rust-unofficial", "forks": 758},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 188, "stars": 4126, "owner": "benfred", "forks": 157},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 254, "stars": 7554, "owner": "SergioBenitez", "forks": 510},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 255, "stars": 7555, "owner": "SergioBenitez", "forks": 510},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 165, "stars": 4075, "owner": "rust-lang", "forks": 1107},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 79, "stars": 3127, "owner": "tokio-rs", "forks": 376},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 243, "stars": 5622, "owner": "tikv", "forks": 811},
@@ -23,5 +23,5 @@
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 362, "stars": 1325, "owner": "ctz", "forks": 112},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 75, "stars": 957, "owner": "vi", "forks": 39},
 {"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 59, "stars": 705, "owner": "tower-rs", "forks": 47},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 444, "stars": 15502, "owner": "BurntSushi", "forks": 629}
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 444, "stars": 15501, "owner": "BurntSushi", "forks": 629}
 ]

@@ -1,6 +1,6 @@
 [
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 18, "stars": 11524, "owner": "rust-unofficial", "forks": 757},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 1311, "owner": "paritytech", "forks": 319},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 11524, "owner": "rust-unofficial", "forks": 757},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 6, "stars": 1312, "owner": "paritytech", "forks": 319},
 {"description": "Bastion: Fault-tolerant Runtime for Rust applications", "language": "Rust", "repo": "bastion", "new_stars": 19, "stars": 206, "owner": "vertexclique", "forks": 6},
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 8, "stars": 8791, "owner": "atom-archive", "forks": 221},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 8, "stars": 2985, "owner": "clap-rs", "forks": 295},
@@ -11,7 +11,7 @@
 {"description": "Encoding and decoding images in Rust", "language": "Rust", "repo": "image", "new_stars": 7, "stars": 1098, "owner": "image-rs", "forks": 232},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 2, "stars": 3212, "owner": "gfx-rs", "forks": 376},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 1, "stars": 326, "owner": "hyperledger", "forks": 380},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 34, "stars": 11507, "owner": "libra", "forks": 1563},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 33, "stars": 11507, "owner": "libra", "forks": 1563},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 3, "stars": 16504, "owner": "xi-editor", "forks": 600},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 1, "stars": 1281, "owner": "nannou-org", "forks": 57},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 1631, "owner": "seanmonstar", "forks": 257},
@@ -22,6 +22,6 @@
 {"description": "The practical HTTP client that is fun to use.", "language": "Rust", "repo": "chttp", "new_stars": 5, "stars": 77, "owner": "sagebind", "forks": 9},
 {"description": "A modular game engine written in Rust", "language": "Rust", "repo": "piston", "new_stars": 5, "stars": 3004, "owner": "PistonDevelopers", "forks": 187},
 {"description": "A vim like client for the xi backend", "language": "Rust", "repo": "vixi", "new_stars": 0, "stars": 57, "owner": "Peltoche", "forks": 6},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 5, "stars": 3592, "owner": "rust-lang", "forks": 473},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 3593, "owner": "rust-lang", "forks": 473},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 14525, "owner": "servo", "forks": 2205}
 ]

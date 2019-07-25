@@ -1,7 +1,7 @@
 [
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 47, "stars": 2602, "owner": "pingcap", "forks": 280},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 46, "stars": 2602, "owner": "pingcap", "forks": 280},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 4, "stars": 517, "owner": "paritytech", "forks": 114},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 16, "stars": 5395, "owner": "tokio-rs", "forks": 422},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 15, "stars": 5395, "owner": "tokio-rs", "forks": 422},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 15527, "owner": "BurntSushi", "forks": 630},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 3, "stars": 3133, "owner": "tokio-rs", "forks": 377},
 {"description": "Type erasure for async trait methods", "language": "Rust", "repo": "async-trait", "new_stars": 14, "stars": 140, "owner": "dtolnay", "forks": 2},
@@ -10,7 +10,7 @@
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 11, "stars": 1831, "owner": "timberio", "forks": 56},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 5, "stars": 270, "owner": "TheAlgorithms", "forks": 79},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 10, "stars": 5643, "owner": "tikv", "forks": 817},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 51, "stars": 37874, "owner": "rust-lang", "forks": 5904},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 50, "stars": 37874, "owner": "rust-lang", "forks": 5904},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 3, "stars": 538, "owner": "actix", "forks": 161},
 {"description": "Encoding and decoding images in Rust", "language": "Rust", "repo": "image", "new_stars": 7, "stars": 1104, "owner": "image-rs", "forks": 234},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 0, "stars": 2735, "owner": "rust-lang-nursery", "forks": 336},
@@ -20,7 +20,7 @@
 {"description": "Proofs for Filecoin in Rust", "language": "Rust", "repo": "rust-fil-proofs", "new_stars": 0, "stars": 125, "owner": "filecoin-project", "forks": 29},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 1, "stars": 10124, "owner": "sharkdp", "forks": 264},
 {"description": "HTTP 2.0 client & server implementation for Rust.", "language": "Rust", "repo": "h2", "new_stars": 3, "stars": 645, "owner": "hyperium", "forks": 52},
-{"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 2, "stars": 1058, "owner": "serde-rs", "forks": 179},
+{"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 1, "stars": 1058, "owner": "serde-rs", "forks": 179},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 5, "stars": 3595, "owner": "rust-lang", "forks": 473},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 0, "stars": 1977, "owner": "habitat-sh", "forks": 294},
 {"description": "Your project's nix-env", "language": "Rust", "repo": "lorri", "new_stars": 2, "stars": 277, "owner": "target", "forks": 21}

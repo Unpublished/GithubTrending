@@ -1,9 +1,9 @@
 [
 {"description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called \"baidu-rpc\" inside Baidu.", "language": "C++", "repo": "incubator-brpc", "new_stars": 10, "stars": 8891, "owner": "apache", "forks": 2117},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 31, "stars": 36010, "owner": "protocolbuffers", "forks": 9762},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 30, "stars": 36010, "owner": "protocolbuffers", "forks": 9762},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 27, "stars": 10413, "owner": "envoyproxy", "forks": 1611},
 {"description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.", "language": "C++", "repo": "mysql-server", "new_stars": 8, "stars": 4128, "owner": "mysql", "forks": 1611},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 27, "stars": 22297, "owner": "grpc", "forks": 5205},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 26, "stars": 22297, "owner": "grpc", "forks": 5205},
 {"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.", "language": "C++", "repo": "libphonenumber", "new_stars": 6, "stars": 9526, "owner": "google", "forks": 1212},
 {"description": "a lighter, faster browser kernel of blink to integrate HTML UI in your app. \u4e00\u4e2a\u5c0f\u5de7\u3001\u8f7b\u91cf\u7684\u6d4f\u89c8\u5668\u5185\u6838\uff0c\u7528\u6765\u53d6\u4ee3wke\u548clibcef", "language": "C++", "repo": "miniblink49", "new_stars": 5, "stars": 2971, "owner": "weolar", "forks": 490},
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 4, "stars": 960, "owner": "microsoft", "forks": 207},
@@ -20,7 +20,7 @@
 {"description": "KenLM: Faster and Smaller Language Model Queries", "language": "C++", "repo": "kenlm", "new_stars": 2, "stars": 801, "owner": "kpu", "forks": 229},
 {"description": "Monero (XMR) CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 1, "stars": 2489, "owner": "xmrig", "forks": 1108},
 {"description": "The MongoDB Database", "language": "C++", "repo": "mongo", "new_stars": 13, "stars": 16415, "owner": "mongodb", "forks": 4125},
-{"description": "A Robust and Versatile Monocular Visual-Inertial State Estimator", "language": "C++", "repo": "VINS-Mono", "new_stars": 9, "stars": 1717, "owner": "HKUST-Aerial-Robotics", "forks": 1063},
+{"description": "A Robust and Versatile Monocular Visual-Inertial State Estimator", "language": "C++", "repo": "VINS-Mono", "new_stars": 10, "stars": 1718, "owner": "HKUST-Aerial-Robotics", "forks": 1063},
 {"description": "Apache Thrift", "language": "C++", "repo": "thrift", "new_stars": 4, "stars": 6557, "owner": "apache", "forks": 2983},
 {"description": "Submanifold sparse convolutional networks", "language": "C++", "repo": "SparseConvNet", "new_stars": 4, "stars": 822, "owner": "facebookresearch", "forks": 148},
 {"description": "A retro game engine for Python", "language": "C++", "repo": "pyxel", "new_stars": 13, "stars": 5679, "owner": "kitao", "forks": 265}

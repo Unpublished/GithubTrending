@@ -1,7 +1,7 @@
 [
-{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 888, "stars": 1645, "owner": "indygreg", "forks": 47},
+{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 883, "stars": 1645, "owner": "indygreg", "forks": 47},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 209, "stars": 4938, "owner": "hyperium", "forks": 726},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 956, "stars": 37916, "owner": "rust-lang", "forks": 5911},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 955, "stars": 37916, "owner": "rust-lang", "forks": 5911},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 298, "stars": 8789, "owner": "firecracker-microvm", "forks": 541},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 114, "stars": 1639, "owner": "seanmonstar", "forks": 257},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 258, "stars": 5661, "owner": "tikv", "forks": 821},
@@ -10,11 +10,11 @@
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 378, "stars": 7981, "owner": "DenisKolodin", "forks": 291},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 82, "stars": 4302, "owner": "mimblewimble", "forks": 835},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 434, "stars": 11564, "owner": "rust-unofficial", "forks": 758},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 332, "stars": 5399, "owner": "tokio-rs", "forks": 425},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 331, "stars": 5399, "owner": "tokio-rs", "forks": 425},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 173, "stars": 4094, "owner": "rust-lang", "forks": 1107},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 186, "stars": 4135, "owner": "benfred", "forks": 158},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 131, "stars": 3211, "owner": "Geal", "forks": 365},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 260, "stars": 7580, "owner": "SergioBenitez", "forks": 512},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 259, "stars": 7580, "owner": "SergioBenitez", "forks": 512},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 117, "stars": 1324, "owner": "paritytech", "forks": 321},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 830, "stars": 2776, "owner": "pingcap", "forks": 294},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 352, "stars": 5103, "owner": "rust-lang", "forks": 449},
@@ -23,5 +23,5 @@
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 82, "stars": 3134, "owner": "tokio-rs", "forks": 377},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 181, "stars": 1156, "owner": "rust-analyzer", "forks": 124},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 73, "stars": 2737, "owner": "rust-lang-nursery", "forks": 336},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 115, "stars": 2998, "owner": "clap-rs", "forks": 296}
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 116, "stars": 2999, "owner": "clap-rs", "forks": 296}
 ]

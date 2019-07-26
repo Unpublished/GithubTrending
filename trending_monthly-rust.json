@@ -1,15 +1,15 @@
 [
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 208, "stars": 4934, "owner": "hyperium", "forks": 726},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 295, "stars": 8782, "owner": "firecracker-microvm", "forks": 541},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 296, "stars": 8782, "owner": "firecracker-microvm", "forks": 541},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 951, "stars": 37897, "owner": "rust-lang", "forks": 5907},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 114, "stars": 1637, "owner": "seanmonstar", "forks": 257},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 136, "stars": 3210, "owner": "Geal", "forks": 365},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 252, "stars": 5652, "owner": "tikv", "forks": 820},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 536, "stars": 7112, "owner": "ogham", "forks": 222},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 260, "stars": 7577, "owner": "SergioBenitez", "forks": 511},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 379, "stars": 7976, "owner": "DenisKolodin", "forks": 291},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 378, "stars": 7976, "owner": "DenisKolodin", "forks": 291},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 181, "stars": 3115, "owner": "actix", "forks": 207},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 431, "stars": 11555, "owner": "rust-unofficial", "forks": 758},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 432, "stars": 11556, "owner": "rust-unofficial", "forks": 758},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 86, "stars": 4302, "owner": "mimblewimble", "forks": 835},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 81, "stars": 3133, "owner": "tokio-rs", "forks": 377},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 171, "stars": 4093, "owner": "rust-lang", "forks": 1108},
@@ -22,6 +22,6 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 71, "stars": 2735, "owner": "rust-lang-nursery", "forks": 336},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 117, "stars": 2997, "owner": "clap-rs", "forks": 295},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 450, "stars": 15536, "owner": "BurntSushi", "forks": 631},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 742, "stars": 2679, "owner": "pingcap", "forks": 284},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 740, "stars": 2679, "owner": "pingcap", "forks": 284},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 383, "stars": 1345, "owner": "ctz", "forks": 112}
 ]

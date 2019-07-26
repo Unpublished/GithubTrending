@@ -13,7 +13,7 @@
 {"description": "A RuboCop extension focused on enforcing Rails best practices and coding conventions.", "language": "Ruby", "repo": "rubocop-rails", "new_stars": 3, "stars": 172, "owner": "rubocop-hq", "forks": 19},
 {"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 3, "stars": 3436, "owner": "redmine", "forks": 1877},
 {"description": "Intelligent search made easy with Rails and Elasticsearch", "language": "Ruby", "repo": "searchkick", "new_stars": 2, "stars": 4980, "owner": "ankane", "forks": 585},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 20045, "owner": "plataformatec", "forks": 4782},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 20045, "owner": "plataformatec", "forks": 4782},
 {"description": "Terraforming legacy Rails applications guides and tools", "language": "Ruby", "repo": "terraforming-rails", "new_stars": 11, "stars": 138, "owner": "evilmartians", "forks": 10},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 8, "stars": 16003, "owner": "ruby", "forks": 4272},
 {"description": "This Ansible role provides numerous security-related configurations, providing all-round base protection.", "language": "Ruby", "repo": "ansible-os-hardening", "new_stars": 2, "stars": 1250, "owner": "dev-sec", "forks": 244},
@@ -23,5 +23,5 @@
 {"description": "Ruby library for the Stripe API.", "language": "Ruby", "repo": "stripe-ruby", "new_stars": 1, "stars": 1259, "owner": "stripe", "forks": 350},
 {"description": "Soulful docs for Swift & Objective-C", "language": "Ruby", "repo": "jazzy", "new_stars": 1, "stars": 6071, "owner": "realm", "forks": 338},
 {"description": "A library for bulk insertion of data into your database using ActiveRecord.", "language": "Ruby", "repo": "activerecord-import", "new_stars": 1, "stars": 2977, "owner": "zdennis", "forks": 528},
-{"description": "A static analysis security vulnerability scanner for Ruby on Rails applications", "language": "Ruby", "repo": "brakeman", "new_stars": 3, "stars": 5434, "owner": "presidentbeef", "forks": 562}
+{"description": "A static analysis security vulnerability scanner for Ruby on Rails applications", "language": "Ruby", "repo": "brakeman", "new_stars": 2, "stars": 5434, "owner": "presidentbeef", "forks": 562}
 ]

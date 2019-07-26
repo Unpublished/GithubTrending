@@ -1,7 +1,7 @@
 [
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 209, "stars": 4935, "owner": "hyperium", "forks": 726},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 294, "stars": 8779, "owner": "firecracker-microvm", "forks": 541},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 948, "stars": 37892, "owner": "rust-lang", "forks": 5907},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 947, "stars": 37892, "owner": "rust-lang", "forks": 5907},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 116, "stars": 1638, "owner": "seanmonstar", "forks": 257},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 138, "stars": 3210, "owner": "Geal", "forks": 365},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 249, "stars": 5649, "owner": "tikv", "forks": 819},
@@ -14,7 +14,7 @@
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 80, "stars": 3133, "owner": "tokio-rs", "forks": 377},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 171, "stars": 4092, "owner": "rust-lang", "forks": 1108},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 90, "stars": 519, "owner": "paritytech", "forks": 115},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 115, "stars": 1317, "owner": "paritytech", "forks": 321},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 114, "stars": 1317, "owner": "paritytech", "forks": 321},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 82, "stars": 2353, "owner": "serde-rs", "forks": 261},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 351, "stars": 5397, "owner": "tokio-rs", "forks": 424},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 126, "stars": 3596, "owner": "rust-lang", "forks": 473},
@@ -22,6 +22,6 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 72, "stars": 2735, "owner": "rust-lang-nursery", "forks": 336},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 116, "stars": 2996, "owner": "clap-rs", "forks": 295},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 448, "stars": 15533, "owner": "BurntSushi", "forks": 631},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 727, "stars": 2662, "owner": "pingcap", "forks": 282},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 728, "stars": 2663, "owner": "pingcap", "forks": 282},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 382, "stars": 1344, "owner": "ctz", "forks": 112}
 ]

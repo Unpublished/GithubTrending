@@ -1,9 +1,9 @@
 [
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 209, "stars": 4934, "owner": "hyperium", "forks": 726},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 295, "stars": 8779, "owner": "firecracker-microvm", "forks": 541},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 942, "stars": 37883, "owner": "rust-lang", "forks": 5906},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 943, "stars": 37884, "owner": "rust-lang", "forks": 5906},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 115, "stars": 1638, "owner": "seanmonstar", "forks": 257},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 140, "stars": 3209, "owner": "Geal", "forks": 365},
+{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 141, "stars": 3210, "owner": "Geal", "forks": 365},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 243, "stars": 5643, "owner": "tikv", "forks": 818},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 534, "stars": 7110, "owner": "ogham", "forks": 222},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 262, "stars": 7575, "owner": "SergioBenitez", "forks": 511},
@@ -17,11 +17,11 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 114, "stars": 1316, "owner": "paritytech", "forks": 321},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 84, "stars": 2353, "owner": "serde-rs", "forks": 261},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 358, "stars": 5397, "owner": "tokio-rs", "forks": 422},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 126, "stars": 3595, "owner": "rust-lang", "forks": 473},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 127, "stars": 3596, "owner": "rust-lang", "forks": 473},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 184, "stars": 1154, "owner": "rust-analyzer", "forks": 123},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 72, "stars": 2735, "owner": "rust-lang-nursery", "forks": 336},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 114, "stars": 2995, "owner": "clap-rs", "forks": 295},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 449, "stars": 15529, "owner": "BurntSushi", "forks": 630},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 701, "stars": 2633, "owner": "pingcap", "forks": 280},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 450, "stars": 15530, "owner": "BurntSushi", "forks": 630},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 702, "stars": 2634, "owner": "pingcap", "forks": 280},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 381, "stars": 1344, "owner": "ctz", "forks": 112}
 ]

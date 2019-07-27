@@ -1,9 +1,9 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 37938, "owner": "rust-lang", "forks": 5914},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 5403, "owner": "tokio-rs", "forks": 426},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 37938, "owner": "rust-lang", "forks": 5913},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 5403, "owner": "tokio-rs", "forks": 426},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 3942, "owner": "wasmerio", "forks": 132},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 40, "stars": 2789, "owner": "pingcap", "forks": 294},
-{"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 6, "stars": 1983, "owner": "habitat-sh", "forks": 294},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 39, "stars": 2789, "owner": "pingcap", "forks": 294},
+{"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 7, "stars": 1984, "owner": "habitat-sh", "forks": 294},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 3, "stars": 1899, "owner": "CraneStation", "forks": 155},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 12, "stars": 1289, "owner": "dani-garcia", "forks": 104},
 {"description": "Encoding and decoding images in Rust", "language": "Rust", "repo": "image", "new_stars": 3, "stars": 1109, "owner": "image-rs", "forks": 234},
@@ -20,7 +20,7 @@
 {"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 2, "stars": 1347, "owner": "sfackler", "forks": 143},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 13, "stars": 11573, "owner": "rust-unofficial", "forks": 758},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 4879, "owner": "actix", "forks": 351},
-{"description": "Rust-based toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "proton", "new_stars": 9, "stars": 81, "owner": "quasarframework", "forks": 2},
+{"description": "Rust-based toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "proton", "new_stars": 10, "stars": 82, "owner": "quasarframework", "forks": 2},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 4, "stars": 4563, "owner": "rust-lang", "forks": 968},
 {"description": "A vim like client for the xi backend", "language": "Rust", "repo": "vixi", "new_stars": 1, "stars": 67, "owner": "Peltoche", "forks": 7},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 0, "stars": 130, "owner": "tokio-rs", "forks": 18}

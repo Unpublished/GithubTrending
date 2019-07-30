@@ -1,16 +1,16 @@
 [
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 517, "stars": 2884, "owner": "pingcap", "forks": 306},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 290, "stars": 38025, "owner": "rust-lang", "forks": 5924},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 218, "stars": 5262, "owner": "rust-lang", "forks": 458},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 129, "stars": 11621, "owner": "rust-unofficial", "forks": 759},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 218, "stars": 5263, "owner": "rust-lang", "forks": 458},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 127, "stars": 11621, "owner": "rust-unofficial", "forks": 759},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 69, "stars": 5687, "owner": "tikv", "forks": 827},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 50, "stars": 4120, "owner": "rust-lang", "forks": 1112},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 319, "stars": 246817, "owner": "996icu", "forks": 21363},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 318, "stars": 246817, "owner": "996icu", "forks": 21363},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 62, "stars": 3974, "owner": "wasmerio", "forks": 134},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 36, "stars": 3011, "owner": "clap-rs", "forks": 299},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 38, "stars": 4581, "owner": "rust-lang", "forks": 969},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 26, "stars": 3148, "owner": "tokio-rs", "forks": 379},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 97, "stars": 8013, "owner": "DenisKolodin", "forks": 292},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 96, "stars": 8013, "owner": "DenisKolodin", "forks": 291},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 29, "stars": 1332, "owner": "paritytech", "forks": 325},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 16, "stars": 1905, "owner": "CraneStation", "forks": 156},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 33, "stars": 1627, "owner": "ggez", "forks": 203},
@@ -22,6 +22,6 @@
 {"description": "An experimental next-generation Electron-based text editor", "language": "Rust", "repo": "xray", "new_stars": 15, "stars": 8783, "owner": "atom-archive", "forks": 223},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 26, "stars": 416, "owner": "xi-editor", "forks": 26},
 {"description": "Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions", "language": "Rust", "repo": "abscissa", "new_stars": 66, "stars": 223, "owner": "iqlusioninc", "forks": 5},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 56, "stars": 7600, "owner": "SergioBenitez", "forks": 517},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 109, "stars": 17443, "owner": "jwilm", "forks": 798}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 55, "stars": 7600, "owner": "SergioBenitez", "forks": 517},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 108, "stars": 17443, "owner": "jwilm", "forks": 799}
 ]

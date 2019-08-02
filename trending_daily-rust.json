@@ -1,5 +1,5 @@
 [
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 27, "stars": 1909, "owner": "timberio", "forks": 60},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 28, "stars": 1910, "owner": "timberio", "forks": 60},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 5, "stars": 1920, "owner": "CraneStation", "forks": 157},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 9, "stars": 5563, "owner": "paritytech", "forks": 1293},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 1342, "owner": "paritytech", "forks": 330},
@@ -9,11 +9,11 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 38088, "owner": "rust-lang", "forks": 5942},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 5, "stars": 1153, "owner": "CraneStation", "forks": 80},
 {"description": "The core Holochain framework written in rust, a container API for running it (with rust and node implementations), and hdk-rust library for writing Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 1, "stars": 721, "owner": "holochain", "forks": 248},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 30, "stars": 17509, "owner": "jwilm", "forks": 804},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 17, "stars": 14680, "owner": "sharkdp", "forks": 279},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 31, "stars": 17510, "owner": "jwilm", "forks": 804},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 18, "stars": 14680, "owner": "sharkdp", "forks": 279},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 7, "stars": 3155, "owner": "actix", "forks": 211},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 327, "owner": "hyperledger", "forks": 383},
-{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 53, "stars": 100, "owner": "artichoke", "forks": 1},
+{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 54, "stars": 101, "owner": "artichoke", "forks": 1},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 8, "stars": 1664, "owner": "seanmonstar", "forks": 261},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 8, "stars": 4002, "owner": "wasmerio", "forks": 137},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 2, "stars": 3620, "owner": "rust-lang", "forks": 479},
@@ -22,6 +22,6 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 2, "stars": 1647, "owner": "tree-sitter", "forks": 94},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 1, "stars": 3987, "owner": "amethyst", "forks": 433},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 1, "stars": 1182, "owner": "rust-analyzer", "forks": 127},
-{"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 3, "stars": 2386, "owner": "rust-lang", "forks": 426},
+{"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 4, "stars": 2387, "owner": "rust-lang", "forks": 427},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 6, "stars": 3155, "owner": "Peltoche", "forks": 103}
 ]

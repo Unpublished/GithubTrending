@@ -1,9 +1,9 @@
 [
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 99, "stars": 15751, "owner": "Homebrew", "forks": 7427},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 98, "stars": 15751, "owner": "Homebrew", "forks": 7427},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 33, "stars": 7892, "owner": "stympy", "forks": 2062},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 111, "stars": 17234, "owner": "rapid7", "forks": 8459},
-{"description": "The ultimate WinRM shell for hacking/pentesting", "language": "Ruby", "repo": "evil-winrm", "new_stars": 66, "stars": 226, "owner": "Hackplayers", "forks": 42},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 66, "stars": 43750, "owner": "rails", "forks": 17642},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 110, "stars": 17234, "owner": "rapid7", "forks": 8459},
+{"description": "The ultimate WinRM shell for hacking/pentesting", "language": "Ruby", "repo": "evil-winrm", "new_stars": 67, "stars": 227, "owner": "Hackplayers", "forks": 42},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 67, "stars": 43751, "owner": "rails", "forks": 17642},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 36, "stars": 18737, "owner": "hashicorp", "forks": 3761},
 {"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 14, "stars": 653, "owner": "dependabot", "forks": 131},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 13, "stars": 6556, "owner": "thoughtbot", "forks": 1842},
@@ -12,7 +12,7 @@
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 82, "stars": 26258, "owner": "fastlane", "forks": 4018},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 13, "stars": 6563, "owner": "varvet", "forks": 497},
 {"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 12, "stars": 4455, "owner": "thoughtbot", "forks": 789},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 80, "stars": 38330, "owner": "jekyll", "forks": 8354},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 80, "stars": 38330, "owner": "jekyll", "forks": 8353},
 {"description": "Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails", "language": "Ruby", "repo": "spree", "new_stars": 14, "stars": 9866, "owner": "spree", "forks": 4327},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 59, "stars": 28754, "owner": "discourse", "forks": 6501},
 {"description": "A list of awesome space-related packages and resources maintained by The Orbital Index", "language": "Ruby", "repo": "awesome-space", "new_stars": 48, "stars": 213, "owner": "orbitalindex", "forks": 16},
@@ -22,6 +22,6 @@
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 29, "stars": 11811, "owner": "CocoaPods", "forks": 2118},
 {"description": "A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.", "language": "Ruby", "repo": "chef", "new_stars": 15, "stars": 5884, "owner": "chef", "forks": 2354},
 {"description": "Shopify App CLI helps you build Shopify apps faster.", "language": "Ruby", "repo": "shopify-app-cli", "new_stars": 9, "stars": 87, "owner": "Shopify", "forks": 13},
-{"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 13, "stars": 10639, "owner": "sinatra", "forks": 1912},
+{"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 12, "stars": 10639, "owner": "sinatra", "forks": 1912},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 24, "stars": 20065, "owner": "plataformatec", "forks": 4792}
 ]

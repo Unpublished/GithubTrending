@@ -1,7 +1,7 @@
 [
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 39, "stars": 17552, "owner": "jwilm", "forks": 805},
-{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 48, "stars": 163, "owner": "artichoke", "forks": 2},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 18, "stars": 4951, "owner": "actix", "forks": 355},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 39, "stars": 17552, "owner": "jwilm", "forks": 806},
+{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 46, "stars": 163, "owner": "artichoke", "forks": 2},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 17, "stars": 4952, "owner": "actix", "forks": 355},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 1343, "owner": "paritytech", "forks": 332},
 {"description": "Apache bRPC library for Rust", "language": "Rust", "repo": "brpc-rs", "new_stars": 5, "stars": 48, "owner": "mesalock-linux", "forks": 1},
 {"description": "Blockchain Rebuilt for Scale", "language": "Rust", "repo": "solana", "new_stars": 0, "stars": 500, "owner": "solana-labs", "forks": 106},
@@ -11,8 +11,8 @@
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 1, "stars": 550, "owner": "actix", "forks": 163},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 7, "stars": 1921, "owner": "timberio", "forks": 60},
 {"description": "Create beautiful image of your source code.", "language": "Rust", "repo": "silicon", "new_stars": 32, "stars": 487, "owner": "Aloxaf", "forks": 11},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 2, "stars": 454, "owner": "cloudflare", "forks": 47},
-{"description": "A crate to allow running a Rocket webserver as an AWS Lambda Function with API Gateway", "language": "Rust", "repo": "rocket-lamb", "new_stars": 3, "stars": 29, "owner": "GREsau", "forks": 0},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 3, "stars": 455, "owner": "cloudflare", "forks": 47},
+{"description": "A crate to allow running a Rocket webserver as an AWS Lambda Function with API Gateway", "language": "Rust", "repo": "rocket-lamb", "new_stars": 2, "stars": 29, "owner": "GREsau", "forks": 0},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 2, "stars": 4591, "owner": "rust-lang", "forks": 972},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 1, "stars": 5562, "owner": "paritytech", "forks": 1294},
 {"description": "Type erasure for async trait methods", "language": "Rust", "repo": "async-trait", "new_stars": 6, "stars": 195, "owner": "dtolnay", "forks": 4},
@@ -23,5 +23,5 @@
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 2, "stars": 1922, "owner": "CraneStation", "forks": 159},
 {"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 1, "stars": 1687, "owner": "indygreg", "forks": 47},
 {"description": "Blender game engine built on Amethyst and Rust.", "language": "Rust", "repo": "arsenal", "new_stars": 2, "stars": 83, "owner": "katharostech", "forks": 2},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 10, "stars": 3166, "owner": "actix", "forks": 212}
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 11, "stars": 3168, "owner": "actix", "forks": 212}
 ]

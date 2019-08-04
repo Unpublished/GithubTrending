@@ -1,13 +1,13 @@
 [
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 11, "stars": 440, "owner": "xi-editor", "forks": 28},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 4, "stars": 4143, "owner": "rust-lang", "forks": 1116},
-{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 321, "stars": 485, "owner": "artichoke", "forks": 9},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 13, "stars": 8069, "owner": "yewstack", "forks": 296},
+{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 324, "stars": 488, "owner": "artichoke", "forks": 9},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 12, "stars": 8069, "owner": "yewstack", "forks": 296},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 7, "stars": 11684, "owner": "rust-unofficial", "forks": 772},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 3173, "owner": "actix", "forks": 212},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 31, "stars": 4985, "owner": "actix", "forks": 355},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 6, "stars": 3172, "owner": "actix", "forks": 212},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 32, "stars": 4986, "owner": "actix", "forks": 355},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 3, "stars": 3630, "owner": "rust-lang", "forks": 479},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 17574, "owner": "jwilm", "forks": 806},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 15, "stars": 17576, "owner": "jwilm", "forks": 806},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 5, "stars": 2891, "owner": "maps4print", "forks": 113},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 12, "stars": 11728, "owner": "libra", "forks": 1621},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 7637, "owner": "SergioBenitez", "forks": 525},
@@ -22,6 +22,6 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 3, "stars": 5717, "owner": "tikv", "forks": 832},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 10, "stars": 1930, "owner": "timberio", "forks": 64},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 3996, "owner": "amethyst", "forks": 436},
-{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 2, "stars": 2752, "owner": "rust-lang-nursery", "forks": 338},
+{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 2, "stars": 2751, "owner": "rust-lang-nursery", "forks": 338},
 {"description": "A command line progress reporting library for Rust", "language": "Rust", "repo": "indicatif", "new_stars": 3, "stars": 1133, "owner": "mitsuhiko", "forks": 60}
 ]

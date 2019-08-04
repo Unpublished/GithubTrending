@@ -2,10 +2,10 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 167, "stars": 17563, "owner": "jwilm", "forks": 806},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 23, "stars": 2388, "owner": "rust-lang", "forks": 428},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 204, "stars": 5320, "owner": "rust-lang", "forks": 468},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 50, "stars": 3994, "owner": "amethyst", "forks": 436},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 49, "stars": 3994, "owner": "amethyst", "forks": 436},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 44, "stars": 1337, "owner": "dani-garcia", "forks": 106},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 68, "stars": 4011, "owner": "wasmerio", "forks": 137},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 87, "stars": 4962, "owner": "actix", "forks": 355},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 91, "stars": 4966, "owner": "actix", "forks": 355},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 52, "stars": 3169, "owner": "actix", "forks": 212},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 27, "stars": 455, "owner": "cloudflare", "forks": 47},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 56, "stars": 7631, "owner": "SergioBenitez", "forks": 522},
@@ -23,5 +23,5 @@
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 24, "stars": 1922, "owner": "CraneStation", "forks": 159},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 65, "stars": 5463, "owner": "tokio-rs", "forks": 438},
 {"description": "Rust Code Completion utility", "language": "Rust", "repo": "racer", "new_stars": 12, "stars": 2886, "owner": "racer-rust", "forks": 261},
-{"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 30, "stars": 1044, "owner": "rustasync", "forks": 93}
+{"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 29, "stars": 1044, "owner": "rustasync", "forks": 93}
 ]

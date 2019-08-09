@@ -1,8 +1,8 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1034, "stars": 38237, "owner": "rust-lang", "forks": 5955},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 519, "stars": 5380, "owner": "rust-lang", "forks": 477},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 575, "stars": 7215, "owner": "ogham", "forks": 227},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 260, "stars": 7657, "owner": "SergioBenitez", "forks": 527},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 576, "stars": 7216, "owner": "ogham", "forks": 227},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 259, "stars": 7657, "owner": "SergioBenitez", "forks": 527},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 228, "stars": 3199, "owner": "actix", "forks": 212},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 418, "stars": 8140, "owner": "yewstack", "forks": 299},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 125, "stars": 1679, "owner": "seanmonstar", "forks": 265},
@@ -20,8 +20,8 @@
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 152, "stars": 4581, "owner": "BurntSushi", "forks": 144},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 83, "stars": 1936, "owner": "CraneStation", "forks": 159},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 598, "stars": 17692, "owner": "jwilm", "forks": 809},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 126, "stars": 479, "owner": "cloudflare", "forks": 48},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 499, "stars": 15748, "owner": "BurntSushi", "forks": 641},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 125, "stars": 479, "owner": "cloudflare", "forks": 48},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 500, "stars": 15749, "owner": "BurntSushi", "forks": 641},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 125, "stars": 2627, "owner": "tantivy-search", "forks": 151},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 320, "stars": 7120, "owner": "valeriansaliou", "forks": 193}
 ]

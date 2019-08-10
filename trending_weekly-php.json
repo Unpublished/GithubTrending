@@ -1,10 +1,10 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 174, "stars": 54105, "owner": "laravel", "forks": 16601},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 174, "stars": 54105, "owner": "laravel", "forks": 16600},
 {"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 33, "stars": 2127, "owner": "mailcow", "forks": 401},
-{"description": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 36, "stars": 1357, "owner": "bagisto", "forks": 354},
+{"description": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 35, "stars": 1357, "owner": "bagisto", "forks": 355},
 {"description": "Slim is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs.", "language": "PHP", "repo": "Slim", "new_stars": 43, "stars": 10073, "owner": "slimphp", "forks": 1854},
-{"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 47, "stars": 8482, "owner": "the-control-group", "forks": 2046},
-{"description": "Laravel Cloud was an attempt to build a \"Forge Pro\" for applications that needed more robust load balancing and scaling features.", "language": "PHP", "repo": "laravel-cloud", "new_stars": 86, "stars": 186, "owner": "ChristopherDosin", "forks": 734},
+{"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 48, "stars": 8482, "owner": "the-control-group", "forks": 2046},
+{"description": "Laravel Cloud was an attempt to build a \"Forge Pro\" for applications that needed more robust load balancing and scaling features.", "language": "PHP", "repo": "laravel-cloud", "new_stars": 87, "stars": 187, "owner": "ChristopherDosin", "forks": 734},
 {"description": "High performance Coroutine PHP Framework, base on Swoole", "language": "PHP", "repo": "easyswoole", "new_stars": 53, "stars": 2116, "owner": "easy-swoole", "forks": 348},
 {"description": "\u57fa\u4e8e ThinkPHP 5.1 \u57fa\u7840\u5f00\u53d1\u5e73\u53f0\uff08\u767b\u5f55\u8d26\u53f7\u5bc6\u7801\u90fd\u662f admin \uff09", "language": "PHP", "repo": "ThinkAdmin", "new_stars": 24, "stars": 1288, "owner": "zoujingli", "forks": 569},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 95, "stars": 18319, "owner": "laravel", "forks": 6704},
@@ -15,13 +15,13 @@
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 36, "stars": 1993, "owner": "akaunting", "forks": 769},
 {"description": "Invoices, Expenses and Tasks built with Laravel and Flutter", "language": "PHP", "repo": "invoiceninja", "new_stars": 20, "stars": 4471, "owner": "invoiceninja", "forks": 1433},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 38, "stars": 7395, "owner": "Maatwebsite", "forks": 1197},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 116, "stars": 19462, "owner": "danielmiessler", "forks": 7760},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 115, "stars": 19462, "owner": "danielmiessler", "forks": 7760},
 {"description": "Mautic: Open Source Marketing Automation Software.", "language": "PHP", "repo": "mautic", "new_stars": 15, "stars": 3348, "owner": "mautic", "forks": 1208},
 {"description": null, "language": "PHP", "repo": "passport", "new_stars": 27, "stars": 2055, "owner": "laravel", "forks": 485},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 66, "stars": 15411, "owner": "Seldaek", "forks": 1553},
 {"description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.", "language": "PHP", "repo": "Mobile-Detect", "new_stars": 17, "stars": 8817, "owner": "serbanghita", "forks": 2344},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 71, "stars": 21461, "owner": "fzaninotto", "forks": 2476},
-{"description": "Instagram's private API", "language": "PHP", "repo": "Instagram-API", "new_stars": 31, "stars": 4602, "owner": "mgp25", "forks": 1390},
-{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 53, "stars": 17610, "owner": "domnikl", "forks": 3817},
-{"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 42, "stars": 8639, "owner": "barryvdh", "forks": 816}
+{"description": "Instagram's private API", "language": "PHP", "repo": "Instagram-API", "new_stars": 31, "stars": 4602, "owner": "mgp25", "forks": 1391},
+{"description": "sample code for several design patterns in PHP", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 54, "stars": 17611, "owner": "domnikl", "forks": 3817},
+{"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 43, "stars": 8640, "owner": "barryvdh", "forks": 816}
 ]

@@ -1,18 +1,18 @@
 [
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 67, "stars": 488, "owner": "xi-editor", "forks": 29},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 111, "stars": 8149, "owner": "yewstack", "forks": 299},
-{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 786, "stars": 939, "owner": "artichoke", "forks": 25},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 112, "stars": 8150, "owner": "yewstack", "forks": 299},
+{"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 785, "stars": 939, "owner": "artichoke", "forks": 25},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 55, "stars": 1239, "owner": "rust-analyzer", "forks": 130},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 81, "stars": 5535, "owner": "tokio-rs", "forks": 444},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 105, "stars": 11768, "owner": "rust-unofficial", "forks": 778},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 104, "stars": 5042, "owner": "actix", "forks": 357},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 102, "stars": 5042, "owner": "actix", "forks": 357},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 350, "stars": 247028, "owner": "996icu", "forks": 21352},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 122, "stars": 15771, "owner": "BurntSushi", "forks": 642},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 32, "stars": 3648, "owner": "rust-lang", "forks": 485},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 31, "stars": 3648, "owner": "rust-lang", "forks": 485},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 2, "stars": 329, "owner": "hyperledger", "forks": 390},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 34, "stars": 3052, "owner": "clap-rs", "forks": 304},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 36, "stars": 4292, "owner": "diesel-rs", "forks": 405},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 187, "stars": 17711, "owner": "jwilm", "forks": 812},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 185, "stars": 17711, "owner": "jwilm", "forks": 812},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 25, "stars": 1669, "owner": "tree-sitter", "forks": 96},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 9, "stars": 559, "owner": "actix", "forks": 168},
 {"description": "Create beautiful image of your source code.", "language": "Rust", "repo": "silicon", "new_stars": 154, "stars": 636, "owner": "Aloxaf", "forks": 13},
@@ -23,5 +23,5 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 40, "stars": 493, "owner": "cloudflare", "forks": 48},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 33, "stars": 1414, "owner": "cloudflare", "forks": 66},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 24, "stars": 1100, "owner": "serde-rs", "forks": 182},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 184, "stars": 38260, "owner": "rust-lang", "forks": 5957}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 183, "stars": 38260, "owner": "rust-lang", "forks": 5957}
 ]

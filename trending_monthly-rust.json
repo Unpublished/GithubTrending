@@ -1,18 +1,18 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1037, "stars": 38294, "owner": "rust-lang", "forks": 5963},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1037, "stars": 38295, "owner": "rust-lang", "forks": 5964},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 513, "stars": 5408, "owner": "rust-lang", "forks": 480},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 273, "stars": 7681, "owner": "SergioBenitez", "forks": 529},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 566, "stars": 7230, "owner": "ogham", "forks": 227},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 567, "stars": 7231, "owner": "ogham", "forks": 227},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 215, "stars": 3212, "owner": "actix", "forks": 212},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 418, "stars": 8172, "owner": "yewstack", "forks": 300},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 262, "stars": 5759, "owner": "tikv", "forks": 841},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 220, "stars": 5019, "owner": "hyperium", "forks": 736},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 125, "stars": 1689, "owner": "seanmonstar", "forks": 265},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 260, "stars": 8880, "owner": "firecracker-microvm", "forks": 550},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 589, "stars": 17727, "owner": "jwilm", "forks": 812},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 259, "stars": 8880, "owner": "firecracker-microvm", "forks": 549},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 590, "stars": 17728, "owner": "jwilm", "forks": 812},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 493, "stars": 11790, "owner": "rust-unofficial", "forks": 782},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 115, "stars": 1367, "owner": "paritytech", "forks": 343},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 861, "stars": 3038, "owner": "pingcap", "forks": 328},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 860, "stars": 3038, "owner": "pingcap", "forks": 328},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 183, "stars": 1246, "owner": "rust-analyzer", "forks": 132},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 188, "stars": 4174, "owner": "rust-lang", "forks": 1129},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 497, "stars": 15792, "owner": "BurntSushi", "forks": 645},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 320, "stars": 5550, "owner": "tokio-rs", "forks": 446},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 96, "stars": 1651, "owner": "ggez", "forks": 206},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 139, "stars": 505, "owner": "cloudflare", "forks": 48},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 323, "stars": 7141, "owner": "valeriansaliou", "forks": 193}
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 322, "stars": 7141, "owner": "valeriansaliou", "forks": 193}
 ]

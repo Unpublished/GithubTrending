@@ -6,13 +6,13 @@
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 87, "stars": 5544, "owner": "tokio-rs", "forks": 444},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 107, "stars": 11777, "owner": "rust-unofficial", "forks": 779},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 98, "stars": 5051, "owner": "actix", "forks": 357},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 346, "stars": 247025, "owner": "996icu", "forks": 21353},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 126, "stars": 15782, "owner": "BurntSushi", "forks": 644},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 347, "stars": 247027, "owner": "996icu", "forks": 21354},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 127, "stars": 15783, "owner": "BurntSushi", "forks": 644},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 31, "stars": 3653, "owner": "rust-lang", "forks": 485},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 4, "stars": 331, "owner": "hyperledger", "forks": 391},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 37, "stars": 3055, "owner": "clap-rs", "forks": 304},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 38, "stars": 3056, "owner": "clap-rs", "forks": 304},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 37, "stars": 4293, "owner": "diesel-rs", "forks": 405},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 169, "stars": 17717, "owner": "jwilm", "forks": 812},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 171, "stars": 17719, "owner": "jwilm", "forks": 812},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 29, "stars": 1673, "owner": "tree-sitter", "forks": 96},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 9, "stars": 560, "owner": "actix", "forks": 168},
 {"description": "Create beautiful image of your source code.", "language": "Rust", "repo": "silicon", "new_stars": 149, "stars": 639, "owner": "Aloxaf", "forks": 13},
@@ -23,5 +23,5 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 46, "stars": 500, "owner": "cloudflare", "forks": 48},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 36, "stars": 1417, "owner": "cloudflare", "forks": 66},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 24, "stars": 1101, "owner": "serde-rs", "forks": 183},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 184, "stars": 38272, "owner": "rust-lang", "forks": 5960}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 183, "stars": 38272, "owner": "rust-lang", "forks": 5960}
 ]

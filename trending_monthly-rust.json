@@ -1,17 +1,17 @@
 [
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 279, "stars": 7691, "owner": "SergioBenitez", "forks": 529},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 510, "stars": 5414, "owner": "rust-lang", "forks": 481},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 508, "stars": 5414, "owner": "rust-lang", "forks": 481},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1043, "stars": 38315, "owner": "rust-lang", "forks": 5967},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 564, "stars": 7231, "owner": "ogham", "forks": 227},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 563, "stars": 7231, "owner": "ogham", "forks": 227},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 265, "stars": 5765, "owner": "tikv", "forks": 842},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 214, "stars": 3216, "owner": "actix", "forks": 212},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 422, "stars": 8186, "owner": "yewstack", "forks": 300},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 211, "stars": 5021, "owner": "hyperium", "forks": 736},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 506, "stars": 11810, "owner": "rust-unofficial", "forks": 784},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 507, "stars": 11811, "owner": "rust-unofficial", "forks": 784},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 129, "stars": 1694, "owner": "seanmonstar", "forks": 265},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 855, "stars": 3043, "owner": "pingcap", "forks": 329},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 117, "stars": 1371, "owner": "paritytech", "forks": 345},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 587, "stars": 17735, "owner": "jwilm", "forks": 812},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 586, "stars": 17735, "owner": "jwilm", "forks": 812},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 484, "stars": 15795, "owner": "BurntSushi", "forks": 645},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 182, "stars": 1249, "owner": "rust-analyzer", "forks": 132},
 {"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 323, "stars": 5559, "owner": "tokio-rs", "forks": 448},
@@ -23,5 +23,5 @@
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 85, "stars": 2474, "owner": "rust-lang", "forks": 188},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 140, "stars": 510, "owner": "cloudflare", "forks": 49},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 86, "stars": 2405, "owner": "rust-lang", "forks": 428},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 127, "stars": 4617, "owner": "rust-lang", "forks": 973}
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 126, "stars": 4617, "owner": "rust-lang", "forks": 973}
 ]

@@ -1,8 +1,8 @@
 [
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 7685, "owner": "SergioBenitez", "forks": 529},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 4, "stars": 1369, "owner": "paritytech", "forks": 345},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 7686, "owner": "SergioBenitez", "forks": 529},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 1370, "owner": "paritytech", "forks": 345},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 2, "stars": 3039, "owner": "pingcap", "forks": 329},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 0, "stars": 541, "owner": "paritytech", "forks": 120},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 1, "stars": 542, "owner": "paritytech", "forks": 120},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 7, "stars": 507, "owner": "cloudflare", "forks": 48},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 2418, "owner": "rustwasm", "forks": 278},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 2, "stars": 4041, "owner": "wasmerio", "forks": 138},
@@ -14,14 +14,14 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 8, "stars": 15792, "owner": "BurntSushi", "forks": 645},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 9, "stars": 157, "owner": "tokio-rs", "forks": 22},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 3, "stars": 1676, "owner": "tree-sitter", "forks": 96},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 38305, "owner": "rust-lang", "forks": 5966},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 1691, "owner": "seanmonstar", "forks": 265},
-{"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 2, "stars": 528, "owner": "nervosnetwork", "forks": 78},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 4, "stars": 5020, "owner": "hyperium", "forks": 736},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 38305, "owner": "rust-lang", "forks": 5966},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 1691, "owner": "seanmonstar", "forks": 265},
+{"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 3, "stars": 529, "owner": "nervosnetwork", "forks": 78},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 3, "stars": 5020, "owner": "hyperium", "forks": 736},
 {"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 0, "stars": 725, "owner": "tower-rs", "forks": 49},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 4, "stars": 16559, "owner": "xi-editor", "forks": 606},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 5, "stars": 16560, "owner": "xi-editor", "forks": 606},
 {"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 6, "stars": 1068, "owner": "rustasync", "forks": 98},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 20, "stars": 8182, "owner": "yewstack", "forks": 300},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 7, "stars": 5412, "owner": "rust-lang", "forks": 480},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 18, "stars": 2942, "owner": "maps4print", "forks": 116}
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 17, "stars": 2942, "owner": "maps4print", "forks": 116}
 ]

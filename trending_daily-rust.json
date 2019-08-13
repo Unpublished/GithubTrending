@@ -1,14 +1,14 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 38336, "owner": "rust-lang", "forks": 5972},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 32, "stars": 38335, "owner": "rust-lang", "forks": 5972},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 11825, "owner": "rust-unofficial", "forks": 785},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 55, "stars": 247076, "owner": "996icu", "forks": 21350},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 55, "stars": 247075, "owner": "996icu", "forks": 21349},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 12, "stars": 7698, "owner": "SergioBenitez", "forks": 531},
-{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 17, "stars": 5572, "owner": "tokio-rs", "forks": 450},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 5770, "owner": "tikv", "forks": 842},
+{"description": "A runtime for writing reliable, asynchronous, and slim applications with the Rust programming language.", "language": "Rust", "repo": "tokio", "new_stars": 16, "stars": 5572, "owner": "tokio-rs", "forks": 450},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 8, "stars": 5771, "owner": "tikv", "forks": 843},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 1, "stars": 563, "owner": "actix", "forks": 168},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 4, "stars": 161, "owner": "tokio-rs", "forks": 22},
 {"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 4, "stars": 1369, "owner": "sfackler", "forks": 147},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 5, "stars": 2947, "owner": "maps4print", "forks": 117},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 6, "stars": 2948, "owner": "maps4print", "forks": 117},
 {"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 1, "stars": 1069, "owner": "rustasync", "forks": 99},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 19, "stars": 8200, "owner": "yewstack", "forks": 302},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 4, "stars": 1374, "owner": "paritytech", "forks": 345},
@@ -18,10 +18,10 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 1, "stars": 1249, "owner": "rust-analyzer", "forks": 132},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 1, "stars": 2082, "owner": "crossbeam-rs", "forks": 145},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 4, "stars": 4620, "owner": "rust-lang", "forks": 973},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 13, "stars": 194, "owner": "starship", "forks": 9},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 1695, "owner": "seanmonstar", "forks": 266},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 14, "stars": 195, "owner": "starship", "forks": 9},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 3, "stars": 1695, "owner": "seanmonstar", "forks": 266},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 4, "stars": 533, "owner": "nervosnetwork", "forks": 78},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 4, "stars": 4180, "owner": "rust-lang", "forks": 1132},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 3, "stars": 4302, "owner": "diesel-rs", "forks": 406},
-{"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 1, "stars": 2474, "owner": "rust-lang", "forks": 188}
+{"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 2, "stars": 2475, "owner": "rust-lang", "forks": 188}
 ]

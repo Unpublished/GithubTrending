@@ -1,12 +1,12 @@
 [
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 285, "stars": 7708, "owner": "SergioBenitez", "forks": 534},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 506, "stars": 5432, "owner": "rust-lang", "forks": 486},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1071, "stars": 38372, "owner": "rust-lang", "forks": 5977},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1072, "stars": 38373, "owner": "rust-lang", "forks": 5977},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 191, "stars": 4186, "owner": "rust-lang", "forks": 1133},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 270, "stars": 5777, "owner": "tikv", "forks": 848},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 560, "stars": 7244, "owner": "ogham", "forks": 228},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 435, "stars": 8211, "owner": "yewstack", "forks": 302},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 223, "stars": 3235, "owner": "actix", "forks": 214},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 225, "stars": 3237, "owner": "actix", "forks": 214},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 516, "stars": 11841, "owner": "rust-unofficial", "forks": 785},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 205, "stars": 5029, "owner": "hyperium", "forks": 739},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 119, "stars": 1378, "owner": "paritytech", "forks": 347},
@@ -21,7 +21,7 @@
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 81, "stars": 2476, "owner": "rust-lang", "forks": 190},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 71, "stars": 1102, "owner": "serde-rs", "forks": 185},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 103, "stars": 2422, "owner": "rustwasm", "forks": 279},
-{"description": "Rust language bindings for TensorFlow", "language": "Rust", "repo": "rust", "new_stars": 98, "stars": 1925, "owner": "tensorflow", "forks": 176},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 146, "stars": 4307, "owner": "diesel-rs", "forks": 407},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 118, "stars": 3663, "owner": "rust-lang", "forks": 487}
+{"description": "Rust language bindings for TensorFlow", "language": "Rust", "repo": "rust", "new_stars": 97, "stars": 1925, "owner": "tensorflow", "forks": 176},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 147, "stars": 4308, "owner": "diesel-rs", "forks": 407},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 119, "stars": 3664, "owner": "rust-lang", "forks": 487}
 ]

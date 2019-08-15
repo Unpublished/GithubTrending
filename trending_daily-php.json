@@ -1,6 +1,6 @@
 [
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 13, "stars": 21399, "owner": "symfony", "forks": 7104},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 13, "stars": 18368, "owner": "laravel", "forks": 6722},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 14, "stars": 18369, "owner": "laravel", "forks": 6722},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 10, "stars": 15452, "owner": "Seldaek", "forks": 1556},
 {"description": "Official PHP low-level client for Elasticsearch.", "language": "PHP", "repo": "elasticsearch-php", "new_stars": 5, "stars": 3436, "owner": "elastic", "forks": 702},
 {"description": "Easily build Eloquent queries from API requests", "language": "PHP", "repo": "laravel-query-builder", "new_stars": 6, "stars": 1758, "owner": "spatie", "forks": 122},
@@ -21,7 +21,7 @@
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 7, "stars": 11186, "owner": "nikic", "forks": 636},
 {"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 7, "stars": 6719, "owner": "squizlabs", "forks": 1101},
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 5, "stars": 8898, "owner": "octobercms", "forks": 1988},
-{"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 7, "stars": 9164, "owner": "ramsey", "forks": 314},
+{"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 8, "stars": 9165, "owner": "ramsey", "forks": 314},
 {"description": "Serverless PHP on AWS Lambda", "language": "PHP", "repo": "bref", "new_stars": 4, "stars": 1274, "owner": "brefphp", "forks": 111},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 6, "stars": 21504, "owner": "fzaninotto", "forks": 2480}
 ]

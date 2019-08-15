@@ -1,12 +1,12 @@
 [
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 29, "stars": 303, "owner": "starship", "forks": 16},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 29, "stars": 304, "owner": "starship", "forks": 16},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 2, "stars": 5582, "owner": "paritytech", "forks": 1298},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 7, "stars": 2782, "owner": "rust-lang-nursery", "forks": 341},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 38417, "owner": "rust-lang", "forks": 5977},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 38418, "owner": "rust-lang", "forks": 5977},
 {"description": null, "language": "Rust", "repo": "neqo", "new_stars": 14, "stars": 275, "owner": "mozilla", "forks": 10},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 19, "stars": 8920, "owner": "firecracker-microvm", "forks": 558},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 19, "stars": 8920, "owner": "firecracker-microvm", "forks": 559},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 17, "stars": 11910, "owner": "libra", "forks": 1658},
-{"description": "A playground to test ergonomics of Rust async programming", "language": "Rust", "repo": "github-star-counter", "new_stars": 5, "stars": 34, "owner": "Byron", "forks": 1},
+{"description": "A playground to test ergonomics of Rust async programming", "language": "Rust", "repo": "github-star-counter", "new_stars": 4, "stars": 34, "owner": "Byron", "forks": 1},
 {"description": "Asynchronous streams for Rust using async & await notation", "language": "Rust", "repo": "async-stream", "new_stars": 7, "stars": 27, "owner": "tokio-rs", "forks": 1},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 14, "stars": 183, "owner": "tokio-rs", "forks": 22},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 4, "stars": 852, "owner": "greshake", "forks": 144},
@@ -20,8 +20,8 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 7, "stars": 3252, "owner": "actix", "forks": 214},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 2, "stars": 4597, "owner": "BurntSushi", "forks": 145},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 5093, "owner": "actix", "forks": 364},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 1625, "owner": "graphql-rust", "forks": 116},
-{"description": "Parser for Rust source code", "language": "Rust", "repo": "syn", "new_stars": 2, "stars": 639, "owner": "dtolnay", "forks": 93},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 5, "stars": 1625, "owner": "graphql-rust", "forks": 116},
+{"description": "Parser for Rust source code", "language": "Rust", "repo": "syn", "new_stars": 3, "stars": 640, "owner": "dtolnay", "forks": 93},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 2, "stars": 550, "owner": "paritytech", "forks": 122},
 {"description": "A TOML encoding/decoding library for Rust", "language": "Rust", "repo": "toml-rs", "new_stars": 2, "stars": 510, "owner": "alexcrichton", "forks": 103}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 98, "stars": 5639, "owner": "tokio-rs", "forks": 462},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 134, "stars": 11898, "owner": "rust-unofficial", "forks": 790},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 134, "stars": 11899, "owner": "rust-unofficial", "forks": 790},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 127, "stars": 8277, "owner": "yewstack", "forks": 305},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 57, "stars": 204, "owner": "tokio-rs", "forks": 22},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 53, "stars": 5807, "owner": "tikv", "forks": 852},
@@ -13,7 +13,7 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 50, "stars": 4085, "owner": "amethyst", "forks": 447},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 50, "stars": 2972, "owner": "maps4print", "forks": 117},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 26, "stars": 1696, "owner": "tree-sitter", "forks": 99},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 202, "stars": 366, "owner": "starship", "forks": 21},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 203, "stars": 367, "owner": "starship", "forks": 21},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 28, "stars": 2345, "owner": "rust-lang-nursery", "forks": 326},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 311, "stars": 247130, "owner": "996icu", "forks": 21334},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 27, "stars": 2787, "owner": "rust-lang-nursery", "forks": 341},

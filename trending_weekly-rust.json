@@ -1,7 +1,7 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 99, "stars": 5640, "owner": "tokio-rs", "forks": 462},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 130, "stars": 11902, "owner": "rust-unofficial", "forks": 790},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 122, "stars": 8278, "owner": "yewstack", "forks": 305},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 123, "stars": 8279, "owner": "yewstack", "forks": 305},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 57, "stars": 205, "owner": "tokio-rs", "forks": 23},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 54, "stars": 5809, "owner": "tikv", "forks": 852},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 208, "stars": 38465, "owner": "rust-lang", "forks": 5981},
@@ -18,7 +18,7 @@
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 312, "stars": 247135, "owner": "996icu", "forks": 21334},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 28, "stars": 2788, "owner": "rust-lang-nursery", "forks": 341},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 31, "stars": 1395, "owner": "paritytech", "forks": 348},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 48, "stars": 5876, "owner": "mre", "forks": 670},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 49, "stars": 5877, "owner": "mre", "forks": 670},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 63, "stars": 7737, "owner": "SergioBenitez", "forks": 538},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 41, "stars": 541, "owner": "cloudflare", "forks": 53},
 {"description": "A gRPC client & server implementation.", "language": "Rust", "repo": "tower-grpc", "new_stars": 12, "stars": 462, "owner": "tower-rs", "forks": 64},

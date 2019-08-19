@@ -1,13 +1,13 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1026, "stars": 38497, "owner": "rust-lang", "forks": 5984},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1024, "stars": 38497, "owner": "rust-lang", "forks": 5984},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 214, "stars": 3272, "owner": "actix", "forks": 215},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 449, "stars": 8298, "owner": "yewstack", "forks": 306},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 538, "stars": 11937, "owner": "rust-unofficial", "forks": 793},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 539, "stars": 11938, "owner": "rust-unofficial", "forks": 793},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 264, "stars": 7748, "owner": "SergioBenitez", "forks": 539},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 169, "stars": 4210, "owner": "rust-lang", "forks": 1144},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 525, "stars": 5502, "owner": "rust-lang", "forks": 493},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 252, "stars": 5817, "owner": "tikv", "forks": 854},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 186, "stars": 5061, "owner": "hyperium", "forks": 741},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 186, "stars": 5061, "owner": "hyperium", "forks": 742},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 597, "stars": 17835, "owner": "jwilm", "forks": 818},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 347, "stars": 5657, "owner": "tokio-rs", "forks": 465},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 462, "stars": 15874, "owner": "BurntSushi", "forks": 650},
@@ -23,5 +23,5 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 78, "stars": 2794, "owner": "rust-lang-nursery", "forks": 342},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 774, "stars": 3091, "owner": "pingcap", "forks": 340},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 94, "stars": 2427, "owner": "rustwasm", "forks": 282},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 155, "stars": 555, "owner": "cloudflare", "forks": 54}
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 156, "stars": 556, "owner": "cloudflare", "forks": 54}
 ]

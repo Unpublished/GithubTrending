@@ -1,7 +1,7 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1045, "stars": 38479, "owner": "rust-lang", "forks": 5984},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 219, "stars": 3265, "owner": "actix", "forks": 215},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 448, "stars": 8283, "owner": "yewstack", "forks": 305},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 450, "stars": 8285, "owner": "yewstack", "forks": 305},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 266, "stars": 7743, "owner": "SergioBenitez", "forks": 538},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 167, "stars": 4203, "owner": "rust-lang", "forks": 1145},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 531, "stars": 11918, "owner": "rust-unofficial", "forks": 793},
@@ -17,7 +17,7 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 123, "stars": 4638, "owner": "rust-lang", "forks": 977},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 79, "stars": 2792, "owner": "rust-lang-nursery", "forks": 342},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 107, "stars": 1673, "owner": "ggez", "forks": 206},
-{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 135, "stars": 1589, "owner": "mit-pdos", "forks": 63},
+{"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 134, "stars": 1589, "owner": "mit-pdos", "forks": 63},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 94, "stars": 2427, "owner": "rustwasm", "forks": 281},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 154, "stars": 1266, "owner": "rust-analyzer", "forks": 133},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 133, "stars": 3080, "owner": "clap-rs", "forks": 307},

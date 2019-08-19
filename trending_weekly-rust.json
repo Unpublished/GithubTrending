@@ -2,7 +2,7 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 97, "stars": 5658, "owner": "tokio-rs", "forks": 465},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 134, "stars": 11940, "owner": "rust-unofficial", "forks": 793},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 121, "stars": 8302, "owner": "yewstack", "forks": 306},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 52, "stars": 4102, "owner": "amethyst", "forks": 447},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 51, "stars": 4102, "owner": "amethyst", "forks": 447},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 56, "stars": 8938, "owner": "firecracker-microvm", "forks": 562},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 28, "stars": 1639, "owner": "graphql-rust", "forks": 119},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 18, "stars": 5589, "owner": "paritytech", "forks": 1300},
@@ -13,7 +13,7 @@
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 214, "stars": 401, "owner": "starship", "forks": 24},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 55, "stars": 215, "owner": "tokio-rs", "forks": 23},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 34, "stars": 4210, "owner": "rust-lang", "forks": 1144},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 198, "stars": 38498, "owner": "rust-lang", "forks": 5984},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 197, "stars": 38498, "owner": "rust-lang", "forks": 5984},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 52, "stars": 5817, "owner": "tikv", "forks": 854},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 25, "stars": 1702, "owner": "tree-sitter", "forks": 100},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 30, "stars": 1399, "owner": "paritytech", "forks": 352},
@@ -22,6 +22,6 @@
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 10, "stars": 815, "owner": "rust-windowing", "forks": 248},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 17, "stars": 2416, "owner": "serde-rs", "forks": 270},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 45, "stars": 5877, "owner": "mre", "forks": 670},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 301, "stars": 247156, "owner": "996icu", "forks": 21337},
-{"description": "the champagne of alpha embedded databases", "language": "Rust", "repo": "sled", "new_stars": 32, "stars": 2181, "owner": "spacejam", "forks": 91}
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 300, "stars": 247156, "owner": "996icu", "forks": 21337},
+{"description": "the champagne of alpha embedded databases", "language": "Rust", "repo": "sled", "new_stars": 33, "stars": 2182, "owner": "spacejam", "forks": 91}
 ]

@@ -1,15 +1,15 @@
 [
 {"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 34, "stars": 4335, "owner": "changkun", "forks": 596},
-{"description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines", "language": "C++", "repo": "mediapipe", "new_stars": 431, "stars": 1013, "owner": "google", "forks": 131},
-{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 10, "stars": 9677, "owner": "catchorg", "forks": 1607},
-{"description": "A library for building cross-platform native desktop applications with JavaScript and CSS like styling.", "language": "C++", "repo": "nodegui", "new_stars": 157, "stars": 813, "owner": "nodegui", "forks": 12},
+{"description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines", "language": "C++", "repo": "mediapipe", "new_stars": 433, "stars": 1016, "owner": "google", "forks": 131},
+{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 8, "stars": 9677, "owner": "catchorg", "forks": 1607},
+{"description": "A library for building cross-platform native desktop applications with JavaScript and CSS like styling.", "language": "C++", "repo": "nodegui", "new_stars": 156, "stars": 814, "owner": "nodegui", "forks": 12},
 {"description": "High-level tracing language for Linux eBPF", "language": "C++", "repo": "bpftrace", "new_stars": 11, "stars": 1791, "owner": "iovisor", "forks": 210},
 {"description": "gRPC for Web Clients", "language": "C++", "repo": "grpc-web", "new_stars": 5, "stars": 3124, "owner": "grpc", "forks": 243},
 {"description": "Lightweight C++ command line option parser", "language": "C++", "repo": "cxxopts", "new_stars": 7, "stars": 1433, "owner": "jarro2783", "forks": 243},
 {"description": "The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "videos", "new_stars": 5, "stars": 498, "owner": "OneLoneCoder", "forks": 375},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 21, "stars": 48881, "owner": "apple", "forks": 7859},
 {"description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.", "language": "C++", "repo": "horovod", "new_stars": 5, "stars": 7247, "owner": "horovod", "forks": 1100},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 68, "stars": 132825, "owner": "tensorflow", "forks": 76828},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 66, "stars": 132825, "owner": "tensorflow", "forks": 76828},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 10, "stars": 1105, "owner": "yhirose", "forks": 261},
 {"description": "An open source platform for visual-inertial navigation research.", "language": "C++", "repo": "open_vins", "new_stars": 5, "stars": 97, "owner": "rpng", "forks": 16},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 11, "stars": 10638, "owner": "envoyproxy", "forks": 1669},
@@ -22,6 +22,6 @@
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 34, "stars": 29248, "owner": "tesseract-ocr", "forks": 5572},
 {"description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)", "language": "C++", "repo": "qgroundcontrol", "new_stars": 0, "stars": 1254, "owner": "mavlink", "forks": 1639},
 {"description": "The Intel\u00ae Media SDK", "language": "C++", "repo": "MediaSDK", "new_stars": 0, "stars": 333, "owner": "Intel-Media-SDK", "forks": 223},
-{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 7, "stars": 7386, "owner": "facebookresearch", "forks": 1376},
+{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 6, "stars": 7386, "owner": "facebookresearch", "forks": 1376},
 {"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 5, "stars": 1175, "owner": "NVIDIA", "forks": 208}
 ]

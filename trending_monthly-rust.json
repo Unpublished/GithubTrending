@@ -1,16 +1,16 @@
 [
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 462, "stars": 8315, "owner": "yewstack", "forks": 308},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 216, "stars": 3283, "owner": "actix", "forks": 215},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1019, "stars": 38519, "owner": "rust-lang", "forks": 5987},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1018, "stars": 38519, "owner": "rust-lang", "forks": 5987},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 264, "stars": 7760, "owner": "SergioBenitez", "forks": 540},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 537, "stars": 5524, "owner": "rust-lang", "forks": 495},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 536, "stars": 5524, "owner": "rust-lang", "forks": 495},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 547, "stars": 11957, "owner": "rust-unofficial", "forks": 794},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 180, "stars": 4226, "owner": "rust-lang", "forks": 1148},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 182, "stars": 5067, "owner": "hyperium", "forks": 743},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 355, "stars": 5674, "owner": "tokio-rs", "forks": 466},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 599, "stars": 17847, "owner": "jwilm", "forks": 818},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 248, "stars": 5822, "owner": "tikv", "forks": 855},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 469, "stars": 15892, "owner": "BurntSushi", "forks": 649},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 471, "stars": 15894, "owner": "BurntSushi", "forks": 649},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 120, "stars": 1727, "owner": "seanmonstar", "forks": 270},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 116, "stars": 4639, "owner": "rust-lang", "forks": 979},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 122, "stars": 1402, "owner": "paritytech", "forks": 356},
@@ -22,6 +22,6 @@
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 226, "stars": 4114, "owner": "wasmerio", "forks": 142},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 160, "stars": 562, "owner": "cloudflare", "forks": 55},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 141, "stars": 4334, "owner": "diesel-rs", "forks": 411},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 151, "stars": 1278, "owner": "rust-analyzer", "forks": 132},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 152, "stars": 1279, "owner": "rust-analyzer", "forks": 132},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 136, "stars": 3091, "owner": "clap-rs", "forks": 308}
 ]

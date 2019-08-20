@@ -1,7 +1,7 @@
 [
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 131, "stars": 11957, "owner": "rust-unofficial", "forks": 794},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 98, "stars": 5674, "owner": "tokio-rs", "forks": 466},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 56, "stars": 8944, "owner": "firecracker-microvm", "forks": 562},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 56, "stars": 8945, "owner": "firecracker-microvm", "forks": 562},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 115, "stars": 8315, "owner": "yewstack", "forks": 308},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 36, "stars": 1649, "owner": "graphql-rust", "forks": 120},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 31, "stars": 2797, "owner": "rust-lang-nursery", "forks": 343},
@@ -16,12 +16,12 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 46, "stars": 4226, "owner": "rust-lang", "forks": 1148},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 51, "stars": 5822, "owner": "tikv", "forks": 855},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 50, "stars": 4108, "owner": "amethyst", "forks": 448},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 19, "stars": 4639, "owner": "rust-lang", "forks": 979},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 18, "stars": 4639, "owner": "rust-lang", "forks": 979},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 63, "stars": 4114, "owner": "wasmerio", "forks": 142},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 16, "stars": 2419, "owner": "serde-rs", "forks": 271},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 28, "stars": 2357, "owner": "rust-lang-nursery", "forks": 328},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 27, "stars": 3685, "owner": "rust-lang", "forks": 490},
-{"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 18, "stars": 1388, "owner": "sfackler", "forks": 147},
+{"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 17, "stars": 1388, "owner": "sfackler", "forks": 147},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 27, "stars": 2662, "owner": "tantivy-search", "forks": 154},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 11, "stars": 551, "owner": "serenity-rs", "forks": 121}
 ]

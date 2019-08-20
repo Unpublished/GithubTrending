@@ -1,6 +1,6 @@
 [
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 89, "stars": 546, "owner": "async-rs", "forks": 30},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 59, "stars": 775, "owner": "ruffle-rs", "forks": 11},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 87, "stars": 546, "owner": "async-rs", "forks": 30},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 60, "stars": 776, "owner": "ruffle-rs", "forks": 11},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 6, "stars": 562, "owner": "cloudflare", "forks": 55},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 8, "stars": 3099, "owner": "pingcap", "forks": 345},
 {"description": "Generic framework and GTK UI for firmware updates from system76-firmware and fwupd, written in Rust.", "language": "Rust", "repo": "firmware-manager", "new_stars": 8, "stars": 37, "owner": "pop-os", "forks": 1},
@@ -20,7 +20,7 @@
 {"description": "Surf the web", "language": "Rust", "repo": "surf", "new_stars": 15, "stars": 273, "owner": "rustasync", "forks": 11},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 8, "stars": 3091, "owner": "clap-rs", "forks": 308},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 14650, "owner": "servo", "forks": 2212},
-{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 5, "stars": 3580, "owner": "neon-bindings", "forks": 154},
+{"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 6, "stars": 3581, "owner": "neon-bindings", "forks": 154},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 4, "stars": 3187, "owner": "tokio-rs", "forks": 378},
 {"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 2, "stars": 1498, "owner": "pest-parser", "forks": 85},
 {"description": "Standalone JIT-style runtime for WebAsssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 4, "stars": 1198, "owner": "CraneStation", "forks": 84}

@@ -1,6 +1,6 @@
 [
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 77, "stars": 558, "owner": "async-rs", "forks": 31},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 58, "stars": 787, "owner": "ruffle-rs", "forks": 11},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 75, "stars": 559, "owner": "async-rs", "forks": 31},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 57, "stars": 787, "owner": "ruffle-rs", "forks": 11},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 6, "stars": 562, "owner": "cloudflare", "forks": 55},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 8, "stars": 3100, "owner": "pingcap", "forks": 345},
 {"description": "Generic framework and GTK UI for firmware updates from system76-firmware and fwupd, written in Rust.", "language": "Rust", "repo": "firmware-manager", "new_stars": 9, "stars": 41, "owner": "pop-os", "forks": 1},
@@ -14,14 +14,14 @@
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 3, "stars": 4337, "owner": "mimblewimble", "forks": 849},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 2, "stars": 553, "owner": "serenity-rs", "forks": 121},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 29, "stars": 4117, "owner": "wasmerio", "forks": 142},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 2, "stars": 1415, "owner": "dani-garcia", "forks": 109},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 14, "stars": 11982, "owner": "libra", "forks": 1671},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 1, "stars": 1415, "owner": "dani-garcia", "forks": 109},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 16, "stars": 11984, "owner": "libra", "forks": 1671},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 334, "owner": "hyperledger", "forks": 396},
 {"description": "Surf the web", "language": "Rust", "repo": "surf", "new_stars": 15, "stars": 278, "owner": "rustasync", "forks": 11},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 8, "stars": 3093, "owner": "clap-rs", "forks": 308},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 8, "stars": 14651, "owner": "servo", "forks": 2212},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 10, "stars": 3587, "owner": "neon-bindings", "forks": 154},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 4, "stars": 3188, "owner": "tokio-rs", "forks": 378},
-{"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 3, "stars": 1499, "owner": "pest-parser", "forks": 85},
+{"description": "The Elegant Parser", "language": "Rust", "repo": "pest", "new_stars": 2, "stars": 1499, "owner": "pest-parser", "forks": 85},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 5, "stars": 1200, "owner": "CraneStation", "forks": 84}
 ]

@@ -1,13 +1,13 @@
 [
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 447, "stars": 8357, "owner": "yewstack", "forks": 315},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 907, "stars": 38623, "owner": "rust-lang", "forks": 6005},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 908, "stars": 38624, "owner": "rust-lang", "forks": 6005},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 172, "stars": 5088, "owner": "hyperium", "forks": 748},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 541, "stars": 5587, "owner": "rust-lang", "forks": 508},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 521, "stars": 12011, "owner": "rust-unofficial", "forks": 798},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 168, "stars": 4238, "owner": "rust-lang", "forks": 1148},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 252, "stars": 7783, "owner": "SergioBenitez", "forks": 542},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 345, "stars": 5705, "owner": "tokio-rs", "forks": 472},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 213, "stars": 3301, "owner": "actix", "forks": 216},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 214, "stars": 3302, "owner": "actix", "forks": 216},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 267, "stars": 4169, "owner": "wasmerio", "forks": 143},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 455, "stars": 15949, "owner": "BurntSushi", "forks": 650},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 606, "stars": 17919, "owner": "jwilm", "forks": 818},
@@ -22,6 +22,6 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 114, "stars": 3696, "owner": "rust-lang", "forks": 491},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 78, "stars": 2804, "owner": "rust-lang-nursery", "forks": 344},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 160, "stars": 574, "owner": "cloudflare", "forks": 56},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 172, "stars": 1439, "owner": "dani-garcia", "forks": 111},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 171, "stars": 1439, "owner": "dani-garcia", "forks": 111},
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 77, "stars": 2501, "owner": "rust-lang", "forks": 192}
 ]

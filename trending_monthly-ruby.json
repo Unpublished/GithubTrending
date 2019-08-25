@@ -8,9 +8,9 @@
 {"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 362, "stars": 18757, "owner": "Homebrew", "forks": 4197},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 437, "stars": 18699, "owner": "tootsuite", "forks": 3254},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 111, "stars": 20133, "owner": "plataformatec", "forks": 4813},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 332, "stars": 38503, "owner": "jekyll", "forks": 8398},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 331, "stars": 38503, "owner": "jekyll", "forks": 8398},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 62, "stars": 4376, "owner": "rails", "forks": 948},
-{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 76, "stars": 7325, "owner": "Shopify", "forks": 952},
+{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 75, "stars": 7325, "owner": "Shopify", "forks": 952},
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 247, "stars": 21236, "owner": "freeCodeCamp", "forks": 1392},
 {"description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.", "language": "Ruby", "repo": "rest-client", "new_stars": 48, "stars": 4707, "owner": "rest-client", "forks": 877},
 {"description": "A lightning fast JSON:API serializer for Ruby Objects.", "language": "Ruby", "repo": "fast_jsonapi", "new_stars": 72, "stars": 4492, "owner": "Netflix", "forks": 341},
@@ -21,7 +21,7 @@
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 44, "stars": 4351, "owner": "activerecord-hackery", "forks": 668},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 77, "stars": 2690, "owner": "solidusio", "forks": 792},
 {"description": "A list of awesome space-related packages and resources maintained by The Orbital Index", "language": "Ruby", "repo": "awesome-space", "new_stars": 215, "stars": 316, "owner": "orbitalindex", "forks": 22},
-{"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 57, "stars": 6581, "owner": "thoughtbot", "forks": 1871},
+{"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 56, "stars": 6581, "owner": "thoughtbot", "forks": 1871},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 123, "stars": 10479, "owner": "elastic", "forks": 2826},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 56, "stars": 6599, "owner": "varvet", "forks": 500}
 ]

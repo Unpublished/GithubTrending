@@ -1,7 +1,7 @@
 [
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 11, "stars": 7693, "owner": "monicahq", "forks": 921},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 18, "stars": 18521, "owner": "laravel", "forks": 6747},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 6, "stars": 21493, "owner": "symfony", "forks": 7112},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 5, "stars": 21493, "owner": "symfony", "forks": 7112},
 {"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 4, "stars": 7052, "owner": "deployphp", "forks": 1012},
 {"description": "A (memory) friendly, lazy, easy and modular collection class.", "language": "PHP", "repo": "collection", "new_stars": 6, "stars": 81, "owner": "drupol", "forks": 4},
 {"description": "The Laravel adapter for Inertia.js.", "language": "PHP", "repo": "inertia-laravel", "new_stars": 6, "stars": 357, "owner": "inertiajs", "forks": 37},
@@ -11,7 +11,7 @@
 {"description": "A php swagger annotation and parsing library", "language": "PHP", "repo": "swagger-php", "new_stars": 3, "stars": 3014, "owner": "zircote", "forks": 579},
 {"description": "Make your own custom cast type for Laravel model attributes", "language": "PHP", "repo": "laravel-custom-casts", "new_stars": 13, "stars": 130, "owner": "vkovic", "forks": 9},
 {"description": "Laravel wrapper for Facebook's GraphQL", "language": "PHP", "repo": "graphql-laravel", "new_stars": 3, "stars": 875, "owner": "rebing", "forks": 140},
-{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 5, "stars": 2274, "owner": "vimeo", "forks": 161},
+{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 6, "stars": 2275, "owner": "vimeo", "forks": 161},
 {"description": "Mautic: Open Source Marketing Automation Software.", "language": "PHP", "repo": "mautic", "new_stars": 2, "stars": 3395, "owner": "mautic", "forks": 1228},
 {"description": "Full-stack testing PHP framework", "language": "PHP", "repo": "Codeception", "new_stars": 0, "stars": 3818, "owner": "Codeception", "forks": 1257},
 {"description": "An asynchronous event driven PHP framework for easily building fast, scalable network applications. Supports HTTP, Websocket, SSL and other custom protocols. Supports libevent, HHVM, ReactPHP.", "language": "PHP", "repo": "Workerman", "new_stars": 2, "stars": 7762, "owner": "walkor", "forks": 1950},
@@ -22,6 +22,6 @@
 {"description": "PHP runtime & extensions header files for PhpStorm", "language": "PHP", "repo": "phpstorm-stubs", "new_stars": 0, "stars": 701, "owner": "JetBrains", "forks": 466},
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 2, "stars": 2610, "owner": "moodle", "forks": 3846},
 {"description": "Instagram PHP Scraper. Get account information, photos, videos, stories and comments.", "language": "PHP", "repo": "instagram-php-scraper", "new_stars": 2, "stars": 1384, "owner": "postaddictme", "forks": 387},
-{"description": "The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.", "language": "PHP", "repo": "framework-bundle", "new_stars": 4, "stars": 1956, "owner": "symfony", "forks": 75},
+{"description": "The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.", "language": "PHP", "repo": "framework-bundle", "new_stars": 3, "stars": 1956, "owner": "symfony", "forks": 75},
 {"description": "Module Management In Laravel", "language": "PHP", "repo": "laravel-modules", "new_stars": 0, "stars": 2385, "owner": "nWidart", "forks": 450}
 ]

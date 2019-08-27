@@ -1,13 +1,13 @@
 [
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 480, "stars": 2857, "owner": "nushell", "forks": 80},
-{"description": "A command-line tool to generate, analyze, convert and manipulate colors", "language": "Rust", "repo": "pastel", "new_stars": 84, "stars": 545, "owner": "sharkdp", "forks": 6},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 1, "stars": 1419, "owner": "paritytech", "forks": 360},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 479, "stars": 2863, "owner": "nushell", "forks": 81},
+{"description": "A command-line tool to generate, analyze, convert and manipulate colors", "language": "Rust", "repo": "pastel", "new_stars": 83, "stars": 545, "owner": "sharkdp", "forks": 6},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 1420, "owner": "paritytech", "forks": 360},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 38696, "owner": "rust-lang", "forks": 6016},
-{"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 4, "stars": 101, "owner": "anp", "forks": 6},
+{"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 6, "stars": 103, "owner": "anp", "forks": 6},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 7, "stars": 5938, "owner": "mre", "forks": 681},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 336, "owner": "hyperledger", "forks": 405},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 3, "stars": 571, "owner": "paritytech", "forks": 126},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 52, "stars": 1045, "owner": "ruffle-rs", "forks": 18},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 53, "stars": 1047, "owner": "ruffle-rs", "forks": 18},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 4140, "owner": "amethyst", "forks": 454},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 0, "stars": 2104, "owner": "crossbeam-rs", "forks": 148},
 {"description": "A simple terminal clock written in Rust.", "language": "Rust", "repo": "rsClock", "new_stars": 2, "stars": 20, "owner": "valebes", "forks": 1},
@@ -21,7 +21,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 12048, "owner": "rust-unofficial", "forks": 804},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 2, "stars": 243, "owner": "tokio-rs", "forks": 25},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 15, "stars": 12054, "owner": "libra", "forks": 1685},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 24, "stars": 8404, "owner": "yewstack", "forks": 316},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 25, "stars": 8406, "owner": "yewstack", "forks": 316},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 9, "stars": 8998, "owner": "firecracker-microvm", "forks": 570},
 {"description": "Cross Platform 3D Rendered GUI Widget Library for Rust", "language": "Rust", "repo": "rust-pushrod", "new_stars": 8, "stars": 187, "owner": "KenSuenobu", "forks": 9}
 ]

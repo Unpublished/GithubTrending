@@ -1,10 +1,10 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 861, "stars": 38674, "owner": "rust-lang", "forks": 6018},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 863, "stars": 38676, "owner": "rust-lang", "forks": 6018},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 443, "stars": 8390, "owner": "yewstack", "forks": 316},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 163, "stars": 5095, "owner": "hyperium", "forks": 748},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 517, "stars": 5605, "owner": "rust-lang", "forks": 515},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 510, "stars": 12045, "owner": "rust-unofficial", "forks": 802},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 339, "stars": 5721, "owner": "tokio-rs", "forks": 474},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 516, "stars": 5605, "owner": "rust-lang", "forks": 515},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 509, "stars": 12045, "owner": "rust-unofficial", "forks": 802},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 338, "stars": 5721, "owner": "tokio-rs", "forks": 474},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 252, "stars": 7798, "owner": "SergioBenitez", "forks": 542},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 158, "stars": 4244, "owner": "rust-lang", "forks": 1150},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 456, "stars": 15972, "owner": "BurntSushi", "forks": 650},
@@ -21,7 +21,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 206, "stars": 3308, "owner": "actix", "forks": 216},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 153, "stars": 1299, "owner": "rust-analyzer", "forks": 137},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 101, "stars": 1418, "owner": "paritytech", "forks": 358},
-{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 75, "stars": 2804, "owner": "rust-lang-nursery", "forks": 345},
-{"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 79, "stars": 2506, "owner": "rust-lang", "forks": 192},
+{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 76, "stars": 2805, "owner": "rust-lang-nursery", "forks": 345},
+{"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 80, "stars": 2507, "owner": "rust-lang", "forks": 192},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 112, "stars": 241, "owner": "tokio-rs", "forks": 25}
 ]

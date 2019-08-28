@@ -1,16 +1,16 @@
 [
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 257, "stars": 1059, "owner": "ruffle-rs", "forks": 18},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 125, "stars": 693, "owner": "async-rs", "forks": 44},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 258, "stars": 1061, "owner": "ruffle-rs", "forks": 18},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 123, "stars": 693, "owner": "async-rs", "forks": 44},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 93, "stars": 604, "owner": "xi-editor", "forks": 31},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 191, "stars": 38703, "owner": "rust-lang", "forks": 6016},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 192, "stars": 611, "owner": "starship", "forks": 33},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 44, "stars": 1992, "owner": "Spotifyd", "forks": 106},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 38704, "owner": "rust-lang", "forks": 6016},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 186, "stars": 611, "owner": "starship", "forks": 33},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 45, "stars": 1993, "owner": "Spotifyd", "forks": 106},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 14, "stars": 572, "owner": "paritytech", "forks": 127},
-{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 72, "stars": 3064, "owner": "maps4print", "forks": 120},
+{"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 71, "stars": 3064, "owner": "maps4print", "forks": 120},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 37, "stars": 4670, "owner": "rust-lang", "forks": 985},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 54, "stars": 5940, "owner": "mre", "forks": 682},
-{"description": "Systems performance telemetry", "language": "Rust", "repo": "rezolus", "new_stars": 252, "stars": 569, "owner": "twitter", "forks": 23},
-{"description": "Surf the web", "language": "Rust", "repo": "surf", "new_stars": 53, "stars": 334, "owner": "rustasync", "forks": 15},
+{"description": "Systems performance telemetry", "language": "Rust", "repo": "rezolus", "new_stars": 251, "stars": 570, "owner": "twitter", "forks": 23},
+{"description": "Surf the web", "language": "Rust", "repo": "surf", "new_stars": 52, "stars": 334, "owner": "rustasync", "forks": 15},
 {"description": null, "language": "Rust", "repo": "linux-kernel-module-rust", "new_stars": 152, "stars": 372, "owner": "lizhuohua", "forks": 10},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 44, "stars": 1243, "owner": "CraneStation", "forks": 84},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 42, "stars": 16621, "owner": "xi-editor", "forks": 608},
@@ -23,5 +23,5 @@
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 42, "stars": 1620, "owner": "PyO3", "forks": 109},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 2, "stars": 336, "owner": "hyperledger", "forks": 406},
 {"description": "A high-performance, bindless graphics API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 29, "stars": 3314, "owner": "gfx-rs", "forks": 386},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 41, "stars": 2259, "owner": "getzola", "forks": 210}
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 40, "stars": 2259, "owner": "getzola", "forks": 210}
 ]

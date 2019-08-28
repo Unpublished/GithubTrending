@@ -1,11 +1,11 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 861, "stars": 38701, "owner": "rust-lang", "forks": 6017},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 860, "stars": 38701, "owner": "rust-lang", "forks": 6016},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 453, "stars": 8408, "owner": "yewstack", "forks": 316},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 200, "stars": 602, "owner": "xi-editor", "forks": 31},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 161, "stars": 5096, "owner": "hyperium", "forks": 749},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 505, "stars": 12048, "owner": "rust-unofficial", "forks": 804},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 512, "stars": 5616, "owner": "rust-lang", "forks": 518},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 339, "stars": 5726, "owner": "tokio-rs", "forks": 476},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 513, "stars": 5617, "owner": "rust-lang", "forks": 518},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 340, "stars": 5727, "owner": "tokio-rs", "forks": 476},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 249, "stars": 7804, "owner": "SergioBenitez", "forks": 541},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 90, "stars": 1695, "owner": "ggez", "forks": 212},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 154, "stars": 4250, "owner": "rust-lang", "forks": 1149},
@@ -17,11 +17,11 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 209, "stars": 3313, "owner": "actix", "forks": 216},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 151, "stars": 1303, "owner": "rust-analyzer", "forks": 137},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 165, "stars": 591, "owner": "cloudflare", "forks": 56},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 122, "stars": 3716, "owner": "rust-lang", "forks": 492},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 123, "stars": 3717, "owner": "rust-lang", "forks": 492},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 456, "stars": 15982, "owner": "BurntSushi", "forks": 651},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 113, "stars": 243, "owner": "tokio-rs", "forks": 25},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 161, "stars": 1451, "owner": "dani-garcia", "forks": 112},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 211, "stars": 3061, "owner": "maps4print", "forks": 120},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 357, "stars": 10476, "owner": "sharkdp", "forks": 269},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 356, "stars": 10476, "owner": "sharkdp", "forks": 269},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 125, "stars": 1605, "owner": "mit-pdos", "forks": 62}
 ]

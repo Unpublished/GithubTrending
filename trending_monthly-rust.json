@@ -1,13 +1,13 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 865, "stars": 38726, "owner": "rust-lang", "forks": 6023},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 461, "stars": 8423, "owner": "yewstack", "forks": 317},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 505, "stars": 12062, "owner": "rust-unofficial", "forks": 803},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 462, "stars": 8424, "owner": "yewstack", "forks": 317},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 505, "stars": 12063, "owner": "rust-unofficial", "forks": 803},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 348, "stars": 5744, "owner": "tokio-rs", "forks": 477},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 258, "stars": 7816, "owner": "SergioBenitez", "forks": 542},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 153, "stars": 4251, "owner": "rust-lang", "forks": 1154},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 259, "stars": 7817, "owner": "SergioBenitez", "forks": 542},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 154, "stars": 4252, "owner": "rust-lang", "forks": 1154},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 121, "stars": 4673, "owner": "rust-lang", "forks": 986},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 161, "stars": 5100, "owner": "hyperium", "forks": 750},
-{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 265, "stars": 4209, "owner": "wasmerio", "forks": 144},
+{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 266, "stars": 4210, "owner": "wasmerio", "forks": 144},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 200, "stars": 606, "owner": "xi-editor", "forks": 31},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 87, "stars": 1696, "owner": "ggez", "forks": 212},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 643, "stars": 18009, "owner": "jwilm", "forks": 823},
@@ -22,6 +22,6 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 506, "stars": 5630, "owner": "rust-lang", "forks": 520},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 125, "stars": 1610, "owner": "mit-pdos", "forks": 63},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 93, "stars": 2461, "owner": "rustwasm", "forks": 287},
-{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 117, "stars": 247, "owner": "tokio-rs", "forks": 25},
+{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 118, "stars": 248, "owner": "tokio-rs", "forks": 25},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 214, "stars": 3068, "owner": "maps4print", "forks": 120}
 ]

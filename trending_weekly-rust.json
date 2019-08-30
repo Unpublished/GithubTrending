@@ -1,5 +1,5 @@
 [
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 261, "stars": 1107, "owner": "ruffle-rs", "forks": 19},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 259, "stars": 1107, "owner": "ruffle-rs", "forks": 19},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 13, "stars": 573, "owner": "paritytech", "forks": 130},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 78, "stars": 2046, "owner": "CraneStation", "forks": 168},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 48, "stars": 1631, "owner": "PyO3", "forks": 110},
@@ -13,8 +13,8 @@
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 53, "stars": 3073, "owner": "maps4print", "forks": 122},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 31, "stars": 1258, "owner": "CraneStation", "forks": 88},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 99, "stars": 4254, "owner": "wasmerio", "forks": 145},
-{"description": "Systems performance telemetry", "language": "Rust", "repo": "rezolus", "new_stars": 90, "stars": 603, "owner": "twitter", "forks": 24},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 44, "stars": 4680, "owner": "rust-lang", "forks": 987},
+{"description": "Systems performance telemetry", "language": "Rust", "repo": "rezolus", "new_stars": 91, "stars": 604, "owner": "twitter", "forks": 24},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 44, "stars": 4680, "owner": "rust-lang", "forks": 988},
 {"description": "An easy-to-use, 2D GUI library written entirely in Rust.", "language": "Rust", "repo": "conrod", "new_stars": 15, "stars": 2328, "owner": "PistonDevelopers", "forks": 229},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 114, "stars": 12111, "owner": "libra", "forks": 1705},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 12, "stars": 878, "owner": "librespot-org", "forks": 125},
@@ -23,5 +23,5 @@
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 24, "stars": 2041, "owner": "rustwasm", "forks": 118},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 86, "stars": 15004, "owner": "sharkdp", "forks": 290},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 98, "stars": 8441, "owner": "yewstack", "forks": 318},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 96, "stars": 643, "owner": "starship", "forks": 39}
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 94, "stars": 643, "owner": "starship", "forks": 39}
 ]

@@ -1,5 +1,5 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 842, "stars": 38796, "owner": "rust-lang", "forks": 6028},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 844, "stars": 38798, "owner": "rust-lang", "forks": 6028},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 451, "stars": 8447, "owner": "yewstack", "forks": 320},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 496, "stars": 12098, "owner": "rust-unofficial", "forks": 804},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 346, "stars": 5768, "owner": "tokio-rs", "forks": 482},
@@ -16,7 +16,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 205, "stars": 14725, "owner": "servo", "forks": 2221},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 218, "stars": 3347, "owner": "actix", "forks": 218},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 365, "stars": 10518, "owner": "sharkdp", "forks": 271},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 120, "stars": 1258, "owner": "CraneStation", "forks": 88},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 119, "stars": 1258, "owner": "CraneStation", "forks": 88},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 123, "stars": 3726, "owner": "rust-lang", "forks": 495},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 421, "stars": 16016, "owner": "BurntSushi", "forks": 653},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 139, "stars": 2285, "owner": "getzola", "forks": 211},

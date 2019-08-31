@@ -1,7 +1,7 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 846, "stars": 38787, "owner": "rust-lang", "forks": 6026},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 843, "stars": 38787, "owner": "rust-lang", "forks": 6026},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 458, "stars": 8446, "owner": "yewstack", "forks": 320},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 499, "stars": 12094, "owner": "rust-unofficial", "forks": 804},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 499, "stars": 12095, "owner": "rust-unofficial", "forks": 804},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 344, "stars": 5764, "owner": "tokio-rs", "forks": 482},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 300, "stars": 4263, "owner": "wasmerio", "forks": 145},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 116, "stars": 4682, "owner": "rust-lang", "forks": 988},
@@ -12,7 +12,7 @@
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 103, "stars": 1999, "owner": "Spotifyd", "forks": 106},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 86, "stars": 2820, "owner": "rust-lang-nursery", "forks": 348},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 79, "stars": 1698, "owner": "ggez", "forks": 212},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 151, "stars": 1465, "owner": "dani-garcia", "forks": 111},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 150, "stars": 1465, "owner": "dani-garcia", "forks": 111},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 205, "stars": 14724, "owner": "servo", "forks": 2221},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 220, "stars": 3347, "owner": "actix", "forks": 218},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 368, "stars": 10517, "owner": "sharkdp", "forks": 271},

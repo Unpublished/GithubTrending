@@ -1,11 +1,11 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 845, "stars": 38802, "owner": "rust-lang", "forks": 6029},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 844, "stars": 38803, "owner": "rust-lang", "forks": 6029},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 449, "stars": 8448, "owner": "yewstack", "forks": 320},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 495, "stars": 12100, "owner": "rust-unofficial", "forks": 804},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 347, "stars": 5770, "owner": "tokio-rs", "forks": 482},
-{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 300, "stars": 4270, "owner": "wasmerio", "forks": 145},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 349, "stars": 5772, "owner": "tokio-rs", "forks": 482},
+{"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 301, "stars": 4271, "owner": "wasmerio", "forks": 145},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 117, "stars": 4685, "owner": "rust-lang", "forks": 988},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 158, "stars": 4273, "owner": "rust-lang", "forks": 1156},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 158, "stars": 4274, "owner": "rust-lang", "forks": 1156},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 207, "stars": 617, "owner": "xi-editor", "forks": 32},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 265, "stars": 7842, "owner": "SergioBenitez", "forks": 545},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 150, "stars": 5118, "owner": "hyperium", "forks": 751},
@@ -13,7 +13,7 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 88, "stars": 2822, "owner": "rust-lang-nursery", "forks": 349},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 78, "stars": 1699, "owner": "ggez", "forks": 212},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 149, "stars": 1467, "owner": "dani-garcia", "forks": 111},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 207, "stars": 14727, "owner": "servo", "forks": 2221},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 208, "stars": 14728, "owner": "servo", "forks": 2221},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 216, "stars": 3348, "owner": "actix", "forks": 218},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 363, "stars": 10519, "owner": "sharkdp", "forks": 271},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 120, "stars": 1259, "owner": "CraneStation", "forks": 88},
@@ -23,5 +23,5 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 174, "stars": 613, "owner": "cloudflare", "forks": 59},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 210, "stars": 3076, "owner": "maps4print", "forks": 123},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 138, "stars": 2051, "owner": "CraneStation", "forks": 169},
-{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 121, "stars": 251, "owner": "tokio-rs", "forks": 26}
+{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 122, "stars": 252, "owner": "tokio-rs", "forks": 26}
 ]

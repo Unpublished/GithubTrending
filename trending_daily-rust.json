@@ -1,10 +1,10 @@
 [
-{"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 106, "stars": 487, "owner": "lumen", "forks": 11},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 14, "stars": 5772, "owner": "tokio-rs", "forks": 482},
-{"description": "A command-line tool to generate, analyze, convert and manipulate colors", "language": "Rust", "repo": "pastel", "new_stars": 149, "stars": 1834, "owner": "sharkdp", "forks": 31},
+{"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 106, "stars": 489, "owner": "lumen", "forks": 12},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 15, "stars": 5773, "owner": "tokio-rs", "forks": 482},
+{"description": "A command-line tool to generate, analyze, convert and manipulate colors", "language": "Rust", "repo": "pastel", "new_stars": 145, "stars": 1835, "owner": "sharkdp", "forks": 32},
 {"description": "Universal WebAssembly runtime", "language": "Rust", "repo": "wasmer", "new_stars": 11, "stars": 4271, "owner": "wasmerio", "forks": 145},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 24, "stars": 2111, "owner": "timberio", "forks": 78},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 38803, "owner": "rust-lang", "forks": 6029},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 25, "stars": 2113, "owner": "timberio", "forks": 79},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 38803, "owner": "rust-lang", "forks": 6030},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 5220, "owner": "actix", "forks": 371},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 7842, "owner": "SergioBenitez", "forks": 545},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 1, "stars": 613, "owner": "cloudflare", "forks": 59},
@@ -23,5 +23,5 @@
 {"description": "A gRPC client & server implementation.", "language": "Rust", "repo": "tower-grpc", "new_stars": 1, "stars": 481, "owner": "tower-rs", "forks": 66},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 9, "stars": 5118, "owner": "hyperium", "forks": 751},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 0, "stars": 563, "owner": "serenity-rs", "forks": 123},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 2, "stars": 1685, "owner": "graphql-rust", "forks": 123}
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 1, "stars": 1685, "owner": "graphql-rust", "forks": 123}
 ]

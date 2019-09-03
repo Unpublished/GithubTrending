@@ -1,13 +1,13 @@
 [
-{"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 150, "stars": 1048, "owner": "lumen", "forks": 27},
-{"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 128, "stars": 391, "owner": "Edu4rdSHL", "forks": 55},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 97, "stars": 2339, "owner": "timberio", "forks": 89},
+{"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 148, "stars": 1052, "owner": "lumen", "forks": 27},
+{"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 130, "stars": 397, "owner": "Edu4rdSHL", "forks": 55},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 100, "stars": 2342, "owner": "timberio", "forks": 89},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 7862, "owner": "SergioBenitez", "forks": 548},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 16, "stars": 5698, "owner": "rust-lang", "forks": 526},
 {"description": "Cross Platform 3D Rendered GUI Widget Library for Rust", "language": "Rust", "repo": "rust-pushrod", "new_stars": 7, "stars": 228, "owner": "KenSuenobu", "forks": 11},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 38862, "owner": "rust-lang", "forks": 6037},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 8, "stars": 5134, "owner": "hyperium", "forks": 750},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 33, "stars": 4707, "owner": "BurntSushi", "forks": 147},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 26, "stars": 38863, "owner": "rust-lang", "forks": 6037},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 10, "stars": 5136, "owner": "hyperium", "forks": 750},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 34, "stars": 4708, "owner": "BurntSushi", "forks": 147},
 {"description": "A renderer-agnostic GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 12, "stars": 51, "owner": "hecrj", "forks": 2},
 {"description": "Security advisory database for Rust crates published through crates.io", "language": "Rust", "repo": "advisory-db", "new_stars": 3, "stars": 223, "owner": "RustSec", "forks": 40},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 7, "stars": 3149, "owner": "pingcap", "forks": 357},
@@ -21,7 +21,7 @@
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 19, "stars": 12164, "owner": "libra", "forks": 1720},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 5, "stars": 4379, "owner": "diesel-rs", "forks": 414},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 5, "stars": 4171, "owner": "amethyst", "forks": 458},
-{"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 3, "stars": 1404, "owner": "sfackler", "forks": 150},
+{"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 2, "stars": 1404, "owner": "sfackler", "forks": 150},
 {"description": "Find unused dependencies in Cargo.toml", "language": "Rust", "repo": "cargo-udeps", "new_stars": 8, "stars": 79, "owner": "est31", "forks": 2},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 15, "stars": 7414, "owner": "ogham", "forks": 239}
 ]

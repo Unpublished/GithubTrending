@@ -1,13 +1,13 @@
 [
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 61, "stars": 2406, "owner": "", "forks": 92},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 61, "stars": 2407, "owner": "", "forks": 92},
 {"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 85, "stars": 1140, "owner": "", "forks": 29},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 54, "stars": 451, "owner": "", "forks": 57},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 25, "stars": 18101, "owner": "", "forks": 828},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 101, "stars": 843, "owner": "", "forks": 43},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 25, "stars": 18102, "owner": "", "forks": 828},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 101, "stars": 844, "owner": "", "forks": 43},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 15077, "owner": "", "forks": 294},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 3, "stars": 595, "owner": "", "forks": 177},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 34, "stars": 3329, "owner": "", "forks": 61},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 16, "stars": 3326, "owner": "", "forks": 113},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 34, "stars": 3330, "owner": "", "forks": 61},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 16, "stars": 3327, "owner": "", "forks": 113},
 {"description": "Rust library for single assignment cells and lazy statics without macros", "language": "Rust", "repo": "once_cell", "new_stars": 4, "stars": 207, "owner": "", "forks": 13},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 27, "stars": 10600, "owner": "", "forks": 271},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 19, "stars": 12182, "owner": "", "forks": 1724},
@@ -22,6 +22,6 @@
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 1, "stars": 259, "owner": "", "forks": 27},
 {"description": "A gRPC client & server implementation.", "language": "Rust", "repo": "tower-grpc", "new_stars": 1, "stars": 488, "owner": "", "forks": 66},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 1, "stars": 4353, "owner": "", "forks": 856},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 8, "stars": 7271, "owner": "", "forks": 204},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 8, "stars": 7272, "owner": "", "forks": 204},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 1432, "owner": "", "forks": 372}
 ]

@@ -18,7 +18,7 @@ class TrendingSpiderBase(scrapy.Spider):
         repo_list = response.css(REPO_LIST_PATH)
         for item in repo_list.xpath('article'):
             yield {
-                'owner':       item.xpath("h1/a/span/text()").re(r'[^\s\/]*')[0],
+                'owner':       item.xpath("h1/a/span/text()").re(r'[^\s\/]+')[0],
                 'repo':        self.to_string(item.xpath("h1/a/text()")),
                 'description': self.to_string(item.xpath("p/text()")),
                 'language':    self.to_string(item.xpath("div[2]/span/span[@itemprop='programmingLanguage']/text()")),

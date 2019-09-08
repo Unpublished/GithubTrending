@@ -1,10 +1,10 @@
 [
 {"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 792, "stars": 1203, "owner": "lumen", "forks": 31},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 901, "stars": 1561, "owner": "starship", "forks": 57},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 391, "stars": 2482, "owner": "timberio", "forks": 93},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 901, "stars": 1564, "owner": "starship", "forks": 57},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 392, "stars": 2483, "owner": "timberio", "forks": 93},
 {"description": "Framework for writing Linux kernel modules in safe Rust", "language": "Rust", "repo": "linux-kernel-module-rust", "new_stars": 88, "stars": 408, "owner": "fishinabarrel", "forks": 26},
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 164, "stars": 37952, "owner": "denoland", "forks": 1738},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 105, "stars": 15110, "owner": "sharkdp", "forks": 295},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 164, "stars": 37951, "owner": "denoland", "forks": 1738},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 105, "stars": 15111, "owner": "sharkdp", "forks": 295},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 109, "stars": 12216, "owner": "libra", "forks": 1738},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 36, "stars": 3196, "owner": "rayon-rs", "forks": 205},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 110, "stars": 4741, "owner": "BurntSushi", "forks": 149},
@@ -22,6 +22,6 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 37, "stars": 1763, "owner": "tree-sitter", "forks": 105},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 12, "stars": 600, "owner": "actix", "forks": 179},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 65, "stars": 7902, "owner": "SergioBenitez", "forks": 552},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 556, "stars": 3876, "owner": "nushell", "forks": 106},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 557, "stars": 3877, "owner": "nushell", "forks": 106},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 23, "stars": 3305, "owner": "Geal", "forks": 370}
 ]

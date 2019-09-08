@@ -1,6 +1,6 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 835, "stars": 38975, "owner": "rust-lang", "forks": 6054},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 407, "stars": 8523, "owner": "yewstack", "forks": 323},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 409, "stars": 8524, "owner": "yewstack", "forks": 323},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 151, "stars": 622, "owner": "xi-editor", "forks": 33},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 127, "stars": 1287, "owner": "CraneStation", "forks": 92},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 151, "stars": 2310, "owner": "getzola", "forks": 216},
@@ -17,7 +17,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 408, "stars": 15115, "owner": "sharkdp", "forks": 295},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 120, "stars": 1794, "owner": "seanmonstar", "forks": 279},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 173, "stars": 5163, "owner": "hyperium", "forks": 751},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 329, "stars": 5826, "owner": "tokio-rs", "forks": 485},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 329, "stars": 5827, "owner": "tokio-rs", "forks": 485},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 138, "stars": 2070, "owner": "CraneStation", "forks": 172},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 113, "stars": 4703, "owner": "rust-lang", "forks": 989},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 110, "stars": 2338, "owner": "XAMPPRocky", "forks": 156},

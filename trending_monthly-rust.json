@@ -1,5 +1,5 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 845, "stars": 39000, "owner": "rust-lang", "forks": 6057},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 846, "stars": 39001, "owner": "rust-lang", "forks": 6057},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 407, "stars": 8532, "owner": "yewstack", "forks": 324},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 145, "stars": 624, "owner": "xi-editor", "forks": 33},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 125, "stars": 1296, "owner": "CraneStation", "forks": 92},
@@ -13,7 +13,7 @@
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 126, "stars": 263, "owner": "tokio-rs", "forks": 28},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 79, "stars": 1720, "owner": "ggez", "forks": 213},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 209, "stars": 3118, "owner": "maps4print", "forks": 125},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 403, "stars": 15126, "owner": "sharkdp", "forks": 295},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 405, "stars": 15128, "owner": "sharkdp", "forks": 295},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 518, "stars": 18174, "owner": "jwilm", "forks": 834},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 135, "stars": 2072, "owner": "CraneStation", "forks": 173},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 485, "stars": 12211, "owner": "rust-unofficial", "forks": 807},
@@ -22,6 +22,6 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 202, "stars": 6005, "owner": "mre", "forks": 686},
 {"description": "A program that allows you to count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 110, "stars": 2342, "owner": "XAMPPRocky", "forks": 157},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 144, "stars": 1504, "owner": "dani-garcia", "forks": 112},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 319, "stars": 5831, "owner": "tokio-rs", "forks": 485},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 320, "stars": 5831, "owner": "tokio-rs", "forks": 485},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 174, "stars": 4748, "owner": "BurntSushi", "forks": 150}
 ]

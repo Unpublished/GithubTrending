@@ -1,7 +1,7 @@
 [
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 5, "stars": 11905, "owner": "CocoaPods", "forks": 2136},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 15, "stars": 26697, "owner": "fastlane", "forks": 4098},
-{"description": "A lightning fast JSON:API serializer for Ruby Objects.", "language": "Ruby", "repo": "fast_jsonapi", "new_stars": 2, "stars": 4527, "owner": "Netflix", "forks": 348},
+{"description": "A lightning fast JSON:API serializer for Ruby Objects.", "language": "Ruby", "repo": "fast_jsonapi", "new_stars": 2, "stars": 4527, "owner": "Netflix", "forks": 349},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 1, "stars": 4413, "owner": "doorkeeper-gem", "forks": 877},
 {"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 0, "stars": 3791, "owner": "colszowka", "forks": 421},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 5, "stars": 18866, "owner": "hashicorp", "forks": 3796},
@@ -20,7 +20,7 @@
 {"description": "Easy file attachment management for ActiveRecord", "language": "Ruby", "repo": "paperclip", "new_stars": 1, "stars": 9061, "owner": "thoughtbot", "forks": 2066},
 {"description": "Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff", "language": "Ruby", "repo": "rails-i18n", "new_stars": 0, "stars": 3481, "owner": "svenfuchs", "forks": 2522},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 4, "stars": 6601, "owner": "thoughtbot", "forks": 1877},
-{"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 709, "owner": "dependabot", "forks": 147},
+{"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 710, "owner": "dependabot", "forks": 147},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 1, "stars": 6619, "owner": "varvet", "forks": 503},
 {"description": "help to kill N+1 queries and unused eager loading", "language": "Ruby", "repo": "bullet", "new_stars": 1, "stars": 5644, "owner": "flyerhzm", "forks": 311},
 {"description": "A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.", "language": "Ruby", "repo": "ruby-jwt", "new_stars": 0, "stars": 2657, "owner": "jwt", "forks": 265}

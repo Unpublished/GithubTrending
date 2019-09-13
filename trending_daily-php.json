@@ -1,17 +1,17 @@
 [
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 15, "stars": 18759, "owner": "laravel", "forks": 6796},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 16, "stars": 18759, "owner": "laravel", "forks": 6796},
 {"description": "Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant", "language": "PHP", "repo": "multi-tenant", "new_stars": 3, "stars": 1638, "owner": "tenancy", "forks": 257},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 21621, "owner": "symfony", "forks": 7133},
-{"description": "A framework agnostic PHP library to build chat bots", "language": "PHP", "repo": "botman", "new_stars": 2, "stars": 4671, "owner": "botman", "forks": 548},
+{"description": "A framework agnostic PHP library to build chat bots", "language": "PHP", "repo": "botman", "new_stars": 3, "stars": 4671, "owner": "botman", "forks": 548},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 6, "stars": 2329, "owner": "vimeo", "forks": 169},
 {"description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)", "language": "PHP", "repo": "MISP", "new_stars": 2, "stars": 2282, "owner": "MISP", "forks": 691},
 {"description": "Doctrine Database Migrations Library", "language": "PHP", "repo": "migrations", "new_stars": 4, "stars": 2661, "owner": "doctrine", "forks": 301},
-{"description": "A PHP port of GraphQL reference implementation", "language": "PHP", "repo": "graphql-php", "new_stars": 0, "stars": 3317, "owner": "webonyx", "forks": 334},
+{"description": "A PHP port of GraphQL reference implementation", "language": "PHP", "repo": "graphql-php", "new_stars": 1, "stars": 3317, "owner": "webonyx", "forks": 334},
 {"description": "GLPI is a Free Asset and IT Management Software package,ITIL Service Desk, licenses tracking and software auditing.", "language": "PHP", "repo": "glpi", "new_stars": 4, "stars": 1283, "owner": "glpi-project", "forks": 519},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 17, "stars": 19994, "owner": "danielmiessler", "forks": 8080},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 9, "stars": 17627, "owner": "guzzle", "forks": 1982},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 19, "stars": 19994, "owner": "danielmiessler", "forks": 8080},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 10, "stars": 17627, "owner": "guzzle", "forks": 1982},
 {"description": "Parse and retrieve data from Excel XLSx files", "language": "PHP", "repo": "simplexlsx", "new_stars": 3, "stars": 348, "owner": "shuchkin", "forks": 112},
-{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 1, "stars": 5519, "owner": "woocommerce", "forks": 5769},
+{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 2, "stars": 5519, "owner": "woocommerce", "forks": 5770},
 {"description": "GraphQL Server for Laravel", "language": "PHP", "repo": "lighthouse", "new_stars": 3, "stars": 1214, "owner": "nuwave", "forks": 129},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 4, "stars": 6765, "owner": "doctrine", "forks": 2121},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 6, "stars": 13724, "owner": "PHPMailer", "forks": 7522},
@@ -22,6 +22,6 @@
 {"description": "\u6301\u66f4\u3010\u5927\u5496\u8bf4PHP\u3011\u5927\u5382\u6216\u5927\u725b\u5206\u4eab\u7684PHP\u9ad8\u9636\u73a9\u6cd5\u3002\u5927\u5382\u6709\u5982\u817e\u8baf\u3001\u65b0\u6d6a\u3001\u6709\u8d5e\u3001\u964c\u964c\u3001\u74dc\u5b50\u3001\u9605\u6587\u96c6\u56e2\u7b49\uff0c\u5927\u5496\u6709\u5982\u9e1f\u54e5\u3001\u97e9\u5929\u5cf0\u3001\u80e1\u6ce2\u3001\u9ad8\u9a70\u6d9b\u7b49", "language": "PHP", "repo": "awesome-php-meetup", "new_stars": 4, "stars": 97, "owner": "baiyutang", "forks": 15},
 {"description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.", "language": "PHP", "repo": "jQuery-File-Upload", "new_stars": 6, "stars": 30257, "owner": "blueimp", "forks": 8037},
 {"description": "Doctrine Common", "language": "PHP", "repo": "common", "new_stars": 5, "stars": 3851, "owner": "doctrine", "forks": 282},
-{"description": "An object oriented PHP driver for FFMpeg binary", "language": "PHP", "repo": "PHP-FFMpeg", "new_stars": 7, "stars": 2941, "owner": "PHP-FFMpeg", "forks": 664},
-{"description": "Aplikasi Ujian Online dengan Codeigniter 3", "language": "PHP", "repo": "ujian-online-ci", "new_stars": 2, "stars": 16, "owner": "arfandotid", "forks": 19}
+{"description": "An object oriented PHP driver for FFMpeg binary", "language": "PHP", "repo": "PHP-FFMpeg", "new_stars": 6, "stars": 2941, "owner": "PHP-FFMpeg", "forks": 664},
+{"description": "Aplikasi Ujian Online dengan Codeigniter 3", "language": "PHP", "repo": "ujian-online-ci", "new_stars": 3, "stars": 16, "owner": "arfandotid", "forks": 19}
 ]

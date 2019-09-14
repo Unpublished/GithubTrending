@@ -1,12 +1,12 @@
 [
-{"description": "A libre lightweight streaming front-end for Android.", "language": "Java", "repo": "NewPipe", "new_stars": 12, "stars": 6352, "owner": "TeamNewPipe", "forks": 980},
-{"description": "Bistoury\u662f\u53bb\u54ea\u513f\u7f51\u7684java\u5e94\u7528\u751f\u4ea7\u95ee\u9898\u8bca\u65ad\u5de5\u5177\uff0c\u63d0\u4f9b\u4e86\u4e00\u7ad9\u5f0f\u7684\u95ee\u9898\u8bca\u65ad\u65b9\u6848", "language": "Java", "repo": "bistoury", "new_stars": 13, "stars": 1259, "owner": "qunarcorp", "forks": 244},
-{"description": "TubeMQ focuses on high-performance storage and transmission of massive data in large data scenarios", "language": "Java", "repo": "TubeMQ", "new_stars": 12, "stars": 75, "owner": "Tencent", "forks": 12},
+{"description": "A libre lightweight streaming front-end for Android.", "language": "Java", "repo": "NewPipe", "new_stars": 12, "stars": 6353, "owner": "TeamNewPipe", "forks": 980},
+{"description": "Bistoury\u662f\u53bb\u54ea\u513f\u7f51\u7684java\u5e94\u7528\u751f\u4ea7\u95ee\u9898\u8bca\u65ad\u5de5\u5177\uff0c\u63d0\u4f9b\u4e86\u4e00\u7ad9\u5f0f\u7684\u95ee\u9898\u8bca\u65ad\u65b9\u6848", "language": "Java", "repo": "bistoury", "new_stars": 13, "stars": 1260, "owner": "qunarcorp", "forks": 244},
+{"description": "TubeMQ focuses on high-performance storage and transmission of massive data in large data scenarios", "language": "Java", "repo": "TubeMQ", "new_stars": 12, "stars": 77, "owner": "Tencent", "forks": 12},
 {"description": "This is the new home of the original DDD Sample app (previously hosted at sf.net)..", "language": "Java", "repo": "dddsample-core", "new_stars": 8, "stars": 2226, "owner": "citerus", "forks": 702},
 {"description": "Mirror of Apache NiFi", "language": "Java", "repo": "nifi", "new_stars": 2, "stars": 1642, "owner": "apache", "forks": 1416},
 {"description": "External configuration (server and client) for Spring Cloud", "language": "Java", "repo": "spring-cloud-config", "new_stars": 9, "stars": 1411, "owner": "spring-cloud", "forks": 960},
 {"description": "Open Source Identity and Access Management For Modern Applications and Services", "language": "Java", "repo": "keycloak", "new_stars": 4, "stars": 4425, "owner": "keycloak", "forks": 2181},
-{"description": "Flexible framework for workflow and decision automation", "language": "Java", "repo": "camunda-bpm-platform", "new_stars": 2, "stars": 1066, "owner": "camunda", "forks": 604},
+{"description": "Flexible framework for workflow and decision automation", "language": "Java", "repo": "camunda-bpm-platform", "new_stars": 2, "stars": 1067, "owner": "camunda", "forks": 604},
 {"description": "A Jenkins plugin for interfacing with GitLab", "language": "Java", "repo": "gitlab-plugin", "new_stars": 0, "stars": 1056, "owner": "jenkinsci", "forks": 459},
 {"description": "\u57fa\u4e8eSpringCloud2.0\u7684\u5fae\u670d\u52a1\u5f00\u53d1\u811a\u624b\u67b6\uff0c\u6574\u5408\u4e86spring-security-oauth2\u3001apollo\u3001eureka\u3001feign\u3001hystrix\u3001springcloud-gateway\u3001springcloud-bus\u7b49\u3002\u6cbb\u7406\u65b9\u9762\u5f15\u5165elasticsearch\u3001skywalking\u3001springboot-admin\u3001zipkin\u7b49\uff0c\u8ba9\u9879\u76ee\u5f00\u53d1\u5feb\u901f\u8fdb\u5165\u4e1a\u52a1\u5f00\u53d1\uff0c\u800c\u4e0d\u9700\u8fc7\u591a\u65f6\u95f4\u82b1\u8d39\u5728\u67b6\u6784\u642d\u5efa\u4e0a\u3002\u6301\u7eed\u66f4\u65b0\u4e2d", "language": "Java", "repo": "SpringCloud", "new_stars": 25, "stars": 1419, "owner": "zhoutaoo", "forks": 723},
 {"description": "\u300c\u5c0f\u9a6c\u54e5\u6280\u672f\u5468\u62a5\u300d", "language": "Java", "repo": "tech-weekly", "new_stars": 6, "stars": 2483, "owner": "mercyblitz", "forks": 430},
@@ -21,7 +21,7 @@
 {"description": "Mirror of Apache Calcite", "language": "Java", "repo": "calcite", "new_stars": 1, "stars": 1403, "owner": "apache", "forks": 923},
 {"description": "Open source Old School RuneScape client", "language": "Java", "repo": "runelite", "new_stars": 4, "stars": 2443, "owner": "runelite", "forks": 3167},
 {"description": "Kubernetes integration with Spring Cloud Discovery Client, Configuration, etc...", "language": "Java", "repo": "spring-cloud-kubernetes", "new_stars": 3, "stars": 1658, "owner": "spring-cloud", "forks": 420},
-{"description": "Quarkus: Supersonic Subatomic Java.", "language": "Java", "repo": "quarkus", "new_stars": 16, "stars": 2519, "owner": "quarkusio", "forks": 394},
+{"description": "Quarkus: Supersonic Subatomic Java.", "language": "Java", "repo": "quarkus", "new_stars": 16, "stars": 2520, "owner": "quarkusio", "forks": 394},
 {"description": "Telegram for Android source", "language": "Java", "repo": "Telegram", "new_stars": 8, "stars": 12459, "owner": "DrKLO", "forks": 4824},
 {"description": "A high performance caching library for Java 8", "language": "Java", "repo": "caffeine", "new_stars": 6, "stars": 6505, "owner": "ben-manes", "forks": 597}
 ]

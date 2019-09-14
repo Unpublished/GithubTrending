@@ -1,5 +1,5 @@
 [
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 28, "stars": 38242, "owner": "denoland", "forks": 1751},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 29, "stars": 38242, "owner": "denoland", "forks": 1751},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 20, "stars": 2851, "owner": "rust-lang", "forks": 427},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 12, "stars": 1206, "owner": "ruffle-rs", "forks": 22},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 5962, "owner": "tikv", "forks": 877},
@@ -19,7 +19,7 @@
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 1, "stars": 1145, "owner": "serde-rs", "forks": 197},
 {"description": "Rust implementation of {t,n}-threshold ECDSA (elliptic curve digital signature algorithm).", "language": "Rust", "repo": "multi-party-ecdsa", "new_stars": 0, "stars": 158, "owner": "KZen-networks", "forks": 44},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 2, "stars": 3716, "owner": "neon-bindings", "forks": 161},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 16191, "owner": "BurntSushi", "forks": 664},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 12, "stars": 16192, "owner": "BurntSushi", "forks": 664},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 4327, "owner": "rust-lang", "forks": 1172},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 2, "stars": 1373, "owner": "rust-analyzer", "forks": 144},
 {"description": "A high-level, safe, zero-allocation TrueType font parser.", "language": "Rust", "repo": "ttf-parser", "new_stars": 2, "stars": 25, "owner": "RazrFalcon", "forks": 0},

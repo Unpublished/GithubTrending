@@ -1,7 +1,7 @@
 [
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 229, "stars": 18211, "owner": "rapid7", "forks": 8870},
 {"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 111, "stars": 24881, "owner": "bayandin", "forks": 3122},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 22, "stars": 1334, "owner": "github", "forks": 5102},
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 22, "stars": 1334, "owner": "github", "forks": 5103},
 {"description": "A lightning fast JSON:API serializer for Ruby Objects.", "language": "Ruby", "repo": "fast_jsonapi", "new_stars": 22, "stars": 4541, "owner": "Netflix", "forks": 351},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 12, "stars": 4409, "owner": "rails", "forks": 975},
 {"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 36, "stars": 4520, "owner": "thoughtbot", "forks": 803},
@@ -9,19 +9,19 @@
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 6, "stars": 2687, "owner": "thoughtbot", "forks": 784},
 {"description": "feature flipping for ruby (performant and simple)", "language": "Ruby", "repo": "flipper", "new_stars": 10, "stars": 1995, "owner": "jnunemaker", "forks": 216},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 14, "stars": 10528, "owner": "elastic", "forks": 2840},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 67, "stars": 18956, "owner": "Homebrew", "forks": 4260},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 65, "stars": 18956, "owner": "Homebrew", "forks": 4260},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 20, "stars": 8907, "owner": "teamcapybara", "forks": 1301},
 {"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 12, "stars": 716, "owner": "dependabot", "forks": 147},
 {"description": "RSpec for Rails-3+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 7, "stars": 4131, "owner": "rspec", "forks": 821},
 {"description": "bluekeep exploit", "language": "Ruby", "repo": "cve_2019_0708_bluekeep_rce", "new_stars": 26, "stars": 77, "owner": "NAXG", "forks": 41},
-{"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 11, "stars": 7575, "owner": "kaminari", "forks": 970},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 81, "stars": 38684, "owner": "jekyll", "forks": 8445},
+{"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 10, "stars": 7575, "owner": "kaminari", "forks": 970},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 82, "stars": 38685, "owner": "jekyll", "forks": 8446},
 {"description": "InSpec: Auditing and Testing Framework", "language": "Ruby", "repo": "inspec", "new_stars": 7, "stars": 1891, "owner": "inspec", "forks": 535},
 {"description": "A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.", "language": "Ruby", "repo": "chef", "new_stars": 5, "stars": 5937, "owner": "chef", "forks": 2367},
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 12, "stars": 8594, "owner": "resque", "forks": 1569},
 {"description": "ActiveRecord plugin allowing you to hide and restore records without actually deleting them.", "language": "Ruby", "repo": "acts_as_paranoid", "new_stars": 4, "stars": 1052, "owner": "ActsAsParanoid", "forks": 173},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 17, "stars": 3906, "owner": "rmosolgo", "forks": 740},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 83, "stars": 44104, "owner": "rails", "forks": 17795},
-{"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 8, "stars": 4366, "owner": "activerecord-hackery", "forks": 669},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 22, "stars": 8298, "owner": "fluent", "forks": 972}
+{"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 7, "stars": 4366, "owner": "activerecord-hackery", "forks": 669},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 22, "stars": 8299, "owner": "fluent", "forks": 972}
 ]

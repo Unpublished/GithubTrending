@@ -10,12 +10,12 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 22, "stars": 1213, "owner": "shadowsocks", "forks": 308},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 24, "stars": 1722, "owner": "graphql-rust", "forks": 127},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 29, "stars": 2390, "owner": "autozimu", "forks": 206},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 39, "stars": 5343, "owner": "actix", "forks": 385},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 39, "stars": 5343, "owner": "actix", "forks": 386},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 34, "stars": 691, "owner": "cloudflare", "forks": 72},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 18, "stars": 1155, "owner": "serde-rs", "forks": 198},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 384, "stars": 2748, "owner": "starship", "forks": 86},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 114, "stars": 12382, "owner": "libra", "forks": 1775},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 47, "stars": 4353, "owner": "benfred", "forks": 164},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 384, "stars": 2749, "owner": "starship", "forks": 86},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 114, "stars": 12382, "owner": "libra", "forks": 1776},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 47, "stars": 4355, "owner": "benfred", "forks": 164},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 29, "stars": 1391, "owner": "rust-analyzer", "forks": 143},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 59, "stars": 851, "owner": "async-rs", "forks": 65},
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 46, "stars": 221, "owner": "anp", "forks": 6},
@@ -23,5 +23,5 @@
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 15, "stars": 1823, "owner": "servo", "forks": 216},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 31, "stars": 1337, "owner": "CraneStation", "forks": 96},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 33, "stars": 350, "owner": "TheAlgorithms", "forks": 93},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 102, "stars": 15286, "owner": "sharkdp", "forks": 299}
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 102, "stars": 15289, "owner": "sharkdp", "forks": 299}
 ]

@@ -1,13 +1,13 @@
 [
 {"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 210, "stars": 38424, "owner": "denoland", "forks": 1764},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 73, "stars": 1599, "owner": "dani-garcia", "forks": 122},
-{"description": "Example-based texture synthesis written in Rust", "language": "Rust", "repo": "texture-synthesis", "new_stars": 176, "stars": 556, "owner": "EmbarkStudios", "forks": 16},
+{"description": "Example-based texture synthesis written in Rust", "language": "Rust", "repo": "texture-synthesis", "new_stars": 179, "stars": 559, "owner": "EmbarkStudios", "forks": 16},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 44, "stars": 5891, "owner": "tokio-rs", "forks": 499},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 74, "stars": 9181, "owner": "firecracker-microvm", "forks": 590},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 3, "stars": 347, "owner": "hyperledger", "forks": 416},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 19, "stars": 625, "owner": "actix", "forks": 185},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 27, "stars": 1219, "owner": "shadowsocks", "forks": 308},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 176, "stars": 15362, "owner": "sharkdp", "forks": 299},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 175, "stars": 15362, "owner": "sharkdp", "forks": 299},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 47, "stars": 5355, "owner": "actix", "forks": 388},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 24, "stars": 1723, "owner": "graphql-rust", "forks": 126},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 42, "stars": 699, "owner": "cloudflare", "forks": 73},
@@ -16,12 +16,12 @@
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 67, "stars": 4373, "owner": "benfred", "forks": 165},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 39199, "owner": "rust-lang", "forks": 6082},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 12, "stars": 5615, "owner": "paritytech", "forks": 1324},
-{"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 60, "stars": 239, "owner": "anp", "forks": 6},
+{"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 59, "stars": 239, "owner": "anp", "forks": 6},
 {"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 20, "stars": 699, "owner": "jasonwilliams", "forks": 52},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 17, "stars": 1174, "owner": "rusoto", "forks": 200},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 17, "stars": 2499, "owner": "rustwasm", "forks": 297},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 30, "stars": 1802, "owner": "tree-sitter", "forks": 107},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 55, "stars": 2879, "owner": "rust-lang", "forks": 428},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 14, "stars": 1822, "owner": "servo", "forks": 216},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 315, "stars": 2784, "owner": "starship", "forks": 90}
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 316, "stars": 2786, "owner": "starship", "forks": 90}
 ]

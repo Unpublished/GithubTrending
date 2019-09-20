@@ -1,5 +1,5 @@
 [
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 208, "stars": 38408, "owner": "denoland", "forks": 1761},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 210, "stars": 38410, "owner": "denoland", "forks": 1761},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 74, "stars": 1597, "owner": "dani-garcia", "forks": 122},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 55, "stars": 2878, "owner": "rust-lang", "forks": 428},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 21, "stars": 627, "owner": "actix", "forks": 185},
@@ -15,7 +15,7 @@
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 15, "stars": 1156, "owner": "serde-rs", "forks": 197},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 341, "stars": 2777, "owner": "starship", "forks": 87},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 112, "stars": 12392, "owner": "libra", "forks": 1775},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 57, "stars": 4363, "owner": "benfred", "forks": 165},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 58, "stars": 4364, "owner": "benfred", "forks": 165},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 28, "stars": 1396, "owner": "rust-analyzer", "forks": 145},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 51, "stars": 868, "owner": "async-rs", "forks": 66},
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 56, "stars": 233, "owner": "anp", "forks": 6},
@@ -23,5 +23,5 @@
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 14, "stars": 1823, "owner": "servo", "forks": 216},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 26, "stars": 1338, "owner": "CraneStation", "forks": 96},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 35, "stars": 352, "owner": "TheAlgorithms", "forks": 93},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 172, "stars": 15349, "owner": "sharkdp", "forks": 299}
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 174, "stars": 15351, "owner": "sharkdp", "forks": 299}
 ]

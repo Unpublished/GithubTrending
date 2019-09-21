@@ -10,11 +10,11 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 177, "stars": 15367, "owner": "sharkdp", "forks": 299},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 46, "stars": 5356, "owner": "actix", "forks": 388},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 25, "stars": 1725, "owner": "graphql-rust", "forks": 126},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 35, "stars": 700, "owner": "cloudflare", "forks": 74},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 34, "stars": 700, "owner": "cloudflare", "forks": 74},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 27, "stars": 2392, "owner": "autozimu", "forks": 207},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 27, "stars": 1396, "owner": "rust-analyzer", "forks": 145},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 68, "stars": 4374, "owner": "benfred", "forks": 165},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 39203, "owner": "rust-lang", "forks": 6083},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 39204, "owner": "rust-lang", "forks": 6083},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 12, "stars": 5615, "owner": "paritytech", "forks": 1324},
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 62, "stars": 243, "owner": "anp", "forks": 7},
 {"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 19, "stars": 699, "owner": "jasonwilliams", "forks": 52},
@@ -23,5 +23,5 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 32, "stars": 1804, "owner": "tree-sitter", "forks": 107},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 30, "stars": 2879, "owner": "rust-lang", "forks": 428},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 14, "stars": 1822, "owner": "servo", "forks": 216},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 306, "stars": 2790, "owner": "starship", "forks": 90}
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 307, "stars": 2791, "owner": "starship", "forks": 90}
 ]

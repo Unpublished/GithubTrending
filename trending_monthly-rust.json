@@ -1,6 +1,6 @@
 [
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 208, "stars": 2879, "owner": "rust-lang", "forks": 428},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 189, "stars": 1603, "owner": "dani-garcia", "forks": 122},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 190, "stars": 1604, "owner": "dani-garcia", "forks": 122},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 2384, "stars": 2795, "owner": "starship", "forks": 91},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 449, "stars": 1234, "owner": "ruffle-rs", "forks": 24},
 {"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 866, "stars": 38436, "owner": "denoland", "forks": 1764},
@@ -9,7 +9,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 517, "stars": 15373, "owner": "sharkdp", "forks": 299},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 218, "stars": 6092, "owner": "mre", "forks": 696},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 228, "stars": 14845, "owner": "servo", "forks": 2232},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 491, "stars": 18295, "owner": "jwilm", "forks": 836},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 491, "stars": 18296, "owner": "jwilm", "forks": 836},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 144, "stars": 700, "owner": "cloudflare", "forks": 74},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 67, "stars": 1221, "owner": "shadowsocks", "forks": 308},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 130, "stars": 4755, "owner": "rust-lang", "forks": 994},
@@ -19,8 +19,8 @@
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 51, "stars": 913, "owner": "librespot-org", "forks": 129},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 177, "stars": 3158, "owner": "maps4print", "forks": 130},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 228, "stars": 341, "owner": "tauri-apps", "forks": 8},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 245, "stars": 7980, "owner": "SergioBenitez", "forks": 555},
-{"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 355, "stars": 4456, "owner": "wasmerio", "forks": 152},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 246, "stars": 7981, "owner": "SergioBenitez", "forks": 555},
+{"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 356, "stars": 4457, "owner": "wasmerio", "forks": 152},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 790, "stars": 39217, "owner": "rust-lang", "forks": 6086},
 {"description": "An opinionated 2D game engine for Rust", "language": "Rust", "repo": "coffee", "new_stars": 79, "stars": 373, "owner": "hecrj", "forks": 17},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 193, "stars": 4788, "owner": "BurntSushi", "forks": 153}

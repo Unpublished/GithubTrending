@@ -1,6 +1,6 @@
 [
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 205, "stars": 38429, "owner": "denoland", "forks": 1764},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 74, "stars": 1601, "owner": "dani-garcia", "forks": 122},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 206, "stars": 38430, "owner": "denoland", "forks": 1764},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 75, "stars": 1602, "owner": "dani-garcia", "forks": 122},
 {"description": "Example-based texture synthesis written in Rust", "language": "Rust", "repo": "texture-synthesis", "new_stars": 186, "stars": 570, "owner": "EmbarkStudios", "forks": 16},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 43, "stars": 5892, "owner": "tokio-rs", "forks": 499},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 78, "stars": 9185, "owner": "firecracker-microvm", "forks": 591},
@@ -14,7 +14,7 @@
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 27, "stars": 2392, "owner": "autozimu", "forks": 207},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 27, "stars": 1396, "owner": "rust-analyzer", "forks": 145},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 67, "stars": 4374, "owner": "benfred", "forks": 165},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 39204, "owner": "rust-lang", "forks": 6083},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 142, "stars": 39206, "owner": "rust-lang", "forks": 6083},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 12, "stars": 5615, "owner": "paritytech", "forks": 1324},
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 62, "stars": 243, "owner": "anp", "forks": 7},
 {"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 19, "stars": 699, "owner": "jasonwilliams", "forks": 52},

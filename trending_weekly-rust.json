@@ -1,7 +1,7 @@
 [
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 209, "stars": 38433, "owner": "denoland", "forks": 1764},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 211, "stars": 38435, "owner": "denoland", "forks": 1764},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 76, "stars": 1603, "owner": "dani-garcia", "forks": 122},
-{"description": "Example-based texture synthesis written in Rust", "language": "Rust", "repo": "texture-synthesis", "new_stars": 191, "stars": 575, "owner": "EmbarkStudios", "forks": 16},
+{"description": "Example-based texture synthesis written in Rust", "language": "Rust", "repo": "texture-synthesis", "new_stars": 192, "stars": 576, "owner": "EmbarkStudios", "forks": 16},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 45, "stars": 5894, "owner": "tokio-rs", "forks": 499},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 80, "stars": 9187, "owner": "firecracker-microvm", "forks": 591},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 3, "stars": 347, "owner": "hyperledger", "forks": 418},
@@ -19,7 +19,7 @@
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 62, "stars": 243, "owner": "anp", "forks": 7},
 {"description": "Javascript engine written in Rust", "language": "Rust", "repo": "boa", "new_stars": 19, "stars": 699, "owner": "jasonwilliams", "forks": 52},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 15, "stars": 1174, "owner": "rusoto", "forks": 201},
-{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 15, "stars": 2499, "owner": "rustwasm", "forks": 298},
+{"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 16, "stars": 2500, "owner": "rustwasm", "forks": 298},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 32, "stars": 1804, "owner": "tree-sitter", "forks": 107},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 30, "stars": 2879, "owner": "rust-lang", "forks": 428},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 14, "stars": 1822, "owner": "servo", "forks": 216},

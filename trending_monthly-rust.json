@@ -1,7 +1,7 @@
 [
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 4115, "stars": 4197, "owner": "nushell", "forks": 116},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 4115, "stars": 4200, "owner": "nushell", "forks": 115},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 207, "stars": 2883, "owner": "rust-lang", "forks": 428},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 2304, "stars": 2830, "owner": "starship", "forks": 92},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 2305, "stars": 2831, "owner": "starship", "forks": 92},
 {"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 856, "stars": 38463, "owner": "denoland", "forks": 1767},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 257, "stars": 883, "owner": "async-rs", "forks": 68},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 142, "stars": 2106, "owner": "CraneStation", "forks": 180},
@@ -9,7 +9,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 510, "stars": 15397, "owner": "sharkdp", "forks": 300},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 67, "stars": 1223, "owner": "shadowsocks", "forks": 311},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 200, "stars": 6095, "owner": "mre", "forks": 697},
-{"description": "CLI tool for saving web pages as a single file", "language": "Rust", "repo": "monolith", "new_stars": 2600, "stars": 2742, "owner": "Y2Z", "forks": 57},
+{"description": "CLI tool for saving web pages as a single file", "language": "Rust", "repo": "monolith", "new_stars": 2604, "stars": 2744, "owner": "Y2Z", "forks": 57},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 139, "stars": 704, "owner": "cloudflare", "forks": 76},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 131, "stars": 1349, "owner": "CraneStation", "forks": 97},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 227, "stars": 344, "owner": "tauri-apps", "forks": 8},
@@ -21,7 +21,7 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 248, "stars": 7996, "owner": "SergioBenitez", "forks": 554},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 169, "stars": 3383, "owner": "Peltoche", "forks": 117},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 108, "stars": 1808, "owner": "tree-sitter", "forks": 107},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 249, "stars": 9203, "owner": "firecracker-microvm", "forks": 593},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 250, "stars": 9204, "owner": "firecracker-microvm", "forks": 593},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 51, "stars": 915, "owner": "librespot-org", "forks": 130},
 {"description": "An opinionated 2D game engine for Rust", "language": "Rust", "repo": "coffee", "new_stars": 77, "stars": 373, "owner": "hecrj", "forks": 18}
 ]

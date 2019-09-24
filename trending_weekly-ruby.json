@@ -4,17 +4,17 @@
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 25, "stars": 11935, "owner": "CocoaPods", "forks": 2139},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 22, "stars": 9851, "owner": "mperham", "forks": 1701},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 21, "stars": 4430, "owner": "rails", "forks": 987},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 83, "stars": 26811, "owner": "fastlane", "forks": 4117},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 84, "stars": 26812, "owner": "fastlane", "forks": 4117},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 14, "stars": 8599, "owner": "activeadmin", "forks": 3039},
 {"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 16, "stars": 5548, "owner": "github-changelog-generator", "forks": 599},
 {"description": "Catch unsafe migrations in development", "language": "Ruby", "repo": "strong_migrations", "new_stars": 44, "stars": 1644, "owner": "ankane", "forks": 68},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 13, "stars": 5951, "owner": "chef", "forks": 2368},
 {"description": "Elasticsearch Puppet module", "language": "Ruby", "repo": "puppet-elasticsearch", "new_stars": 0, "stars": 387, "owner": "elastic", "forks": 438},
 {"description": "MIT\u89c6\u9891\u516c\u5f00\u8bfe\u300a\u8ba1\u7b97\u673a\u7a0b\u5e8f\u7684\u6784\u9020\u548c\u89e3\u91ca\u300b\u4e2d\u6587\u5316\u9879\u76ee\u53ca\u8bfe\u7a0b\u5b66\u4e60\u8d44\u6599\u641c\u96c6\u3002", "language": "Ruby", "repo": "Learning-SICP", "new_stars": 57, "stars": 5875, "owner": "DeathKing", "forks": 984},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 99, "stars": 19045, "owner": "Homebrew", "forks": 4278},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 97, "stars": 19045, "owner": "Homebrew", "forks": 4278},
 {"description": "Bluekeep(CVE 2019-0708) exploit released", "language": "Ruby", "repo": "bluekeep-exploit", "new_stars": 5, "stars": 22, "owner": "TinToSer", "forks": 20},
 {"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 24, "stars": 415, "owner": "samber", "forks": 59},
-{"description": "Makes http fun again!", "language": "Ruby", "repo": "httparty", "new_stars": 9, "stars": 4994, "owner": "jnunemaker", "forks": 860},
+{"description": "Makes http fun again!", "language": "Ruby", "repo": "httparty", "new_stars": 10, "stars": 4995, "owner": "jnunemaker", "forks": 860},
 {"description": "A Ruby client library for Apache Kafka", "language": "Ruby", "repo": "ruby-kafka", "new_stars": 6, "stars": 853, "owner": "zendesk", "forks": 252},
 {"description": "AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)", "language": "Ruby", "repo": "aasm", "new_stars": 10, "stars": 3839, "owner": "aasm", "forks": 522},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 20, "stars": 15760, "owner": "kilimchoi", "forks": 1837},
@@ -23,5 +23,5 @@
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 33, "stars": 8331, "owner": "fluent", "forks": 977},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 8, "stars": 2568, "owner": "elastic", "forks": 665},
 {"description": "Fluentd daemonset for Kubernetes and it Docker image", "language": "Ruby", "repo": "fluentd-kubernetes-daemonset", "new_stars": 6, "stars": 530, "owner": "fluent", "forks": 475},
-{"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 6, "stars": 4887, "owner": "rails-api", "forks": 1312}
+{"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 6, "stars": 4887, "owner": "rails-api", "forks": 1313}
 ]

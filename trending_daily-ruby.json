@@ -12,8 +12,8 @@
 {"description": "Puppet Labs Standard Library module", "language": "Ruby", "repo": "puppetlabs-stdlib", "new_stars": 0, "stars": 355, "owner": "puppetlabs", "forks": 564},
 {"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 1, "stars": 7583, "owner": "kaminari", "forks": 970},
 {"description": "Manage your Ruby application's gem dependencies", "language": "Ruby", "repo": "bundler", "new_stars": 1, "stars": 4689, "owner": "bundler", "forks": 2089},
-{"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 0, "stars": 6615, "owner": "thoughtbot", "forks": 1890},
-{"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 3, "stars": 982, "owner": "elastic", "forks": 561},
+{"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 0, "stars": 6615, "owner": "thoughtbot", "forks": 1889},
+{"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 3, "stars": 983, "owner": "elastic", "forks": 562},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 6, "stars": 11935, "owner": "CocoaPods", "forks": 2139},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 0, "stars": 2568, "owner": "elastic", "forks": 665},
 {"description": "acts_as_paranoid for Rails 3, 4 and 5", "language": "Ruby", "repo": "paranoia", "new_stars": 1, "stars": 2491, "owner": "rubysherpas", "forks": 470},
@@ -22,6 +22,6 @@
 {"description": "PDF generator (from HTML) plugin for Ruby on Rails", "language": "Ruby", "repo": "wicked_pdf", "new_stars": 1, "stars": 2918, "owner": "mileszs", "forks": 524},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 6, "stars": 20215, "owner": "plataformatec", "forks": 4846},
 {"description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.", "language": "Ruby", "repo": "rest-client", "new_stars": 1, "stars": 4742, "owner": "rest-client", "forks": 881},
-{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 734, "owner": "rubysec", "forks": 139},
+{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 1, "stars": 735, "owner": "rubysec", "forks": 139},
 {"description": "Detect, and dissect, US Street Addresses in strings.", "language": "Ruby", "repo": "street-address", "new_stars": 0, "stars": 154, "owner": "street-address-rb", "forks": 69}
 ]

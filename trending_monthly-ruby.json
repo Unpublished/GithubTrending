@@ -1,20 +1,20 @@
 [
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 959, "stars": 18315, "owner": "rapid7", "forks": 8907},
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 85, "stars": 1340, "owner": "github", "forks": 5201},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 321, "stars": 38745, "owner": "jekyll", "forks": 8458},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 409, "stars": 26812, "owner": "fastlane", "forks": 4119},
-{"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 116, "stars": 8034, "owner": "faker-ruby", "forks": 2117},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 321, "stars": 38744, "owner": "jekyll", "forks": 8458},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 410, "stars": 26813, "owner": "fastlane", "forks": 4119},
+{"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 115, "stars": 8034, "owner": "faker-ruby", "forks": 2117},
 {"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 242, "stars": 24928, "owner": "bayandin", "forks": 3130},
 {"description": "Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.", "language": "Ruby", "repo": "devise_token_auth", "new_stars": 34, "stars": 2834, "owner": "lynndylanhurley", "forks": 887},
 {"description": "A list of awesome space-related packages and resources maintained by The Orbital Index", "language": "Ruby", "repo": "awesome-space", "new_stars": 347, "stars": 659, "owner": "orbitalindex", "forks": 33},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 147, "stars": 16192, "owner": "ruby", "forks": 4326},
 {"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 60, "stars": 4532, "owner": "thoughtbot", "forks": 802},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 83, "stars": 9851, "owner": "mperham", "forks": 1702},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 84, "stars": 9852, "owner": "mperham", "forks": 1702},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 303, "stars": 44161, "owner": "rails", "forks": 17815},
-{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 63, "stars": 4430, "owner": "rails", "forks": 988},
+{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 62, "stars": 4430, "owner": "rails", "forks": 988},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 49, "stars": 8914, "owner": "teamcapybara", "forks": 1304},
 {"description": "AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid)", "language": "Ruby", "repo": "aasm", "new_stars": 34, "stars": 3840, "owner": "aasm", "forks": 522},
-{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 81, "stars": 7395, "owner": "Shopify", "forks": 958},
+{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 81, "stars": 7394, "owner": "Shopify", "forks": 958},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 88, "stars": 11935, "owner": "CocoaPods", "forks": 2139},
 {"description": "RSpec for Rails-3+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 34, "stars": 4141, "owner": "rspec", "forks": 821},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 101, "stars": 10555, "owner": "elastic", "forks": 2845},
@@ -23,5 +23,5 @@
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 249, "stars": 29103, "owner": "discourse", "forks": 6547},
 {"description": "A Ruby client library for Apache Kafka", "language": "Ruby", "repo": "ruby-kafka", "new_stars": 15, "stars": 853, "owner": "zendesk", "forks": 254},
 {"description": "Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails", "language": "Ruby", "repo": "spree", "new_stars": 59, "stars": 9934, "owner": "spree", "forks": 4344},
-{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 193, "stars": 6429, "owner": "Homebrew", "forks": 6830}
+{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 192, "stars": 6429, "owner": "Homebrew", "forks": 6830}
 ]

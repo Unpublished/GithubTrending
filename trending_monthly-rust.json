@@ -1,14 +1,14 @@
 [
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 2825, "stars": 4235, "owner": "nushell", "forks": 117},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 2825, "stars": 4237, "owner": "nushell", "forks": 117},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 2345, "stars": 2899, "owner": "starship", "forks": 96},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 202, "stars": 2882, "owner": "rust-lang", "forks": 428},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 185, "stars": 1622, "owner": "dani-garcia", "forks": 122},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 70, "stars": 1229, "owner": "shadowsocks", "forks": 312},
 {"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 873, "stars": 38484, "owner": "denoland", "forks": 1771},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 248, "stars": 892, "owner": "async-rs", "forks": 69},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 249, "stars": 893, "owner": "async-rs", "forks": 69},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 140, "stars": 2108, "owner": "CraneStation", "forks": 180},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 537, "stars": 15443, "owner": "sharkdp", "forks": 304},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 143, "stars": 712, "owner": "cloudflare", "forks": 80},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 144, "stars": 713, "owner": "cloudflare", "forks": 80},
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 230, "stars": 545, "owner": "vhakulinen", "forks": 27},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 132, "stars": 1359, "owner": "CraneStation", "forks": 97},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 443, "stars": 603, "owner": "Edu4rdSHL", "forks": 74},
@@ -22,6 +22,6 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 84, "stars": 1487, "owner": "paritytech", "forks": 396},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 209, "stars": 6117, "owner": "mre", "forks": 700},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 109, "stars": 1813, "owner": "tree-sitter", "forks": 107},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 739, "stars": 39272, "owner": "rust-lang", "forks": 6102},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 740, "stars": 39273, "owner": "rust-lang", "forks": 6102},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 52, "stars": 425, "owner": "mullvad", "forks": 32}
 ]

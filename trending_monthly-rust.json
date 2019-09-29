@@ -7,8 +7,8 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 170, "stars": 760, "owner": "cloudflare", "forks": 80},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 586, "stars": 15523, "owner": "sharkdp", "forks": 307},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 666, "stars": 2719, "owner": "timberio", "forks": 111},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 146, "stars": 1385, "owner": "CraneStation", "forks": 99},
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 889, "stars": 38555, "owner": "denoland", "forks": 1780},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 147, "stars": 1386, "owner": "CraneStation", "forks": 99},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 890, "stars": 38556, "owner": "denoland", "forks": 1780},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 218, "stars": 6148, "owner": "mre", "forks": 703},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 231, "stars": 922, "owner": "async-rs", "forks": 73},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 57, "stars": 638, "owner": "actix", "forks": 189},
@@ -21,7 +21,7 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 274, "stars": 9260, "owner": "firecracker-microvm", "forks": 597},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 511, "stars": 18463, "owner": "jwilm", "forks": 841},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 232, "stars": 361, "owner": "tauri-apps", "forks": 8},
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 522, "stars": 1980, "owner": "cloudflare", "forks": 78},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1641, "stars": 4645, "owner": "nushell", "forks": 133},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 524, "stars": 1981, "owner": "cloudflare", "forks": 78},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1645, "stars": 4649, "owner": "nushell", "forks": 133},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 220, "stars": 14889, "owner": "servo", "forks": 2239}
 ]

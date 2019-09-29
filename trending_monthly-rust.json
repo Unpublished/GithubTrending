@@ -5,11 +5,11 @@
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 201, "stars": 2893, "owner": "rust-lang", "forks": 428},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 71, "stars": 1237, "owner": "shadowsocks", "forks": 312},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 172, "stars": 762, "owner": "cloudflare", "forks": 82},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 590, "stars": 15527, "owner": "sharkdp", "forks": 307},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 591, "stars": 15528, "owner": "sharkdp", "forks": 307},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 667, "stars": 2720, "owner": "timberio", "forks": 111},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 147, "stars": 1386, "owner": "CraneStation", "forks": 100},
 {"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 893, "stars": 38558, "owner": "denoland", "forks": 1780},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 218, "stars": 6148, "owner": "mre", "forks": 703},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 218, "stars": 6148, "owner": "mre", "forks": 704},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 232, "stars": 923, "owner": "async-rs", "forks": 73},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 57, "stars": 638, "owner": "actix", "forks": 189},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 160, "stars": 4284, "owner": "amethyst", "forks": 473},
@@ -22,6 +22,6 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 511, "stars": 18465, "owner": "jwilm", "forks": 841},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 232, "stars": 361, "owner": "tauri-apps", "forks": 8},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 536, "stars": 1993, "owner": "cloudflare", "forks": 78},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1675, "stars": 4679, "owner": "nushell", "forks": 136},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1676, "stars": 4680, "owner": "nushell", "forks": 136},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 222, "stars": 14891, "owner": "servo", "forks": 2239}
 ]

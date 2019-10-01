@@ -1,9 +1,9 @@
 [
-{"description": "Pwn stuff.", "language": "PHP", "repo": "exploits", "new_stars": 82, "stars": 189, "owner": "mm0r1", "forks": 39},
+{"description": "Pwn stuff.", "language": "PHP", "repo": "exploits", "new_stars": 73, "stars": 189, "owner": "mm0r1", "forks": 39},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 15, "stars": 18951, "owner": "laravel", "forks": 6825},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 10, "stars": 21747, "owner": "symfony", "forks": 7157},
-{"description": "Small laravel package for viewing api logs which can be used in debugging.", "language": "PHP", "repo": "apilogger", "new_stars": 29, "stars": 146, "owner": "aungwinthant", "forks": 12},
-{"description": "Instagram's private API", "language": "PHP", "repo": "Instagram-API", "new_stars": 3, "stars": 4784, "owner": "mgp25", "forks": 1437},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 9, "stars": 21747, "owner": "symfony", "forks": 7157},
+{"description": "Small laravel package for viewing api logs which can be used in debugging.", "language": "PHP", "repo": "apilogger", "new_stars": 26, "stars": 147, "owner": "aungwinthant", "forks": 12},
+{"description": "Instagram's private API", "language": "PHP", "repo": "Instagram-API", "new_stars": 7, "stars": 4784, "owner": "mgp25", "forks": 1437},
 {"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 7, "stars": 5551, "owner": "woocommerce", "forks": 5808},
 {"description": "Photo Sharing. For Everyone.", "language": "PHP", "repo": "pixelfed", "new_stars": 3, "stars": 1648, "owner": "pixelfed", "forks": 179},
 {"description": "HTML to PDF converter (PHP5)", "language": "PHP", "repo": "dompdf", "new_stars": 6, "stars": 6307, "owner": "dompdf", "forks": 1260},
@@ -12,7 +12,7 @@
 {"description": "Fast request router for PHP", "language": "PHP", "repo": "FastRoute", "new_stars": 6, "stars": 3656, "owner": "nikic", "forks": 337},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 12, "stars": 5841, "owner": "doctrine", "forks": 986},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 11, "stars": 15882, "owner": "Seldaek", "forks": 1575},
-{"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 6, "stars": 6892, "owner": "squizlabs", "forks": 1121},
+{"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 6892, "owner": "squizlabs", "forks": 1121},
 {"description": "Open Source Digital Experience Platform (DXP, MDM/PIM, CDP, DAM, CMS/UX & eCommerce", "language": "PHP", "repo": "pimcore", "new_stars": 2, "stars": 1578, "owner": "pimcore", "forks": 732},
 {"description": "Easy integration with OAuth 2.0 service providers.", "language": "PHP", "repo": "oauth2-client", "new_stars": 2, "stars": 2515, "owner": "thephpleague", "forks": 604},
 {"description": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 5, "stars": 1543, "owner": "bagisto", "forks": 422},
@@ -20,8 +20,8 @@
 {"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 5, "stars": 8671, "owner": "the-control-group", "forks": 2072},
 {"description": "GraphQL API for WordPress", "language": "PHP", "repo": "wp-graphql", "new_stars": 5, "stars": 1757, "owner": "wp-graphql", "forks": 182},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 9, "stars": 14920, "owner": "sebastianbergmann", "forks": 1786},
-{"description": "The most awesome validation engine ever created for PHP", "language": "PHP", "repo": "Validation", "new_stars": 3, "stars": 5105, "owner": "Respect", "forks": 763},
-{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 7, "stars": 8490, "owner": "mockery", "forks": 370},
+{"description": "The most awesome validation engine ever created for PHP", "language": "PHP", "repo": "Validation", "new_stars": 3, "stars": 5106, "owner": "Respect", "forks": 763},
+{"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 6, "stars": 8491, "owner": "mockery", "forks": 370},
 {"description": "A platform to create documentation/wiki content built with PHP & Laravel", "language": "PHP", "repo": "BookStack", "new_stars": 6, "stars": 3375, "owner": "BookStackApp", "forks": 561},
-{"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. /// Chat with us and others on Spectrum:", "language": "PHP", "repo": "twill", "new_stars": 5, "stars": 1560, "owner": "area17", "forks": 175}
+{"description": "Twill is an open source CMS toolkit for Laravel that helps developers rapidly create a custom admin console that is intuitive, powerful and flexible. /// Chat with us and others on Spectrum:", "language": "PHP", "repo": "twill", "new_stars": 4, "stars": 1561, "owner": "area17", "forks": 175}
 ]

@@ -1,21 +1,21 @@
 [
-{"description": "A sandbox tower defense game", "language": "Java", "repo": "Mindustry", "new_stars": 79, "stars": 1090, "owner": "Anuken", "forks": 349},
+{"description": "A sandbox tower defense game", "language": "Java", "repo": "Mindustry", "new_stars": 79, "stars": 1091, "owner": "Anuken", "forks": 350},
 {"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 25, "stars": 17170, "owner": "TheAlgorithms", "forks": 6419},
-{"description": "\u300c\u5c0f\u9a6c\u54e5\u6280\u672f\u5468\u62a5\u300d", "language": "Java", "repo": "tech-weekly", "new_stars": 10, "stars": 2633, "owner": "mercyblitz", "forks": 464},
+{"description": "\u300c\u5c0f\u9a6c\u54e5\u6280\u672f\u5468\u62a5\u300d", "language": "Java", "repo": "tech-weekly", "new_stars": 10, "stars": 2634, "owner": "mercyblitz", "forks": 464},
 {"description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.", "language": "Java", "repo": "antlr4", "new_stars": 6, "stars": 6430, "owner": "antlr", "forks": 1639},
 {"description": "The \"REST With Spring\" Course:", "language": "Java", "repo": "tutorials", "new_stars": 19, "stars": 17239, "owner": "eugenp", "forks": 25828},
 {"description": "Open Source, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 19, "stars": 44513, "owner": "elastic", "forks": 14944},
 {"description": "Conductor is a microservices orchestration engine -", "language": "Java", "repo": "conductor", "new_stars": 2, "stars": 2151, "owner": "Netflix", "forks": 649},
 {"description": "Automated JSON API documentation for API's built with Spring", "language": "Java", "repo": "springfox", "new_stars": 4, "stars": 3898, "owner": "springfox", "forks": 1175},
 {"description": "a fast, scalable, multi-language and extensible build system", "language": "Java", "repo": "bazel", "new_stars": 10, "stars": 12912, "owner": "bazelbuild", "forks": 2170},
-{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 17, "stars": 42212, "owner": "spring-projects", "forks": 27024},
+{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 17, "stars": 42213, "owner": "spring-projects", "forks": 27024},
 {"description": "Your Cheat Sheet For Android Interview - Android Interview Questions", "language": "Java", "repo": "android-interview-questions", "new_stars": 3, "stars": 5302, "owner": "MindorksOpenSource", "forks": 1039},
 {"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 19, "stars": 51566, "owner": "iluwatar", "forks": 16688},
 {"description": "Java wrapper for the popular chat & VOIP service: Discord", "language": "Java", "repo": "JDA", "new_stars": 3, "stars": 1039, "owner": "DV8FromTheWorld", "forks": 309},
 {"description": "\u4ece\u96f6\u5165\u95e8 \uff01Spring Security With JWT\uff08\u542b\u6743\u9650\u9a8c\u8bc1\uff09\u540e\u7aef\u90e8\u5206\u4ee3\u7801\u3002", "language": "Java", "repo": "spring-security-jwt-guide", "new_stars": 3, "stars": 83, "owner": "Snailclimb", "forks": 20},
 {"description": "Asynchronous RPC/REST library built on top of Java 8, Netty, HTTP/2, Thrift and gRPC", "language": "Java", "repo": "armeria", "new_stars": 2, "stars": 2157, "owner": "line", "forks": 447},
 {"description": "Elasticsearch real-time search and analytics natively integrated with Hadoop", "language": "Java", "repo": "elasticsearch-hadoop", "new_stars": 0, "stars": 1579, "owner": "elastic", "forks": 832},
-{"description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.", "language": "Java", "repo": "DependencyCheck", "new_stars": 1, "stars": 1883, "owner": "jeremylong", "forks": 520},
+{"description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.", "language": "Java", "repo": "DependencyCheck", "new_stars": 1, "stars": 1883, "owner": "jeremylong", "forks": 519},
 {"description": "A process for exposing JMX Beans via HTTP for Prometheus consumption", "language": "Java", "repo": "jmx_exporter", "new_stars": 1, "stars": 1057, "owner": "prometheus", "forks": 515},
 {"description": "The Clojure programming language", "language": "Java", "repo": "clojure", "new_stars": 4, "stars": 7960, "owner": "clojure", "forks": 1263},
 {"description": "Example code for the book Microservice patterns", "language": "Java", "repo": "ftgo-application", "new_stars": 1, "stars": 736, "owner": "microservices-patterns", "forks": 291},
@@ -23,5 +23,5 @@
 {"description": "\u57fa\u4e8eFlink\u5b9e\u73b0\u7684\u5546\u54c1\u5b9e\u65f6\u63a8\u8350\u7cfb\u7edf\u3002flink\u7edf\u8ba1\u5546\u54c1\u70ed\u5ea6\uff0c\u653e\u5165redis\u7f13\u5b58\uff0c\u5206\u6790\u65e5\u5fd7\u4fe1\u606f\uff0c\u5c06\u753b\u50cf\u6807\u7b7e\u548c\u5b9e\u65f6\u8bb0\u5f55\u653e\u5165Hbase\u3002\u5728\u7528\u6237\u53d1\u8d77\u63a8\u8350\u8bf7\u6c42\u540e\uff0c\u6839\u636e\u7528\u6237\u753b\u50cf\u91cd\u6392\u5e8f\u70ed\u5ea6\u699c\uff0c\u5e76\u7ed3\u5408\u534f\u540c\u8fc7\u6ee4\u548c\u6807\u7b7e\u4e24\u4e2a\u63a8\u8350\u6a21\u5757\u4e3a\u65b0\u751f\u6210\u7684\u699c\u5355\u7684\u6bcf\u4e00\u4e2a\u4ea7\u54c1\u6dfb\u52a0\u5173\u8054\u4ea7\u54c1\uff0c\u6700\u540e\u8fd4\u56de\u65b0\u7684\u7528\u6237\u5217\u8868\u3002", "language": "Java", "repo": "flink-recommandSystem-demo", "new_stars": 5, "stars": 862, "owner": "CheckChe0803", "forks": 287},
 {"description": "Register and receive push notifications", "language": "Java", "repo": "phonegap-plugin-push", "new_stars": 1, "stars": 1930, "owner": "phonegap", "forks": 1447},
 {"description": "The next generation of JUnit.", "language": "Java", "repo": "junit5", "new_stars": 2, "stars": 3448, "owner": "junit-team", "forks": 771},
-{"description": "Jenkins automation server", "language": "Java", "repo": "jenkins", "new_stars": 11, "stars": 13983, "owner": "jenkinsci", "forks": 5736}
+{"description": "Jenkins automation server", "language": "Java", "repo": "jenkins", "new_stars": 11, "stars": 13984, "owner": "jenkinsci", "forks": 5736}
 ]

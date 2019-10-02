@@ -10,7 +10,7 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 5260, "owner": "hyperium", "forks": 761},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 2, "stars": 3351, "owner": "Geal", "forks": 382},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 3, "stars": 3381, "owner": "gfx-rs", "forks": 395},
-{"description": "The gRPC library for Rust built on C Core library and futures", "language": "Rust", "repo": "grpc-rs", "new_stars": 4, "stars": 874, "owner": "pingcap", "forks": 122},
+{"description": "The gRPC library for Rust built on C Core library and futures", "language": "Rust", "repo": "grpc-rs", "new_stars": 4, "stars": 875, "owner": "pingcap", "forks": 122},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 2, "stars": 5634, "owner": "paritytech", "forks": 1328},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 5, "stars": 5420, "owner": "actix", "forks": 395},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 3, "stars": 1174, "owner": "serde-rs", "forks": 194},
@@ -19,9 +19,9 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 7, "stars": 1872, "owner": "seanmonstar", "forks": 285},
 {"description": "A nonsense activity generator", "language": "Rust", "repo": "genact", "new_stars": 3, "stars": 3815, "owner": "svenstaro", "forks": 169},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 1, "stars": 652, "owner": "xi-editor", "forks": 41},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 3, "stars": 1600, "owner": "fdehau", "forks": 81},
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 3, "stars": 1601, "owner": "fdehau", "forks": 81},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 4, "stars": 4432, "owner": "benfred", "forks": 166},
 {"description": "Rust version of THU uCore OS. Linux compatible.", "language": "Rust", "repo": "rCore", "new_stars": 4, "stars": 545, "owner": "rcore-os", "forks": 94},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 5, "stars": 3254, "owner": "pingcap", "forks": 393},
-{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 4, "stars": 1826, "owner": "indygreg", "forks": 57}
+{"description": "A modern Python application packaging and distribution tool", "language": "Rust", "repo": "PyOxidizer", "new_stars": 4, "stars": 1827, "owner": "indygreg", "forks": 57}
 ]

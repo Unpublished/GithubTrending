@@ -4,7 +4,7 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 13, "stars": 798, "owner": "cloudflare", "forks": 92},
 {"description": "Encoding and decoding images in Rust", "language": "Rust", "repo": "image", "new_stars": 1, "stars": 1206, "owner": "image-rs", "forks": 244},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 3, "stars": 5957, "owner": "tokio-rs", "forks": 508},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 139, "stars": 269, "owner": "hyperium", "forks": 7},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 139, "stars": 272, "owner": "hyperium", "forks": 7},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 24, "stars": 3089, "owner": "starship", "forks": 112},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 8, "stars": 16377, "owner": "BurntSushi", "forks": 683},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 1409, "owner": "CraneStation", "forks": 101},
@@ -22,6 +22,6 @@
 {"description": "Forked from", "language": "Rust", "repo": "oasis-parity", "new_stars": 0, "stars": 2, "owner": "oasislabs", "forks": 0},
 {"description": "Parity tokio-ipc", "language": "Rust", "repo": "parity-tokio-ipc", "new_stars": 0, "stars": 22, "owner": "NikVolf", "forks": 13},
 {"description": "Wasm interpreter in Rust", "language": "Rust", "repo": "wasmi", "new_stars": 1, "stars": 1, "owner": "oasislabs", "forks": 0},
-{"description": "A space shooter game made with Amethyst and Rust.", "language": "Rust", "repo": "space_shooter_rs", "new_stars": 0, "stars": 61, "owner": "amethyst", "forks": 5},
+{"description": "A space shooter game made with Amethyst and Rust.", "language": "Rust", "repo": "space_shooter_rs", "new_stars": 0, "stars": 62, "owner": "amethyst", "forks": 5},
 {"description": "An Elasticsearch REST API client for Rust", "language": "Rust", "repo": "elastic", "new_stars": 0, "stars": 188, "owner": "elastic-rs", "forks": 33}
 ]

@@ -1,11 +1,11 @@
 [
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 4, "stars": 2771, "owner": "timberio", "forks": 115},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 102, "stars": 354, "owner": "hyperium", "forks": 11},
-{"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 33, "stars": 678, "owner": "cloudhead", "forks": 21},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 5, "stars": 3265, "owner": "pingcap", "forks": 394},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 13, "stars": 9314, "owner": "firecracker-microvm", "forks": 604},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 5, "stars": 2771, "owner": "timberio", "forks": 115},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 102, "stars": 356, "owner": "hyperium", "forks": 11},
+{"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 33, "stars": 680, "owner": "cloudhead", "forks": 21},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 5, "stars": 3266, "owner": "pingcap", "forks": 394},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 13, "stars": 9315, "owner": "firecracker-microvm", "forks": 604},
 {"description": "An easy-to-use, high-performance Interledger implementation written in Rust", "language": "Rust", "repo": "interledger-rs", "new_stars": 2, "stars": 74, "owner": "interledger-rs", "forks": 26},
-{"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 473, "owner": "WebAssembly", "forks": 16},
+{"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 474, "owner": "WebAssembly", "forks": 16},
 {"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "Rust", "repo": "deno", "new_stars": 21, "stars": 38668, "owner": "denoland", "forks": 1785},
 {"description": "fn(Request) -> Future<Response>", "language": "Rust", "repo": "tower", "new_stars": 0, "stars": 763, "owner": "tower-rs", "forks": 58},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 4, "stars": 309, "owner": "tokio-rs", "forks": 34},
@@ -21,7 +21,7 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 13, "stars": 6179, "owner": "mre", "forks": 709},
 {"description": "The Rust Implementation of libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 0, "stars": 908, "owner": "libp2p", "forks": 175},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 0, "stars": 1442, "owner": "rust-analyzer", "forks": 160},
-{"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 8, "stars": 657, "owner": "Edu4rdSHL", "forks": 77},
+{"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 8, "stars": 658, "owner": "Edu4rdSHL", "forks": 77},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 16, "stars": 16391, "owner": "BurntSushi", "forks": 687},
 {"description": "Audit Cargo.lock files for crates with security vulnerabilities", "language": "Rust", "repo": "cargo-audit", "new_stars": 10, "stars": 386, "owner": "RustSec", "forks": 15}
 ]

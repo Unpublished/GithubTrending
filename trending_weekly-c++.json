@@ -1,11 +1,11 @@
 [
 {"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 96, "stars": 10053, "owner": "catchorg", "forks": 1654},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 391, "stars": 15790, "owner": "nlohmann", "forks": 2689},
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 80, "stars": 13013, "owner": "google", "forks": 5221},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 80, "stars": 13014, "owner": "google", "forks": 5221},
 {"description": "Free and Open Source PS4 Remote Play Client", "language": "C++", "repo": "chiaki", "new_stars": 312, "stars": 679, "owner": "thestr4ng3r", "forks": 35},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 656, "stars": 135448, "owner": "tensorflow", "forks": 77750},
 {"description": null, "language": "C++", "repo": "ton", "new_stars": 155, "stars": 819, "owner": "ton-blockchain", "forks": 116},
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 267, "stars": 17062, "owner": "ocornut", "forks": 2689},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 267, "stars": 17062, "owner": "ocornut", "forks": 2690},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 70, "stars": 6813, "owner": "gabime", "forks": 1495},
 {"description": "Coz: Causal Profiling", "language": "C++", "repo": "coz", "new_stars": 130, "stars": 1032, "owner": "plasma-umass", "forks": 59},
 {"description": "Free open-source training software / cheat for Counter-Strike: Global Offensive, written in modern C++. GUI powered by imgui.", "language": "C++", "repo": "Osiris", "new_stars": 65, "stars": 366, "owner": "danielkrupinski", "forks": 151},
@@ -22,6 +22,6 @@
 {"description": "Compiler for Neural Network hardware accelerators", "language": "C++", "repo": "glow", "new_stars": 19, "stars": 1732, "owner": "pytorch", "forks": 290},
 {"description": "Desktop sync client for Nextcloud", "language": "C++", "repo": "desktop", "new_stars": 9, "stars": 636, "owner": "nextcloud", "forks": 229},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 164, "stars": 77354, "owner": "electron", "forks": 10220},
-{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 100, "stars": 7688, "owner": "topjohnwu", "forks": 1180},
+{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 100, "stars": 7688, "owner": "topjohnwu", "forks": 1181},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 63, "stars": 11052, "owner": "envoyproxy", "forks": 1778}
 ]

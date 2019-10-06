@@ -1,12 +1,12 @@
 [
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 29, "stars": 388, "owner": "hyperium", "forks": 13},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 29, "stars": 393, "owner": "hyperium", "forks": 13},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 22, "stars": 12570, "owner": "libra", "forks": 1823},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 356, "owner": "hyperledger", "forks": 425},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 4308, "owner": "amethyst", "forks": 481},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 3132, "owner": "starship", "forks": 114},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 3134, "owner": "starship", "forks": 114},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 4, "stars": 4791, "owner": "rust-lang", "forks": 1001},
 {"description": "Single dependency, single node Kubernetes clusters for local testing, experimenting and development", "language": "Rust", "repo": "kubernix", "new_stars": 33, "stars": 126, "owner": "saschagrunert", "forks": 1},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 39470, "owner": "rust-lang", "forks": 6139},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 15, "stars": 39471, "owner": "rust-lang", "forks": 6139},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 2, "stars": 1443, "owner": "rust-analyzer", "forks": 160},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 9, "stars": 3826, "owner": "rust-lang", "forks": 521},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 5, "stars": 4504, "owner": "diesel-rs", "forks": 426},
@@ -21,7 +21,7 @@
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 2527, "owner": "rustwasm", "forks": 309},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 10, "stars": 1425, "owner": "CraneStation", "forks": 101},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 1, "stars": 2065, "owner": "habitat-sh", "forks": 307},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 5, "stars": 16393, "owner": "BurntSushi", "forks": 687},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 5, "stars": 16394, "owner": "BurntSushi", "forks": 687},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 3, "stars": 8057, "owner": "SergioBenitez", "forks": 562},
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 2, "stars": 306, "owner": "anp", "forks": 8}
 ]

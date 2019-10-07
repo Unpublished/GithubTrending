@@ -3,7 +3,7 @@
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 0, "stars": 3220, "owner": "clap-rs", "forks": 324},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 653, "owner": "actix", "forks": 192},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 15, "stars": 5973, "owner": "rust-lang", "forks": 572},
-{"description": "Single dependency, single node Kubernetes clusters for local testing, experimenting and development", "language": "Rust", "repo": "kubernix", "new_stars": 10, "stars": 146, "owner": "saschagrunert", "forks": 2},
+{"description": "Single dependency, single node Kubernetes clusters for local testing, experimenting and development", "language": "Rust", "repo": "kubernix", "new_stars": 10, "stars": 147, "owner": "saschagrunert", "forks": 2},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 31, "stars": 247472, "owner": "996icu", "forks": 21257},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 10, "stars": 972, "owner": "async-rs", "forks": 79},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 11, "stars": 8070, "owner": "SergioBenitez", "forks": 563},
@@ -12,7 +12,7 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 17, "stars": 15665, "owner": "sharkdp", "forks": 308},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 0, "stars": 128, "owner": "input-output-hk", "forks": 47},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 3, "stars": 856, "owner": "rust-windowing", "forks": 257},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 3169, "owner": "starship", "forks": 115},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 3171, "owner": "starship", "forks": 115},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 488, "owner": "WebAssembly", "forks": 16},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 0, "stars": 574, "owner": "nervosnetwork", "forks": 89},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 122, "stars": 522, "owner": "hyperium", "forks": 18},
@@ -22,6 +22,6 @@
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 4, "stars": 2913, "owner": "rust-lang", "forks": 432},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 3, "stars": 3364, "owner": "Geal", "forks": 384},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 4, "stars": 3397, "owner": "gfx-rs", "forks": 397},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 3, "stars": 2171, "owner": "Spotifyd", "forks": 112},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 3, "stars": 2180, "owner": "Spotifyd", "forks": 112},
 {"description": "Example-based texture synthesis written in Rust", "language": "Rust", "repo": "texture-synthesis", "new_stars": 13, "stars": 699, "owner": "EmbarkStudios", "forks": 22}
 ]

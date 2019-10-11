@@ -1,12 +1,12 @@
 [
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 10, "stars": 4295, "owner": "RustPython", "forks": 288},
-{"description": null, "language": "Rust", "repo": "thiserror", "new_stars": 31, "stars": 179, "owner": "dtolnay", "forks": 4},
-{"description": "A better Box<dyn Error>", "language": "Rust", "repo": "anyhow", "new_stars": 31, "stars": 218, "owner": "dtolnay", "forks": 4},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 15, "stars": 7472, "owner": "valeriansaliou", "forks": 214},
+{"description": null, "language": "Rust", "repo": "thiserror", "new_stars": 31, "stars": 180, "owner": "dtolnay", "forks": 4},
+{"description": "A better Box<dyn Error>", "language": "Rust", "repo": "anyhow", "new_stars": 31, "stars": 219, "owner": "dtolnay", "forks": 4},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 15, "stars": 7473, "owner": "valeriansaliou", "forks": 214},
 {"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 22, "stars": 4627, "owner": "wasmerio", "forks": 160},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 2, "stars": 3238, "owner": "clap-rs", "forks": 323},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 41, "stars": 3327, "owner": "starship", "forks": 120},
-{"description": "A Rust Crate for Creating and Consuming COM APIs", "language": "Rust", "repo": "com-rs", "new_stars": 31, "stars": 168, "owner": "microsoft", "forks": 3},
+{"description": "A Rust Crate for Creating and Consuming COM APIs", "language": "Rust", "repo": "com-rs", "new_stars": 31, "stars": 170, "owner": "microsoft", "forks": 3},
 {"description": "Move VM on Tendermint (and more)", "language": "Rust", "repo": "movemint", "new_stars": 17, "stars": 151, "owner": "open-libra", "forks": 5},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 28, "stars": 39567, "owner": "rust-lang", "forks": 6148},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 39, "stars": 247473, "owner": "996icu", "forks": 21253},
@@ -14,8 +14,8 @@
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 11, "stars": 2168, "owner": "cloudflare", "forks": 86},
 {"description": "Sampling profiler for Ruby", "language": "Rust", "repo": "rbspy", "new_stars": 3, "stars": 1904, "owner": "rbspy", "forks": 61},
 {"description": "Minimal implementation of the MimbleWimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 2, "stars": 4417, "owner": "mimblewimble", "forks": 867},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 8, "stars": 1278, "owner": "ruffle-rs", "forks": 26},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 18621, "owner": "jwilm", "forks": 851},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 6, "stars": 1278, "owner": "ruffle-rs", "forks": 26},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 18, "stars": 18622, "owner": "jwilm", "forks": 851},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 6100, "owner": "tikv", "forks": 892},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 3, "stars": 1461, "owner": "rust-analyzer", "forks": 162},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 4, "stars": 2516, "owner": "rust-lang-nursery", "forks": 354},
@@ -23,5 +23,5 @@
 {"description": "A code search / replace tool", "language": "Rust", "repo": "amber", "new_stars": 5, "stars": 140, "owner": "dalance", "forks": 5},
 {"description": "Empowering everyone to build HTTP Services", "language": "Rust", "repo": "tide", "new_stars": 6, "stars": 1208, "owner": "rustasync", "forks": 109},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 1, "stars": 359, "owner": "hyperledger", "forks": 430},
-{"description": "Rust compile-time assertions to ensure that invariants are met and your API remains stable", "language": "Rust", "repo": "static-assertions-rs", "new_stars": 8, "stars": 231, "owner": "nvzqz", "forks": 3}
+{"description": "Rust compile-time assertions to ensure that invariants are met and your API remains stable", "language": "Rust", "repo": "static-assertions-rs", "new_stars": 8, "stars": 232, "owner": "nvzqz", "forks": 3}
 ]

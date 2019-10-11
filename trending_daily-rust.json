@@ -1,10 +1,10 @@
 [
-{"description": "OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems.", "language": "Rust", "repo": "OpenZKP", "new_stars": 17, "stars": 107, "owner": "0xProject", "forks": 7},
+{"description": "OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems.", "language": "Rust", "repo": "OpenZKP", "new_stars": 17, "stars": 109, "owner": "0xProject", "forks": 7},
 {"description": "A better Box<dyn Error>", "language": "Rust", "repo": "anyhow", "new_stars": 66, "stars": 194, "owner": "dtolnay", "forks": 4},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 16, "stars": 12782, "owner": "libra", "forks": 1851},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 41, "stars": 3295, "owner": "starship", "forks": 119},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 6, "stars": 3284, "owner": "pingcap", "forks": 406},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 35, "stars": 247470, "owner": "996icu", "forks": 21254},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 35, "stars": 247471, "owner": "996icu", "forks": 21254},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 0, "stars": 577, "owner": "nervosnetwork", "forks": 92},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 5, "stars": 993, "owner": "async-rs", "forks": 80},
 {"description": "CLI tool for saving complete web pages as a single HTML file", "language": "Rust", "repo": "monolith", "new_stars": 9, "stars": 2850, "owner": "Y2Z", "forks": 62},
@@ -12,7 +12,7 @@
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 5, "stars": 1208, "owner": "rusoto", "forks": 208},
 {"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 3, "stars": 1455, "owner": "sfackler", "forks": 152},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 16, "stars": 1732, "owner": "fdehau", "forks": 87},
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 275, "stars": 1756, "owner": "Rigellute", "forks": 32},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 271, "stars": 1759, "owner": "Rigellute", "forks": 32},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 9364, "owner": "firecracker-microvm", "forks": 604},
 {"description": "Move VM on Tendermint (and more)", "language": "Rust", "repo": "movemint", "new_stars": 37, "stars": 141, "owner": "open-libra", "forks": 5},
 {"description": "A Rust Crate for Creating and Consuming COM APIs", "language": "Rust", "repo": "com-rs", "new_stars": 40, "stars": 117, "owner": "microsoft", "forks": 2},
@@ -22,6 +22,6 @@
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 15, "stars": 7467, "owner": "valeriansaliou", "forks": 214},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 14, "stars": 15722, "owner": "sharkdp", "forks": 309},
 {"description": "Git project summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1, "stars": 384, "owner": "o2sh", "forks": 41},
-{"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 20, "stars": 1376, "owner": "lumen", "forks": 35},
+{"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 20, "stars": 1376, "owner": "lumen", "forks": 36},
 {"description": "Game data snapshot manager.", "language": "Rust", "repo": "yyx", "new_stars": 3, "stars": 94, "owner": "OnmyojiX", "forks": 8}
 ]

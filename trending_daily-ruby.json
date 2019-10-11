@@ -1,12 +1,12 @@
 [
 {"description": "\u6536\u96c6\u6574\u7406\u8fdc\u7a0b\u5de5\u4f5c\u76f8\u5173\u7684\u8d44\u6599", "language": "Ruby", "repo": "remote-working", "new_stars": 26, "stars": 5121, "owner": "greatghoul", "forks": 510},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 2, "stars": 4462, "owner": "rails", "forks": 1007},
-{"description": "Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails", "language": "Ruby", "repo": "spree", "new_stars": 14, "stars": 9977, "owner": "spree", "forks": 4351},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 6, "stars": 20275, "owner": "plataformatec", "forks": 4857},
-{"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 3, "stars": 3515, "owner": "redmine", "forks": 1889},
-{"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 5, "stars": 10720, "owner": "sinatra", "forks": 1936},
+{"description": "Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails", "language": "Ruby", "repo": "spree", "new_stars": 13, "stars": 9977, "owner": "spree", "forks": 4351},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 5, "stars": 20275, "owner": "plataformatec", "forks": 4857},
+{"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 2, "stars": 3515, "owner": "redmine", "forks": 1889},
+{"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 3, "stars": 10720, "owner": "sinatra", "forks": 1936},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 8, "stars": 18970, "owner": "hashicorp", "forks": 3805},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 21, "stars": 27068, "owner": "fastlane", "forks": 4165},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 19, "stars": 27068, "owner": "fastlane", "forks": 4165},
 {"description": "Create and modify Xcode projects from Ruby.", "language": "Ruby", "repo": "Xcodeproj", "new_stars": 3, "stars": 1540, "owner": "CocoaPods", "forks": 351},
 {"description": "Cloud native connectivity and network policy", "language": "Ruby", "repo": "calico", "new_stars": 1, "stars": 1338, "owner": "projectcalico", "forks": 381},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 6, "stars": 11989, "owner": "CocoaPods", "forks": 2144},
@@ -15,7 +15,7 @@
 {"description": "Nodejs\u5b66\u4e60\u7b14\u8bb0\u4ee5\u53ca\u7ecf\u9a8c\u603b\u7ed3\uff0c\u516c\u4f17\u53f7\"\u7a0b\u5e8f\u733f\u5c0f\u5361\"", "language": "Ruby", "repo": "nodejs-learning-guide", "new_stars": 5, "stars": 5282, "owner": "chyingp", "forks": 912},
 {"description": "The Live Coding Music Synth for Everyone", "language": "Ruby", "repo": "sonic-pi", "new_stars": 2, "stars": 4811, "owner": "samaaron", "forks": 597},
 {"description": "xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your\u2026", "language": "Ruby", "repo": "axlsx", "new_stars": 0, "stars": 2469, "owner": "randym", "forks": 686},
-{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 8611, "owner": "activeadmin", "forks": 3053},
+{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 8612, "owner": "activeadmin", "forks": 3053},
 {"description": "Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 9, "stars": 2753, "owner": "Homebrew", "forks": 163},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 3, "stars": 5979, "owner": "chef", "forks": 2375},
 {"description": "Raven is a Ruby client for Sentry", "language": "Ruby", "repo": "raven-ruby", "new_stars": 0, "stars": 609, "owner": "getsentry", "forks": 293},
@@ -23,5 +23,5 @@
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 0, "stars": 22029, "owner": "gitlabhq", "forks": 5602},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 1, "stars": 4384, "owner": "activerecord-hackery", "forks": 669},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 2, "stars": 5952, "owner": "puma", "forks": 1019},
-{"description": "Dockerize Rails 6 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq", "language": "Ruby", "repo": "docker-rails", "new_stars": 6, "stars": 571, "owner": "ledermann", "forks": 96}
+{"description": "Dockerize Rails 6 with ActionCable, Webpacker, Stimulus, Elasticsearch, Sidekiq", "language": "Ruby", "repo": "docker-rails", "new_stars": 4, "stars": 571, "owner": "ledermann", "forks": 96}
 ]

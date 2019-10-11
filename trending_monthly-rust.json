@@ -1,6 +1,6 @@
 [
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 175, "stars": 817, "owner": "cloudflare", "forks": 96},
-{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "TypeScript", "repo": "deno", "new_stars": 762, "stars": 38784, "owner": "denoland", "forks": 1791},
+{"description": "A secure JavaScript/TypeScript runtime built with V8, Rust, and Tokio", "language": "TypeScript", "repo": "deno", "new_stars": 764, "stars": 38786, "owner": "denoland", "forks": 1791},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 64, "stars": 1250, "owner": "shadowsocks", "forks": 316},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 112, "stars": 1001, "owner": "librespot-org", "forks": 135},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 341, "stars": 2363, "owner": "Spotifyd", "forks": 115},
@@ -15,12 +15,12 @@
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 202, "stars": 6210, "owner": "mre", "forks": 714},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 102, "stars": 2513, "owner": "rust-lang-nursery", "forks": 353},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 50, "stars": 5644, "owner": "paritytech", "forks": 1341},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1203, "stars": 5119, "owner": "nushell", "forks": 171},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1204, "stars": 5120, "owner": "nushell", "forks": 171},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 105, "stars": 1458, "owner": "rust-analyzer", "forks": 162},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 652, "stars": 2158, "owner": "cloudflare", "forks": 85},
 {"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 510, "stars": 722, "owner": "cloudhead", "forks": 20},
 {"description": "The Rust Implementation of libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 32, "stars": 912, "owner": "libp2p", "forks": 174},
-{"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 267, "stars": 4608, "owner": "wasmerio", "forks": 160},
+{"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 268, "stars": 4609, "owner": "wasmerio", "forks": 160},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 70, "stars": 521, "owner": "hrkfdn", "forks": 19},
 {"description": "lightweight platform-agnostic tools for declarative UI", "language": "Rust", "repo": "moxie", "new_stars": 140, "stars": 308, "owner": "anp", "forks": 8},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 108, "stars": 3841, "owner": "rust-lang", "forks": 524}

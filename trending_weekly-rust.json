@@ -1,5 +1,5 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 260, "stars": 12794, "owner": "libra", "forks": 1862},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 262, "stars": 12794, "owner": "libra", "forks": 1862},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 279, "stars": 622, "owner": "hyperium", "forks": 22},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 66, "stars": 1002, "owner": "librespot-org", "forks": 135},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 13, "stars": 862, "owner": "rust-windowing", "forks": 259},
@@ -16,12 +16,12 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 24, "stars": 4810, "owner": "rust-lang", "forks": 1003},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 147, "stars": 1752, "owner": "fdehau", "forks": 88},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 29, "stars": 3848, "owner": "rust-lang", "forks": 523},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 10937, "owner": "sharkdp", "forks": 285},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 87, "stars": 10938, "owner": "sharkdp", "forks": 285},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 3, "stars": 359, "owner": "hyperledger", "forks": 430},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 11, "stars": 2074, "owner": "habitat-sh", "forks": 307},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 38, "stars": 14946, "owner": "servo", "forks": 2249},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 27, "stars": 1726, "owner": "PyO3", "forks": 112},
 {"description": "The core Holochain framework written in rust, a container API for running it (with rust and node implementations), and hdk-rust library for writing Zomes", "language": "Rust", "repo": "holochain-rust", "new_stars": 7, "stars": 764, "owner": "holochain", "forks": 257},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 108, "stars": 18626, "owner": "jwilm", "forks": 852},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 38, "stars": 2494, "owner": "getzola", "forks": 231}
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 110, "stars": 18628, "owner": "jwilm", "forks": 852},
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 39, "stars": 2495, "owner": "getzola", "forks": 231}
 ]

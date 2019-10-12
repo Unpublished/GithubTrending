@@ -1,9 +1,9 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 264, "stars": 12800, "owner": "libra", "forks": 1862},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 284, "stars": 628, "owner": "hyperium", "forks": 22},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 262, "stars": 12800, "owner": "libra", "forks": 1862},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 285, "stars": 628, "owner": "hyperium", "forks": 22},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 68, "stars": 1004, "owner": "librespot-org", "forks": 135},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 296, "stars": 2374, "owner": "Spotifyd", "forks": 117},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 29, "stars": 3243, "owner": "clap-rs", "forks": 324},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 28, "stars": 3243, "owner": "clap-rs", "forks": 324},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 39, "stars": 511, "owner": "WebAssembly", "forks": 17},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 13, "stars": 863, "owner": "rust-windowing", "forks": 259},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 53, "stars": 7475, "owner": "valeriansaliou", "forks": 214},
@@ -16,12 +16,12 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 132, "stars": 15745, "owner": "sharkdp", "forks": 314},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 93, "stars": 10945, "owner": "sharkdp", "forks": 285},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 22, "stars": 3409, "owner": "gfx-rs", "forks": 400},
-{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 18, "stars": 5649, "owner": "paritytech", "forks": 1347},
+{"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 19, "stars": 5649, "owner": "paritytech", "forks": 1347},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 14, "stars": 617, "owner": "paritytech", "forks": 143},
 {"description": "Single dependency, single node Kubernetes clusters for local testing, experimenting and development", "language": "Rust", "repo": "kubernix", "new_stars": 56, "stars": 163, "owner": "saschagrunert", "forks": 3},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 20, "stars": 3373, "owner": "Geal", "forks": 388},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 27, "stars": 1726, "owner": "PyO3", "forks": 113},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 149, "stars": 1755, "owner": "fdehau", "forks": 88},
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 151, "stars": 1756, "owner": "fdehau", "forks": 88},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 17, "stars": 325, "owner": "tokio-rs", "forks": 35},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 75, "stars": 6007, "owner": "rust-lang", "forks": 585}
 ]

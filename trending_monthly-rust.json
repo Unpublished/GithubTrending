@@ -1,8 +1,8 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 607, "stars": 15746, "owner": "sharkdp", "forks": 313},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 608, "stars": 15747, "owner": "sharkdp", "forks": 313},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 177, "stars": 820, "owner": "cloudflare", "forks": 97},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 66, "stars": 1254, "owner": "shadowsocks", "forks": 318},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 352, "stars": 2376, "owner": "Spotifyd", "forks": 117},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 353, "stars": 2377, "owner": "Spotifyd", "forks": 117},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 111, "stars": 1005, "owner": "librespot-org", "forks": 135},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 157, "stars": 1457, "owner": "CraneStation", "forks": 102},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 187, "stars": 2496, "owner": "getzola", "forks": 231},
@@ -12,7 +12,7 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 108, "stars": 2521, "owner": "rust-lang-nursery", "forks": 354},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 107, "stars": 1464, "owner": "rust-analyzer", "forks": 162},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 207, "stars": 6223, "owner": "mre", "forks": 716},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1202, "stars": 5146, "owner": "nushell", "forks": 172},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1203, "stars": 5146, "owner": "nushell", "forks": 172},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 672, "stars": 2180, "owner": "cloudflare", "forks": 86},
 {"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 509, "stars": 729, "owner": "cloudhead", "forks": 20},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 97, "stars": 3243, "owner": "clap-rs", "forks": 325},
@@ -22,6 +22,6 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 124, "stars": 1893, "owner": "tree-sitter", "forks": 112},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 186, "stars": 14949, "owner": "servo", "forks": 2251},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 293, "stars": 9378, "owner": "firecracker-microvm", "forks": 603},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 205, "stars": 1757, "owner": "fdehau", "forks": 90},
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 205, "stars": 1758, "owner": "fdehau", "forks": 90},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 64, "stars": 2540, "owner": "rustwasm", "forks": 312}
 ]

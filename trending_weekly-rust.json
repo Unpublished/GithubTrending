@@ -1,9 +1,9 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 258, "stars": 12802, "owner": "libra", "forks": 1863},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 262, "stars": 632, "owner": "hyperium", "forks": 22},
-{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 68, "stars": 1005, "owner": "librespot-org", "forks": 135},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 301, "stars": 2381, "owner": "Spotifyd", "forks": 117},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 27, "stars": 3244, "owner": "clap-rs", "forks": 326},
+{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 69, "stars": 1005, "owner": "librespot-org", "forks": 135},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 302, "stars": 2382, "owner": "Spotifyd", "forks": 117},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 28, "stars": 3245, "owner": "clap-rs", "forks": 326},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 35, "stars": 511, "owner": "WebAssembly", "forks": 17},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 12, "stars": 864, "owner": "rust-windowing", "forks": 259},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 55, "stars": 7479, "owner": "valeriansaliou", "forks": 214},
@@ -23,5 +23,5 @@
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 29, "stars": 1729, "owner": "PyO3", "forks": 114},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 155, "stars": 1761, "owner": "fdehau", "forks": 91},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 16, "stars": 325, "owner": "tokio-rs", "forks": 35},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 75, "stars": 6015, "owner": "rust-lang", "forks": 586}
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 76, "stars": 6015, "owner": "rust-lang", "forks": 586}
 ]

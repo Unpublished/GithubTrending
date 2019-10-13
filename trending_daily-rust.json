@@ -1,7 +1,7 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 14, "stars": 15754, "owner": "sharkdp", "forks": 313},
 {"description": "A Rust Crate for Creating and Consuming COM APIs", "language": "Rust", "repo": "com-rs", "new_stars": 37, "stars": 212, "owner": "microsoft", "forks": 3},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 4, "stars": 8878, "owner": "yewstack", "forks": 337},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 4, "stars": 8880, "owner": "yewstack", "forks": 337},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 43, "stars": 247487, "owner": "996icu", "forks": 21250},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 1, "stars": 618, "owner": "paritytech", "forks": 143},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 16460, "owner": "BurntSushi", "forks": 695},
@@ -17,7 +17,7 @@
 {"description": "Rust language bindings for TensorFlow", "language": "Rust", "repo": "rust", "new_stars": 5, "stars": 2025, "owner": "tensorflow", "forks": 187},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 3, "stars": 2828, "owner": "timberio", "forks": 121},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 15, "stars": 2184, "owner": "cloudflare", "forks": 86},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 6, "stars": 7479, "owner": "valeriansaliou", "forks": 214},
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 6, "stars": 7480, "owner": "valeriansaliou", "forks": 214},
 {"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 3, "stars": 4636, "owner": "wasmerio", "forks": 160},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 5, "stars": 3292, "owner": "pingcap", "forks": 408},
 {"description": "Rust bindings for writing safe and fast native Node.js modules.", "language": "Rust", "repo": "neon", "new_stars": 0, "stars": 3769, "owner": "neon-bindings", "forks": 165},

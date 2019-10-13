@@ -1,7 +1,7 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 592, "stars": 15751, "owner": "sharkdp", "forks": 313},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 175, "stars": 820, "owner": "cloudflare", "forks": 97},
-{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 66, "stars": 1254, "owner": "shadowsocks", "forks": 318},
+{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 67, "stars": 1255, "owner": "shadowsocks", "forks": 318},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 354, "stars": 2381, "owner": "Spotifyd", "forks": 117},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 110, "stars": 1005, "owner": "librespot-org", "forks": 135},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 157, "stars": 1462, "owner": "CraneStation", "forks": 102},
@@ -12,7 +12,7 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 105, "stars": 2521, "owner": "rust-lang-nursery", "forks": 354},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 100, "stars": 1464, "owner": "rust-analyzer", "forks": 162},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 204, "stars": 6222, "owner": "mre", "forks": 716},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1186, "stars": 5151, "owner": "nushell", "forks": 172},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1187, "stars": 5151, "owner": "nushell", "forks": 172},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 671, "stars": 2182, "owner": "cloudflare", "forks": 86},
 {"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 511, "stars": 730, "owner": "cloudhead", "forks": 20},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 96, "stars": 3244, "owner": "clap-rs", "forks": 326},

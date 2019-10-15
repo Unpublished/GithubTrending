@@ -1,7 +1,7 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 614, "stars": 15796, "owner": "sharkdp", "forks": 313},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 161, "stars": 825, "owner": "cloudflare", "forks": 97},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 384, "stars": 2414, "owner": "Spotifyd", "forks": 121},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 387, "stars": 2417, "owner": "Spotifyd", "forks": 121},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 69, "stars": 1260, "owner": "shadowsocks", "forks": 319},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 115, "stars": 1019, "owner": "librespot-org", "forks": 135},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 152, "stars": 1474, "owner": "CraneStation", "forks": 103},
@@ -18,10 +18,10 @@
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 692, "stars": 2204, "owner": "cloudflare", "forks": 88},
 {"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 529, "stars": 750, "owner": "cloudhead", "forks": 21},
 {"description": "Rust version of THU uCore OS. Linux compatible.", "language": "Rust", "repo": "rCore", "new_stars": 235, "stars": 570, "owner": "rcore-os", "forks": 97},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 491, "stars": 3889, "owner": "sharkdp", "forks": 70},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 492, "stars": 3890, "owner": "sharkdp", "forks": 70},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 74, "stars": 530, "owner": "hrkfdn", "forks": 20},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 222, "stars": 1773, "owner": "fdehau", "forks": 91},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 184, "stars": 4485, "owner": "benfred", "forks": 170},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 185, "stars": 4486, "owner": "benfred", "forks": 170},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 105, "stars": 3851, "owner": "rust-lang", "forks": 523},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 319, "stars": 9424, "owner": "firecracker-microvm", "forks": 604}
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 320, "stars": 9425, "owner": "firecracker-microvm", "forks": 604}
 ]

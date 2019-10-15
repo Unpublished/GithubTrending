@@ -1,15 +1,15 @@
 [
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 990, "stars": 2268, "owner": "Rigellute", "forks": 48},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 165, "stars": 12836, "owner": "libra", "forks": 1874},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 169, "stars": 725, "owner": "hyperium", "forks": 24},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 1154, "stars": 2273, "owner": "Rigellute", "forks": 48},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 164, "stars": 12836, "owner": "libra", "forks": 1874},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 170, "stars": 725, "owner": "hyperium", "forks": 24},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 130, "stars": 2422, "owner": "Spotifyd", "forks": 122},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 248, "stars": 247484, "owner": "996icu", "forks": 21249},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 38, "stars": 3263, "owner": "clap-rs", "forks": 327},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 30, "stars": 1020, "owner": "librespot-org", "forks": 135},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 46, "stars": 1247, "owner": "rusoto", "forks": 214},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 65, "stars": 7501, "owner": "valeriansaliou", "forks": 214},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 107, "stars": 6081, "owner": "tokio-rs", "forks": 519},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 38, "stars": 1925, "owner": "seanmonstar", "forks": 286},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 108, "stars": 6082, "owner": "tokio-rs", "forks": 519},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 39, "stars": 1926, "owner": "seanmonstar", "forks": 286},
 {"description": "An alternative BEAM implementation, designed for WebAssembly", "language": "Rust", "repo": "lumen", "new_stars": 53, "stars": 1403, "owner": "lumen", "forks": 38},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 18, "stars": 530, "owner": "hrkfdn", "forks": 20},
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 44, "stars": 774, "owner": "jasonwilliams", "forks": 103},
@@ -20,8 +20,8 @@
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 72, "stars": 1047, "owner": "async-rs", "forks": 87},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 39, "stars": 1736, "owner": "mit-pdos", "forks": 74},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 38, "stars": 1474, "owner": "CraneStation", "forks": 103},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 117, "stars": 15801, "owner": "sharkdp", "forks": 313},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 117, "stars": 15801, "owner": "sharkdp", "forks": 314},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 50, "stars": 4318, "owner": "RustPython", "forks": 296},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 39, "stars": 4444, "owner": "rust-lang", "forks": 1208},
-{"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 30, "stars": 525, "owner": "WebAssembly", "forks": 17}
+{"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 31, "stars": 525, "owner": "WebAssembly", "forks": 17}
 ]

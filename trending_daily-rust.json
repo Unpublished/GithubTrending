@@ -1,5 +1,5 @@
 [
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 39, "stars": 728, "owner": "hyperium", "forks": 24},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 39, "stars": 729, "owner": "hyperium", "forks": 24},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 49, "stars": 6085, "owner": "tokio-rs", "forks": 519},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 21, "stars": 1249, "owner": "rusoto", "forks": 214},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 84, "stars": 3902, "owner": "sharkdp", "forks": 69},
@@ -12,8 +12,8 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 10, "stars": 4445, "owner": "rust-lang", "forks": 1209},
 {"description": "A derive macro for implementing the display Trait via a doc comment and string interpolation", "language": "Rust", "repo": "displaydoc", "new_stars": 8, "stars": 124, "owner": "yaahc", "forks": 0},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 136, "owner": "input-output-hk", "forks": 48},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 34, "stars": 9440, "owner": "firecracker-microvm", "forks": 605},
-{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 8, "stars": 350, "owner": "tokio-rs", "forks": 38},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 33, "stars": 9440, "owner": "firecracker-microvm", "forks": 606},
+{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 8, "stars": 351, "owner": "tokio-rs", "forks": 38},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 7, "stars": 1778, "owner": "graphql-rust", "forks": 127},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 10, "stars": 4488, "owner": "benfred", "forks": 170},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 6, "stars": 4409, "owner": "mimblewimble", "forks": 872},

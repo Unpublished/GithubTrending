@@ -1,8 +1,8 @@
 [
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 19, "stars": 782, "owner": "jasonwilliams", "forks": 102},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 5, "stars": 356, "owner": "tokio-rs", "forks": 38},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 9456, "owner": "firecracker-microvm", "forks": 607},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 58, "stars": 3960, "owner": "sharkdp", "forks": 71},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 9458, "owner": "firecracker-microvm", "forks": 607},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 58, "stars": 3961, "owner": "sharkdp", "forks": 71},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 49, "stars": 6106, "owner": "tokio-rs", "forks": 520},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 30, "stars": 753, "owner": "hyperium", "forks": 25},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 21, "stars": 1258, "owner": "rusoto", "forks": 214},
@@ -22,6 +22,6 @@
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 27, "stars": 5232, "owner": "nushell", "forks": 176},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 10, "stars": 3319, "owner": "pingcap", "forks": 410},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 6, "stars": 14978, "owner": "servo", "forks": 2255},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 1780, "owner": "graphql-rust", "forks": 127},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 1781, "owner": "graphql-rust", "forks": 127},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 3857, "owner": "rust-lang", "forks": 522}
 ]

@@ -1,11 +1,11 @@
 [
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 19, "stars": 782, "owner": "jasonwilliams", "forks": 102},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 5, "stars": 356, "owner": "tokio-rs", "forks": 38},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 9455, "owner": "firecracker-microvm", "forks": 607},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 9456, "owner": "firecracker-microvm", "forks": 607},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 58, "stars": 3960, "owner": "sharkdp", "forks": 71},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 49, "stars": 6106, "owner": "tokio-rs", "forks": 520},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 30, "stars": 753, "owner": "hyperium", "forks": 25},
-{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 21, "stars": 1257, "owner": "rusoto", "forks": 214},
+{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 21, "stars": 1258, "owner": "rusoto", "forks": 214},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 18, "stars": 4334, "owner": "RustPython", "forks": 297},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 11, "stars": 4555, "owner": "diesel-rs", "forks": 431},
 {"description": "Wasm all up in your token trees", "language": "Rust", "repo": "watt", "new_stars": 36, "stars": 287, "owner": "dtolnay", "forks": 3},

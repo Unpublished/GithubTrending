@@ -1,15 +1,15 @@
 [
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 30, "stars": 752, "owner": "hyperium", "forks": 25},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 49, "stars": 6104, "owner": "tokio-rs", "forks": 520},
-{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 21, "stars": 1256, "owner": "rusoto", "forks": 214},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 58, "stars": 3957, "owner": "sharkdp", "forks": 71},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 31, "stars": 3464, "owner": "starship", "forks": 128},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 30, "stars": 753, "owner": "hyperium", "forks": 25},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 49, "stars": 6105, "owner": "tokio-rs", "forks": 520},
+{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 21, "stars": 1257, "owner": "rusoto", "forks": 214},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 58, "stars": 3959, "owner": "sharkdp", "forks": 71},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 31, "stars": 3465, "owner": "starship", "forks": 128},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 5, "stars": 2557, "owner": "serde-rs", "forks": 289},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 12, "stars": 1935, "owner": "seanmonstar", "forks": 287},
 {"description": "A command-line tool for generating regular expressions from user-provided input strings", "language": "Rust", "repo": "grex", "new_stars": 30, "stars": 233, "owner": "pemistahl", "forks": 8},
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 19, "stars": 782, "owner": "jasonwilliams", "forks": 102},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 8, "stars": 5334, "owner": "hyperium", "forks": 767},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 9, "stars": 4448, "owner": "rust-lang", "forks": 1210},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 9, "stars": 4449, "owner": "rust-lang", "forks": 1211},
 {"description": "A derive macro for implementing the display Trait via a doc comment and string interpolation", "language": "Rust", "repo": "displaydoc", "new_stars": 4, "stars": 128, "owner": "yaahc", "forks": 0},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 3, "stars": 138, "owner": "input-output-hk", "forks": 49},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 9453, "owner": "firecracker-microvm", "forks": 607},
@@ -23,5 +23,5 @@
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 3, "stars": 665, "owner": "actix", "forks": 194},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 10, "stars": 11003, "owner": "sharkdp", "forks": 284},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 8, "stars": 3387, "owner": "Geal", "forks": 388},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 8118, "owner": "SergioBenitez", "forks": 565}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 8, "stars": 8119, "owner": "SergioBenitez", "forks": 566}
 ]

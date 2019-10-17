@@ -2,7 +2,7 @@
 {"description": "Mautic: Open Source Marketing Automation Software.", "language": "PHP", "repo": "mautic", "new_stars": 2, "stars": 3478, "owner": "mautic", "forks": 1262},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 8, "stars": 7110, "owner": "PHPOffice", "forks": 1344},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 11, "stars": 19160, "owner": "laravel", "forks": 6874},
-{"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 6, "stars": 6356, "owner": "googleapis", "forks": 2873},
+{"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 6, "stars": 6356, "owner": "googleapis", "forks": 2874},
 {"description": "PHP Microservice Full Coroutine Framework", "language": "PHP", "repo": "swoft", "new_stars": 15, "stars": 4105, "owner": "swoft-cloud", "forks": 621},
 {"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 4, "stars": 5100, "owner": "opencart", "forks": 3876},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 6, "stars": 15040, "owner": "sebastianbergmann", "forks": 1793},
@@ -16,12 +16,12 @@
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 2, "stars": 3416, "owner": "barryvdh", "forks": 538},
 {"description": "Highly opinionated mocking framework for PHP 5.3+", "language": "PHP", "repo": "prophecy", "new_stars": 4, "stars": 7013, "owner": "phpspec", "forks": 198},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 4, "stars": 8562, "owner": "mockery", "forks": 373},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 19, "stars": 55642, "owner": "laravel", "forks": 17104},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 19, "stars": 55643, "owner": "laravel", "forks": 17104},
 {"description": "A REPL for PHP", "language": "PHP", "repo": "psysh", "new_stars": 5, "stars": 7978, "owner": "bobthecow", "forks": 223},
 {"description": "Full-stack testing PHP framework", "language": "PHP", "repo": "Codeception", "new_stars": 4, "stars": 3864, "owner": "Codeception", "forks": 1270},
 {"description": "A platform to create documentation/wiki content built with PHP & Laravel", "language": "PHP", "repo": "BookStack", "new_stars": 7, "stars": 3446, "owner": "BookStackApp", "forks": 574},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 3, "stars": 13879, "owner": "PHPMailer", "forks": 7582},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 6, "stars": 9842, "owner": "vlucas", "forks": 472},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 6, "stars": 9843, "owner": "vlucas", "forks": 472},
 {"description": "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users.", "language": "PHP", "repo": "panel", "new_stars": 1, "stars": 1503, "owner": "pterodactyl", "forks": 339},
 {"description": "A basic LAMP stack environment built using Docker Compose.", "language": "PHP", "repo": "docker-compose-lamp", "new_stars": 2, "stars": 476, "owner": "sprintcube", "forks": 277}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "Good Game, Peace Out Rollback Network SDK", "language": "C++", "repo": "ggpo", "new_stars": 344, "stars": 960, "owner": "pond3r", "forks": 105},
+{"description": "Good Game, Peace Out Rollback Network SDK", "language": "C++", "repo": "ggpo", "new_stars": 344, "stars": 962, "owner": "pond3r", "forks": 105},
 {"description": "Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 537, "stars": 3493, "owner": "SerenityOS", "forks": 212},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 608, "stars": 32823, "owner": "pytorch", "forks": 8075},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 608, "stars": 32824, "owner": "pytorch", "forks": 8075},
 {"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 157, "stars": 17059, "owner": "aria2", "forks": 1955},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 126, "stars": 23534, "owner": "grpc", "forks": 5591},
-{"description": "Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.", "language": "C++", "repo": "Hardcoder", "new_stars": 570, "stars": 1236, "owner": "Tencent", "forks": 101},
+{"description": "Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.", "language": "C++", "repo": "Hardcoder", "new_stars": 571, "stars": 1237, "owner": "Tencent", "forks": 101},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 61, "stars": 586, "owner": "Aircoookie", "forks": 106},
 {"description": "A Multithreaded Fork of Redis", "language": "C++", "repo": "KeyDB", "new_stars": 186, "stars": 2815, "owner": "JohnSully", "forks": 154},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 331, "stars": 39137, "owner": "opencv", "forks": 29272},
@@ -15,13 +15,13 @@
 {"description": "An open source library for face detection in images. The face detection speed can reach 1500FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 56, "stars": 7561, "owner": "ShiqiYu", "forks": 2147},
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 86, "stars": 8406, "owner": "yuzu-emu", "forks": 568},
 {"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 152, "stars": 7879, "owner": "topjohnwu", "forks": 1213},
-{"description": "MNN is a lightweight deep neural network inference engine.", "language": "C++", "repo": "MNN", "new_stars": 53, "stars": 2605, "owner": "alibaba", "forks": 541},
-{"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 23, "stars": 2982, "owner": "PX4", "forks": 8500},
+{"description": "MNN is a lightweight deep neural network inference engine.", "language": "C++", "repo": "MNN", "new_stars": 53, "stars": 2606, "owner": "alibaba", "forks": 541},
+{"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 23, "stars": 2982, "owner": "PX4", "forks": 8501},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 61, "stars": 13135, "owner": "google", "forks": 2066},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 93, "stars": 13326, "owner": "google", "forks": 5292},
-{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 89, "stars": 17461, "owner": "dmlc", "forks": 7077},
-{"description": "SRS is a simple live streaming cluster, a simple joy.", "language": "C++", "repo": "srs", "new_stars": 49, "stars": 6597, "owner": "ossrs", "forks": 2496},
+{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 89, "stars": 17462, "owner": "dmlc", "forks": 7076},
+{"description": "SRS is a simple live streaming cluster, a simple joy.", "language": "C++", "repo": "srs", "new_stars": 49, "stars": 6597, "owner": "ossrs", "forks": 2495},
 {"description": "A keygen for Navicat", "language": "C++", "repo": "navicat-keygen", "new_stars": 136, "stars": 8275, "owner": "DoubleLabyrinth", "forks": 2098},
 {"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, Suse), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 17, "stars": 828, "owner": "xournalpp", "forks": 141},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 212, "stars": 77665, "owner": "electron", "forks": 10280}
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 212, "stars": 77665, "owner": "electron", "forks": 10279}
 ]

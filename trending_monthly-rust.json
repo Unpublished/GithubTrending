@@ -10,11 +10,11 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 369, "stars": 9516, "owner": "firecracker-microvm", "forks": 611},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 158, "stars": 1487, "owner": "CraneStation", "forks": 104},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 66, "stars": 5660, "owner": "paritytech", "forks": 1351},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 194, "stars": 14995, "owner": "servo", "forks": 2258},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 194, "stars": 14995, "owner": "servo", "forks": 2259},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 112, "stars": 2544, "owner": "rust-lang-nursery", "forks": 354},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 57, "stars": 1266, "owner": "shadowsocks", "forks": 320},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 745, "stars": 2266, "owner": "cloudflare", "forks": 92},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 220, "stars": 4353, "owner": "RustPython", "forks": 297},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 221, "stars": 4354, "owner": "RustPython", "forks": 297},
 {"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 546, "stars": 768, "owner": "cloudhead", "forks": 21},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 615, "stars": 4023, "owner": "sharkdp", "forks": 72},
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 152, "stars": 835, "owner": "jasonwilliams", "forks": 108},
@@ -23,5 +23,5 @@
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 78, "stars": 535, "owner": "hrkfdn", "forks": 22},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 189, "stars": 6256, "owner": "mre", "forks": 720},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 280, "stars": 1867, "owner": "dani-garcia", "forks": 126},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 335, "stars": 11035, "owner": "sharkdp", "forks": 286}
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 336, "stars": 11036, "owner": "sharkdp", "forks": 286}
 ]

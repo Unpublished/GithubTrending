@@ -1,10 +1,10 @@
 [
-{"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 116, "stars": 485, "owner": "oam-dev", "forks": 35},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 93, "stars": 1656, "owner": "dessalines", "forks": 80},
+{"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 116, "stars": 485, "owner": "oam-dev", "forks": 36},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 93, "stars": 1657, "owner": "dessalines", "forks": 80},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 39733, "owner": "rust-lang", "forks": 6163},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 2, "stars": 2550, "owner": "rustwasm", "forks": 315},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 21, "stars": 2271, "owner": "cloudflare", "forks": 93},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 3870, "owner": "rust-lang", "forks": 524},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 7, "stars": 3871, "owner": "rust-lang", "forks": 524},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 34, "stars": 9517, "owner": "firecracker-microvm", "forks": 611},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 15, "stars": 1923, "owner": "tree-sitter", "forks": 114},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 13, "stars": 3583, "owner": "actix", "forks": 221},
@@ -22,6 +22,6 @@
 {"description": "Platform Agnostic Security Layer", "language": "Rust", "repo": "parsec", "new_stars": 4, "stars": 29, "owner": "parallaxsecond", "forks": 2},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 5527, "owner": "actix", "forks": 404},
 {"description": "Migrate C code to Rust", "language": "Rust", "repo": "c2rust", "new_stars": 3, "stars": 861, "owner": "immunant", "forks": 43},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 2, "stars": 3278, "owner": "clap-rs", "forks": 327},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 2, "stars": 3279, "owner": "clap-rs", "forks": 327},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 5, "stars": 2569, "owner": "serde-rs", "forks": 291}
 ]

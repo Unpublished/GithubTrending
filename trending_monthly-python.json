@@ -1,13 +1,13 @@
 [
-{"description": "Sample code for Channel 9 Python for Beginners course", "language": "Python", "repo": "c9-python-getting-started", "new_stars": 4654, "stars": 4655, "owner": "microsoft", "forks": 1121},
-{"description": "My Python Examples", "language": "Python", "repo": "Python", "new_stars": 1754, "stars": 14451, "owner": "geekcomputers", "forks": 7358},
+{"description": "Sample code for Channel 9 Python for Beginners course", "language": "Python", "repo": "c9-python-getting-started", "new_stars": 4655, "stars": 4656, "owner": "microsoft", "forks": 1123},
+{"description": "My Python Examples", "language": "Python", "repo": "Python", "new_stars": 1754, "stars": 14452, "owner": "geekcomputers", "forks": 7358},
 {"description": "Open source home automation that puts local control and privacy first", "language": "Python", "repo": "home-assistant", "new_stars": 946, "stars": 27495, "owner": "home-assistant", "forks": 8112},
 {"description": "Odoo. Open Source Apps To Grow Your Business.", "language": "Python", "repo": "odoo", "new_stars": 421, "stars": 15440, "owner": "odoo", "forks": 11078},
 {"description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more", "language": "Python", "repo": "pandas", "new_stars": 577, "stars": 21890, "owner": "pandas-dev", "forks": 8709},
 {"description": "scikit-learn: machine learning in Python", "language": "Python", "repo": "scikit-learn", "new_stars": 546, "stars": 37573, "owner": "scikit-learn", "forks": 18486},
-{"description": null, "language": "Python", "repo": "code_snippets", "new_stars": 238, "stars": 3041, "owner": "CoreyMSchafer", "forks": 5535},
-{"description": "Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.", "language": "Python", "repo": "transformers", "new_stars": 2603, "stars": 15481, "owner": "huggingface", "forks": 3560},
-{"description": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data", "language": "Python", "repo": "RsaCtfTool", "new_stars": 107, "stars": 1213, "owner": "Ganapati", "forks": 305},
+{"description": null, "language": "Python", "repo": "code_snippets", "new_stars": 238, "stars": 3041, "owner": "CoreyMSchafer", "forks": 5534},
+{"description": "Transformers: State-of-the-art Natural Language Processing for TensorFlow 2.0 and PyTorch.", "language": "Python", "repo": "transformers", "new_stars": 2605, "stars": 15483, "owner": "huggingface", "forks": 3561},
+{"description": "RSA attack tool (mainly for ctf) - retreive private key from weak public key and/or uncipher data", "language": "Python", "repo": "RsaCtfTool", "new_stars": 108, "stars": 1214, "owner": "Ganapati", "forks": 305},
 {"description": "A curated collection of useful Python snippets that you can understand in 30 seconds or less.", "language": "Python", "repo": "30-seconds-of-python", "new_stars": 927, "stars": 5216, "owner": "30-seconds", "forks": 645},
 {"description": "100 Days of ML Coding", "language": "Python", "repo": "100-Days-Of-ML-Code", "new_stars": 1111, "stars": 26789, "owner": "Avik-Jain", "forks": 6569},
 {"description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.", "language": "Python", "repo": "CheatSheetSeries", "new_stars": 1479, "stars": 10044, "owner": "OWASP", "forks": 1390},
@@ -18,10 +18,10 @@
 {"description": "A toolkit for developing and comparing reinforcement learning algorithms.", "language": "Python", "repo": "gym", "new_stars": 387, "stars": 18482, "owner": "openai", "forks": 5088},
 {"description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b\uff1a\u9762\u5411\u4e2d\u6587\u8bfb\u8005\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u8ba8\u8bba\u3002\u82f1\u6587\u7248\u5373\u4f2f\u514b\u5229\u201c\u6df1\u5ea6\u5b66\u4e60\u5bfc\u8bba\u201d\u6559\u6750\u3002", "language": "Python", "repo": "d2l-zh", "new_stars": 1414, "stars": 14105, "owner": "d2l-ai", "forks": 3569},
 {"description": "MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.", "language": "Python", "repo": "mujoco-py", "new_stars": 52, "stars": 1081, "owner": "openai", "forks": 351},
-{"description": "Simplified and community-driven man pages", "language": "Python", "repo": "tldr", "new_stars": 354, "stars": 23848, "owner": "tldr-pages", "forks": 1807},
+{"description": "Simplified and community-driven man pages", "language": "Python", "repo": "tldr", "new_stars": 354, "stars": 23848, "owner": "tldr-pages", "forks": 1808},
 {"description": "Python package built to ease deep learning on graph, on top of existing DL frameworks.", "language": "Python", "repo": "dgl", "new_stars": 234, "stars": 3068, "owner": "dmlc", "forks": 459},
 {"description": "We have made you a wrapper you can't refuse", "language": "Python", "repo": "python-telegram-bot", "new_stars": 235, "stars": 8606, "owner": "python-telegram-bot", "forks": 1789},
-{"description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF", "language": "Python", "repo": "PayloadsAllTheThings", "new_stars": 566, "stars": 10058, "owner": "swisskyrepo", "forks": 3145},
-{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 710, "stars": 44740, "owner": "django", "forks": 19291},
-{"description": null, "language": "Python", "repo": "shadowsocks", "new_stars": 375, "stars": 31678, "owner": "shadowsocks", "forks": 19375}
+{"description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF", "language": "Python", "repo": "PayloadsAllTheThings", "new_stars": 567, "stars": 10059, "owner": "swisskyrepo", "forks": 3145},
+{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 711, "stars": 44740, "owner": "django", "forks": 19291},
+{"description": null, "language": "Python", "repo": "shadowsocks", "new_stars": 375, "stars": 31678, "owner": "shadowsocks", "forks": 19377}
 ]

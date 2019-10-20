@@ -1,5 +1,5 @@
 [
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 625, "stars": 20686, "owner": "danielmiessler", "forks": 8557},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 627, "stars": 20688, "owner": "danielmiessler", "forks": 8557},
 {"description": "Self hosted project management and collaboration tool powered by Laravel & VueJS", "language": "PHP", "repo": "goodwork", "new_stars": 112, "stars": 778, "owner": "iluminar", "forks": 331},
 {"description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes", "language": "PHP", "repo": "core", "new_stars": 55, "stars": 1320, "owner": "api-platform", "forks": 417},
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 180, "stars": 9141, "owner": "octobercms", "forks": 2029},
@@ -12,7 +12,7 @@
 {"description": "Full-stack testing PHP framework", "language": "PHP", "repo": "Codeception", "new_stars": 32, "stars": 3867, "owner": "Codeception", "forks": 1269},
 {"description": "Damn Vulnerable Web Application (DVWA)", "language": "PHP", "repo": "DVWA", "new_stars": 121, "stars": 3607, "owner": "ethicalhack3r", "forks": 1050},
 {"description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.", "language": "PHP", "repo": "Mobile-Detect", "new_stars": 74, "stars": 8979, "owner": "serbanghita", "forks": 2396},
-{"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 97, "stars": 4046, "owner": "PrestaShop", "forks": 3376},
+{"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 98, "stars": 4046, "owner": "PrestaShop", "forks": 3376},
 {"description": "HTML to PDF converter (PHP5)", "language": "PHP", "repo": "dompdf", "new_stars": 100, "stars": 6366, "owner": "dompdf", "forks": 1270},
 {"description": "Instant Upgrades and Instant Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 106, "stars": 1897, "owner": "rectorphp", "forks": 136},
 {"description": "SuiteCRM - Open source CRM for the world", "language": "PHP", "repo": "SuiteCRM", "new_stars": 63, "stars": 1712, "owner": "salesagility", "forks": 1136},
@@ -20,7 +20,7 @@
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 182, "stars": 13900, "owner": "PHPMailer", "forks": 7592},
 {"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 126, "stars": 8738, "owner": "the-control-group", "forks": 2090},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 233, "stars": 8681, "owner": "nextcloud", "forks": 1559},
-{"description": "Your Own URL Shortener", "language": "PHP", "repo": "YOURLS", "new_stars": 165, "stars": 5357, "owner": "YOURLS", "forks": 1180},
+{"description": "Your Own URL Shortener", "language": "PHP", "repo": "YOURLS", "new_stars": 166, "stars": 5358, "owner": "YOURLS", "forks": 1180},
 {"description": "Flexible and feature-complete Redis client for PHP and HHVM", "language": "PHP", "repo": "predis", "new_stars": 83, "stars": 5999, "owner": "nrk", "forks": 817},
 {"description": "ownCloud web server core (Files, DAV, etc.)", "language": "PHP", "repo": "core", "new_stars": 44, "stars": 6817, "owner": "owncloud", "forks": 1952},
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 138, "stars": 12982, "owner": "WordPress", "forks": 7906}

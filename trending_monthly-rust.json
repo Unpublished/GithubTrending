@@ -3,15 +3,15 @@
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 496, "stars": 2542, "owner": "Spotifyd", "forks": 127},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 119, "stars": 1029, "owner": "librespot-org", "forks": 138},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 536, "stars": 12886, "owner": "libra", "forks": 1881},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 121, "stars": 3882, "owner": "rust-lang", "forks": 525},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 123, "stars": 3884, "owner": "rust-lang", "forks": 526},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 172, "stars": 1509, "owner": "CraneStation", "forks": 108},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 643, "stars": 4066, "owner": "sharkdp", "forks": 72},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 645, "stars": 4068, "owner": "sharkdp", "forks": 72},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 116, "stars": 1289, "owner": "rusoto", "forks": 219},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 150, "stars": 839, "owner": "cloudflare", "forks": 100},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 352, "stars": 9540, "owner": "firecracker-microvm", "forks": 610},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 527, "stars": 15890, "owner": "sharkdp", "forks": 316},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 353, "stars": 9541, "owner": "firecracker-microvm", "forks": 610},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 530, "stars": 15893, "owner": "sharkdp", "forks": 316},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 173, "stars": 2525, "owner": "getzola", "forks": 233},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 201, "stars": 15018, "owner": "servo", "forks": 2264},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 203, "stars": 15020, "owner": "servo", "forks": 2264},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 68, "stars": 5668, "owner": "paritytech", "forks": 1356},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 113, "stars": 2556, "owner": "rust-lang-nursery", "forks": 353},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 799, "stars": 2344, "owner": "cloudflare", "forks": 97},
@@ -23,5 +23,5 @@
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 80, "stars": 489, "owner": "mullvad", "forks": 38},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 154, "stars": 4382, "owner": "amethyst", "forks": 498},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 1173, "stars": 5334, "owner": "nushell", "forks": 181},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 325, "stars": 1703, "owner": "dessalines", "forks": 83}
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 325, "stars": 1705, "owner": "dessalines", "forks": 83}
 ]

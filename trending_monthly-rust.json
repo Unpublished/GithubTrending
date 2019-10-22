@@ -1,6 +1,6 @@
 [
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 119, "stars": 3295, "owner": "clap-rs", "forks": 327},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 123, "stars": 3884, "owner": "rust-lang", "forks": 526},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 122, "stars": 3884, "owner": "rust-lang", "forks": 526},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 496, "stars": 2542, "owner": "Spotifyd", "forks": 128},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 176, "stars": 1513, "owner": "CraneStation", "forks": 108},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 538, "stars": 12888, "owner": "libra", "forks": 1880},
@@ -11,7 +11,7 @@
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 174, "stars": 2526, "owner": "getzola", "forks": 233},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 358, "stars": 9546, "owner": "firecracker-microvm", "forks": 610},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 203, "stars": 15020, "owner": "servo", "forks": 2264},
-{"description": "High-performance runtime for data analytics applications", "language": "Rust", "repo": "weld", "new_stars": 389, "stars": 1913, "owner": "weld-project", "forks": 175},
+{"description": "High-performance runtime for data analytics applications", "language": "Rust", "repo": "weld", "new_stars": 387, "stars": 1913, "owner": "weld-project", "forks": 175},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 536, "stars": 15901, "owner": "sharkdp", "forks": 316},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 68, "stars": 5668, "owner": "paritytech", "forks": 1356},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 823, "stars": 2349, "owner": "cloudflare", "forks": 97},

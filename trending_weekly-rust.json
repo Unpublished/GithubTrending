@@ -1,9 +1,9 @@
 [
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 687, "stars": 2836, "owner": "Rigellute", "forks": 61},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 687, "stars": 2838, "owner": "Rigellute", "forks": 62},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 124, "stars": 9538, "owner": "firecracker-microvm", "forks": 610},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 178, "stars": 39781, "owner": "rust-lang", "forks": 6167},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 102, "stars": 12662, "owner": "rust-unofficial", "forks": 847},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 63, "stars": 8166, "owner": "SergioBenitez", "forks": 574},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 103, "stars": 12663, "owner": "rust-unofficial", "forks": 847},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 64, "stars": 8167, "owner": "SergioBenitez", "forks": 574},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup.rs", "new_stars": 27, "stars": 2945, "owner": "rust-lang", "forks": 444},
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 69, "stars": 839, "owner": "jasonwilliams", "forks": 112},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 45, "stars": 1288, "owner": "rusoto", "forks": 219},
@@ -17,11 +17,11 @@
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 54, "stars": 7729, "owner": "ogham", "forks": 251},
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 19, "stars": 2597, "owner": "rust-lang", "forks": 202},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 55, "stars": 5549, "owner": "actix", "forks": 407},
-{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 99, "stars": 8997, "owner": "yewstack", "forks": 339},
+{"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 102, "stars": 9000, "owner": "yewstack", "forks": 339},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 41, "stars": 6162, "owner": "tikv", "forks": 904},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 50, "stars": 447, "owner": "o2sh", "forks": 50},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 33, "stars": 4468, "owner": "rust-lang", "forks": 1209},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 144, "stars": 2343, "owner": "cloudflare", "forks": 97},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 26, "stars": 4842, "owner": "rust-lang", "forks": 1012},
-{"description": "Runtime for executing procedural macros as WebAssembly", "language": "Rust", "repo": "watt", "new_stars": 108, "stars": 345, "owner": "dtolnay", "forks": 9}
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 27, "stars": 4843, "owner": "rust-lang", "forks": 1013},
+{"description": "Runtime for executing procedural macros as WebAssembly", "language": "Rust", "repo": "watt", "new_stars": 109, "stars": 346, "owner": "dtolnay", "forks": 9}
 ]

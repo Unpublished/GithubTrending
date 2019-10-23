@@ -1,6 +1,6 @@
 [
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 28, "stars": 2362, "owner": "cloudflare", "forks": 97},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 4, "stars": 6167, "owner": "tikv", "forks": 904},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 4, "stars": 6168, "owner": "tikv", "forks": 904},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 11, "stars": 12892, "owner": "libra", "forks": 1883},
 {"description": "Facilitating high-level interactions between wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 2563, "owner": "rustwasm", "forks": 318},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 10, "stars": 1291, "owner": "shadowsocks", "forks": 323},
@@ -21,7 +21,7 @@
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 3, "stars": 4427, "owner": "mimblewimble", "forks": 876},
 {"description": "A PROLOG-ish interpreter written in Rust, intended eventually for use in the compiler", "language": "Rust", "repo": "chalk", "new_stars": 4, "stars": 600, "owner": "rust-lang", "forks": 59},
 {"description": "A GUI fuzzing application set up to fuzz calc.exe right now", "language": "Rust", "repo": "guifuzz", "new_stars": 3, "stars": 26, "owner": "gamozolabs", "forks": 5},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 14, "stars": 5342, "owner": "nushell", "forks": 182},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 14, "stars": 5343, "owner": "nushell", "forks": 182},
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 4, "stars": 2601, "owner": "rust-lang", "forks": 201},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 11, "stars": 1518, "owner": "rust-analyzer", "forks": 165}
 ]

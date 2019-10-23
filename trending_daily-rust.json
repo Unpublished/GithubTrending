@@ -3,13 +3,13 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 9, "stars": 16595, "owner": "BurntSushi", "forks": 706},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 5, "stars": 1294, "owner": "shadowsocks", "forks": 323},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 1, "stars": 5671, "owner": "paritytech", "forks": 1353},
-{"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 76, "stars": 707, "owner": "vhakulinen", "forks": 26},
+{"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 76, "stars": 708, "owner": "vhakulinen", "forks": 26},
 {"description": "Rust to SPIR-V compiler", "language": "Rust", "repo": "rlsl", "new_stars": 16, "stars": 441, "owner": "MaikKlein", "forks": 12},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 26, "stars": 18774, "owner": "jwilm", "forks": 860},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 26, "stars": 18775, "owner": "jwilm", "forks": 860},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 12, "stars": 862, "owner": "hyperium", "forks": 34},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 21, "stars": 1780, "owner": "mit-pdos", "forks": 74},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 10, "stars": 1518, "owner": "CraneStation", "forks": 108},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 3601, "owner": "starship", "forks": 138},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 3603, "owner": "starship", "forks": 138},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 6, "stars": 4870, "owner": "BurntSushi", "forks": 158},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 3, "stars": 2866, "owner": "timberio", "forks": 123},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 21, "stars": 15921, "owner": "sharkdp", "forks": 318},
@@ -23,5 +23,5 @@
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 1, "stars": 361, "owner": "hyperledger", "forks": 434},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 8, "stars": 2859, "owner": "tantivy-search", "forks": 167},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 0, "stars": 626, "owner": "paritytech", "forks": 147},
-{"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 1, "stars": 1814, "owner": "ggez", "forks": 229}
+{"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 1, "stars": 1814, "owner": "ggez", "forks": 228}
 ]

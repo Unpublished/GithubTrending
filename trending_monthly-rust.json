@@ -10,8 +10,8 @@
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 119, "stars": 1294, "owner": "rusoto", "forks": 219},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 116, "stars": 2565, "owner": "rust-lang-nursery", "forks": 353},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 662, "stars": 4091, "owner": "sharkdp", "forks": 71},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 369, "stars": 9574, "owner": "firecracker-microvm", "forks": 612},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 199, "stars": 15033, "owner": "servo", "forks": 2264},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 369, "stars": 9575, "owner": "firecracker-microvm", "forks": 612},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 199, "stars": 15034, "owner": "servo", "forks": 2264},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 511, "stars": 15931, "owner": "sharkdp", "forks": 319},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 152, "stars": 4391, "owner": "amethyst", "forks": 500},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 388, "stars": 9030, "owner": "yewstack", "forks": 340},
@@ -22,6 +22,6 @@
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 143, "stars": 843, "owner": "jasonwilliams", "forks": 113},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 81, "stars": 540, "owner": "hrkfdn", "forks": 22},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 328, "stars": 11089, "owner": "sharkdp", "forks": 287},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 146, "stars": 850, "owner": "cloudflare", "forks": 103},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 146, "stars": 851, "owner": "cloudflare", "forks": 103},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 325, "stars": 6227, "owner": "tokio-rs", "forks": 527}
 ]

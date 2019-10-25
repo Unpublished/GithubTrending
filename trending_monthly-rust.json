@@ -1,7 +1,7 @@
 [
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 129, "stars": 3306, "owner": "clap-rs", "forks": 329},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 172, "stars": 1522, "owner": "CraneStation", "forks": 108},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 552, "stars": 12927, "owner": "libra", "forks": 1899},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 552, "stars": 12927, "owner": "libra", "forks": 1900},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 125, "stars": 3891, "owner": "rust-lang", "forks": 526},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 509, "stars": 2559, "owner": "Spotifyd", "forks": 130},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 118, "stars": 1032, "owner": "librespot-org", "forks": 138},
@@ -19,7 +19,7 @@
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 839, "stars": 2378, "owner": "cloudflare", "forks": 99},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 131, "stars": 1534, "owner": "rust-analyzer", "forks": 166},
 {"description": "Modern pixel editor implemented in rust", "language": "Rust", "repo": "rx", "new_stars": 551, "stars": 776, "owner": "cloudhead", "forks": 21},
-{"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 143, "stars": 842, "owner": "jasonwilliams", "forks": 113},
+{"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 143, "stars": 843, "owner": "jasonwilliams", "forks": 113},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 81, "stars": 540, "owner": "hrkfdn", "forks": 22},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 328, "stars": 11089, "owner": "sharkdp", "forks": 287},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 146, "stars": 849, "owner": "cloudflare", "forks": 103},

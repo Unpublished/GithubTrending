@@ -1,5 +1,5 @@
 [
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 777, "stars": 2404, "owner": "cloudflare", "forks": 101},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 615, "stars": 2404, "owner": "cloudflare", "forks": 101},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 134, "stars": 3321, "owner": "clap-rs", "forks": 330},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 558, "stars": 12966, "owner": "libra", "forks": 1912},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 161, "stars": 1528, "owner": "CraneStation", "forks": 108},
@@ -21,7 +21,7 @@
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 134, "stars": 848, "owner": "jasonwilliams", "forks": 113},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 86, "stars": 545, "owner": "hrkfdn", "forks": 23},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 246, "stars": 1823, "owner": "fdehau", "forks": 95},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 665, "stars": 39877, "owner": "rust-lang", "forks": 6184},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 665, "stars": 39879, "owner": "rust-lang", "forks": 6184},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 328, "stars": 6242, "owner": "tokio-rs", "forks": 527},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 68, "stars": 5677, "owner": "paritytech", "forks": 1354}
 ]

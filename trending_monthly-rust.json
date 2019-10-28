@@ -1,12 +1,12 @@
 [
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 598, "stars": 2412, "owner": "cloudflare", "forks": 101},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 134, "stars": 3327, "owner": "clap-rs", "forks": 331},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 560, "stars": 13014, "owner": "libra", "forks": 1911},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 560, "stars": 13015, "owner": "libra", "forks": 1911},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 151, "stars": 1573, "owner": "rust-analyzer", "forks": 171},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 160, "stars": 1536, "owner": "CraneStation", "forks": 110},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 510, "stars": 2575, "owner": "Spotifyd", "forks": 130},
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 191, "stars": 740, "owner": "vhakulinen", "forks": 27},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 588, "stars": 16070, "owner": "sharkdp", "forks": 322},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 587, "stars": 16070, "owner": "sharkdp", "forks": 322},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 117, "stars": 1300, "owner": "rusoto", "forks": 220},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 112, "stars": 2580, "owner": "rust-lang-nursery", "forks": 355},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 119, "stars": 1039, "owner": "librespot-org", "forks": 139},
@@ -23,5 +23,5 @@
 {"description": "Boa is an experimental Javascript lexer, parser and compiler written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 134, "stars": 848, "owner": "jasonwilliams", "forks": 113},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 248, "stars": 1828, "owner": "fdehau", "forks": 96},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 86, "stars": 545, "owner": "hrkfdn", "forks": 24},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 663, "stars": 39906, "owner": "rust-lang", "forks": 6187}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 663, "stars": 39907, "owner": "rust-lang", "forks": 6187}
 ]

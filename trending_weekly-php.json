@@ -5,11 +5,10 @@
 {"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 40, "stars": 13018, "owner": "WordPress", "forks": 7939},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 174, "stars": 55856, "owner": "laravel", "forks": 17191},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 70, "stars": 19262, "owner": "laravel", "forks": 6900},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 178, "stars": 20949, "owner": "danielmiessler", "forks": 8667},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 177, "stars": 20949, "owner": "danielmiessler", "forks": 8667},
 {"description": "Instagram's private API", "language": "PHP", "repo": "Instagram-API", "new_stars": 32, "stars": 4878, "owner": "mgp25", "forks": 1477},
-{"description": "Community Project. Adobe Stock integration into Magento", "language": "PHP", "repo": "adobe-stock-integration", "new_stars": 2, "stars": 35, "owner": "magento", "forks": 59},
 {"description": "Official PHP low-level client for Elasticsearch.", "language": "PHP", "repo": "elasticsearch-php", "new_stars": 26, "stars": 3664, "owner": "elastic", "forks": 729},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 66, "stars": 21954, "owner": "symfony", "forks": 7237},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 65, "stars": 21954, "owner": "symfony", "forks": 7237},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 28, "stars": 2434, "owner": "vimeo", "forks": 178},
 {"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 33, "stars": 8991, "owner": "barryvdh", "forks": 837},
 {"description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)", "language": "PHP", "repo": "MISP", "new_stars": 16, "stars": 2361, "owner": "MISP", "forks": 728},
@@ -23,5 +22,6 @@
 {"description": "The Best YouTube Clone Script", "language": "PHP", "repo": "YouPHPTube", "new_stars": 8, "stars": 841, "owner": "YouPHPTube", "forks": 511},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 37, "stars": 7779, "owner": "Maatwebsite", "forks": 1249},
 {"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 33, "stars": 6990, "owner": "squizlabs", "forks": 1138},
-{"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 12, "stars": 11087, "owner": "PHPOffice", "forks": 3861}
+{"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 12, "stars": 11087, "owner": "PHPOffice", "forks": 3861},
+{"description": "WordPress starter theme with a modern development workflow", "language": "PHP", "repo": "sage", "new_stars": 20, "stars": 10315, "owner": "roots", "forks": 2869}
 ]

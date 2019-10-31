@@ -1,16 +1,16 @@
 [
-{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 652, "stars": 11785, "owner": "microsoft", "forks": 504},
+{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 652, "stars": 11786, "owner": "microsoft", "forks": 504},
 {"description": "Pleasant Programming Language.", "language": "C++", "repo": "Blawn", "new_stars": 281, "stars": 743, "owner": "Naotonosato", "forks": 33},
-{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 166, "stars": 2404, "owner": "llvm", "forks": 760},
+{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 166, "stars": 2404, "owner": "llvm", "forks": 761},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 281, "stars": 40800, "owner": "bitcoin", "forks": 24458},
 {"description": "MNN is a lightweight deep neural network inference engine.", "language": "C++", "repo": "MNN", "new_stars": 312, "stars": 2945, "owner": "alibaba", "forks": 573},
 {"description": "Android\u5b9e\u65f6\u6295\u5c4f\u63a7\u5236\u8f6f\u4ef6", "language": "C++", "repo": "QtScrcpy", "new_stars": 267, "stars": 1137, "owner": "barry-ran", "forks": 201},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 339, "stars": 78171, "owner": "electron", "forks": 10355},
-{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 347, "stars": 53770, "owner": "microsoft", "forks": 5219},
-{"description": "Alternative Firmware for ESP8266 based devices like itead Sonoff, with Web, Timers, OTA, MQTT, KNX and Sensors Support, to be used on Smart Home Systems. Written for Arduino IDE and PlatformIO", "language": "C++", "repo": "Tasmota", "new_stars": 97, "stars": 8215, "owner": "arendst", "forks": 1934},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 193, "stars": 38172, "owner": "protocolbuffers", "forks": 10317},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 335, "stars": 78171, "owner": "electron", "forks": 10355},
+{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 347, "stars": 53770, "owner": "microsoft", "forks": 5220},
+{"description": "Alternative Firmware for ESP8266 based devices like itead Sonoff, with Web, Timers, OTA, MQTT, KNX and Sensors Support, to be used on Smart Home Systems. Written for Arduino IDE and PlatformIO", "language": "C++", "repo": "Tasmota", "new_stars": 96, "stars": 8215, "owner": "arendst", "forks": 1934},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 193, "stars": 38173, "owner": "protocolbuffers", "forks": 10317},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 69, "stars": 683, "owner": "Aircoookie", "forks": 124},
-{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 1129, "stars": 9197, "owner": "notepad-plus-plus", "forks": 2430},
+{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 1134, "stars": 9202, "owner": "notepad-plus-plus", "forks": 2430},
 {"description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.", "language": "C++", "repo": "BIGTREETECH-SKR-mini-E3", "new_stars": 18, "stars": 95, "owner": "bigtreetech", "forks": 71},
 {"description": "A keygen for Navicat", "language": "C++", "repo": "navicat-keygen", "new_stars": 141, "stars": 8536, "owner": "DoubleLabyrinth", "forks": 2167},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 326, "stars": 25521, "owner": "godotengine", "forks": 4928},
@@ -23,5 +23,5 @@
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 95, "stars": 17623, "owner": "dmlc", "forks": 7108},
 {"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.", "language": "C++", "repo": "bullet3", "new_stars": 34, "stars": 5533, "owner": "bulletphysics", "forks": 1485},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 117, "stars": 23724, "owner": "grpc", "forks": 5663},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 54, "stars": 7367, "owner": "qbittorrent", "forks": 1295}
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 53, "stars": 7367, "owner": "qbittorrent", "forks": 1295}
 ]

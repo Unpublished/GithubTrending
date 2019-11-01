@@ -1,6 +1,6 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 36, "stars": 1239, "owner": "async-rs", "forks": 109},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 70, "stars": 4150, "owner": "starship", "forks": 155},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 70, "stars": 4152, "owner": "starship", "forks": 155},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 10, "stars": 1572, "owner": "paritytech", "forks": 432},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 5, "stars": 2186, "owner": "CraneStation", "forks": 192},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 3, "stars": 5684, "owner": "paritytech", "forks": 1358},
@@ -10,7 +10,7 @@
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 4, "stars": 884, "owner": "rust-windowing", "forks": 260},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 40016, "owner": "rust-lang", "forks": 6203},
 {"description": "A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target", "language": "Rust", "repo": "cargo-wasi", "new_stars": 6, "stars": 95, "owner": "alexcrichton", "forks": 4},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 5, "stars": 3503, "owner": "Peltoche", "forks": 126},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 5, "stars": 3504, "owner": "Peltoche", "forks": 126},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 6, "stars": 744, "owner": "Edu4rdSHL", "forks": 89},
 {"description": "EARTH research and development", "language": "Rust", "repo": "earth", "new_stars": 4, "stars": 15, "owner": "cgcardona", "forks": 1},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 2, "stars": 4421, "owner": "amethyst", "forks": 501},
@@ -22,6 +22,6 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 1, "stars": 3919, "owner": "rust-lang", "forks": 529},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 3, "stars": 2602, "owner": "rust-lang", "forks": 357},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 4, "stars": 1554, "owner": "CraneStation", "forks": 112},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 5, "stars": 2913, "owner": "timberio", "forks": 130},
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 5, "stars": 2914, "owner": "timberio", "forks": 130},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 12, "stars": 911, "owner": "google", "forks": 48}
 ]

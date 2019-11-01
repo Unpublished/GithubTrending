@@ -12,7 +12,7 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 425, "stars": 16729, "owner": "BurntSushi", "forks": 714},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 119, "stars": 1044, "owner": "librespot-org", "forks": 139},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 342, "stars": 6268, "owner": "tokio-rs", "forks": 524},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 126, "stars": 2598, "owner": "rust-lang", "forks": 356},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 126, "stars": 2599, "owner": "rust-lang", "forks": 356},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 444, "stars": 9697, "owner": "firecracker-microvm", "forks": 618},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 106, "stars": 4873, "owner": "rust-lang", "forks": 1023},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 330, "stars": 1976, "owner": "dani-garcia", "forks": 134},
@@ -22,6 +22,6 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 78, "stars": 1319, "owner": "shadowsocks", "forks": 330},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 698, "stars": 4167, "owner": "sharkdp", "forks": 72},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 133, "stars": 3918, "owner": "rust-lang", "forks": 529},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 942, "stars": 942, "owner": "hyperium", "forks": 42},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 942, "stars": 944, "owner": "hyperium", "forks": 42},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 261, "stars": 1850, "owner": "fdehau", "forks": 96}
 ]

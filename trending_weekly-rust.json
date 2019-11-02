@@ -1,7 +1,7 @@
 [
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 265, "stars": 510, "owner": "rajasekarv", "forks": 33},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 125, "stars": 1241, "owner": "async-rs", "forks": 109},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 197, "stars": 40023, "owner": "rust-lang", "forks": 6203},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 125, "stars": 1241, "owner": "async-rs", "forks": 108},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 197, "stars": 40022, "owner": "rust-lang", "forks": 6203},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 168, "stars": 13087, "owner": "libra", "forks": 1936},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 126, "stars": 9705, "owner": "firecracker-microvm", "forks": 618},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 71, "stars": 1609, "owner": "rust-analyzer", "forks": 174},
@@ -11,7 +11,7 @@
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 865, "stars": 1342, "owner": "o2sh", "forks": 75},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 32, "stars": 1572, "owner": "paritytech", "forks": 432},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 21, "stars": 3286, "owner": "tokio-rs", "forks": 394},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 62, "stars": 1857, "owner": "graphql-rust", "forks": 129},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 62, "stars": 1858, "owner": "graphql-rust", "forks": 129},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 46, "stars": 8228, "owner": "SergioBenitez", "forks": 583},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 47, "stars": 6226, "owner": "tikv", "forks": 920},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 227, "stars": 16163, "owner": "sharkdp", "forks": 324},

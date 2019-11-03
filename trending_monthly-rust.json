@@ -1,10 +1,10 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 649, "stars": 13093, "owner": "libra", "forks": 1936},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 650, "stars": 13094, "owner": "libra", "forks": 1936},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 143, "stars": 3347, "owner": "clap-rs", "forks": 335},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 645, "stars": 16186, "owner": "sharkdp", "forks": 323},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 388, "stars": 2439, "owner": "cloudflare", "forks": 105},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 169, "stars": 1560, "owner": "CraneStation", "forks": 113},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 540, "stars": 2611, "owner": "Spotifyd", "forks": 129},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 541, "stars": 2612, "owner": "Spotifyd", "forks": 129},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 200, "stars": 1618, "owner": "rust-analyzer", "forks": 173},
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 200, "stars": 752, "owner": "vhakulinen", "forks": 27},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 126, "stars": 1312, "owner": "rusoto", "forks": 222},
@@ -23,5 +23,5 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 110, "stars": 4876, "owner": "rust-lang", "forks": 1022},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 131, "stars": 2610, "owner": "rust-lang", "forks": 358},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 709, "stars": 4182, "owner": "sharkdp", "forks": 71},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 934, "stars": 956, "owner": "hyperium", "forks": 48}
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 935, "stars": 957, "owner": "hyperium", "forks": 48}
 ]

@@ -1,8 +1,8 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 666, "stars": 13109, "owner": "libra", "forks": 1936},
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 390, "stars": 2441, "owner": "cloudflare", "forks": 106},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 667, "stars": 13110, "owner": "libra", "forks": 1936},
+{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 391, "stars": 2442, "owner": "cloudflare", "forks": 106},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 144, "stars": 3348, "owner": "clap-rs", "forks": 335},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 658, "stars": 16199, "owner": "sharkdp", "forks": 323},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 659, "stars": 16200, "owner": "sharkdp", "forks": 323},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 170, "stars": 1561, "owner": "CraneStation", "forks": 113},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 544, "stars": 2615, "owner": "Spotifyd", "forks": 129},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 198, "stars": 1640, "owner": "rust-analyzer", "forks": 173},
@@ -21,7 +21,7 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 111, "stars": 4876, "owner": "rust-lang", "forks": 1022},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 771, "stars": 40060, "owner": "rust-lang", "forks": 6205},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 130, "stars": 1867, "owner": "graphql-rust", "forks": 130},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 131, "stars": 2611, "owner": "rust-lang", "forks": 357},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 131, "stars": 2612, "owner": "rust-lang", "forks": 357},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 710, "stars": 4181, "owner": "sharkdp", "forks": 71},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 946, "stars": 968, "owner": "hyperium", "forks": 48}
 ]

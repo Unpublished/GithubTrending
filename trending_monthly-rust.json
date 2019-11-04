@@ -1,6 +1,6 @@
 [
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 635, "stars": 971, "owner": "hyperium", "forks": 48},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 656, "stars": 13135, "owner": "libra", "forks": 1937},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 656, "stars": 13135, "owner": "libra", "forks": 1938},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 645, "stars": 16229, "owner": "sharkdp", "forks": 323},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 211, "stars": 1653, "owner": "rust-analyzer", "forks": 174},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 547, "stars": 2620, "owner": "Spotifyd", "forks": 129},
@@ -12,7 +12,7 @@
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 119, "stars": 1049, "owner": "librespot-org", "forks": 140},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 53, "stars": 3289, "owner": "tokio-rs", "forks": 394},
 {"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 135, "stars": 856, "owner": "jasonwilliams", "forks": 113},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 542, "stars": 19025, "owner": "jwilm", "forks": 874},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 544, "stars": 19027, "owner": "jwilm", "forks": 874},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 340, "stars": 6283, "owner": "tokio-rs", "forks": 521},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 430, "stars": 16780, "owner": "BurntSushi", "forks": 714},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 432, "stars": 9726, "owner": "firecracker-microvm", "forks": 621},

@@ -1,18 +1,18 @@
 [
-{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 1305, "stars": 12344, "owner": "microsoft", "forks": 534},
+{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 1305, "stars": 12345, "owner": "microsoft", "forks": 534},
 {"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 1669, "stars": 9735, "owner": "notepad-plus-plus", "forks": 2488},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 284, "stars": 40942, "owner": "bitcoin", "forks": 24488},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 222, "stars": 7053, "owner": "fmtlib", "forks": 860},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 286, "stars": 40944, "owner": "bitcoin", "forks": 24488},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 222, "stars": 7053, "owner": "fmtlib", "forks": 861},
 {"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 110, "stars": 2467, "owner": "llvm", "forks": 785},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 199, "stars": 38245, "owner": "protocolbuffers", "forks": 10364},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 199, "stars": 38246, "owner": "protocolbuffers", "forks": 10364},
 {"description": "codes for my streams and YT videos", "language": "C++", "repo": "youtube", "new_stars": 16, "stars": 195, "owner": "Errichto", "forks": 45},
 {"description": "Alternative Firmware for ESP8266 based devices like itead Sonoff, with Web, Timers, OTA, MQTT, KNX and Sensors Support, to be used on Smart Home Systems. Written for Arduino IDE and PlatformIO", "language": "C++", "repo": "Tasmota", "new_stars": 113, "stars": 8296, "owner": "arendst", "forks": 1953},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 234, "stars": 25702, "owner": "godotengine", "forks": 4950},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 234, "stars": 25705, "owner": "godotengine", "forks": 4950},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 61, "stars": 725, "owner": "Aircoookie", "forks": 133},
 {"description": "ClickHouse is a free analytic DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 67, "stars": 8681, "owner": "ClickHouse", "forks": 1537},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 107, "stars": 14931, "owner": "CMU-Perceptual-Computing-Lab", "forks": 4298},
-{"description": "A keygen for Navicat", "language": "C++", "repo": "navicat-keygen", "new_stars": 131, "stars": 8622, "owner": "DoubleLabyrinth", "forks": 2194},
-{"description": "A retro game engine for Python", "language": "C++", "repo": "pyxel", "new_stars": 93, "stars": 6229, "owner": "kitao", "forks": 318},
+{"description": "A keygen for Navicat", "language": "C++", "repo": "navicat-keygen", "new_stars": 131, "stars": 8623, "owner": "DoubleLabyrinth", "forks": 2195},
+{"description": "A retro game engine for Python", "language": "C++", "repo": "pyxel", "new_stars": 93, "stars": 6230, "owner": "kitao", "forks": 318},
 {"description": "An open source library for face detection in images. The face detection speed can reach 1500FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 72, "stars": 7710, "owner": "ShiqiYu", "forks": 2186},
 {"description": "Gaming meets modern C++ - a fast and reliable entity-component system (ECS) and much more", "language": "C++", "repo": "entt", "new_stars": 41, "stars": 2283, "owner": "skypjack", "forks": 209},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 72, "stars": 19143, "owner": "google", "forks": 4507},
@@ -23,5 +23,5 @@
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 213, "stars": 39599, "owner": "opencv", "forks": 29799},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 38, "stars": 1062, "owner": "esphome", "forks": 225},
 {"description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs", "language": "C++", "repo": "WhateverGreen", "new_stars": 52, "stars": 1237, "owner": "acidanthera", "forks": 199},
-{"description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.", "language": "C++", "repo": "BIGTREETECH-SKR-mini-E3", "new_stars": 12, "stars": 101, "owner": "bigtreetech", "forks": 85}
+{"description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.", "language": "C++", "repo": "BIGTREETECH-SKR-mini-E3", "new_stars": 12, "stars": 102, "owner": "bigtreetech", "forks": 85}
 ]

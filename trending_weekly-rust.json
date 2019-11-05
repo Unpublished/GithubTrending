@@ -1,7 +1,7 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 120, "stars": 1263, "owner": "async-rs", "forks": 110},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 238, "stars": 40152, "owner": "rust-lang", "forks": 6217},
-{"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 425, "stars": 1441, "owner": "o2sh", "forks": 80},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 238, "stars": 40155, "owner": "rust-lang", "forks": 6217},
+{"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 426, "stars": 1442, "owner": "o2sh", "forks": 80},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 23, "stars": 1329, "owner": "shadowsocks", "forks": 332},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 222, "stars": 556, "owner": "rajasekarv", "forks": 36},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 66, "stars": 797, "owner": "xi-editor", "forks": 54},
@@ -10,7 +10,7 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 61, "stars": 1873, "owner": "graphql-rust", "forks": 130},
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 384, "stars": 4232, "owner": "starship", "forks": 159},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 84, "stars": 7890, "owner": "ogham", "forks": 251},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 82, "stars": 1662, "owner": "rust-analyzer", "forks": 175},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 82, "stars": 1663, "owner": "rust-analyzer", "forks": 175},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 103, "stars": 12833, "owner": "rust-unofficial", "forks": 867},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 45, "stars": 2941, "owner": "timberio", "forks": 129},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 36, "stars": 3518, "owner": "Peltoche", "forks": 127},
@@ -21,7 +21,7 @@
 {"description": "A rust drawing library focus on data plotting for both WASM and native applications", "language": "Rust", "repo": "plotters", "new_stars": 29, "stars": 555, "owner": "38", "forks": 40},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 131, "stars": 3008, "owner": "tantivy-search", "forks": 175},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 6, "stars": 585, "owner": "nervosnetwork", "forks": 101},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 98, "stars": 11262, "owner": "sharkdp", "forks": 291},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 98, "stars": 11263, "owner": "sharkdp", "forks": 291},
 {"description": "A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target", "language": "Rust", "repo": "cargo-wasi", "new_stars": 62, "stars": 99, "owner": "alexcrichton", "forks": 3},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 237, "stars": 247652, "owner": "996icu", "forks": 21203}
 ]

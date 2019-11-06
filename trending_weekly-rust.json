@@ -1,14 +1,14 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 105, "stars": 1268, "owner": "async-rs", "forks": 112},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 248, "stars": 40159, "owner": "rust-lang", "forks": 6216},
-{"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 364, "stars": 1446, "owner": "o2sh", "forks": 80},
+{"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 376, "stars": 1446, "owner": "o2sh", "forks": 80},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 19, "stars": 1329, "owner": "shadowsocks", "forks": 332},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 225, "stars": 557, "owner": "rajasekarv", "forks": 37},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 74, "stars": 803, "owner": "xi-editor", "forks": 54},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 27, "stars": 1580, "owner": "paritytech", "forks": 435},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 27, "stars": 1581, "owner": "paritytech", "forks": 435},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 149, "stars": 19048, "owner": "jwilm", "forks": 877},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 55, "stars": 1873, "owner": "graphql-rust", "forks": 130},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 310, "stars": 4237, "owner": "starship", "forks": 159},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 312, "stars": 4237, "owner": "starship", "forks": 159},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 74, "stars": 7890, "owner": "ogham", "forks": 251},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 85, "stars": 1665, "owner": "rust-analyzer", "forks": 176},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 104, "stars": 12837, "owner": "rust-unofficial", "forks": 866},
@@ -22,6 +22,6 @@
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 134, "stars": 3011, "owner": "tantivy-search", "forks": 175},
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 5, "stars": 585, "owner": "nervosnetwork", "forks": 101},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 90, "stars": 11264, "owner": "sharkdp", "forks": 291},
-{"description": "A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target", "language": "Rust", "repo": "cargo-wasi", "new_stars": 29, "stars": 100, "owner": "alexcrichton", "forks": 3},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 236, "stars": 247650, "owner": "996icu", "forks": 21203}
+{"description": "A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target", "language": "Rust", "repo": "cargo-wasi", "new_stars": 29, "stars": 101, "owner": "alexcrichton", "forks": 3},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 236, "stars": 247649, "owner": "996icu", "forks": 21203}
 ]

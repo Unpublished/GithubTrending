@@ -1,6 +1,6 @@
 [
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 3065, "stars": 3130, "owner": "Rigellute", "forks": 80},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 561, "stars": 988, "owner": "hyperium", "forks": 49},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 562, "stars": 988, "owner": "hyperium", "forks": 49},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 553, "stars": 2629, "owner": "Spotifyd", "forks": 129},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 672, "stars": 16279, "owner": "sharkdp", "forks": 325},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 232, "stars": 1670, "owner": "rust-analyzer", "forks": 177},
@@ -11,17 +11,17 @@
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 359, "stars": 2461, "owner": "cloudflare", "forks": 106},
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 192, "stars": 753, "owner": "vhakulinen", "forks": 27},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 154, "stars": 1578, "owner": "CraneStation", "forks": 113},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 215, "stars": 6288, "owner": "tikv", "forks": 920},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 215, "stars": 6288, "owner": "tikv", "forks": 921},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 345, "stars": 6296, "owner": "tokio-rs", "forks": 522},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 128, "stars": 1873, "owner": "graphql-rust", "forks": 130},
-{"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 134, "stars": 860, "owner": "jasonwilliams", "forks": 113},
+{"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 134, "stars": 861, "owner": "jasonwilliams", "forks": 113},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 810, "stars": 40169, "owner": "rust-lang", "forks": 6216},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 61, "stars": 3295, "owner": "tokio-rs", "forks": 394},
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 61, "stars": 3296, "owner": "tokio-rs", "forks": 394},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 85, "stars": 1331, "owner": "shadowsocks", "forks": 332},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 590, "stars": 9891, "owner": "firecracker-microvm", "forks": 623},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 427, "stars": 11270, "owner": "sharkdp", "forks": 291},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 591, "stars": 9892, "owner": "firecracker-microvm", "forks": 623},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 429, "stars": 11272, "owner": "sharkdp", "forks": 291},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 453, "stars": 16810, "owner": "BurntSushi", "forks": 716},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 133, "stars": 2623, "owner": "rust-lang", "forks": 360},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 112, "stars": 1302, "owner": "http-rs", "forks": 115},
-{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 273, "stars": 7682, "owner": "valeriansaliou", "forks": 216}
+{"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 274, "stars": 7683, "owner": "valeriansaliou", "forks": 216}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 3073, "stars": 3139, "owner": "Rigellute", "forks": 80},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 511, "stars": 991, "owner": "hyperium", "forks": 49},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 511, "stars": 992, "owner": "hyperium", "forks": 49},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 553, "stars": 2631, "owner": "Spotifyd", "forks": 129},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 673, "stars": 16289, "owner": "sharkdp", "forks": 325},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 239, "stars": 1673, "owner": "rust-analyzer", "forks": 177},
@@ -12,7 +12,7 @@
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 191, "stars": 754, "owner": "vhakulinen", "forks": 27},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 155, "stars": 1580, "owner": "CraneStation", "forks": 114},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 233, "stars": 6292, "owner": "tikv", "forks": 921},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 347, "stars": 6300, "owner": "tokio-rs", "forks": 522},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 349, "stars": 6301, "owner": "tokio-rs", "forks": 522},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 129, "stars": 1875, "owner": "graphql-rust", "forks": 130},
 {"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 138, "stars": 863, "owner": "jasonwilliams", "forks": 114},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 822, "stars": 40192, "owner": "rust-lang", "forks": 6216},

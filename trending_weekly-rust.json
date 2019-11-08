@@ -1,6 +1,6 @@
 [
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 242, "stars": 5682, "owner": "nushell", "forks": 194},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 280, "stars": 40259, "owner": "rust-lang", "forks": 6221},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 282, "stars": 40260, "owner": "rust-lang", "forks": 6221},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 231, "stars": 9927, "owner": "firecracker-microvm", "forks": 629},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 63, "stars": 2968, "owner": "timberio", "forks": 129},
 {"description": "The next generation high performance public chain for financial infrastructure.", "language": "Rust", "repo": "huobi-chain", "new_stars": 155, "stars": 309, "owner": "HuobiGroup", "forks": 79},
@@ -8,11 +8,11 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 32, "stars": 2959, "owner": "rust-lang-nursery", "forks": 367},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 63, "stars": 1293, "owner": "async-rs", "forks": 116},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 85, "stars": 6305, "owner": "tikv", "forks": 924},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 4532, "owner": "rust-lang", "forks": 1227},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 4533, "owner": "rust-lang", "forks": 1227},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 27, "stars": 1986, "owner": "tree-sitter", "forks": 120},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 132, "stars": 13210, "owner": "libra", "forks": 1944},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 22, "stars": 1849, "owner": "ggez", "forks": 230},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 38, "stars": 2634, "owner": "rust-lang", "forks": 360},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 38, "stars": 2635, "owner": "rust-lang", "forks": 360},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 83, "stars": 1676, "owner": "rust-analyzer", "forks": 177},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 26, "stars": 1592, "owner": "paritytech", "forks": 439},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 103, "stars": 12873, "owner": "rust-unofficial", "forks": 867},
@@ -21,7 +21,7 @@
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 34, "stars": 4635, "owner": "diesel-rs", "forks": 438},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 173, "stars": 16318, "owner": "sharkdp", "forks": 326},
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 76, "stars": 7695, "owner": "valeriansaliou", "forks": 217},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 67, "stars": 4607, "owner": "benfred", "forks": 171},
-{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 28, "stars": 2632, "owner": "fastly", "forks": 85},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 67, "stars": 4608, "owner": "benfred", "forks": 171},
+{"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 28, "stars": 2633, "owner": "fastly", "forks": 85},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 33, "stars": 987, "owner": "tikv", "forks": 128}
 ]

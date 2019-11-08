@@ -1,10 +1,10 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 277, "stars": 40255, "owner": "rust-lang", "forks": 6221},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 278, "stars": 40256, "owner": "rust-lang", "forks": 6221},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 242, "stars": 5680, "owner": "nushell", "forks": 193},
-{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 112, "stars": 570, "owner": "rajasekarv", "forks": 38},
+{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 112, "stars": 601, "owner": "rajasekarv", "forks": 41},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 64, "stars": 1293, "owner": "async-rs", "forks": 116},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 66, "stars": 812, "owner": "xi-editor", "forks": 55},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 231, "stars": 9923, "owner": "firecracker-microvm", "forks": 629},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 231, "stars": 9924, "owner": "firecracker-microvm", "forks": 629},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 63, "stars": 2968, "owner": "timberio", "forks": 129},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 32, "stars": 2959, "owner": "rust-lang-nursery", "forks": 367},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 83, "stars": 1676, "owner": "rust-analyzer", "forks": 177},
@@ -19,9 +19,9 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 4532, "owner": "rust-lang", "forks": 1227},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 85, "stars": 6304, "owner": "tikv", "forks": 924},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 67, "stars": 4605, "owner": "benfred", "forks": 171},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 267, "stars": 247679, "owner": "996icu", "forks": 21191},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 271, "stars": 247683, "owner": "996icu", "forks": 21191},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 33, "stars": 987, "owner": "tikv", "forks": 128},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 42, "stars": 5420, "owner": "hyperium", "forks": 773},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 42, "stars": 5421, "owner": "hyperium", "forks": 773},
 {"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 42, "stars": 6387, "owner": "mre", "forks": 738},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 173, "stars": 16315, "owner": "sharkdp", "forks": 326}
 ]

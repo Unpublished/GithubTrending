@@ -1,12 +1,12 @@
 [
 {"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 457, "stars": 2530, "owner": "llvm", "forks": 806},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1409, "stars": 33502, "owner": "pytorch", "forks": 8314},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1411, "stars": 33503, "owner": "pytorch", "forks": 8314},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 1052, "stars": 39737, "owner": "opencv", "forks": 29916},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 765, "stars": 38322, "owner": "protocolbuffers", "forks": 10385},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 943, "stars": 25812, "owner": "godotengine", "forks": 4975},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 771, "stars": 41013, "owner": "bitcoin", "forks": 24518},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 490, "stars": 23842, "owner": "grpc", "forks": 5698},
-{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 522, "stars": 8203, "owner": "topjohnwu", "forks": 1279},
+{"description": "A Magic Mask to Alter Android System Systemless-ly", "language": "C++", "repo": "Magisk", "new_stars": 523, "stars": 8204, "owner": "topjohnwu", "forks": 1279},
 {"description": "Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 1092, "stars": 3923, "owner": "SerenityOS", "forks": 249},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1141, "stars": 78421, "owner": "electron", "forks": 10399},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 211, "stars": 1501, "owner": "yhirose", "forks": 352},
@@ -14,7 +14,7 @@
 {"description": "MNN is a lightweight deep neural network inference engine.", "language": "C++", "repo": "MNN", "new_stars": 465, "stars": 3003, "owner": "alibaba", "forks": 593},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 234, "stars": 751, "owner": "Aircoookie", "forks": 138},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 352, "stars": 7565, "owner": "qbittorrent", "forks": 1313},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 431, "stars": 16232, "owner": "nlohmann", "forks": 2797},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 431, "stars": 16232, "owner": "nlohmann", "forks": 2798},
 {"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeepass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 249, "stars": 6500, "owner": "keepassxreboot", "forks": 517},
 {"description": "OpenVINO\u2122 Toolkit - Deep Learning Deployment Toolkit repository", "language": "C++", "repo": "dldt", "new_stars": 74, "stars": 894, "owner": "opencv", "forks": 296},
 {"description": "Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.", "language": "C++", "repo": "Hardcoder", "new_stars": 1168, "stars": 1418, "owner": "Tencent", "forks": 116},
@@ -22,6 +22,6 @@
 {"description": "Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure.", "language": "C++", "repo": "assimp", "new_stars": 140, "stars": 4765, "owner": "assimp", "forks": 1464},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 91, "stars": 3041, "owner": "PX4", "forks": 8648},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 466, "stars": 14992, "owner": "CMU-Perceptual-Computing-Lab", "forks": 4321},
-{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 352, "stars": 17690, "owner": "dmlc", "forks": 7133},
+{"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 353, "stars": 17691, "owner": "dmlc", "forks": 7133},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 322, "stars": 7123, "owner": "gabime", "forks": 1566}
 ]

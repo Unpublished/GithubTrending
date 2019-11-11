@@ -12,8 +12,8 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 18, "stars": 5448, "owner": "hyperium", "forks": 774},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 20, "stars": 6248, "owner": "rust-lang", "forks": 638},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 27, "stars": 12903, "owner": "rust-unofficial", "forks": 871},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 11, "stars": 1021, "owner": "hyperium", "forks": 50},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 14, "stars": 2652, "owner": "rust-lang", "forks": 363},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 11, "stars": 1022, "owner": "hyperium", "forks": 50},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 14, "stars": 2654, "owner": "rust-lang", "forks": 363},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 80, "stars": 40351, "owner": "rust-lang", "forks": 6226},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 16, "stars": 1315, "owner": "async-rs", "forks": 119},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 8273, "owner": "SergioBenitez", "forks": 583},
@@ -22,6 +22,6 @@
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 12, "stars": 1522, "owner": "nannou-org", "forks": 67},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 13, "stars": 1602, "owner": "CraneStation", "forks": 117},
 {"description": "An async await executor for Rust", "language": "Rust", "repo": "Executor", "new_stars": 36, "stars": 75, "owner": "richardanaya", "forks": 1},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 36, "stars": 4324, "owner": "starship", "forks": 164},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 36, "stars": 4323, "owner": "starship", "forks": 164},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 9, "stars": 4543, "owner": "rust-lang", "forks": 1229}
 ]

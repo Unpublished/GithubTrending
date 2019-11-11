@@ -1,14 +1,14 @@
 [
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 245, "stars": 5718, "owner": "nushell", "forks": 196},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 303, "stars": 821, "owner": "rajasekarv", "forks": 64},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 361, "stars": 40362, "owner": "rust-lang", "forks": 6231},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 78, "stars": 1317, "owner": "async-rs", "forks": 123},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 362, "stars": 40362, "owner": "rust-lang", "forks": 6232},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 80, "stars": 1319, "owner": "async-rs", "forks": 123},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 258, "stars": 9961, "owner": "firecracker-microvm", "forks": 629},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 101, "stars": 6325, "owner": "tikv", "forks": 927},
 {"description": "Bayard is a full-text search and indexing server written in Rust.", "language": "Rust", "repo": "bayard", "new_stars": 473, "stars": 1055, "owner": "bayard-search", "forks": 39},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 53, "stars": 2034, "owner": "seanmonstar", "forks": 299},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 56, "stars": 2977, "owner": "timberio", "forks": 131},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 307, "stars": 247721, "owner": "996icu", "forks": 21194},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 307, "stars": 247721, "owner": "996icu", "forks": 21193},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 33, "stars": 1862, "owner": "ggez", "forks": 232},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 68, "stars": 5449, "owner": "hyperium", "forks": 775},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 70, "stars": 5686, "owner": "actix", "forks": 406},
@@ -16,12 +16,12 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 40, "stars": 2971, "owner": "rust-lang-nursery", "forks": 370},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 21, "stars": 2604, "owner": "rustwasm", "forks": 333},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 34, "stars": 4907, "owner": "rust-lang", "forks": 1031},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 64, "stars": 4480, "owner": "amethyst", "forks": 504},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 65, "stars": 4481, "owner": "amethyst", "forks": 504},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 43, "stars": 4544, "owner": "rust-lang", "forks": 1229},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 56, "stars": 3700, "owner": "actix", "forks": 222},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 36, "stars": 2000, "owner": "tree-sitter", "forks": 120},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 48, "stars": 2653, "owner": "fastly", "forks": 85},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 65, "stars": 832, "owner": "xi-editor", "forks": 56},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 87, "stars": 4624, "owner": "benfred", "forks": 173},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 86, "stars": 6356, "owner": "tokio-rs", "forks": 526}
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 89, "stars": 6359, "owner": "tokio-rs", "forks": 527}
 ]

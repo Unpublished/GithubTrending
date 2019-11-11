@@ -1,6 +1,6 @@
 [
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 455, "stars": 1027, "owner": "hyperium", "forks": 51},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 631, "stars": 9962, "owner": "firecracker-microvm", "forks": 629},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 632, "stars": 9963, "owner": "firecracker-microvm", "forks": 629},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 960, "stars": 40365, "owner": "rust-lang", "forks": 6231},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 249, "stars": 1689, "owner": "rust-analyzer", "forks": 179},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 1762, "stars": 3178, "owner": "Rigellute", "forks": 81},
@@ -8,7 +8,7 @@
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 70, "stars": 3307, "owner": "tokio-rs", "forks": 395},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 122, "stars": 1324, "owner": "rusoto", "forks": 228},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 95, "stars": 1344, "owner": "shadowsocks", "forks": 337},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 387, "stars": 6358, "owner": "tokio-rs", "forks": 527},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 387, "stars": 6359, "owner": "tokio-rs", "forks": 527},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 253, "stars": 6325, "owner": "tikv", "forks": 927},
 {"description": "GUI for neovim, without any web bloat", "language": "Rust", "repo": "gnvim", "new_stars": 193, "stars": 761, "owner": "vhakulinen", "forks": 28},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 560, "stars": 13256, "owner": "libra", "forks": 1952},
@@ -23,5 +23,5 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 119, "stars": 4907, "owner": "rust-lang", "forks": 1031},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 126, "stars": 1317, "owner": "http-rs", "forks": 116},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 84, "stars": 2971, "owner": "rust-lang-nursery", "forks": 370},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 158, "stars": 2657, "owner": "rust-lang", "forks": 364}
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 158, "stars": 2657, "owner": "rust-lang", "forks": 365}
 ]

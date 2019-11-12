@@ -1,6 +1,6 @@
 [
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 36, "stars": 6395, "owner": "tokio-rs", "forks": 527},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 21, "stars": 12916, "owner": "rust-unofficial", "forks": 871},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 36, "stars": 6396, "owner": "tokio-rs", "forks": 527},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 22, "stars": 12917, "owner": "rust-unofficial", "forks": 871},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 7, "stars": 1865, "owner": "ggez", "forks": 232},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 9, "stars": 5451, "owner": "hyperium", "forks": 774},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 43, "stars": 40379, "owner": "rust-lang", "forks": 6231},
@@ -10,7 +10,7 @@
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 34, "stars": 831, "owner": "rajasekarv", "forks": 64},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 10, "stars": 1028, "owner": "hyperium", "forks": 51},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 4, "stars": 3472, "owner": "gfx-rs", "forks": 404},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 23, "stars": 1337, "owner": "async-rs", "forks": 125},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 25, "stars": 1339, "owner": "async-rs", "forks": 125},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 5, "stars": 834, "owner": "xi-editor", "forks": 56},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 5, "stars": 3409, "owner": "pingcap", "forks": 433},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 20, "stars": 4488, "owner": "amethyst", "forks": 505},

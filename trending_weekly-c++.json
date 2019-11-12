@@ -1,12 +1,12 @@
 [
 {"description": "A framework for building native Windows apps with React.", "language": "C++", "repo": "react-native-windows", "new_stars": 158, "stars": 10296, "owner": "microsoft", "forks": 782},
 {"description": "Milvus -- the world's fastest vector search engine.", "language": "C++", "repo": "milvus", "new_stars": 1068, "stars": 2075, "owner": "milvus-io", "forks": 340},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 465, "stars": 137211, "owner": "tensorflow", "forks": 78454},
-{"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 80, "stars": 15334, "owner": "facebook", "forks": 3388},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 467, "stars": 137213, "owner": "tensorflow", "forks": 78454},
+{"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 80, "stars": 15334, "owner": "facebook", "forks": 3389},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 201, "stars": 16325, "owner": "nlohmann", "forks": 2807},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 264, "stars": 25862, "owner": "godotengine", "forks": 4979},
-{"description": "One stop solution for all Vulkan samples", "language": "C++", "repo": "Vulkan-Samples", "new_stars": 152, "stars": 517, "owner": "KhronosGroup", "forks": 29},
-{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 123, "stars": 2573, "owner": "llvm", "forks": 818},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 265, "stars": 25863, "owner": "godotengine", "forks": 4979},
+{"description": "One stop solution for all Vulkan samples", "language": "C++", "repo": "Vulkan-Samples", "new_stars": 151, "stars": 517, "owner": "KhronosGroup", "forks": 29},
+{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 124, "stars": 2574, "owner": "llvm", "forks": 818},
 {"description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines", "language": "C++", "repo": "mediapipe", "new_stars": 83, "stars": 3633, "owner": "google", "forks": 604},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 263, "stars": 39814, "owner": "opencv", "forks": 30006},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 92, "stars": 19216, "owner": "google", "forks": 4529},
@@ -14,7 +14,7 @@
 {"description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.", "language": "C++", "repo": "server", "new_stars": 14, "stars": 3068, "owner": "MariaDB", "forks": 908},
 {"description": "\u8d85\u7ea7\u5fae\u4fe1\u7535\u8111\u5ba2\u6237\u7aef\uff0c\u652f\u6301\u591a\u5f00\u3001\u9632\u6d88\u606f\u64a4\u9500\u3001\u8bed\u97f3\u6d88\u606f\u5907\u4efd...\u5f00\u653eWeChatSDK", "language": "C++", "repo": "SuperWeChatPC", "new_stars": 71, "stars": 2514, "owner": "anhkgg", "forks": 651},
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 40, "stars": 6928, "owner": "ceph", "forks": 3461},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 180, "stars": 31015, "owner": "tesseract-ocr", "forks": 5892},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 181, "stars": 31016, "owner": "tesseract-ocr", "forks": 5893},
 {"description": "Code repository of all OpenGL tutorials found at", "language": "C++", "repo": "LearnOpenGL", "new_stars": 36, "stars": 3439, "owner": "JoeyDeVries", "forks": 1010},
 {"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 20, "stars": 4485, "owner": "ArduPilot", "forks": 8480},
 {"description": "openFrameworks is a community-developed cross platform toolkit for creative coding in C++.", "language": "C++", "repo": "openFrameworks", "new_stars": 22, "stars": 7329, "owner": "openframeworks", "forks": 2333},
@@ -22,6 +22,6 @@
 {"description": "SRS is a simple live streaming cluster, a simple joy.", "language": "C++", "repo": "srs", "new_stars": 55, "stars": 6761, "owner": "ossrs", "forks": 2534},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 118, "stars": 15025, "owner": "CMU-Perceptual-Computing-Lab", "forks": 4329},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 86, "stars": 8073, "owner": "facebookresearch", "forks": 1470},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 121, "stars": 49671, "owner": "apple", "forks": 8043},
-{"description": "Alternative Firmware for ESP8266 based devices like itead Sonoff, with Web, Timers, OTA, MQTT, KNX and Sensors Support, to be used on Smart Home Systems. Written for Arduino IDE and PlatformIO", "language": "C++", "repo": "Tasmota", "new_stars": 100, "stars": 8380, "owner": "arendst", "forks": 1969}
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 123, "stars": 49673, "owner": "apple", "forks": 8043},
+{"description": "Alternative Firmware for ESP8266 based devices like itead Sonoff, with Web, Timers, OTA, MQTT, KNX and Sensors Support, to be used on Smart Home Systems. Written for Arduino IDE and PlatformIO", "language": "C++", "repo": "Tasmota", "new_stars": 101, "stars": 8381, "owner": "arendst", "forks": 1969}
 ]

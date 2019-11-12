@@ -8,7 +8,7 @@
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 20, "stars": 7470, "owner": "Shopify", "forks": 978},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 16, "stars": 9943, "owner": "mperham", "forks": 1739},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 58, "stars": 27350, "owner": "fastlane", "forks": 4232},
-{"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 28, "stars": 4963, "owner": "ankane", "forks": 255},
+{"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 28, "stars": 4964, "owner": "ankane", "forks": 255},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 14, "stars": 6016, "owner": "chef", "forks": 2379},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 26, "stars": 20350, "owner": "plataformatec", "forks": 4878},
 {"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 9, "stars": 3844, "owner": "colszowka", "forks": 436},
@@ -22,6 +22,6 @@
 {"description": "This Ansible role provides numerous security-related configurations, providing all-round base protection.", "language": "Ruby", "repo": "ansible-os-hardening", "new_stars": 11, "stars": 1355, "owner": "dev-sec", "forks": 278},
 {"description": "A Ruby library for carefully refactoring critical paths.", "language": "Ruby", "repo": "scientist", "new_stars": 164, "stars": 5297, "owner": "github", "forks": 278},
 {"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 33, "stars": 633, "owner": "samber", "forks": 123},
-{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 2, "stars": 8623, "owner": "activeadmin", "forks": 3062},
+{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 5, "stars": 8623, "owner": "activeadmin", "forks": 3062},
 {"description": "Official Sass port of Bootstrap 2 and 3.", "language": "Ruby", "repo": "bootstrap-sass", "new_stars": 4, "stars": 12785, "owner": "twbs", "forks": 3588}
 ]

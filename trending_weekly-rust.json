@@ -2,14 +2,14 @@
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 160, "stars": 5719, "owner": "nushell", "forks": 196},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 281, "stars": 828, "owner": "rajasekarv", "forks": 64},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 283, "stars": 40377, "owner": "rust-lang", "forks": 6231},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 82, "stars": 1335, "owner": "async-rs", "forks": 125},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 83, "stars": 1336, "owner": "async-rs", "forks": 125},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 239, "stars": 9965, "owner": "firecracker-microvm", "forks": 629},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 89, "stars": 6326, "owner": "tikv", "forks": 928},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 88, "stars": 6326, "owner": "tikv", "forks": 928},
 {"description": "Bayard is a full-text search and indexing server written in Rust.", "language": "Rust", "repo": "bayard", "new_stars": 168, "stars": 1057, "owner": "bayard-search", "forks": 39},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 46, "stars": 2034, "owner": "seanmonstar", "forks": 299},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 45, "stars": 2978, "owner": "timberio", "forks": 132},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 249, "stars": 247726, "owner": "996icu", "forks": 21190},
-{"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 29, "stars": 1864, "owner": "ggez", "forks": 232},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 249, "stars": 247727, "owner": "996icu", "forks": 21190},
+{"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 30, "stars": 1865, "owner": "ggez", "forks": 232},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 58, "stars": 5450, "owner": "hyperium", "forks": 774},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 62, "stars": 5689, "owner": "actix", "forks": 406},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 30, "stars": 1608, "owner": "paritytech", "forks": 448},
@@ -23,5 +23,5 @@
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 48, "stars": 2656, "owner": "fastly", "forks": 85},
 {"description": "Data-oriented Rust UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 45, "stars": 834, "owner": "xi-editor", "forks": 56},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 74, "stars": 4624, "owner": "benfred", "forks": 173},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 102, "stars": 6383, "owner": "tokio-rs", "forks": 527}
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 104, "stars": 6385, "owner": "tokio-rs", "forks": 527}
 ]

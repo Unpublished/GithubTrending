@@ -1,11 +1,11 @@
 [
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 613, "stars": 9976, "owner": "firecracker-microvm", "forks": 632},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 238, "stars": 1692, "owner": "rust-analyzer", "forks": 181},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 923, "stars": 40397, "owner": "rust-lang", "forks": 6237},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1028, "stars": 247748, "owner": "996icu", "forks": 21186},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 924, "stars": 40397, "owner": "rust-lang", "forks": 6237},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1031, "stars": 247751, "owner": "996icu", "forks": 21186},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 69, "stars": 3308, "owner": "tokio-rs", "forks": 395},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 423, "stars": 1423, "owner": "async-rs", "forks": 130},
-{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 93, "stars": 1347, "owner": "shadowsocks", "forks": 337},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 426, "stars": 1426, "owner": "async-rs", "forks": 130},
+{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 94, "stars": 1348, "owner": "shadowsocks", "forks": 337},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 103, "stars": 1609, "owner": "paritytech", "forks": 450},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 246, "stars": 6334, "owner": "tikv", "forks": 932},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 528, "stars": 13272, "owner": "libra", "forks": 1958},
@@ -21,7 +21,7 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 83, "stars": 2974, "owner": "rust-lang-nursery", "forks": 370},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 113, "stars": 4911, "owner": "rust-lang", "forks": 1032},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 476, "stars": 16897, "owner": "BurntSushi", "forks": 724},
-{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 225, "stars": 3037, "owner": "tantivy-search", "forks": 176},
+{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 226, "stars": 3038, "owner": "tantivy-search", "forks": 177},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 407, "stars": 11335, "owner": "sharkdp", "forks": 291},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 268, "stars": 7916, "owner": "ogham", "forks": 252}
 ]

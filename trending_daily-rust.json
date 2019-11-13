@@ -1,5 +1,5 @@
 [
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 39, "stars": 1422, "owner": "async-rs", "forks": 130},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 39, "stars": 1426, "owner": "async-rs", "forks": 130},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 72, "stars": 6445, "owner": "tokio-rs", "forks": 532},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 50, "stars": 1659, "owner": "bytecodealliance", "forks": 123},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 3, "stars": 2038, "owner": "seanmonstar", "forks": 298},
@@ -9,7 +9,7 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 4491, "owner": "amethyst", "forks": 505},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 27, "stars": 9229, "owner": "yewstack", "forks": 348},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 5, "stars": 8285, "owner": "SergioBenitez", "forks": 584},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 20, "stars": 6283, "owner": "rust-lang", "forks": 645},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 20, "stars": 6284, "owner": "rust-lang", "forks": 645},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 1609, "owner": "paritytech", "forks": 450},
 {"description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations", "language": "Rust", "repo": "ndarray", "new_stars": 6, "stars": 1038, "owner": "rust-ndarray", "forks": 115},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 4659, "owner": "diesel-rs", "forks": 441},
@@ -23,5 +23,5 @@
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 2, "stars": 1060, "owner": "librespot-org", "forks": 143},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 156, "owner": "input-output-hk", "forks": 58},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 2613, "owner": "rustwasm", "forks": 334},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 18, "stars": 12925, "owner": "rust-unofficial", "forks": 872}
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 18, "stars": 12926, "owner": "rust-unofficial", "forks": 872}
 ]

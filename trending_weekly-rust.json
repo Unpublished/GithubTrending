@@ -1,9 +1,9 @@
 [
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 126, "stars": 1399, "owner": "async-rs", "forks": 128},
-{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 280, "stars": 837, "owner": "rajasekarv", "forks": 64},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 58, "stars": 6331, "owner": "tikv", "forks": 930},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 260, "stars": 40394, "owner": "rust-lang", "forks": 6237},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 103, "stars": 9975, "owner": "firecracker-microvm", "forks": 632},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 146, "stars": 1405, "owner": "async-rs", "forks": 129},
+{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 281, "stars": 838, "owner": "rajasekarv", "forks": 64},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 59, "stars": 6332, "owner": "tikv", "forks": 931},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 262, "stars": 40395, "owner": "rust-lang", "forks": 6237},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 104, "stars": 9976, "owner": "firecracker-microvm", "forks": 632},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 152, "stars": 6442, "owner": "tokio-rs", "forks": 532},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 139, "stars": 5721, "owner": "nushell", "forks": 196},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 27, "stars": 1866, "owner": "ggez", "forks": 232},
@@ -12,8 +12,8 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 41, "stars": 2036, "owner": "seanmonstar", "forks": 298},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 114, "stars": 13267, "owner": "libra", "forks": 1956},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 63, "stars": 5696, "owner": "actix", "forks": 406},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 239, "stars": 247743, "owner": "996icu", "forks": 21189},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 89, "stars": 6278, "owner": "rust-lang", "forks": 646},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 243, "stars": 247743, "owner": "996icu", "forks": 21187},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 91, "stars": 6279, "owner": "rust-lang", "forks": 646},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 27, "stars": 2612, "owner": "rustwasm", "forks": 334},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 100, "stars": 9225, "owner": "yewstack", "forks": 348},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 41, "stars": 2982, "owner": "timberio", "forks": 133},
@@ -23,5 +23,5 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 42, "stars": 2663, "owner": "rust-lang", "forks": 367},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 156, "owner": "input-output-hk", "forks": 58},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 32, "stars": 2973, "owner": "rust-lang-nursery", "forks": 370},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 48, "stars": 3712, "owner": "actix", "forks": 222}
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 49, "stars": 3713, "owner": "actix", "forks": 222}
 ]

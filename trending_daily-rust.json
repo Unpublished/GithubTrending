@@ -9,12 +9,12 @@
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 4, "stars": 2978, "owner": "rust-lang-nursery", "forks": 373},
 {"description": "The Universal WebAssembly Runtime", "language": "Rust", "repo": "wasmer", "new_stars": 15, "stars": 4902, "owner": "wasmerio", "forks": 174},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 633, "owner": "WebAssembly", "forks": 22},
-{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 9, "stars": 6424, "owner": "mre", "forks": 745},
+{"description": "Static analysis tools for all programming languages", "language": "Rust", "repo": "awesome-static-analysis", "new_stars": 10, "stars": 6425, "owner": "mre", "forks": 745},
 {"description": "Flexible concrete Error type built on std::error::Error", "language": "Rust", "repo": "anyhow", "new_stars": 8, "stars": 379, "owner": "dtolnay", "forks": 8},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 6, "stars": 1704, "owner": "rust-analyzer", "forks": 181},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 4, "stars": 5701, "owner": "paritytech", "forks": 1372},
 {"description": "OpenSSL bindings for Rust", "language": "Rust", "repo": "rust-openssl", "new_stars": 1, "stars": 549, "owner": "sfackler", "forks": 360},
-{"description": "Highly-available Distributed Fault-tolerant Runtime", "language": "Rust", "repo": "bastion", "new_stars": 39, "stars": 401, "owner": "bastion-rs", "forks": 19},
+{"description": "Highly-available Distributed Fault-tolerant Runtime", "language": "Rust", "repo": "bastion", "new_stars": 40, "stars": 402, "owner": "bastion-rs", "forks": 19},
 {"description": "A lightweight Cargo subcommand to build Rust code for the `wasm32-wasi` target", "language": "Rust", "repo": "cargo-wasi", "new_stars": 10, "stars": 144, "owner": "bytecodealliance", "forks": 8},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 18, "stars": 4664, "owner": "benfred", "forks": 176},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 9, "stars": 2518, "owner": "autozimu", "forks": 213},
@@ -22,6 +22,6 @@
 {"description": "CKB is a public/permissionless blockchain, the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 4, "stars": 601, "owner": "nervosnetwork", "forks": 104},
 {"description": "The Rust Implementation of libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 5, "stars": 959, "owner": "libp2p", "forks": 181},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 2, "stars": 2105, "owner": "habitat-sh", "forks": 312},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 53, "stars": 247776, "owner": "996icu", "forks": 21195},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 56, "stars": 247778, "owner": "996icu", "forks": 21196},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 159, "owner": "input-output-hk", "forks": 58}
 ]

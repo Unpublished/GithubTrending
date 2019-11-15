@@ -1,9 +1,9 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 276, "stars": 1556, "owner": "async-rs", "forks": 138},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 202, "stars": 6504, "owner": "tokio-rs", "forks": 542},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 203, "stars": 6505, "owner": "tokio-rs", "forks": 542},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 48, "stars": 2051, "owner": "seanmonstar", "forks": 300},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 308, "stars": 877, "owner": "rajasekarv", "forks": 66},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 271, "stars": 40484, "owner": "rust-lang", "forks": 6247},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 271, "stars": 40484, "owner": "rust-lang", "forks": 6245},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 26, "stars": 2982, "owner": "rust-lang-nursery", "forks": 373},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 246, "stars": 1823, "owner": "bytecodealliance", "forks": 137},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 283, "stars": 247787, "owner": "996icu", "forks": 21194},

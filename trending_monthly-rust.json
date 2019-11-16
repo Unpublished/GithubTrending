@@ -1,11 +1,11 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 996, "stars": 40506, "owner": "rust-lang", "forks": 6248},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 997, "stars": 40507, "owner": "rust-lang", "forks": 6248},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 534, "stars": 1560, "owner": "async-rs", "forks": 137},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 378, "stars": 1836, "owner": "bytecodealliance", "forks": 138},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 379, "stars": 1837, "owner": "bytecodealliance", "forks": 138},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 251, "stars": 1710, "owner": "rust-analyzer", "forks": 182},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 548, "stars": 13310, "owner": "libra", "forks": 1963},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1124, "stars": 247797, "owner": "996icu", "forks": 21192},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 482, "stars": 6507, "owner": "tokio-rs", "forks": 542},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 549, "stars": 13311, "owner": "libra", "forks": 1963},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1125, "stars": 247798, "owner": "996icu", "forks": 21192},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 481, "stars": 6508, "owner": "tokio-rs", "forks": 542},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 255, "stars": 6353, "owner": "tikv", "forks": 939},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1234, "stars": 1625, "owner": "o2sh", "forks": 87},
 {"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 924, "stars": 935, "owner": "oam-dev", "forks": 70},
@@ -21,7 +21,7 @@
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 91, "stars": 1877, "owner": "ggez", "forks": 234},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 135, "stars": 1901, "owner": "graphql-rust", "forks": 136},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 41, "stars": 904, "owner": "rust-windowing", "forks": 265},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 615, "stars": 10007, "owner": "firecracker-microvm", "forks": 633},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 616, "stars": 10008, "owner": "firecracker-microvm", "forks": 633},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 208, "stars": 1973, "owner": "fdehau", "forks": 98},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 94, "stars": 2627, "owner": "rustwasm", "forks": 336}
 ]

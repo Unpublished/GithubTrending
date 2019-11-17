@@ -1,5 +1,5 @@
 [
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 282, "stars": 1564, "owner": "async-rs", "forks": 138},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 284, "stars": 1564, "owner": "async-rs", "forks": 138},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 211, "stars": 6518, "owner": "tokio-rs", "forks": 544},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 272, "stars": 1847, "owner": "bytecodealliance", "forks": 137},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 311, "stars": 40521, "owner": "rust-lang", "forks": 6250},
@@ -15,7 +15,7 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 65, "stars": 2693, "owner": "rust-lang", "forks": 371},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 29, "stars": 2985, "owner": "rust-lang-nursery", "forks": 376},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 119, "stars": 6330, "owner": "rust-lang", "forks": 647},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 137, "stars": 13315, "owner": "libra", "forks": 1966},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 137, "stars": 13314, "owner": "libra", "forks": 1966},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 107, "stars": 1976, "owner": "fdehau", "forks": 98},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 61, "stars": 6360, "owner": "tikv", "forks": 940},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 35, "stars": 641, "owner": "WebAssembly", "forks": 22},

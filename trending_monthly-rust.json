@@ -4,7 +4,7 @@
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 381, "stars": 1839, "owner": "bytecodealliance", "forks": 138},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 252, "stars": 1711, "owner": "rust-analyzer", "forks": 182},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 551, "stars": 13313, "owner": "libra", "forks": 1963},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1126, "stars": 247798, "owner": "996icu", "forks": 21192},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1126, "stars": 247797, "owner": "996icu", "forks": 21192},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 486, "stars": 6511, "owner": "tokio-rs", "forks": 542},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 256, "stars": 6354, "owner": "tikv", "forks": 939},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1235, "stars": 1626, "owner": "o2sh", "forks": 87},
@@ -20,7 +20,7 @@
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 575, "stars": 19190, "owner": "jwilm", "forks": 880},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 92, "stars": 1878, "owner": "ggez", "forks": 234},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 136, "stars": 1902, "owner": "graphql-rust", "forks": 136},
-{"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 41, "stars": 904, "owner": "rust-windowing", "forks": 265},
+{"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 42, "stars": 905, "owner": "rust-windowing", "forks": 265},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 616, "stars": 10007, "owner": "firecracker-microvm", "forks": 633},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 208, "stars": 1973, "owner": "fdehau", "forks": 98},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 94, "stars": 2627, "owner": "rustwasm", "forks": 336}

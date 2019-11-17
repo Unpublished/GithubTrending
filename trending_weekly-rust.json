@@ -1,6 +1,6 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 282, "stars": 1562, "owner": "async-rs", "forks": 138},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 211, "stars": 6511, "owner": "tokio-rs", "forks": 542},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 213, "stars": 6513, "owner": "tokio-rs", "forks": 542},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 263, "stars": 1839, "owner": "bytecodealliance", "forks": 138},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 297, "stars": 40509, "owner": "rust-lang", "forks": 6249},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 29, "stars": 4484, "owner": "mimblewimble", "forks": 889},
@@ -13,7 +13,7 @@
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 93, "stars": 2281, "owner": "bytecodealliance", "forks": 199},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 312, "stars": 247797, "owner": "996icu", "forks": 21192},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 53, "stars": 5466, "owner": "hyperium", "forks": 775},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 59, "stars": 2687, "owner": "rust-lang", "forks": 371},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 60, "stars": 2688, "owner": "rust-lang", "forks": 372},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 110, "stars": 6322, "owner": "rust-lang", "forks": 646},
 {"description": "Rust framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 134, "stars": 9280, "owner": "yewstack", "forks": 348},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 59, "stars": 3732, "owner": "actix", "forks": 223},

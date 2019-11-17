@@ -1,7 +1,7 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 282, "stars": 1562, "owner": "async-rs", "forks": 138},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 214, "stars": 6514, "owner": "tokio-rs", "forks": 543},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 263, "stars": 1839, "owner": "bytecodealliance", "forks": 138},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 264, "stars": 1840, "owner": "bytecodealliance", "forks": 138},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 300, "stars": 40512, "owner": "rust-lang", "forks": 6249},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 33, "stars": 4487, "owner": "mimblewimble", "forks": 889},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 50, "stars": 2053, "owner": "seanmonstar", "forks": 301},

@@ -1,13 +1,13 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 954, "stars": 40618, "owner": "rust-lang", "forks": 6259},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 509, "stars": 1595, "owner": "async-rs", "forks": 138},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 955, "stars": 40619, "owner": "rust-lang", "forks": 6259},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 509, "stars": 1595, "owner": "async-rs", "forks": 139},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 423, "stars": 1907, "owner": "bytecodealliance", "forks": 138},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 229, "stars": 1729, "owner": "rust-analyzer", "forks": 185},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 252, "stars": 6392, "owner": "tikv", "forks": 943},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 413, "stars": 6544, "owner": "tokio-rs", "forks": 551},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 560, "stars": 19254, "owner": "jwilm", "forks": 887},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 534, "stars": 13349, "owner": "libra", "forks": 1975},
-{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 83, "stars": 2990, "owner": "rust-lang-nursery", "forks": 375},
+{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 83, "stars": 2990, "owner": "rust-lang-nursery", "forks": 376},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1210, "stars": 1649, "owner": "o2sh", "forks": 88},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 543, "stars": 10050, "owner": "firecracker-microvm", "forks": 638},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 201, "stars": 875, "owner": "xi-editor", "forks": 58},
@@ -21,7 +21,7 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 99, "stars": 1370, "owner": "shadowsocks", "forks": 341},
 {"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 386, "stars": 967, "owner": "oam-dev", "forks": 73},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 141, "stars": 1922, "owner": "graphql-rust", "forks": 137},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1114, "stars": 247846, "owner": "996icu", "forks": 21196},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1115, "stars": 247847, "owner": "996icu", "forks": 21196},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 43, "stars": 661, "owner": "paritytech", "forks": 158},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 195, "stars": 1993, "owner": "fdehau", "forks": 98}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 959, "stars": 40620, "owner": "rust-lang", "forks": 6259},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 509, "stars": 1595, "owner": "async-rs", "forks": 138},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 421, "stars": 1907, "owner": "bytecodealliance", "forks": 138},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 509, "stars": 1596, "owner": "async-rs", "forks": 138},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 421, "stars": 1908, "owner": "bytecodealliance", "forks": 138},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 228, "stars": 1730, "owner": "rust-analyzer", "forks": 185},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 251, "stars": 6392, "owner": "tikv", "forks": 943},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 418, "stars": 6545, "owner": "tokio-rs", "forks": 551},

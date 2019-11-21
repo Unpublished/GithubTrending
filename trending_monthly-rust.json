@@ -1,7 +1,7 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 958, "stars": 40604, "owner": "rust-lang", "forks": 6261},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 959, "stars": 40605, "owner": "rust-lang", "forks": 6260},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 510, "stars": 1592, "owner": "async-rs", "forks": 140},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 414, "stars": 1894, "owner": "bytecodealliance", "forks": 138},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 413, "stars": 1894, "owner": "bytecodealliance", "forks": 138},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 532, "stars": 13342, "owner": "libra", "forks": 1975},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 229, "stars": 1723, "owner": "rust-analyzer", "forks": 185},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 419, "stars": 6540, "owner": "tokio-rs", "forks": 551},
@@ -10,7 +10,7 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 543, "stars": 10044, "owner": "firecracker-microvm", "forks": 638},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 85, "stars": 2990, "owner": "rust-lang-nursery", "forks": 375},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 102, "stars": 1627, "owner": "paritytech", "forks": 454},
-{"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1207, "stars": 1642, "owner": "o2sh", "forks": 88},
+{"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1206, "stars": 1642, "owner": "o2sh", "forks": 88},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 201, "stars": 874, "owner": "xi-editor", "forks": 58},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 168, "stars": 2707, "owner": "rust-lang", "forks": 375},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 97, "stars": 1896, "owner": "ggez", "forks": 235},
@@ -22,6 +22,6 @@
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 143, "stars": 2294, "owner": "bytecodealliance", "forks": 200},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 45, "stars": 909, "owner": "rust-windowing", "forks": 266},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 74, "stars": 3323, "owner": "tokio-rs", "forks": 396},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 141, "stars": 1921, "owner": "graphql-rust", "forks": 137},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 142, "stars": 1922, "owner": "graphql-rust", "forks": 137},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 193, "stars": 1990, "owner": "fdehau", "forks": 98}
 ]

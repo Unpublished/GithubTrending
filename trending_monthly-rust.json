@@ -1,7 +1,7 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 955, "stars": 40646, "owner": "rust-lang", "forks": 6261},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 514, "stars": 1616, "owner": "async-rs", "forks": 140},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 424, "stars": 1914, "owner": "bytecodealliance", "forks": 138},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 514, "stars": 1617, "owner": "async-rs", "forks": 140},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 424, "stars": 1914, "owner": "bytecodealliance", "forks": 137},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 252, "stars": 6401, "owner": "tikv", "forks": 945},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 232, "stars": 1735, "owner": "rust-analyzer", "forks": 186},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 412, "stars": 6551, "owner": "tokio-rs", "forks": 553},
@@ -22,6 +22,6 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 140, "stars": 1923, "owner": "graphql-rust", "forks": 138},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 534, "stars": 13357, "owner": "libra", "forks": 1977},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 194, "stars": 1995, "owner": "fdehau", "forks": 99},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1117, "stars": 247862, "owner": "996icu", "forks": 21196},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1117, "stars": 247860, "owner": "996icu", "forks": 21196},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 42, "stars": 662, "owner": "paritytech", "forks": 158}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 967, "stars": 40643, "owner": "rust-lang", "forks": 6261},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 524, "stars": 1613, "owner": "async-rs", "forks": 140},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 525, "stars": 1614, "owner": "async-rs", "forks": 140},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 423, "stars": 1914, "owner": "bytecodealliance", "forks": 138},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 251, "stars": 6398, "owner": "tikv", "forks": 945},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 227, "stars": 1734, "owner": "rust-analyzer", "forks": 186},
@@ -20,7 +20,7 @@
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 83, "stars": 4504, "owner": "mimblewimble", "forks": 891},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 95, "stars": 1376, "owner": "shadowsocks", "forks": 341},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 139, "stars": 1922, "owner": "graphql-rust", "forks": 138},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 531, "stars": 13355, "owner": "libra", "forks": 1977},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 532, "stars": 13356, "owner": "libra", "forks": 1977},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 195, "stars": 1995, "owner": "fdehau", "forks": 99},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1146, "stars": 247860, "owner": "996icu", "forks": 21196},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 43, "stars": 662, "owner": "paritytech", "forks": 158}

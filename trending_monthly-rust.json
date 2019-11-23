@@ -1,11 +1,11 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 964, "stars": 40660, "owner": "rust-lang", "forks": 6267},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 530, "stars": 1619, "owner": "async-rs", "forks": 140},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 964, "stars": 40661, "owner": "rust-lang", "forks": 6268},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 531, "stars": 1620, "owner": "async-rs", "forks": 140},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 424, "stars": 1923, "owner": "bytecodealliance", "forks": 137},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 259, "stars": 6408, "owner": "tikv", "forks": 945},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 389, "stars": 6553, "owner": "tokio-rs", "forks": 555},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 229, "stars": 1740, "owner": "rust-analyzer", "forks": 187},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 556, "stars": 19277, "owner": "jwilm", "forks": 887},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 557, "stars": 19278, "owner": "jwilm", "forks": 887},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 87, "stars": 2996, "owner": "rust-lang", "forks": 376},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 527, "stars": 10058, "owner": "firecracker-microvm", "forks": 638},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 137, "stars": 2296, "owner": "bytecodealliance", "forks": 200},
@@ -17,11 +17,11 @@
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 116, "stars": 1347, "owner": "http-rs", "forks": 118},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 170, "stars": 2719, "owner": "rust-lang", "forks": 376},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 84, "stars": 4505, "owner": "mimblewimble", "forks": 892},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 138, "stars": 1924, "owner": "graphql-rust", "forks": 138},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 139, "stars": 1925, "owner": "graphql-rust", "forks": 138},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 76, "stars": 3328, "owner": "tokio-rs", "forks": 397},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 195, "stars": 1997, "owner": "fdehau", "forks": 99},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 253, "stars": 5784, "owner": "actix", "forks": 414},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 45, "stars": 912, "owner": "rust-windowing", "forks": 267},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1134, "stars": 247862, "owner": "996icu", "forks": 21194},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1135, "stars": 247863, "owner": "996icu", "forks": 21195},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 100, "stars": 2655, "owner": "rustwasm", "forks": 341}
 ]

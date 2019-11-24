@@ -1,5 +1,5 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 981, "stars": 40677, "owner": "rust-lang", "forks": 6268},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 982, "stars": 40678, "owner": "rust-lang", "forks": 6268},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 535, "stars": 1624, "owner": "async-rs", "forks": 141},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 392, "stars": 6556, "owner": "tokio-rs", "forks": 558},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 256, "stars": 931, "owner": "xi-editor", "forks": 64},
@@ -21,7 +21,7 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 144, "stars": 1930, "owner": "graphql-rust", "forks": 139},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 45, "stars": 912, "owner": "rust-windowing", "forks": 267},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 260, "stars": 5791, "owner": "actix", "forks": 414},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 78, "stars": 3330, "owner": "tokio-rs", "forks": 397},
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 79, "stars": 3331, "owner": "tokio-rs", "forks": 397},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 46, "stars": 665, "owner": "paritytech", "forks": 159},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 106, "stars": 2661, "owner": "rustwasm", "forks": 341}
 ]

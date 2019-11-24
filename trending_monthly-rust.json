@@ -1,12 +1,12 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 975, "stars": 40673, "owner": "rust-lang", "forks": 6267},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 534, "stars": 1623, "owner": "async-rs", "forks": 141},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 427, "stars": 1926, "owner": "bytecodealliance", "forks": 137},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 266, "stars": 6415, "owner": "tikv", "forks": 948},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 428, "stars": 1927, "owner": "bytecodealliance", "forks": 137},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 267, "stars": 6416, "owner": "tikv", "forks": 948},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 392, "stars": 6556, "owner": "tokio-rs", "forks": 558},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 233, "stars": 1744, "owner": "rust-analyzer", "forks": 189},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 234, "stars": 1745, "owner": "rust-analyzer", "forks": 189},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 571, "stars": 19289, "owner": "jwilm", "forks": 888},
-{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 87, "stars": 2996, "owner": "rust-lang", "forks": 376},
+{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 88, "stars": 2997, "owner": "rust-lang", "forks": 376},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 536, "stars": 10065, "owner": "firecracker-microvm", "forks": 638},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 138, "stars": 2297, "owner": "bytecodealliance", "forks": 201},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1211, "stars": 1659, "owner": "o2sh", "forks": 88},
@@ -22,6 +22,6 @@
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 198, "stars": 2000, "owner": "fdehau", "forks": 99},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 259, "stars": 5790, "owner": "actix", "forks": 414},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 45, "stars": 912, "owner": "rust-windowing", "forks": 267},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1155, "stars": 247867, "owner": "996icu", "forks": 21196},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1159, "stars": 247871, "owner": "996icu", "forks": 21196},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 104, "stars": 2659, "owner": "rustwasm", "forks": 341}
 ]

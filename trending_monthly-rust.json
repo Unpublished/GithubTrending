@@ -2,7 +2,7 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 988, "stars": 40684, "owner": "rust-lang", "forks": 6271},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 535, "stars": 1624, "owner": "async-rs", "forks": 142},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 397, "stars": 6561, "owner": "tokio-rs", "forks": 558},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 261, "stars": 936, "owner": "xi-editor", "forks": 64},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 262, "stars": 937, "owner": "xi-editor", "forks": 64},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 429, "stars": 1928, "owner": "bytecodealliance", "forks": 137},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 269, "stars": 6418, "owner": "tikv", "forks": 948},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 234, "stars": 1745, "owner": "rust-analyzer", "forks": 190},
@@ -23,5 +23,5 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 260, "stars": 5791, "owner": "actix", "forks": 414},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 79, "stars": 3331, "owner": "tokio-rs", "forks": 397},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 46, "stars": 665, "owner": "paritytech", "forks": 159},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 106, "stars": 2661, "owner": "rustwasm", "forks": 342}
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 107, "stars": 2662, "owner": "rustwasm", "forks": 342}
 ]

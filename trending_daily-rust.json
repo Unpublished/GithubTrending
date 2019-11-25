@@ -9,10 +9,10 @@
 {"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 49, "stars": 4591, "owner": "starship", "forks": 174},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 8, "stars": 4539, "owner": "RustPython", "forks": 318},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 21, "stars": 6404, "owner": "rust-lang", "forks": 657},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 60, "stars": 40684, "owner": "rust-lang", "forks": 6271},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 59, "stars": 40684, "owner": "rust-lang", "forks": 6270},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 15, "stars": 10066, "owner": "firecracker-microvm", "forks": 637},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 8, "stars": 1347, "owner": "rusoto", "forks": 229},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 63, "stars": 937, "owner": "xi-editor", "forks": 64},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 62, "stars": 936, "owner": "xi-editor", "forks": 64},
 {"description": "A fast Rust-based safe and thead-friendly grammar-based fuzz generator", "language": "Rust", "repo": "fzero_fuzzer", "new_stars": 79, "stars": 78, "owner": "gamozolabs", "forks": 4},
 {"description": "A font editor written in Rust.", "language": "Rust", "repo": "runebender", "new_stars": 5, "stars": 171, "owner": "linebender", "forks": 8},
 {"description": "Pure rust implementation of OpenPGP", "language": "Rust", "repo": "rpgp", "new_stars": 5, "stars": 41, "owner": "rpgp", "forks": 9},
@@ -23,5 +23,5 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 14, "stars": 6561, "owner": "tokio-rs", "forks": 558},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 18, "stars": 1624, "owner": "async-rs", "forks": 142},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 722, "owner": "actix", "forks": 201},
-{"description": "Custom derive for clap.", "language": "Rust", "repo": "clap_derive", "new_stars": 1, "stars": 24, "owner": "clap-rs", "forks": 3}
+{"description": "Custom derive for clap.", "language": "Rust", "repo": "clap_derive", "new_stars": 2, "stars": 25, "owner": "clap-rs", "forks": 3}
 ]

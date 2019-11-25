@@ -1,9 +1,9 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 946, "stars": 40693, "owner": "rust-lang", "forks": 6269},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 946, "stars": 40692, "owner": "rust-lang", "forks": 6269},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 1221, "stars": 1679, "owner": "o2sh", "forks": 88},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 523, "stars": 1626, "owner": "async-rs", "forks": 142},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 241, "stars": 942, "owner": "xi-editor", "forks": 64},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 357, "stars": 6567, "owner": "tokio-rs", "forks": 557},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 359, "stars": 6569, "owner": "tokio-rs", "forks": 557},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 426, "stars": 1934, "owner": "bytecodealliance", "forks": 138},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 257, "stars": 6425, "owner": "tikv", "forks": 949},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 218, "stars": 1746, "owner": "rust-analyzer", "forks": 190},
@@ -16,12 +16,12 @@
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 96, "stars": 1908, "owner": "ggez", "forks": 236},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 42, "stars": 914, "owner": "rust-windowing", "forks": 267},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 140, "stars": 1930, "owner": "graphql-rust", "forks": 139},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1112, "stars": 247923, "owner": "996icu", "forks": 21199},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1114, "stars": 247924, "owner": "996icu", "forks": 21199},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 84, "stars": 4510, "owner": "mimblewimble", "forks": 896},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 244, "stars": 5800, "owner": "actix", "forks": 416},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 86, "stars": 3000, "owner": "rust-lang", "forks": 376},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 102, "stars": 2662, "owner": "rustwasm", "forks": 343},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 139, "stars": 4606, "owner": "rust-lang", "forks": 1253},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 538, "stars": 19300, "owner": "jwilm", "forks": 888},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 539, "stars": 19301, "owner": "jwilm", "forks": 888},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 76, "stars": 3334, "owner": "tokio-rs", "forks": 397}
 ]

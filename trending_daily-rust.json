@@ -1,10 +1,10 @@
 [
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 11, "stars": 948, "owner": "xi-editor", "forks": 64},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 3, "stars": 4688, "owner": "diesel-rs", "forks": 447},
-{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 18, "stars": 4611, "owner": "starship", "forks": 175},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 4689, "owner": "diesel-rs", "forks": 447},
+{"description": "The cross-shell prompt for astronauts.", "language": "Rust", "repo": "starship", "new_stars": 19, "stars": 4612, "owner": "starship", "forks": 175},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 5, "stars": 1750, "owner": "rust-analyzer", "forks": 190},
 {"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 4, "stars": 626, "owner": "makepad", "forks": 24},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 90, "stars": 247939, "owner": "996icu", "forks": 21202},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 91, "stars": 247940, "owner": "996icu", "forks": 21202},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 27, "stars": 40704, "owner": "rust-lang", "forks": 6271},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 16, "stars": 3312, "owner": "Rigellute", "forks": 90},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 3, "stars": 1380, "owner": "shadowsocks", "forks": 344},
@@ -21,7 +21,7 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 3, "stars": 3489, "owner": "Geal", "forks": 400},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 5501, "owner": "hyperium", "forks": 778},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 0, "stars": 723, "owner": "actix", "forks": 203},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 6, "stars": 2731, "owner": "rust-lang", "forks": 376},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 7, "stars": 2732, "owner": "rust-lang", "forks": 376},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 2, "stars": 3027, "owner": "timberio", "forks": 142},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 0, "stars": 1930, "owner": "graphql-rust", "forks": 139}
 ]

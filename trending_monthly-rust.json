@@ -1,7 +1,7 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 527, "stars": 1638, "owner": "async-rs", "forks": 142},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 954, "stars": 40727, "owner": "rust-lang", "forks": 6272},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 365, "stars": 6581, "owner": "tokio-rs", "forks": 559},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 955, "stars": 40728, "owner": "rust-lang", "forks": 6274},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 366, "stars": 6582, "owner": "tokio-rs", "forks": 559},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 250, "stars": 962, "owner": "xi-editor", "forks": 64},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 260, "stars": 6433, "owner": "tikv", "forks": 951},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 436, "stars": 1947, "owner": "bytecodealliance", "forks": 137},
@@ -16,7 +16,7 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 487, "stars": 10086, "owner": "firecracker-microvm", "forks": 637},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 96, "stars": 1912, "owner": "ggez", "forks": 236},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 83, "stars": 4512, "owner": "mimblewimble", "forks": 897},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1174, "stars": 247968, "owner": "996icu", "forks": 21201},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1176, "stars": 247968, "owner": "996icu", "forks": 21200},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 172, "stars": 2736, "owner": "rust-lang", "forks": 376},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 143, "stars": 1936, "owner": "graphql-rust", "forks": 139},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 244, "stars": 5809, "owner": "actix", "forks": 418},

@@ -1,7 +1,7 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 533, "stars": 1646, "owner": "async-rs", "forks": 144},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 961, "stars": 40748, "owner": "rust-lang", "forks": 6275},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 363, "stars": 6599, "owner": "tokio-rs", "forks": 561},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 363, "stars": 6600, "owner": "tokio-rs", "forks": 561},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 249, "stars": 970, "owner": "xi-editor", "forks": 64},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 441, "stars": 1954, "owner": "bytecodealliance", "forks": 139},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 260, "stars": 6438, "owner": "tikv", "forks": 952},
@@ -14,14 +14,14 @@
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 83, "stars": 4512, "owner": "mimblewimble", "forks": 897},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 142, "stars": 2308, "owner": "bytecodealliance", "forks": 201},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1162, "stars": 247982, "owner": "996icu", "forks": 21201},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 242, "stars": 5820, "owner": "actix", "forks": 419},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 242, "stars": 5821, "owner": "actix", "forks": 419},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 172, "stars": 2739, "owner": "rust-lang", "forks": 376},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 91, "stars": 3007, "owner": "rust-lang", "forks": 377},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 143, "stars": 4617, "owner": "rust-lang", "forks": 1254},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 96, "stars": 1912, "owner": "ggez", "forks": 237},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 116, "stars": 2080, "owner": "seanmonstar", "forks": 308},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 116, "stars": 2081, "owner": "seanmonstar", "forks": 308},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 86, "stars": 1384, "owner": "shadowsocks", "forks": 345},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 136, "stars": 2077, "owner": "tree-sitter", "forks": 125},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 106, "stars": 2672, "owner": "rustwasm", "forks": 343},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 553, "stars": 19344, "owner": "jwilm", "forks": 890}
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 553, "stars": 19345, "owner": "jwilm", "forks": 890}
 ]

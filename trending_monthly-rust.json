@@ -1,8 +1,8 @@
 [
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 532, "stars": 1658, "owner": "async-rs", "forks": 143},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 532, "stars": 1660, "owner": "async-rs", "forks": 143},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 966, "stars": 40768, "owner": "rust-lang", "forks": 6278},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 379, "stars": 6618, "owner": "tokio-rs", "forks": 564},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 251, "stars": 993, "owner": "xi-editor", "forks": 64},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 379, "stars": 6619, "owner": "tokio-rs", "forks": 564},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 251, "stars": 995, "owner": "xi-editor", "forks": 64},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 452, "stars": 1967, "owner": "bytecodealliance", "forks": 139},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 262, "stars": 6446, "owner": "tikv", "forks": 954},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 209, "stars": 1773, "owner": "rust-analyzer", "forks": 190},
@@ -20,7 +20,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 155, "stars": 4624, "owner": "rust-lang", "forks": 1257},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 94, "stars": 1912, "owner": "ggez", "forks": 237},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 118, "stars": 2086, "owner": "seanmonstar", "forks": 308},
-{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 87, "stars": 1387, "owner": "shadowsocks", "forks": 345},
+{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 87, "stars": 1388, "owner": "shadowsocks", "forks": 345},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 140, "stars": 2082, "owner": "tree-sitter", "forks": 127},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 104, "stars": 2673, "owner": "rustwasm", "forks": 343},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 543, "stars": 19354, "owner": "jwilm", "forks": 890}

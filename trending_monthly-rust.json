@@ -1,6 +1,6 @@
 [
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 532, "stars": 1649, "owner": "async-rs", "forks": 144},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 966, "stars": 40748, "owner": "rust-lang", "forks": 6277},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 966, "stars": 40749, "owner": "rust-lang", "forks": 6277},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 379, "stars": 6602, "owner": "tokio-rs", "forks": 562},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 251, "stars": 975, "owner": "xi-editor", "forks": 64},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 444, "stars": 1956, "owner": "bytecodealliance", "forks": 139},
@@ -22,6 +22,6 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 118, "stars": 2081, "owner": "seanmonstar", "forks": 308},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 87, "stars": 1384, "owner": "shadowsocks", "forks": 345},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 140, "stars": 2078, "owner": "tree-sitter", "forks": 126},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 105, "stars": 2672, "owner": "rustwasm", "forks": 343},
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 105, "stars": 2673, "owner": "rustwasm", "forks": 343},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 543, "stars": 19346, "owner": "jwilm", "forks": 890}
 ]

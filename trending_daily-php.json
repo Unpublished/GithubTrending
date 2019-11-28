@@ -14,7 +14,7 @@
 {"description": "PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage", "language": "PHP", "repo": "snappy", "new_stars": 4, "stars": 3411, "owner": "KnpLabs", "forks": 385},
 {"description": "Flexible and feature-complete Redis client for PHP and HHVM", "language": "PHP", "repo": "predis", "new_stars": 6, "stars": 6111, "owner": "nrk", "forks": 829},
 {"description": "The Official Twilio SendGrid Led, Community Driven PHP API Library", "language": "PHP", "repo": "sendgrid-php", "new_stars": 2, "stars": 1087, "owner": "sendgrid", "forks": 529},
-{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 9, "stars": 6970, "owner": "symfony", "forks": 226},
+{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 9, "stars": 6969, "owner": "symfony", "forks": 226},
 {"description": "The FrameworkBundle defines the main framework configuration, from sessions and translations to forms, validation, routing and more.", "language": "PHP", "repo": "framework-bundle", "new_stars": 8, "stars": 2209, "owner": "symfony", "forks": 76},
 {"description": "HTML to PDF converter (PHP5)", "language": "PHP", "repo": "dompdf", "new_stars": 2, "stars": 6472, "owner": "dompdf", "forks": 1281},
 {"description": "JWT authentication for your Symfony REST API", "language": "PHP", "repo": "LexikJWTAuthenticationBundle", "new_stars": 2, "stars": 1588, "owner": "lexik", "forks": 358},
@@ -22,6 +22,6 @@
 {"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 7, "stars": 7099, "owner": "squizlabs", "forks": 1158},
 {"description": "Official clone of PHP library to generate PDF documents and barcodes", "language": "PHP", "repo": "TCPDF", "new_stars": 4, "stars": 2229, "owner": "tecnickcom", "forks": 844},
 {"description": "Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable", "language": "PHP", "repo": "DoctrineExtensions", "new_stars": 5, "stars": 3053, "owner": "Atlantic18", "forks": 1071},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 4, "stars": 9989, "owner": "vlucas", "forks": 480},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 4, "stars": 9988, "owner": "vlucas", "forks": 480},
 {"description": "Easily create PDF and images in Symfony by converting html using webkit", "language": "PHP", "repo": "KnpSnappyBundle", "new_stars": 3, "stars": 904, "owner": "KnpLabs", "forks": 114}
 ]

@@ -2,8 +2,8 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 966, "stars": 40781, "owner": "rust-lang", "forks": 6282},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 538, "stars": 1666, "owner": "async-rs", "forks": 145},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 398, "stars": 6644, "owner": "tokio-rs", "forks": 567},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1316, "stars": 2361, "owner": "hecrj", "forks": 47},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 261, "stars": 6451, "owner": "tikv", "forks": 956},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1316, "stars": 2364, "owner": "hecrj", "forks": 47},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 261, "stars": 6452, "owner": "tikv", "forks": 956},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 279, "stars": 1007, "owner": "xi-editor", "forks": 64},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 448, "stars": 1968, "owner": "bytecodealliance", "forks": 140},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 206, "stars": 1775, "owner": "rust-analyzer", "forks": 190},
@@ -21,7 +21,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 154, "stars": 4629, "owner": "rust-lang", "forks": 1258},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 94, "stars": 1913, "owner": "ggez", "forks": 236},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 148, "stars": 2312, "owner": "bytecodealliance", "forks": 202},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 528, "stars": 19357, "owner": "jwilm", "forks": 889},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 528, "stars": 19359, "owner": "jwilm", "forks": 890},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 165, "stars": 5525, "owner": "hyperium", "forks": 782},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 91, "stars": 1389, "owner": "shadowsocks", "forks": 346}
 ]

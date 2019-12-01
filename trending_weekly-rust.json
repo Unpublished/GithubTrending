@@ -1,7 +1,7 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 115, "stars": 6674, "owner": "tokio-rs", "forks": 568},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 375, "stars": 248075, "owner": "996icu", "forks": 21201},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1610, "stars": 2714, "owner": "hecrj", "forks": 52},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1610, "stars": 2715, "owner": "hecrj", "forks": 52},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 135, "stars": 1017, "owner": "xi-editor", "forks": 65},
 {"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 51, "stars": 649, "owner": "makepad", "forks": 25},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 49, "stars": 5541, "owner": "hyperium", "forks": 783},
@@ -21,7 +21,7 @@
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 172, "owner": "input-output-hk", "forks": 65},
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 43, "stars": 3056, "owner": "timberio", "forks": 148},
 {"description": "A native debugger extension for VSCode based on LLDB", "language": "Rust", "repo": "vscode-lldb", "new_stars": 17, "stars": 457, "owner": "vadimcn", "forks": 61},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 33, "stars": 4715, "owner": "diesel-rs", "forks": 448},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 28, "stars": 3355, "owner": "tokio-rs", "forks": 403},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 33, "stars": 4716, "owner": "diesel-rs", "forks": 448},
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 28, "stars": 3356, "owner": "tokio-rs", "forks": 403},
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 10, "stars": 649, "owner": "rust-lang", "forks": 443}
 ]

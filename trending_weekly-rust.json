@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 119, "stars": 6694, "owner": "tokio-rs", "forks": 571},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 362, "stars": 248158, "owner": "996icu", "forks": 21206},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 362, "stars": 248162, "owner": "996icu", "forks": 21208},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 41, "stars": 5548, "owner": "hyperium", "forks": 788},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1235, "stars": 2837, "owner": "hecrj", "forks": 57},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 58, "stars": 8444, "owner": "SergioBenitez", "forks": 591},
@@ -14,8 +14,8 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 17, "stars": 958, "owner": "cloudflare", "forks": 125},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 1, "stars": 383, "owner": "hyperledger", "forks": 448},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 38, "stars": 3622, "owner": "Peltoche", "forks": 132},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 52, "stars": 1178, "owner": "hyperium", "forks": 66},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 17, "stars": 741, "owner": "actix", "forks": 207},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 52, "stars": 1179, "owner": "hyperium", "forks": 66},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 17, "stars": 742, "owner": "actix", "forks": 207},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 62, "stars": 5864, "owner": "actix", "forks": 423},
 {"description": "A native debugger extension for VSCode based on LLDB", "language": "Rust", "repo": "vscode-lldb", "new_stars": 14, "stars": 460, "owner": "vadimcn", "forks": 62},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 85, "stars": 9474, "owner": "yewstack", "forks": 356},

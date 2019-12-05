@@ -1,13 +1,13 @@
 [
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 7, "stars": 10155, "owner": "firecracker-microvm", "forks": 646},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 9, "stars": 1814, "owner": "rust-analyzer", "forks": 197},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 25, "stars": 2026, "owner": "bytecodealliance", "forks": 145},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 25, "stars": 2027, "owner": "bytecodealliance", "forks": 145},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 7, "stars": 1872, "owner": "PyO3", "forks": 131},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 8, "stars": 2162, "owner": "tree-sitter", "forks": 131},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 6, "stars": 1193, "owner": "hyperium", "forks": 68},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 1, "stars": 5731, "owner": "paritytech", "forks": 1391},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 26, "stars": 2073, "owner": "fdehau", "forks": 101},
-{"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 87, "stars": 6480, "owner": "swc-project", "forks": 113},
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 26, "stars": 2074, "owner": "fdehau", "forks": 101},
+{"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 87, "stars": 6481, "owner": "swc-project", "forks": 113},
 {"description": "A lossless Lua 5.1 parser", "language": "Rust", "repo": "full-moon", "new_stars": 7, "stars": 41, "owner": "Kampfkarren", "forks": 2},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 16, "stars": 1309, "owner": "vi", "forks": 59},
 {"description": "Raft distributed consensus algorithm implemented in Rust.", "language": "Rust", "repo": "raft-rs", "new_stars": 7, "stars": 1028, "owner": "tikv", "forks": 130},
@@ -22,6 +22,6 @@
 {"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 4, "stars": 1305, "owner": "artichoke", "forks": 46},
 {"description": "Rust Code Completion utility", "language": "Rust", "repo": "racer", "new_stars": 4, "stars": 2997, "owner": "racer-rust", "forks": 267},
 {"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 2, "stars": 1041, "owner": "oam-dev", "forks": 83},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 9, "stars": 2703, "owner": "rustwasm", "forks": 343},
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 9, "stars": 2704, "owner": "rustwasm", "forks": 343},
 {"description": "Rust bindings for PyTorch", "language": "Rust", "repo": "tch-rs", "new_stars": 3, "stars": 389, "owner": "LaurentMazare", "forks": 35}
 ]

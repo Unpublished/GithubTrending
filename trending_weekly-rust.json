@@ -1,6 +1,6 @@
 [
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 676, "stars": 2947, "owner": "hecrj", "forks": 60},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 352, "stars": 248237, "owner": "996icu", "forks": 21203},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 353, "stars": 248237, "owner": "996icu", "forks": 21203},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 56, "stars": 8464, "owner": "SergioBenitez", "forks": 591},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 42, "stars": 5563, "owner": "hyperium", "forks": 795},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 14, "stars": 684, "owner": "paritytech", "forks": 161},
@@ -11,7 +11,7 @@
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 62, "stars": 4634, "owner": "RustPython", "forks": 320},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 63, "stars": 1318, "owner": "vi", "forks": 59},
 {"description": "Artichoke is a Ruby made with Rust", "language": "Rust", "repo": "artichoke", "new_stars": 37, "stars": 1308, "owner": "artichoke", "forks": 46},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 54, "stars": 1203, "owner": "hyperium", "forks": 68},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 54, "stars": 1204, "owner": "hyperium", "forks": 68},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 85, "stars": 2166, "owner": "tree-sitter", "forks": 131},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 28, "stars": 4987, "owner": "rust-lang", "forks": 1046},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 43, "stars": 1820, "owner": "rust-analyzer", "forks": 197},
@@ -21,7 +21,7 @@
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 21, "stars": 2203, "owner": "rustwasm", "forks": 133},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 88, "stars": 19438, "owner": "jwilm", "forks": 897},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 44, "stars": 1044, "owner": "xi-editor", "forks": 69},
-{"description": "Surf the web \u2013 HTTP client framework", "language": "Rust", "repo": "surf", "new_stars": 25, "stars": 591, "owner": "http-rs", "forks": 45},
+{"description": "Surf the web \u2013 HTTP client framework", "language": "Rust", "repo": "surf", "new_stars": 25, "stars": 592, "owner": "http-rs", "forks": 45},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 16, "stars": 1905, "owner": "servo", "forks": 221},
 {"description": "Ultra relevant, instant and typo-tolerant full-text search API", "language": "Rust", "repo": "MeiliSearch", "new_stars": 58, "stars": 407, "owner": "meilisearch", "forks": 19}
 ]

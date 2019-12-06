@@ -1,6 +1,6 @@
 [
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 34, "stars": 2041, "owner": "bytecodealliance", "forks": 146},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 10178, "owner": "firecracker-microvm", "forks": 647},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 10179, "owner": "firecracker-microvm", "forks": 647},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 0, "stars": 174, "owner": "input-output-hk", "forks": 69},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 4, "stars": 1280, "owner": "seanmonstar", "forks": 118},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 36, "stars": 2082, "owner": "fdehau", "forks": 101},
@@ -22,6 +22,6 @@
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 708, "owner": "WebAssembly", "forks": 27},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 17186, "owner": "BurntSushi", "forks": 737},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 8, "stars": 1820, "owner": "rust-analyzer", "forks": 197},
-{"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 5, "stars": 2322, "owner": "bytecodealliance", "forks": 204},
+{"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 5, "stars": 2323, "owner": "bytecodealliance", "forks": 204},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 385, "owner": "hyperledger", "forks": 451}
 ]

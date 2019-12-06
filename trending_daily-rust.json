@@ -1,6 +1,6 @@
 [
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 34, "stars": 2042, "owner": "bytecodealliance", "forks": 146},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 10180, "owner": "firecracker-microvm", "forks": 647},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 34, "stars": 2043, "owner": "bytecodealliance", "forks": 146},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 28, "stars": 10180, "owner": "firecracker-microvm", "forks": 648},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 0, "stars": 174, "owner": "input-output-hk", "forks": 69},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 4, "stars": 1280, "owner": "seanmonstar", "forks": 118},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 36, "stars": 2082, "owner": "fdehau", "forks": 100},
@@ -17,11 +17,11 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 38, "stars": 40954, "owner": "rust-lang", "forks": 6312},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 4787, "owner": "benfred", "forks": 180},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 6, "stars": 1877, "owner": "PyO3", "forks": 131},
-{"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 10, "stars": 5071, "owner": "wasmerio", "forks": 183},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 2110, "owner": "seanmonstar", "forks": 310},
+{"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 8, "stars": 5071, "owner": "wasmerio", "forks": 183},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 2111, "owner": "seanmonstar", "forks": 310},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 708, "owner": "WebAssembly", "forks": 27},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 17, "stars": 17187, "owner": "BurntSushi", "forks": 737},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 8, "stars": 1820, "owner": "rust-analyzer", "forks": 197},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 8, "stars": 1821, "owner": "rust-analyzer", "forks": 197},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 5, "stars": 2323, "owner": "bytecodealliance", "forks": 204},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 385, "owner": "hyperledger", "forks": 451}
 ]

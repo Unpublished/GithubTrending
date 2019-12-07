@@ -1,7 +1,7 @@
 [
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 728, "stars": 1284, "owner": "rajasekarv", "forks": 106},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 451, "stars": 6727, "owner": "tokio-rs", "forks": 579},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1316, "stars": 248243, "owner": "996icu", "forks": 21204},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 451, "stars": 6726, "owner": "tokio-rs", "forks": 579},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1316, "stars": 248244, "owner": "996icu", "forks": 21204},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 853, "stars": 40968, "owner": "rust-lang", "forks": 6313},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 440, "stars": 1702, "owner": "async-rs", "forks": 150},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 262, "stars": 5890, "owner": "actix", "forks": 427},
@@ -9,7 +9,7 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 196, "stars": 2171, "owner": "tree-sitter", "forks": 133},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 72, "stars": 4519, "owner": "mimblewimble", "forks": 899},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 231, "stars": 6512, "owner": "tikv", "forks": 963},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 172, "stars": 5566, "owner": "hyperium", "forks": 795},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 172, "stars": 5565, "owner": "hyperium", "forks": 795},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 243, "stars": 1045, "owner": "xi-editor", "forks": 69},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 139, "stars": 2325, "owner": "bytecodealliance", "forks": 205},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 115, "stars": 2112, "owner": "seanmonstar", "forks": 311},
@@ -23,5 +23,5 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 105, "stars": 3533, "owner": "Geal", "forks": 408},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 344, "stars": 6523, "owner": "rust-lang", "forks": 681},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 81, "stars": 3372, "owner": "tokio-rs", "forks": 405},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 233, "stars": 8469, "owner": "SergioBenitez", "forks": 591}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 233, "stars": 8470, "owner": "SergioBenitez", "forks": 591}
 ]

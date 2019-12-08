@@ -1,7 +1,7 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 457, "stars": 6753, "owner": "tokio-rs", "forks": 580},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1310, "stars": 248269, "owner": "996icu", "forks": 21208},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 863, "stars": 41004, "owner": "rust-lang", "forks": 6320},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1310, "stars": 248268, "owner": "996icu", "forks": 21209},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 863, "stars": 41006, "owner": "rust-lang", "forks": 6320},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 433, "stars": 1705, "owner": "async-rs", "forks": 151},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 71, "stars": 4520, "owner": "mimblewimble", "forks": 901},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 732, "stars": 1295, "owner": "rajasekarv", "forks": 108},
@@ -12,7 +12,7 @@
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 494, "stars": 2059, "owner": "bytecodealliance", "forks": 147},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 170, "stars": 5569, "owner": "hyperium", "forks": 794},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 227, "stars": 6516, "owner": "tikv", "forks": 967},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 115, "stars": 1702, "owner": "paritytech", "forks": 472},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 115, "stars": 1702, "owner": "paritytech", "forks": 473},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 85, "stars": 1929, "owner": "ggez", "forks": 238},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 47, "stars": 685, "owner": "paritytech", "forks": 161},
 {"description": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 41, "stars": 628, "owner": "nervosnetwork", "forks": 113},
@@ -20,7 +20,7 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 121, "stars": 2122, "owner": "seanmonstar", "forks": 313},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 240, "stars": 8480, "owner": "SergioBenitez", "forks": 591},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 108, "stars": 3534, "owner": "Geal", "forks": 408},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 178, "stars": 2797, "owner": "rust-lang", "forks": 378},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 178, "stars": 2798, "owner": "rust-lang", "forks": 378},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 227, "stars": 2089, "owner": "fdehau", "forks": 100},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 49, "stars": 1327, "owner": "rust-lang", "forks": 316},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 68, "stars": 755, "owner": "actix", "forks": 211}

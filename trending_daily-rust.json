@@ -1,7 +1,7 @@
 [
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 15, "stars": 2058, "owner": "bytecodealliance", "forks": 147},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 175, "owner": "input-output-hk", "forks": 72},
-{"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 53, "stars": 732, "owner": "makepad", "forks": 28},
+{"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 53, "stars": 734, "owner": "makepad", "forks": 28},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 17, "stars": 6742, "owner": "tokio-rs", "forks": 580},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 41, "stars": 40994, "owner": "rust-lang", "forks": 6318},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 4, "stars": 2325, "owner": "bytecodealliance", "forks": 205},
@@ -11,7 +11,7 @@
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 1212, "owner": "hyperium", "forks": 70},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 5567, "owner": "hyperium", "forks": 794},
 {"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 7, "stars": 1051, "owner": "oam-dev", "forks": 84},
-{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 41, "stars": 554, "owner": "redox-os", "forks": 53},
+{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 41, "stars": 556, "owner": "redox-os", "forks": 53},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 9, "stars": 1829, "owner": "rust-analyzer", "forks": 197},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 8, "stars": 4743, "owner": "diesel-rs", "forks": 451},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 6514, "owner": "tikv", "forks": 967},

@@ -1,12 +1,12 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 346, "stars": 248275, "owner": "996icu", "forks": 21208},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 346, "stars": 248277, "owner": "996icu", "forks": 21208},
 {"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 100, "stars": 747, "owner": "makepad", "forks": 29},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 53, "stars": 1832, "owner": "rust-analyzer", "forks": 197},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 57, "stars": 8483, "owner": "SergioBenitez", "forks": 591},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 3, "stars": 175, "owner": "input-output-hk", "forks": 71},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 76, "stars": 2178, "owner": "tree-sitter", "forks": 134},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 33, "stars": 5571, "owner": "hyperium", "forks": 793},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 226, "stars": 41024, "owner": "rust-lang", "forks": 6322},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 226, "stars": 41025, "owner": "rust-lang", "forks": 6323},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 104, "stars": 13209, "owner": "rust-unofficial", "forks": 884},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 20, "stars": 5743, "owner": "paritytech", "forks": 1396},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 35, "stars": 5000, "owner": "rust-lang", "forks": 1049},
@@ -14,14 +14,14 @@
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 12, "stars": 686, "owner": "paritytech", "forks": 161},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 30, "stars": 720, "owner": "WebAssembly", "forks": 27},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 72, "stars": 1324, "owner": "vi", "forks": 59},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 87, "stars": 6758, "owner": "tokio-rs", "forks": 581},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 87, "stars": 6759, "owner": "tokio-rs", "forks": 581},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 75, "stars": 2092, "owner": "fdehau", "forks": 100},
 {"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 57, "stars": 5084, "owner": "wasmerio", "forks": 182},
-{"description": "Surf the web \u2013 HTTP client framework", "language": "Rust", "repo": "surf", "new_stars": 30, "stars": 601, "owner": "http-rs", "forks": 46},
+{"description": "Surf the web \u2013 HTTP client framework", "language": "Rust", "repo": "surf", "new_stars": 30, "stars": 602, "owner": "http-rs", "forks": 46},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 21, "stars": 756, "owner": "actix", "forks": 211},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 90, "stars": 19459, "owner": "jwilm", "forks": 903},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 101, "stars": 10204, "owner": "firecracker-microvm", "forks": 649},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 285, "stars": 3001, "owner": "hecrj", "forks": 60},
 {"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 17, "stars": 1907, "owner": "servo", "forks": 221},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 34, "stars": 4600, "owner": "amethyst", "forks": 511}
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 34, "stars": 4601, "owner": "amethyst", "forks": 511}
 ]

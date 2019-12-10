@@ -16,7 +16,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 56, "stars": 3878, "owner": "actix", "forks": 227},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 37, "stars": 729, "owner": "WebAssembly", "forks": 27},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 98, "stars": 6784, "owner": "tokio-rs", "forks": 583},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 51, "stars": 1224, "owner": "hyperium", "forks": 71},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 53, "stars": 1226, "owner": "hyperium", "forks": 71},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 53, "stars": 2198, "owner": "tree-sitter", "forks": 134},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 22, "stars": 1293, "owner": "seanmonstar", "forks": 120},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 33, "stars": 2721, "owner": "rustwasm", "forks": 346},

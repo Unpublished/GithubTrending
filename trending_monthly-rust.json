@@ -6,11 +6,11 @@
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 79, "stars": 4526, "owner": "mimblewimble", "forks": 902},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 261, "stars": 5923, "owner": "actix", "forks": 431},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 207, "stars": 2197, "owner": "tree-sitter", "forks": 134},
-{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 525, "stars": 1301, "owner": "rajasekarv", "forks": 109},
+{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 526, "stars": 1302, "owner": "rajasekarv", "forks": 109},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 498, "stars": 2082, "owner": "bytecodealliance", "forks": 150},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 250, "stars": 6556, "owner": "tikv", "forks": 973},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 251, "stars": 6557, "owner": "tikv", "forks": 973},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 413, "stars": 1712, "owner": "async-rs", "forks": 154},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 257, "stars": 1074, "owner": "xi-editor", "forks": 70},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 258, "stars": 1075, "owner": "xi-editor", "forks": 70},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 155, "stars": 5579, "owner": "hyperium", "forks": 794},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 67, "stars": 3031, "owner": "rust-lang", "forks": 382},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 51, "stars": 943, "owner": "rust-windowing", "forks": 272},
@@ -23,5 +23,5 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 112, "stars": 2126, "owner": "seanmonstar", "forks": 315},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 73, "stars": 762, "owner": "actix", "forks": 214},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 165, "stars": 2803, "owner": "rust-lang", "forks": 379},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 2014, "stars": 3035, "owner": "hecrj", "forks": 60}
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 2015, "stars": 3036, "owner": "hecrj", "forks": 60}
 ]

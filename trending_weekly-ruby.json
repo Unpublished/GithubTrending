@@ -1,7 +1,7 @@
 [
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 8, "stars": 6002, "owner": "puma", "forks": 1049},
 {"description": "Spree is a complete, modular & API-driven open source ecommerce solution for Ruby on Rails", "language": "Ruby", "repo": "spree", "new_stars": 14, "stars": 10045, "owner": "spree", "forks": 4364},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 58, "stars": 44644, "owner": "rails", "forks": 18053},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 58, "stars": 44644, "owner": "rails", "forks": 18054},
 {"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 28, "stars": 1880, "owner": "sorbet", "forks": 135},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 105, "stars": 22832, "owner": "huginn", "forks": 2432},
 {"description": "A RuboCop extension focused on enforcing Rails best practices and coding conventions.", "language": "Ruby", "repo": "rubocop-rails", "new_stars": 3, "stars": 245, "owner": "rubocop-hq", "forks": 44},
@@ -10,10 +10,10 @@
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 69, "stars": 21903, "owner": "freeCodeCamp", "forks": 1442},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 54, "stars": 29551, "owner": "discourse", "forks": 6632},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 14, "stars": 3007, "owner": "instructure", "forks": 1287},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 112, "stars": 19922, "owner": "Homebrew", "forks": 4498},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 112, "stars": 19924, "owner": "Homebrew", "forks": 4498},
 {"description": "a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors!", "language": "Ruby", "repo": "plots2", "new_stars": 5, "stars": 521, "owner": "publiclab", "forks": 1032},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 7, "stars": 7499, "owner": "plataformatec", "forks": 1264},
-{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 10, "stars": 4535, "owner": "rails", "forks": 1072},
+{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 10, "stars": 4535, "owner": "rails", "forks": 1071},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 7, "stars": 8641, "owner": "activeadmin", "forks": 3080},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 13, "stars": 8983, "owner": "ruby-grape", "forks": 1109},
 {"description": "A Ruby gem to load environment variables from `.env`.", "language": "Ruby", "repo": "dotenv", "new_stars": 15, "stars": 5396, "owner": "bkeepers", "forks": 379},
@@ -23,5 +23,5 @@
 {"description": "RSpec for Rails-3+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 7, "stars": 4193, "owner": "rspec", "forks": 837},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 16, "stars": 12138, "owner": "CocoaPods", "forks": 2172},
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 4, "stars": 8632, "owner": "resque", "forks": 1576},
-{"description": "A micro library providing Ruby objects with Publish-Subscribe capabilities", "language": "Ruby", "repo": "wisper", "new_stars": 22, "stars": 2670, "owner": "krisleech", "forks": 108}
+{"description": "A micro library providing Ruby objects with Publish-Subscribe capabilities", "language": "Ruby", "repo": "wisper", "new_stars": 22, "stars": 2671, "owner": "krisleech", "forks": 108}
 ]

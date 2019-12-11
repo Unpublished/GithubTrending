@@ -1,5 +1,5 @@
 [
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1340, "stars": 248327, "owner": "996icu", "forks": 21211},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1340, "stars": 248324, "owner": "996icu", "forks": 21211},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 461, "stars": 6784, "owner": "tokio-rs", "forks": 585},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 872, "stars": 41132, "owner": "rust-lang", "forks": 6335},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 150, "stars": 2341, "owner": "bytecodealliance", "forks": 207},
@@ -7,11 +7,11 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 262, "stars": 5927, "owner": "actix", "forks": 433},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 209, "stars": 2201, "owner": "tree-sitter", "forks": 134},
 {"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 504, "stars": 1305, "owner": "rajasekarv", "forks": 109},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 506, "stars": 2090, "owner": "bytecodealliance", "forks": 150},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 507, "stars": 2091, "owner": "bytecodealliance", "forks": 150},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 256, "stars": 6563, "owner": "tikv", "forks": 973},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 410, "stars": 1714, "owner": "async-rs", "forks": 155},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 255, "stars": 1080, "owner": "xi-editor", "forks": 71},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 156, "stars": 5585, "owner": "hyperium", "forks": 795},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 157, "stars": 5586, "owner": "hyperium", "forks": 795},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 69, "stars": 3033, "owner": "rust-lang", "forks": 382},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 51, "stars": 944, "owner": "rust-windowing", "forks": 271},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 48, "stars": 692, "owner": "paritytech", "forks": 161},
@@ -21,7 +21,7 @@
 {"description": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 38, "stars": 630, "owner": "nervosnetwork", "forks": 113},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 101, "stars": 3543, "owner": "Geal", "forks": 408},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 112, "stars": 2130, "owner": "seanmonstar", "forks": 315},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 76, "stars": 766, "owner": "actix", "forks": 214},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 76, "stars": 766, "owner": "actix", "forks": 213},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 162, "stars": 2805, "owner": "rust-lang", "forks": 379},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 2018, "stars": 3046, "owner": "hecrj", "forks": 61}
 ]

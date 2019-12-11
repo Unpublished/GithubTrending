@@ -1,13 +1,13 @@
 [
-{"description": "\u5faa\u5e8f\u6e10\u8fdb\uff0c\u5b66\u4e60Spring Boot\u3001Spring Boot & Shiro\u3001Spring Cloud\u3001Spring Security & Spring Security OAuth2\uff0c\u535a\u5ba2Spring\u7cfb\u5217\u6e90\u7801", "language": "Java", "repo": "SpringAll", "new_stars": 88, "stars": 11250, "owner": "wuyouzhuguli", "forks": 3131},
-{"description": "Everything you need to know to get the job.", "language": "Java", "repo": "interviews", "new_stars": 64, "stars": 40773, "owner": "kdn251", "forks": 8548},
-{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 25, "stars": 18473, "owner": "eugenp", "forks": 28335},
-{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 34, "stars": 34071, "owner": "spring-projects", "forks": 22507},
+{"description": "\u5faa\u5e8f\u6e10\u8fdb\uff0c\u5b66\u4e60Spring Boot\u3001Spring Boot & Shiro\u3001Spring Cloud\u3001Spring Security & Spring Security OAuth2\uff0c\u535a\u5ba2Spring\u7cfb\u5217\u6e90\u7801", "language": "Java", "repo": "SpringAll", "new_stars": 88, "stars": 11252, "owner": "wuyouzhuguli", "forks": 3131},
+{"description": "Everything you need to know to get the job.", "language": "Java", "repo": "interviews", "new_stars": 64, "stars": 40775, "owner": "kdn251", "forks": 8548},
+{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 25, "stars": 18474, "owner": "eugenp", "forks": 28340},
+{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 34, "stars": 34072, "owner": "spring-projects", "forks": 22507},
 {"description": "Zipkin is a distributed tracing system", "language": "Java", "repo": "zipkin", "new_stars": 15, "stars": 12113, "owner": "openzipkin", "forks": 2238},
 {"description": "Quarkus: Supersonic Subatomic Java.", "language": "Java", "repo": "quarkus", "new_stars": 12, "stars": 3441, "owner": "quarkusio", "forks": 552},
-{"description": "\u270d Halo \u4e00\u6b3e\u73b0\u4ee3\u5316\u7684\u4e2a\u4eba\u72ec\u7acb\u535a\u5ba2\u7cfb\u7edf", "language": "Java", "repo": "halo", "new_stars": 108, "stars": 10797, "owner": "halo-dev", "forks": 3216},
+{"description": "\u270d Halo \u4e00\u6b3e\u73b0\u4ee3\u5316\u7684\u4e2a\u4eba\u72ec\u7acb\u535a\u5ba2\u7cfb\u7edf", "language": "Java", "repo": "halo", "new_stars": 108, "stars": 10800, "owner": "halo-dev", "forks": 3216},
 {"description": "A damn simple library for building production-ready RESTful web services.", "language": "Java", "repo": "dropwizard", "new_stars": 4, "stars": 7488, "owner": "dropwizard", "forks": 3123},
-{"description": "Google core libraries for Java", "language": "Java", "repo": "guava", "new_stars": 30, "stars": 35038, "owner": "google", "forks": 7841},
+{"description": "Google core libraries for Java", "language": "Java", "repo": "guava", "new_stars": 30, "stars": 35039, "owner": "google", "forks": 7841},
 {"description": "\u300a\u53f2\u4e0a\u6700\u7b80\u5355\u7684Spring Cloud\u6559\u7a0b\u6e90\u7801\u300b", "language": "Java", "repo": "SpringCloudLearning", "new_stars": 38, "stars": 11496, "owner": "forezp", "forks": 5910},
 {"description": "React Native Local and Remote Notifications", "language": "Java", "repo": "react-native-push-notification", "new_stars": 6, "stars": 4437, "owner": "zo0r", "forks": 1303},
 {"description": "Apache Parquet", "language": "Java", "repo": "parquet-mr", "new_stars": 0, "stars": 976, "owner": "apache", "forks": 865},
@@ -23,5 +23,5 @@
 {"description": "RxJava \u2013 Reactive Extensions for the JVM \u2013 a library for composing asynchronous and event-based programs using observable sequences for the Java VM.", "language": "Java", "repo": "RxJava", "new_stars": 16, "stars": 41310, "owner": "ReactiveX", "forks": 6931},
 {"description": "\u57fa\u4e8eSpringCloud2.1\u7684\u5fae\u670d\u52a1\u5f00\u53d1\u811a\u624b\u67b6\uff0c\u6574\u5408\u4e86spring-security-oauth2\u3001nacos\u3001feign\u3001sentinel\u3001springcloud-gateway\u7b49\u3002\u670d\u52a1\u6cbb\u7406\u65b9\u9762\u5f15\u5165elasticsearch\u3001skywalking\u3001springboot-admin\u3001zipkin\u7b49\uff0c\u8ba9\u9879\u76ee\u5f00\u53d1\u5feb\u901f\u8fdb\u5165\u4e1a\u52a1\u5f00\u53d1\uff0c\u800c\u4e0d\u9700\u8fc7\u591a\u65f6\u95f4\u82b1\u8d39\u5728\u67b6\u6784\u642d\u5efa\u4e0a\u3002\u6301\u7eed\u66f4\u65b0\u4e2d", "language": "Java", "repo": "SpringCloud", "new_stars": 26, "stars": 2519, "owner": "zhoutaoo", "forks": 1242},
 {"description": "Distributed database middleware", "language": "Java", "repo": "incubator-shardingsphere", "new_stars": 12, "stars": 9454, "owner": "apache", "forks": 3257},
-{"description": "Flyway by Boxfuse \u2022 Database Migrations Made Easy.", "language": "Java", "repo": "flyway", "new_stars": 5, "stars": 4663, "owner": "flyway", "forks": 985}
+{"description": "Flyway by Boxfuse \u2022 Database Migrations Made Easy.", "language": "Java", "repo": "flyway", "new_stars": 5, "stars": 4664, "owner": "flyway", "forks": 985}
 ]

@@ -1,16 +1,15 @@
 [
-{"description": "Free & Open Source Invoice App for Freelancers & Small Businesses", "language": "PHP", "repo": "crater", "new_stars": 147, "stars": 774, "owner": "bytefury", "forks": 166},
-{"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 11, "stars": 7146, "owner": "doctrine", "forks": 2160},
+{"description": "Free & Open Source Invoice App for Freelancers & Small Businesses", "language": "PHP", "repo": "crater", "new_stars": 147, "stars": 781, "owner": "bytefury", "forks": 166},
 {"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 6, "stars": 6485, "owner": "googleapis", "forks": 2920},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 14, "stars": 18313, "owner": "guzzle", "forks": 2016},
 {"description": "A pure PHP library for reading and writing word processing documents", "language": "PHP", "repo": "PHPWord", "new_stars": 6, "stars": 4687, "owner": "PHPOffice", "forks": 1928},
 {"description": "Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.", "language": "PHP", "repo": "platform", "new_stars": 3, "stars": 576, "owner": "shopware", "forks": 148},
 {"description": "This Bundle provides various tools to rapidly develop RESTful API's with Symfony", "language": "PHP", "repo": "FOSRestBundle", "new_stars": 2, "stars": 2348, "owner": "FriendsOfSymfony", "forks": 679},
+{"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 11, "stars": 7146, "owner": "doctrine", "forks": 2160},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 12, "stars": 19666, "owner": "laravel", "forks": 6969},
 {"description": "CSV data manipulation made easy in PHP", "language": "PHP", "repo": "csv", "new_stars": 4, "stars": 2319, "owner": "thephpleague", "forks": 248},
 {"description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes", "language": "PHP", "repo": "core", "new_stars": 0, "stars": 1373, "owner": "api-platform", "forks": 435},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 7, "stars": 3851, "owner": "firefly-iii", "forks": 523},
-{"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 3, "stars": 8169, "owner": "magento", "forks": 7137},
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 9, "stars": 5812, "owner": "guzzle", "forks": 180},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 12, "stars": 7496, "owner": "PHPOffice", "forks": 1430},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 8, "stars": 7281, "owner": "spatie", "forks": 1065},
@@ -18,10 +17,11 @@
 {"description": "Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable", "language": "PHP", "repo": "DoctrineExtensions", "new_stars": 3, "stars": 3075, "owner": "Atlantic18", "forks": 1070},
 {"description": "Xdebug \u2014 Step Debugger and Debugging Aid for PHP", "language": "PHP", "repo": "xdebug", "new_stars": 10, "stars": 1853, "owner": "xdebug", "forks": 418},
 {"description": "Symfony Bundle for Doctrine ORM and DBAL", "language": "PHP", "repo": "DoctrineBundle", "new_stars": 7, "stars": 2912, "owner": "doctrine", "forks": 335},
-{"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 2, "stars": 4267, "owner": "PrestaShop", "forks": 3464},
 {"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 7, "stars": 2408, "owner": "mailcow", "forks": 452},
 {"description": "Run multiple websites using the same Laravel installation while keeping tenant specific data separated for fully independent multi-domain setups, previously github.com/hyn/multi-tenant", "language": "PHP", "repo": "multi-tenant", "new_stars": 6, "stars": 1751, "owner": "tenancy", "forks": 273},
 {"description": "\u26a1 Charts - The missing laravel charting library written with PHP 7 with lots of front-ends available.", "language": "PHP", "repo": "Charts", "new_stars": 3, "stars": 1897, "owner": "ConsoleTVs", "forks": 304},
 {"description": "File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.", "language": "PHP", "repo": "jQuery-File-Upload", "new_stars": 6, "stars": 30422, "owner": "blueimp", "forks": 8077},
-{"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 4, "stars": 2660, "owner": "beyondcode", "forks": 192}
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 8, "stars": 16469, "owner": "Seldaek", "forks": 1606},
+{"description": "PHP library allowing thumbnail, snapshot or PDF generation from a url or a html page. Wrapper for wkhtmltopdf/wkhtmltoimage", "language": "PHP", "repo": "snappy", "new_stars": 0, "stars": 3423, "owner": "KnpLabs", "forks": 383},
+{"description": "A server software for Minecraft: Bedrock Edition in PHP", "language": "PHP", "repo": "PocketMine-MP", "new_stars": 2, "stars": 1641, "owner": "pmmp", "forks": 1032}
 ]

@@ -1,13 +1,13 @@
 [
-{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 153, "stars": 1239, "owner": "redox-os", "forks": 69},
+{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 153, "stars": 1241, "owner": "redox-os", "forks": 69},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 28, "stars": 9595, "owner": "yewstack", "forks": 362},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 3, "stars": 1942, "owner": "ggez", "forks": 243},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 1231, "owner": "hyperium", "forks": 72},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 7, "stars": 1084, "owner": "xi-editor", "forks": 71},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 7, "stars": 1085, "owner": "xi-editor", "forks": 71},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 185, "owner": "input-output-hk", "forks": 71},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 6, "stars": 13445, "owner": "libra", "forks": 1998},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 769, "owner": "actix", "forks": 213},
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 23, "stars": 4882, "owner": "starship", "forks": 187},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 23, "stars": 4883, "owner": "starship", "forks": 187},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 2, "stars": 1294, "owner": "seanmonstar", "forks": 121},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 9, "stars": 6569, "owner": "tikv", "forks": 974},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 13, "stars": 5593, "owner": "hyperium", "forks": 797},
@@ -21,7 +21,7 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 1, "stars": 4605, "owner": "amethyst", "forks": 516},
 {"description": "Ephemeral chats over encrypted tcp streams for the Scuttleverse", "language": "Rust", "repo": "scuttle-chat", "new_stars": 4, "stars": 28, "owner": "clevinson", "forks": 1},
 {"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 2, "stars": 2395, "owner": "spacejam", "forks": 105},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 4, "stars": 2005, "owner": "graphql-rust", "forks": 144},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 4, "stars": 2006, "owner": "graphql-rust", "forks": 144},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 1, "stars": 4528, "owner": "mimblewimble", "forks": 902},
 {"description": "Rust HTTP types", "language": "Rust", "repo": "http", "new_stars": 2, "stars": 470, "owner": "hyperium", "forks": 94}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "RandomX, CryptoNight and Argon2 CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 119, "stars": 2797, "owner": "xmrig", "forks": 1257},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 924, "stars": 40629, "owner": "opencv", "forks": 30884},
+{"description": "RandomX, CryptoNight and Argon2 CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 120, "stars": 2796, "owner": "xmrig", "forks": 1257},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 923, "stars": 40630, "owner": "opencv", "forks": 30885},
 {"description": "software version control visualization", "language": "C++", "repo": "Gource", "new_stars": 320, "stars": 7333, "owner": "acaudwell", "forks": 591},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1941, "stars": 138843, "owner": "tensorflow", "forks": 79032},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1943, "stars": 138844, "owner": "tensorflow", "forks": 79032},
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 739, "stars": 12374, "owner": "mozilla", "forks": 2325},
-{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1419, "stars": 55420, "owner": "microsoft", "forks": 5356},
+{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1419, "stars": 55421, "owner": "microsoft", "forks": 5356},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 227, "stars": 6399, "owner": "MarlinFirmware", "forks": 8234},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 222, "stars": 3627, "owner": "carla-simulator", "forks": 983},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 257, "stars": 1013, "owner": "Aircoookie", "forks": 177},
@@ -13,7 +13,7 @@
 {"description": "Code repository of all OpenGL tutorials found at", "language": "C++", "repo": "LearnOpenGL", "new_stars": 217, "stars": 3645, "owner": "JoeyDeVries", "forks": 1051},
 {"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 245, "stars": 7833, "owner": "Tencent", "forks": 2057},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 106, "stars": 3140, "owner": "PX4", "forks": 8891},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 413, "stars": 8780, "owner": "arendst", "forks": 2069},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 414, "stars": 8780, "owner": "arendst", "forks": 2069},
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 157, "stars": 1500, "owner": "microsoft", "forks": 348},
 {"description": "A keygen for Navicat", "language": "C++", "repo": "navicat-keygen", "new_stars": 598, "stars": 9324, "owner": "DoubleLabyrinth", "forks": 2426},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 284, "stars": 7836, "owner": "qbittorrent", "forks": 1382},
@@ -21,7 +21,7 @@
 {"description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.", "language": "C++", "repo": "BIGTREETECH-SKR-mini-E3", "new_stars": 62, "stars": 178, "owner": "bigtreetech", "forks": 190},
 {"description": "Point Cloud Library (PCL)", "language": "C++", "repo": "pcl", "new_stars": 151, "stars": 4507, "owner": "PointCloudLibrary", "forks": 3061},
 {"description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events", "language": "C++", "repo": "async-profiler", "new_stars": 143, "stars": 2481, "owner": "jvm-profiling-tools", "forks": 284},
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 444, "stars": 17931, "owner": "ocornut", "forks": 2851},
-{"description": "cuML - RAPIDS Machine Learning Library", "language": "C++", "repo": "cuml", "new_stars": 200, "stars": 995, "owner": "rapidsai", "forks": 161},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 443, "stars": 17931, "owner": "ocornut", "forks": 2851},
+{"description": "cuML - RAPIDS Machine Learning Library", "language": "C++", "repo": "cuml", "new_stars": 201, "stars": 995, "owner": "rapidsai", "forks": 161},
 {"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 899, "stars": 3505, "owner": "trojan-gfw", "forks": 740}
 ]

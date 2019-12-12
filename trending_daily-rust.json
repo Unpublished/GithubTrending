@@ -3,16 +3,16 @@
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 165, "stars": 1316, "owner": "redox-os", "forks": 72},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 12, "stars": 5596, "owner": "hyperium", "forks": 797},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 1234, "owner": "hyperium", "forks": 72},
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 18, "stars": 4889, "owner": "starship", "forks": 187},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 20, "stars": 4891, "owner": "starship", "forks": 187},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 23, "stars": 9604, "owner": "yewstack", "forks": 362},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 41156, "owner": "rust-lang", "forks": 6338},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 24, "stars": 41157, "owner": "rust-lang", "forks": 6338},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 8, "stars": 813, "owner": "tower-rs", "forks": 67},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 185, "owner": "input-output-hk", "forks": 71},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 39, "stars": 248362, "owner": "996icu", "forks": 21208},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 43, "stars": 248366, "owner": "996icu", "forks": 21208},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 7, "stars": 3483, "owner": "clap-rs", "forks": 340},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 388, "owner": "hyperledger", "forks": 457},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 2, "stars": 1716, "owner": "async-rs", "forks": 158},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 6, "stars": 5052, "owner": "BurntSushi", "forks": 164},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 7, "stars": 5053, "owner": "BurntSushi", "forks": 164},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 3, "stars": 2569, "owner": "autozimu", "forks": 219},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 2, "stars": 2791, "owner": "getzola", "forks": 251},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 2137, "owner": "seanmonstar", "forks": 315},
@@ -23,5 +23,5 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 4075, "owner": "rust-lang", "forks": 535},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 17, "stars": 6581, "owner": "rust-lang", "forks": 689},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 5, "stars": 4674, "owner": "rust-lang", "forks": 1272},
-{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 4, "stars": 3113, "owner": "timberio", "forks": 150}
+{"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 5, "stars": 3114, "owner": "timberio", "forks": 150}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 19, "stars": 13497, "owner": "libra", "forks": 1999},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 7, "stars": 1249, "owner": "hyperium", "forks": 74},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 7, "stars": 1250, "owner": "hyperium", "forks": 74},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 33, "stars": 3135, "owner": "hecrj", "forks": 62},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 18, "stars": 1925, "owner": "dessalines", "forks": 92},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 5, "stars": 1335, "owner": "rust-lang", "forks": 320},
@@ -21,7 +21,7 @@
 {"description": "A High-Performance, Logs, Metrics, & Events Router", "language": "Rust", "repo": "vector", "new_stars": 6, "stars": 3123, "owner": "timberio", "forks": 150},
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 6, "stars": 2701, "owner": "rust-lang", "forks": 208},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 388, "owner": "hyperledger", "forks": 457},
-{"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 4, "stars": 609, "owner": "mullvad", "forks": 43},
+{"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 4, "stars": 610, "owner": "mullvad", "forks": 43},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 4, "stars": 3380, "owner": "tokio-rs", "forks": 406},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 13, "stars": 6808, "owner": "tokio-rs", "forks": 587}
 ]

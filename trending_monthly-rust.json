@@ -1,10 +1,10 @@
 [
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1352, "stars": 248365, "owner": "996icu", "forks": 21208},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 861, "stars": 41165, "owner": "rust-lang", "forks": 6340},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 265, "stars": 5943, "owner": "actix", "forks": 432},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 266, "stars": 5943, "owner": "actix", "forks": 432},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 387, "stars": 6800, "owner": "tokio-rs", "forks": 585},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 163, "stars": 5600, "owner": "hyperium", "forks": 797},
-{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 483, "stars": 1310, "owner": "rajasekarv", "forks": 109},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 164, "stars": 5601, "owner": "hyperium", "forks": 797},
+{"description": "A new arguably faster implementation of Apache Spark from scratch in Rust", "language": "Rust", "repo": "native_spark", "new_stars": 482, "stars": 1310, "owner": "rajasekarv", "forks": 109},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 263, "stars": 6579, "owner": "tikv", "forks": 974},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 140, "stars": 2344, "owner": "bytecodealliance", "forks": 208},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 474, "stars": 2107, "owner": "bytecodealliance", "forks": 153},
@@ -20,7 +20,7 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 96, "stars": 3547, "owner": "Geal", "forks": 410},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 175, "stars": 1861, "owner": "rust-analyzer", "forks": 199},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 77, "stars": 3378, "owner": "tokio-rs", "forks": 406},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 188, "stars": 3887, "owner": "actix", "forks": 227},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 186, "stars": 3887, "owner": "actix", "forks": 227},
 {"description": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.", "language": "Rust", "repo": "ckb", "new_stars": 37, "stars": 630, "owner": "nervosnetwork", "forks": 113},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 2077, "stars": 3111, "owner": "hecrj", "forks": 62},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 73, "stars": 5757, "owner": "paritytech", "forks": 1399}

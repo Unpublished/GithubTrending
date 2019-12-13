@@ -1,10 +1,10 @@
 [
-{"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 308, "stars": 12401, "owner": "mozilla", "forks": 2328},
+{"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 309, "stars": 12402, "owner": "mozilla", "forks": 2328},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 103, "stars": 1024, "owner": "Aircoookie", "forks": 177},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 135, "stars": 1593, "owner": "vesoft-inc", "forks": 258},
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 78, "stars": 1503, "owner": "microsoft", "forks": 349},
 {"description": "MSVC's implementation of the C++ Standard Library.", "language": "C++", "repo": "STL", "new_stars": 149, "stars": 4632, "owner": "microsoft", "forks": 460},
-{"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 72, "stars": 6403, "owner": "MarlinFirmware", "forks": 8247},
+{"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 72, "stars": 6403, "owner": "MarlinFirmware", "forks": 8248},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 79, "stars": 13947, "owner": "google", "forks": 5531},
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 151, "stars": 17948, "owner": "ocornut", "forks": 2854},
 {"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 124, "stars": 8789, "owner": "arendst", "forks": 2071},
@@ -12,7 +12,7 @@
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 256, "stars": 34574, "owner": "pytorch", "forks": 8621},
 {"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 46, "stars": 1986, "owner": "TheCherno", "forks": 318},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 91, "stars": 11771, "owner": "envoyproxy", "forks": 1934},
-{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 313, "stars": 55462, "owner": "microsoft", "forks": 5360},
+{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 313, "stars": 55464, "owner": "microsoft", "forks": 5360},
 {"description": "An open visual-inertial mapping framework.", "language": "C++", "repo": "maplab", "new_stars": 11, "stars": 1195, "owner": "ethz-asl", "forks": 465},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 94, "stars": 7851, "owner": "qbittorrent", "forks": 1386},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 107, "stars": 24275, "owner": "grpc", "forks": 5873},
@@ -22,6 +22,6 @@
 {"description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called \"baidu-rpc\" inside Baidu.", "language": "C++", "repo": "incubator-brpc", "new_stars": 35, "stars": 9491, "owner": "apache", "forks": 2291},
 {"description": "Examples and demos for the new Vulkan API", "language": "C++", "repo": "Vulkan", "new_stars": 32, "stars": 4521, "owner": "SaschaWillems", "forks": 902},
 {"description": "Cap'n Proto serialization/RPC system - core tools and C++ library", "language": "C++", "repo": "capnproto", "new_stars": 50, "stars": 6978, "owner": "capnproto", "forks": 586},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 123, "stars": 39054, "owner": "protocolbuffers", "forks": 10562},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 123, "stars": 39054, "owner": "protocolbuffers", "forks": 10561},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 378, "stars": 138879, "owner": "tensorflow", "forks": 79050}
 ]

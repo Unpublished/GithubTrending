@@ -11,7 +11,7 @@
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 7, "stars": 1302, "owner": "seanmonstar", "forks": 123},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 6, "stars": 820, "owner": "tower-rs", "forks": 67},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 33, "stars": 9641, "owner": "yewstack", "forks": 361},
-{"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 6, "stars": 2405, "owner": "spacejam", "forks": 106},
+{"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 7, "stars": 2406, "owner": "spacejam", "forks": 106},
 {"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 27, "stars": 4925, "owner": "starship", "forks": 190},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 5955, "owner": "actix", "forks": 433},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 3, "stars": 4678, "owner": "rust-lang", "forks": 1275},
@@ -21,7 +21,7 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 6, "stars": 2815, "owner": "rust-lang", "forks": 379},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 7, "stars": 3385, "owner": "tokio-rs", "forks": 406},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 7, "stars": 4612, "owner": "amethyst", "forks": 515},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 41197, "owner": "rust-lang", "forks": 6345},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 41198, "owner": "rust-lang", "forks": 6345},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 4, "stars": 3501, "owner": "pingcap", "forks": 458},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 0, "stars": 694, "owner": "paritytech", "forks": 161}
 ]

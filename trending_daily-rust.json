@@ -14,7 +14,7 @@
 {"description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 3, "stars": 7870, "owner": "valeriansaliou", "forks": 224},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 4, "stars": 2687, "owner": "cloudflare", "forks": 123},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 13, "stars": 5612, "owner": "hyperium", "forks": 798},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 66, "stars": 248404, "owner": "996icu", "forks": 21213},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 66, "stars": 248405, "owner": "996icu", "forks": 21213},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 10, "stars": 6600, "owner": "rust-lang", "forks": 693},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 3, "stars": 819, "owner": "tower-rs", "forks": 67},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 2145, "owner": "seanmonstar", "forks": 316},
@@ -22,6 +22,6 @@
 {"description": "Repository for the Rust Language Server (aka RLS)", "language": "Rust", "repo": "rls", "new_stars": 1, "stars": 2701, "owner": "rust-lang", "forks": 208},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 388, "owner": "hyperledger", "forks": 457},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 5, "stars": 611, "owner": "mullvad", "forks": 43},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 3, "stars": 3381, "owner": "tokio-rs", "forks": 406},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 6810, "owner": "tokio-rs", "forks": 587}
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 3, "stars": 3382, "owner": "tokio-rs", "forks": 406},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 6811, "owner": "tokio-rs", "forks": 587}
 ]

@@ -1,14 +1,14 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 250, "stars": 41206, "owner": "rust-lang", "forks": 6347},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 141, "stars": 9644, "owner": "yewstack", "forks": 361},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 68, "stars": 10255, "owner": "firecracker-microvm", "forks": 658},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 141, "stars": 9644, "owner": "yewstack", "forks": 362},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 68, "stars": 10256, "owner": "firecracker-microvm", "forks": 658},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 79, "stars": 6590, "owner": "tikv", "forks": 974},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 35, "stars": 1733, "owner": "paritytech", "forks": 479},
 {"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 70, "stars": 791, "owner": "makepad", "forks": 29},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 71, "stars": 5958, "owner": "actix", "forks": 434},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 58, "stars": 1267, "owner": "hyperium", "forks": 75},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 107, "stars": 19537, "owner": "jwilm", "forks": 907},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 56, "stars": 5617, "owner": "hyperium", "forks": 799},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 56, "stars": 5618, "owner": "hyperium", "forks": 799},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 30, "stars": 2733, "owner": "rustwasm", "forks": 348},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 84, "stars": 13500, "owner": "libra", "forks": 2001},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 309, "stars": 248430, "owner": "996icu", "forks": 21213},
@@ -23,5 +23,5 @@
 {"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 130, "stars": 4930, "owner": "starship", "forks": 189},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 90, "stars": 13280, "owner": "rust-unofficial", "forks": 889},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 51, "stars": 15265, "owner": "servo", "forks": 2294},
-{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 827, "stars": 1363, "owner": "redox-os", "forks": 75}
+{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 827, "stars": 1364, "owner": "redox-os", "forks": 76}
 ]

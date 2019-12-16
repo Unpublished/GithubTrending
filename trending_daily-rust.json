@@ -4,12 +4,12 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 16, "stars": 5969, "owner": "actix", "forks": 434},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 16, "stars": 5983, "owner": "nushell", "forks": 215},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 14, "stars": 3909, "owner": "actix", "forks": 230},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 56, "stars": 41241, "owner": "rust-lang", "forks": 6351},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 56, "stars": 41240, "owner": "rust-lang", "forks": 6351},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 19, "stars": 2703, "owner": "cloudflare", "forks": 125},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 10, "stars": 4618, "owner": "amethyst", "forks": 515},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 6, "stars": 1953, "owner": "ggez", "forks": 243},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 13, "stars": 3165, "owner": "hecrj", "forks": 67},
-{"description": "A service manager that is able to run \"traditional\" systemd services, written in rust", "language": "Rust", "repo": "rustysd", "new_stars": 104, "stars": 216, "owner": "KillingSpark", "forks": 3},
+{"description": "A service manager that is able to run \"traditional\" systemd services, written in rust", "language": "Rust", "repo": "rustysd", "new_stars": 104, "stars": 217, "owner": "KillingSpark", "forks": 3},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 6, "stars": 2766, "owner": "Spotifyd", "forks": 133},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 62, "stars": 248456, "owner": "996icu", "forks": 21219},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 20, "stars": 8546, "owner": "SergioBenitez", "forks": 593},
@@ -22,6 +22,6 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 10, "stars": 3556, "owner": "Geal", "forks": 411},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 11, "stars": 5018, "owner": "rust-lang", "forks": 1051},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 4, "stars": 2020, "owner": "graphql-rust", "forks": 147},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 4688, "owner": "rust-lang", "forks": 1277},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 4688, "owner": "rust-lang", "forks": 1278},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 5, "stars": 1105, "owner": "librespot-org", "forks": 150}
 ]

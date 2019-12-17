@@ -1,12 +1,12 @@
 [
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 446, "stars": 8860, "owner": "arendst", "forks": 2082},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 444, "stars": 8860, "owner": "arendst", "forks": 2082},
 {"description": "RandomX, CryptoNight and Argon2 CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 126, "stars": 2813, "owner": "xmrig", "forks": 1269},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1885, "stars": 138972, "owner": "tensorflow", "forks": 79093},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1885, "stars": 138972, "owner": "tensorflow", "forks": 79094},
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 792, "stars": 12455, "owner": "mozilla", "forks": 2333},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 240, "stars": 3656, "owner": "carla-simulator", "forks": 991},
 {"description": "Code repository of all OpenGL tutorials found at", "language": "C++", "repo": "LearnOpenGL", "new_stars": 227, "stars": 3662, "owner": "JoeyDeVries", "forks": 1053},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 287, "stars": 1065, "owner": "Aircoookie", "forks": 178},
-{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1398, "stars": 55545, "owner": "microsoft", "forks": 5358},
+{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1397, "stars": 55545, "owner": "microsoft", "forks": 5358},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 221, "stars": 6417, "owner": "MarlinFirmware", "forks": 8276},
 {"description": "Free Monero RandomX Miner and unified CryptoNight miner", "language": "C++", "repo": "xmr-stak", "new_stars": 46, "stars": 3304, "owner": "fireice-uk", "forks": 1688},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 111, "stars": 3153, "owner": "PX4", "forks": 8920},
@@ -14,7 +14,7 @@
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 282, "stars": 7366, "owner": "fmtlib", "forks": 909},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 911, "stars": 40729, "owner": "opencv", "forks": 30986},
 {"description": "cuML - RAPIDS Machine Learning Library", "language": "C++", "repo": "cuml", "new_stars": 207, "stars": 1004, "owner": "rapidsai", "forks": 161},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 317, "stars": 7891, "owner": "qbittorrent", "forks": 1396},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 316, "stars": 7891, "owner": "qbittorrent", "forks": 1396},
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 146, "stars": 1513, "owner": "microsoft", "forks": 348},
 {"description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events", "language": "C++", "repo": "async-profiler", "new_stars": 141, "stars": 2490, "owner": "jvm-profiling-tools", "forks": 284},
 {"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 232, "stars": 7850, "owner": "Tencent", "forks": 2068},
@@ -22,6 +22,6 @@
 {"description": "software version control visualization", "language": "C++", "repo": "Gource", "new_stars": 322, "stars": 7343, "owner": "acaudwell", "forks": 591},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 267, "stars": 15624, "owner": "facebook", "forks": 3484},
 {"description": "LeetCode Problems' Solutions", "language": "C++", "repo": "leetcode", "new_stars": 449, "stars": 12520, "owner": "haoel", "forks": 3850},
-{"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 259, "stars": 29630, "owner": "BVLC", "forks": 17890},
+{"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 258, "stars": 29630, "owner": "BVLC", "forks": 17890},
 {"description": "The Flutter engine", "language": "C++", "repo": "engine", "new_stars": 124, "stars": 3752, "owner": "flutter", "forks": 2032}
 ]

@@ -1,17 +1,17 @@
 [
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 3, "stars": 8651, "owner": "activeadmin", "forks": 3086},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 14, "stars": 44710, "owner": "rails", "forks": 18094},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 14, "stars": 44711, "owner": "rails", "forks": 18094},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 2, "stars": 8993, "owner": "ruby-grape", "forks": 1115},
 {"description": "Simple, but flexible HTTP client library, with support for multiple backends.", "language": "Ruby", "repo": "faraday", "new_stars": 2, "stars": 4621, "owner": "lostisland", "forks": 763},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 10011, "owner": "mperham", "forks": 1753},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 16, "stars": 29602, "owner": "discourse", "forks": 6643},
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 16, "stars": 29603, "owner": "discourse", "forks": 6643},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 4, "stars": 1895, "owner": "zammad", "forks": 369},
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 3, "stars": 8641, "owner": "resque", "forks": 1578},
 {"description": "Library for stubbing and setting expectations on HTTP requests in Ruby.", "language": "Ruby", "repo": "webmock", "new_stars": 2, "stars": 3242, "owner": "bblimke", "forks": 455},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 4, "stars": 20410, "owner": "plataformatec", "forks": 4913},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 3, "stars": 20410, "owner": "plataformatec", "forks": 4913},
 {"description": "Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.", "language": "Ruby", "repo": "database_cleaner", "new_stars": 1, "stars": 2526, "owner": "DatabaseCleaner", "forks": 450},
-{"description": "xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your\u2026", "language": "Ruby", "repo": "axlsx", "new_stars": 1, "stars": 2493, "owner": "randym", "forks": 698},
-{"description": "Catch unsafe migrations in development", "language": "Ruby", "repo": "strong_migrations", "new_stars": 3, "stars": 1770, "owner": "ankane", "forks": 75},
+{"description": "xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your\u2026", "language": "Ruby", "repo": "axlsx", "new_stars": 0, "stars": 2493, "owner": "randym", "forks": 698},
+{"description": "Catch unsafe migrations in development", "language": "Ruby", "repo": "strong_migrations", "new_stars": 2, "stars": 1770, "owner": "ankane", "forks": 75},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 3, "stars": 8644, "owner": "fluent", "forks": 1016},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 5, "stars": 16161, "owner": "kilimchoi", "forks": 1899},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 4, "stars": 4060, "owner": "rmosolgo", "forks": 813},
@@ -23,5 +23,5 @@
 {"description": "REST client for Google APIs", "language": "Ruby", "repo": "google-api-ruby-client", "new_stars": 1, "stars": 2146, "owner": "googleapis", "forks": 683},
 {"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails", "language": "Ruby", "repo": "decidim", "new_stars": 0, "stars": 599, "owner": "decidim", "forks": 175},
 {"description": "Cloud native connectivity and network policy", "language": "Ruby", "repo": "calico", "new_stars": 5, "stars": 1484, "owner": "projectcalico", "forks": 418},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 15, "stars": 20033, "owner": "Homebrew", "forks": 4518}
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 16, "stars": 20033, "owner": "Homebrew", "forks": 4518}
 ]

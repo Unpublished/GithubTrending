@@ -2,12 +2,12 @@
 {"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 19, "stars": 5170, "owner": "wasmerio", "forks": 187},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 208, "owner": "input-output-hk", "forks": 77},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 5, "stars": 3402, "owner": "tokio-rs", "forks": 409},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 21, "stars": 602, "owner": "tauri-apps", "forks": 18},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 22, "stars": 603, "owner": "tauri-apps", "forks": 18},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 1, "stars": 2365, "owner": "bytecodealliance", "forks": 209},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 14, "stars": 4716, "owner": "RustPython", "forks": 328},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 9, "stars": 2161, "owner": "bytecodealliance", "forks": 156},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 15288, "owner": "servo", "forks": 2297},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 19, "stars": 9719, "owner": "yewstack", "forks": 364},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 7, "stars": 15289, "owner": "servo", "forks": 2297},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 20, "stars": 9720, "owner": "yewstack", "forks": 364},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 2, "stars": 1451, "owner": "http-rs", "forks": 126},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 17342, "owner": "BurntSushi", "forks": 749},
 {"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 22, "stars": 5044, "owner": "starship", "forks": 194},
@@ -22,6 +22,6 @@
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 10, "stars": 764, "owner": "seed-rs", "forks": 46},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 5, "stars": 2453, "owner": "toshi-search", "forks": 76},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 5995, "owner": "actix", "forks": 434},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 6854, "owner": "tokio-rs", "forks": 594},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 6855, "owner": "tokio-rs", "forks": 594},
 {"description": "sccache is ccache with cloud storage", "language": "Rust", "repo": "sccache", "new_stars": 3, "stars": 1014, "owner": "mozilla", "forks": 158}
 ]

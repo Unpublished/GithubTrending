@@ -1,16 +1,16 @@
 [
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 3895, "stars": 5369, "owner": "CoatiSoftware", "forks": 257},
-{"description": "A PyTorch Library for Accelerating 3D Deep Learning Research", "language": "C++", "repo": "kaolin", "new_stars": 709, "stars": 1382, "owner": "NVIDIAGameWorks", "forks": 138},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 457, "stars": 8915, "owner": "arendst", "forks": 2086},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 3676, "stars": 5370, "owner": "CoatiSoftware", "forks": 257},
+{"description": "A PyTorch Library for Accelerating 3D Deep Learning Research", "language": "C++", "repo": "kaolin", "new_stars": 711, "stars": 1382, "owner": "NVIDIAGameWorks", "forks": 138},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 458, "stars": 8916, "owner": "arendst", "forks": 2086},
 {"description": "RandomX, CryptoNight and Argon2 CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 136, "stars": 2823, "owner": "xmrig", "forks": 1272},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1897, "stars": 139151, "owner": "tensorflow", "forks": 79170},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1901, "stars": 139153, "owner": "tensorflow", "forks": 79170},
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 823, "stars": 12509, "owner": "mozilla", "forks": 2344},
 {"description": "Code repository of all OpenGL tutorials found at", "language": "C++", "repo": "LearnOpenGL", "new_stars": 231, "stars": 3677, "owner": "JoeyDeVries", "forks": 1060},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 223, "stars": 6427, "owner": "MarlinFirmware", "forks": 8305},
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 159, "stars": 1544, "owner": "microsoft", "forks": 351},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 296, "stars": 1096, "owner": "Aircoookie", "forks": 184},
-{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1423, "stars": 55675, "owner": "microsoft", "forks": 5365},
-{"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 289, "stars": 13027, "owner": "commaai", "forks": 3192},
+{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1423, "stars": 55674, "owner": "microsoft", "forks": 5365},
+{"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 284, "stars": 13028, "owner": "commaai", "forks": 3193},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 257, "stars": 3684, "owner": "carla-simulator", "forks": 995},
 {"description": "Microsoft SEAL is an easy-to-use and powerful homomorphic encryption library.", "language": "C++", "repo": "SEAL", "new_stars": 80, "stars": 1475, "owner": "microsoft", "forks": 209},
 {"description": "Free Monero RandomX Miner and unified CryptoNight miner", "language": "C++", "repo": "xmr-stak", "new_stars": 43, "stars": 3301, "owner": "fireice-uk", "forks": 1689},
@@ -21,7 +21,7 @@
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 106, "stars": 3158, "owner": "PX4", "forks": 8947},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 280, "stars": 15665, "owner": "facebook", "forks": 3499},
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 486, "stars": 18038, "owner": "ocornut", "forks": 2875},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 961, "stars": 79495, "owner": "electron", "forks": 10576},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 962, "stars": 79495, "owner": "electron", "forks": 10577},
 {"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 99, "stars": 3215, "owner": "qgis", "forks": 1651},
-{"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 176, "stars": 1751, "owner": "NVIDIA", "forks": 336}
+{"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 172, "stars": 1751, "owner": "NVIDIA", "forks": 336}
 ]

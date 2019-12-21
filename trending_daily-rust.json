@@ -1,18 +1,18 @@
 [
-{"description": "The official MongoDB Rust Driver (currently in alpha)", "language": "Rust", "repo": "mongo-rust-driver", "new_stars": 28, "stars": 45, "owner": "mongodb", "forks": 6},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 18, "stars": 13546, "owner": "libra", "forks": 2008},
+{"description": "The official MongoDB Rust Driver (currently in alpha)", "language": "Rust", "repo": "mongo-rust-driver", "new_stars": 28, "stars": 46, "owner": "mongodb", "forks": 6},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 18, "stars": 13547, "owner": "libra", "forks": 2008},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 9, "stars": 4803, "owner": "diesel-rs", "forks": 454},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 9, "stars": 4115, "owner": "rust-lang", "forks": 541},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 13, "stars": 1311, "owner": "hyperium", "forks": 82},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 13, "stars": 1312, "owner": "hyperium", "forks": 82},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 2755, "owner": "rustwasm", "forks": 354},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 8, "stars": 2811, "owner": "getzola", "forks": 255},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 22, "stars": 41321, "owner": "rust-lang", "forks": 6367},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 11, "stars": 218, "owner": "input-output-hk", "forks": 78},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 7, "stars": 774, "owner": "seed-rs", "forks": 46},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 22, "stars": 627, "owner": "tauri-apps", "forks": 19},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 13338, "owner": "rust-unofficial", "forks": 894},
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 17, "stars": 5068, "owner": "starship", "forks": 201},
-{"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 7, "stars": 1459, "owner": "http-rs", "forks": 128},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 13340, "owner": "rust-unofficial", "forks": 894},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 17, "stars": 5070, "owner": "starship", "forks": 201},
+{"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 7, "stars": 1460, "owner": "http-rs", "forks": 128},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 10, "stars": 10298, "owner": "firecracker-microvm", "forks": 663},
 {"description": "A full-text search engine in rust", "language": "Rust", "repo": "Toshi", "new_stars": 5, "stars": 2459, "owner": "toshi-search", "forks": 77},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 7, "stars": 2150, "owner": "fdehau", "forks": 103},
@@ -23,5 +23,5 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 6009, "owner": "actix", "forks": 434},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 4, "stars": 828, "owner": "tower-rs", "forks": 68},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 8, "stars": 3081, "owner": "rust-lang", "forks": 456},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 23, "stars": 9742, "owner": "yewstack", "forks": 363}
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 23, "stars": 9743, "owner": "yewstack", "forks": 363}
 ]

@@ -6,7 +6,7 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 70, "stars": 6014, "owner": "actix", "forks": 434},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 27, "stars": 218, "owner": "input-output-hk", "forks": 78},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 38, "stars": 4115, "owner": "rust-lang", "forks": 541},
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 166, "stars": 5075, "owner": "starship", "forks": 201},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 166, "stars": 5076, "owner": "starship", "forks": 201},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 67, "stars": 1313, "owner": "hyperium", "forks": 82},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 145, "stars": 19658, "owner": "jwilm", "forks": 914},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 91, "stars": 1818, "owner": "async-rs", "forks": 163},
@@ -19,9 +19,9 @@
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 47, "stars": 1142, "owner": "xi-editor", "forks": 76},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 32, "stars": 2174, "owner": "seanmonstar", "forks": 317},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 178, "stars": 41328, "owner": "rust-lang", "forks": 6367},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 43, "stars": 4806, "owner": "diesel-rs", "forks": 454},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 43, "stars": 4805, "owner": "diesel-rs", "forks": 454},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 71, "stars": 6872, "owner": "tokio-rs", "forks": 596},
-{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 49, "stars": 1950, "owner": "PyO3", "forks": 134},
+{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 50, "stars": 1951, "owner": "PyO3", "forks": 134},
 {"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 21, "stars": 2422, "owner": "spacejam", "forks": 108},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 70, "stars": 1931, "owner": "rust-analyzer", "forks": 204}
 ]

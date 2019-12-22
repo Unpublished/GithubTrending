@@ -1,8 +1,8 @@
 [
 {"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 64, "stars": 5177, "owner": "wasmerio", "forks": 187},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 63, "stars": 4724, "owner": "RustPython", "forks": 328},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 64, "stars": 4725, "owner": "RustPython", "forks": 328},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 315, "stars": 248575, "owner": "996icu", "forks": 21215},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 57, "stars": 5667, "owner": "hyperium", "forks": 808},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 57, "stars": 5668, "owner": "hyperium", "forks": 808},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 74, "stars": 6018, "owner": "actix", "forks": 434},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 33, "stars": 220, "owner": "input-output-hk", "forks": 78},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 39, "stars": 4117, "owner": "rust-lang", "forks": 542},
@@ -20,7 +20,7 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 33, "stars": 2175, "owner": "seanmonstar", "forks": 318},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 183, "stars": 41333, "owner": "rust-lang", "forks": 6367},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 45, "stars": 4807, "owner": "diesel-rs", "forks": 455},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 73, "stars": 6874, "owner": "tokio-rs", "forks": 596},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 73, "stars": 6875, "owner": "tokio-rs", "forks": 596},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 50, "stars": 1951, "owner": "PyO3", "forks": 134},
 {"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 21, "stars": 2422, "owner": "spacejam", "forks": 108},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 71, "stars": 1932, "owner": "rust-analyzer", "forks": 205}

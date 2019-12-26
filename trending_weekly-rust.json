@@ -1,9 +1,9 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 115, "stars": 13625, "owner": "libra", "forks": 2016},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 124, "stars": 13625, "owner": "libra", "forks": 2016},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 245, "stars": 6865, "owner": "rust-lang", "forks": 722},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 62, "stars": 1343, "owner": "hyperium", "forks": 83},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 52, "stars": 4833, "owner": "diesel-rs", "forks": 459},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 36, "stars": 2778, "owner": "rustwasm", "forks": 354},
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 37, "stars": 2779, "owner": "rustwasm", "forks": 354},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 85, "stars": 13400, "owner": "rust-unofficial", "forks": 896},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 60, "stars": 2422, "owner": "dani-garcia", "forks": 163},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 29, "stars": 224, "owner": "input-output-hk", "forks": 78},
@@ -12,7 +12,7 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 51, "stars": 1949, "owner": "rust-analyzer", "forks": 208},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 27, "stars": 5048, "owner": "rust-lang", "forks": 1058},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 37, "stars": 4729, "owner": "rust-lang", "forks": 1290},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 81, "stars": 6062, "owner": "actix", "forks": 435},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 84, "stars": 6065, "owner": "actix", "forks": 435},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 43, "stars": 1489, "owner": "http-rs", "forks": 131},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 128, "stars": 3585, "owner": "Rigellute", "forks": 98},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 24, "stars": 3418, "owner": "tokio-rs", "forks": 410},
@@ -22,6 +22,6 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 36, "stars": 2191, "owner": "seanmonstar", "forks": 317},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 34, "stars": 4129, "owner": "rust-lang", "forks": 544},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 33, "stars": 3534, "owner": "clap-rs", "forks": 342},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 23, "stars": 4639, "owner": "amethyst", "forks": 516},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 24, "stars": 4640, "owner": "amethyst", "forks": 516},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 75, "stars": 6906, "owner": "tokio-rs", "forks": 599}
 ]

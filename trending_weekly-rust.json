@@ -1,10 +1,10 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 122, "stars": 13639, "owner": "libra", "forks": 2018},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 263, "stars": 6904, "owner": "rust-lang", "forks": 726},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 263, "stars": 6905, "owner": "rust-lang", "forks": 726},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 114, "stars": 13430, "owner": "rust-unofficial", "forks": 900},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 49, "stars": 1497, "owner": "http-rs", "forks": 131},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 22, "stars": 801, "owner": "actix", "forks": 226},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 130, "stars": 6120, "owner": "actix", "forks": 440},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 131, "stars": 6121, "owner": "actix", "forks": 440},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 98, "stars": 6103, "owner": "nushell", "forks": 218},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 54, "stars": 2083, "owner": "graphql-rust", "forks": 151},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 56, "stars": 2857, "owner": "getzola", "forks": 259},
@@ -22,6 +22,6 @@
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 12, "stars": 675, "owner": "rust-lang", "forks": 451},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 22, "stars": 3585, "owner": "gfx-rs", "forks": 409},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 41, "stars": 2786, "owner": "rustwasm", "forks": 355},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 76, "stars": 2845, "owner": "Spotifyd", "forks": 137},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 76, "stars": 2845, "owner": "Spotifyd", "forks": 138},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 175, "stars": 41439, "owner": "rust-lang", "forks": 6378}
 ]

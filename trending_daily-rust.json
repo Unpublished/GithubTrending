@@ -12,7 +12,7 @@
 {"description": "An authorization library that supports access control models like ACL, RBAC, ABAC in Rust", "language": "Rust", "repo": "casbin-rs", "new_stars": 41, "stars": 97, "owner": "casbin", "forks": 8},
 {"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "linux-io-uring", "new_stars": 22, "stars": 51, "owner": "quininer", "forks": 1},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 15, "stars": 17050, "owner": "xi-editor", "forks": 628},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 10, "stars": 807, "owner": "actix", "forks": 227},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 10, "stars": 807, "owner": "actix", "forks": 228},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 3, "stars": 4549, "owner": "mimblewimble", "forks": 909},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 22, "stars": 4750, "owner": "rust-lang", "forks": 1293},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 228, "owner": "input-output-hk", "forks": 81},
@@ -22,6 +22,6 @@
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 41, "stars": 6115, "owner": "nushell", "forks": 220},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 25, "stars": 4665, "owner": "amethyst", "forks": 517},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 9, "stars": 3584, "owner": "Geal", "forks": 412},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 12, "stars": 1861, "owner": "async-rs", "forks": 166},
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 12, "stars": 1862, "owner": "async-rs", "forks": 166},
 {"description": "Game data snapshot manager.", "language": "Rust", "repo": "yyx", "new_stars": 4, "stars": 175, "owner": "OnmyojiX", "forks": 32}
 ]

@@ -1,20 +1,20 @@
 [
 {"description": "Personal CRM. Remember everything about your friends and family.", "language": "PHP", "repo": "monica", "new_stars": 898, "stars": 8908, "owner": "monicahq", "forks": 1071},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 346, "stars": 19819, "owner": "laravel", "forks": 7008},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 346, "stars": 19819, "owner": "laravel", "forks": 7007},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 278, "stars": 15564, "owner": "sebastianbergmann", "forks": 1828},
 {"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 88, "stars": 443, "owner": "inertiajs", "forks": 109},
 {"description": "Instant Upgrades and Instant Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 317, "stars": 2351, "owner": "rectorphp", "forks": 169},
 {"description": "Invoices, Expenses and Tasks built with Laravel and Flutter", "language": "PHP", "repo": "invoiceninja", "new_stars": 80, "stars": 4759, "owner": "invoiceninja", "forks": 1529},
-{"description": "Free & Open Source Invoice App for Freelancers & Small Businesses", "language": "PHP", "repo": "crater", "new_stars": 1709, "stars": 2007, "owner": "bytefury", "forks": 333},
+{"description": "Free & Open Source Invoice App for Freelancers & Small Businesses", "language": "PHP", "repo": "crater", "new_stars": 1711, "stars": 2009, "owner": "bytefury", "forks": 333},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 127, "stars": 2611, "owner": "vimeo", "forks": 197},
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 171, "stars": 2484, "owner": "akaunting", "forks": 908},
 {"description": "A PHP library for generating RFC 4122 version 1, 3, 4, and 5 universally unique identifiers (UUID).", "language": "PHP", "repo": "uuid", "new_stars": 212, "stars": 9888, "owner": "ramsey", "forks": 348},
-{"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 167, "stars": 9259, "owner": "barryvdh", "forks": 860},
+{"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 167, "stars": 9259, "owner": "barryvdh", "forks": 862},
 {"description": "Official repository of the AWS SDK for PHP (@awsforphp)", "language": "PHP", "repo": "aws-sdk-php", "new_stars": 95, "stars": 4499, "owner": "aws", "forks": 915},
 {"description": "\u82f9\u679ccms-v10,maccms-v10,\u5f00\u6e90CMS,\u5185\u5bb9\u7ba1\u7406\u7cfb\u7edf,\u89c6\u9891\u5206\u4eab\u7a0b\u5e8f,\u5206\u96c6\u5267\u60c5\u7a0b\u5e8f,\u7f51\u5740\u5bfc\u822a\u7a0b\u5e8f,\u65b0\u95fb\u7a0b\u5e8f,\u6f2b\u753b\u7a0b\u5e8f,\u56fe\u7247\u7a0b\u5e8f", "language": "PHP", "repo": "maccms10", "new_stars": 87, "stars": 309, "owner": "magicblack", "forks": 108},
 {"description": "High performance, full-stack PHP framework delivered as a C extension.", "language": "PHP", "repo": "cphalcon", "new_stars": 78, "stars": 10024, "owner": "phalcon", "forks": 1821},
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 168, "stars": 4764, "owner": "doctrine", "forks": 175},
-{"description": "Directus 8 Suite \u2014 Future-Proof Headless CMS & API for Custom Databases", "language": "PHP", "repo": "directus", "new_stars": 232, "stars": 5504, "owner": "directus", "forks": 541},
+{"description": "Directus 8 Suite \u2014 Future-Proof Headless CMS & API for Custom Databases", "language": "PHP", "repo": "directus", "new_stars": 233, "stars": 5505, "owner": "directus", "forks": 541},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 167, "stars": 4393, "owner": "PrestaShop", "forks": 3503},
 {"description": "PHPMD is a spin-off project of PHP Depend and aims to be a PHP equivalent of the well known Java tool PMD. PHPMD can be seen as an user friendly frontend application for the raw metrics stream measured by PHP Depend.", "language": "PHP", "repo": "phpmd", "new_stars": 44, "stars": 1601, "owner": "phpmd", "forks": 288},
 {"description": "HTML to PDF converter (PHP5)", "language": "PHP", "repo": "dompdf", "new_stars": 100, "stars": 6566, "owner": "dompdf", "forks": 1308},
@@ -23,5 +23,5 @@
 {"description": "A modern Docker LAMP stack and MEAN stack for local development", "language": "PHP", "repo": "devilbox", "new_stars": 63, "stars": 2581, "owner": "cytopia", "forks": 344},
 {"description": "Onedrive Directory Index", "language": "PHP", "repo": "oneindex", "new_stars": 157, "stars": 3636, "owner": "donwa", "forks": 1515},
 {"description": "Simple AP setup & WiFi management for the Raspberry Pi", "language": "PHP", "repo": "raspap-webgui", "new_stars": 117, "stars": 1719, "owner": "billz", "forks": 444},
-{"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 107, "stars": 2713, "owner": "beyondcode", "forks": 200}
+{"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 107, "stars": 2713, "owner": "beyondcode", "forks": 201}
 ]

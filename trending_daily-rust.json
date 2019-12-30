@@ -1,18 +1,18 @@
 [
-{"description": "\ud83e\uddf0 The Rust SQL Toolkit.", "language": "Rust", "repo": "sqlx", "new_stars": 361, "stars": 395, "owner": "launchbadge", "forks": 8},
+{"description": "\ud83e\uddf0 The Rust SQL Toolkit.", "language": "Rust", "repo": "sqlx", "new_stars": 361, "stars": 397, "owner": "launchbadge", "forks": 8},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 23, "stars": 15328, "owner": "servo", "forks": 2297},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 50, "stars": 6119, "owner": "nushell", "forks": 220},
-{"description": "A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.", "language": "Rust", "repo": "rage", "new_stars": 101, "stars": 161, "owner": "str4d", "forks": 0},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 26, "stars": 4670, "owner": "amethyst", "forks": 517},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 53, "stars": 6119, "owner": "nushell", "forks": 220},
+{"description": "A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.", "language": "Rust", "repo": "rage", "new_stars": 101, "stars": 163, "owner": "str4d", "forks": 0},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 31, "stars": 4670, "owner": "amethyst", "forks": 517},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 11, "stars": 1976, "owner": "ggez", "forks": 250},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 30, "stars": 2449, "owner": "dani-garcia", "forks": 166},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 26, "stars": 2449, "owner": "dani-garcia", "forks": 167},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 20, "stars": 2390, "owner": "bytecodealliance", "forks": 212},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 12, "stars": 839, "owner": "Edu4rdSHL", "forks": 106},
 {"description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.", "language": "Rust", "repo": "kata-containers", "new_stars": 18, "stars": 268, "owner": "kata-containers", "forks": 33},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 46, "stars": 8227, "owner": "ogham", "forks": 268},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 38, "stars": 17066, "owner": "sharkdp", "forks": 341},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 51, "stars": 8227, "owner": "ogham", "forks": 268},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 38, "stars": 17067, "owner": "sharkdp", "forks": 341},
 {"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 18, "stars": 2450, "owner": "spacejam", "forks": 109},
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 27, "stars": 13645, "owner": "libra", "forks": 2022},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 27, "stars": 13646, "owner": "libra", "forks": 2023},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 91, "stars": 6148, "owner": "actix", "forks": 442},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 24, "stars": 2220, "owner": "bytecodealliance", "forks": 165},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 5, "stars": 5776, "owner": "paritytech", "forks": 1412},
@@ -23,5 +23,5 @@
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 12, "stars": 976, "owner": "rust-windowing", "forks": 278},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 11, "stars": 4138, "owner": "rust-lang", "forks": 545},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 4, "stars": 228, "owner": "input-output-hk", "forks": 81},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 12, "stars": 3585, "owner": "Geal", "forks": 411}
+{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 11, "stars": 3585, "owner": "Geal", "forks": 411}
 ]

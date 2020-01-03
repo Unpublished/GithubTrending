@@ -1,15 +1,15 @@
 [
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 644, "stars": 18373, "owner": "ocornut", "forks": 2919},
-{"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 236, "stars": 6512, "owner": "MarlinFirmware", "forks": 8404},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 489, "stars": 9107, "owner": "arendst", "forks": 2132},
-{"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 318, "stars": 1219, "owner": "Aircoookie", "forks": 206},
-{"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 1511, "stars": 4626, "owner": "trojan-gfw", "forks": 917},
-{"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 459, "stars": 8196, "owner": "lemire", "forks": 461},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 643, "stars": 18373, "owner": "ocornut", "forks": 2919},
+{"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 236, "stars": 6512, "owner": "MarlinFirmware", "forks": 8403},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 487, "stars": 9108, "owner": "arendst", "forks": 2133},
+{"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 320, "stars": 1221, "owner": "Aircoookie", "forks": 206},
+{"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 1511, "stars": 4627, "owner": "trojan-gfw", "forks": 918},
+{"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 457, "stars": 8197, "owner": "lemire", "forks": 461},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 335, "stars": 1768, "owner": "vesoft-inc", "forks": 298},
-{"description": "Free and Open Source Reverse Engineering Platform powered by radare2", "language": "C++", "repo": "cutter", "new_stars": 464, "stars": 6295, "owner": "radareorg", "forks": 509},
+{"description": "Free and Open Source Reverse Engineering Platform powered by radare2", "language": "C++", "repo": "cutter", "new_stars": 463, "stars": 6296, "owner": "radareorg", "forks": 509},
 {"description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!", "language": "C++", "repo": "MuseScore", "new_stars": 114, "stars": 4247, "owner": "musescore", "forks": 1312},
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 177, "stars": 1586, "owner": "microsoft", "forks": 365},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 701, "stars": 26957, "owner": "godotengine", "forks": 5184},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 705, "stars": 26958, "owner": "godotengine", "forks": 5184},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 409, "stars": 8112, "owner": "qbittorrent", "forks": 1440},
 {"description": "Secure, Reliable, Transport", "language": "C++", "repo": "srt", "new_stars": 49, "stars": 812, "owner": "Haivision", "forks": 278},
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 831, "stars": 12635, "owner": "mozilla", "forks": 2365},
@@ -23,5 +23,5 @@
 {"description": "MSVC's implementation of the C++ Standard Library.", "language": "C++", "repo": "STL", "new_stars": 286, "stars": 4740, "owner": "microsoft", "forks": 481},
 {"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 91, "stars": 3722, "owner": "CleverRaven", "forks": 2106},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 170, "stars": 14137, "owner": "facebook", "forks": 3416},
-{"description": "libco is a coroutine library which is widely used in wechat back-end service. It has been running on tens of thousands of machines since 2013.", "language": "C++", "repo": "libco", "new_stars": 125, "stars": 5049, "owner": "Tencent", "forks": 1415}
+{"description": "libco is a coroutine library which is widely used in wechat back-end service. It has been running on tens of thousands of machines since 2013.", "language": "C++", "repo": "libco", "new_stars": 127, "stars": 5049, "owner": "Tencent", "forks": 1415}
 ]

@@ -1,11 +1,11 @@
 [
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 651, "stars": 18384, "owner": "ocornut", "forks": 2925},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 228, "stars": 6518, "owner": "MarlinFirmware", "forks": 8408},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 489, "stars": 9117, "owner": "arendst", "forks": 2134},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 490, "stars": 9117, "owner": "arendst", "forks": 2134},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 324, "stars": 1227, "owner": "Aircoookie", "forks": 205},
-{"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 1558, "stars": 4679, "owner": "trojan-gfw", "forks": 926},
+{"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 1558, "stars": 4681, "owner": "trojan-gfw", "forks": 926},
 {"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 462, "stars": 8200, "owner": "lemire", "forks": 460},
-{"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 339, "stars": 1773, "owner": "vesoft-inc", "forks": 298},
+{"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 340, "stars": 1773, "owner": "vesoft-inc", "forks": 298},
 {"description": "Free and Open Source Reverse Engineering Platform powered by radare2", "language": "C++", "repo": "cutter", "new_stars": 465, "stars": 6297, "owner": "radareorg", "forks": 509},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 408, "stars": 8118, "owner": "qbittorrent", "forks": 1440},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 710, "stars": 26974, "owner": "godotengine", "forks": 5182},
@@ -22,6 +22,6 @@
 {"description": "Go engine with no human-provided knowledge, modeled after the AlphaGo Zero paper.", "language": "C++", "repo": "leela-zero", "new_stars": 63, "stars": 3824, "owner": "leela-zero", "forks": 809},
 {"description": "RandomX, CryptoNight and Argon2 CPU miner", "language": "C++", "repo": "xmrig", "new_stars": 117, "stars": 2875, "owner": "xmrig", "forks": 1287},
 {"description": "32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required", "language": "C++", "repo": "BIGTREETECH-SKR-V1.3", "new_stars": 27, "stars": 319, "owner": "bigtreetech", "forks": 276},
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 2031, "stars": 6722, "owner": "CoatiSoftware", "forks": 356},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 2034, "stars": 6725, "owner": "CoatiSoftware", "forks": 356},
 {"description": "ONNX-TensorRT: TensorRT backend for ONNX", "language": "C++", "repo": "onnx-tensorrt", "new_stars": 55, "stars": 561, "owner": "onnx", "forks": 160}
 ]

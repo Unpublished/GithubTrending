@@ -1,7 +1,7 @@
 [
 {"description": "Learn to write an embedded OS in Rust on the Raspberry Pi", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 27, "stars": 1175, "owner": "rust-embedded", "forks": 53},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 65, "stars": 7094, "owner": "rust-lang", "forks": 740},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 41573, "owner": "rust-lang", "forks": 6391},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 41574, "owner": "rust-lang", "forks": 6391},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 6, "stars": 4780, "owner": "RustPython", "forks": 328},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 6, "stars": 1378, "owner": "hyperium", "forks": 86},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 17506, "owner": "BurntSushi", "forks": 760},
@@ -9,7 +9,7 @@
 {"description": "Rust version of THU uCore OS. Linux compatible.", "language": "Rust", "repo": "rCore", "new_stars": 22, "stars": 736, "owner": "rcore-os", "forks": 118},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 11, "stars": 1995, "owner": "rust-analyzer", "forks": 210},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 6, "stars": 1363, "owner": "rust-lang", "forks": 327},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 1, "stars": 1365, "owner": "seanmonstar", "forks": 134},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 1, "stars": 1365, "owner": "seanmonstar", "forks": 135},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 7, "stars": 857, "owner": "tower-rs", "forks": 69},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 31, "stars": 17187, "owner": "xi-editor", "forks": 632},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 11, "stars": 6693, "owner": "tikv", "forks": 990},
@@ -22,6 +22,6 @@
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 8, "stars": 13669, "owner": "libra", "forks": 2028},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 12, "stars": 5101, "owner": "rust-lang", "forks": 1060},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 2, "stars": 2688, "owner": "rust-lang", "forks": 459},
-{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 6, "stars": 1150, "owner": "librespot-org", "forks": 155},
+{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 6, "stars": 1151, "owner": "librespot-org", "forks": 155},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 9, "stars": 2878, "owner": "Spotifyd", "forks": 138}
 ]

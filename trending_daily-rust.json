@@ -1,5 +1,5 @@
 [
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 21, "stars": 2516, "owner": "dani-garcia", "forks": 170},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 21, "stars": 2517, "owner": "dani-garcia", "forks": 170},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 25, "stars": 6972, "owner": "tokio-rs", "forks": 601},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 22, "stars": 3335, "owner": "hecrj", "forks": 72},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 41589, "owner": "rust-lang", "forks": 6392},
@@ -10,7 +10,7 @@
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 10, "stars": 3558, "owner": "pingcap", "forks": 475},
 {"description": "Proc macro for using doc comments as context for errors/logs/profiling/whatever via `tracing`", "language": "Rust", "repo": "spandoc", "new_stars": 20, "stars": 21, "owner": "yaahc", "forks": 0},
 {"description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant", "language": "Rust", "repo": "rio", "new_stars": 28, "stars": 35, "owner": "spacejam", "forks": 0},
-{"description": "A comparison of some web frameworks and libs written in Rust", "language": "Rust", "repo": "rust-web-framework-comparison", "new_stars": 14, "stars": 1729, "owner": "flosse", "forks": 78},
+{"description": "A comparison of some web frameworks and libs written in Rust", "language": "Rust", "repo": "rust-web-framework-comparison", "new_stars": 16, "stars": 1729, "owner": "flosse", "forks": 78},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 7, "stars": 1496, "owner": "ruffle-rs", "forks": 30},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 6, "stars": 2612, "owner": "autozimu", "forks": 224},
 {"description": "A High-Performance Monitoring & Observability Data Router", "language": "Rust", "repo": "vector", "new_stars": 11, "stars": 3265, "owner": "timberio", "forks": 161},
@@ -22,6 +22,6 @@
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 16, "stars": 6160, "owner": "nushell", "forks": 224},
 {"description": "Type-safe, type-level and stateless Rust graphics framework", "language": "Rust", "repo": "luminance-rs", "new_stars": 6, "stars": 403, "owner": "phaazon", "forks": 31},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 5, "stars": 490, "owner": "tokio-rs", "forks": 61},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 48, "stars": 9914, "owner": "yewstack", "forks": 375},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 48, "stars": 9916, "owner": "yewstack", "forks": 375},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 9, "stars": 857, "owner": "tower-rs", "forks": 69}
 ]

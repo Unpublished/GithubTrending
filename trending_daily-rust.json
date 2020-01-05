@@ -1,11 +1,11 @@
 [
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 21, "stars": 2504, "owner": "dani-garcia", "forks": 170},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 21, "stars": 2505, "owner": "dani-garcia", "forks": 170},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 20, "stars": 6971, "owner": "tokio-rs", "forks": 599},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 22, "stars": 3333, "owner": "hecrj", "forks": 71},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 46, "stars": 41583, "owner": "rust-lang", "forks": 6393},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 46, "stars": 41584, "owner": "rust-lang", "forks": 6393},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 17, "stars": 1999, "owner": "rust-analyzer", "forks": 210},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 15, "stars": 4703, "owner": "amethyst", "forks": 525},
-{"description": "Learn to write an embedded OS in Rust on the Raspberry Pi", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 39, "stars": 1180, "owner": "rust-embedded", "forks": 53},
+{"description": "Learn to write an embedded OS in Rust on the Raspberry Pi", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 39, "stars": 1181, "owner": "rust-embedded", "forks": 53},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 1378, "owner": "hyperium", "forks": 86},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 10, "stars": 3556, "owner": "pingcap", "forks": 475},
 {"description": "Proc macro for using doc comments as context for errors/logs/profiling/whatever via `tracing`", "language": "Rust", "repo": "spandoc", "new_stars": 20, "stars": 21, "owner": "yaahc", "forks": 0},
@@ -20,7 +20,7 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 9, "stars": 2278, "owner": "tree-sitter", "forks": 143},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 8, "stars": 2402, "owner": "crossbeam-rs", "forks": 171},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 16, "stars": 6158, "owner": "nushell", "forks": 223},
-{"description": "Type-safe, type-level and stateless Rust graphics framework", "language": "Rust", "repo": "luminance-rs", "new_stars": 12, "stars": 402, "owner": "phaazon", "forks": 31},
+{"description": "Type-safe, type-level and stateless Rust graphics framework", "language": "Rust", "repo": "luminance-rs", "new_stars": 12, "stars": 403, "owner": "phaazon", "forks": 31},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 5, "stars": 488, "owner": "tokio-rs", "forks": 61},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 37, "stars": 9903, "owner": "yewstack", "forks": 375},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 10, "stars": 857, "owner": "tower-rs", "forks": 69}

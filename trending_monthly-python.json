@@ -1,11 +1,11 @@
 [
 {"description": "12306\u667a\u80fd\u5237\u7968\uff0c\u8ba2\u7968", "language": "Python", "repo": "12306", "new_stars": 9369, "stars": 27335, "owner": "testerSunshine", "forks": 8700},
-{"description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.", "language": "Python", "repo": "ML-From-Scratch", "new_stars": 1072, "stars": 14975, "owner": "eriklindernoren", "forks": 2835},
-{"description": "Build and manage real-life data science projects with ease.", "language": "Python", "repo": "metaflow", "new_stars": 2514, "stars": 2610, "owner": "Netflix", "forks": 168},
-{"description": "Command-line program to download videos from YouTube.com and other video sites", "language": "Python", "repo": "youtube-dl", "new_stars": 1541, "stars": 59875, "owner": "ytdl-org", "forks": 10399},
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 2387, "stars": 79799, "owner": "donnemartin", "forks": 13280},
+{"description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.", "language": "Python", "repo": "ML-From-Scratch", "new_stars": 1072, "stars": 14978, "owner": "eriklindernoren", "forks": 2835},
+{"description": "Build and manage real-life data science projects with ease.", "language": "Python", "repo": "metaflow", "new_stars": 2514, "stars": 2611, "owner": "Netflix", "forks": 168},
+{"description": "Command-line program to download videos from YouTube.com and other video sites", "language": "Python", "repo": "youtube-dl", "new_stars": 1541, "stars": 59875, "owner": "ytdl-org", "forks": 10401},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 2387, "stars": 79800, "owner": "donnemartin", "forks": 13279},
 {"description": "Find pearls on open-source seashore \u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee", "language": "Python", "repo": "HelloGitHub", "new_stars": 4281, "stars": 23690, "owner": "521xueweihan", "forks": 3232},
-{"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 1036, "stars": 7493, "owner": "tiangolo", "forks": 421},
+{"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 1036, "stars": 7494, "owner": "tiangolo", "forks": 421},
 {"description": "Dumb downloader that scrapes the web", "language": "Python", "repo": "you-get", "new_stars": 1228, "stars": 29717, "owner": "soimort", "forks": 5896},
 {"description": "12306 \u8d2d\u7968\u52a9\u624b\uff0c\u652f\u6301\u96c6\u7fa4\uff0c\u591a\u8d26\u53f7\uff0c\u591a\u4efb\u52a1\u8d2d\u7968\u4ee5\u53ca Web \u9875\u9762\u7ba1\u7406", "language": "Python", "repo": "py12306", "new_stars": 3209, "stars": 10735, "owner": "pjialin", "forks": 2867},
 {"description": "Infinite adventures await!", "language": "Python", "repo": "AIDungeon", "new_stars": 1959, "stars": 2096, "owner": "AIDungeon", "forks": 341},
@@ -15,7 +15,7 @@
 {"description": "Generate an interactive geo heatmap from your Google location data", "language": "Python", "repo": "geo-heatmap", "new_stars": 680, "stars": 1513, "owner": "luka1199", "forks": 153},
 {"description": "An open source AutoML toolkit for neural architecture search, model compression and hyper-parameter tuning.", "language": "Python", "repo": "nni", "new_stars": 1110, "stars": 4822, "owner": "microsoft", "forks": 620},
 {"description": "Python bindings for FFmpeg - with complex filtering support", "language": "Python", "repo": "ffmpeg-python", "new_stars": 875, "stars": 2946, "owner": "kkroening", "forks": 277},
-{"description": "Python dependency management and packaging made easy.", "language": "Python", "repo": "poetry", "new_stars": 1297, "stars": 8502, "owner": "python-poetry", "forks": 558},
+{"description": "Python dependency management and packaging made easy.", "language": "Python", "repo": "poetry", "new_stars": 1297, "stars": 8503, "owner": "python-poetry", "forks": 558},
 {"description": "Python\u722c\u866b\u4ee3\u7406IP\u6c60(proxy pool)", "language": "Python", "repo": "proxy_pool", "new_stars": 502, "stars": 8676, "owner": "jhao104", "forks": 2526},
 {"description": "Open source home automation that puts local control and privacy first", "language": "Python", "repo": "home-assistant", "new_stars": 919, "stars": 30541, "owner": "home-assistant", "forks": 8960},
 {"description": "Dive into Deep Learning: an interactive deep learning book with code, math, and discussions, based on the NumPy interface.", "language": "Python", "repo": "d2l-en", "new_stars": 537, "stars": 3584, "owner": "d2l-ai", "forks": 941},
@@ -23,5 +23,5 @@
 {"description": "DeDRM tools for ebooks", "language": "Python", "repo": "DeDRM_tools", "new_stars": 158, "stars": 6848, "owner": "apprenticeharper", "forks": 615},
 {"description": "Official repository for Spyder - The Scientific Python Development Environment", "language": "Python", "repo": "spyder", "new_stars": 137, "stars": 5054, "owner": "spyder-ide", "forks": 1024},
 {"description": "\u6570\u636e\u7ed3\u6784\u548c\u7b97\u6cd5\u5fc5\u77e5\u5fc5\u4f1a\u768450\u4e2a\u4ee3\u7801\u5b9e\u73b0", "language": "Python", "repo": "algo", "new_stars": 1046, "stars": 13080, "owner": "wangzheng0822", "forks": 3978},
-{"description": "Python \u6296\u97f3\u673a\u5668\u4eba\uff0c\u8bba\u5982\u4f55\u5728\u6296\u97f3\u4e0a\u627e\u5230\u6f02\u4eae\u5c0f\u59d0\u59d0\uff1f", "language": "Python", "repo": "Douyin-Bot", "new_stars": 340, "stars": 6524, "owner": "wangshub", "forks": 1335}
+{"description": "Python \u6296\u97f3\u673a\u5668\u4eba\uff0c\u8bba\u5982\u4f55\u5728\u6296\u97f3\u4e0a\u627e\u5230\u6f02\u4eae\u5c0f\u59d0\u59d0\uff1f", "language": "Python", "repo": "Douyin-Bot", "new_stars": 339, "stars": 6524, "owner": "wangshub", "forks": 1335}
 ]

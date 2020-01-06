@@ -1,15 +1,15 @@
 [
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 659, "stars": 18407, "owner": "ocornut", "forks": 2929},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 233, "stars": 6523, "owner": "MarlinFirmware", "forks": 8426},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 536, "stars": 9162, "owner": "arendst", "forks": 2142},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX", "language": "C++", "repo": "Tasmota", "new_stars": 536, "stars": 9164, "owner": "arendst", "forks": 2142},
 {"description": "Control WS2812B RGB LEDs with an ESP8266 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 329, "stars": 1232, "owner": "Aircoookie", "forks": 206},
-{"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 1647, "stars": 4770, "owner": "trojan-gfw", "forks": 941},
+{"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 1647, "stars": 4770, "owner": "trojan-gfw", "forks": 942},
 {"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 476, "stars": 8214, "owner": "lemire", "forks": 460},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 346, "stars": 1779, "owner": "vesoft-inc", "forks": 299},
-{"description": "Free and Open Source Reverse Engineering Platform powered by radare2", "language": "C++", "repo": "cutter", "new_stars": 478, "stars": 6311, "owner": "radareorg", "forks": 519},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 435, "stars": 8142, "owner": "qbittorrent", "forks": 1447},
+{"description": "Free and Open Source Reverse Engineering Platform powered by radare2", "language": "C++", "repo": "cutter", "new_stars": 479, "stars": 6311, "owner": "radareorg", "forks": 519},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 435, "stars": 8143, "owner": "qbittorrent", "forks": 1447},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 740, "stars": 27004, "owner": "godotengine", "forks": 5187},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 219, "stars": 10930, "owner": "telegramdesktop", "forks": 2575},
+{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 219, "stars": 10932, "owner": "telegramdesktop", "forks": 2574},
 {"description": "The Flutter engine", "language": "C++", "repo": "engine", "new_stars": 121, "stars": 3809, "owner": "flutter", "forks": 2094},
 {"description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!", "language": "C++", "repo": "MuseScore", "new_stars": 130, "stars": 4260, "owner": "musescore", "forks": 1316},
 {"description": "SRS is a simple live streaming cluster, a simple joy.", "language": "C++", "repo": "srs", "new_stars": 225, "stars": 7102, "owner": "ossrs", "forks": 2622},
@@ -18,10 +18,10 @@
 {"description": "ONNX Runtime: cross-platform, high performance scoring engine for ML models", "language": "C++", "repo": "onnxruntime", "new_stars": 182, "stars": 1589, "owner": "microsoft", "forks": 365},
 {"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 73, "stars": 4260, "owner": "mamedev", "forks": 1050},
 {"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 330, "stars": 13159, "owner": "commaai", "forks": 3240},
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 2179, "stars": 6875, "owner": "CoatiSoftware", "forks": 370},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 2187, "stars": 6879, "owner": "CoatiSoftware", "forks": 370},
 {"description": "ONNX-TensorRT: TensorRT backend for ONNX", "language": "C++", "repo": "onnx-tensorrt", "new_stars": 55, "stars": 562, "owner": "onnx", "forks": 160},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 944, "stars": 79849, "owner": "electron", "forks": 10639},
 {"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 158, "stars": 2065, "owner": "TheCherno", "forks": 324},
 {"description": "Examples and demos for the new Vulkan API", "language": "C++", "repo": "Vulkan", "new_stars": 115, "stars": 4584, "owner": "SaschaWillems", "forks": 922},
-{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 100, "stars": 3728, "owner": "CleverRaven", "forks": 2106}
+{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 100, "stars": 3728, "owner": "CleverRaven", "forks": 2107}
 ]

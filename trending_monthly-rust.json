@@ -1,13 +1,13 @@
 [
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 89, "stars": 828, "owner": "actix", "forks": 239},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 89, "stars": 829, "owner": "actix", "forks": 239},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1391, "stars": 248869, "owner": "996icu", "forks": 21231},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 59, "stars": 231, "owner": "input-output-hk", "forks": 83},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 342, "stars": 2537, "owner": "dani-garcia", "forks": 172},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 486, "stars": 9924, "owner": "yewstack", "forks": 376},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 361, "stars": 2543, "owner": "dani-garcia", "forks": 172},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 488, "stars": 9924, "owner": "yewstack", "forks": 376},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 360, "stars": 6210, "owner": "actix", "forks": 446},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 642, "stars": 7112, "owner": "rust-lang", "forks": 741},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 840, "stars": 41605, "owner": "rust-lang", "forks": 6394},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 168, "stars": 2261, "owner": "seanmonstar", "forks": 324},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 168, "stars": 2262, "owner": "seanmonstar", "forks": 324},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 131, "stars": 2814, "owner": "rustwasm", "forks": 360},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 139, "stars": 4778, "owner": "rust-lang", "forks": 1304},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 137, "stars": 5104, "owner": "rust-lang", "forks": 1060},
@@ -15,7 +15,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 400, "stars": 13517, "owner": "rust-unofficial", "forks": 907},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 121, "stars": 4152, "owner": "rust-lang", "forks": 549},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 69, "stars": 1154, "owner": "librespot-org", "forks": 156},
-{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 147, "stars": 2008, "owner": "PyO3", "forks": 142},
+{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 147, "stars": 2009, "owner": "PyO3", "forks": 142},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 59, "stars": 985, "owner": "rust-windowing", "forks": 280},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 205, "stars": 5742, "owner": "hyperium", "forks": 809},
 {"description": "A High-Performance Monitoring & Observability Data Router", "language": "Rust", "repo": "vector", "new_stars": 203, "stars": 3268, "owner": "timberio", "forks": 161},
@@ -23,5 +23,5 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 211, "stars": 2004, "owner": "rust-analyzer", "forks": 211},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 1065, "stars": 1546, "owner": "redox-os", "forks": 85},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 143, "stars": 4707, "owner": "amethyst", "forks": 525},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 348, "stars": 5353, "owner": "BurntSushi", "forks": 174}
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 348, "stars": 5354, "owner": "BurntSushi", "forks": 174}
 ]

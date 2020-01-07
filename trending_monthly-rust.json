@@ -9,11 +9,11 @@
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 478, "stars": 9955, "owner": "yewstack", "forks": 378},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 361, "stars": 6236, "owner": "actix", "forks": 448},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 132, "stars": 4787, "owner": "rust-lang", "forks": 1306},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 245, "stars": 17201, "owner": "xi-editor", "forks": 634},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 245, "stars": 17202, "owner": "xi-editor", "forks": 634},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 374, "stars": 13537, "owner": "rust-unofficial", "forks": 907},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 118, "stars": 2817, "owner": "rustwasm", "forks": 363},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 132, "stars": 5106, "owner": "rust-lang", "forks": 1062},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 132, "stars": 4711, "owner": "amethyst", "forks": 527},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 132, "stars": 5107, "owner": "rust-lang", "forks": 1062},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 132, "stars": 4711, "owner": "amethyst", "forks": 528},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 140, "stars": 2017, "owner": "PyO3", "forks": 143},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 191, "stars": 5748, "owner": "hyperium", "forks": 810},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 116, "stars": 4159, "owner": "rust-lang", "forks": 550},
@@ -22,6 +22,6 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 190, "stars": 2013, "owner": "rust-analyzer", "forks": 211},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 67, "stars": 2619, "owner": "autozimu", "forks": 225},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 347, "stars": 5362, "owner": "BurntSushi", "forks": 175},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 155, "stars": 4885, "owner": "diesel-rs", "forks": 457},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 155, "stars": 4886, "owner": "diesel-rs", "forks": 457},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 70, "stars": 1157, "owner": "librespot-org", "forks": 156}
 ]

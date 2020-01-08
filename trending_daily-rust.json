@@ -1,9 +1,9 @@
 [
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 42, "stars": 5375, "owner": "starship", "forks": 217},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 42, "stars": 5378, "owner": "starship", "forks": 217},
 {"description": "Operating system", "language": "Rust", "repo": "redshirt", "new_stars": 110, "stars": 677, "owner": "tomaka", "forks": 9},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 31, "stars": 9989, "owner": "yewstack", "forks": 379},
 {"description": "The NES you left outside in the rain but let dry and still kind of works", "language": "Rust", "repo": "nestur", "new_stars": 89, "stars": 264, "owner": "spieglt", "forks": 7},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 1404, "owner": "hyperium", "forks": 88},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 1404, "owner": "hyperium", "forks": 89},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 18, "stars": 6188, "owner": "nushell", "forks": 226},
 {"description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant", "language": "Rust", "repo": "rio", "new_stars": 24, "stars": 93, "owner": "spacejam", "forks": 3},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 234, "owner": "input-output-hk", "forks": 87},
@@ -20,8 +20,8 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 8, "stars": 2121, "owner": "graphql-rust", "forks": 154},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 4, "stars": 1558, "owner": "redox-os", "forks": 85},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 8, "stars": 2028, "owner": "PyO3", "forks": 145},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 19838, "owner": "jwilm", "forks": 933},
-{"description": "Migrate C code to Rust", "language": "Rust", "repo": "c2rust", "new_stars": 94, "stars": 1264, "owner": "immunant", "forks": 53},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 19839, "owner": "jwilm", "forks": 933},
+{"description": "Migrate C code to Rust", "language": "Rust", "repo": "c2rust", "new_stars": 94, "stars": 1266, "owner": "immunant", "forks": 53},
 {"description": "Record Query - A tool for doing record analysis and transformation", "language": "Rust", "repo": "rq", "new_stars": 41, "stars": 1443, "owner": "dflemstr", "forks": 42},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 17, "stars": 1963, "owner": "o2sh", "forks": 97}
 ]

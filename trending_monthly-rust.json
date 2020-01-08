@@ -12,9 +12,9 @@
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 124, "stars": 2825, "owner": "rustwasm", "forks": 362},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 174, "stars": 2292, "owner": "seanmonstar", "forks": 325},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 366, "stars": 6249, "owner": "actix", "forks": 449},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 119, "stars": 4168, "owner": "rust-lang", "forks": 550},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 119, "stars": 4169, "owner": "rust-lang", "forks": 550},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 129, "stars": 5114, "owner": "rust-lang", "forks": 1061},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 132, "stars": 4720, "owner": "amethyst", "forks": 528},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 132, "stars": 4721, "owner": "amethyst", "forks": 528},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 147, "stars": 2028, "owner": "PyO3", "forks": 145},
 {"description": "A High-Performance Monitoring & Observability Data Router", "language": "Rust", "repo": "vector", "new_stars": 201, "stars": 3281, "owner": "timberio", "forks": 162},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 50, "stars": 988, "owner": "rust-windowing", "forks": 280},
@@ -23,5 +23,5 @@
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 65, "stars": 2622, "owner": "autozimu", "forks": 224},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 48, "stars": 1371, "owner": "rust-lang", "forks": 331},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 351, "stars": 5370, "owner": "BurntSushi", "forks": 175},
-{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 72, "stars": 1158, "owner": "librespot-org", "forks": 158}
+{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 72, "stars": 1159, "owner": "librespot-org", "forks": 158}
 ]

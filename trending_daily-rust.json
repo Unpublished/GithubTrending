@@ -1,13 +1,13 @@
 [
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 42, "stars": 5352, "owner": "starship", "forks": 217},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 42, "stars": 5359, "owner": "starship", "forks": 217},
 {"description": "Operating system", "language": "Rust", "repo": "redshirt", "new_stars": 110, "stars": 665, "owner": "tomaka", "forks": 9},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 31, "stars": 9986, "owner": "yewstack", "forks": 379},
-{"description": "The NES you left outside in the rain but let dry and still kind of works", "language": "Rust", "repo": "nestur", "new_stars": 88, "stars": 256, "owner": "spieglt", "forks": 7},
+{"description": "The NES you left outside in the rain but let dry and still kind of works", "language": "Rust", "repo": "nestur", "new_stars": 89, "stars": 256, "owner": "spieglt", "forks": 7},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 1404, "owner": "hyperium", "forks": 88},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 18, "stars": 6183, "owner": "nushell", "forks": 226},
 {"description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant", "language": "Rust", "repo": "rio", "new_stars": 24, "stars": 91, "owner": "spacejam", "forks": 3},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 234, "owner": "input-output-hk", "forks": 86},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 13, "stars": 6998, "owner": "tokio-rs", "forks": 608},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 13, "stars": 6999, "owner": "tokio-rs", "forks": 608},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 13, "stars": 896, "owner": "Edu4rdSHL", "forks": 115},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 8, "stars": 2823, "owner": "rustwasm", "forks": 362},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 9, "stars": 3716, "owner": "Peltoche", "forks": 134},
@@ -21,7 +21,7 @@
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 4, "stars": 1557, "owner": "redox-os", "forks": 85},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 8, "stars": 2026, "owner": "PyO3", "forks": 144},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 19835, "owner": "jwilm", "forks": 933},
-{"description": "Migrate C code to Rust", "language": "Rust", "repo": "c2rust", "new_stars": 93, "stars": 1257, "owner": "immunant", "forks": 53},
+{"description": "Migrate C code to Rust", "language": "Rust", "repo": "c2rust", "new_stars": 94, "stars": 1258, "owner": "immunant", "forks": 53},
 {"description": "Record Query - A tool for doing record analysis and transformation", "language": "Rust", "repo": "rq", "new_stars": 41, "stars": 1441, "owner": "dflemstr", "forks": 42},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 17, "stars": 1960, "owner": "o2sh", "forks": 97}
 ]

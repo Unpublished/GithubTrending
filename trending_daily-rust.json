@@ -1,9 +1,9 @@
 [
-{"description": "Operating system", "language": "Rust", "repo": "redshirt", "new_stars": 110, "stars": 653, "owner": "tomaka", "forks": 8},
+{"description": "Operating system", "language": "Rust", "repo": "redshirt", "new_stars": 110, "stars": 655, "owner": "tomaka", "forks": 8},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 2288, "owner": "seanmonstar", "forks": 325},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 31, "stars": 9977, "owner": "yewstack", "forks": 379},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 31, "stars": 9978, "owner": "yewstack", "forks": 379},
 {"description": "(Rust) repl", "language": "Rust", "repo": "papyrus", "new_stars": 27, "stars": 236, "owner": "kurtlawrence", "forks": 6},
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 13, "stars": 3682, "owner": "Rigellute", "forks": 101},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 13, "stars": 3683, "owner": "Rigellute", "forks": 101},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 1403, "owner": "hyperium", "forks": 88},
 {"description": null, "language": "Rust", "repo": "evcxr", "new_stars": 1, "stars": 1088, "owner": "google", "forks": 57},
 {"description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant", "language": "Rust", "repo": "rio", "new_stars": 24, "stars": 87, "owner": "spacejam", "forks": 3},
@@ -22,6 +22,6 @@
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 2, "stars": 1375, "owner": "seanmonstar", "forks": 135},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 4, "stars": 3564, "owner": "clap-rs", "forks": 351},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 4, "stars": 1601, "owner": "tock", "forks": 217},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 19832, "owner": "jwilm", "forks": 932},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 20, "stars": 19833, "owner": "jwilm", "forks": 932},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 8, "stars": 2822, "owner": "rustwasm", "forks": 363}
 ]

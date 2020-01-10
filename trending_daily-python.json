@@ -1,9 +1,9 @@
 [
 {"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 38, "stars": 46406, "owner": "django", "forks": 20014},
 {"description": "Open source platform for the machine learning lifecycle", "language": "Python", "repo": "mlflow", "new_stars": 7, "stars": 5553, "owner": "mlflow", "forks": 1176},
-{"description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.", "language": "Python", "repo": "big-list-of-naughty-strings", "new_stars": 55, "stars": 34298, "owner": "minimaxir", "forks": 1502},
+{"description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.", "language": "Python", "repo": "big-list-of-naughty-strings", "new_stars": 55, "stars": 34299, "owner": "minimaxir", "forks": 1502},
 {"description": "A simple, yet elegant HTTP library.", "language": "Python", "repo": "requests", "new_stars": 15, "stars": 41274, "owner": "psf", "forks": 7494},
-{"description": "Generate your lover with your photo", "language": "Python", "repo": "CoupleGenerator", "new_stars": 101, "stars": 371, "owner": "irfanICMLL", "forks": 44},
+{"description": "Generate your lover with your photo", "language": "Python", "repo": "CoupleGenerator", "new_stars": 101, "stars": 372, "owner": "irfanICMLL", "forks": 44},
 {"description": "ALBERT: A Lite BERT for Self-supervised Learning of Language Representations", "language": "Python", "repo": "ALBERT", "new_stars": 109, "stars": 1154, "owner": "google-research", "forks": 144},
 {"description": "Parallel computing with task scheduling", "language": "Python", "repo": "dask", "new_stars": 11, "stars": 6132, "owner": "dask", "forks": 977},
 {"description": "Dive into CPython internals, trying to illustrate every detail of CPython implementation | CPython \u6e90\u7801\u9605\u8bfb\u7b14\u8bb0, \u591a\u56fe\u5c55\u793a\u5e95\u5c42\u5b9e\u73b0\u7ec6\u8282", "language": "Python", "repo": "CPython-Internals", "new_stars": 111, "stars": 1775, "owner": "zpoint", "forks": 131},
@@ -12,16 +12,16 @@
 {"description": "Integrate GraphQL into your Django project.", "language": "Python", "repo": "graphene-django", "new_stars": 9, "stars": 2558, "owner": "graphql-python", "forks": 463},
 {"description": "Web APIs for Django.", "language": "Python", "repo": "django-rest-framework", "new_stars": 15, "stars": 16277, "owner": "encode", "forks": 4773},
 {"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 71, "stars": 7682, "owner": "tiangolo", "forks": 435},
-{"description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!", "language": "Python", "repo": "Deep-Learning-Papers-Reading-Roadmap", "new_stars": 43, "stars": 25239, "owner": "floodsung", "forks": 5768},
+{"description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!", "language": "Python", "repo": "Deep-Learning-Papers-Reading-Roadmap", "new_stars": 43, "stars": 25241, "owner": "floodsung", "forks": 5768},
 {"description": "Analytical Web Apps for Python & R. No JavaScript Required.", "language": "Python", "repo": "dash", "new_stars": 11, "stars": 10661, "owner": "plotly", "forks": 1090},
 {"description": "Comprehensive Python Cheatsheet", "language": "Python", "repo": "python-cheatsheet", "new_stars": 33, "stars": 10203, "owner": "gto76", "forks": 2169},
 {"description": "A library for encrypted, privacy preserving machine learning", "language": "Python", "repo": "PySyft", "new_stars": 3, "stars": 4332, "owner": "OpenMined", "forks": 988},
 {"description": "A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.", "language": "Python", "repo": "ray", "new_stars": 17, "stars": 10031, "owner": "ray-project", "forks": 1429},
-{"description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.", "language": "Python", "repo": "SlowFast", "new_stars": 186, "stars": 1587, "owner": "facebookresearch", "forks": 233},
+{"description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.", "language": "Python", "repo": "SlowFast", "new_stars": 186, "stars": 1590, "owner": "facebookresearch", "forks": 233},
 {"description": "\u5927\u9ea6\u7f51\u81ea\u52a8\u62a2\u7968\u5de5\u5177", "language": "Python", "repo": "Autoticket", "new_stars": 14, "stars": 576, "owner": "Entromorgan", "forks": 126},
 {"description": "matplotlib: plotting with Python", "language": "Python", "repo": "matplotlib", "new_stars": 7, "stars": 10644, "owner": "matplotlib", "forks": 4709},
-{"description": "A little bit about a linux kernel", "language": "Python", "repo": "linux-insides", "new_stars": 17, "stars": 20614, "owner": "0xAX", "forks": 2267},
+{"description": "A little bit about a linux kernel", "language": "Python", "repo": "linux-insides", "new_stars": 17, "stars": 20615, "owner": "0xAX", "forks": 2267},
 {"description": "Open deep learning compiler stack for cpu, gpu and specialized accelerators", "language": "Python", "repo": "incubator-tvm", "new_stars": 10, "stars": 4889, "owner": "apache", "forks": 1299},
 {"description": "A Python library for the Docker Engine API", "language": "Python", "repo": "docker-py", "new_stars": 9, "stars": 4525, "owner": "docker", "forks": 1330},
-{"description": "A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!", "language": "Python", "repo": "localstack", "new_stars": 22, "stars": 22340, "owner": "localstack", "forks": 1592}
+{"description": "A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!", "language": "Python", "repo": "localstack", "new_stars": 22, "stars": 22340, "owner": "localstack", "forks": 1593}
 ]

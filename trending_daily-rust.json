@@ -1,6 +1,6 @@
 [
-{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 244, "stars": 656, "owner": "BLAKE3-team", "forks": 20},
-{"description": "A new way to see and navigate directory trees", "language": "Rust", "repo": "broot", "new_stars": 416, "stars": 2314, "owner": "Canop", "forks": 53},
+{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 244, "stars": 665, "owner": "BLAKE3-team", "forks": 20},
+{"description": "A new way to see and navigate directory trees", "language": "Rust", "repo": "broot", "new_stars": 432, "stars": 2325, "owner": "Canop", "forks": 53},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 1797, "owner": "paritytech", "forks": 504},
 {"description": "Elasticsearch Rust Client", "language": "Rust", "repo": "elasticsearch-rs", "new_stars": 27, "stars": 158, "owner": "elastic", "forks": 7},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 31, "stars": 17254, "owner": "sharkdp", "forks": 347},
@@ -10,11 +10,11 @@
 {"description": "\ud83e\uddf0 The Rust SQL Toolkit.", "language": "Rust", "repo": "sqlx", "new_stars": 33, "stars": 775, "owner": "launchbadge", "forks": 17},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 4, "stars": 2411, "owner": "bytecodealliance", "forks": 216},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 12, "stars": 1425, "owner": "hyperium", "forks": 89},
-{"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 76, "stars": 762, "owner": "dtolnay", "forks": 9},
+{"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 77, "stars": 763, "owner": "dtolnay", "forks": 9},
 {"description": "A Kubernetes implementation of the Open Application Model specification", "language": "Rust", "repo": "rudr", "new_stars": 8, "stars": 1189, "owner": "oam-dev", "forks": 98},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 17, "stars": 8338, "owner": "ogham", "forks": 272},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 7, "stars": 3528, "owner": "rayon-rs", "forks": 221},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 8682, "owner": "SergioBenitez", "forks": 600},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 10, "stars": 8683, "owner": "SergioBenitez", "forks": 600},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 6, "stars": 3737, "owner": "Peltoche", "forks": 134},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 11840, "owner": "sharkdp", "forks": 305},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 7, "stars": 506, "owner": "tokio-rs", "forks": 61},
@@ -23,5 +23,5 @@
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 8, "stars": 2286, "owner": "bytecodealliance", "forks": 171},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 10, "stars": 4734, "owner": "amethyst", "forks": 530},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 6, "stars": 1048, "owner": "cloudflare", "forks": 134},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 4, "stars": 3573, "owner": "clap-rs", "forks": 354}
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 5, "stars": 3574, "owner": "clap-rs", "forks": 354}
 ]

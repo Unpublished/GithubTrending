@@ -1,12 +1,12 @@
 [
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 58, "stars": 18551, "owner": "ocornut", "forks": 2949},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 58, "stars": 18550, "owner": "ocornut", "forks": 2949},
 {"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 79, "stars": 56484, "owner": "microsoft", "forks": 5411},
-{"description": "MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.", "language": "C++", "repo": "OpenMQTTGateway", "new_stars": 18, "stars": 1451, "owner": "1technophile", "forks": 309},
+{"description": "MQTT gateway for ESP8266, ESP32, Sonoff RF Bridge or Arduino with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, beacons detection, mi flora / mi jia / LYWSD02/ Mi Scale compatibility, SMS & LORA.", "language": "C++", "repo": "OpenMQTTGateway", "new_stars": 17, "stars": 1453, "owner": "1technophile", "forks": 309},
 {"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 7, "stars": 4273, "owner": "mamedev", "forks": 1054},
-{"description": "Reverse engineering course by Z0F. Focuses on x64 Windows.", "language": "C++", "repo": "Z0FCourse_ReverseEngineering", "new_stars": 64, "stars": 139, "owner": "0xZ0F", "forks": 14},
-{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 8, "stars": 9268, "owner": "yuzu-emu", "forks": 632},
-{"description": "Space exploration, trading, and combat game.", "language": "C++", "repo": "endless-sky", "new_stars": 4, "stars": 2294, "owner": "endless-sky", "forks": 528},
-{"description": "A Modern C++ Parallel Task Programming Library", "language": "C++", "repo": "cpp-taskflow", "new_stars": 12, "stars": 2791, "owner": "cpp-taskflow", "forks": 326},
+{"description": "Reverse engineering course by Z0F. Focuses on x64 Windows.", "language": "C++", "repo": "Z0FCourse_ReverseEngineering", "new_stars": 67, "stars": 142, "owner": "0xZ0F", "forks": 14},
+{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 7, "stars": 9268, "owner": "yuzu-emu", "forks": 632},
+{"description": "Space exploration, trading, and combat game.", "language": "C++", "repo": "endless-sky", "new_stars": 5, "stars": 2295, "owner": "endless-sky", "forks": 529},
+{"description": "A Modern C++ Parallel Task Programming Library", "language": "C++", "repo": "cpp-taskflow", "new_stars": 10, "stars": 2791, "owner": "cpp-taskflow", "forks": 326},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 13, "stars": 7582, "owner": "gabime", "forks": 1665},
 {"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 1, "stars": 537, "owner": "OneLoneCoder", "forks": 187},
 {"description": "Open Source toolpath generator for 3D printers", "language": "C++", "repo": "Slic3r", "new_stars": 0, "stars": 2323, "owner": "slic3r", "forks": 1083},
@@ -22,6 +22,6 @@
 {"description": "A TensorFlow implementation of Baidu's DeepSpeech architecture", "language": "C++", "repo": "DeepSpeech", "new_stars": 11, "stars": 12735, "owner": "mozilla", "forks": 2374},
 {"description": "Home automation firmware for ESP8266-based devices", "language": "C++", "repo": "espurna", "new_stars": 5, "stars": 1981, "owner": "xoseperez", "forks": 457},
 {"description": "An open-source x64/x32 debugger for windows.", "language": "C++", "repo": "x64dbg", "new_stars": 7, "stars": 34672, "owner": "x64dbg", "forks": 1215},
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 15, "stars": 14165, "owner": "google", "forks": 5620},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 14, "stars": 14165, "owner": "google", "forks": 5620},
 {"description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.", "language": "C++", "repo": "BIGTREETECH-SKR-mini-E3", "new_stars": 2, "stars": 218, "owner": "bigtreetech", "forks": 261}
 ]

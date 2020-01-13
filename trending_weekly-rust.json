@@ -1,14 +1,14 @@
 [
 {"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 315, "stars": 5544, "owner": "starship", "forks": 227},
-{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 77, "stars": 6220, "owner": "nushell", "forks": 230},
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 168, "stars": 3809, "owner": "Rigellute", "forks": 106},
+{"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 78, "stars": 6221, "owner": "nushell", "forks": 230},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 169, "stars": 3810, "owner": "Rigellute", "forks": 106},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 185, "stars": 10062, "owner": "yewstack", "forks": 380},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 222, "stars": 41757, "owner": "rust-lang", "forks": 6401},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 57, "stars": 914, "owner": "Edu4rdSHL", "forks": 118},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 62, "stars": 1436, "owner": "hyperium", "forks": 89},
 {"description": "Learn to write an embedded OS in Rust on the Raspberry Pi", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 69, "stars": 1235, "owner": "rust-embedded", "forks": 54},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 16, "stars": 4568, "owner": "mimblewimble", "forks": 913},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 69, "stars": 8700, "owner": "SergioBenitez", "forks": 602},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 70, "stars": 8701, "owner": "SergioBenitez", "forks": 602},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 12, "stars": 720, "owner": "paritytech", "forks": 175},
 {"description": "Operating system", "language": "Rust", "repo": "redshirt", "new_stars": 526, "stars": 728, "owner": "tomaka", "forks": 11},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 12, "stars": 241, "owner": "input-output-hk", "forks": 87},
@@ -22,6 +22,6 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 75, "stars": 7031, "owner": "tokio-rs", "forks": 619},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 72, "stars": 2946, "owner": "Spotifyd", "forks": 139},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 17, "stars": 442, "owner": "dtolnay", "forks": 94},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 131, "stars": 19895, "owner": "alacritty", "forks": 935},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 132, "stars": 19896, "owner": "alacritty", "forks": 935},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 27, "stars": 3536, "owner": "rayon-rs", "forks": 221}
 ]

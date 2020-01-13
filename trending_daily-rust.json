@@ -1,10 +1,10 @@
 [
-{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 617, "stars": 1025, "owner": "BLAKE3-team", "forks": 33},
-{"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 734, "stars": 2609, "owner": "Canop", "forks": 54},
+{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 617, "stars": 1026, "owner": "BLAKE3-team", "forks": 33},
+{"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 737, "stars": 2612, "owner": "Canop", "forks": 54},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 57, "stars": 41754, "owner": "rust-lang", "forks": 6402},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 6, "stars": 993, "owner": "rust-windowing", "forks": 280},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 21, "stars": 3388, "owner": "hecrj", "forks": 76},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 20, "stars": 1433, "owner": "hyperium", "forks": 89},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 21, "stars": 1434, "owner": "hyperium", "forks": 89},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 6, "stars": 2632, "owner": "autozimu", "forks": 225},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 3, "stars": 837, "owner": "actix", "forks": 244},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 10, "stars": 4803, "owner": "rust-lang", "forks": 1308},
@@ -13,7 +13,7 @@
 {"description": "\ud83e\uddf0 The Rust SQL Toolkit.", "language": "Rust", "repo": "sqlx", "new_stars": 55, "stars": 796, "owner": "launchbadge", "forks": 17},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 26, "stars": 8699, "owner": "SergioBenitez", "forks": 602},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 22, "stars": 2944, "owner": "Spotifyd", "forks": 139},
-{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 335, "stars": 344, "owner": "huggingface", "forks": 9},
+{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 336, "stars": 345, "owner": "huggingface", "forks": 9},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 29, "stars": 8349, "owner": "ogham", "forks": 272},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 41, "stars": 19893, "owner": "alacritty", "forks": 935},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 5, "stars": 1169, "owner": "librespot-org", "forks": 159},
@@ -22,6 +22,6 @@
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 3, "stars": 1375, "owner": "rust-lang", "forks": 333},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 6, "stars": 1222, "owner": "xi-editor", "forks": 84},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 3609, "owner": "gfx-rs", "forks": 413},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 33, "stars": 13607, "owner": "rust-unofficial", "forks": 913},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 34, "stars": 13608, "owner": "rust-unofficial", "forks": 913},
 {"description": "oreboot is a fork of coreboot, with C removed, written in Rust.", "language": "Rust", "repo": "oreboot", "new_stars": 10, "stars": 475, "owner": "oreboot", "forks": 29}
 ]

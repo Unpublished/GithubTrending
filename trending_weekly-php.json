@@ -2,7 +2,7 @@
 {"description": "PHP_CodeSniffer tokenizes PHP, JavaScript and CSS files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 40, "stars": 7266, "owner": "squizlabs", "forks": 1182},
 {"description": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 35, "stars": 1826, "owner": "bagisto", "forks": 552},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 56, "stars": 7277, "owner": "doctrine", "forks": 2172},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 82, "stars": 19926, "owner": "laravel", "forks": 7026},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 82, "stars": 19927, "owner": "laravel", "forks": 7026},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 153, "stars": 57047, "owner": "laravel", "forks": 17631},
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 41, "stars": 2538, "owner": "akaunting", "forks": 927},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 52, "stars": 8006, "owner": "phpstan", "forks": 594},
@@ -10,10 +10,10 @@
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 49, "stars": 3966, "owner": "firefly-iii", "forks": 530},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 66, "stars": 15651, "owner": "sebastianbergmann", "forks": 1833},
 {"description": "Official repository of the AWS SDK for PHP (@awsforphp)", "language": "PHP", "repo": "aws-sdk-php", "new_stars": 19, "stars": 4527, "owner": "aws", "forks": 922},
-{"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 59, "stars": 4837, "owner": "doctrine", "forks": 178},
+{"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 58, "stars": 4838, "owner": "doctrine", "forks": 178},
 {"description": "OOP Proxy wrappers utilities - generates and manages proxies of your objects", "language": "PHP", "repo": "ProxyManager", "new_stars": 53, "stars": 3408, "owner": "Ocramius", "forks": 135},
 {"description": "A platform to create documentation/wiki content built with PHP & Laravel", "language": "PHP", "repo": "BookStack", "new_stars": 61, "stars": 3932, "owner": "BookStackApp", "forks": 647},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 92, "stars": 22019, "owner": "composer", "forks": 5713},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 91, "stars": 22020, "owner": "composer", "forks": 5713},
 {"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 21, "stars": 6539, "owner": "googleapis", "forks": 2947},
 {"description": "A modern Docker LAMP stack and MEAN stack for local development", "language": "PHP", "repo": "devilbox", "new_stars": 52, "stars": 2647, "owner": "cytopia", "forks": 352},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 93, "stars": 16717, "owner": "Seldaek", "forks": 1613},
@@ -22,6 +22,6 @@
 {"description": null, "language": "PHP", "repo": "passport", "new_stars": 21, "stars": 2316, "owner": "laravel", "forks": 532},
 {"description": "Symfony Bundle for Doctrine ORM and DBAL", "language": "PHP", "repo": "DoctrineBundle", "new_stars": 47, "stars": 3017, "owner": "doctrine", "forks": 342},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 31, "stars": 8091, "owner": "Maatwebsite", "forks": 1293},
-{"description": "HTML to PDF converter (PHP5)", "language": "PHP", "repo": "dompdf", "new_stars": 33, "stars": 6608, "owner": "dompdf", "forks": 1311},
-{"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 45, "stars": 9318, "owner": "barryvdh", "forks": 868}
+{"description": "HTML to PDF converter (PHP5)", "language": "PHP", "repo": "dompdf", "new_stars": 32, "stars": 6608, "owner": "dompdf", "forks": 1311},
+{"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 44, "stars": 9318, "owner": "barryvdh", "forks": 868}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 825, "stars": 1393, "owner": "BLAKE3-team", "forks": 43},
-{"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 779, "stars": 2941, "owner": "Canop", "forks": 60},
+{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 823, "stars": 1393, "owner": "BLAKE3-team", "forks": 43},
+{"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 779, "stars": 2942, "owner": "Canop", "forks": 60},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 136, "stars": 1555, "owner": "hyperium", "forks": 95},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 107, "stars": 13786, "owner": "libra", "forks": 2043},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 101, "stars": 17663, "owner": "BurntSushi", "forks": 770},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 103, "stars": 17663, "owner": "BurntSushi", "forks": 770},
 {"description": "\ud83e\uddf0 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.", "language": "Rust", "repo": "sqlx", "new_stars": 175, "stars": 934, "owner": "launchbadge", "forks": 22},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 55, "stars": 2074, "owner": "rust-analyzer", "forks": 215},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 56, "stars": 2837, "owner": "cloudflare", "forks": 131},
@@ -19,9 +19,9 @@
 {"description": "High performance Rust ECS library", "language": "Rust", "repo": "legion", "new_stars": 43, "stars": 374, "owner": "TomGillen", "forks": 33},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 137, "stars": 17375, "owner": "sharkdp", "forks": 345},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 27, "stars": 1015, "owner": "rust-windowing", "forks": 282},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 69, "stars": 8394, "owner": "ogham", "forks": 270},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 68, "stars": 8394, "owner": "ogham", "forks": 270},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 38, "stars": 943, "owner": "Edu4rdSHL", "forks": 122},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 62, "stars": 8739, "owner": "SergioBenitez", "forks": 604},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 74, "stars": 13648, "owner": "rust-unofficial", "forks": 912},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 73, "stars": 13648, "owner": "rust-unofficial", "forks": 912},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 22, "stars": 3546, "owner": "rayon-rs", "forks": 220}
 ]

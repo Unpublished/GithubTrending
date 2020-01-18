@@ -1,11 +1,11 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 46, "stars": 13784, "owner": "libra", "forks": 2043},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 41, "stars": 1431, "owner": "seanmonstar", "forks": 143},
+{"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 46, "stars": 13786, "owner": "libra", "forks": 2043},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 41, "stars": 1432, "owner": "seanmonstar", "forks": 143},
 {"description": "\ud83e\uddf0 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL.", "language": "Rust", "repo": "sqlx", "new_stars": 21, "stars": 934, "owner": "launchbadge", "forks": 22},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 33, "stars": 1661, "owner": "ruffle-rs", "forks": 31},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 33, "stars": 1662, "owner": "ruffle-rs", "forks": 31},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 8, "stars": 2327, "owner": "seanmonstar", "forks": 330},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 7, "stars": 856, "owner": "actix", "forks": 263},
-{"description": "Blazing fast concurrent HashMap for Rust.", "language": "Rust", "repo": "dashmap", "new_stars": 29, "stars": 259, "owner": "xacrimon", "forks": 10},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 7, "stars": 856, "owner": "actix", "forks": 264},
+{"description": "Blazing fast concurrent HashMap for Rust.", "language": "Rust", "repo": "dashmap", "new_stars": 32, "stars": 259, "owner": "xacrimon", "forks": 10},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 10, "stars": 7070, "owner": "tokio-rs", "forks": 623},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 9, "stars": 6870, "owner": "swc-project", "forks": 124},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 7, "stars": 1925, "owner": "async-rs", "forks": 180},
@@ -22,6 +22,6 @@
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 3, "stars": 252, "owner": "input-output-hk", "forks": 91},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 1, "stars": 725, "owner": "paritytech", "forks": 176},
 {"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 8, "stars": 5319, "owner": "wasmerio", "forks": 195},
-{"description": null, "language": "Rust", "repo": "stuck", "new_stars": 13, "stars": 69, "owner": "jonhoo", "forks": 1},
+{"description": null, "language": "Rust", "repo": "stuck", "new_stars": 13, "stars": 70, "owner": "jonhoo", "forks": 1},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 11, "stars": 13648, "owner": "rust-unofficial", "forks": 912}
 ]

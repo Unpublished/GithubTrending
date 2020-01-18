@@ -1,7 +1,7 @@
 [
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 82, "stars": 7639, "owner": "gabime", "forks": 1664},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 126, "stars": 17134, "owner": "nlohmann", "forks": 2964},
-{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 519, "stars": 56748, "owner": "microsoft", "forks": 5435},
+{"description": "The new Windows Terminal, and the original Windows console host - all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 519, "stars": 56749, "owner": "microsoft", "forks": 5435},
 {"description": "Facebook AI Research's Automatic Speech Recognition Toolkit", "language": "C++", "repo": "wav2letter", "new_stars": 515, "stars": 4696, "owner": "facebookresearch", "forks": 744},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 89, "stars": 14226, "owner": "google", "forks": 5639},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 409, "stars": 2205, "owner": "vesoft-inc", "forks": 314},
@@ -16,12 +16,12 @@
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 221, "stars": 27348, "owner": "godotengine", "forks": 5243},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 223, "stars": 35450, "owner": "pytorch", "forks": 8890},
 {"description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities", "language": "C++", "repo": "ORB_SLAM2", "new_stars": 33, "stars": 4713, "owner": "raulmur", "forks": 3058},
-{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 27, "stars": 4414, "owner": "google", "forks": 655},
+{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 27, "stars": 4415, "owner": "google", "forks": 655},
 {"description": "32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required", "language": "C++", "repo": "BIGTREETECH-SKR-V1.3", "new_stars": 12, "stars": 334, "owner": "bigtreetech", "forks": 305},
 {"description": "Starting code for the GildedRose Refactoring Kata in many programming languages.", "language": "C++", "repo": "GildedRose-Refactoring-Kata", "new_stars": 9, "stars": 1024, "owner": "emilybache", "forks": 1640},
 {"description": "Milvus -- the world's fastest vector search engine.", "language": "C++", "repo": "milvus", "new_stars": 152, "stars": 2627, "owner": "milvus-io", "forks": 389},
 {"description": "Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL", "language": "C++", "repo": "mapbox-gl-native", "new_stars": 7, "stars": 3669, "owner": "mapbox", "forks": 1181},
-{"description": "Mirror of Visualization Toolkit repository", "language": "C++", "repo": "VTK", "new_stars": 9, "stars": 1259, "owner": "Kitware", "forks": 713},
+{"description": "Mirror of Visualization Toolkit repository", "language": "C++", "repo": "VTK", "new_stars": 9, "stars": 1259, "owner": "Kitware", "forks": 714},
 {"description": "Fix for SFV's online timing desync/one sided rollback bug", "language": "C++", "repo": "SFVNetcodeFix", "new_stars": 38, "stars": 145, "owner": "AltimorTASDK", "forks": 11},
-{"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 129, "stars": 13360, "owner": "commaai", "forks": 3276}
+{"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 129, "stars": 13361, "owner": "commaai", "forks": 3276}
 ]

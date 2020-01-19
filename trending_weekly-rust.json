@@ -1,13 +1,13 @@
 [
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 271, "stars": 6505, "owner": "fafhrd91", "forks": 882},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 186, "stars": 4196, "owner": "actix", "forks": 419},
-{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 838, "stars": 1416, "owner": "BLAKE3-team", "forks": 46},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 271, "stars": 6507, "owner": "fafhrd91", "forks": 883},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 186, "stars": 4197, "owner": "actix", "forks": 420},
+{"description": "The BLAKE3 cryptographic hash function", "language": "Rust", "repo": "BLAKE3", "new_stars": 838, "stars": 1417, "owner": "BLAKE3-team", "forks": 46},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 137, "stars": 13812, "owner": "libra", "forks": 2045},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 146, "stars": 1565, "owner": "hyperium", "forks": 97},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 100, "stars": 1527, "owner": "seanmonstar", "forks": 150},
-{"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 801, "stars": 2979, "owner": "Canop", "forks": 61},
+{"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 801, "stars": 2980, "owner": "Canop", "forks": 61},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 1644, "stars": 1676, "owner": "huggingface", "forks": 78},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 77, "stars": 8756, "owner": "SergioBenitez", "forks": 607},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 77, "stars": 8757, "owner": "SergioBenitez", "forks": 607},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 63, "stars": 2083, "owner": "rust-analyzer", "forks": 217},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 32, "stars": 861, "owner": "actix", "forks": 286},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 117, "stars": 17677, "owner": "BurntSushi", "forks": 770},
@@ -22,6 +22,6 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 69, "stars": 7087, "owner": "tokio-rs", "forks": 625},
 {"description": "The fastest and cross-platform subdomain enumerator, don't waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 40, "stars": 945, "owner": "Edu4rdSHL", "forks": 123},
 {"description": "Rust DataBase Connectivity (RDBC) :: Common Rust API for database drivers", "language": "Rust", "repo": "rdbc", "new_stars": 73, "stars": 167, "owner": "tokio-rs", "forks": 11},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 83, "stars": 13658, "owner": "rust-unofficial", "forks": 913},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 83, "stars": 13660, "owner": "rust-unofficial", "forks": 913},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 212, "stars": 41913, "owner": "rust-lang", "forks": 6414}
 ]

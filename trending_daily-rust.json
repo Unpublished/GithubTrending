@@ -1,13 +1,13 @@
 [
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 75, "stars": 4203, "owner": "actix", "forks": 421},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 138, "stars": 6510, "owner": "fafhrd91", "forks": 886},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 58, "stars": 1529, "owner": "seanmonstar", "forks": 150},
-{"description": "framework for composable networking services", "language": "Rust", "repo": "actix-net", "new_stars": 41, "stars": 250, "owner": "fafhrd91", "forks": 277},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 75, "stars": 4206, "owner": "actix", "forks": 422},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 138, "stars": 6511, "owner": "fafhrd91", "forks": 888},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 58, "stars": 1530, "owner": "seanmonstar", "forks": 151},
+{"description": "framework for composable networking services", "language": "Rust", "repo": "actix-net", "new_stars": 41, "stars": 251, "owner": "fafhrd91", "forks": 278},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 47, "stars": 2160, "owner": "dessalines", "forks": 109},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 40, "stars": 41915, "owner": "rust-lang", "forks": 6414},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 7, "stars": 3611, "owner": "maps4print", "forks": 151},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 13, "stars": 2083, "owner": "rust-analyzer", "forks": 217},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 15, "stars": 861, "owner": "actix", "forks": 286},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 15, "stars": 861, "owner": "actix", "forks": 287},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 13, "stars": 4823, "owner": "rust-lang", "forks": 1316},
 {"description": "Minimal request library in rust.", "language": "Rust", "repo": "ureq", "new_stars": 46, "stars": 120, "owner": "algesten", "forks": 12},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 3, "stars": 1064, "owner": "cloudflare", "forks": 137},
@@ -22,6 +22,6 @@
 {"description": "Fast and safe evaluation of algebraic expressions", "language": "Rust", "repo": "fasteval", "new_stars": 33, "stars": 34, "owner": "likebike", "forks": 0},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 12, "stars": 1020, "owner": "rust-lang", "forks": 99},
 {"description": "Macros have types!", "language": "Rust", "repo": "unseemly", "new_stars": 20, "stars": 32, "owner": "paulstansifer", "forks": 2},
-{"description": "Protobuf integration for actix web", "language": "Rust", "repo": "actix-protobuf", "new_stars": 1, "stars": 60, "owner": "actix", "forks": 35},
-{"description": "Derive macro for actix framework", "language": "Rust", "repo": "actix-derive", "new_stars": 2, "stars": 30, "owner": "actix", "forks": 41}
+{"description": "Protobuf integration for actix web", "language": "Rust", "repo": "actix-protobuf", "new_stars": 1, "stars": 60, "owner": "actix", "forks": 36},
+{"description": "Derive macro for actix framework", "language": "Rust", "repo": "actix-derive", "new_stars": 2, "stars": 30, "owner": "actix", "forks": 42}
 ]

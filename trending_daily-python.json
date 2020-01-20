@@ -1,17 +1,17 @@
 [
 {"description": "\u84dd\u594f\u4e91 | \u84dd\u594f\u4e91\u5ba2\u6237\u7aef | \u84dd\u594f\u7f51\u76d8 GUI\u7248\u672c", "language": "Python", "repo": "lanzou-gui", "new_stars": 43, "stars": 84, "owner": "rachpt", "forks": 12},
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 185, "stars": 81183, "owner": "donnemartin", "forks": 13541},
-{"description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization", "language": "Python", "repo": "devops-exercises", "new_stars": 699, "stars": 3581, "owner": "bregman-arie", "forks": 389},
-{"description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.", "language": "Python", "repo": "tensortrade", "new_stars": 12, "stars": 955, "owner": "tensortrade-org", "forks": 238},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 185, "stars": 81188, "owner": "donnemartin", "forks": 13545},
+{"description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization", "language": "Python", "repo": "devops-exercises", "new_stars": 699, "stars": 3584, "owner": "bregman-arie", "forks": 390},
+{"description": "An open source reinforcement learning framework for training, evaluating, and deploying robust trading agents.", "language": "Python", "repo": "tensortrade", "new_stars": 12, "stars": 958, "owner": "tensortrade-org", "forks": 238},
 {"description": "Sample code for Channel 9 Python for Beginners course", "language": "Python", "repo": "c9-python-getting-started", "new_stars": 62, "stars": 5572, "owner": "microsoft", "forks": 1432},
 {"description": "Open Machine Learning Course", "language": "Python", "repo": "mlcourse.ai", "new_stars": 4, "stars": 6590, "owner": "Yorko", "forks": 4315},
 {"description": "Custom regex filter list for use with Pi-hole.", "language": "Python", "repo": "pihole-regex", "new_stars": 5, "stars": 356, "owner": "mmotti", "forks": 61},
 {"description": "Declarative statistical visualization library for Python", "language": "Python", "repo": "altair", "new_stars": 23, "stars": 4719, "owner": "altair-viz", "forks": 464},
-{"description": "A library for encrypted, privacy preserving machine learning", "language": "Python", "repo": "PySyft", "new_stars": 202, "stars": 4596, "owner": "OpenMined", "forks": 1044},
-{"description": "custom human activity recognition modules by pose estimation and cascaded inference using sklearn API", "language": "Python", "repo": "ActionAI", "new_stars": 12, "stars": 106, "owner": "smellslikeml", "forks": 37},
+{"description": "A library for encrypted, privacy preserving machine learning", "language": "Python", "repo": "PySyft", "new_stars": 202, "stars": 4597, "owner": "OpenMined", "forks": 1044},
+{"description": "custom human activity recognition modules by pose estimation and cascaded inference using sklearn API", "language": "Python", "repo": "ActionAI", "new_stars": 12, "stars": 107, "owner": "smellslikeml", "forks": 37},
 {"description": "Large-scale pretraining for dialogue", "language": "Python", "repo": "DialoGPT", "new_stars": 11, "stars": 528, "owner": "microsoft", "forks": 78},
 {"description": "Probabilistic time series modeling in Python", "language": "Python", "repo": "gluon-ts", "new_stars": 4, "stars": 892, "owner": "awslabs", "forks": 181},
-{"description": "A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.", "language": "Python", "repo": "ray", "new_stars": 9, "stars": 10131, "owner": "ray-project", "forks": 1449},
+{"description": "A fast and simple framework for building and running distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.", "language": "Python", "repo": "ray", "new_stars": 9, "stars": 10132, "owner": "ray-project", "forks": 1449},
 {"description": "Re-implementation of Triplet Loss with TensorFlow 2.0 on CASIA-WebFace", "language": "Python", "repo": "TripletLossFace", "new_stars": 13, "stars": 39, "owner": "aangfanboy", "forks": 25},
 {"description": "see who unfollowed you with python", "language": "Python", "repo": "ig-followers", "new_stars": 6, "stars": 47, "owner": "aj-4", "forks": 20},
 {"description": "\u7f8e\u675c\u838e\u626b\u63cf\u5668", "language": "Python", "repo": "Medusa", "new_stars": 17, "stars": 127, "owner": "Ascotbe", "forks": 24},
@@ -21,7 +21,7 @@
 {"description": "Easy to use extractive text summarization with BERT", "language": "Python", "repo": "bert-extractive-summarizer", "new_stars": 3, "stars": 160, "owner": "dmmiller612", "forks": 43},
 {"description": "Code for the paper \"Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer\"", "language": "Python", "repo": "text-to-text-transfer-transformer", "new_stars": 52, "stars": 1527, "owner": "google-research", "forks": 158},
 {"description": "vimspector - A multi-language debugging system for Vim", "language": "Python", "repo": "vimspector", "new_stars": 24, "stars": 348, "owner": "puremourning", "forks": 11},
-{"description": "If you think you know Python, think once more!", "language": "Python", "repo": "wtfpython", "new_stars": 34, "stars": 18824, "owner": "satwikkansal", "forks": 1750},
+{"description": "If you think you know Python, think once more!", "language": "Python", "repo": "wtfpython", "new_stars": 34, "stars": 18824, "owner": "satwikkansal", "forks": 1751},
 {"description": "Command-line program to download image-galleries and -collections from several image hosting sites", "language": "Python", "repo": "gallery-dl", "new_stars": 3, "stars": 914, "owner": "mikf", "forks": 114},
-{"description": "Rewrite of the popular wireless network auditor, \"wifite\"", "language": "Python", "repo": "wifite2", "new_stars": 5, "stars": 1987, "owner": "derv82", "forks": 443}
+{"description": "Rewrite of the popular wireless network auditor, \"wifite\"", "language": "Python", "repo": "wifite2", "new_stars": 5, "stars": 1988, "owner": "derv82", "forks": 443}
 ]

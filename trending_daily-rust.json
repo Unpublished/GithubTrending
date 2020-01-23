@@ -3,8 +3,8 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 65, "stars": 6861, "owner": "actix", "forks": 965},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 2864, "owner": "rustwasm", "forks": 371},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 5, "stars": 2995, "owner": "Spotifyd", "forks": 144},
-{"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 4, "stars": 2028, "owner": "vulkano-rs", "forks": 221},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 8791, "owner": "SergioBenitez", "forks": 606},
+{"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 4, "stars": 2028, "owner": "vulkano-rs", "forks": 222},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 9, "stars": 8792, "owner": "SergioBenitez", "forks": 606},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 3, "stars": 15434, "owner": "servo", "forks": 2306},
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 8, "stars": 3337, "owner": "timberio", "forks": 170},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 3, "stars": 683, "owner": "serenity-rs", "forks": 135},
@@ -17,11 +17,11 @@
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 3, "stars": 2888, "owner": "bytecodealliance", "forks": 100},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 5, "stars": 1040, "owner": "greshake", "forks": 177},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 14, "stars": 20015, "owner": "alacritty", "forks": 941},
-{"description": "Yet another web server framework for rust", "language": "Rust", "repo": "rweb", "new_stars": 15, "stars": 32, "owner": "kdy1", "forks": 0},
+{"description": "Yet another web server framework for rust", "language": "Rust", "repo": "rweb", "new_stars": 15, "stars": 33, "owner": "kdy1", "forks": 0},
 {"description": "Audit Cargo.lock files for crates with security vulnerabilities", "language": "Rust", "repo": "cargo-audit", "new_stars": 10, "stars": 484, "owner": "RustSec", "forks": 20},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 3, "stars": 3462, "owner": "tokio-rs", "forks": 413},
-{"description": "A Rust crate that allows you to match, bind, and pack the individual bits of integers.", "language": "Rust", "repo": "bitmatch", "new_stars": 8, "stars": 59, "owner": "porglezomp", "forks": 1},
+{"description": "A Rust crate that allows you to match, bind, and pack the individual bits of integers.", "language": "Rust", "repo": "bitmatch", "new_stars": 8, "stars": 60, "owner": "porglezomp", "forks": 1},
 {"description": "Easily testable and working Rust codes with blog posts to explain them.", "language": "Rust", "repo": "Rust-Full-Stack", "new_stars": 25, "stars": 157, "owner": "steadylearner", "forks": 10},
-{"description": "Plot streaming data from stdin to a tty terminal", "language": "Rust", "repo": "ttyplot-rs", "new_stars": 6, "stars": 29, "owner": "mogenson", "forks": 0},
-{"description": "A CSV parser for Rust, with Serde support.", "language": "Rust", "repo": "rust-csv", "new_stars": 4, "stars": 686, "owner": "BurntSushi", "forks": 101}
+{"description": "Plot streaming data from stdin to a tty terminal", "language": "Rust", "repo": "ttyplot-rs", "new_stars": 6, "stars": 30, "owner": "mogenson", "forks": 0},
+{"description": "A CSV parser for Rust, with Serde support.", "language": "Rust", "repo": "rust-csv", "new_stars": 4, "stars": 687, "owner": "BurntSushi", "forks": 101}
 ]

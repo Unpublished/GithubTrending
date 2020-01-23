@@ -1,14 +1,14 @@
 [
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 563, "stars": 6861, "owner": "actix", "forks": 965},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 265, "stars": 4291, "owner": "actix", "forks": 442},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 265, "stars": 4292, "owner": "actix", "forks": 442},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 366, "stars": 1783, "owner": "huggingface", "forks": 86},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 193, "stars": 1576, "owner": "seanmonstar", "forks": 157},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 133, "stars": 13824, "owner": "libra", "forks": 2050},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 29, "stars": 870, "owner": "actix", "forks": 296},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 72, "stars": 8791, "owner": "SergioBenitez", "forks": 606},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 29, "stars": 871, "owner": "actix", "forks": 296},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 72, "stars": 8792, "owner": "SergioBenitez", "forks": 606},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 79, "stars": 2177, "owner": "dessalines", "forks": 111},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 165, "stars": 17790, "owner": "BurntSushi", "forks": 774},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 58, "stars": 2118, "owner": "rust-analyzer", "forks": 221},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 165, "stars": 17790, "owner": "BurntSushi", "forks": 775},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 58, "stars": 2119, "owner": "rust-analyzer", "forks": 221},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 73, "stars": 7120, "owner": "tokio-rs", "forks": 630},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 215, "stars": 42010, "owner": "rust-lang", "forks": 6427},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 48, "stars": 1571, "owner": "http-rs", "forks": 139},
@@ -23,5 +23,5 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 71, "stars": 13694, "owner": "rust-unofficial", "forks": 918},
 {"description": "PROST! a Protocol Buffers implementation for the Rust Language", "language": "Rust", "repo": "prost", "new_stars": 11, "stars": 864, "owner": "danburkert", "forks": 98},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 17, "stars": 2864, "owner": "rustwasm", "forks": 371},
-{"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 28, "stars": 1325, "owner": "rust-lang", "forks": 206}
+{"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 28, "stars": 1326, "owner": "rust-lang", "forks": 206}
 ]

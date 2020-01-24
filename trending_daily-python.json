@@ -1,18 +1,18 @@
 [
 {"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 61, "stars": 69369, "owner": "public-apis", "forks": 7838},
 {"description": "Analytical Web Apps for Python & R. No JavaScript Required.", "language": "Python", "repo": "dash", "new_stars": 12, "stars": 10766, "owner": "plotly", "forks": 1102},
-{"description": null, "language": "Python", "repo": "flax", "new_stars": 101, "stars": 424, "owner": "google-research", "forks": 17},
+{"description": null, "language": "Python", "repo": "flax", "new_stars": 87, "stars": 426, "owner": "google-research", "forks": 17},
 {"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 68, "stars": 65885, "owner": "TheAlgorithms", "forks": 19906},
 {"description": "High-level library to help with training neural networks in PyTorch", "language": "Python", "repo": "ignite", "new_stars": 4, "stars": 2494, "owner": "pytorch", "forks": 254},
 {"description": "Universal Command Line Interface for Amazon Web Services", "language": "Python", "repo": "aws-cli", "new_stars": 10, "stars": 9101, "owner": "aws", "forks": 2048},
-{"description": "Build and manage real-life data science projects with ease.", "language": "Python", "repo": "metaflow", "new_stars": 16, "stars": 2800, "owner": "Netflix", "forks": 187},
+{"description": "Build and manage real-life data science projects with ease.", "language": "Python", "repo": "metaflow", "new_stars": 15, "stars": 2802, "owner": "Netflix", "forks": 188},
 {"description": "A Django content management system focused on flexibility and user experience", "language": "Python", "repo": "wagtail", "new_stars": 7, "stars": 8336, "owner": "wagtail", "forks": 1819},
 {"description": "This is a SMS And Call Bomber For Linux And Termux", "language": "Python", "repo": "TBomb", "new_stars": 5, "stars": 285, "owner": "TheSpeedX", "forks": 215},
-{"description": "Linux command-line client for ProtonVPN. Written in Python.", "language": "Python", "repo": "protonvpn-cli-ng", "new_stars": 18, "stars": 259, "owner": "ProtonVPN", "forks": 38},
+{"description": "Linux command-line client for ProtonVPN. Written in Python.", "language": "Python", "repo": "protonvpn-cli-ng", "new_stars": 24, "stars": 259, "owner": "ProtonVPN", "forks": 38},
 {"description": "The source code that powers readthedocs.org", "language": "Python", "repo": "readthedocs.org", "new_stars": 5, "stars": 5608, "owner": "readthedocs", "forks": 3032},
-{"description": "A Python library that implements software engineering best-practice for data and ML pipelines.", "language": "Python", "repo": "kedro", "new_stars": 4, "stars": 1855, "owner": "quantumblacklabs", "forks": 178},
+{"description": "A Python library that implements software engineering best-practice for data and ML pipelines.", "language": "Python", "repo": "kedro", "new_stars": 5, "stars": 1855, "owner": "quantumblacklabs", "forks": 178},
 {"description": "StyleGAN2 - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan2", "new_stars": 11, "stars": 2438, "owner": "NVlabs", "forks": 375},
-{"description": "Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants", "language": "Python", "repo": "rasa", "new_stars": 14, "stars": 7608, "owner": "RasaHQ", "forks": 2385},
+{"description": "Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants", "language": "Python", "repo": "rasa", "new_stars": 25, "stars": 7609, "owner": "RasaHQ", "forks": 2385},
 {"description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.", "language": "Python", "repo": "ckan", "new_stars": 1, "stars": 2517, "owner": "ckan", "forks": 1353},
 {"description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy", "language": "Python", "repo": "ambassador", "new_stars": 4, "stars": 2478, "owner": "datawire", "forks": 372},
 {"description": "The official Python client library for Google's discovery based APIs.", "language": "Python", "repo": "google-api-python-client", "new_stars": 7, "stars": 3244, "owner": "googleapis", "forks": 1461},
@@ -21,7 +21,7 @@
 {"description": "The uncompromising Python code formatter", "language": "Python", "repo": "black", "new_stars": 15, "stars": 14354, "owner": "psf", "forks": 791},
 {"description": "A very simple framework for state-of-the-art Natural Language Processing (NLP)", "language": "Python", "repo": "flair", "new_stars": 9, "stars": 8032, "owner": "flairNLP", "forks": 982},
 {"description": "A tutorial showing how to train, convert, and run TensorFlow Lite object detection models on Android devices, the Raspberry Pi, and more!", "language": "Python", "repo": "TensorFlow-Lite-Object-Detection-on-Android-and-Raspberry-Pi", "new_stars": 3, "stars": 238, "owner": "EdjeElectronics", "forks": 99},
-{"description": "Scrapy, a fast high-level web crawling & scraping framework for Python.", "language": "Python", "repo": "scrapy", "new_stars": 15, "stars": 35848, "owner": "scrapy", "forks": 8306},
+{"description": "Scrapy, a fast high-level web crawling & scraping framework for Python.", "language": "Python", "repo": "scrapy", "new_stars": 17, "stars": 35848, "owner": "scrapy", "forks": 8306},
 {"description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more", "language": "Python", "repo": "pandas", "new_stars": 23, "stars": 23168, "owner": "pandas-dev", "forks": 9234},
-{"description": "A list of all named GANs!", "language": "Python", "repo": "the-gan-zoo", "new_stars": 20, "stars": 7732, "owner": "hindupuravinash", "forks": 1657}
+{"description": "A list of all named GANs!", "language": "Python", "repo": "the-gan-zoo", "new_stars": 54, "stars": 7732, "owner": "hindupuravinash", "forks": 1657}
 ]

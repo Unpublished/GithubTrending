@@ -1,7 +1,7 @@
 [
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 580, "stars": 6904, "owner": "actix", "forks": 966},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 580, "stars": 6905, "owner": "actix", "forks": 966},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 263, "stars": 4297, "owner": "actix", "forks": 442},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 188, "stars": 1586, "owner": "seanmonstar", "forks": 161},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 163, "stars": 1586, "owner": "seanmonstar", "forks": 161},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 79, "stars": 7138, "owner": "tokio-rs", "forks": 632},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 61, "stars": 13829, "owner": "libra", "forks": 2049},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 64, "stars": 2182, "owner": "dessalines", "forks": 112},
@@ -15,7 +15,7 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 41, "stars": 2188, "owner": "graphql-rust", "forks": 161},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 56, "stars": 5832, "owner": "hyperium", "forks": 809},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 17, "stars": 3166, "owner": "rust-lang", "forks": 465},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 81, "stars": 2723, "owner": "dani-garcia", "forks": 179},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 82, "stars": 2724, "owner": "dani-garcia", "forks": 179},
 {"description": "A comparison of some web frameworks and libs written in Rust", "language": "Rust", "repo": "rust-web-framework-comparison", "new_stars": 20, "stars": 1795, "owner": "flosse", "forks": 82},
 {"description": "framework for composable networking services", "language": "Rust", "repo": "actix-net", "new_stars": 53, "stars": 264, "owner": "actix", "forks": 301},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 31, "stars": 1330, "owner": "rust-lang", "forks": 206},

@@ -1,11 +1,11 @@
 [
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 249, "stars": 4301, "owner": "actix", "forks": 442},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 560, "stars": 6917, "owner": "actix", "forks": 969},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 560, "stars": 6919, "owner": "actix", "forks": 969},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 163, "stars": 1588, "owner": "seanmonstar", "forks": 160},
 {"description": "framework for composable networking services", "language": "Rust", "repo": "actix-net", "new_stars": 35, "stars": 265, "owner": "actix", "forks": 300},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 76, "stars": 7144, "owner": "tokio-rs", "forks": 633},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 39, "stars": 1576, "owner": "http-rs", "forks": 140},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 205, "stars": 42056, "owner": "rust-lang", "forks": 6432},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 205, "stars": 42057, "owner": "rust-lang", "forks": 6432},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 38, "stars": 2189, "owner": "graphql-rust", "forks": 161},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 168, "stars": 17818, "owner": "BurntSushi", "forks": 780},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 64, "stars": 8804, "owner": "SergioBenitez", "forks": 606},
@@ -22,6 +22,6 @@
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 31, "stars": 4953, "owner": "diesel-rs", "forks": 464},
 {"description": "HTTP authorization extractors for actix-web", "language": "Rust", "repo": "actix-web-httpauth", "new_stars": 0, "stars": 73, "owner": "actix", "forks": 41},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 30, "stars": 4216, "owner": "rust-lang", "forks": 554},
-{"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 18, "stars": 891, "owner": "tower-rs", "forks": 69},
+{"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 18, "stars": 891, "owner": "tower-rs", "forks": 68},
 {"description": "Learn to write an embedded OS in Rust on the Raspberry Pi", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 43, "stars": 1287, "owner": "rust-embedded", "forks": 60}
 ]

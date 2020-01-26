@@ -1,7 +1,7 @@
 [
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 530, "stars": 6958, "owner": "actix", "forks": 973},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 147, "stars": 1599, "owner": "seanmonstar", "forks": 162},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 167, "stars": 17828, "owner": "BurntSushi", "forks": 781},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 167, "stars": 17829, "owner": "BurntSushi", "forks": 781},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 77, "stars": 7153, "owner": "tokio-rs", "forks": 635},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 206, "stars": 4313, "owner": "actix", "forks": 443},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 33, "stars": 1577, "owner": "http-rs", "forks": 140},
@@ -18,7 +18,7 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 30, "stars": 4218, "owner": "rust-lang", "forks": 553},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 29, "stars": 1331, "owner": "rust-lang", "forks": 206},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 64, "stars": 8811, "owner": "SergioBenitez", "forks": 606},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 78, "stars": 894, "owner": "tauri-apps", "forks": 30},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 78, "stars": 895, "owner": "tauri-apps", "forks": 30},
 {"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 37, "stars": 285, "owner": "denoland", "forks": 15},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 37, "stars": 15446, "owner": "servo", "forks": 2304},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 74, "stars": 11977, "owner": "sharkdp", "forks": 308},

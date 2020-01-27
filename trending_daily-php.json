@@ -2,12 +2,12 @@
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 41, "stars": 22657, "owner": "danielmiessler", "forks": 9746},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 9, "stars": 4442, "owner": "PrestaShop", "forks": 3518},
 {"description": "TikTok API", "language": "PHP", "repo": "TikTok", "new_stars": 3, "stars": 42, "owner": "mgp25", "forks": 4},
-{"description": "Clean Code concepts adapted for PHP", "language": "PHP", "repo": "clean-code-php", "new_stars": 6, "stars": 7442, "owner": "jupeter", "forks": 1482},
+{"description": "Clean Code concepts adapted for PHP", "language": "PHP", "repo": "clean-code-php", "new_stars": 6, "stars": 7443, "owner": "jupeter", "forks": 1483},
 {"description": "A basic LAMP stack environment built using Docker Compose.", "language": "PHP", "repo": "docker-compose-lamp", "new_stars": 7, "stars": 725, "owner": "sprintcube", "forks": 368},
 {"description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.", "language": "PHP", "repo": "Mobile-Detect", "new_stars": 3, "stars": 9156, "owner": "serbanghita", "forks": 2448},
 {"description": "Easy localization for Laravel", "language": "PHP", "repo": "laravel-localization", "new_stars": 3, "stars": 2328, "owner": "mcamara", "forks": 356},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 2, "stars": 14390, "owner": "PHPMailer", "forks": 7818},
-{"description": "Serverless PHP on AWS Lambda", "language": "PHP", "repo": "bref", "new_stars": 3, "stars": 1535, "owner": "brefphp", "forks": 151},
+{"description": "Serverless PHP on AWS Lambda", "language": "PHP", "repo": "bref", "new_stars": 3, "stars": 1536, "owner": "brefphp", "forks": 151},
 {"description": "The most widely used PHP client for RabbitMQ", "language": "PHP", "repo": "php-amqplib", "new_stars": 2, "stars": 3293, "owner": "php-amqplib", "forks": 823},
 {"description": "This is a webshell open source project", "language": "PHP", "repo": "webshell", "new_stars": 2, "stars": 5271, "owner": "tennc", "forks": 3931},
 {"description": "Your Own URL Shortener", "language": "PHP", "repo": "YOURLS", "new_stars": 5, "stars": 5675, "owner": "YOURLS", "forks": 1246},
@@ -22,6 +22,6 @@
 {"description": "PPM is a process manager, supercharger and load balancer for modern PHP applications.", "language": "PHP", "repo": "php-pm", "new_stars": 17, "stars": 5929, "owner": "php-pm", "forks": 342},
 {"description": null, "language": "PHP", "repo": "lumen", "new_stars": 4, "stars": 6626, "owner": "laravel", "forks": 876},
 {"description": "Laravel wrapper for Facebook's GraphQL", "language": "PHP", "repo": "graphql-laravel", "new_stars": 4, "stars": 1115, "owner": "rebing", "forks": 161},
-{"description": "2019 Wuhan Coronavirus data (2019-nCoV)", "language": "PHP", "repo": "2019-wuhan-coronavirus-data", "new_stars": 7, "stars": 22, "owner": "globalcitizen", "forks": 3},
+{"description": "2019 Wuhan Coronavirus data (2019-nCoV)", "language": "PHP", "repo": "2019-wuhan-coronavirus-data", "new_stars": 7, "stars": 24, "owner": "globalcitizen", "forks": 4},
 {"description": "Simple static sites with Laravel's Blade", "language": "PHP", "repo": "jigsaw", "new_stars": 10, "stars": 1394, "owner": "tightenco", "forks": 142}
 ]

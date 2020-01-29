@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 77, "stars": 7186, "owner": "tokio-rs", "forks": 640},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 112, "stars": 17887, "owner": "BurntSushi", "forks": 788},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 113, "stars": 17888, "owner": "BurntSushi", "forks": 788},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 66, "stars": 1632, "owner": "seanmonstar", "forks": 164},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 36, "stars": 2203, "owner": "graphql-rust", "forks": 165},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 180, "stars": 42147, "owner": "rust-lang", "forks": 6436},
@@ -14,7 +14,7 @@
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 34, "stars": 3365, "owner": "timberio", "forks": 171},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 13, "stars": 1048, "owner": "greshake", "forks": 181},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 112, "stars": 20108, "owner": "alacritty", "forks": 946},
-{"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 340, "stars": 385, "owner": "Kethku", "forks": 11},
+{"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 343, "stars": 388, "owner": "Kethku", "forks": 11},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 61, "stars": 174, "owner": "deislabs", "forks": 5},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 177, "stars": 6999, "owner": "actix", "forks": 975},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 107, "stars": 17536, "owner": "sharkdp", "forks": 351},

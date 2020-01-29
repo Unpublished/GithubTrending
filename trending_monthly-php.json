@@ -1,14 +1,14 @@
 [
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 311, "stars": 20091, "owner": "laravel", "forks": 7065},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 597, "stars": 22711, "owner": "danielmiessler", "forks": 9767},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 597, "stars": 22711, "owner": "danielmiessler", "forks": 9768},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 369, "stars": 9592, "owner": "nextcloud", "forks": 1742},
 {"description": "Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.", "language": "PHP", "repo": "platform", "new_stars": 51, "stars": 659, "owner": "shopware", "forks": 172},
-{"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 163, "stars": 7358, "owner": "doctrine", "forks": 2183},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 552, "stars": 57293, "owner": "laravel", "forks": 17734},
+{"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 164, "stars": 7358, "owner": "doctrine", "forks": 2183},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 552, "stars": 57293, "owner": "laravel", "forks": 17735},
 {"description": "Docker - Beginners | Intermediate | Advanced", "language": "PHP", "repo": "dockerlabs", "new_stars": 324, "stars": 877, "owner": "collabnix", "forks": 404},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 103, "stars": 2709, "owner": "vimeo", "forks": 210},
 {"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 167, "stars": 9408, "owner": "barryvdh", "forks": 874},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 255, "stars": 18659, "owner": "guzzle", "forks": 2042},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 256, "stars": 18660, "owner": "guzzle", "forks": 2042},
 {"description": "Clean Code concepts adapted for PHP", "language": "PHP", "repo": "clean-code-php", "new_stars": 138, "stars": 7477, "owner": "jupeter", "forks": 1499},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 183, "stars": 4068, "owner": "firefly-iii", "forks": 539},
 {"description": "A magical front-end framework for Laravel", "language": "PHP", "repo": "livewire", "new_stars": 230, "stars": 1694, "owner": "livewire", "forks": 127},
@@ -22,6 +22,6 @@
 {"description": "Doctrine2 behavioral extensions, Translatable, Sluggable, Tree-NestedSet, Timestampable, Loggable, Sortable", "language": "PHP", "repo": "DoctrineExtensions", "new_stars": 61, "stars": 3154, "owner": "Atlantic18", "forks": 1089},
 {"description": null, "language": "PHP", "repo": "passport", "new_stars": 73, "stars": 2348, "owner": "laravel", "forks": 541},
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 155, "stars": 4906, "owner": "doctrine", "forks": 179},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 170, "stars": 14400, "owner": "PHPMailer", "forks": 7828},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 171, "stars": 14401, "owner": "PHPMailer", "forks": 7829},
 {"description": "A modern Docker LAMP stack and MEAN stack for local development", "language": "PHP", "repo": "devilbox", "new_stars": 101, "stars": 2677, "owner": "cytopia", "forks": 354}
 ]

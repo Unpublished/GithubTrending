@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 75, "stars": 7184, "owner": "tokio-rs", "forks": 639},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 108, "stars": 17882, "owner": "BurntSushi", "forks": 784},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 108, "stars": 17883, "owner": "BurntSushi", "forks": 784},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 66, "stars": 1631, "owner": "seanmonstar", "forks": 162},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 34, "stars": 2201, "owner": "graphql-rust", "forks": 165},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 195, "stars": 42143, "owner": "rust-lang", "forks": 6437},
@@ -13,8 +13,8 @@
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 70, "stars": 908, "owner": "tauri-apps", "forks": 30},
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 40, "stars": 3363, "owner": "timberio", "forks": 171},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 20, "stars": 1048, "owner": "greshake", "forks": 181},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 105, "stars": 20099, "owner": "alacritty", "forks": 945},
-{"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 241, "stars": 314, "owner": "Kethku", "forks": 10},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 105, "stars": 20100, "owner": "alacritty", "forks": 945},
+{"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 241, "stars": 321, "owner": "Kethku", "forks": 10},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 60, "stars": 173, "owner": "deislabs", "forks": 5},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 210, "stars": 6995, "owner": "actix", "forks": 976},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 106, "stars": 17528, "owner": "sharkdp", "forks": 351},

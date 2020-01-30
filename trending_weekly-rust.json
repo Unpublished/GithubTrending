@@ -1,6 +1,6 @@
 [
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 81, "stars": 7193, "owner": "tokio-rs", "forks": 640},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 114, "stars": 17905, "owner": "BurntSushi", "forks": 789},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 114, "stars": 17904, "owner": "BurntSushi", "forks": 789},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 58, "stars": 2173, "owner": "rust-analyzer", "forks": 224},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 35, "stars": 1288, "owner": "xi-editor", "forks": 90},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 61, "stars": 1637, "owner": "seanmonstar", "forks": 164},
@@ -9,7 +9,7 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 167, "stars": 42157, "owner": "rust-lang", "forks": 6438},
 {"description": "Minimal request library in rust.", "language": "Rust", "repo": "ureq", "new_stars": 17, "stars": 148, "owner": "algesten", "forks": 17},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 78, "stars": 13762, "owner": "rust-unofficial", "forks": 923},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 115, "stars": 20118, "owner": "alacritty", "forks": 946},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 116, "stars": 20119, "owner": "alacritty", "forks": 946},
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 33, "stars": 3367, "owner": "timberio", "forks": 171},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 32, "stars": 2364, "owner": "bytecodealliance", "forks": 181},
 {"description": "Fast Fourier transforms (FFTs) in Rust", "language": "Rust", "repo": "fourier", "new_stars": 64, "stars": 167, "owner": "calebzulawski", "forks": 11},
@@ -21,7 +21,7 @@
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 42, "stars": 10548, "owner": "firecracker-microvm", "forks": 690},
 {"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 14, "stars": 2042, "owner": "vulkano-rs", "forks": 221},
 {"description": "A comparison of some web frameworks and libs written in Rust", "language": "Rust", "repo": "rust-web-framework-comparison", "new_stars": 27, "stars": 1814, "owner": "flosse", "forks": 82},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 49, "stars": 2226, "owner": "dessalines", "forks": 117},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 13, "stars": 1826, "owner": "paritytech", "forks": 521},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 49, "stars": 2227, "owner": "dessalines", "forks": 117},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 13, "stars": 1826, "owner": "paritytech", "forks": 522},
 {"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 32, "stars": 298, "owner": "denoland", "forks": 15}
 ]

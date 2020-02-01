@@ -1,11 +1,11 @@
 [
-{"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 489, "stars": 665, "owner": "google", "forks": 27},
+{"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 489, "stars": 670, "owner": "google", "forks": 28},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 56, "stars": 1727, "owner": "tock", "forks": 229},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 10, "stars": 3487, "owner": "hecrj", "forks": 79},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 31, "stars": 1633, "owner": "http-rs", "forks": 143},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 42190, "owner": "rust-lang", "forks": 6450},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 42191, "owner": "rust-lang", "forks": 6450},
 {"description": "Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 135, "stars": 470, "owner": "federico-terzi", "forks": 15},
-{"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 10, "stars": 2350, "owner": "rustwasm", "forks": 140},
+{"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 10, "stars": 2351, "owner": "rustwasm", "forks": 140},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 5, "stars": 730, "owner": "gfx-rs", "forks": 70},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 19, "stars": 2202, "owner": "rust-analyzer", "forks": 226},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 887, "owner": "actix", "forks": 304},
@@ -21,7 +21,7 @@
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 7, "stars": 3377, "owner": "timberio", "forks": 172},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 2373, "owner": "bytecodealliance", "forks": 182},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 6, "stars": 2350, "owner": "tree-sitter", "forks": 147},
-{"description": "sccache is ccache with cloud storage", "language": "Rust", "repo": "sccache", "new_stars": 5, "stars": 1091, "owner": "mozilla", "forks": 156},
+{"description": "sccache is ccache with cloud storage", "language": "Rust", "repo": "sccache", "new_stars": 5, "stars": 1092, "owner": "mozilla", "forks": 156},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 5, "stars": 3638, "owner": "clap-rs", "forks": 361},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 15464, "owner": "servo", "forks": 2309}
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 15465, "owner": "servo", "forks": 2309}
 ]

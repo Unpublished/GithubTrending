@@ -1,6 +1,6 @@
 [
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 8, "stars": 10564, "owner": "firecracker-microvm", "forks": 692},
-{"description": "Self updates for rust executables", "language": "Rust", "repo": "self_update", "new_stars": 34, "stars": 294, "owner": "jaemk", "forks": 15},
+{"description": "Self updates for rust executables", "language": "Rust", "repo": "self_update", "new_stars": 34, "stars": 295, "owner": "jaemk", "forks": 15},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 2, "stars": 5810, "owner": "paritytech", "forks": 1428},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 4861, "owner": "rust-lang", "forks": 1327},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 4, "stars": 2054, "owner": "ggez", "forks": 258},
@@ -22,6 +22,6 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 42188, "owner": "rust-lang", "forks": 6451},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 15462, "owner": "servo", "forks": 2307},
 {"description": "Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 135, "stars": 470, "owner": "federico-terzi", "forks": 15},
-{"description": "A daemon for managing long running shell commands.", "language": "Rust", "repo": "pueue", "new_stars": 82, "stars": 298, "owner": "Nukesor", "forks": 12},
+{"description": "A daemon for managing long running shell commands.", "language": "Rust", "repo": "pueue", "new_stars": 82, "stars": 299, "owner": "Nukesor", "forks": 12},
 {"description": "A minimal HTTP implementation used by Firecracker", "language": "Rust", "repo": "micro-http", "new_stars": 2, "stars": 6, "owner": "firecracker-microvm", "forks": 2}
 ]

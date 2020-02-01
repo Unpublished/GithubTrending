@@ -1,7 +1,7 @@
 [
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 12, "stars": 19400, "owner": "hashicorp", "forks": 3877},
 {"description": null, "language": "Ruby", "repo": "cmsc330spring20", "new_stars": 3, "stars": 6, "owner": "anwarmamat", "forks": 14},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 5, "stars": 11023, "owner": "elastic", "forks": 2926},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 5, "stars": 11024, "owner": "elastic", "forks": 2926},
 {"description": "The Live Coding Music Synth for Everyone", "language": "Ruby", "repo": "sonic-pi", "new_stars": 17, "stars": 5094, "owner": "samaaron", "forks": 612},
 {"description": "Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.", "language": "Ruby", "repo": "database_cleaner", "new_stars": 3, "stars": 2540, "owner": "DatabaseCleaner", "forks": 455},
 {"description": "A Rails Engine for building Shopify Apps", "language": "Ruby", "repo": "shopify_app", "new_stars": 1, "stars": 1082, "owner": "Shopify", "forks": 443},
@@ -17,11 +17,11 @@
 {"description": "Typhoeus wraps libcurl in order to make fast and reliable requests.", "language": "Ruby", "repo": "typhoeus", "new_stars": 15, "stars": 3668, "owner": "typhoeus", "forks": 410},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 8683, "owner": "activeadmin", "forks": 3091},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 3, "stars": 2913, "owner": "solidusio", "forks": 863},
-{"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 3, "stars": 5668, "owner": "paper-trail-gem", "forks": 754},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 10533, "owner": "rubocop-hq", "forks": 2274},
+{"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 2, "stars": 5668, "owner": "paper-trail-gem", "forks": 754},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 10533, "owner": "rubocop-hq", "forks": 2273},
 {"description": "Ruby interactors based on ActiveModel inspired by interactor", "language": "Ruby", "repo": "activeinteractor", "new_stars": 7, "stars": 57, "owner": "aaronmallen", "forks": 1},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 3, "stars": 6740, "owner": "thoughtbot", "forks": 1994},
-{"description": "RSpec for Rails-3+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 2, "stars": 4234, "owner": "rspec", "forks": 837},
+{"description": "RSpec for Rails-3+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 1, "stars": 4234, "owner": "rspec", "forks": 837},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 0, "stars": 2618, "owner": "elastic", "forks": 679},
 {"description": "File Attachment toolkit for Ruby applications", "language": "Ruby", "repo": "shrine", "new_stars": 3, "stars": 2540, "owner": "shrinerb", "forks": 186}
 ]

@@ -11,7 +11,7 @@
 {"description": "Minimal request library in rust.", "language": "Rust", "repo": "ureq", "new_stars": 17, "stars": 151, "owner": "algesten", "forks": 17},
 {"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 440, "stars": 488, "owner": "Kethku", "forks": 15},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 42, "stars": 10565, "owner": "firecracker-microvm", "forks": 692},
-{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 26, "stars": 1645, "owner": "redox-os", "forks": 92},
+{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 26, "stars": 1646, "owner": "redox-os", "forks": 92},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 32, "stars": 5183, "owner": "rust-lang", "forks": 1077},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 65, "stars": 12027, "owner": "sharkdp", "forks": 309},
 {"description": "A code coverage tool for Rust projects", "language": "Rust", "repo": "tarpaulin", "new_stars": 26, "stars": 713, "owner": "xd009642", "forks": 68},
@@ -22,6 +22,6 @@
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 27, "stars": 3377, "owner": "timberio", "forks": 172},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 14, "stars": 3122, "owner": "rust-lang", "forks": 398},
 {"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 14, "stars": 2045, "owner": "vulkano-rs", "forks": 221},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 56, "stars": 2236, "owner": "dessalines", "forks": 117},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 56, "stars": 2237, "owner": "dessalines", "forks": 117},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 20, "stars": 1094, "owner": "cloudflare", "forks": 139}
 ]

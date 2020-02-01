@@ -7,11 +7,11 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 19, "stars": 2201, "owner": "rust-analyzer", "forks": 226},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 4236, "owner": "rust-lang", "forks": 554},
 {"description": "Blazing fast concurrent HashMap for Rust.", "language": "Rust", "repo": "dashmap", "new_stars": 17, "stars": 317, "owner": "xacrimon", "forks": 12},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 888, "owner": "actix", "forks": 304},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 887, "owner": "actix", "forks": 304},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 31, "stars": 1632, "owner": "http-rs", "forks": 143},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 10, "stars": 3486, "owner": "hecrj", "forks": 79},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 10, "stars": 3487, "owner": "hecrj", "forks": 79},
 {"description": "Rust friendly bindings to *nix APIs", "language": "Rust", "repo": "nix", "new_stars": 3, "stars": 1103, "owner": "nix-rust", "forks": 318},
-{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 5807, "owner": "starship", "forks": 248},
+{"description": "The cross-shell prompt for astronauts", "language": "Rust", "repo": "starship", "new_stars": 26, "stars": 5808, "owner": "starship", "forks": 248},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 5, "stars": 3477, "owner": "tokio-rs", "forks": 415},
 {"description": "oreboot is a fork of coreboot, with C removed, written in Rust.", "language": "Rust", "repo": "oreboot", "new_stars": 7, "stars": 519, "owner": "oreboot", "forks": 31},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 6, "stars": 1645, "owner": "redox-os", "forks": 92},
@@ -22,6 +22,6 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 23, "stars": 42188, "owner": "rust-lang", "forks": 6451},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 9, "stars": 15462, "owner": "servo", "forks": 2307},
 {"description": "Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 135, "stars": 470, "owner": "federico-terzi", "forks": 15},
-{"description": "A daemon for managing long running shell commands.", "language": "Rust", "repo": "pueue", "new_stars": 82, "stars": 293, "owner": "Nukesor", "forks": 12},
+{"description": "A daemon for managing long running shell commands.", "language": "Rust", "repo": "pueue", "new_stars": 82, "stars": 298, "owner": "Nukesor", "forks": 12},
 {"description": "A minimal HTTP implementation used by Firecracker", "language": "Rust", "repo": "micro-http", "new_stars": 2, "stars": 6, "owner": "firecracker-microvm", "forks": 2}
 ]

@@ -1,20 +1,20 @@
 [
 {"description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more", "language": "Python", "repo": "pandas", "new_stars": 152, "stars": 23351, "owner": "pandas-dev", "forks": 9309},
 {"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 366, "stars": 8965, "owner": "tiangolo", "forks": 519},
-{"description": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.", "language": "Python", "repo": "spiderfoot", "new_stars": 1097, "stars": 3752, "owner": "smicallef", "forks": 732},
+{"description": "SpiderFoot, the most complete OSINT collection and reconnaissance tool.", "language": "Python", "repo": "spiderfoot", "new_stars": 1097, "stars": 3754, "owner": "smicallef", "forks": 732},
 {"description": "An educational resource to help anyone learn deep reinforcement learning.", "language": "Python", "repo": "spinningup", "new_stars": 244, "stars": 4076, "owner": "openai", "forks": 825},
 {"description": "Depth-Aware Video Frame Interpolation (CVPR 2019)", "language": "Python", "repo": "DAIN", "new_stars": 250, "stars": 1017, "owner": "baowenbo", "forks": 103},
 {"description": "Comprehensive Python Cheatsheet", "language": "Python", "repo": "python-cheatsheet", "new_stars": 337, "stars": 10671, "owner": "gto76", "forks": 2262},
-{"description": "A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!", "language": "Python", "repo": "localstack", "new_stars": 243, "stars": 22862, "owner": "localstack", "forks": 1640},
+{"description": "A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!", "language": "Python", "repo": "localstack", "new_stars": 243, "stars": 22863, "owner": "localstack", "forks": 1640},
 {"description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.", "language": "Python", "repo": "NLP-progress", "new_stars": 252, "stars": 14385, "owner": "sebastianruder", "forks": 2458},
-{"description": "StyleGAN2 - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan2", "new_stars": 301, "stars": 2832, "owner": "NVlabs", "forks": 444},
+{"description": "StyleGAN2 - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan2", "new_stars": 304, "stars": 2833, "owner": "NVlabs", "forks": 444},
 {"description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications \u2014 automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.", "language": "Python", "repo": "ansible", "new_stars": 114, "stars": 41611, "owner": "ansible", "forks": 18172},
 {"description": "Deep Learning for humans", "language": "Python", "repo": "keras", "new_stars": 114, "stars": 46647, "owner": "keras-team", "forks": 17676},
-{"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 111, "stars": 6491, "owner": "google", "forks": 477},
+{"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 111, "stars": 6491, "owner": "google", "forks": 478},
 {"description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++", "language": "Python", "repo": "CppCoreGuidelines", "new_stars": 121, "stars": 26045, "owner": "isocpp", "forks": 3442},
 {"description": "dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.", "language": "Python", "repo": "dbt", "new_stars": 19, "stars": 1296, "owner": "fishtown-analytics", "forks": 247},
 {"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 172, "stars": 46965, "owner": "django", "forks": 20251},
-{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 343, "stars": 70074, "owner": "public-apis", "forks": 7915},
+{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 343, "stars": 70074, "owner": "public-apis", "forks": 7916},
 {"description": "matplotlib: plotting with Python", "language": "Python", "repo": "matplotlib", "new_stars": 40, "stars": 10741, "owner": "matplotlib", "forks": 4753},
 {"description": "A Study Path for Game Programmer", "language": "Python", "repo": "game-programmer", "new_stars": 47, "stars": 10211, "owner": "miloyip", "forks": 1256},
 {"description": "We have made you a wrapper you can't refuse", "language": "Python", "repo": "python-telegram-bot", "new_stars": 66, "stars": 9435, "owner": "python-telegram-bot", "forks": 1971},
@@ -23,5 +23,5 @@
 {"description": "A toolkit for developing and comparing reinforcement learning algorithms.", "language": "Python", "repo": "gym", "new_stars": 61, "stars": 19568, "owner": "openai", "forks": 5476},
 {"description": "Jupyter metapackage for installation, docs and chat", "language": "Python", "repo": "jupyter", "new_stars": 48, "stars": 9320, "owner": "jupyter", "forks": 2199},
 {"description": "\u300aPython\u8fdb\u9636\u300b\uff08Intermediate Python \u4e2d\u6587\u7248\uff09", "language": "Python", "repo": "interpy-zh", "new_stars": 215, "stars": 5061, "owner": "eastlakeside", "forks": 1160},
-{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 154, "stars": 61397, "owner": "tensorflow", "forks": 39103}
+{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 154, "stars": 61397, "owner": "tensorflow", "forks": 39104}
 ]

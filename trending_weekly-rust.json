@@ -1,8 +1,8 @@
 [
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 118, "stars": 2251, "owner": "rust-analyzer", "forks": 232},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 118, "stars": 2252, "owner": "rust-analyzer", "forks": 232},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 83, "stars": 7229, "owner": "tokio-rs", "forks": 643},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 160, "stars": 42224, "owner": "rust-lang", "forks": 6452},
-{"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 121, "stars": 1758, "owner": "tock", "forks": 230},
+{"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 121, "stars": 1760, "owner": "tock", "forks": 230},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 162, "stars": 17982, "owner": "BurntSushi", "forks": 792},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 23, "stars": 2211, "owner": "graphql-rust", "forks": 167},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 33, "stars": 5188, "owner": "rust-lang", "forks": 1078},
@@ -18,10 +18,10 @@
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 48, "stars": 1300, "owner": "xi-editor", "forks": 89},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 118, "stars": 17592, "owner": "sharkdp", "forks": 350},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 41, "stars": 4830, "owner": "amethyst", "forks": 534},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 41, "stars": 15480, "owner": "servo", "forks": 2309},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 40, "stars": 15480, "owner": "servo", "forks": 2309},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 19, "stars": 3641, "owner": "gfx-rs", "forks": 420},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 6, "stars": 260, "owner": "input-output-hk", "forks": 95},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 21, "stars": 4237, "owner": "rust-lang", "forks": 555},
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 21, "stars": 4238, "owner": "rust-lang", "forks": 555},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 18, "stars": 3188, "owner": "rust-lang", "forks": 469},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 24, "stars": 1472, "owner": "vi", "forks": 64}
 ]

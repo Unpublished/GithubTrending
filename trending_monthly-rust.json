@@ -1,6 +1,6 @@
 [
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 989, "stars": 7162, "owner": "actix", "forks": 985},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 350, "stars": 1715, "owner": "seanmonstar", "forks": 170},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 351, "stars": 1716, "owner": "seanmonstar", "forks": 170},
 {"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 2563, "stars": 3375, "owner": "Canop", "forks": 67},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 410, "stars": 4383, "owner": "actix", "forks": 448},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 317, "stars": 2322, "owner": "rust-analyzer", "forks": 236},
@@ -19,7 +19,7 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 331, "stars": 7303, "owner": "tokio-rs", "forks": 650},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 191, "stars": 2258, "owner": "dessalines", "forks": 119},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 89, "stars": 3600, "owner": "rayon-rs", "forks": 224},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 116, "stars": 5210, "owner": "rust-lang", "forks": 1079},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 116, "stars": 5211, "owner": "rust-lang", "forks": 1080},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 339, "stars": 3999, "owner": "Rigellute", "forks": 121},
 {"description": "Cranelift code generator", "language": "Rust", "repo": "cranelift", "new_stars": 82, "stars": 2474, "owner": "bytecodealliance", "forks": 219},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 265, "stars": 2834, "owner": "dani-garcia", "forks": 189},

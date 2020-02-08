@@ -1,9 +1,9 @@
 [
 {"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 761, "stars": 1363, "owner": "google", "forks": 88},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 122, "stars": 2333, "owner": "rust-analyzer", "forks": 236},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 317, "stars": 20443, "owner": "alacritty", "forks": 967},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 122, "stars": 2334, "owner": "rust-analyzer", "forks": 236},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 318, "stars": 20444, "owner": "alacritty", "forks": 967},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 107, "stars": 1826, "owner": "tock", "forks": 234},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 204, "stars": 42387, "owner": "rust-lang", "forks": 6469},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 204, "stars": 42388, "owner": "rust-lang", "forks": 6469},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 45, "stars": 1676, "owner": "http-rs", "forks": 148},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 44, "stars": 4865, "owner": "amethyst", "forks": 541},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 18, "stars": 1508, "owner": "shadowsocks", "forks": 369},
@@ -18,10 +18,10 @@
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 44, "stars": 3532, "owner": "hecrj", "forks": 83},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 110, "stars": 13886, "owner": "rust-unofficial", "forks": 930},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 90, "stars": 7310, "owner": "tokio-rs", "forks": 649},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 33, "stars": 4998, "owner": "diesel-rs", "forks": 474},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 33, "stars": 4998, "owner": "diesel-rs", "forks": 475},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 104, "stars": 12126, "owner": "sharkdp", "forks": 311},
 {"description": "your favorite rust -> wasm workflow tool!", "language": "Rust", "repo": "wasm-pack", "new_stars": 45, "stars": 2391, "owner": "rustwasm", "forks": 141},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 47, "stars": 15504, "owner": "servo", "forks": 2311},
-{"description": "Rust language bindings for TensorFlow", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 2248, "owner": "tensorflow", "forks": 199},
+{"description": "Rust language bindings for TensorFlow", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 2249, "owner": "tensorflow", "forks": 199},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 404, "owner": "hyperledger", "forks": 477}
 ]

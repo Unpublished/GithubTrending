@@ -1,6 +1,6 @@
 [
 {"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 684, "stars": 1368, "owner": "google", "forks": 88},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 330, "stars": 20456, "owner": "alacritty", "forks": 968},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 331, "stars": 20457, "owner": "alacritty", "forks": 968},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 45, "stars": 1679, "owner": "http-rs", "forks": 148},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 220, "stars": 42399, "owner": "rust-lang", "forks": 6471},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 129, "stars": 2348, "owner": "rust-analyzer", "forks": 237},
@@ -12,7 +12,7 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 65, "stars": 8900, "owner": "SergioBenitez", "forks": 612},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 33, "stars": 5001, "owner": "diesel-rs", "forks": 475},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 102, "stars": 7469, "owner": "rust-lang", "forks": 788},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 113, "stars": 13891, "owner": "rust-unofficial", "forks": 930},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 113, "stars": 13892, "owner": "rust-unofficial", "forks": 930},
 {"description": "Collect, transform, & route all observability data with one simple tool.", "language": "Rust", "repo": "vector", "new_stars": 38, "stars": 3414, "owner": "timberio", "forks": 175},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 19, "stars": 1508, "owner": "shadowsocks", "forks": 369},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 44, "stars": 1985, "owner": "async-rs", "forks": 186},

@@ -5,16 +5,16 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 18, "stars": 13889, "owner": "rust-unofficial", "forks": 930},
 {"description": "Makepad is a creative software development platform for Rust that compiles to wasm/webGL, osx/metal, windows/dx11 linux/opengl", "language": "Rust", "repo": "makepad", "new_stars": 14, "stars": 891, "owner": "makepad", "forks": 35},
 {"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 10, "stars": 329, "owner": "denoland", "forks": 19},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 52, "stars": 10425, "owner": "yewstack", "forks": 395},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 52, "stars": 10426, "owner": "yewstack", "forks": 395},
 {"description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant", "language": "Rust", "repo": "rio", "new_stars": 29, "stars": 225, "owner": "spacejam", "forks": 7},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 17684, "owner": "sharkdp", "forks": 351},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 15, "stars": 1722, "owner": "seanmonstar", "forks": 171},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 5000, "owner": "diesel-rs", "forks": 475},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 8, "stars": 4892, "owner": "rust-lang", "forks": 1336},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 19, "stars": 7466, "owner": "rust-lang", "forks": 788},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 19, "stars": 7467, "owner": "rust-lang", "forks": 788},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 12, "stars": 1678, "owner": "http-rs", "forks": 148},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 42393, "owner": "rust-lang", "forks": 6471},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 3, "stars": 6830, "owner": "tikv", "forks": 1005},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 42395, "owner": "rust-lang", "forks": 6471},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 3, "stars": 6831, "owner": "tikv", "forks": 1005},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 9, "stars": 3074, "owner": "Spotifyd", "forks": 149},
 {"description": "Creative cellular automata browser game", "language": "Rust", "repo": "sandspiel", "new_stars": 8, "stars": 1973, "owner": "MaxBittker", "forks": 96},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 8, "stars": 5215, "owner": "rust-lang", "forks": 1080},
@@ -23,5 +23,5 @@
 {"description": "Cargo plugin for linting your dependencies", "language": "Rust", "repo": "cargo-deny", "new_stars": 17, "stars": 272, "owner": "EmbarkStudios", "forks": 9},
 {"description": "Traitless Mocking Library for Rust", "language": "Rust", "repo": "faux", "new_stars": 17, "stars": 110, "owner": "nrxus", "forks": 3},
 {"description": "An unordered multiset/bag implementation backed by HashMap", "language": "Rust", "repo": "hashbag", "new_stars": 7, "stars": 21, "owner": "jonhoo", "forks": 0},
-{"description": "A command-line tool to generate, analyze, convert and manipulate colors", "language": "Rust", "repo": "pastel", "new_stars": 10, "stars": 2522, "owner": "sharkdp", "forks": 41}
+{"description": "A command-line tool to generate, analyze, convert and manipulate colors", "language": "Rust", "repo": "pastel", "new_stars": 10, "stars": 2523, "owner": "sharkdp", "forks": 41}
 ]

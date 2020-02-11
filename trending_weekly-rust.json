@@ -1,14 +1,14 @@
 [
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 222, "stars": 20514, "owner": "alacritty", "forks": 972},
-{"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 173, "stars": 1402, "owner": "google", "forks": 90},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 224, "stars": 20516, "owner": "alacritty", "forks": 973},
+{"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 174, "stars": 1403, "owner": "google", "forks": 90},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 26, "stars": 1493, "owner": "rusoto", "forks": 253},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 49, "stars": 4878, "owner": "amethyst", "forks": 546},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 122, "stars": 2396, "owner": "rust-analyzer", "forks": 240},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 123, "stars": 2397, "owner": "rust-analyzer", "forks": 240},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 171, "stars": 10480, "owner": "yewstack", "forks": 398},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 48, "stars": 1694, "owner": "http-rs", "forks": 150},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 70, "stars": 8920, "owner": "SergioBenitez", "forks": 611},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 32, "stars": 1990, "owner": "async-rs", "forks": 186},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 241, "stars": 42466, "owner": "rust-lang", "forks": 6478},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 242, "stars": 42467, "owner": "rust-lang", "forks": 6478},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 87, "stars": 7325, "owner": "tokio-rs", "forks": 657},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 20, "stars": 1120, "owner": "cloudflare", "forks": 151},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 109, "stars": 13924, "owner": "rust-unofficial", "forks": 933},
@@ -21,7 +21,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 31, "stars": 4901, "owner": "rust-lang", "forks": 1340},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 39, "stars": 773, "owner": "gfx-rs", "forks": 72},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 20, "stars": 3672, "owner": "Geal", "forks": 425},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 108, "stars": 12188, "owner": "sharkdp", "forks": 312},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 109, "stars": 12189, "owner": "sharkdp", "forks": 312},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 22, "stars": 3211, "owner": "rust-lang", "forks": 472},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 28, "stars": 2243, "owner": "graphql-rust", "forks": 174}
 ]

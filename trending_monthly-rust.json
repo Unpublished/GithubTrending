@@ -1,19 +1,19 @@
 [
-{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 1841, "stars": 2073, "owner": "huggingface", "forks": 109},
+{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 1842, "stars": 2074, "owner": "huggingface", "forks": 109},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 1013, "stars": 7226, "owner": "actix", "forks": 984},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 421, "stars": 4410, "owner": "actix", "forks": 449},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 383, "stars": 1754, "owner": "seanmonstar", "forks": 172},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 393, "stars": 2411, "owner": "rust-analyzer", "forks": 241},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 599, "stars": 18152, "owner": "BurntSushi", "forks": 800},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 392, "stars": 2411, "owner": "rust-analyzer", "forks": 241},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 601, "stars": 18154, "owner": "BurntSushi", "forks": 800},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 842, "stars": 42488, "owner": "rust-lang", "forks": 6480},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 183, "stars": 1696, "owner": "http-rs", "forks": 150},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 702, "stars": 20533, "owner": "alacritty", "forks": 972},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 703, "stars": 20534, "owner": "alacritty", "forks": 972},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 175, "stars": 15522, "owner": "servo", "forks": 2319},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 121, "stars": 2244, "owner": "graphql-rust", "forks": 176},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 229, "stars": 1839, "owner": "tock", "forks": 236},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 146, "stars": 3712, "owner": "clap-rs", "forks": 363},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 84, "stars": 907, "owner": "actix", "forks": 312},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 384, "stars": 13945, "owner": "rust-unofficial", "forks": 934},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 84, "stars": 907, "owner": "actix", "forks": 311},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 386, "stars": 13947, "owner": "rust-unofficial", "forks": 934},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 213, "stars": 2287, "owner": "dessalines", "forks": 124},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 342, "stars": 7340, "owner": "tokio-rs", "forks": 657},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 129, "stars": 5232, "owner": "rust-lang", "forks": 1082},
@@ -23,5 +23,5 @@
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 63, "stars": 1497, "owner": "rusoto", "forks": 253},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 51, "stars": 1343, "owner": "rust-lang", "forks": 208},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 159, "stars": 1065, "owner": "Edu4rdSHL", "forks": 132},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 374, "stars": 12197, "owner": "sharkdp", "forks": 312}
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 376, "stars": 12199, "owner": "sharkdp", "forks": 312}
 ]

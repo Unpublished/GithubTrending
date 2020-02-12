@@ -7,8 +7,8 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 599, "stars": 18158, "owner": "BurntSushi", "forks": 800},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 833, "stars": 42501, "owner": "rust-lang", "forks": 6481},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 183, "stars": 1697, "owner": "http-rs", "forks": 150},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 696, "stars": 20544, "owner": "alacritty", "forks": 972},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 178, "stars": 15527, "owner": "servo", "forks": 2320},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 696, "stars": 20544, "owner": "alacritty", "forks": 973},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 178, "stars": 15528, "owner": "servo", "forks": 2320},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 122, "stars": 2246, "owner": "graphql-rust", "forks": 176},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 229, "stars": 1840, "owner": "tock", "forks": 236},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 146, "stars": 3716, "owner": "clap-rs", "forks": 363},
@@ -23,5 +23,5 @@
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 63, "stars": 1497, "owner": "rusoto", "forks": 254},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 50, "stars": 1343, "owner": "rust-lang", "forks": 208},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 155, "stars": 1066, "owner": "Edu4rdSHL", "forks": 132},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 374, "stars": 12206, "owner": "sharkdp", "forks": 313}
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 374, "stars": 12207, "owner": "sharkdp", "forks": 313}
 ]

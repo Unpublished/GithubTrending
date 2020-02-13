@@ -1,6 +1,6 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 7, "stars": 13886, "owner": "libra", "forks": 2076},
-{"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 11, "stars": 1068, "owner": "Edu4rdSHL", "forks": 132},
+{"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 11, "stars": 1069, "owner": "Edu4rdSHL", "forks": 132},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 6, "stars": 907, "owner": "seed-rs", "forks": 54},
 {"description": "Command line tool for generating and working with MIDI files.", "language": "Rust", "repo": "atm-cli", "new_stars": 36, "stars": 118, "owner": "allthemusicllc", "forks": 4},
 {"description": "Terminal bandwidth utilization tool", "language": "Rust", "repo": "bandwhich", "new_stars": 6, "stars": 5088, "owner": "imsnif", "forks": 126},
@@ -8,10 +8,10 @@
 {"description": "A rust-vmm based cloud hypervisor", "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 27, "stars": 562, "owner": "cloud-hypervisor", "forks": 62},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 5, "stars": 3095, "owner": "Spotifyd", "forks": 149},
 {"description": "Learn to write an embedded OS in Rust on the Raspberry Pi", "language": "Rust", "repo": "rust-raspi3-OS-tutorials", "new_stars": 8, "stars": 1321, "owner": "rust-embedded", "forks": 63},
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 15, "stars": 4058, "owner": "Rigellute", "forks": 126},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 15, "stars": 4059, "owner": "Rigellute", "forks": 126},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 13, "stars": 2415, "owner": "rust-analyzer", "forks": 242},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 4, "stars": 1847, "owner": "paritytech", "forks": 532},
-{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 11, "stars": 548, "owner": "tokio-rs", "forks": 73},
+{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 12, "stars": 548, "owner": "tokio-rs", "forks": 73},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 4, "stars": 4270, "owner": "rust-lang", "forks": 558},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 4, "stars": 5234, "owner": "rust-lang", "forks": 1082},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 15529, "owner": "servo", "forks": 2320},
@@ -22,6 +22,6 @@
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 1, "stars": 913, "owner": "tower-rs", "forks": 71},
 {"description": "Modern applications with built-in automation", "language": "Rust", "repo": "habitat", "new_stars": 5, "stars": 2150, "owner": "habitat-sh", "forks": 312},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 2420, "owner": "bytecodealliance", "forks": 184},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 25, "stars": 13954, "owner": "rust-unofficial", "forks": 936},
-{"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 2, "stars": 1945, "owner": "servo", "forks": 224}
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 25, "stars": 13956, "owner": "rust-unofficial", "forks": 936},
+{"description": "A GPU-based renderer for the web", "language": "Rust", "repo": "webrender", "new_stars": 3, "stars": 1945, "owner": "servo", "forks": 224}
 ]

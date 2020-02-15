@@ -1,7 +1,7 @@
 [
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 397, "stars": 1775, "owner": "seanmonstar", "forks": 173},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 409, "stars": 2457, "owner": "rust-analyzer", "forks": 243},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 591, "stars": 18187, "owner": "BurntSushi", "forks": 807},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 410, "stars": 2458, "owner": "rust-analyzer", "forks": 243},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 592, "stars": 18188, "owner": "BurntSushi", "forks": 807},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 735, "stars": 20603, "owner": "alacritty", "forks": 977},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 872, "stars": 42575, "owner": "rust-lang", "forks": 6492},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 185, "stars": 1701, "owner": "http-rs", "forks": 150},
@@ -10,7 +10,7 @@
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 640, "stars": 4639, "owner": "actix", "forks": 458},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 235, "stars": 1847, "owner": "tock", "forks": 236},
 {"description": "framework for composable networking services", "language": "Rust", "repo": "actix-net", "new_stars": 71, "stars": 277, "owner": "actix", "forks": 297},
-{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 59, "stars": 1501, "owner": "rusoto", "forks": 254},
+{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 60, "stars": 1502, "owner": "rusoto", "forks": 254},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 174, "stars": 15536, "owner": "servo", "forks": 2324},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 415, "stars": 14003, "owner": "rust-unofficial", "forks": 934},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 80, "stars": 780, "owner": "gfx-rs", "forks": 72},

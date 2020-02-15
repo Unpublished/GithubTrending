@@ -1,7 +1,7 @@
 [
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 396, "stars": 1775, "owner": "seanmonstar", "forks": 173},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 408, "stars": 2459, "owner": "rust-analyzer", "forks": 243},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 599, "stars": 18189, "owner": "BurntSushi", "forks": 807},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 408, "stars": 2459, "owner": "rust-analyzer", "forks": 244},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 599, "stars": 18190, "owner": "BurntSushi", "forks": 807},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 736, "stars": 20603, "owner": "alacritty", "forks": 977},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 868, "stars": 42575, "owner": "rust-lang", "forks": 6492},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 185, "stars": 1701, "owner": "http-rs", "forks": 150},
@@ -21,7 +21,7 @@
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 81, "stars": 915, "owner": "actix", "forks": 313},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 162, "stars": 3733, "owner": "clap-rs", "forks": 364},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 130, "stars": 5239, "owner": "rust-lang", "forks": 1082},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 255, "stars": 2877, "owner": "dani-garcia", "forks": 194},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 255, "stars": 2878, "owner": "dani-garcia", "forks": 194},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 157, "stars": 1087, "owner": "Edu4rdSHL", "forks": 133},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 162, "stars": 3391, "owner": "tantivy-search", "forks": 197}
 ]

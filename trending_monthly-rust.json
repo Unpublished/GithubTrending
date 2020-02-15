@@ -1,6 +1,6 @@
 [
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 397, "stars": 1775, "owner": "seanmonstar", "forks": 173},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 408, "stars": 2456, "owner": "rust-analyzer", "forks": 243},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 409, "stars": 2457, "owner": "rust-analyzer", "forks": 243},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 599, "stars": 18187, "owner": "BurntSushi", "forks": 807},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 736, "stars": 20603, "owner": "alacritty", "forks": 977},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 875, "stars": 42572, "owner": "rust-lang", "forks": 6492},
@@ -14,7 +14,7 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 179, "stars": 15536, "owner": "servo", "forks": 2323},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 417, "stars": 14003, "owner": "rust-unofficial", "forks": 934},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 81, "stars": 780, "owner": "gfx-rs", "forks": 72},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 356, "stars": 7375, "owner": "tokio-rs", "forks": 661},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 358, "stars": 7377, "owner": "tokio-rs", "forks": 661},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 59, "stars": 1076, "owner": "greshake", "forks": 186},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 260, "stars": 8946, "owner": "SergioBenitez", "forks": 612},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 99, "stars": 1153, "owner": "cloudflare", "forks": 151},

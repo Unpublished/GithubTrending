@@ -1,7 +1,7 @@
 [
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 10568, "owner": "rubocop-hq", "forks": 2282},
 {"description": "Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.", "language": "Ruby", "repo": "asciidoctor-pdf", "new_stars": 1, "stars": 753, "owner": "asciidoctor", "forks": 312},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 20564, "owner": "heartcombo", "forks": 4946},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 20565, "owner": "heartcombo", "forks": 4946},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 8, "stars": 19621, "owner": "rapid7", "forks": 9508},
 {"description": "A runtime developer console and IRB alternative with powerful introspection capabilities.", "language": "Ruby", "repo": "pry", "new_stars": 1, "stars": 5888, "owner": "pry", "forks": 534},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 2, "stars": 8345, "owner": "faker-ruby", "forks": 2273},
@@ -20,7 +20,7 @@
 {"description": "A resource-focused Rails library for developing JSON:API compliant servers.", "language": "Ruby", "repo": "jsonapi-resources", "new_stars": 0, "stars": 2143, "owner": "cerebris", "forks": 463},
 {"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 2, "stars": 3642, "owner": "redmine", "forks": 1921},
 {"description": "ActiveRecord plugin allowing you to hide and restore records without actually deleting them.", "language": "Ruby", "repo": "acts_as_paranoid", "new_stars": 2, "stars": 1093, "owner": "ActsAsParanoid", "forks": 172},
-{"description": "View components for Rails", "language": "Ruby", "repo": "actionview-component", "new_stars": 5, "stars": 276, "owner": "github", "forks": 45},
+{"description": "View components for Rails", "language": "Ruby", "repo": "actionview-component", "new_stars": 5, "stars": 277, "owner": "github", "forks": 45},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 13, "stars": 39720, "owner": "jekyll", "forks": 8696},
 {"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 6, "stars": 10868, "owner": "sinatra", "forks": 1961},
 {"description": "xlsx generation with charts, images, automated column width, customizable styles and full schema validation. Axlsx excels at helping you generate beautiful Office Open XML Spreadsheet documents without having to understand the entire ECMA specification. Check out the README for some examples of how easy it is. Best of all, you can validate your\u2026", "language": "Ruby", "repo": "axlsx", "new_stars": 0, "stars": 2514, "owner": "randym", "forks": 702}

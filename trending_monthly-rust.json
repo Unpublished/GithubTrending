@@ -8,7 +8,7 @@
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 63, "stars": 1507, "owner": "rusoto", "forks": 254},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 179, "stars": 1706, "owner": "http-rs", "forks": 152},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 235, "stars": 1851, "owner": "tock", "forks": 236},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 440, "stars": 14042, "owner": "rust-unofficial", "forks": 937},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 441, "stars": 14043, "owner": "rust-unofficial", "forks": 937},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 176, "stars": 15546, "owner": "servo", "forks": 2325},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 81, "stars": 787, "owner": "gfx-rs", "forks": 72},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 404, "stars": 12272, "owner": "sharkdp", "forks": 314},
@@ -18,10 +18,10 @@
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 57, "stars": 1078, "owner": "greshake", "forks": 186},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 134, "stars": 5253, "owner": "rust-lang", "forks": 1083},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 164, "stars": 3742, "owner": "clap-rs", "forks": 364},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 1019, "stars": 7293, "owner": "actix", "forks": 990},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 1020, "stars": 7294, "owner": "actix", "forks": 990},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 639, "stars": 4659, "owner": "actix", "forks": 462},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 250, "stars": 8959, "owner": "SergioBenitez", "forks": 615},
-{"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 156, "stars": 1093, "owner": "Edu4rdSHL", "forks": 133},
+{"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 157, "stars": 1094, "owner": "Edu4rdSHL", "forks": 133},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 58, "stars": 1356, "owner": "rust-lang", "forks": 212},
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 28, "stars": 715, "owner": "rust-lang", "forks": 468}
 ]

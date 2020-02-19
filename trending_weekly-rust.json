@@ -6,7 +6,7 @@
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 15, "stars": 721, "owner": "rust-lang", "forks": 470},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 217, "stars": 42672, "owner": "rust-lang", "forks": 6501},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 41, "stars": 3070, "owner": "rust-lang", "forks": 422},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 85, "stars": 3621, "owner": "hecrj", "forks": 91},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 85, "stars": 3621, "owner": "hecrj", "forks": 92},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 15, "stars": 3143, "owner": "rust-lang", "forks": 403},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 174, "stars": 20689, "owner": "alacritty", "forks": 987},
 {"description": "Rust derive-based argument parsing optimized for code size", "language": "Rust", "repo": "argh", "new_stars": 147, "stars": 503, "owner": "google", "forks": 11},
@@ -23,5 +23,5 @@
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 4, "stars": 409, "owner": "hyperledger", "forks": 482},
 {"description": "The fast, light, and robust EVM and WASM client.", "language": "Rust", "repo": "parity-ethereum", "new_stars": 15, "stars": 5835, "owner": "paritytech", "forks": 1430},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 26, "stars": 3695, "owner": "Geal", "forks": 429},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 34, "stars": 2274, "owner": "graphql-rust", "forks": 181}
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 34, "stars": 2273, "owner": "graphql-rust", "forks": 181}
 ]

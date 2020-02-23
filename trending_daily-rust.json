@@ -1,11 +1,11 @@
 [
 {"description": "Panda api is a simple and powerful api docs design tool.", "language": "Rust", "repo": "panda-api", "new_stars": 19, "stars": 142, "owner": "arlicle", "forks": 12},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 18, "stars": 13929, "owner": "libra", "forks": 2085},
-{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 15, "stars": 3440, "owner": "tantivy-search", "forks": 202},
+{"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 15, "stars": 3439, "owner": "tantivy-search", "forks": 202},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 11, "stars": 4946, "owner": "rust-lang", "forks": 1356},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 16, "stars": 10723, "owner": "firecracker-microvm", "forks": 699},
 {"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 157, "stars": 2988, "owner": "spacejam", "forks": 123},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 50, "stars": 42761, "owner": "rust-lang", "forks": 6508},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 50, "stars": 42763, "owner": "rust-lang", "forks": 6508},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 7, "stars": 1718, "owner": "http-rs", "forks": 154},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 3, "stars": 1859, "owner": "paritytech", "forks": 538},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 15, "stars": 6457, "owner": "nushell", "forks": 246},
@@ -22,6 +22,6 @@
 {"description": "pure rust io_uring library, built on libc, thread & async friendly, misuse resistant", "language": "Rust", "repo": "rio", "new_stars": 16, "stars": 291, "owner": "spacejam", "forks": 12},
 {"description": "A Rust and WASM implementation of the blurhash algorithm", "language": "Rust", "repo": "blurhash-rust-wasm", "new_stars": 11, "stars": 60, "owner": "fpapado", "forks": 3},
 {"description": "A simple, secure and modern encryption tool with small explicit keys, no config options, and UNIX-style composability.", "language": "Rust", "repo": "rage", "new_stars": 14, "stars": 418, "owner": "str4d", "forks": 9},
-{"description": "A graph library for Rust.", "language": "Rust", "repo": "graphcore", "new_stars": 18, "stars": 49, "owner": "metamolecular", "forks": 1},
+{"description": "A graph library for Rust.", "language": "Rust", "repo": "graphcore", "new_stars": 18, "stars": 51, "owner": "metamolecular", "forks": 1},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 8, "stars": 5054, "owner": "diesel-rs", "forks": 480}
 ]

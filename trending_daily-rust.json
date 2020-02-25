@@ -7,8 +7,8 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 26, "stars": 14172, "owner": "rust-unofficial", "forks": 946},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 10639, "owner": "yewstack", "forks": 415},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 10, "stars": 4963, "owner": "rust-lang", "forks": 1360},
-{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 39, "stars": 386, "owner": "cjbassi", "forks": 13},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 16, "stars": 7646, "owner": "rust-lang", "forks": 816},
+{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 39, "stars": 389, "owner": "cjbassi", "forks": 13},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 16, "stars": 7647, "owner": "rust-lang", "forks": 816},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 5, "stars": 1837, "owner": "seanmonstar", "forks": 182},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 16, "stars": 2253, "owner": "huggingface", "forks": 122},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 6, "stars": 1727, "owner": "http-rs", "forks": 156},
@@ -19,9 +19,9 @@
 {"description": "A modular game engine written in Rust", "language": "Rust", "repo": "piston", "new_stars": 3, "stars": 3290, "owner": "PistonDevelopers", "forks": 197},
 {"description": "Learn Rust by writing Entirely Too Many linked lists", "language": "Rust", "repo": "too-many-lists", "new_stars": 8, "stars": 1074, "owner": "rust-unofficial", "forks": 117},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 3, "stars": 1555, "owner": "shadowsocks", "forks": 369},
-{"description": "A Matrix homeserver written in Rust.", "language": "Rust", "repo": "ruma", "new_stars": 9, "stars": 1059, "owner": "ruma", "forks": 41},
+{"description": "A Matrix homeserver written in Rust.", "language": "Rust", "repo": "ruma", "new_stars": 9, "stars": 1059, "owner": "ruma", "forks": 42},
 {"description": "An enhanced Horizontal Pod Autoscaler for Kubernetes.", "language": "Rust", "repo": "pangolin", "new_stars": 7, "stars": 73, "owner": "dpeckett", "forks": 3},
 {"description": "A complete text editor for your terminal.", "language": "Rust", "repo": "amp", "new_stars": 7, "stars": 2081, "owner": "jmacdonald", "forks": 63},
 {"description": "JQuery for Crabs", "language": "Rust", "repo": "crabquery", "new_stars": 7, "stars": 34, "owner": "Gonzih", "forks": 1},
-{"description": "A tool to conveniently learn about the disk usage of directories, fast!", "language": "Rust", "repo": "dua-cli", "new_stars": 8, "stars": 338, "owner": "Byron", "forks": 16}
+{"description": "A tool to conveniently learn about the disk usage of directories, fast!", "language": "Rust", "repo": "dua-cli", "new_stars": 8, "stars": 339, "owner": "Byron", "forks": 16}
 ]

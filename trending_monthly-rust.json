@@ -1,7 +1,7 @@
 [
 {"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 1509, "stars": 1509, "owner": "google", "forks": 100},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 837, "stars": 20893, "owner": "alacritty", "forks": 1003},
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 576, "stars": 4489, "owner": "Rigellute", "forks": 143},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 576, "stars": 4490, "owner": "Rigellute", "forks": 143},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 79, "stars": 1539, "owner": "rusoto", "forks": 260},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 871, "stars": 42931, "owner": "rust-lang", "forks": 6528},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 485, "stars": 2645, "owner": "rust-analyzer", "forks": 260},
@@ -18,9 +18,9 @@
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 176, "stars": 1759, "owner": "http-rs", "forks": 156},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 60, "stars": 586, "owner": "tokio-rs", "forks": 77},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 428, "stars": 4739, "owner": "actix", "forks": 461},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 464, "stars": 12451, "owner": "sharkdp", "forks": 312},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 464, "stars": 12452, "owner": "sharkdp", "forks": 312},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 269, "stars": 9071, "owner": "SergioBenitez", "forks": 623},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 554, "stars": 18062, "owner": "sharkdp", "forks": 359},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 552, "stars": 18063, "owner": "sharkdp", "forks": 359},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 56, "stars": 1456, "owner": "rust-lang", "forks": 346},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 91, "stars": 811, "owner": "gfx-rs", "forks": 76},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 120, "stars": 1195, "owner": "cloudflare", "forks": 155}

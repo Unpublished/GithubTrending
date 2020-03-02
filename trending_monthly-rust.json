@@ -1,6 +1,6 @@
 [
 {"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 1515, "stars": 1513, "owner": "google", "forks": 101},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 855, "stars": 20903, "owner": "alacritty", "forks": 1002},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 855, "stars": 20905, "owner": "alacritty", "forks": 1002},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 589, "stars": 4499, "owner": "Rigellute", "forks": 143},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 80, "stars": 1540, "owner": "rusoto", "forks": 260},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 891, "stars": 42939, "owner": "rust-lang", "forks": 6532},
@@ -19,7 +19,7 @@
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 61, "stars": 588, "owner": "tokio-rs", "forks": 77},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 433, "stars": 4741, "owner": "actix", "forks": 462},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 478, "stars": 12455, "owner": "sharkdp", "forks": 312},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 276, "stars": 9076, "owner": "SergioBenitez", "forks": 623},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 276, "stars": 9077, "owner": "SergioBenitez", "forks": 623},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 574, "stars": 18068, "owner": "sharkdp", "forks": 359},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 56, "stars": 1457, "owner": "rust-lang", "forks": 346},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 91, "stars": 811, "owner": "gfx-rs", "forks": 76},

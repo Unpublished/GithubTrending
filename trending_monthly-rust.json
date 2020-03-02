@@ -1,7 +1,7 @@
 [
 {"description": "OpenSK is an open-source implementation for security keys written in Rust that supports both FIDO U2F and FIDO2 standards.", "language": "Rust", "repo": "OpenSK", "new_stars": 1515, "stars": 1513, "owner": "google", "forks": 101},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 855, "stars": 20901, "owner": "alacritty", "forks": 1002},
-{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 589, "stars": 4494, "owner": "Rigellute", "forks": 143},
+{"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 589, "stars": 4495, "owner": "Rigellute", "forks": 143},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 80, "stars": 1540, "owner": "rusoto", "forks": 260},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 891, "stars": 42938, "owner": "rust-lang", "forks": 6531},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 491, "stars": 2648, "owner": "rust-analyzer", "forks": 260},
@@ -17,7 +17,7 @@
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 135, "stars": 5084, "owner": "diesel-rs", "forks": 486},
 {"description": "Serve the web \u2013 HTTP server framework", "language": "Rust", "repo": "tide", "new_stars": 179, "stars": 1760, "owner": "http-rs", "forks": 156},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 61, "stars": 588, "owner": "tokio-rs", "forks": 77},
-{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 433, "stars": 4740, "owner": "actix", "forks": 461},
+{"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 433, "stars": 4741, "owner": "actix", "forks": 462},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 478, "stars": 12455, "owner": "sharkdp", "forks": 312},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 276, "stars": 9074, "owner": "SergioBenitez", "forks": 623},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 574, "stars": 18067, "owner": "sharkdp", "forks": 359},

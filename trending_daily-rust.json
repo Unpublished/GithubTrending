@@ -1,13 +1,13 @@
 [
 {"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 15, "stars": 5581, "owner": "wasmerio", "forks": 200},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 42994, "owner": "rust-lang", "forks": 6538},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 36, "stars": 42995, "owner": "rust-lang", "forks": 6538},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 9, "stars": 6509, "owner": "nushell", "forks": 255},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 11, "stars": 5301, "owner": "rust-lang", "forks": 1093},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 21, "stars": 10820, "owner": "firecracker-microvm", "forks": 708},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 15, "stars": 6217, "owner": "starship", "forks": 277},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 7, "stars": 3535, "owner": "tokio-rs", "forks": 423},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 9, "stars": 2488, "owner": "seanmonstar", "forks": 350},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 15617, "owner": "servo", "forks": 2329},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 9, "stars": 2489, "owner": "seanmonstar", "forks": 350},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 15618, "owner": "servo", "forks": 2329},
 {"description": "kubernetes client and futures controller runtime", "language": "Rust", "repo": "kube-rs", "new_stars": 4, "stars": 174, "owner": "clux", "forks": 36},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 2, "stars": 927, "owner": "tower-rs", "forks": 73},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 7, "stars": 1545, "owner": "vi", "forks": 65},
@@ -21,7 +21,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 18, "stars": 14285, "owner": "rust-unofficial", "forks": 953},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 3, "stars": 3248, "owner": "rust-lang", "forks": 473},
 {"description": "Automatically trims your branches whose tracking remote refs are merged or gone", "language": "Rust", "repo": "git-trim", "new_stars": 16, "stars": 91, "owner": "foriequal0", "forks": 1},
-{"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 10, "stars": 3089, "owner": "spacejam", "forks": 130},
+{"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 10, "stars": 3090, "owner": "spacejam", "forks": 130},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 35, "stars": 821, "owner": "hrkfdn", "forks": 37},
 {"description": "Official Elasticsearch Rust Client", "language": "Rust", "repo": "elasticsearch-rs", "new_stars": 2, "stars": 256, "owner": "elastic", "forks": 16}
 ]

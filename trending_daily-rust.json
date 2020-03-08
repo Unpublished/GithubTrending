@@ -1,14 +1,14 @@
 [
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 210, "stars": 11071, "owner": "firecracker-microvm", "forks": 718},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 210, "stars": 11077, "owner": "firecracker-microvm", "forks": 718},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 37, "stars": 18592, "owner": "BurntSushi", "forks": 822},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 58, "stars": 249156, "owner": "996icu", "forks": 21198},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 16, "stars": 7555, "owner": "tokio-rs", "forks": 680},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 16, "stars": 7556, "owner": "tokio-rs", "forks": 680},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 36, "stars": 14343, "owner": "rust-unofficial", "forks": 959},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 7499, "owner": "actix", "forks": 1000},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 7499, "owner": "actix", "forks": 999},
 {"description": "Linear algebra library for Rust.", "language": "Rust", "repo": "nalgebra", "new_stars": 6, "stars": 1491, "owner": "rustsim", "forks": 205},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 31, "stars": 3087, "owner": "dani-garcia", "forks": 208},
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 31, "stars": 3088, "owner": "dani-garcia", "forks": 208},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 2347, "owner": "graphql-rust", "forks": 192},
-{"description": "JVM written in Rust", "language": "Rust", "repo": "jvm", "new_stars": 89, "stars": 153, "owner": "douchuan", "forks": 5},
+{"description": "JVM written in Rust", "language": "Rust", "repo": "jvm", "new_stars": 89, "stars": 154, "owner": "douchuan", "forks": 5},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 7, "stars": 969, "owner": "actix", "forks": 325},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 7, "stars": 2825, "owner": "rust-lang", "forks": 470},
 {"description": "Rust friendly bindings to *nix APIs", "language": "Rust", "repo": "nix", "new_stars": 3, "stars": 1131, "owner": "nix-rust", "forks": 324},
@@ -21,7 +21,7 @@
 {"description": "Impossibly fast web search, made for static sites.", "language": "Rust", "repo": "stork", "new_stars": 22, "stars": 35, "owner": "jameslittle230", "forks": 0},
 {"description": "Web Crawler for Crabs", "language": "Rust", "repo": "crabler", "new_stars": 26, "stars": 30, "owner": "Gonzih", "forks": 0},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 24, "stars": 2199, "owner": "mit-pdos", "forks": 98},
-{"description": "Flexible concrete Error type built on std::error::Error", "language": "Rust", "repo": "anyhow", "new_stars": 11, "stars": 656, "owner": "dtolnay", "forks": 18},
-{"description": "derive(Error) for struct and enum error types", "language": "Rust", "repo": "thiserror", "new_stars": 16, "stars": 537, "owner": "dtolnay", "forks": 15},
-{"description": "Easy WiFi setup for Linux devices from your mobile phone or laptop", "language": "Rust", "repo": "wifi-connect", "new_stars": 5, "stars": 617, "owner": "balena-io", "forks": 208}
+{"description": "Flexible concrete Error type built on std::error::Error", "language": "Rust", "repo": "anyhow", "new_stars": 10, "stars": 656, "owner": "dtolnay", "forks": 18},
+{"description": "derive(Error) for struct and enum error types", "language": "Rust", "repo": "thiserror", "new_stars": 14, "stars": 538, "owner": "dtolnay", "forks": 15},
+{"description": "Easy WiFi setup for Linux devices from your mobile phone or laptop", "language": "Rust", "repo": "wifi-connect", "new_stars": 5, "stars": 618, "owner": "balena-io", "forks": 208}
 ]

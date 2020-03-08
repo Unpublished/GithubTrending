@@ -1,6 +1,6 @@
 [
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 4, "stars": 10141, "owner": "mperham", "forks": 1781},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 6, "stars": 10624, "owner": "rubocop-hq", "forks": 2302},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 5, "stars": 10624, "owner": "rubocop-hq", "forks": 2302},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 20, "stars": 19814, "owner": "rapid7", "forks": 9584},
 {"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails", "language": "Ruby", "repo": "decidim", "new_stars": 2, "stars": 650, "owner": "decidim", "forks": 185},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 9, "stars": 28201, "owner": "fastlane", "forks": 4421},
@@ -13,8 +13,8 @@
 {"description": "Starter project for Flutter plugins willing to access native and synchronous rust code using FFI", "language": "Ruby", "repo": "flutter-rust-ffi", "new_stars": 44, "stars": 118, "owner": "brickpop", "forks": 3},
 {"description": "Modern concurrency tools including agents, futures, promises, thread pools, supervisors, and more. Inspired by Erlang, Clojure, Scala, Go, Java, JavaScript, and classic concurrency patterns.", "language": "Ruby", "repo": "concurrent-ruby", "new_stars": 3, "stars": 4867, "owner": "ruby-concurrency", "forks": 332},
 {"description": null, "language": "Ruby", "repo": "logstash-patterns-core", "new_stars": 1, "stars": 1566, "owner": "logstash-plugins", "forks": 762},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 6, "stars": 19549, "owner": "hashicorp", "forks": 3899},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 5, "stars": 11140, "owner": "elastic", "forks": 2955},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 6, "stars": 19550, "owner": "hashicorp", "forks": 3899},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 5, "stars": 11141, "owner": "elastic", "forks": 2955},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 14, "stars": 39890, "owner": "jekyll", "forks": 8756},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 1, "stars": 2006, "owner": "zammad", "forks": 401},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 3, "stars": 12289, "owner": "CocoaPods", "forks": 2214},
@@ -22,6 +22,6 @@
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 0, "stars": 4156, "owner": "rmosolgo", "forks": 866},
 {"description": "A really simple end-user interface for your BigBlueButton server.", "language": "Ruby", "repo": "greenlight", "new_stars": 3, "stars": 108, "owner": "bigbluebutton", "forks": 367},
 {"description": "Cucumber for Ruby", "language": "Ruby", "repo": "cucumber-ruby", "new_stars": 0, "stars": 5028, "owner": "cucumber", "forks": 1107},
-{"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 0, "stars": 2778, "owner": "thoughtbot", "forks": 805},
+{"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 0, "stars": 2779, "owner": "thoughtbot", "forks": 805},
 {"description": "Fluentd daemonset for Kubernetes and it Docker image", "language": "Ruby", "repo": "fluentd-kubernetes-daemonset", "new_stars": 1, "stars": 639, "owner": "fluent", "forks": 564}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u63a8\u7406 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) \u603b\u6a21\u578b\u4ec517M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 246, "stars": 1783, "owner": "ouyanghuiyu", "forks": 217},
 {"description": "vfuzz", "language": "C++", "repo": "vfuzz", "new_stars": 44, "stars": 125, "owner": "guidovranken", "forks": 23},
-{"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 9, "stars": 3688, "owner": "IntelRealSense", "forks": 2503},
+{"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 9, "stars": 3688, "owner": "IntelRealSense", "forks": 2504},
 {"description": null, "language": "C++", "repo": "security", "new_stars": 42, "stars": 210, "owner": "windows-internals-guide", "forks": 5},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 6, "stars": 14411, "owner": "facebook", "forks": 3471},
 {"description": "SRS is a live streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 10, "stars": 7587, "owner": "ossrs", "forks": 2763},
@@ -22,6 +22,6 @@
 {"description": "Tiny but powerful single file wavefront obj loader", "language": "C++", "repo": "tinyobjloader", "new_stars": 2, "stars": 1711, "owner": "tinyobjloader", "forks": 372},
 {"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 7, "stars": 1991, "owner": "NVIDIA", "forks": 402},
 {"description": "PS3 emulator/debugger", "language": "C++", "repo": "rpcs3", "new_stars": 5, "stars": 7551, "owner": "RPCS3", "forks": 1264},
-{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 2, "stars": 4160, "owner": "google", "forks": 787},
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 5, "stars": 14640, "owner": "google", "forks": 5841}
+{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 2, "stars": 4161, "owner": "google", "forks": 787},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 5, "stars": 14640, "owner": "google", "forks": 5842}
 ]

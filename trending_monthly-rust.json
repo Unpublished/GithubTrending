@@ -1,12 +1,12 @@
 [
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 876, "stars": 11478, "owner": "firecracker-microvm", "forks": 749},
 {"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 471, "stars": 1058, "owner": "Kethku", "forks": 35},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 197, "stars": 2617, "owner": "bytecodealliance", "forks": 224},
-{"description": "An interactive cheatsheet tool for the command-line", "language": "Rust", "repo": "navi", "new_stars": 556, "stars": 6157, "owner": "denisidoro", "forks": 284},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 197, "stars": 2619, "owner": "bytecodealliance", "forks": 224},
+{"description": "An interactive cheatsheet tool for the command-line", "language": "Rust", "repo": "navi", "new_stars": 556, "stars": 6162, "owner": "denisidoro", "forks": 284},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 610, "stars": 4670, "owner": "Rigellute", "forks": 144},
 {"description": "The Streaming Data Warehouse", "language": "Rust", "repo": "materialize", "new_stars": 799, "stars": 799, "owner": "MaterializeInc", "forks": 53},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 786, "stars": 43213, "owner": "rust-lang", "forks": 6557},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 606, "stars": 18325, "owner": "sharkdp", "forks": 367},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 606, "stars": 18326, "owner": "sharkdp", "forks": 367},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 160, "stars": 3843, "owner": "pingcap", "forks": 544},
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 269, "stars": 6628, "owner": "nushell", "forks": 265},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 367, "stars": 8927, "owner": "ogham", "forks": 278},
@@ -22,6 +22,6 @@
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 37, "stars": 745, "owner": "rust-lang", "forks": 473},
 {"description": "A modular implementation of timely dataflow in Rust", "language": "Rust", "repo": "timely-dataflow", "new_stars": 113, "stars": 1401, "owner": "TimelyDataflow", "forks": 139},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 490, "stars": 14415, "owner": "rust-unofficial", "forks": 965},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 491, "stars": 1449, "owner": "tauri-apps", "forks": 43},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 491, "stars": 1450, "owner": "tauri-apps", "forks": 43},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 169, "stars": 7001, "owner": "tikv", "forks": 1033}
 ]

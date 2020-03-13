@@ -1,7 +1,7 @@
 [
-{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 557, "stars": 1936, "owner": "bottlerocket-os", "forks": 64},
+{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 557, "stars": 1942, "owner": "bottlerocket-os", "forks": 65},
 {"description": "A fast cd command that learns your habits", "language": "Rust", "repo": "zoxide", "new_stars": 84, "stars": 672, "owner": "ajeetdsouza", "forks": 16},
-{"description": "An interactive cheatsheet tool for the command-line", "language": "Rust", "repo": "navi", "new_stars": 237, "stars": 6077, "owner": "denisidoro", "forks": 284},
+{"description": "An interactive cheatsheet tool for the command-line", "language": "Rust", "repo": "navi", "new_stars": 223, "stars": 6078, "owner": "denisidoro", "forks": 284},
 {"description": "Deno bindings for webview, a tiny library for creating web-based desktop GUIs", "language": "Rust", "repo": "deno_webview", "new_stars": 13, "stars": 56, "owner": "eliassjogreen", "forks": 2},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 8, "stars": 5122, "owner": "diesel-rs", "forks": 494},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 4, "stars": 3837, "owner": "pingcap", "forks": 545},
@@ -17,11 +17,11 @@
 {"description": null, "language": "Rust", "repo": "Evokit", "new_stars": 8, "stars": 36, "owner": "etsy", "forks": 1},
 {"description": "For when you really just want to serve some files over HTTP right now!", "language": "Rust", "repo": "miniserve", "new_stars": 20, "stars": 633, "owner": "svenstaro", "forks": 36},
 {"description": "manage cargo cache (${CARGO_HOME}, ~/.cargo/), print sizes of dirs and remove dirs selectively", "language": "Rust", "repo": "cargo-cache", "new_stars": 6, "stars": 222, "owner": "matthiaskrgr", "forks": 3},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 43198, "owner": "rust-lang", "forks": 6555},
-{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 17, "stars": 4850, "owner": "sharkdp", "forks": 86},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 25, "stars": 43201, "owner": "rust-lang", "forks": 6555},
+{"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 17, "stars": 4851, "owner": "sharkdp", "forks": 86},
 {"description": "A more intuitive version of du in rust", "language": "Rust", "repo": "dust", "new_stars": 24, "stars": 747, "owner": "bootandy", "forks": 24},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 37, "stars": 8923, "owner": "ogham", "forks": 277},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 37, "stars": 8923, "owner": "ogham", "forks": 278},
 {"description": "A modern replacement for ps written in Rust", "language": "Rust", "repo": "procs", "new_stars": 21, "stars": 701, "owner": "dalance", "forks": 11},
-{"description": "Blazing fast concurrent HashMap for Rust.", "language": "Rust", "repo": "dashmap", "new_stars": 7, "stars": 394, "owner": "xacrimon", "forks": 17},
+{"description": "Blazing fast concurrent HashMap for Rust.", "language": "Rust", "repo": "dashmap", "new_stars": 7, "stars": 395, "owner": "xacrimon", "forks": 17},
 {"description": "Terminal bandwidth utilization tool", "language": "Rust", "repo": "bandwhich", "new_stars": 15, "stars": 5219, "owner": "imsnif", "forks": 129}
 ]

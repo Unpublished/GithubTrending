@@ -2,7 +2,7 @@
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 32, "stars": 18784, "owner": "BurntSushi", "forks": 832},
 {"description": "A blazingly fast multi-producer, single-consumer channel.", "language": "Rust", "repo": "flume", "new_stars": 22, "stars": 207, "owner": "zesterer", "forks": 6},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 7, "stars": 1630, "owner": "shadowsocks", "forks": 382},
-{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 6, "stars": 1581, "owner": "rusoto", "forks": 264},
+{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 6, "stars": 1582, "owner": "rusoto", "forks": 264},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 5, "stars": 2462, "owner": "tree-sitter", "forks": 156},
 {"description": "An x86 bootloader written in Rust.", "language": "Rust", "repo": "krabs", "new_stars": 5, "stars": 256, "owner": "ellbrid", "forks": 6},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 8, "stars": 7582, "owner": "swc-project", "forks": 138},
@@ -20,7 +20,7 @@
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 8, "stars": 10897, "owner": "yewstack", "forks": 435},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 4, "stars": 3255, "owner": "Spotifyd", "forks": 156},
 {"description": "The fast, light, and robust client for Ethereum-like networks.", "language": "Rust", "repo": "openethereum", "new_stars": 2, "stars": 5881, "owner": "openethereum", "forks": 1448},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 26, "stars": 1428, "owner": "xi-editor", "forks": 107},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 26, "stars": 1429, "owner": "xi-editor", "forks": 107},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 3, "stars": 2738, "owner": "autozimu", "forks": 232},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 2, "stars": 5345, "owner": "rust-lang", "forks": 1096},
 {"description": "Serve the web \u2013 ergonomic async http server framework", "language": "Rust", "repo": "tide", "new_stars": 2, "stars": 1796, "owner": "http-rs", "forks": 164}

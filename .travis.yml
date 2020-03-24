@@ -14,9 +14,9 @@ script:
 
 deploy:
   provider: pages
-  skip-cleanup: true
-  github-token: $GITHUB_TOKEN
-  keep-history: true
-  target-branch: trends
+  skip_cleanup: true
+  token: $GITHUB_TOKEN
+  keep_history: true
+  target_branch: trends
   on:
     branch: trends

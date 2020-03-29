@@ -1,6 +1,6 @@
 [
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 48, "stars": 5097, "owner": "amethyst", "forks": 566},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 224, "stars": 18698, "owner": "sharkdp", "forks": 376},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 224, "stars": 18700, "owner": "sharkdp", "forks": 376},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 64, "stars": 7698, "owner": "tokio-rs", "forks": 701},
 {"description": "A safe and fast multi-producer, single-consumer channel.", "language": "Rust", "repo": "flume", "new_stars": 120, "stars": 361, "owner": "zesterer", "forks": 9},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 43, "stars": 2451, "owner": "graphql-rust", "forks": 209},
@@ -12,7 +12,7 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 21, "stars": 1938, "owner": "paritytech", "forks": 572},
 {"description": "Blazing fast concurrent HashMap for Rust.", "language": "Rust", "repo": "dashmap", "new_stars": 217, "stars": 652, "owner": "xacrimon", "forks": 24},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 24, "stars": 3767, "owner": "gfx-rs", "forks": 434},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 27, "stars": 1852, "owner": "hyperium", "forks": 127},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 27, "stars": 1853, "owner": "hyperium", "forks": 127},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 35, "stars": 5214, "owner": "diesel-rs", "forks": 503},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 27, "stars": 2566, "owner": "seanmonstar", "forks": 358},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 31, "stars": 3141, "owner": "cloudflare", "forks": 163},

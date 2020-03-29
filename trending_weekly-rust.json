@@ -3,16 +3,16 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 48, "stars": 5095, "owner": "amethyst", "forks": 565},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 64, "stars": 7693, "owner": "tokio-rs", "forks": 701},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 43, "stars": 2449, "owner": "graphql-rust", "forks": 208},
-{"description": "KECC: KAIST Educational C Compiler", "language": "Rust", "repo": "kecc-public", "new_stars": 15, "stars": 42, "owner": "kaist-cp", "forks": 19},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 105, "stars": 8011, "owner": "rust-lang", "forks": 873},
+{"description": "KECC: KAIST Educational C Compiler", "language": "Rust", "repo": "kecc-public", "new_stars": 15, "stars": 42, "owner": "kaist-cp", "forks": 20},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 105, "stars": 8012, "owner": "rust-lang", "forks": 873},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 140, "stars": 21339, "owner": "alacritty", "forks": 1034},
 {"description": "A safe and fast multi-producer, single-consumer channel.", "language": "Rust", "repo": "flume", "new_stars": 120, "stars": 356, "owner": "zesterer", "forks": 9},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 27, "stars": 1427, "owner": "rust-lang", "forks": 221},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 190, "stars": 43534, "owner": "rust-lang", "forks": 6599},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 190, "stars": 43536, "owner": "rust-lang", "forks": 6599},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 122, "stars": 11048, "owner": "yewstack", "forks": 447},
-{"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 24, "stars": 3763, "owner": "gfx-rs", "forks": 434},
+{"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 24, "stars": 3764, "owner": "gfx-rs", "forks": 434},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 21, "stars": 1937, "owner": "paritytech", "forks": 572},
-{"description": "Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage", "language": "Rust", "repo": "zenith", "new_stars": 37, "stars": 180, "owner": "bvaisvil", "forks": 5},
+{"description": "Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage", "language": "Rust", "repo": "zenith", "new_stars": 37, "stars": 181, "owner": "bvaisvil", "forks": 5},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 26, "stars": 1497, "owner": "xi-editor", "forks": 117},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 42, "stars": 3942, "owner": "clap-rs", "forks": 374},
 {"description": "Game data snapshot manager.", "language": "Rust", "repo": "yyx", "new_stars": 14, "stars": 255, "owner": "OnmyojiX", "forks": 60},
@@ -23,5 +23,5 @@
 {"description": "The Interplanetary File System (IPFS), implemented in Rust", "language": "Rust", "repo": "rust-ipfs", "new_stars": 62, "stars": 386, "owner": "ipfs-rust", "forks": 34},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 24, "stars": 2268, "owner": "PyO3", "forks": 156},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 17, "stars": 2095, "owner": "async-rs", "forks": 189},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 181, "stars": 249187, "owner": "996icu", "forks": 21157}
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 181, "stars": 249186, "owner": "996icu", "forks": 21157}
 ]

@@ -1,17 +1,17 @@
 [
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 5, "stars": 1850, "owner": "hyperium", "forks": 127},
 {"description": "Library for building cosmos-compatible wasm smart contracts", "language": "Rust", "repo": "cosmwasm", "new_stars": 20, "stars": 109, "owner": "CosmWasm", "forks": 29},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 18953, "owner": "BurntSushi", "forks": 840},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 18952, "owner": "BurntSushi", "forks": 840},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 21, "stars": 3289, "owner": "dani-garcia", "forks": 228},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 21, "stars": 12795, "owner": "sharkdp", "forks": 323},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 5, "stars": 1132, "owner": "rust-windowing", "forks": 308},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 6, "stars": 3943, "owner": "clap-rs", "forks": 374},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 18, "stars": 8014, "owner": "rust-lang", "forks": 873},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 9, "stars": 2551, "owner": "fdehau", "forks": 128},
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 9, "stars": 2552, "owner": "fdehau", "forks": 128},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 14648, "owner": "rust-unofficial", "forks": 985},
-{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 7, "stars": 3925, "owner": "pingcap", "forks": 560},
+{"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 7, "stars": 3926, "owner": "pingcap", "forks": 560},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 6, "stars": 1116, "owner": "greshake", "forks": 191},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 2691, "owner": "bytecodealliance", "forks": 233},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 2691, "owner": "bytecodealliance", "forks": 232},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 36, "stars": 21341, "owner": "alacritty", "forks": 1035},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 2, "stars": 2014, "owner": "blockstack", "forks": 347},
 {"description": "SDL2 bindings for Rust", "language": "Rust", "repo": "rust-sdl2", "new_stars": 7, "stars": 1218, "owner": "Rust-SDL2", "forks": 283},
@@ -23,5 +23,5 @@
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 5, "stars": 1847, "owner": "redox-os", "forks": 104},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 7, "stars": 2096, "owner": "async-rs", "forks": 189},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 10, "stars": 14088, "owner": "libra", "forks": 2117},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 27, "stars": 249187, "owner": "996icu", "forks": 21156}
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 27, "stars": 249186, "owner": "996icu", "forks": 21155}
 ]

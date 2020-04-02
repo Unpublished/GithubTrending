@@ -1,17 +1,17 @@
 [
-{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 548, "stars": 16985, "owner": "microsoft", "forks": 861},
+{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 551, "stars": 16988, "owner": "microsoft", "forks": 862},
 {"description": "MegEngine \u662f\u4e00\u4e2a\u5feb\u901f\u3001\u53ef\u62d3\u5c55\u3001\u6613\u4e8e\u4f7f\u7528\u4e14\u652f\u6301\u81ea\u52a8\u6c42\u5bfc\u7684\u6df1\u5ea6\u5b66\u4e60\u6846\u67b6", "language": "C++", "repo": "MegEngine", "new_stars": 433, "stars": 1929, "owner": "MegEngine", "forks": 268},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 103, "stars": 8896, "owner": "qbittorrent", "forks": 1614},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 103, "stars": 8896, "owner": "qbittorrent", "forks": 1615},
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 126, "stars": 9869, "owner": "yuzu-emu", "forks": 701},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 84, "stars": 14861, "owner": "google", "forks": 5957},
-{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 149, "stars": 19674, "owner": "ocornut", "forks": 3198},
+{"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 149, "stars": 19675, "owner": "ocornut", "forks": 3198},
 {"description": "Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs", "language": "C++", "repo": "WhateverGreen", "new_stars": 50, "stars": 1680, "owner": "acidanthera", "forks": 268},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 246, "stars": 11786, "owner": "telegramdesktop", "forks": 2717},
 {"description": "Cutting Edge WebRTC Video Conferencing", "language": "C++", "repo": "mediasoup", "new_stars": 50, "stars": 1251, "owner": "versatica", "forks": 291},
 {"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 46, "stars": 11062, "owner": "catchorg", "forks": 1836},
-{"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 106, "stars": 7881, "owner": "ossrs", "forks": 2821},
+{"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 106, "stars": 7882, "owner": "ossrs", "forks": 2821},
 {"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 176, "stars": 10317, "owner": "topjohnwu", "forks": 1709},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at", "language": "C++", "repo": "Tasmota", "new_stars": 103, "stars": 10142, "owner": "arendst", "forks": 2356},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at", "language": "C++", "repo": "Tasmota", "new_stars": 103, "stars": 10143, "owner": "arendst", "forks": 2356},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 395, "stars": 142740, "owner": "tensorflow", "forks": 80601},
 {"description": "The official distribution of olcConsoleGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "videos", "new_stars": 18, "stars": 761, "owner": "OneLoneCoder", "forks": 602},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 23, "stars": 3933, "owner": "PCSX2", "forks": 674},
@@ -22,6 +22,6 @@
 {"description": "Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system", "language": "C++", "repo": "anbox", "new_stars": 66, "stars": 4125, "owner": "anbox", "forks": 714},
 {"description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 29, "stars": 1111, "owner": "xiongziliang", "forks": 407},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 33, "stars": 1558, "owner": "esphome", "forks": 388},
-{"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 210, "stars": 9420, "owner": "simdjson", "forks": 502},
-{"description": "codes for my streams and YT videos", "language": "C++", "repo": "youtube", "new_stars": 77, "stars": 625, "owner": "Errichto", "forks": 138}
+{"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 210, "stars": 9421, "owner": "simdjson", "forks": 502},
+{"description": "codes for my streams and YT videos", "language": "C++", "repo": "youtube", "new_stars": 77, "stars": 626, "owner": "Errichto", "forks": 138}
 ]

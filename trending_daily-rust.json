@@ -1,18 +1,18 @@
 [
 {"description": "A modern shell written in Rust", "language": "Rust", "repo": "nushell", "new_stars": 15, "stars": 6722, "owner": "nushell", "forks": 273},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 20, "stars": 43646, "owner": "rust-lang", "forks": 6609},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 21, "stars": 43646, "owner": "rust-lang", "forks": 6609},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 10, "stars": 2023, "owner": "tock", "forks": 266},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 14, "stars": 8073, "owner": "fmoko", "forks": 890},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 14, "stars": 8074, "owner": "fmoko", "forks": 890},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 4434, "owner": "rust-lang", "forks": 580},
 {"description": "Libra\u2019s mission is to enable a simple global currency and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 3, "stars": 14102, "owner": "libra", "forks": 2123},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 4, "stars": 2024, "owner": "blockstack", "forks": 348},
-{"description": "the missing macOS app notarization helper, built with Rust", "language": "Rust", "repo": "xcnotary", "new_stars": 137, "stars": 319, "owner": "akeru-inc", "forks": 6},
-{"description": "ZetZ a zymbolic verifier and tranzpiler to bare metal C", "language": "Rust", "repo": "zz", "new_stars": 62, "stars": 1186, "owner": "zetzit", "forks": 25},
+{"description": "the missing macOS app notarization helper, built with Rust", "language": "Rust", "repo": "xcnotary", "new_stars": 134, "stars": 319, "owner": "akeru-inc", "forks": 6},
+{"description": "ZetZ a zymbolic verifier and tranzpiler to bare metal C", "language": "Rust", "repo": "zz", "new_stars": 61, "stars": 1186, "owner": "zetzit", "forks": 25},
 {"description": "Dynamically changing, partially-stateful data-flow for web application backends.", "language": "Rust", "repo": "noria", "new_stars": 26, "stars": 2320, "owner": "mit-pdos", "forks": 106},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 8, "stars": 3667, "owner": "timberio", "forks": 195},
-{"description": "Save disk space by cleaning unneeded files from software projects.", "language": "Rust", "repo": "kondo", "new_stars": 19, "stars": 213, "owner": "tbillington", "forks": 15},
-{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 7, "stars": 1030, "owner": "actix", "forks": 348},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 16, "stars": 6618, "owner": "starship", "forks": 295},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 6, "stars": 3667, "owner": "timberio", "forks": 196},
+{"description": "Save disk space by cleaning unneeded files from software projects.", "language": "Rust", "repo": "kondo", "new_stars": 20, "stars": 213, "owner": "tbillington", "forks": 15},
+{"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 7, "stars": 1031, "owner": "actix", "forks": 348},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 16, "stars": 6619, "owner": "starship", "forks": 295},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 2, "stars": 5120, "owner": "rust-lang", "forks": 1391},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 12, "stars": 1881, "owner": "hyperium", "forks": 129},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 0, "stars": 1941, "owner": "paritytech", "forks": 575},
@@ -23,5 +23,5 @@
 {"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 12, "stars": 2709, "owner": "bottlerocket-os", "forks": 96},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 8, "stars": 1622, "owner": "vi", "forks": 67},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 3, "stars": 1616, "owner": "rusoto", "forks": 266},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 3036, "owner": "rustwasm", "forks": 407}
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 3036, "owner": "rustwasm", "forks": 406}
 ]

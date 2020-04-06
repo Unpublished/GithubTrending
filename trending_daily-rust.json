@@ -1,6 +1,6 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 52, "stars": 43774, "owner": "rust-lang", "forks": 6622},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 192, "stars": 4884, "owner": "hecrj", "forks": 128},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 52, "stars": 43777, "owner": "rust-lang", "forks": 6622},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 192, "stars": 4885, "owner": "hecrj", "forks": 128},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 23, "stars": 11129, "owner": "yewstack", "forks": 455},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 12, "stars": 3697, "owner": "timberio", "forks": 201},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 7, "stars": 3787, "owner": "gfx-rs", "forks": 437},
@@ -8,13 +8,13 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 11, "stars": 4451, "owner": "rust-lang", "forks": 584},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 16, "stars": 5156, "owner": "amethyst", "forks": 575},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 4, "stars": 514, "owner": "gfx-rs", "forks": 78},
-{"description": "A Rust DataFrame implementation, built on Apache Arrow", "language": "Rust", "repo": "rust-dataframe", "new_stars": 49, "stars": 152, "owner": "nevi-me", "forks": 8},
+{"description": "A Rust DataFrame implementation, built on Apache Arrow", "language": "Rust", "repo": "rust-dataframe", "new_stars": 49, "stars": 153, "owner": "nevi-me", "forks": 8},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 24, "stars": 8136, "owner": "fmoko", "forks": 901},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 45, "stars": 21558, "owner": "alacritty", "forks": 1051},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 45, "stars": 21559, "owner": "alacritty", "forks": 1051},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 14, "stars": 2557, "owner": "huggingface", "forks": 154},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 4, "stars": 5134, "owner": "rust-lang", "forks": 1394},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 5, "stars": 2985, "owner": "serde-rs", "forks": 320},
-{"description": "Serve the web \u2013 ergonomic async http server framework", "language": "Rust", "repo": "tide", "new_stars": 4, "stars": 1828, "owner": "http-rs", "forks": 167},
+{"description": "Serve the web \u2013 ergonomic async http server framework", "language": "Rust", "repo": "tide", "new_stars": 4, "stars": 1828, "owner": "http-rs", "forks": 168},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 6, "stars": 2290, "owner": "PyO3", "forks": 155},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 4, "stars": 868, "owner": "gfx-rs", "forks": 81},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 8, "stars": 2484, "owner": "graphql-rust", "forks": 212},
@@ -22,6 +22,6 @@
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 2, "stars": 1033, "owner": "actix", "forks": 351},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 4, "stars": 2590, "owner": "crossbeam-rs", "forks": 187},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 12, "stars": 11717, "owner": "firecracker-microvm", "forks": 764},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 125, "stars": 3858, "owner": "meilisearch", "forks": 101},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 125, "stars": 3860, "owner": "meilisearch", "forks": 101},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 7, "stars": 3977, "owner": "clap-rs", "forks": 381}
 ]

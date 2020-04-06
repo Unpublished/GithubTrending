@@ -1,16 +1,16 @@
 [
 {"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u63a8\u7406 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) \u603b\u6a21\u578b\u4ec517M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 3151, "stars": 3779, "owner": "ouyanghuiyu", "forks": 615},
-{"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 394, "stars": 7931, "owner": "ossrs", "forks": 2832},
+{"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 394, "stars": 7932, "owner": "ossrs", "forks": 2832},
 {"description": "MediaPipe is a cross-platform framework for building multimodal applied machine learning pipelines", "language": "C++", "repo": "mediapipe", "new_stars": 1060, "stars": 6142, "owner": "google", "forks": 1101},
 {"description": "An open source library for face detection in images. The face detection speed can reach 1000FPS.", "language": "C++", "repo": "libfacedetection", "new_stars": 860, "stars": 9236, "owner": "ShiqiYu", "forks": 2562},
 {"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 1580, "stars": 17319, "owner": "microsoft", "forks": 880},
 {"description": "C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002", "language": "C++", "repo": "interview", "new_stars": 909, "stars": 10334, "owner": "huihut", "forks": 3228},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 729, "stars": 10392, "owner": "topjohnwu", "forks": 1723},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1530, "stars": 142879, "owner": "tensorflow", "forks": 80641},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 729, "stars": 10393, "owner": "topjohnwu", "forks": 1723},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1530, "stars": 142881, "owner": "tensorflow", "forks": 80641},
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 367, "stars": 9921, "owner": "yuzu-emu", "forks": 715},
 {"description": "Utility to convert between various subscription format", "language": "C++", "repo": "subconverter", "new_stars": 545, "stars": 1371, "owner": "tindy2013", "forks": 308},
 {"description": "Industrial-grade RPC framework used throughout Baidu, with 1,000,000+ instances and thousands kinds of services, called \"baidu-rpc\" inside Baidu.", "language": "C++", "repo": "incubator-brpc", "new_stars": 170, "stars": 9839, "owner": "apache", "forks": 2397},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 981, "stars": 37500, "owner": "pytorch", "forks": 9550},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 981, "stars": 37502, "owner": "pytorch", "forks": 9551},
 {"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 280, "stars": 9606, "owner": "Tencent", "forks": 1045},
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 527, "stars": 19735, "owner": "ocornut", "forks": 3216},
 {"description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe", "language": "C++", "repo": "OpenTTD", "new_stars": 99, "stars": 2329, "owner": "OpenTTD", "forks": 328},
@@ -23,5 +23,5 @@
 {"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 135, "stars": 2100, "owner": "NVIDIA", "forks": 445},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 109, "stars": 6111, "owner": "dolphin-emu", "forks": 1404},
 {"description": "Audio and video casting system with support for custom applications.", "language": "C++", "repo": "NymphCast", "new_stars": 633, "stars": 1156, "owner": "MayaPosch", "forks": 44},
-{"description": "codes for my streams and YT videos", "language": "C++", "repo": "youtube", "new_stars": 216, "stars": 692, "owner": "Errichto", "forks": 141}
+{"description": "codes for my streams and YT videos", "language": "C++", "repo": "youtube", "new_stars": 216, "stars": 693, "owner": "Errichto", "forks": 141}
 ]

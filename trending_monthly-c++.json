@@ -1,11 +1,11 @@
 [
-{"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u63a8\u7406 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) \u603b\u6a21\u578b\u4ec517M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 2131, "stars": 4021, "owner": "ouyanghuiyu", "forks": 652},
-{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 2043, "stars": 17966, "owner": "microsoft", "forks": 914},
+{"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u63a8\u7406 , psenet(8.5M) + crnn(6.3M) + anglenet(1.5M) \u603b\u6a21\u578b\u4ec517M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 2132, "stars": 4021, "owner": "ouyanghuiyu", "forks": 652},
+{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 2047, "stars": 17971, "owner": "microsoft", "forks": 914},
 {"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 439, "stars": 8008, "owner": "ossrs", "forks": 2855},
 {"description": "C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002", "language": "C++", "repo": "interview", "new_stars": 972, "stars": 10463, "owner": "huihut", "forks": 3258},
 {"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 805, "stars": 10499, "owner": "topjohnwu", "forks": 1744},
 {"description": "Audio and video casting system with support for custom applications.", "language": "C++", "repo": "NymphCast", "new_stars": 598, "stars": 1167, "owner": "MayaPosch", "forks": 46},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1572, "stars": 143051, "owner": "tensorflow", "forks": 80717},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1572, "stars": 143050, "owner": "tensorflow", "forks": 80717},
 {"description": "Utility to convert between various subscription format", "language": "C++", "repo": "subconverter", "new_stars": 518, "stars": 1438, "owner": "tindy2013", "forks": 325},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 222, "stars": 7091, "owner": "MarlinFirmware", "forks": 9246},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 392, "stars": 9005, "owner": "qbittorrent", "forks": 1628},
@@ -14,7 +14,7 @@
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 546, "stars": 19817, "owner": "ocornut", "forks": 3249},
 {"description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe", "language": "C++", "repo": "OpenTTD", "new_stars": 111, "stars": 2340, "owner": "OpenTTD", "forks": 330},
 {"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 300, "stars": 9650, "owner": "Tencent", "forks": 1047},
-{"description": "Google's Operations Research tools:", "language": "C++", "repo": "or-tools", "new_stars": 433, "stars": 5468, "owner": "google", "forks": 1182},
+{"description": "Google's Operations Research tools:", "language": "C++", "repo": "or-tools", "new_stars": 434, "stars": 5469, "owner": "google", "forks": 1182},
 {"description": "Samples for CUDA Developers which demonstrates features in CUDA Toolkit", "language": "C++", "repo": "cuda-samples", "new_stars": 47, "stars": 577, "owner": "NVIDIA", "forks": 200},
 {"description": "codes for my streams and YT videos", "language": "C++", "repo": "youtube", "new_stars": 276, "stars": 757, "owner": "Errichto", "forks": 149},
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 386, "stars": 9963, "owner": "yuzu-emu", "forks": 726},
@@ -22,6 +22,6 @@
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 498, "stars": 11875, "owner": "telegramdesktop", "forks": 2732},
 {"description": "Open source Home Automation System", "language": "C++", "repo": "domoticz", "new_stars": 190, "stars": 2643, "owner": "domoticz", "forks": 982},
 {"description": "an efficient feature complete C++ bittorrent implementation", "language": "C++", "repo": "libtorrent", "new_stars": 92, "stars": 2357, "owner": "arvidn", "forks": 566},
-{"description": "Android real-time display control software", "language": "C++", "repo": "QtScrcpy", "new_stars": 413, "stars": 1919, "owner": "barry-ran", "forks": 325},
+{"description": "Android real-time display control software", "language": "C++", "repo": "QtScrcpy", "new_stars": 414, "stars": 1920, "owner": "barry-ran", "forks": 325},
 {"description": "Event-driven network library for multi-threaded Linux server in C++11", "language": "C++", "repo": "muduo", "new_stars": 207, "stars": 7391, "owner": "chenshuo", "forks": 3537}
 ]

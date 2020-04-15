@@ -1,14 +1,14 @@
 [
-{"description": "Performance comparison of parallel ray tracing in functional programming languages", "language": "Rust", "repo": "raytracers", "new_stars": 22, "stars": 72, "owner": "athas", "forks": 14},
+{"description": "Performance comparison of parallel ray tracing in functional programming languages", "language": "Rust", "repo": "raytracers", "new_stars": 22, "stars": 73, "owner": "athas", "forks": 14},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 40, "stars": 1536, "owner": "launchbadge", "forks": 70},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 30, "stars": 2807, "owner": "bytecodealliance", "forks": 248},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 86, "stars": 3831, "owner": "rust-lang", "forks": 459},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 17, "stars": 2969, "owner": "rust-analyzer", "forks": 296},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 30, "stars": 2808, "owner": "bytecodealliance", "forks": 248},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 86, "stars": 3834, "owner": "rust-lang", "forks": 459},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 17, "stars": 2970, "owner": "rust-analyzer", "forks": 296},
 {"description": "Build beautiful desktop apps with flutter and rust.", "language": "Rust", "repo": "flutter-rs", "new_stars": 31, "stars": 1320, "owner": "flutter-rs", "forks": 46},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 29, "stars": 19011, "owner": "sharkdp", "forks": 387},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 32, "stars": 8258, "owner": "rust-lang", "forks": 924},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 32, "stars": 8260, "owner": "rust-lang", "forks": 924},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 18, "stars": 9228, "owner": "ogham", "forks": 282},
-{"description": "Build minimal docker images without static linking", "language": "Rust", "repo": "magicpak", "new_stars": 114, "stars": 354, "owner": "coord-e", "forks": 4},
+{"description": "Build minimal docker images without static linking", "language": "Rust", "repo": "magicpak", "new_stars": 114, "stars": 355, "owner": "coord-e", "forks": 4},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 7148, "owner": "tikv", "forks": 1064},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 32, "stars": 530, "owner": "deislabs", "forks": 28},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 5202, "owner": "amethyst", "forks": 580},
@@ -23,5 +23,5 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 18, "stars": 9440, "owner": "SergioBenitez", "forks": 660},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 21, "stars": 13001, "owner": "sharkdp", "forks": 326},
 {"description": "An interactive cheatsheet tool for the command-line", "language": "Rust", "repo": "navi", "new_stars": 31, "stars": 7046, "owner": "denisidoro", "forks": 317},
-{"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 5, "stars": 5780, "owner": "wasmerio", "forks": 210}
+{"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 5, "stars": 5781, "owner": "wasmerio", "forks": 210}
 ]

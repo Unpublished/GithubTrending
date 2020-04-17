@@ -1,13 +1,13 @@
 [
-{"description": "Turn your favourite regex into FAT32", "language": "Rust", "repo": "regex2fat", "new_stars": 234, "stars": 753, "owner": "8051Enthusiast", "forks": 8},
-{"description": "Incomplete Redis client and server implementation using Tokio", "language": "Rust", "repo": "mini-redis", "new_stars": 73, "stars": 257, "owner": "tokio-rs", "forks": 8},
+{"description": "Turn your favourite regex into FAT32", "language": "Rust", "repo": "regex2fat", "new_stars": 236, "stars": 755, "owner": "8051Enthusiast", "forks": 8},
+{"description": "Incomplete Redis client and server implementation using Tokio", "language": "Rust", "repo": "mini-redis", "new_stars": 73, "stars": 258, "owner": "tokio-rs", "forks": 8},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 12, "stars": 14201, "owner": "libra", "forks": 2137},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 14906, "owner": "rust-unofficial", "forks": 993},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 11, "stars": 6835, "owner": "nushell", "forks": 281},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 15, "stars": 11258, "owner": "yewstack", "forks": 459},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 15, "stars": 11259, "owner": "yewstack", "forks": 459},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 9, "stars": 1311, "owner": "cloudflare", "forks": 163},
 {"description": "Container Registry and Image Management for Kubernetes Clusters", "language": "Rust", "repo": "trow", "new_stars": 12, "stars": 271, "owner": "ContainerSolutions", "forks": 31},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 10, "stars": 3800, "owner": "timberio", "forks": 211},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 10, "stars": 3801, "owner": "timberio", "forks": 211},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 18, "stars": 7864, "owner": "actix", "forks": 1019},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 24, "stars": 13044, "owner": "sharkdp", "forks": 326},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 424, "owner": "hyperledger", "forks": 504},
@@ -19,9 +19,9 @@
 {"description": "Private payments for mobile devices.", "language": "Rust", "repo": "mobilecoin", "new_stars": 14, "stars": 51, "owner": "mobilecoinofficial", "forks": 6},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 22, "stars": 575, "owner": "deislabs", "forks": 31},
 {"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 9, "stars": 1060, "owner": "jasonwilliams", "forks": 131},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 17, "stars": 2834, "owner": "bytecodealliance", "forks": 249},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 4, "stars": 3612, "owner": "tokio-rs", "forks": 432},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 17, "stars": 2835, "owner": "bytecodealliance", "forks": 249},
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 4, "stars": 3613, "owner": "tokio-rs", "forks": 432},
 {"description": "PingCAP training courses", "language": "Rust", "repo": "talent-plan", "new_stars": 5, "stars": 3997, "owner": "pingcap", "forks": 567},
 {"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 4, "stars": 5928, "owner": "openethereum", "forks": 1458},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 5, "stars": 3335, "owner": "getzola", "forks": 300}
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 4, "stars": 3335, "owner": "getzola", "forks": 300}
 ]

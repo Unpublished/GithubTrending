@@ -1,7 +1,7 @@
 [
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1596, "stars": 5336, "owner": "hecrj", "forks": 153},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 712, "stars": 19090, "owner": "sharkdp", "forks": 392},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 910, "stars": 44090, "owner": "rust-lang", "forks": 6669},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 712, "stars": 19089, "owner": "sharkdp", "forks": 392},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 911, "stars": 44091, "owner": "rust-lang", "forks": 6669},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 229, "stars": 3811, "owner": "timberio", "forks": 211},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 780, "stars": 3945, "owner": "rust-lang", "forks": 462},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 765, "stars": 249260, "owner": "996icu", "forks": 21114},
@@ -13,7 +13,7 @@
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 158, "stars": 5608, "owner": "uutils", "forks": 458},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 395, "stars": 1574, "owner": "launchbadge", "forks": 71},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 39, "stars": 525, "owner": "dtolnay", "forks": 122},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 467, "stars": 8316, "owner": "rust-lang", "forks": 935},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 468, "stars": 8317, "owner": "rust-lang", "forks": 935},
 {"description": "Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage", "language": "Rust", "repo": "zenith", "new_stars": 133, "stars": 214, "owner": "bvaisvil", "forks": 7},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 105, "stars": 3819, "owner": "gfx-rs", "forks": 443},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 122, "stars": 1877, "owner": "nannou-org", "forks": 90},
@@ -23,5 +23,5 @@
 {"description": "A fast, practical GPU rasterizer for fonts and vector graphics", "language": "Rust", "repo": "pathfinder", "new_stars": 59, "stars": 1961, "owner": "servo", "forks": 99},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 54, "stars": 1446, "owner": "rust-lang", "forks": 223},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 158, "stars": 2535, "owner": "graphql-rust", "forks": 223},
-{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 200, "stars": 1586, "owner": "rust-embedded", "forks": 84}
+{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 201, "stars": 1587, "owner": "rust-embedded", "forks": 84}
 ]

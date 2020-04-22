@@ -1,14 +1,14 @@
 [
-{"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 4, "stars": 8687, "owner": "resque", "forks": 1572},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 10243, "owner": "mperham", "forks": 1807},
+{"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 4, "stars": 8687, "owner": "resque", "forks": 1573},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 10244, "owner": "mperham", "forks": 1807},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 10696, "owner": "rubocop-hq", "forks": 2341},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 2, "stars": 4544, "owner": "activerecord-hackery", "forks": 682},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 9, "stars": 19729, "owner": "hashicorp", "forks": 3919},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 12, "stars": 20750, "owner": "tootsuite", "forks": 3557},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 6, "stars": 9063, "owner": "fluent", "forks": 1062},
-{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 0, "stars": 669, "owner": "rswag", "forks": 181},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 7, "stars": 9063, "owner": "fluent", "forks": 1062},
+{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 0, "stars": 669, "owner": "rswag", "forks": 182},
 {"description": "Simple and elegant live chat software", "language": "Ruby", "repo": "chatwoot", "new_stars": 7, "stars": 3945, "owner": "chatwoot", "forks": 318},
-{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 1, "stars": 2077, "owner": "zammad", "forks": 418},
+{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 2, "stars": 2077, "owner": "zammad", "forks": 418},
 {"description": "Soulful docs for Swift & Objective-C", "language": "Ruby", "repo": "jazzy", "new_stars": 6, "stars": 6430, "owner": "realm", "forks": 358},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 12, "stars": 28538, "owner": "fastlane", "forks": 4479},
 {"description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp", "language": "Ruby", "repo": "setup", "new_stars": 0, "stars": 6613, "owner": "lewagon", "forks": 510},
@@ -21,7 +21,7 @@
 {"description": "Catch unsafe migrations in development", "language": "Ruby", "repo": "strong_migrations", "new_stars": 1, "stars": 2053, "owner": "ankane", "forks": 84},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 1, "stars": 4723, "owner": "rails", "forks": 1195},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 1, "stars": 6867, "owner": "varvet", "forks": 525},
-{"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 1, "stars": 4726, "owner": "thoughtbot", "forks": 846},
+{"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 1, "stars": 4726, "owner": "thoughtbot", "forks": 847},
 {"description": "Scalable load balancer for BigBlueButton.", "language": "Ruby", "repo": "scalelite", "new_stars": 5, "stars": 122, "owner": "blindsidenetworks", "forks": 53},
 {"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails", "language": "Ruby", "repo": "decidim", "new_stars": 1, "stars": 669, "owner": "decidim", "forks": 193}
 ]

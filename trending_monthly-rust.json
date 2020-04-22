@@ -1,7 +1,7 @@
 [
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1653, "stars": 5403, "owner": "hecrj", "forks": 154},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 238, "stars": 3834, "owner": "timberio", "forks": 213},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 913, "stars": 44180, "owner": "rust-lang", "forks": 6675},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 1653, "stars": 5405, "owner": "hecrj", "forks": 154},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 238, "stars": 3834, "owner": "timberio", "forks": 212},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 914, "stars": 44181, "owner": "rust-lang", "forks": 6675},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 845, "stars": 4042, "owner": "rust-lang", "forks": 460},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 771, "stars": 249283, "owner": "996icu", "forks": 21107},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 122, "stars": 4515, "owner": "rust-lang", "forks": 599},
@@ -17,11 +17,11 @@
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 173, "stars": 5628, "owner": "uutils", "forks": 459},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 126, "stars": 1888, "owner": "nannou-org", "forks": 90},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 245, "stars": 14236, "owner": "libra", "forks": 2142},
-{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 348, "stars": 2469, "owner": "imazen", "forks": 93},
+{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 350, "stars": 2471, "owner": "imazen", "forks": 93},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 206, "stars": 1598, "owner": "rust-embedded", "forks": 87},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 58, "stars": 1454, "owner": "rust-lang", "forks": 222},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 108, "stars": 3834, "owner": "gfx-rs", "forks": 442},
-{"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 313, "stars": 3170, "owner": "XAMPPRocky", "forks": 202},
+{"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 311, "stars": 3170, "owner": "XAMPPRocky", "forks": 202},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 115, "stars": 583, "owner": "gfx-rs", "forks": 92},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 253, "stars": 2902, "owner": "bytecodealliance", "forks": 253}
 ]

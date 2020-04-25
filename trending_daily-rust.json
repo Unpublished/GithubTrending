@@ -1,6 +1,6 @@
 [
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 30, "stars": 1932, "owner": "http-rs", "forks": 179},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 42, "stars": 44261, "owner": "rust-lang", "forks": 6690},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 42, "stars": 44262, "owner": "rust-lang", "forks": 6690},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 44, "stars": 6989, "owner": "starship", "forks": 318},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 5320, "owner": "diesel-rs", "forks": 511},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 19, "stars": 1989, "owner": "redox-os", "forks": 105},
@@ -13,7 +13,7 @@
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 19, "stars": 647, "owner": "gfx-rs", "forks": 94},
 {"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 20, "stars": 1112, "owner": "dtolnay", "forks": 31},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 11, "stars": 3862, "owner": "gfx-rs", "forks": 446},
-{"description": "Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.", "language": "Rust", "repo": "desed", "new_stars": 86, "stars": 473, "owner": "SoptikHa2", "forks": 7},
+{"description": "Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.", "language": "Rust", "repo": "desed", "new_stars": 86, "stars": 474, "owner": "SoptikHa2", "forks": 7},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 15, "stars": 1036, "owner": "cjbassi", "forks": 41},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 1993, "owner": "paritytech", "forks": 586},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 9, "stars": 1712, "owner": "vi", "forks": 71},
@@ -22,6 +22,6 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 4, "stars": 5458, "owner": "rust-lang", "forks": 1119},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 0, "stars": 289, "owner": "input-output-hk", "forks": 117},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 4526, "owner": "rust-lang", "forks": 598},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 5330, "owner": "benfred", "forks": 206},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 5332, "owner": "benfred", "forks": 206},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 9, "stars": 1612, "owner": "launchbadge", "forks": 77}
 ]

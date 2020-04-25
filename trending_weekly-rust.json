@@ -1,7 +1,7 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 103, "stars": 3085, "owner": "rust-analyzer", "forks": 306},
-{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 72, "stars": 638, "owner": "gfx-rs", "forks": 94},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 79, "stars": 2918, "owner": "bytecodealliance", "forks": 254},
+{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 73, "stars": 639, "owner": "gfx-rs", "forks": 94},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 80, "stars": 2919, "owner": "bytecodealliance", "forks": 254},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 73, "stars": 7909, "owner": "tokio-rs", "forks": 736},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 113, "stars": 11366, "owner": "yewstack", "forks": 468},
 {"description": "Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.", "language": "Rust", "repo": "TCN", "new_stars": 31, "stars": 172, "owner": "TCNCoalition", "forks": 24},
@@ -9,7 +9,7 @@
 {"description": "Incomplete Redis client and server implementation using Tokio", "language": "Rust", "repo": "mini-redis", "new_stars": 104, "stars": 373, "owner": "tokio-rs", "forks": 11},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 107, "stars": 15008, "owner": "rust-unofficial", "forks": 1009},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 46, "stars": 4097, "owner": "clap-rs", "forks": 394},
-{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 50, "stars": 1912, "owner": "http-rs", "forks": 178},
+{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 52, "stars": 1914, "owner": "http-rs", "forks": 178},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 58, "stars": 2699, "owner": "fdehau", "forks": 137},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 171, "stars": 21967, "owner": "alacritty", "forks": 1076},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 59, "stars": 15858, "owner": "servo", "forks": 2362},
@@ -20,8 +20,8 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 204, "stars": 44246, "owner": "rust-lang", "forks": 6687},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 28, "stars": 1098, "owner": "WebAssembly", "forks": 61},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 63, "stars": 9511, "owner": "SergioBenitez", "forks": 664},
-{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 91, "stars": 2743, "owner": "huggingface", "forks": 166},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 190, "stars": 249292, "owner": "996icu", "forks": 21106},
+{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 92, "stars": 2744, "owner": "huggingface", "forks": 166},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 190, "stars": 249292, "owner": "996icu", "forks": 21105},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 45, "stars": 3442, "owner": "Spotifyd", "forks": 170},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 89, "stars": 1982, "owner": "redox-os", "forks": 105}
 ]

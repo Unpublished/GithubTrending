@@ -1,12 +1,12 @@
 [
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 30, "stars": 1939, "owner": "http-rs", "forks": 180},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 69, "stars": 44266, "owner": "rust-lang", "forks": 6690},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 36, "stars": 6996, "owner": "starship", "forks": 319},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 5321, "owner": "diesel-rs", "forks": 511},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 36, "stars": 6998, "owner": "starship", "forks": 319},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 5322, "owner": "diesel-rs", "forks": 511},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 19, "stars": 1990, "owner": "redox-os", "forks": 105},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 15, "stars": 7931, "owner": "actix", "forks": 1024},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 29, "stars": 4106, "owner": "rust-lang", "forks": 467},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 5261, "owner": "amethyst", "forks": 587},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 5262, "owner": "amethyst", "forks": 587},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 4, "stars": 1644, "owner": "rusoto", "forks": 272},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 1102, "owner": "WebAssembly", "forks": 61},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 22, "stars": 5810, "owner": "BurntSushi", "forks": 197},
@@ -23,5 +23,5 @@
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 0, "stars": 289, "owner": "input-output-hk", "forks": 117},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 5, "stars": 4528, "owner": "rust-lang", "forks": 598},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 5333, "owner": "benfred", "forks": 206},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 9, "stars": 1613, "owner": "launchbadge", "forks": 77}
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 9, "stars": 1614, "owner": "launchbadge", "forks": 77}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 32, "stars": 24193, "owner": "danielmiessler", "forks": 11010},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 32, "stars": 24194, "owner": "danielmiessler", "forks": 11011},
 {"description": "Invoices, Expenses and Tasks built with Laravel and Flutter", "language": "PHP", "repo": "invoiceninja", "new_stars": 7, "stars": 5020, "owner": "invoiceninja", "forks": 1591},
 {"description": "A Laravel Boilerplate Project -", "language": "PHP", "repo": "laravel-boilerplate", "new_stars": 5, "stars": 4027, "owner": "rappasoft", "forks": 1331},
 {"description": "Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system", "language": "PHP", "repo": "TastyIgniter", "new_stars": 11, "stars": 716, "owner": "tastyigniter", "forks": 444},
-{"description": "A code generation tool for Laravel developers.", "language": "PHP", "repo": "blueprint", "new_stars": 34, "stars": 1081, "owner": "laravel-shift", "forks": 83},
+{"description": "A code generation tool for Laravel developers.", "language": "PHP", "repo": "blueprint", "new_stars": 31, "stars": 1081, "owner": "laravel-shift", "forks": 83},
 {"description": "Laravel 7.0 blog application with Vue.js, Docker, Redis, Horizon, Telescope and Pusher", "language": "PHP", "repo": "laravel-blog", "new_stars": 1, "stars": 1029, "owner": "guillaumebriday", "forks": 372},
 {"description": "Telegram Bot API PHP SDK. Lets you build Telegram Bots easily! Supports Laravel out of the box.", "language": "PHP", "repo": "telegram-bot-sdk", "new_stars": 2, "stars": 1621, "owner": "irazasyed", "forks": 440},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 6, "stars": 4594, "owner": "PrestaShop", "forks": 3623},
@@ -11,8 +11,8 @@
 {"description": "Laravel e-commerce package for professional, ultra fast online shops, complex B2B applications and #gigacommerce", "language": "PHP", "repo": "aimeos-laravel", "new_stars": 4, "stars": 2398, "owner": "aimeos", "forks": 666},
 {"description": "A Laravel-Nuxt starter project template.", "language": "PHP", "repo": "laravel-nuxt", "new_stars": 4, "stars": 741, "owner": "cretueusebiu", "forks": 163},
 {"description": "Yii 2: The Fast, Secure and Professional PHP Framework", "language": "PHP", "repo": "yii2", "new_stars": 5, "stars": 13347, "owner": "yiisoft", "forks": 6887},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 23, "stars": 58816, "owner": "laravel", "forks": 18382},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 9, "stars": 14837, "owner": "PHPMailer", "forks": 7991},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 23, "stars": 58815, "owner": "laravel", "forks": 18382},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 9, "stars": 14837, "owner": "PHPMailer", "forks": 7992},
 {"description": "PHP Microservice Full Coroutine Framework", "language": "PHP", "repo": "swoft", "new_stars": 3, "stars": 4769, "owner": "swoft-cloud", "forks": 732},
 {"description": "sample code for several design patterns in PHP 7.4", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 6, "stars": 18598, "owner": "domnikl", "forks": 4025},
 {"description": "The Roundcube Webmail suite", "language": "PHP", "repo": "roundcubemail", "new_stars": 4, "stars": 3335, "owner": "roundcube", "forks": 1260},
@@ -20,8 +20,8 @@
 {"description": "Async PHP client/server API for the telegram MTProto protocol", "language": "PHP", "repo": "MadelineProto", "new_stars": 1, "stars": 1184, "owner": "danog", "forks": 300},
 {"description": "Simple AP setup & WiFi management for Debian-based devices", "language": "PHP", "repo": "raspap-webgui", "new_stars": 5, "stars": 2121, "owner": "billz", "forks": 514},
 {"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 6, "stars": 5396, "owner": "opencart", "forks": 4001},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 12, "stars": 20891, "owner": "laravel", "forks": 7304},
-{"description": "A server software for Minecraft: Bedrock Edition in PHP", "language": "PHP", "repo": "PocketMine-MP", "new_stars": 3, "stars": 1857, "owner": "pmmp", "forks": 1136},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 12, "stars": 20892, "owner": "laravel", "forks": 7304},
+{"description": "A server software for Minecraft: Bedrock Edition in PHP", "language": "PHP", "repo": "PocketMine-MP", "new_stars": 2, "stars": 1857, "owner": "pmmp", "forks": 1136},
 {"description": "Pterodactyl is the open-source game server management panel built with PHP7, Nodejs, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to administrators and users.", "language": "PHP", "repo": "panel", "new_stars": 1, "stars": 1714, "owner": "pterodactyl", "forks": 401},
 {"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 3, "stars": 6745, "owner": "googleapis", "forks": 3024}
 ]

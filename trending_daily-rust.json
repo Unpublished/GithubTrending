@@ -1,11 +1,11 @@
 [
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 35, "stars": 1955, "owner": "http-rs", "forks": 180},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 2, "stars": 3894, "owner": "Geal", "forks": 448},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 5329, "owner": "diesel-rs", "forks": 512},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 5330, "owner": "diesel-rs", "forks": 513},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 19249, "owner": "sharkdp", "forks": 398},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 26, "stars": 22000, "owner": "alacritty", "forks": 1079},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 26, "stars": 22001, "owner": "alacritty", "forks": 1080},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 7, "stars": 5263, "owner": "amethyst", "forks": 588},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 11, "stars": 1625, "owner": "launchbadge", "forks": 77},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 11, "stars": 1626, "owner": "launchbadge", "forks": 77},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 6227, "owner": "hyperium", "forks": 837},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 8, "stars": 4107, "owner": "clap-rs", "forks": 395},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 5, "stars": 14250, "owner": "libra", "forks": 2146},
@@ -14,7 +14,7 @@
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 8, "stars": 2069, "owner": "tock", "forks": 278},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 8, "stars": 1365, "owner": "librespot-org", "forks": 178},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 10, "stars": 2192, "owner": "seanmonstar", "forks": 230},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 44286, "owner": "rust-lang", "forks": 6693},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 37, "stars": 44286, "owner": "rust-lang", "forks": 6694},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 13, "stars": 11383, "owner": "yewstack", "forks": 470},
 {"description": "Fuzzy Finder in rust!", "language": "Rust", "repo": "skim", "new_stars": 3, "stars": 1659, "owner": "lotabout", "forks": 62},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 23, "stars": 7007, "owner": "starship", "forks": 319},
@@ -22,6 +22,6 @@
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 7, "stars": 17579, "owner": "xi-editor", "forks": 642},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 8, "stars": 4533, "owner": "rust-lang", "forks": 599},
 {"description": "A more powerful alternative to kubectx and kubens", "language": "Rust", "repo": "kubie", "new_stars": 4, "stars": 208, "owner": "sbstp", "forks": 4},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 3, "stars": 6899, "owner": "nushell", "forks": 288},
-{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 9, "stars": 1043, "owner": "cjbassi", "forks": 41}
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 3, "stars": 6901, "owner": "nushell", "forks": 288},
+{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 9, "stars": 1044, "owner": "cjbassi", "forks": 41}
 ]

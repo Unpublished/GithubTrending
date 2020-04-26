@@ -1,13 +1,13 @@
 [
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 35, "stars": 1960, "owner": "http-rs", "forks": 182},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 2, "stars": 3895, "owner": "Geal", "forks": 448},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 13, "stars": 5334, "owner": "diesel-rs", "forks": 513},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 29, "stars": 19255, "owner": "sharkdp", "forks": 398},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 13, "stars": 5335, "owner": "diesel-rs", "forks": 513},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 29, "stars": 19256, "owner": "sharkdp", "forks": 398},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 30, "stars": 22014, "owner": "alacritty", "forks": 1082},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 2, "stars": 5264, "owner": "amethyst", "forks": 588},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 11, "stars": 1627, "owner": "launchbadge", "forks": 77},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 11, "stars": 1628, "owner": "launchbadge", "forks": 77},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 2, "stars": 6228, "owner": "hyperium", "forks": 837},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 2, "stars": 4107, "owner": "clap-rs", "forks": 395},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 2, "stars": 4108, "owner": "clap-rs", "forks": 395},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 5, "stars": 14251, "owner": "libra", "forks": 2146},
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 4, "stars": 3639, "owner": "tokio-rs", "forks": 440},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 3, "stars": 1501, "owner": "serde-rs", "forks": 226},
@@ -21,7 +21,7 @@
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 3104, "owner": "rustwasm", "forks": 420},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 10, "stars": 17582, "owner": "xi-editor", "forks": 642},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 8, "stars": 4535, "owner": "rust-lang", "forks": 598},
-{"description": "A more powerful alternative to kubectx and kubens", "language": "Rust", "repo": "kubie", "new_stars": 4, "stars": 208, "owner": "sbstp", "forks": 4},
+{"description": "A more powerful alternative to kubectx and kubens", "language": "Rust", "repo": "kubie", "new_stars": 4, "stars": 209, "owner": "sbstp", "forks": 4},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 6, "stars": 6901, "owner": "nushell", "forks": 288},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 9, "stars": 1048, "owner": "cjbassi", "forks": 41}
 ]

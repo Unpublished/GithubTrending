@@ -6,7 +6,7 @@
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 28, "stars": 673, "owner": "gfx-rs", "forks": 92},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 87, "stars": 11455, "owner": "yewstack", "forks": 480},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 117, "stars": 8020, "owner": "tokio-rs", "forks": 751},
-{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 323, "stars": 2936, "owner": "imazen", "forks": 96},
+{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 323, "stars": 2937, "owner": "imazen", "forks": 96},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 28, "stars": 1130, "owner": "WebAssembly", "forks": 65},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 210, "stars": 249366, "owner": "996icu", "forks": 21111},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 198, "stars": 44437, "owner": "rust-lang", "forks": 6716},
@@ -18,10 +18,10 @@
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 35, "stars": 15885, "owner": "servo", "forks": 2363},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 53, "stars": 9564, "owner": "SergioBenitez", "forks": 664},
 {"description": "Private payments for mobile devices.", "language": "Rust", "repo": "mobilecoin", "new_stars": 10, "stars": 113, "owner": "mobilecoinofficial", "forks": 18},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 235, "stars": 22201, "owner": "alacritty", "forks": 1097},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 235, "stars": 22203, "owner": "alacritty", "forks": 1097},
 {"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 32, "stars": 5846, "owner": "wasmerio", "forks": 216},
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 138, "stars": 5945, "owner": "BurntSushi", "forks": 199},
 {"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 20, "stars": 1157, "owner": "jasonwilliams", "forks": 133},
 {"description": "Monte Carlo ray tracer developed using Rust", "language": "Rust", "repo": "rayt", "new_stars": 6, "stars": 170, "owner": "Dalamar42", "forks": 5},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 36, "stars": 3475, "owner": "Spotifyd", "forks": 171}
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 36, "stars": 3476, "owner": "Spotifyd", "forks": 171}
 ]

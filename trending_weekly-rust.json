@@ -1,15 +1,15 @@
 [
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 59, "stars": 1997, "owner": "http-rs", "forks": 188},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 219, "stars": 3325, "owner": "rust-analyzer", "forks": 322},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 219, "stars": 3325, "owner": "rust-analyzer", "forks": 321},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 31, "stars": 3895, "owner": "gfx-rs", "forks": 450},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 54, "stars": 2978, "owner": "bytecodealliance", "forks": 259},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 29, "stars": 674, "owner": "gfx-rs", "forks": 92},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 87, "stars": 11458, "owner": "yewstack", "forks": 480},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 87, "stars": 11457, "owner": "yewstack", "forks": 480},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 124, "stars": 8031, "owner": "tokio-rs", "forks": 751},
 {"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 340, "stars": 2951, "owner": "imazen", "forks": 97},
-{"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 28, "stars": 1132, "owner": "WebAssembly", "forks": 65},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 210, "stars": 249372, "owner": "996icu", "forks": 21110},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 200, "stars": 44453, "owner": "rust-lang", "forks": 6719},
+{"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 28, "stars": 1133, "owner": "WebAssembly", "forks": 65},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 210, "stars": 249371, "owner": "996icu", "forks": 21110},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 200, "stars": 44454, "owner": "rust-lang", "forks": 6719},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 64, "stars": 1107, "owner": "cjbassi", "forks": 43},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 115, "stars": 7114, "owner": "starship", "forks": 325},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 48, "stars": 2042, "owner": "redox-os", "forks": 107},
@@ -23,5 +23,5 @@
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 138, "stars": 5946, "owner": "BurntSushi", "forks": 199},
 {"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 20, "stars": 1157, "owner": "jasonwilliams", "forks": 133},
 {"description": "Monte Carlo ray tracer developed using Rust", "language": "Rust", "repo": "rayt", "new_stars": 6, "stars": 170, "owner": "Dalamar42", "forks": 5},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 40, "stars": 3480, "owner": "Spotifyd", "forks": 172}
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 40, "stars": 3481, "owner": "Spotifyd", "forks": 172}
 ]

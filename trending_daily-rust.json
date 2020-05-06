@@ -1,15 +1,15 @@
 [
 {"description": "Reimplement Zircon microkernel in Rust.", "language": "Rust", "repo": "zCore", "new_stars": 86, "stars": 353, "owner": "rcore-os", "forks": 29},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 15, "stars": 1160, "owner": "cjbassi", "forks": 46},
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 16, "stars": 8051, "owner": "actix", "forks": 1037},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 8, "stars": 5388, "owner": "diesel-rs", "forks": 521},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 16, "stars": 8052, "owner": "actix", "forks": 1037},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 8, "stars": 5389, "owner": "diesel-rs", "forks": 521},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 1, "stars": 290, "owner": "input-output-hk", "forks": 116},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 4, "stars": 871, "owner": "mullvad", "forks": 73},
-{"description": "open source training courses about distributed systems and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 9, "stars": 4105, "owner": "pingcap", "forks": 587},
+{"description": "open source training courses about distributed systems and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 6, "stars": 4105, "owner": "pingcap", "forks": 587},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 7, "stars": 1211, "owner": "rust-windowing", "forks": 321},
-{"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 4, "stars": 7148, "owner": "analysis-tools-dev", "forks": 827},
+{"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 4, "stars": 7148, "owner": "analysis-tools-dev", "forks": 826},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 6, "stars": 5326, "owner": "amethyst", "forks": 602},
-{"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 14, "stars": 793, "owner": "deislabs", "forks": 51},
+{"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 14, "stars": 794, "owner": "deislabs", "forks": 51},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 5, "stars": 3138, "owner": "rustwasm", "forks": 423},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 4, "stars": 2394, "owner": "PyO3", "forks": 160},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 13, "stars": 2625, "owner": "tree-sitter", "forks": 171},
@@ -23,5 +23,5 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 6, "stars": 1365, "owner": "cloudflare", "forks": 167},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 2, "stars": 1382, "owner": "librespot-org", "forks": 184},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 8, "stars": 7805, "owner": "swc-project", "forks": 146},
-{"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 5861, "owner": "wasmerio", "forks": 217}
+{"description": "The Universal WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 5862, "owner": "wasmerio", "forks": 217}
 ]

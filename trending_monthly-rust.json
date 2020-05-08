@@ -1,9 +1,9 @@
 [
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 938, "stars": 4196, "owner": "rust-lang", "forks": 479},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 499, "stars": 3396, "owner": "rust-analyzer", "forks": 335},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 501, "stars": 3398, "owner": "rust-analyzer", "forks": 335},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 187, "stars": 2009, "owner": "http-rs", "forks": 190},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 206, "stars": 4178, "owner": "clap-rs", "forks": 407},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 831, "stars": 249416, "owner": "996icu", "forks": 21115},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 832, "stars": 249418, "owner": "996icu", "forks": 21115},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 230, "stars": 3938, "owner": "timberio", "forks": 218},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 348, "stars": 8077, "owner": "tokio-rs", "forks": 757},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 235, "stars": 14319, "owner": "libra", "forks": 2159},
@@ -22,6 +22,6 @@
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 476, "stars": 13334, "owner": "sharkdp", "forks": 341},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 191, "stars": 5334, "owner": "amethyst", "forks": 603},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 117, "stars": 996, "owner": "gfx-rs", "forks": 88},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 184, "stars": 2255, "owner": "seanmonstar", "forks": 241},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 184, "stars": 2256, "owner": "seanmonstar", "forks": 241},
 {"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 866, "stars": 2998, "owner": "imazen", "forks": 97}
 ]

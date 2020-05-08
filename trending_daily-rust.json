@@ -1,10 +1,10 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 11, "stars": 14319, "owner": "libra", "forks": 2160},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 15, "stars": 1170, "owner": "cjbassi", "forks": 47},
-{"description": "Reimplement Zircon microkernel in Rust.", "language": "Rust", "repo": "zCore", "new_stars": 20, "stars": 377, "owner": "rcore-os", "forks": 30},
+{"description": "Reimplement Zircon microkernel in Rust.", "language": "Rust", "repo": "zCore", "new_stars": 20, "stars": 378, "owner": "rcore-os", "forks": 31},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 1, "stars": 1211, "owner": "rust-windowing", "forks": 322},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 5, "stars": 2023, "owner": "paritytech", "forks": 595},
-{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 12, "stars": 2815, "owner": "huggingface", "forks": 176},
+{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 12, "stars": 2816, "owner": "huggingface", "forks": 176},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 0, "stars": 1317, "owner": "Edu4rdSHL", "forks": 155},
 {"description": "The GraphQL server library implemented by rust", "language": "Rust", "repo": "async-graphql", "new_stars": 9, "stars": 122, "owner": "async-graphql", "forks": 17},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 18, "stars": 19554, "owner": "BurntSushi", "forks": 873},
@@ -22,6 +22,6 @@
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 8, "stars": 2018, "owner": "ruffle-rs", "forks": 52},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 18, "stars": 19557, "owner": "sharkdp", "forks": 412},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 4588, "owner": "rust-lang", "forks": 603},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 10, "stars": 1865, "owner": "tauri-apps", "forks": 59},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 10, "stars": 1867, "owner": "tauri-apps", "forks": 60},
 {"description": "Safe and rich Rust wrapper around the Vulkan API", "language": "Rust", "repo": "vulkano", "new_stars": 1, "stars": 2206, "owner": "vulkano-rs", "forks": 227}
 ]

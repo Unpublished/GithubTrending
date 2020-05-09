@@ -1,11 +1,11 @@
 [
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 97, "stars": 8068, "owner": "actix", "forks": 1039},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 97, "stars": 8067, "owner": "actix", "forks": 1039},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 111, "stars": 812, "owner": "deislabs", "forks": 51},
-{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 222, "stars": 900, "owner": "stjepang", "forks": 37},
+{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 222, "stars": 904, "owner": "stjepang", "forks": 37},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 108, "stars": 3401, "owner": "rust-analyzer", "forks": 336},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 222, "stars": 22379, "owner": "alacritty", "forks": 1111},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 59, "stars": 5344, "owner": "amethyst", "forks": 603},
-{"description": "Rust/WinRT - Rust for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 530, "stars": 1490, "owner": "microsoft", "forks": 32},
+{"description": "Rust/WinRT - Rust for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 530, "stars": 1491, "owner": "microsoft", "forks": 33},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 63, "stars": 11941, "owner": "firecracker-microvm", "forks": 786},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 62, "stars": 1731, "owner": "rust-embedded", "forks": 102},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 39, "stars": 2258, "owner": "seanmonstar", "forks": 241},
@@ -13,8 +13,8 @@
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 45, "stars": 3930, "owner": "gfx-rs", "forks": 453},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 38, "stars": 3099, "owner": "serde-rs", "forks": 333},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 169, "stars": 19580, "owner": "sharkdp", "forks": 414},
-{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 93, "stars": 1181, "owner": "cjbassi", "forks": 48},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 44, "stars": 5392, "owner": "diesel-rs", "forks": 523},
+{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 93, "stars": 1182, "owner": "cjbassi", "forks": 48},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 44, "stars": 5391, "owner": "diesel-rs", "forks": 523},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 18, "stars": 1389, "owner": "librespot-org", "forks": 184},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 89, "stars": 8094, "owner": "tokio-rs", "forks": 757},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 105, "stars": 8637, "owner": "rust-lang", "forks": 996},
@@ -22,6 +22,6 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 193, "stars": 44586, "owner": "rust-lang", "forks": 6724},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 24, "stars": 3309, "owner": "rust-lang", "forks": 411},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 213, "stars": 249443, "owner": "996icu", "forks": 21119},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 30, "stars": 5495, "owner": "rust-lang", "forks": 1132},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 30, "stars": 5494, "owner": "rust-lang", "forks": 1132},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 70, "stars": 3708, "owner": "dani-garcia", "forks": 260}
 ]

@@ -1,15 +1,15 @@
 [
-{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 97, "stars": 8069, "owner": "actix", "forks": 1038},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 59, "stars": 5345, "owner": "amethyst", "forks": 603},
-{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 229, "stars": 935, "owner": "stjepang", "forks": 37},
+{"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 97, "stars": 8071, "owner": "actix", "forks": 1038},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 59, "stars": 5346, "owner": "amethyst", "forks": 603},
+{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 229, "stars": 937, "owner": "stjepang", "forks": 37},
 {"description": "Rust/WinRT - Rust for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 530, "stars": 1496, "owner": "microsoft", "forks": 33},
-{"description": "A port of robmikh/Minesweeper using winrt-rs.", "language": "Rust", "repo": "minesweeper-rs", "new_stars": 101, "stars": 257, "owner": "robmikh", "forks": 13},
+{"description": "A port of robmikh/Minesweeper using winrt-rs.", "language": "Rust", "repo": "minesweeper-rs", "new_stars": 101, "stars": 258, "owner": "robmikh", "forks": 13},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 222, "stars": 22389, "owner": "alacritty", "forks": 1111},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 64, "stars": 11941, "owner": "firecracker-microvm", "forks": 786},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 64, "stars": 11942, "owner": "firecracker-microvm", "forks": 786},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 44, "stars": 5393, "owner": "diesel-rs", "forks": 523},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 104, "stars": 3402, "owner": "rust-analyzer", "forks": 336},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 95, "stars": 1184, "owner": "cjbassi", "forks": 48},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 88, "stars": 8099, "owner": "tokio-rs", "forks": 757},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 88, "stars": 8100, "owner": "tokio-rs", "forks": 757},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 213, "stars": 249451, "owner": "996icu", "forks": 21116},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 45, "stars": 3930, "owner": "gfx-rs", "forks": 453},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 38, "stars": 3099, "owner": "serde-rs", "forks": 333},
@@ -20,8 +20,8 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 16, "stars": 1720, "owner": "shadowsocks", "forks": 397},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 18, "stars": 1389, "owner": "librespot-org", "forks": 184},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 105, "stars": 8641, "owner": "rust-lang", "forks": 997},
-{"description": "The GraphQL server library implemented by rust", "language": "Rust", "repo": "async-graphql", "new_stars": 295, "stars": 401, "owner": "async-graphql", "forks": 23},
+{"description": "The GraphQL server library implemented by rust", "language": "Rust", "repo": "async-graphql", "new_stars": 295, "stars": 406, "owner": "async-graphql", "forks": 23},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 138, "stars": 13344, "owner": "sharkdp", "forks": 342},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 31, "stars": 1321, "owner": "Edu4rdSHL", "forks": 155},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 44596, "owner": "rust-lang", "forks": 6723}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 44598, "owner": "rust-lang", "forks": 6723}
 ]

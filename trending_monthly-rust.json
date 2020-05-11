@@ -1,12 +1,12 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 504, "stars": 3419, "owner": "rust-analyzer", "forks": 336},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 218, "stars": 2050, "owner": "http-rs", "forks": 190},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 881, "stars": 249480, "owner": "996icu", "forks": 21123},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 883, "stars": 249482, "owner": "996icu", "forks": 21123},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 930, "stars": 4208, "owner": "rust-lang", "forks": 482},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 376, "stars": 8125, "owner": "tokio-rs", "forks": 759},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 197, "stars": 4189, "owner": "clap-rs", "forks": 406},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 69, "stars": 1218, "owner": "rust-windowing", "forks": 323},
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 251, "stars": 14351, "owner": "libra", "forks": 2163},
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 252, "stars": 14352, "owner": "libra", "forks": 2163},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 837, "stars": 22424, "owner": "alacritty", "forks": 1113},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 232, "stars": 3963, "owner": "timberio", "forks": 222},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 250, "stars": 1741, "owner": "rust-embedded", "forks": 103},
@@ -21,7 +21,7 @@
 {"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 276, "stars": 5973, "owner": "BurntSushi", "forks": 198},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 202, "stars": 2063, "owner": "redox-os", "forks": 108},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 524, "stars": 8672, "owner": "rust-lang", "forks": 1005},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 428, "stars": 11566, "owner": "yewstack", "forks": 485},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 429, "stars": 11567, "owner": "yewstack", "forks": 485},
 {"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 947, "stars": 3081, "owner": "imazen", "forks": 100},
 {"description": "A fast, practical GPU rasterizer for fonts and vector graphics", "language": "Rust", "repo": "pathfinder", "new_stars": 139, "stars": 2056, "owner": "servo", "forks": 106}
 ]

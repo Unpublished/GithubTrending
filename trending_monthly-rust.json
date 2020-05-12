@@ -1,7 +1,7 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 510, "stars": 3429, "owner": "rust-analyzer", "forks": 337},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 939, "stars": 4220, "owner": "rust-lang", "forks": 482},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 894, "stars": 249496, "owner": "996icu", "forks": 21121},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 940, "stars": 4221, "owner": "rust-lang", "forks": 482},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 895, "stars": 249497, "owner": "996icu", "forks": 21121},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 220, "stars": 2055, "owner": "http-rs", "forks": 191},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 191, "stars": 4188, "owner": "clap-rs", "forks": 406},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 380, "stars": 8135, "owner": "tokio-rs", "forks": 763},
@@ -14,7 +14,7 @@
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 146, "stars": 3935, "owner": "gfx-rs", "forks": 451},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 348, "stars": 1776, "owner": "launchbadge", "forks": 90},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 835, "stars": 44659, "owner": "rust-lang", "forks": 6730},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 483, "stars": 11628, "owner": "yewstack", "forks": 487},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 484, "stars": 11629, "owner": "yewstack", "forks": 487},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 166, "stars": 704, "owner": "gfx-rs", "forks": 95},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 529, "stars": 8687, "owner": "rust-lang", "forks": 1007},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 457, "stars": 13372, "owner": "sharkdp", "forks": 343},

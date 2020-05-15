@@ -15,7 +15,7 @@
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 10, "stars": 2425, "owner": "PyO3", "forks": 165},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 23, "stars": 8834, "owner": "rust-lang", "forks": 1017},
 {"description": "Specification and reference implementation of the TCN Protocol for decentralized, privacy-preserving contact tracing.", "language": "Rust", "repo": "TCN", "new_stars": 6, "stars": 214, "owner": "TCNCoalition", "forks": 28},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 37, "stars": 8230, "owner": "tokio-rs", "forks": 769},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 37, "stars": 8231, "owner": "tokio-rs", "forks": 769},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 3, "stars": 3169, "owner": "rustwasm", "forks": 426},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 4, "stars": 5407, "owner": "benfred", "forks": 207},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 5, "stars": 5074, "owner": "actix", "forks": 479},
@@ -23,5 +23,5 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 2037, "owner": "paritytech", "forks": 599},
 {"description": "Rust version of THU uCore OS. Linux compatible.", "language": "Rust", "repo": "rCore", "new_stars": 8, "stars": 898, "owner": "rcore-os", "forks": 138},
 {"description": "aspiring blockchain node", "language": "Rust", "repo": "jormungandr", "new_stars": 0, "stars": 291, "owner": "input-output-hk", "forks": 117},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 34, "stars": 4864, "owner": "meilisearch", "forks": 136}
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 33, "stars": 4864, "owner": "meilisearch", "forks": 136}
 ]

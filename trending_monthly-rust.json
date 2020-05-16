@@ -1,16 +1,16 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 518, "stars": 3479, "owner": "rust-analyzer", "forks": 339},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 905, "stars": 249553, "owner": "996icu", "forks": 21124},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 906, "stars": 249554, "owner": "996icu", "forks": 21124},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 219, "stars": 2070, "owner": "http-rs", "forks": 196},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 439, "stars": 8239, "owner": "tokio-rs", "forks": 770},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 514, "stars": 11711, "owner": "yewstack", "forks": 491},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 440, "stars": 8241, "owner": "tokio-rs", "forks": 770},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 515, "stars": 11712, "owner": "yewstack", "forks": 491},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 210, "stars": 4232, "owner": "clap-rs", "forks": 411},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 68, "stars": 1228, "owner": "rust-windowing", "forks": 325},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 620, "stars": 8844, "owner": "rust-lang", "forks": 1022},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 252, "stars": 14398, "owner": "libra", "forks": 2170},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 842, "stars": 22546, "owner": "alacritty", "forks": 1114},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 192, "stars": 1763, "owner": "rust-embedded", "forks": 103},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 861, "stars": 44765, "owner": "rust-lang", "forks": 6740},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 862, "stars": 44767, "owner": "rust-lang", "forks": 6739},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 222, "stars": 4000, "owner": "timberio", "forks": 226},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 213, "stars": 5391, "owner": "amethyst", "forks": 606},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 139, "stars": 3944, "owner": "gfx-rs", "forks": 452},
@@ -22,6 +22,6 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 261, "stars": 1802, "owner": "launchbadge", "forks": 95},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 124, "stars": 1028, "owner": "gfx-rs", "forks": 90},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 432, "stars": 13413, "owner": "sharkdp", "forks": 345},
-{"description": "Turn your favourite regex into FAT32", "language": "Rust", "repo": "regex2fat", "new_stars": 512, "stars": 918, "owner": "8051Enthusiast", "forks": 15},
+{"description": "Turn your favourite regex into FAT32", "language": "Rust", "repo": "regex2fat", "new_stars": 513, "stars": 918, "owner": "8051Enthusiast", "forks": 15},
 {"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 994, "stars": 3132, "owner": "imazen", "forks": 102}
 ]

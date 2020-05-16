@@ -1,17 +1,17 @@
 [
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 520, "stars": 3479, "owner": "rust-analyzer", "forks": 339},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 903, "stars": 249551, "owner": "996icu", "forks": 21125},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 519, "stars": 3479, "owner": "rust-analyzer", "forks": 339},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 902, "stars": 249551, "owner": "996icu", "forks": 21124},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 217, "stars": 2068, "owner": "http-rs", "forks": 196},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 438, "stars": 8238, "owner": "tokio-rs", "forks": 770},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 512, "stars": 11708, "owner": "yewstack", "forks": 491},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 208, "stars": 4230, "owner": "clap-rs", "forks": 411},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 69, "stars": 1228, "owner": "rust-windowing", "forks": 325},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 619, "stars": 8842, "owner": "rust-lang", "forks": 1021},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 618, "stars": 8842, "owner": "rust-lang", "forks": 1022},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 251, "stars": 14397, "owner": "libra", "forks": 2170},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 842, "stars": 22544, "owner": "alacritty", "forks": 1114},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 841, "stars": 22544, "owner": "alacritty", "forks": 1114},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 192, "stars": 1763, "owner": "rust-embedded", "forks": 103},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 860, "stars": 44764, "owner": "rust-lang", "forks": 6740},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 220, "stars": 3998, "owner": "timberio", "forks": 226},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 221, "stars": 3999, "owner": "timberio", "forks": 226},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 213, "stars": 5391, "owner": "amethyst", "forks": 606},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 139, "stars": 3944, "owner": "gfx-rs", "forks": 452},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 65, "stars": 1402, "owner": "librespot-org", "forks": 188},
@@ -21,7 +21,7 @@
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 167, "stars": 3543, "owner": "Spotifyd", "forks": 179},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 262, "stars": 1802, "owner": "launchbadge", "forks": 95},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 123, "stars": 1027, "owner": "gfx-rs", "forks": 90},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 433, "stars": 13412, "owner": "sharkdp", "forks": 345},
-{"description": "Turn your favourite regex into FAT32", "language": "Rust", "repo": "regex2fat", "new_stars": 557, "stars": 918, "owner": "8051Enthusiast", "forks": 15},
-{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 991, "stars": 3129, "owner": "imazen", "forks": 102}
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 432, "stars": 13412, "owner": "sharkdp", "forks": 345},
+{"description": "Turn your favourite regex into FAT32", "language": "Rust", "repo": "regex2fat", "new_stars": 537, "stars": 918, "owner": "8051Enthusiast", "forks": 15},
+{"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 992, "stars": 3130, "owner": "imazen", "forks": 102}
 ]

@@ -1,12 +1,12 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 523, "stars": 3489, "owner": "rust-analyzer", "forks": 340},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 512, "stars": 11719, "owner": "yewstack", "forks": 495},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 903, "stars": 249573, "owner": "996icu", "forks": 21123},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 903, "stars": 249573, "owner": "996icu", "forks": 21122},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 217, "stars": 2072, "owner": "http-rs", "forks": 195},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 456, "stars": 8266, "owner": "tokio-rs", "forks": 772},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 623, "stars": 8866, "owner": "rust-lang", "forks": 1029},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 624, "stars": 8867, "owner": "rust-lang", "forks": 1031},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 213, "stars": 4242, "owner": "clap-rs", "forks": 411},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 432, "stars": 7247, "owner": "nushell", "forks": 316},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 434, "stars": 7248, "owner": "nushell", "forks": 317},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 140, "stars": 3944, "owner": "gfx-rs", "forks": 452},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 252, "stars": 14404, "owner": "libra", "forks": 2172},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 621, "stars": 7420, "owner": "starship", "forks": 334},
@@ -22,6 +22,6 @@
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 128, "stars": 1034, "owner": "gfx-rs", "forks": 91},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 223, "stars": 5403, "owner": "amethyst", "forks": 608},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 108, "stars": 3174, "owner": "rustwasm", "forks": 428},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 224, "stars": 4010, "owner": "timberio", "forks": 226},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 225, "stars": 4011, "owner": "timberio", "forks": 226},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 154, "stars": 3357, "owner": "cloudflare", "forks": 191}
 ]

@@ -1,19 +1,19 @@
 [
 {"description": "The GraphQL server library implemented by rust", "language": "Rust", "repo": "async-graphql", "new_stars": 162, "stars": 681, "owner": "async-graphql", "forks": 38},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 174, "stars": 11727, "owner": "yewstack", "forks": 495},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 314, "stars": 7310, "owner": "nushell", "forks": 318},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 317, "stars": 7313, "owner": "nushell", "forks": 318},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 69, "stars": 14408, "owner": "libra", "forks": 2171},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 173, "stars": 8288, "owner": "tokio-rs", "forks": 772},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 224, "stars": 7429, "owner": "starship", "forks": 336},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 215, "stars": 249581, "owner": "996icu", "forks": 21123},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 217, "stars": 249583, "owner": "996icu", "forks": 21123},
 {"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 25, "stars": 5992, "owner": "openethereum", "forks": 1473},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 227, "stars": 8881, "owner": "rust-lang", "forks": 1034},
-{"description": "open source training courses about distributed systems and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 71, "stars": 4183, "owner": "pingcap", "forks": 602},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 56, "stars": 7318, "owner": "tikv", "forks": 1090},
+{"description": "open source training courses about distributed systems and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 72, "stars": 4184, "owner": "pingcap", "forks": 602},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 57, "stars": 7319, "owner": "tikv", "forks": 1090},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 53, "stars": 3358, "owner": "cloudflare", "forks": 191},
 {"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 202, "stars": 1245, "owner": "stjepang", "forks": 55},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 21, "stars": 2250, "owner": "async-rs", "forks": 205},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 78, "stars": 2008, "owner": "tauri-apps", "forks": 61},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 79, "stars": 2009, "owner": "tauri-apps", "forks": 61},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 22, "stars": 1172, "owner": "WebAssembly", "forks": 67},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 69, "stars": 5411, "owner": "amethyst", "forks": 609},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 212, "stars": 44812, "owner": "rust-lang", "forks": 6745},
@@ -23,5 +23,5 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 18, "stars": 1740, "owner": "shadowsocks", "forks": 405},
 {"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 180, "stars": 736, "owner": "denoland", "forks": 53},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 52, "stars": 5452, "owner": "diesel-rs", "forks": 528},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 191, "stars": 22588, "owner": "alacritty", "forks": 1117}
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 192, "stars": 22589, "owner": "alacritty", "forks": 1117}
 ]

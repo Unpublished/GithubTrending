@@ -1,14 +1,14 @@
 [
-{"description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"", "language": "Python", "repo": "U-2-Net", "new_stars": 157, "stars": 714, "owner": "NathanUA", "forks": 87},
-{"description": "Background Matting: The World is Your Green Screen", "language": "Python", "repo": "Background-Matting", "new_stars": 620, "stars": 2687, "owner": "senguptaumd", "forks": 332},
+{"description": "The code for our newly accepted paper in Pattern Recognition 2020: \"U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection.\"", "language": "Python", "repo": "U-2-Net", "new_stars": 155, "stars": 714, "owner": "NathanUA", "forks": 87},
+{"description": "Background Matting: The World is Your Green Screen", "language": "Python", "repo": "Background-Matting", "new_stars": 624, "stars": 2690, "owner": "senguptaumd", "forks": 333},
 {"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 305, "stars": 10094, "owner": "facebookresearch", "forks": 2195},
 {"description": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.", "language": "Python", "repo": "horovod", "new_stars": 147, "stars": 9263, "owner": "horovod", "forks": 1471},
-{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 2272, "stars": 73448, "owner": "TheAlgorithms", "forks": 22134},
-{"description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at", "language": "Python", "repo": "azure-sdk-for-python", "new_stars": 23, "stars": 1139, "owner": "Azure", "forks": 879},
-{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 722, "stars": 27181, "owner": "huggingface", "forks": 6444},
-{"description": "Diagram as Code for prototyping cloud system architectures", "language": "Python", "repo": "diagrams", "new_stars": 1113, "stars": 4660, "owner": "mingrammer", "forks": 227},
-{"description": "This repository holds the device support files for the iOS, and I will update it regularly.", "language": "Python", "repo": "iOS-DeviceSupport", "new_stars": 51, "stars": 3749, "owner": "iGhibli", "forks": 584},
-{"description": "DeepFaceLab is the leading software for creating deepfakes.", "language": "Python", "repo": "DeepFaceLab", "new_stars": 353, "stars": 14248, "owner": "iperov", "forks": 3290},
+{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 2272, "stars": 73451, "owner": "TheAlgorithms", "forks": 22135},
+{"description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at", "language": "Python", "repo": "azure-sdk-for-python", "new_stars": 28, "stars": 1140, "owner": "Azure", "forks": 879},
+{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 723, "stars": 27182, "owner": "huggingface", "forks": 6444},
+{"description": "Diagram as Code for prototyping cloud system architectures", "language": "Python", "repo": "diagrams", "new_stars": 1103, "stars": 4660, "owner": "mingrammer", "forks": 227},
+{"description": "This repository holds the device support files for the iOS, and I will update it regularly.", "language": "Python", "repo": "iOS-DeviceSupport", "new_stars": 50, "stars": 3749, "owner": "iGhibli", "forks": 584},
+{"description": "DeepFaceLab is the leading software for creating deepfakes.", "language": "Python", "repo": "DeepFaceLab", "new_stars": 352, "stars": 14248, "owner": "iperov", "forks": 3290},
 {"description": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.", "language": "Python", "repo": "h4cker", "new_stars": 93, "stars": 6440, "owner": "The-Art-of-Hacking", "forks": 977},
 {"description": "YOLOv4, YOLOv3, YOLO-tiny Implemented in Tensorflow 2.0, Android. Convert YOLO v4 .weights tensorflow, tensorrt and tflite", "language": "Python", "repo": "tensorflow-yolov4-tflite", "new_stars": 68, "stars": 190, "owner": "hunglc007", "forks": 49},
 {"description": "An interactive deep learning book with code, math, and discussions, based on the NumPy interface.", "language": "Python", "repo": "d2l-en", "new_stars": 128, "stars": 5014, "owner": "d2l-ai", "forks": 1243},
@@ -21,7 +21,7 @@
 {"description": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.", "language": "Python", "repo": "nni", "new_stars": 89, "stars": 6103, "owner": "microsoft", "forks": 812},
 {"description": "Deezer source separation library including pretrained models.", "language": "Python", "repo": "spleeter", "new_stars": 385, "stars": 11607, "owner": "deezer", "forks": 1081},
 {"description": "Powerful framework for rogue access point attack.", "language": "Python", "repo": "wifipumpkin3", "new_stars": 32, "stars": 128, "owner": "P0cL4bs", "forks": 24},
-{"description": "Interactive Data Visualization in the browser, from Python", "language": "Python", "repo": "bokeh", "new_stars": 51, "stars": 13391, "owner": "bokeh", "forks": 3376},
+{"description": "Interactive Data Visualization in the browser, from Python", "language": "Python", "repo": "bokeh", "new_stars": 49, "stars": 13391, "owner": "bokeh", "forks": 3376},
 {"description": "Pi-hole in a docker container", "language": "Python", "repo": "docker-pi-hole", "new_stars": 55, "stars": 2395, "owner": "pi-hole", "forks": 469},
-{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 1309, "stars": 82833, "owner": "public-apis", "forks": 9698}
+{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 1309, "stars": 82834, "owner": "public-apis", "forks": 9699}
 ]

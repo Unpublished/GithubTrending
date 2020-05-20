@@ -1,5 +1,5 @@
 [
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 210, "stars": 8993, "owner": "rust-lang", "forks": 1045},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 211, "stars": 8994, "owner": "rust-lang", "forks": 1045},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 375, "stars": 7391, "owner": "nushell", "forks": 328},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 196, "stars": 8349, "owner": "tokio-rs", "forks": 776},
 {"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 23, "stars": 6000, "owner": "openethereum", "forks": 1475},
@@ -10,18 +10,18 @@
 {"description": "The GraphQL server library implemented by rust", "language": "Rust", "repo": "async-graphql", "new_stars": 99, "stars": 699, "owner": "async-graphql", "forks": 40},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 34, "stars": 2441, "owner": "PyO3", "forks": 163},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 50, "stars": 2336, "owner": "seanmonstar", "forks": 249},
-{"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 175, "stars": 8024, "owner": "swc-project", "forks": 151},
+{"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 179, "stars": 8028, "owner": "swc-project", "forks": 151},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 232, "stars": 44906, "owner": "rust-lang", "forks": 6749},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 196, "stars": 22663, "owner": "alacritty", "forks": 1120},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 46, "stars": 15969, "owner": "servo", "forks": 2368},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 51, "stars": 5467, "owner": "diesel-rs", "forks": 530},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 64, "stars": 5433, "owner": "amethyst", "forks": 612},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 115, "stars": 13495, "owner": "sharkdp", "forks": 347},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 95, "stars": 2047, "owner": "tauri-apps", "forks": 61},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 98, "stars": 2049, "owner": "tauri-apps", "forks": 61},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 77, "stars": 927, "owner": "TheAlgorithms", "forks": 167},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 41, "stars": 3079, "owner": "bytecodealliance", "forks": 273},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 80, "stars": 8187, "owner": "actix", "forks": 1042},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 199, "stars": 19851, "owner": "sharkdp", "forks": 421},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 200, "stars": 19852, "owner": "sharkdp", "forks": 421},
 {"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 192, "stars": 779, "owner": "denoland", "forks": 55},
 {"description": "Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage", "language": "Rust", "repo": "zenith", "new_stars": 63, "stars": 293, "owner": "bvaisvil", "forks": 11}
 ]

@@ -1,17 +1,17 @@
 [
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 202, "stars": 9012, "owner": "rust-lang", "forks": 1045},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 349, "stars": 7412, "owner": "nushell", "forks": 329},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 349, "stars": 7412, "owner": "nushell", "forks": 330},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 171, "stars": 8369, "owner": "tokio-rs", "forks": 777},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 118, "stars": 9762, "owner": "SergioBenitez", "forks": 669},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 42, "stars": 15974, "owner": "servo", "forks": 2371},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 55, "stars": 7350, "owner": "tikv", "forks": 1093},
-{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 86, "stars": 940, "owner": "TheAlgorithms", "forks": 169},
+{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 87, "stars": 941, "owner": "TheAlgorithms", "forks": 169},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 54, "stars": 5437, "owner": "amethyst", "forks": 613},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 221, "stars": 44928, "owner": "rust-lang", "forks": 6750},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 193, "stars": 2149, "owner": "tauri-apps", "forks": 61},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 56, "stars": 2347, "owner": "seanmonstar", "forks": 250},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 39, "stars": 3084, "owner": "bytecodealliance", "forks": 274},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 141, "stars": 7501, "owner": "starship", "forks": 337},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 142, "stars": 7502, "owner": "starship", "forks": 337},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 193, "stars": 22695, "owner": "alacritty", "forks": 1122},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 83, "stars": 8202, "owner": "actix", "forks": 1042},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 38, "stars": 596, "owner": "dtolnay", "forks": 137},
@@ -22,6 +22,6 @@
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 120, "stars": 13516, "owner": "sharkdp", "forks": 348},
 {"description": "The GraphQL server library implemented by rust", "language": "Rust", "repo": "async-graphql", "new_stars": 93, "stars": 705, "owner": "async-graphql", "forks": 41},
 {"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 22, "stars": 6001, "owner": "openethereum", "forks": 1475},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 39, "stars": 6321, "owner": "hyperium", "forks": 851},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 39, "stars": 6322, "owner": "hyperium", "forks": 851},
 {"description": "Desktop GUI Framework", "language": "Rust", "repo": "azul", "new_stars": 25, "stars": 3934, "owner": "maps4print", "forks": 164}
 ]

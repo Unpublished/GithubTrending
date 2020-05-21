@@ -1,11 +1,11 @@
 [
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 14, "stars": 2340, "owner": "seanmonstar", "forks": 249},
-{"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 101, "stars": 497, "owner": "extrawurst", "forks": 21},
-{"description": "Rust/WinRT is a Rust language projection for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 41, "stars": 1783, "owner": "microsoft", "forks": 43},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 11, "stars": 2340, "owner": "seanmonstar", "forks": 249},
+{"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 103, "stars": 499, "owner": "extrawurst", "forks": 21},
+{"description": "Rust/WinRT is a Rust language projection for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 42, "stars": 1783, "owner": "microsoft", "forks": 43},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 27, "stars": 9754, "owner": "SergioBenitez", "forks": 669},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 7, "stars": 2898, "owner": "huggingface", "forks": 185},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 9, "stars": 3531, "owner": "rust-analyzer", "forks": 348},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 49, "stars": 4971, "owner": "meilisearch", "forks": 142},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 10, "stars": 3532, "owner": "rust-analyzer", "forks": 348},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 51, "stars": 4974, "owner": "meilisearch", "forks": 142},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 20, "stars": 5466, "owner": "benfred", "forks": 210},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 32, "stars": 933, "owner": "TheAlgorithms", "forks": 168},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 9, "stars": 4297, "owner": "rust-lang", "forks": 497},
@@ -22,6 +22,6 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 11, "stars": 7342, "owner": "tikv", "forks": 1093},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 4, "stars": 2260, "owner": "ggez", "forks": 282},
 {"description": null, "language": "Rust", "repo": "neqo", "new_stars": 0, "stars": 864, "owner": "mozilla", "forks": 39},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 33, "stars": 19794, "owner": "BurntSushi", "forks": 886},
-{"description": "Flexible concrete Error type built on std::error::Error", "language": "Rust", "repo": "anyhow", "new_stars": 14, "stars": 913, "owner": "dtolnay", "forks": 27}
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 24, "stars": 19796, "owner": "BurntSushi", "forks": 886},
+{"description": "Flexible concrete Error type built on std::error::Error", "language": "Rust", "repo": "anyhow", "new_stars": 13, "stars": 913, "owner": "dtolnay", "forks": 27}
 ]

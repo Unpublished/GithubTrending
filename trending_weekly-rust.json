@@ -1,8 +1,8 @@
 [
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 211, "stars": 9002, "owner": "rust-lang", "forks": 1046},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 379, "stars": 7397, "owner": "nushell", "forks": 328},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 202, "stars": 8360, "owner": "tokio-rs", "forks": 777},
-{"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 22, "stars": 5999, "owner": "openethereum", "forks": 1475},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 205, "stars": 8363, "owner": "tokio-rs", "forks": 777},
+{"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 23, "stars": 6000, "owner": "openethereum", "forks": 1475},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 50, "stars": 7342, "owner": "tikv", "forks": 1093},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 121, "stars": 9754, "owner": "SergioBenitez", "forks": 669},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 225, "stars": 249617, "owner": "996icu", "forks": 21117},
@@ -17,11 +17,11 @@
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 51, "stars": 5469, "owner": "diesel-rs", "forks": 530},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 64, "stars": 5435, "owner": "amethyst", "forks": 613},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 120, "stars": 13507, "owner": "sharkdp", "forks": 347},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 149, "stars": 2101, "owner": "tauri-apps", "forks": 61},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 150, "stars": 2102, "owner": "tauri-apps", "forks": 61},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 82, "stars": 933, "owner": "TheAlgorithms", "forks": 168},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 42, "stars": 3081, "owner": "bytecodealliance", "forks": 274},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 43, "stars": 3082, "owner": "bytecodealliance", "forks": 274},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 85, "stars": 8193, "owner": "actix", "forks": 1043},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 204, "stars": 19858, "owner": "sharkdp", "forks": 421},
-{"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 191, "stars": 784, "owner": "denoland", "forks": 56},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 206, "stars": 19860, "owner": "sharkdp", "forks": 421},
+{"description": "V8 javascript bindings for Rust", "language": "Rust", "repo": "rusty_v8", "new_stars": 192, "stars": 785, "owner": "denoland", "forks": 57},
 {"description": "Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage", "language": "Rust", "repo": "zenith", "new_stars": 68, "stars": 298, "owner": "bvaisvil", "forks": 11}
 ]

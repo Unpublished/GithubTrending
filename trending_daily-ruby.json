@@ -9,10 +9,10 @@
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 1, "stars": 6185, "owner": "puma", "forks": 1117},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 4, "stars": 16832, "owner": "ruby", "forks": 4507},
 {"description": "Internationalization (i18n) library for Ruby", "language": "Ruby", "repo": "i18n", "new_stars": 0, "stars": 833, "owner": "ruby-i18n", "forks": 349},
-{"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 2, "stars": 5956, "owner": "github-changelog-generator", "forks": 672},
+{"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 2, "stars": 5957, "owner": "github-changelog-generator", "forks": 672},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 4969, "owner": "rails-api", "forks": 1332},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 6241, "owner": "chef", "forks": 2431},
-{"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 6, "stars": 1184, "owner": "samber", "forks": 225},
+{"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 7, "stars": 1185, "owner": "samber", "forks": 225},
 {"description": "Determines which markup library to use to render a content file (e.g. README) on GitHub", "language": "Ruby", "repo": "markup", "new_stars": 1, "stars": 4865, "owner": "github", "forks": 3424},
 {"description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:", "language": "Ruby", "repo": "spree", "new_stars": 3, "stars": 10347, "owner": "spree", "forks": 4444},
 {"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 2, "stars": 10976, "owner": "sinatra", "forks": 1977},
@@ -21,7 +21,7 @@
 {"description": "Code. Music. Live.", "language": "Ruby", "repo": "sonic-pi", "new_stars": 9, "stars": 5768, "owner": "samaaron", "forks": 660},
 {"description": "A really simple end-user interface for your BigBlueButton server.", "language": "Ruby", "repo": "greenlight", "new_stars": 1, "stars": 305, "owner": "bigbluebutton", "forks": 1932},
 {"description": "Fluentd daemonset for Kubernetes and it Docker image", "language": "Ruby", "repo": "fluentd-kubernetes-daemonset", "new_stars": 0, "stars": 690, "owner": "fluent", "forks": 608},
-{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 7, "stars": 7512, "owner": "Homebrew", "forks": 7867},
+{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 7, "stars": 7513, "owner": "Homebrew", "forks": 7867},
 {"description": "RSpec's 'test double' framework, with support for stubbing and mocking", "language": "Ruby", "repo": "rspec-mocks", "new_stars": 0, "stars": 975, "owner": "rspec", "forks": 303},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 4, "stars": 7714, "owner": "github", "forks": 2815}
 ]

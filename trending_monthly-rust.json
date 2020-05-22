@@ -1,9 +1,9 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 525, "stars": 3548, "owner": "rust-analyzer", "forks": 351},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 207, "stars": 2083, "owner": "http-rs", "forks": 198},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 904, "stars": 249628, "owner": "996icu", "forks": 21118},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 697, "stars": 9016, "owner": "rust-lang", "forks": 1045},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 572, "stars": 7417, "owner": "nushell", "forks": 330},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 905, "stars": 249629, "owner": "996icu", "forks": 21118},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 699, "stars": 9018, "owner": "rust-lang", "forks": 1045},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 573, "stars": 7418, "owner": "nushell", "forks": 330},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 231, "stars": 14424, "owner": "libra", "forks": 2179},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 651, "stars": 7504, "owner": "starship", "forks": 336},
 {"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 740, "stars": 3176, "owner": "imazen", "forks": 104},
@@ -22,6 +22,6 @@
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 75, "stars": 3417, "owner": "rust-lang", "forks": 500},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 164, "stars": 3377, "owner": "cloudflare", "forks": 195},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 124, "stars": 1046, "owner": "gfx-rs", "forks": 92},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 206, "stars": 4274, "owner": "clap-rs", "forks": 412},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 206, "stars": 4274, "owner": "clap-rs", "forks": 413},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 265, "stars": 872, "owner": "deislabs", "forks": 58}
 ]

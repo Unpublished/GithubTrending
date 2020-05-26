@@ -1,5 +1,5 @@
 [
-{"description": "We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???", "language": "Rust", "repo": "trait-eval", "new_stars": 33, "stars": 237, "owner": "doctorn", "forks": 5},
+{"description": "We all know Rust's trait system is Turing complete, so tell me, why aren't we exploiting this???", "language": "Rust", "repo": "trait-eval", "new_stars": 33, "stars": 238, "owner": "doctorn", "forks": 5},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 4, "stars": 3201, "owner": "rustwasm", "forks": 431},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 7, "stars": 14451, "owner": "libra", "forks": 2182},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 4, "stars": 833, "owner": "paritytech", "forks": 223},
@@ -10,9 +10,9 @@
 {"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 2, "stars": 1761, "owner": "sfackler", "forks": 188},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 18, "stars": 5371, "owner": "sharkdp", "forks": 97},
 {"description": "Just a command runner", "language": "Rust", "repo": "just", "new_stars": 9, "stars": 1636, "owner": "casey", "forks": 63},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 8, "stars": 2106, "owner": "hyperium", "forks": 160},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 8, "stars": 2106, "owner": "hyperium", "forks": 161},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 9, "stars": 3401, "owner": "cloudflare", "forks": 198},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 8, "stars": 17715, "owner": "xi-editor", "forks": 649},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 8, "stars": 17716, "owner": "xi-editor", "forks": 649},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 12, "stars": 3614, "owner": "rust-analyzer", "forks": 355},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 5, "stars": 2982, "owner": "rust-lang", "forks": 493},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 6, "stars": 5496, "owner": "diesel-rs", "forks": 532},

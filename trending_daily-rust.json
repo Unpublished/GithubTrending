@@ -1,12 +1,12 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 43, "stars": 45046, "owner": "rust-lang", "forks": 6762},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 44, "stars": 45046, "owner": "rust-lang", "forks": 6762},
 {"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 225, "stars": 933, "owner": "pretzelhammer", "forks": 37},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 38, "stars": 22798, "owner": "alacritty", "forks": 1133},
-{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 10, "stars": 2116, "owner": "http-rs", "forks": 204},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 11, "stars": 4303, "owner": "clap-rs", "forks": 416},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 38, "stars": 22799, "owner": "alacritty", "forks": 1133},
+{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 10, "stars": 2117, "owner": "http-rs", "forks": 204},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 12, "stars": 4304, "owner": "clap-rs", "forks": 416},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 10, "stars": 5471, "owner": "amethyst", "forks": 616},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 37, "stars": 9121, "owner": "rust-lang", "forks": 1063},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 22, "stars": 5867, "owner": "hecrj", "forks": 190},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 38, "stars": 9122, "owner": "rust-lang", "forks": 1063},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 22, "stars": 5868, "owner": "hecrj", "forks": 190},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 5, "stars": 6334, "owner": "hyperium", "forks": 857},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 12, "stars": 5307, "owner": "rust-lang", "forks": 1441},
 {"description": "Lightweight status page for home infrastructure", "language": "Rust", "repo": "stylus", "new_stars": 22, "stars": 81, "owner": "mmastrac", "forks": 2},
@@ -21,7 +21,7 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 5, "stars": 2686, "owner": "graphql-rust", "forks": 242},
 {"description": "the champagne of beta embedded databases", "language": "Rust", "repo": "sled", "new_stars": 7, "stars": 3446, "owner": "spacejam", "forks": 155},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 3, "stars": 1687, "owner": "xi-editor", "forks": 140},
-{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 6, "stars": 749, "owner": "gfx-rs", "forks": 97},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 19955, "owner": "sharkdp", "forks": 420},
+{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 6, "stars": 750, "owner": "gfx-rs", "forks": 97},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 25, "stars": 19956, "owner": "sharkdp", "forks": 420},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 3197, "owner": "rustwasm", "forks": 428}
 ]

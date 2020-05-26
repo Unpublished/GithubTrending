@@ -1,16 +1,16 @@
 [
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 741, "stars": 9126, "owner": "rust-lang", "forks": 1063},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 579, "stars": 7455, "owner": "nushell", "forks": 337},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 580, "stars": 7456, "owner": "nushell", "forks": 337},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 927, "stars": 249682, "owner": "996icu", "forks": 21110},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 516, "stars": 3607, "owner": "rust-analyzer", "forks": 355},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 232, "stars": 14446, "owner": "libra", "forks": 2181},
-{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 1297, "stars": 1320, "owner": "stjepang", "forks": 68},
+{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 1298, "stars": 1321, "owner": "stjepang", "forks": 68},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 261, "stars": 884, "owner": "deislabs", "forks": 58},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 596, "stars": 7565, "owner": "starship", "forks": 339},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 597, "stars": 7566, "owner": "starship", "forks": 339},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 77, "stars": 2978, "owner": "rust-lang", "forks": 494},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 514, "stars": 8408, "owner": "tokio-rs", "forks": 782},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 57, "stars": 1238, "owner": "rust-windowing", "forks": 329},
-{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 183, "stars": 2118, "owner": "http-rs", "forks": 204},
+{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 184, "stars": 2119, "owner": "http-rs", "forks": 204},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 126, "stars": 5565, "owner": "rust-lang", "forks": 1144},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 879, "stars": 22803, "owner": "alacritty", "forks": 1133},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 336, "stars": 8238, "owner": "actix", "forks": 1041},
@@ -22,6 +22,6 @@
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 141, "stars": 2100, "owner": "hyperium", "forks": 160},
 {"description": "High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow", "language": "Rust", "repo": "imageflow", "new_stars": 573, "stars": 3187, "owner": "imazen", "forks": 106},
 {"description": "open source training courses about distributed systems and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 217, "stars": 4245, "owner": "pingcap", "forks": 610},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 108, "stars": 3199, "owner": "rustwasm", "forks": 430},
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 109, "stars": 3200, "owner": "rustwasm", "forks": 430},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 211, "stars": 4305, "owner": "clap-rs", "forks": 416}
 ]

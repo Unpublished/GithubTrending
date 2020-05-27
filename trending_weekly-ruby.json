@@ -1,13 +1,13 @@
 [
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 72, "stars": 45695, "owner": "rails", "forks": 18460},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 72, "stars": 45695, "owner": "rails", "forks": 18461},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 209, "stars": 21143, "owner": "tootsuite", "forks": 3622},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 32, "stars": 11369, "owner": "elastic", "forks": 2999},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 32, "stars": 11368, "owner": "elastic", "forks": 2999},
 {"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 100, "stars": 8897, "owner": "mame", "forks": 419},
-{"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 77, "stars": 13102, "owner": "thepracticaldev", "forks": 2144},
+{"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 78, "stars": 13103, "owner": "thepracticaldev", "forks": 2144},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 17, "stars": 3094, "owner": "solidusio", "forks": 911},
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 14, "stars": 1674, "owner": "github", "forks": 6849},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 13, "stars": 10770, "owner": "rubocop-hq", "forks": 2376},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 86, "stars": 21665, "owner": "Homebrew", "forks": 5052},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 13, "stars": 10770, "owner": "rubocop-hq", "forks": 2377},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 86, "stars": 21664, "owner": "Homebrew", "forks": 5052},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 81, "stars": 30770, "owner": "discourse", "forks": 6841},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 32, "stars": 20843, "owner": "heartcombo", "forks": 5020},
 {"description": "A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.", "language": "Ruby", "repo": "truffleruby", "new_stars": 50, "stars": 2282, "owner": "oracle", "forks": 115},
@@ -21,7 +21,7 @@
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 3, "stars": 1918, "owner": "github", "forks": 812},
 {"description": "Powerfull XSS Scanning and Parameter analysis tool&gem", "language": "Ruby", "repo": "XSpear", "new_stars": 16, "stars": 394, "owner": "hahwul", "forks": 98},
 {"description": "A Ruby gem to load environment variables from `.env`.", "language": "Ruby", "repo": "dotenv", "new_stars": 8, "stars": 5558, "owner": "bkeepers", "forks": 392},
-{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 51, "stars": 23077, "owner": "freeCodeCamp", "forks": 1542},
+{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 51, "stars": 23078, "owner": "freeCodeCamp", "forks": 1542},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 5, "stars": 4973, "owner": "rails-api", "forks": 1334},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 7, "stars": 709, "owner": "rswag", "forks": 194}
 ]

@@ -14,8 +14,8 @@
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 7, "stars": 14464, "owner": "libra", "forks": 2181},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 5, "stars": 2107, "owner": "ruffle-rs", "forks": 57},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 6, "stars": 3938, "owner": "rayon-rs", "forks": 235},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 5, "stars": 3138, "owner": "bytecodealliance", "forks": 279},
-{"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 22, "stars": 8652, "owner": "valeriansaliou", "forks": 268},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 5, "stars": 3139, "owner": "bytecodealliance", "forks": 279},
+{"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 23, "stars": 8653, "owner": "valeriansaliou", "forks": 268},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 41, "stars": 45129, "owner": "rust-lang", "forks": 6770},
 {"description": "C and CGO bindings for Filecoin's Rust libraries", "language": "Rust", "repo": "filecoin-ffi", "new_stars": 0, "stars": 10, "owner": "filecoin-project", "forks": 23},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 5506, "owner": "diesel-rs", "forks": 535},
@@ -23,5 +23,5 @@
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 12, "stars": 1875, "owner": "gleam-lang", "forks": 82},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 31, "stars": 20035, "owner": "sharkdp", "forks": 421},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 30, "stars": 7632, "owner": "starship", "forks": 342},
-{"description": "Deno bindings for webview, a tiny library for creating web-based desktop GUIs", "language": "Rust", "repo": "deno_webview", "new_stars": 9, "stars": 249, "owner": "eliassjogreen", "forks": 19}
+{"description": "Deno bindings for webview, a tiny library for creating web-based desktop GUIs", "language": "Rust", "repo": "deno_webview", "new_stars": 9, "stars": 250, "owner": "eliassjogreen", "forks": 19}
 ]

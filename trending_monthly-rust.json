@@ -1,8 +1,8 @@
 [
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 592, "stars": 7504, "owner": "nushell", "forks": 338},
-{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 833, "stars": 1353, "owner": "stjepang", "forks": 67},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 740, "stars": 9181, "owner": "rust-lang", "forks": 1078},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 919, "stars": 249714, "owner": "996icu", "forks": 21112},
+{"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 834, "stars": 1354, "owner": "stjepang", "forks": 67},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 741, "stars": 9182, "owner": "rust-lang", "forks": 1078},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 920, "stars": 249715, "owner": "996icu", "forks": 21112},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 132, "stars": 5577, "owner": "rust-lang", "forks": 1144},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 84, "stars": 2988, "owner": "rust-lang", "forks": 494},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 619, "stars": 7635, "owner": "starship", "forks": 342},
@@ -15,7 +15,7 @@
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 124, "stars": 2288, "owner": "async-rs", "forks": 212},
 {"description": "open source training courses about distributed systems and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 213, "stars": 4252, "owner": "pingcap", "forks": 611},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 349, "stars": 8102, "owner": "swc-project", "forks": 157},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 465, "stars": 8436, "owner": "tokio-rs", "forks": 784},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 466, "stars": 8437, "owner": "tokio-rs", "forks": 785},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 191, "stars": 7381, "owner": "tikv", "forks": 1099},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 100, "stars": 3206, "owner": "rustwasm", "forks": 431},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 145, "stars": 2120, "owner": "hyperium", "forks": 161},
@@ -23,5 +23,5 @@
 {"description": "A syntax-highlighter for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 1175, "stars": 3214, "owner": "dandavison", "forks": 66},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 223, "stars": 4325, "owner": "clap-rs", "forks": 420},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 456, "stars": 13612, "owner": "sharkdp", "forks": 349},
-{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 82, "stars": 3718, "owner": "tokio-rs", "forks": 450}
+{"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 82, "stars": 3718, "owner": "tokio-rs", "forks": 451}
 ]

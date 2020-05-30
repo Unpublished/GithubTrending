@@ -1,5 +1,5 @@
 [
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 7, "stars": 23307, "owner": "symfony", "forks": 7636},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 7, "stars": 23308, "owner": "symfony", "forks": 7636},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 4, "stars": 8375, "owner": "PHPOffice", "forks": 1671},
 {"description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)", "language": "PHP", "repo": "laravel-mongodb", "new_stars": 3, "stars": 4868, "owner": "jenssegers", "forks": 1149},
 {"description": "A tool to automatically fix PHP Coding Standards issues", "language": "PHP", "repo": "PHP-CS-Fixer", "new_stars": 4, "stars": 9009, "owner": "FriendsOfPHP", "forks": 1131},
@@ -15,7 +15,7 @@
 {"description": "Open Source Digital Experience Platform (DXP, MDM/PIM, CDP, DAM, CMS/UX & eCommerce", "language": "PHP", "repo": "pimcore", "new_stars": 0, "stars": 1795, "owner": "pimcore", "forks": 840},
 {"description": "Laravel API Documentation Generator", "language": "PHP", "repo": "laravel-apidoc-generator", "new_stars": 7, "stars": 2650, "owner": "mpociot", "forks": 469},
 {"description": "Small class to extract + compress .zip, .gz, .rar archives via browser.", "language": "PHP", "repo": "unzipper", "new_stars": 4, "stars": 372, "owner": "ndeet", "forks": 384},
-{"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 2, "stars": 7085, "owner": "doctrine", "forks": 1041},
+{"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 3, "stars": 7085, "owner": "doctrine", "forks": 1041},
 {"description": "\u4e00\u4e2a\u57fa\u4e8eYii2\u9ad8\u7ea7\u6846\u67b6\u7684\u5feb\u901f\u5f00\u53d1\u5e94\u7528\u5f15\u64ce", "language": "PHP", "repo": "rageframe2", "new_stars": 2, "stars": 1030, "owner": "jianyan74", "forks": 352},
 {"description": "A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.", "language": "PHP", "repo": "PrivateBin", "new_stars": 2, "stars": 2322, "owner": "PrivateBin", "forks": 340},
 {"description": "Make your Laravel app usable by multiple tenants", "language": "PHP", "repo": "laravel-multitenancy", "new_stars": 22, "stars": 279, "owner": "spatie", "forks": 24},
@@ -23,5 +23,5 @@
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 5, "stars": 8568, "owner": "Maatwebsite", "forks": 1396},
 {"description": null, "language": "PHP", "repo": "passport", "new_stars": 0, "stars": 2498, "owner": "laravel", "forks": 561},
 {"description": "Easily build Eloquent queries from API requests", "language": "PHP", "repo": "laravel-query-builder", "new_stars": 0, "stars": 2278, "owner": "spatie", "forks": 190},
-{"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 3, "stars": 3029, "owner": "moodle", "forks": 4344}
+{"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 4, "stars": 3029, "owner": "moodle", "forks": 4344}
 ]

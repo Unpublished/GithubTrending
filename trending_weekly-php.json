@@ -5,7 +5,7 @@
 {"description": "Make your Laravel app usable by multiple tenants", "language": "PHP", "repo": "laravel-multitenancy", "new_stars": 96, "stars": 286, "owner": "spatie", "forks": 26},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 52, "stars": 8053, "owner": "spatie", "forks": 1202},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 37, "stars": 16225, "owner": "sebastianbergmann", "forks": 1884},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 209, "stars": 25008, "owner": "danielmiessler", "forks": 11664},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 209, "stars": 25009, "owner": "danielmiessler", "forks": 11666},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 38, "stars": 8378, "owner": "PHPOffice", "forks": 1671},
 {"description": null, "language": "PHP", "repo": "php-reverse-shell", "new_stars": 15, "stars": 287, "owner": "pentestmonkey", "forks": 342},
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 23, "stars": 4046, "owner": "snipe", "forks": 1553},
@@ -18,10 +18,10 @@
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 27, "stars": 8569, "owner": "Maatwebsite", "forks": 1398},
 {"description": "QR Code Generator", "language": "PHP", "repo": "qr-code", "new_stars": 12, "stars": 2676, "owner": "endroid", "forks": 507},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 20, "stars": 9259, "owner": "mockery", "forks": 410},
-{"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 113, "stars": 3767, "owner": "livewire", "forks": 281},
+{"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 114, "stars": 3768, "owner": "livewire", "forks": 281},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 69, "stars": 21220, "owner": "laravel", "forks": 7353},
 {"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 28, "stars": 2839, "owner": "mailcow", "forks": 512},
-{"description": null, "language": "PHP", "repo": "socialite", "new_stars": 18, "stars": 4461, "owner": "laravel", "forks": 834},
+{"description": null, "language": "PHP", "repo": "socialite", "new_stars": 20, "stars": 4461, "owner": "laravel", "forks": 834},
 {"description": "A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.", "language": "PHP", "repo": "hyperf", "new_stars": 39, "stars": 2607, "owner": "hyperf", "forks": 466},
 {"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 10, "stars": 11271, "owner": "PHPOffice", "forks": 3956}
 ]

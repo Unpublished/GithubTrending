@@ -1,9 +1,9 @@
 [
 {"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 23, "stars": 6029, "owner": "openethereum", "forks": 1489},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 171, "stars": 2252, "owner": "paritytech", "forks": 705},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 265, "stars": 45351, "owner": "rust-lang", "forks": 6793},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 266, "stars": 45352, "owner": "rust-lang", "forks": 6793},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 100, "stars": 9931, "owner": "SergioBenitez", "forks": 683},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 239, "stars": 17959, "owner": "xi-editor", "forks": 655},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 239, "stars": 17960, "owner": "xi-editor", "forks": 655},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 195, "stars": 23026, "owner": "alacritty", "forks": 1158},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 33, "stars": 1727, "owner": "xi-editor", "forks": 145},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 90, "stars": 8356, "owner": "actix", "forks": 1046},
@@ -11,10 +11,10 @@
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 56, "stars": 1921, "owner": "gleam-lang", "forks": 87},
 {"description": "Actor framework for Rust", "language": "Rust", "repo": "actix", "new_stars": 47, "stars": 5181, "owner": "actix", "forks": 485},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 75, "stars": 4148, "owner": "timberio", "forks": 235},
-{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 100, "stars": 9762, "owner": "ogham", "forks": 300},
+{"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 98, "stars": 9763, "owner": "ogham", "forks": 300},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 153, "stars": 9312, "owner": "rust-lang", "forks": 1093},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 196, "stars": 2848, "owner": "LemmyNet", "forks": 181},
-{"description": "A syntax-highlighter for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 297, "stars": 3486, "owner": "dandavison", "forks": 68},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 196, "stars": 2847, "owner": "LemmyNet", "forks": 181},
+{"description": "A syntax-highlighter for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 296, "stars": 3486, "owner": "dandavison", "forks": 68},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 26, "stars": 3008, "owner": "rust-lang", "forks": 497},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 96, "stars": 942, "owner": "paritytech", "forks": 246},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 40, "stars": 5353, "owner": "rust-lang", "forks": 1455},
@@ -23,5 +23,5 @@
 {"description": null, "language": "Rust", "repo": "BadDNS", "new_stars": 89, "stars": 181, "owner": "joinsec", "forks": 34},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 122, "stars": 20070, "owner": "BurntSushi", "forks": 895},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 45, "stars": 14484, "owner": "libra", "forks": 2189},
-{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 61, "stars": 3901, "owner": "dani-garcia", "forks": 274}
+{"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 61, "stars": 3902, "owner": "dani-garcia", "forks": 274}
 ]

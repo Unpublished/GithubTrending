@@ -1,8 +1,8 @@
 [
-{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 1632, "stars": 4077, "owner": "Light-City", "forks": 754},
+{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 1632, "stars": 4078, "owner": "Light-City", "forks": 754},
 {"description": "Collection of Technical Interview Questions solved with Go", "language": "Go", "repo": "go-interview", "new_stars": 936, "stars": 2152, "owner": "shomali11", "forks": 208},
 {"description": "Flutter\u4eff\u5fae\u535a\u5ba2\u6237\u7aef, \u5305\u542b\u9996\u9875\u3001\u89c6\u9891\u3001\u53d1\u73b0\u3001\u6d88\u606f(\u4eff\u5fae\u535a\u804a\u754c\u9762)\u53ca\u4e2a\u4eba\u4e2d\u5fc3\u6a21\u5757", "language": "Dart", "repo": "flutter_hrlweibo", "new_stars": 405, "stars": 866, "owner": "huangruiLearn", "forks": 209},
-{"description": "End-to-End Object Detection with Transformers", "language": "Python", "repo": "detr", "new_stars": 958, "stars": 3238, "owner": "facebookresearch", "forks": 327},
+{"description": "End-to-End Object Detection with Transformers", "language": "Python", "repo": "detr", "new_stars": 958, "stars": 3240, "owner": "facebookresearch", "forks": 327},
 {"description": "A fast JSON parser/generator for Java.", "language": "Java", "repo": "fastjson", "new_stars": 254, "stars": 21716, "owner": "alibaba", "forks": 5788},
 {"description": "Productive & portable programming language for high-performance, sparse & differentiable computing", "language": "C++", "repo": "taichi", "new_stars": 317, "stars": 11223, "owner": "taichi-dev", "forks": 1191},
 {"description": "The Node.js best practices list (June 2020)", "language": "JavaScript", "repo": "nodebestpractices", "new_stars": 1171, "stars": 46409, "owner": "goldbergyoni", "forks": 4239},
@@ -10,10 +10,10 @@
 {"description": "Kubernetes CLI To Manage Your Clusters In Style!", "language": "Go", "repo": "k9s", "new_stars": 648, "stars": 7477, "owner": "derailed", "forks": 386},
 {"description": "Web APIs for Django.", "language": "Python", "repo": "django-rest-framework", "new_stars": 368, "stars": 17839, "owner": "encode", "forks": 5110},
 {"description": "RobotGo, Go Native cross-platform GUI automation", "language": "C", "repo": "robotgo", "new_stars": 531, "stars": 5806, "owner": "go-vgo", "forks": 533},
-{"description": "Project overview, general documentation, and white papers.", "language": null, "repo": "cwa-documentation", "new_stars": 512, "stars": 2428, "owner": "corona-warn-app", "forks": 172},
-{"description": "Interactive Online Platform that Visualizes Algorithms from Code", "language": "JavaScript", "repo": "algorithm-visualizer", "new_stars": 476, "stars": 30426, "owner": "algorithm-visualizer", "forks": 5092},
+{"description": "Project overview, general documentation, and white papers.", "language": null, "repo": "cwa-documentation", "new_stars": 512, "stars": 2430, "owner": "corona-warn-app", "forks": 172},
+{"description": "Interactive Online Platform that Visualizes Algorithms from Code", "language": "JavaScript", "repo": "algorithm-visualizer", "new_stars": 476, "stars": 30428, "owner": "algorithm-visualizer", "forks": 5092},
 {"description": "\u6df1\u5ea6\u5b66\u4e60\u5165\u95e8\u5f00\u6e90\u4e66\uff0c\u57fa\u4e8eTensorFlow 2.0\u6848\u4f8b\u5b9e\u6218\u3002Open source Deep Learning book, based on TensorFlow 2.0 framework.", "language": "Jupyter Notebook", "repo": "Deep-Learning-with-TensorFlow-book", "new_stars": 516, "stars": 8850, "owner": "dragen1860", "forks": 2634},
-{"description": "An interactive deep learning book with code, math, and discussions.", "language": "Python", "repo": "d2l-en", "new_stars": 316, "stars": 5522, "owner": "d2l-ai", "forks": 1327},
+{"description": "An interactive deep learning book with code, math, and discussions.", "language": "Python", "repo": "d2l-en", "new_stars": 316, "stars": 5524, "owner": "d2l-ai", "forks": 1329},
 {"description": "Backend implementation of the verification process", "language": "Java", "repo": "cwa-verification-server", "new_stars": 49, "stars": 159, "owner": "corona-warn-app", "forks": 38},
 {"description": "The iconic SVG, font, and CSS toolkit", "language": "JavaScript", "repo": "Font-Awesome", "new_stars": 207, "stars": 63117, "owner": "FortAwesome", "forks": 10742},
 {"description": "Reset Intellij IDEA, WebStorm, DataGrip, PhpStorm, CLion, PyCharm, RubyMine, GoLand and Rider evaluation (2019 / 2020 / Mac OS)", "language": "Shell", "repo": "jetbrains-reset-trial-evaluation-mac", "new_stars": 61, "stars": 285, "owner": "alexatiks", "forks": 92},
@@ -21,7 +21,7 @@
 {"description": "vue-admin-beautiful\u662f\u4e00\u6b3e\u7edd\u4f73\u7684\u524d\u7aef\u5f00\u53d1\u6846\u67b6\uff08\u57fa\u4e8evue/cli 4 \u6700\u65b0\u7248\uff0c\u540c\u65f6\u652f\u6301\u7535\u8111\uff0c\u624b\u673a\uff0c\u5e73\u677f\uff09,\u957f\u671f\u66f4\u65b0\u7ef4\u62a4,\u611f\u8c22\u60a8\u7684star,\u6211\u4e00\u76f4\u5728\u52aa\u529b Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been working hard", "language": "Vue", "repo": "vue-admin-beautiful", "new_stars": 430, "stars": 2143, "owner": "chuzhixin", "forks": 433},
 {"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 291, "stars": 11777, "owner": "trojan-gfw", "forks": 2109},
 {"description": "Python tool for grabbing text via screenshot", "language": "Python", "repo": "textshot", "new_stars": 172, "stars": 641, "owner": "ianzhao05", "forks": 82},
-{"description": "Ready-to-use Tailwind CSS blocks.", "language": "JavaScript", "repo": "tailblocks", "new_stars": 800, "stars": 2495, "owner": "mertJF", "forks": 178},
+{"description": "Ready-to-use Tailwind CSS blocks.", "language": "JavaScript", "repo": "tailblocks", "new_stars": 800, "stars": 2496, "owner": "mertJF", "forks": 178},
 {"description": "A booklet on machine learning systems design with exercises", "language": "HTML", "repo": "machine-learning-systems-design", "new_stars": 113, "stars": 4395, "owner": "chiphuyen", "forks": 593},
 {"description": "\u5e74\u85aa\u767e\u4e07\u4e92\u8054\u7f51\u67b6\u6784\u5e08\u8bfe\u7a0b\u6587\u6863\u53ca\u6e90\u7801(\u516c\u5f00\u90e8\u5206)", "language": "Java", "repo": "InternetArchitect", "new_stars": 675, "stars": 2137, "owner": "bjmashibing", "forks": 1196}
 ]

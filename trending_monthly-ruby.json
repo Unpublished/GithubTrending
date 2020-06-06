@@ -1,10 +1,10 @@
 [
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 305, "stars": 45744, "owner": "rails", "forks": 18479},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 372, "stars": 40577, "owner": "jekyll", "forks": 8906},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 372, "stars": 40578, "owner": "jekyll", "forks": 8907},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 192, "stars": 19961, "owner": "hashicorp", "forks": 3957},
 {"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 411, "stars": 13231, "owner": "thepracticaldev", "forks": 2171},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 93, "stars": 10358, "owner": "mperham", "forks": 1822},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 411, "stars": 21210, "owner": "tootsuite", "forks": 3637},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 410, "stars": 21210, "owner": "tootsuite", "forks": 3637},
 {"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 107, "stars": 5345, "owner": "ankane", "forks": 282},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 130, "stars": 20870, "owner": "heartcombo", "forks": 5022},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 60, "stars": 6935, "owner": "varvet", "forks": 534},
@@ -22,6 +22,6 @@
 {"description": "A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.", "language": "Ruby", "repo": "truffleruby", "new_stars": 91, "stars": 2301, "owner": "oracle", "forks": 116},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 59, "stars": 4826, "owner": "vcr", "forks": 456},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 55, "stars": 6200, "owner": "puma", "forks": 1117},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 404, "stars": 21764, "owner": "Homebrew", "forks": 5083},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 403, "stars": 21765, "owner": "Homebrew", "forks": 5083},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 137, "stars": 9226, "owner": "fluent", "forks": 1079}
 ]

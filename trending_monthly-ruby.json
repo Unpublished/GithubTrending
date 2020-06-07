@@ -4,11 +4,11 @@
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 191, "stars": 19962, "owner": "hashicorp", "forks": 3957},
 {"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 400, "stars": 13231, "owner": "thepracticaldev", "forks": 2172},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 94, "stars": 10358, "owner": "mperham", "forks": 1822},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 405, "stars": 21213, "owner": "tootsuite", "forks": 3636},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 407, "stars": 21213, "owner": "tootsuite", "forks": 3636},
 {"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 106, "stars": 5345, "owner": "ankane", "forks": 282},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 130, "stars": 20871, "owner": "heartcombo", "forks": 5021},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 57, "stars": 6935, "owner": "varvet", "forks": 534},
-{"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 69, "stars": 1206, "owner": "dependabot", "forks": 292},
+{"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 70, "stars": 1206, "owner": "dependabot", "forks": 292},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 77, "stars": 10786, "owner": "rubocop-hq", "forks": 2379},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 36, "stars": 723, "owner": "rswag", "forks": 197},
 {"description": "Next generation web scanner", "language": "Ruby", "repo": "WhatWeb", "new_stars": 79, "stars": 2410, "owner": "urbanadventurer", "forks": 584},
@@ -22,6 +22,6 @@
 {"description": "A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.", "language": "Ruby", "repo": "truffleruby", "new_stars": 91, "stars": 2301, "owner": "oracle", "forks": 116},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 61, "stars": 4827, "owner": "vcr", "forks": 456},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 50, "stars": 6200, "owner": "puma", "forks": 1118},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 392, "stars": 21766, "owner": "Homebrew", "forks": 5084},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 392, "stars": 21767, "owner": "Homebrew", "forks": 5084},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 134, "stars": 9226, "owner": "fluent", "forks": 1079}
 ]

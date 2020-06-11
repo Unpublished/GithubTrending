@@ -1,14 +1,14 @@
 [
 {"description": "Stay Awake is a simple app that keeps your computer from going to sleep.", "language": "Python", "repo": "StayAwake", "new_stars": 17, "stars": 53, "owner": "trevtravtrev", "forks": 8},
-{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 148, "stars": 76401, "owner": "TheAlgorithms", "forks": 22989},
+{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 150, "stars": 76402, "owner": "TheAlgorithms", "forks": 22990},
 {"description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application", "language": "Python", "repo": "incubator-superset", "new_stars": 18, "stars": 28973, "owner": "apache", "forks": 5941},
-{"description": "Parallel computing with task scheduling", "language": "Python", "repo": "dask", "new_stars": 8, "stars": 6801, "owner": "dask", "forks": 1088},
-{"description": "Open source SQL Query Assistant for Databases/Warehouses", "language": "Python", "repo": "hue", "new_stars": 6, "stars": 4193, "owner": "cloudera", "forks": 1599},
-{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 38, "stars": 64335, "owner": "tensorflow", "forks": 41133},
-{"description": "A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!", "language": "Python", "repo": "localstack", "new_stars": 18, "stars": 24911, "owner": "localstack", "forks": 1862},
+{"description": "Parallel computing with task scheduling", "language": "Python", "repo": "dask", "new_stars": 9, "stars": 6801, "owner": "dask", "forks": 1088},
+{"description": "Open source SQL Query Assistant for Databases/Warehouses", "language": "Python", "repo": "hue", "new_stars": 6, "stars": 4194, "owner": "cloudera", "forks": 1599},
+{"description": "Models and examples built with TensorFlow", "language": "Python", "repo": "models", "new_stars": 38, "stars": 64335, "owner": "tensorflow", "forks": 41132},
+{"description": "A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!", "language": "Python", "repo": "localstack", "new_stars": 20, "stars": 24911, "owner": "localstack", "forks": 1862},
 {"description": "The low-level, core functionality of boto 3.", "language": "Python", "repo": "botocore", "new_stars": 0, "stars": 826, "owner": "boto", "forks": 669},
-{"description": "A framework for managing and maintaining multi-language pre-commit hooks.", "language": "Python", "repo": "pre-commit", "new_stars": 5, "stars": 4442, "owner": "pre-commit", "forks": 335},
-{"description": "A sample project that exists for PyPUG's \"Tutorial on Packaging and Distributing Projects\"", "language": "Python", "repo": "sampleproject", "new_stars": 15, "stars": 3019, "owner": "pypa", "forks": 1121},
+{"description": "A framework for managing and maintaining multi-language pre-commit hooks.", "language": "Python", "repo": "pre-commit", "new_stars": 6, "stars": 4442, "owner": "pre-commit", "forks": 335},
+{"description": "A sample project that exists for PyPUG's \"Tutorial on Packaging and Distributing Projects\"", "language": "Python", "repo": "sampleproject", "new_stars": 17, "stars": 3019, "owner": "pypa", "forks": 1121},
 {"description": "Azure Command-Line Interface", "language": "Python", "repo": "azure-cli", "new_stars": 2, "stars": 1887, "owner": "Azure", "forks": 1273},
 {"description": "Bot Framework provides the most comprehensive experience for building conversation applications.", "language": "Python", "repo": "botframework-sdk", "new_stars": 2, "stars": 6077, "owner": "microsoft", "forks": 2239},
 {"description": "Official Python low-level client for Elasticsearch.", "language": "Python", "repo": "elasticsearch-py", "new_stars": 5, "stars": 2816, "owner": "elastic", "forks": 905},
@@ -22,6 +22,6 @@
 {"description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.", "language": "Python", "repo": "SlowFast", "new_stars": 8, "stars": 2494, "owner": "facebookresearch", "forks": 424},
 {"description": "End-to-End Speech Processing Toolkit", "language": "Python", "repo": "espnet", "new_stars": 7, "stars": 2415, "owner": "espnet", "forks": 719},
 {"description": "Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)", "language": "Python", "repo": "awesome-semantic-segmentation-pytorch", "new_stars": 2, "stars": 1133, "owner": "Tramac", "forks": 306},
-{"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 37, "stars": 10735, "owner": "facebookresearch", "forks": 2377},
-{"description": "Deepfakes Software For All", "language": "Python", "repo": "faceswap", "new_stars": 26, "stars": 30923, "owner": "deepfakes", "forks": 9760}
+{"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 38, "stars": 10735, "owner": "facebookresearch", "forks": 2378},
+{"description": "Deepfakes Software For All", "language": "Python", "repo": "faceswap", "new_stars": 27, "stars": 30923, "owner": "deepfakes", "forks": 9760}
 ]

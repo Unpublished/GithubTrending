@@ -1,12 +1,12 @@
 [
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 287, "stars": 45756, "owner": "rails", "forks": 18491},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 134, "stars": 10851, "owner": "rubocop-hq", "forks": 2393},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 201, "stars": 19984, "owner": "hashicorp", "forks": 3957},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 91, "stars": 10365, "owner": "mperham", "forks": 1825},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 411, "stars": 21238, "owner": "tootsuite", "forks": 3635},
-{"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 402, "stars": 13275, "owner": "thepracticaldev", "forks": 2182},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 202, "stars": 19985, "owner": "hashicorp", "forks": 3957},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 92, "stars": 10365, "owner": "mperham", "forks": 1825},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 410, "stars": 21238, "owner": "tootsuite", "forks": 3635},
+{"description": "Where programmers share ideas and help each other grow", "language": "Ruby", "repo": "dev.to", "new_stars": 403, "stars": 13276, "owner": "thepracticaldev", "forks": 2182},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 110, "stars": 11400, "owner": "elastic", "forks": 3003},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 352, "stars": 40617, "owner": "jekyll", "forks": 8916},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 353, "stars": 40618, "owner": "jekyll", "forks": 8917},
 {"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 112, "stars": 5360, "owner": "ankane", "forks": 283},
 {"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 70, "stars": 1215, "owner": "dependabot", "forks": 296},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 61, "stars": 4831, "owner": "vcr", "forks": 456},
@@ -22,6 +22,6 @@
 {"description": "Next generation web scanner", "language": "Ruby", "repo": "WhatWeb", "new_stars": 73, "stars": 2421, "owner": "urbanadventurer", "forks": 588},
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 52, "stars": 1698, "owner": "github", "forks": 6921},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 64, "stars": 3115, "owner": "solidusio", "forks": 916},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 395, "stars": 21806, "owner": "Homebrew", "forks": 5101},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 393, "stars": 21806, "owner": "Homebrew", "forks": 5101},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 109, "stars": 7772, "owner": "github", "forks": 2831}
 ]

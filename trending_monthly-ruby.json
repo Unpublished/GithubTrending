@@ -1,5 +1,5 @@
 [
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 285, "stars": 45765, "owner": "rails", "forks": 18496},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 284, "stars": 45765, "owner": "rails", "forks": 18496},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 210, "stars": 20002, "owner": "hashicorp", "forks": 3957},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 140, "stars": 10859, "owner": "rubocop-hq", "forks": 2397},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 111, "stars": 11405, "owner": "elastic", "forks": 3007},
@@ -7,10 +7,10 @@
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 93, "stars": 10371, "owner": "mperham", "forks": 1825},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 404, "stars": 21240, "owner": "tootsuite", "forks": 3640},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 347, "stars": 40635, "owner": "jekyll", "forks": 8924},
-{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 47, "stars": 737, "owner": "rswag", "forks": 198},
+{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 46, "stars": 737, "owner": "rswag", "forks": 198},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 57, "stars": 4831, "owner": "vcr", "forks": 456},
 {"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 117, "stars": 5367, "owner": "ankane", "forks": 285},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 118, "stars": 20877, "owner": "heartcombo", "forks": 5029},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 117, "stars": 20877, "owner": "heartcombo", "forks": 5029},
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 55, "stars": 1700, "owner": "github", "forks": 6928},
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 88, "stars": 7883, "owner": "Shopify", "forks": 1032},
 {"description": "The core logic behind Dependabot's update PR creation", "language": "Ruby", "repo": "dependabot-core", "new_stars": 71, "stars": 1218, "owner": "dependabot", "forks": 297},
@@ -20,7 +20,7 @@
 {"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 338, "stars": 9035, "owner": "mame", "forks": 427},
 {"description": "A high performance implementation of the Ruby programming language. Built on the GraalVM by Oracle Labs.", "language": "Ruby", "repo": "truffleruby", "new_stars": 90, "stars": 2305, "owner": "oracle", "forks": 116},
 {"description": "Next generation web scanner", "language": "Ruby", "repo": "WhatWeb", "new_stars": 70, "stars": 2422, "owner": "urbanadventurer", "forks": 589},
-{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 110, "stars": 7777, "owner": "github", "forks": 2834},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 110, "stars": 7777, "owner": "github", "forks": 2835},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 48, "stars": 6941, "owner": "varvet", "forks": 535},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 49, "stars": 6203, "owner": "puma", "forks": 1117},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 139, "stars": 9249, "owner": "fluent", "forks": 1082}

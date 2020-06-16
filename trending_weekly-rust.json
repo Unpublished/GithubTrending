@@ -13,15 +13,15 @@
 {"description": "Use your tablet as graphic tablet/touch screen on your computer.", "language": "Rust", "repo": "Weylus", "new_stars": 82, "stars": 476, "owner": "H-M-H", "forks": 13},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 72, "stars": 2050, "owner": "launchbadge", "forks": 114},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 43, "stars": 3487, "owner": "cloudflare", "forks": 208},
-{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 24, "stars": 808, "owner": "gfx-rs", "forks": 106},
+{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 25, "stars": 809, "owner": "gfx-rs", "forks": 106},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 32, "stars": 2826, "owner": "seanmonstar", "forks": 376},
-{"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 25, "stars": 4030, "owner": "gfx-rs", "forks": 457},
+{"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 26, "stars": 4031, "owner": "gfx-rs", "forks": 457},
 {"description": "Blazing fast linter for JavaScript and TypeScript written in Rust", "language": "Rust", "repo": "deno_lint", "new_stars": 138, "stars": 248, "owner": "denoland", "forks": 32},
 {"description": "Parser generators", "language": "Rust", "repo": "jsparagus", "new_stars": 68, "stars": 258, "owner": "mozilla-spidermonkey", "forks": 19},
 {"description": "I started learning Rust, if you wanna join me, welcome!", "language": "Rust", "repo": "learnrust", "new_stars": 97, "stars": 198, "owner": "inancgumus", "forks": 13},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 68, "stars": 4231, "owner": "timberio", "forks": 242},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 23, "stars": 1373, "owner": "Edu4rdSHL", "forks": 166},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 138, "stars": 9547, "owner": "rust-lang", "forks": 1131},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 139, "stars": 9548, "owner": "rust-lang", "forks": 1131},
 {"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 98, "stars": 8808, "owner": "valeriansaliou", "forks": 270},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 66, "stars": 3625, "owner": "getzola", "forks": 315}
 ]

@@ -1,14 +1,14 @@
 [
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 9, "stars": 15811, "owner": "google", "forks": 6241},
 {"description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)", "language": "C++", "repo": "PrusaSlicer", "new_stars": 9, "stars": 2185, "owner": "prusa3d", "forks": 498},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 4, "stars": 8594, "owner": "fmtlib", "forks": 1045},
-{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 9, "stars": 11524, "owner": "catchorg", "forks": 1911},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 4, "stars": 8595, "owner": "fmtlib", "forks": 1045},
+{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 9, "stars": 11525, "owner": "catchorg", "forks": 1911},
 {"description": "Support ALL Windows Version", "language": "C++", "repo": "CVE-2020-0787-EXP-ALL-WINDOWS-VERSION", "new_stars": 30, "stars": 169, "owner": "cbwang505", "forks": 44},
 {"description": "OpenVINO\u2122 Toolkit - Deep Learning Deployment Toolkit repository", "language": "C++", "repo": "openvino", "new_stars": 6, "stars": 1359, "owner": "openvinotoolkit", "forks": 553},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 22, "stars": 42259, "owner": "protocolbuffers", "forks": 11417},
 {"description": "PDown\u540e\u7ee7\u7248,\u767e\u5ea6\u7f51\u76d8\u4ee3\u4e0b\u8f7d", "language": "C++", "repo": "pdown", "new_stars": 90, "stars": 171, "owner": "forpdown", "forks": 30},
 {"description": "Machine learning framework for both deep learning and traditional algorithms", "language": "C++", "repo": "neoml", "new_stars": 31, "stars": 302, "owner": "neoml-lib", "forks": 34},
-{"description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord:", "language": "C++", "repo": "MangoHud", "new_stars": 122, "stars": 1002, "owner": "flightlessmango", "forks": 45},
+{"description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord:", "language": "C++", "repo": "MangoHud", "new_stars": 122, "stars": 1003, "owner": "flightlessmango", "forks": 45},
 {"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 6, "stars": 3985, "owner": "IntelRealSense", "forks": 2753},
 {"description": "A cross-platform socks5/http/ss/ssr/vmess/trojan/snell GUI client based on Shadowsocks-qt5.", "language": "C++", "repo": "Trojan-Qt5", "new_stars": 15, "stars": 2572, "owner": "Trojan-Qt5", "forks": 421},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 27, "stars": 39570, "owner": "pytorch", "forks": 10230},
@@ -23,5 +23,5 @@
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 14, "stars": 19259, "owner": "dmlc", "forks": 7569},
 {"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 8, "stars": 2978, "owner": "intel-isl", "forks": 751},
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 4, "stars": 7833, "owner": "ceph", "forks": 3844},
-{"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 12, "stars": 15436, "owner": "commaai", "forks": 3809}
+{"description": "open source driving agent", "language": "C++", "repo": "openpilot", "new_stars": 12, "stars": 15437, "owner": "commaai", "forks": 3809}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "[PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 16, "stars": 136, "owner": "aws-cloudformation", "forks": 6},
-{"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 27, "stars": 977, "owner": "extrawurst", "forks": 43},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 12020, "owner": "yewstack", "forks": 519},
+{"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 27, "stars": 978, "owner": "extrawurst", "forks": 43},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 14, "stars": 12021, "owner": "yewstack", "forks": 519},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 4, "stars": 1854, "owner": "xi-editor", "forks": 152},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 44, "stars": 2670, "owner": "tauri-apps", "forks": 77},
 {"description": "The Streaming SQL Database powered by Timely Dataflow", "language": "Rust", "repo": "materialize", "new_stars": 26, "stars": 1337, "owner": "MaterializeInc", "forks": 74},
@@ -19,7 +19,7 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 8606, "owner": "tokio-rs", "forks": 798},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 2210, "owner": "hyperium", "forks": 174},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 30, "stars": 23375, "owner": "alacritty", "forks": 1184},
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 16, "stars": 14584, "owner": "libra", "forks": 2200},
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 16, "stars": 14585, "owner": "libra", "forks": 2200},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 17, "stars": 20474, "owner": "sharkdp", "forks": 429},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 3, "stars": 2321, "owner": "ggez", "forks": 292},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 26, "stars": 249809, "owner": "996icu", "forks": 21081},

@@ -3,10 +3,10 @@
 {"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 204, "stars": 984, "owner": "extrawurst", "forks": 44},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 92, "stars": 1854, "owner": "xi-editor", "forks": 152},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 50, "stars": 3265, "owner": "bytecodealliance", "forks": 291},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 220, "stars": 45803, "owner": "rust-lang", "forks": 6846},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 220, "stars": 45803, "owner": "rust-lang", "forks": 6845},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 180, "stars": 2298, "owner": "ruffle-rs", "forks": 64},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 79, "stars": 12028, "owner": "yewstack", "forks": 519},
-{"description": "The Streaming SQL Database powered by Timely Dataflow", "language": "Rust", "repo": "materialize", "new_stars": 146, "stars": 1339, "owner": "MaterializeInc", "forks": 74},
+{"description": "The Streaming SQL Database powered by Timely Dataflow", "language": "Rust", "repo": "materialize", "new_stars": 147, "stars": 1340, "owner": "MaterializeInc", "forks": 74},
 {"description": "Blazing fast linter for JavaScript and TypeScript written in Rust", "language": "Rust", "repo": "deno_lint", "new_stars": 105, "stars": 279, "owner": "denoland", "forks": 37},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 35, "stars": 823, "owner": "gfx-rs", "forks": 110},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 88, "stars": 6156, "owner": "hecrj", "forks": 211},
@@ -23,5 +23,5 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 41, "stars": 5675, "owner": "rust-lang", "forks": 1158},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 22, "stars": 1198, "owner": "actix", "forks": 394},
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 220, "stars": 5989, "owner": "meilisearch", "forks": 167},
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 55, "stars": 14588, "owner": "libra", "forks": 2202}
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 56, "stars": 14589, "owner": "libra", "forks": 2202}
 ]

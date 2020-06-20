@@ -13,7 +13,7 @@
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 1, "stars": 1234, "owner": "WebAssembly", "forks": 74},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 5, "stars": 942, "owner": "deislabs", "forks": 61},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 4, "stars": 2215, "owner": "hyperium", "forks": 174},
-{"description": "[PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 15, "stars": 148, "owner": "aws-cloudformation", "forks": 7},
+{"description": "[PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 15, "stars": 149, "owner": "aws-cloudformation", "forks": 7},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 41, "stars": 2702, "owner": "tauri-apps", "forks": 77},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 5604, "owner": "benfred", "forks": 216},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 10, "stars": 8500, "owner": "actix", "forks": 1050},
@@ -21,7 +21,7 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 2, "stars": 2069, "owner": "launchbadge", "forks": 116},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 2, "stars": 2323, "owner": "ggez", "forks": 293},
 {"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 11, "stars": 338, "owner": "wez", "forks": 23},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 3, "stars": 5599, "owner": "diesel-rs", "forks": 538},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 3, "stars": 5601, "owner": "diesel-rs", "forks": 538},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 13866, "owner": "sharkdp", "forks": 354},
-{"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 7, "stars": 2846, "owner": "crossbeam-rs", "forks": 204}
+{"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 7, "stars": 2845, "owner": "crossbeam-rs", "forks": 204}
 ]

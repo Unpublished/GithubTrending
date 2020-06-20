@@ -8,11 +8,11 @@
 {"description": "Dumb downloader that scrapes the web", "language": "Python", "repo": "you-get", "new_stars": 381, "stars": 33848, "owner": "soimort", "forks": 6757},
 {"description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application", "language": "Python", "repo": "incubator-superset", "new_stars": 79, "stars": 29070, "owner": "apache", "forks": 5975},
 {"description": "Avatars for Zoom, Skype and other video-conferencing apps.", "language": "Python", "repo": "avatarify", "new_stars": 323, "stars": 7645, "owner": "alievk", "forks": 970},
-{"description": "Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan (no apikey! no rate-limit!)", "language": "Python", "repo": "Shodanfy.py", "new_stars": 80, "stars": 300, "owner": "m4ll0k", "forks": 58},
+{"description": "Get ports,vulnerabilities,informations,banners,..etc for any IP with Shodan (no apikey! no rate-limit!)", "language": "Python", "repo": "Shodanfy.py", "new_stars": 81, "stars": 301, "owner": "m4ll0k", "forks": 58},
 {"description": "StyleGAN - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan", "new_stars": 60, "stars": 9590, "owner": "NVlabs", "forks": 2150},
-{"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 480, "stars": 15545, "owner": "tiangolo", "forks": 1050},
+{"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 480, "stars": 15546, "owner": "tiangolo", "forks": 1050},
 {"description": "CVE-2020-0796 Remote Code Execution POC", "language": "Python", "repo": "CVE-2020-0796-RCE-POC", "new_stars": 68, "stars": 269, "owner": "ZecOps", "forks": 74},
-{"description": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate", "language": "Python", "repo": "pytorch-lightning", "new_stars": 133, "stars": 6158, "owner": "PyTorchLightning", "forks": 696},
+{"description": "The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate", "language": "Python", "repo": "pytorch-lightning", "new_stars": 134, "stars": 6159, "owner": "PyTorchLightning", "forks": 696},
 {"description": "Privacy-respecting metasearch engine", "language": "Python", "repo": "searx", "new_stars": 151, "stars": 6872, "owner": "asciimoo", "forks": 1082},
 {"description": "A toolkit for developing and comparing reinforcement learning algorithms.", "language": "Python", "repo": "gym", "new_stars": 96, "stars": 21080, "owner": "openai", "forks": 6030},
 {"description": "Transformers for Classification, NER, QA, Language Modelling, Language Generation, T5, Multi-Modal, and Conversational AI", "language": "Python", "repo": "simpletransformers", "new_stars": 44, "stars": 1122, "owner": "ThilinaRajapakse", "forks": 242},
@@ -23,5 +23,5 @@
 {"description": "Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes and other infrastructure-as-code-languages with Checkov by Bridgecrew.", "language": "Python", "repo": "checkov", "new_stars": 53, "stars": 867, "owner": "bridgecrewio", "forks": 77},
 {"description": "Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.", "language": "Python", "repo": "NLP-progress", "new_stars": 112, "stars": 16029, "owner": "sebastianruder", "forks": 2733},
 {"description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows", "language": "Python", "repo": "airflow", "new_stars": 96, "stars": 17121, "owner": "apache", "forks": 6636},
-{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 198, "stars": 50109, "owner": "django", "forks": 21739}
+{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 198, "stars": 50110, "owner": "django", "forks": 21739}
 ]

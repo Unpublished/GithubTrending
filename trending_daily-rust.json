@@ -6,10 +6,10 @@
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 13, "stars": 2222, "owner": "hyperium", "forks": 174},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 10, "stars": 1973, "owner": "rust-embedded", "forks": 118},
 {"description": "A declarative desktop UI framework for Rust built on GTK and Gtk-rs", "language": "Rust", "repo": "vgtk", "new_stars": 17, "stars": 474, "owner": "bodil", "forks": 16},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 6, "stars": 2847, "owner": "seanmonstar", "forks": 378},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 21, "stars": 2717, "owner": "tauri-apps", "forks": 77},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 27, "stars": 20511, "owner": "sharkdp", "forks": 432},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 25, "stars": 12053, "owner": "yewstack", "forks": 520},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 2847, "owner": "seanmonstar", "forks": 378},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 22, "stars": 2717, "owner": "tauri-apps", "forks": 77},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 26, "stars": 20512, "owner": "sharkdp", "forks": 432},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 25, "stars": 12054, "owner": "yewstack", "forks": 520},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 12, "stars": 2566, "owner": "seanmonstar", "forks": 261},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 11, "stars": 8297, "owner": "swc-project", "forks": 163},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 5, "stars": 2201, "owner": "tock", "forks": 294},
@@ -22,6 +22,6 @@
 {"description": "The Rust Implementation of libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 3, "stars": 1266, "owner": "libp2p", "forks": 246},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 32, "stars": 23414, "owner": "alacritty", "forks": 1183},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 1, "stars": 1472, "owner": "librespot-org", "forks": 202},
-{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 6, "stars": 1765, "owner": "rusoto", "forks": 288},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 4, "stars": 6129, "owner": "BurntSushi", "forks": 205}
+{"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 5, "stars": 1765, "owner": "rusoto", "forks": 288},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 4, "stars": 6130, "owner": "BurntSushi", "forks": 205}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 49, "stars": 45885, "owner": "rust-lang", "forks": 6856},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 49, "stars": 45889, "owner": "rust-lang", "forks": 6856},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 3, "stars": 826, "owner": "gfx-rs", "forks": 113},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 37, "stars": 8036, "owner": "starship", "forks": 358},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 14, "stars": 12233, "owner": "firecracker-microvm", "forks": 822},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 8, "stars": 2345, "owner": "paritytech", "forks": 736},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 15, "stars": 12233, "owner": "firecracker-microvm", "forks": 822},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 6, "stars": 2345, "owner": "paritytech", "forks": 736},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 7, "stars": 3274, "owner": "bytecodealliance", "forks": 294},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 9, "stars": 5605, "owner": "amethyst", "forks": 631},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 13, "stars": 3648, "owner": "getzola", "forks": 320},
@@ -22,6 +22,6 @@
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 27, "stars": 20521, "owner": "sharkdp", "forks": 433},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 5, "stars": 3149, "owner": "bytecodealliance", "forks": 126},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 6, "stars": 1237, "owner": "WebAssembly", "forks": 74},
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 4, "stars": 14593, "owner": "libra", "forks": 2203},
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 7, "stars": 14593, "owner": "libra", "forks": 2203},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 9, "stars": 5686, "owner": "rust-lang", "forks": 1160}
 ]

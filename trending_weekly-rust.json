@@ -1,14 +1,14 @@
 [
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 323, "stars": 2764, "owner": "tauri-apps", "forks": 80},
-{"description": "The Streaming SQL Database powered by Timely Dataflow", "language": "Rust", "repo": "materialize", "new_stars": 104, "stars": 1360, "owner": "MaterializeInc", "forks": 76},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 324, "stars": 2765, "owner": "tauri-apps", "forks": 80},
+{"description": "The Streaming SQL Database powered by Timely Dataflow", "language": "Rust", "repo": "materialize", "new_stars": 105, "stars": 1361, "owner": "MaterializeInc", "forks": 76},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 94, "stars": 2592, "owner": "seanmonstar", "forks": 264},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 350, "stars": 46029, "owner": "rust-lang", "forks": 6866},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 352, "stars": 46031, "owner": "rust-lang", "forks": 6866},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 57, "stars": 1981, "owner": "rust-embedded", "forks": 120},
 {"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 196, "stars": 1046, "owner": "extrawurst", "forks": 45},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 124, "stars": 15867, "owner": "rust-unofficial", "forks": 1066},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 111, "stars": 2339, "owner": "ruffle-rs", "forks": 65},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 106, "stars": 12086, "owner": "yewstack", "forks": 525},
-{"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 147, "stars": 8379, "owner": "swc-project", "forks": 163},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 107, "stars": 12087, "owner": "yewstack", "forks": 525},
+{"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 148, "stars": 8380, "owner": "swc-project", "forks": 163},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 49, "stars": 5611, "owner": "amethyst", "forks": 632},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 49, "stars": 7501, "owner": "tikv", "forks": 1115},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 24, "stars": 3290, "owner": "rustwasm", "forks": 450},
@@ -23,5 +23,5 @@
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 23, "stars": 3490, "owner": "rust-lang", "forks": 512},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 29, "stars": 4362, "owner": "pingcap", "forks": 630},
 {"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 83, "stars": 346, "owner": "wez", "forks": 24},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 88, "stars": 6207, "owner": "hecrj", "forks": 211}
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 89, "stars": 6208, "owner": "hecrj", "forks": 211}
 ]

@@ -1,15 +1,15 @@
 [
 {"description": "\u544a\u522b\u67af\u71e5\uff0c60 \u79d2\u5b66\u4f1a\u4e00\u4e2a Python \u5c0f\u4f8b\u5b50", "language": "Python", "repo": "python-small-examples", "new_stars": 92, "stars": 4409, "owner": "jackzhenguo", "forks": 1003},
-{"description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models", "language": "Python", "repo": "pulse", "new_stars": 330, "stars": 2206, "owner": "adamian98", "forks": 425},
-{"description": "Comprehensive Python Cheatsheet", "language": "Python", "repo": "python-cheatsheet", "new_stars": 27, "stars": 12982, "owner": "gto76", "forks": 2639},
-{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 186, "stars": 87694, "owner": "public-apis", "forks": 10368},
+{"description": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models", "language": "Python", "repo": "pulse", "new_stars": 330, "stars": 2211, "owner": "adamian98", "forks": 426},
+{"description": "Comprehensive Python Cheatsheet", "language": "Python", "repo": "python-cheatsheet", "new_stars": 27, "stars": 12983, "owner": "gto76", "forks": 2639},
+{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 186, "stars": 87697, "owner": "public-apis", "forks": 10372},
 {"description": "The most widely used Python to C compiler", "language": "Python", "repo": "cython", "new_stars": 7, "stars": 5268, "owner": "cython", "forks": 1039},
 {"description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers datahub.io, catalog.data.gov and europeandataportal.eu/data/en/dataset among many other sites.", "language": "Python", "repo": "ckan", "new_stars": 5, "stars": 2678, "owner": "ckan", "forks": 1433},
 {"description": "Python Backtesting library for trading strategies", "language": "Python", "repo": "backtrader", "new_stars": 9, "stars": 4165, "owner": "mementum", "forks": 1321},
 {"description": "Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification", "language": "Python", "repo": "HanLP", "new_stars": 17, "stars": 19822, "owner": "hankcs", "forks": 5460},
 {"description": "open source Kubernetes-native API gateway for microservices built on the Envoy Proxy", "language": "Python", "repo": "ambassador", "new_stars": 3, "stars": 2801, "owner": "datawire", "forks": 427},
 {"description": "Multi-Cloud Security Auditing Tool", "language": "Python", "repo": "ScoutSuite", "new_stars": 7, "stars": 1992, "owner": "nccgroup", "forks": 297},
-{"description": "Nginx UI allows you to access and modify the nginx configurations files without cli.", "language": "Python", "repo": "nginx-ui", "new_stars": 564, "stars": 1853, "owner": "schenkd", "forks": 44},
+{"description": "Nginx UI allows you to access and modify the nginx configurations files without cli.", "language": "Python", "repo": "nginx-ui", "new_stars": 538, "stars": 1854, "owner": "schenkd", "forks": 45},
 {"description": "An Industrial Level Federated Learning Framework", "language": "Python", "repo": "FATE", "new_stars": 3, "stars": 1951, "owner": "FederatedAI", "forks": 562},
 {"description": "Bruteforce attack for Instagram", "language": "Python", "repo": "Instagram", "new_stars": 6, "stars": 892, "owner": "Pure-L0G1C", "forks": 710},
 {"description": "pyinfra automates infrastructure super fast at massive scale. It can be used for ad-hoc command execution, service deployment, configuration management and more.", "language": "Python", "repo": "pyinfra", "new_stars": 27, "stars": 781, "owner": "Fizzadar", "forks": 67},
@@ -19,9 +19,9 @@
 {"description": "Common User Passwords Profiler (CUPP)", "language": "Python", "repo": "cupp", "new_stars": 8, "stars": 1518, "owner": "Mebus", "forks": 631},
 {"description": "Demisto's ever-growing Content Repository", "language": "Python", "repo": "content", "new_stars": 0, "stars": 391, "owner": "demisto", "forks": 361},
 {"description": "SpiderFoot automates OSINT collection so that you can focus on analysis.", "language": "Python", "repo": "spiderfoot", "new_stars": 11, "stars": 4588, "owner": "smicallef", "forks": 891},
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 110, "stars": 99932, "owner": "donnemartin", "forks": 17640},
-{"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 21, "stars": 8682, "owner": "google", "forks": 695},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 110, "stars": 99933, "owner": "donnemartin", "forks": 17640},
+{"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 21, "stars": 8683, "owner": "google", "forks": 695},
 {"description": "The Datadog Python library", "language": "Python", "repo": "datadogpy", "new_stars": 0, "stars": 360, "owner": "DataDog", "forks": 199},
 {"description": "\u4eba\u50cf\u5361\u901a\u5316\u63a2\u7d22\u9879\u76ee (photo-to-cartoon translation project)", "language": "Python", "repo": "photo2cartoon", "new_stars": 14, "stars": 1303, "owner": "minivision-ai", "forks": 243},
-{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 59, "stars": 29521, "owner": "huggingface", "forks": 6959}
+{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 59, "stars": 29522, "owner": "huggingface", "forks": 6959}
 ]

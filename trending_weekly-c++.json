@@ -1,19 +1,19 @@
 [
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 109, "stars": 15875, "owner": "google", "forks": 6244},
 {"description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)", "language": "C++", "repo": "PrusaSlicer", "new_stars": 34, "stars": 2201, "owner": "prusa3d", "forks": 508},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 135, "stars": 19185, "owner": "nlohmann", "forks": 3397},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 127, "stars": 19185, "owner": "nlohmann", "forks": 3398},
 {"description": "Dear ImGui: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 151, "stars": 21449, "owner": "ocornut", "forks": 3587},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 167, "stars": 42333, "owner": "protocolbuffers", "forks": 11439},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 165, "stars": 42333, "owner": "protocolbuffers", "forks": 11439},
 {"description": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.", "language": "C++", "repo": "BIGTREETECH-SKR-mini-E3", "new_stars": 22, "stars": 509, "owner": "bigtreetech", "forks": 725},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 111, "stars": 14611, "owner": "google", "forks": 2269},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 123, "stars": 26624, "owner": "grpc", "forks": 6671},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 123, "stars": 26625, "owner": "grpc", "forks": 6671},
 {"description": "A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord:", "language": "C++", "repo": "MangoHud", "new_stars": 376, "stars": 1124, "owner": "flightlessmango", "forks": 46},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 216, "stars": 31336, "owner": "godotengine", "forks": 5968},
 {"description": "An open source re-implementation of RollerCoaster Tycoon 2", "language": "C++", "repo": "OpenRCT2", "new_stars": 34, "stars": 8108, "owner": "OpenRCT2", "forks": 943},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 207, "stars": 39670, "owner": "pytorch", "forks": 10263},
 {"description": "Optimized firmware for RepRap 3D printers based on the Arduino platform.", "language": "C++", "repo": "Marlin", "new_stars": 66, "stars": 7655, "owner": "MarlinFirmware", "forks": 10494},
-{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at", "language": "C++", "repo": "Tasmota", "new_stars": 97, "stars": 11193, "owner": "arendst", "forks": 2602},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 299, "stars": 145808, "owner": "tensorflow", "forks": 81758},
+{"description": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at", "language": "C++", "repo": "Tasmota", "new_stars": 97, "stars": 11194, "owner": "arendst", "forks": 2602},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 298, "stars": 145808, "owner": "tensorflow", "forks": 81759},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 39, "stars": 7060, "owner": "abseil", "forks": 1241},
 {"description": "An open source vector similarity search engine powered by Faiss, NMSLIB and Annoy", "language": "C++", "repo": "milvus", "new_stars": 48, "stars": 3585, "owner": "milvus-io", "forks": 569},
 {"description": "oneAPI Deep Neural Network Library (oneDNN)", "language": "C++", "repo": "oneDNN", "new_stars": 18, "stars": 1970, "owner": "oneapi-src", "forks": 505},
@@ -23,5 +23,5 @@
 {"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 106, "stars": 5101, "owner": "llvm", "forks": 1934},
 {"description": "32bit board with LPC1768, support marlin2.0 and smoothieware, support lcd2004/12864, On-board TMC2130 SPI interface and TMC2208 UART interface no additional wiring is required", "language": "C++", "repo": "BIGTREETECH-SKR-V1.3", "new_stars": 14, "stars": 534, "owner": "bigtreetech", "forks": 628},
 {"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 82, "stars": 8803, "owner": "ossrs", "forks": 3049},
-{"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 36, "stars": 4596, "owner": "carla-simulator", "forks": 1314}
+{"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 37, "stars": 4597, "owner": "carla-simulator", "forks": 1314}
 ]

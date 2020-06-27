@@ -8,7 +8,7 @@
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 9292, "owner": "fluent", "forks": 1088},
 {"description": "\"Classic stack\" Rails/Sidekiq/ActionCable PostgreSQL/Redis/Puma app to demonstrate Digital Ocean Kubernetes deployment with Helm 3 and local Docker dev environment with docker-compose and dip (", "language": "Ruby", "repo": "rails-k8s-demo", "new_stars": 28, "stars": 149, "owner": "lewagon", "forks": 7},
 {"description": null, "language": "Ruby", "repo": "PoC", "new_stars": 2, "stars": 255, "owner": "pedrib", "forks": 76},
-{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 12, "stars": 16941, "owner": "ruby", "forks": 4527},
+{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 14, "stars": 16941, "owner": "ruby", "forks": 4527},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 7, "stars": 30965, "owner": "discourse", "forks": 6891},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 1, "stars": 4794, "owner": "rails", "forks": 1231},
 {"description": "Stop saying \"you forgot to \u2026\" in code review (in Ruby)", "language": "Ruby", "repo": "danger", "new_stars": 3, "stars": 4069, "owner": "danger", "forks": 381},
@@ -21,7 +21,7 @@
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 4986, "owner": "rails-api", "forks": 1336},
 {"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 3, "stars": 6003, "owner": "github-changelog-generator", "forks": 680},
 {"description": "Audited (formerly acts_as_audited) is an ORM extension that logs all changes to your Rails models.", "language": "Ruby", "repo": "audited", "new_stars": 1, "stars": 2689, "owner": "collectiveidea", "forks": 531},
-{"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 1, "stars": 4017, "owner": "colszowka", "forks": 460},
+{"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 2, "stars": 4017, "owner": "colszowka", "forks": 460},
 {"description": "Oauth2 strategy for Google", "language": "Ruby", "repo": "omniauth-google-oauth2", "new_stars": 2, "stars": 1193, "owner": "zquestz", "forks": 347},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 2, "stars": 751, "owner": "rswag", "forks": 206}
 ]

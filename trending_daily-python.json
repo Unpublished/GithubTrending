@@ -1,18 +1,18 @@
 [
-{"description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.", "language": "Python", "repo": "data-science-ipython-notebooks", "new_stars": 49, "stars": 18783, "owner": "donnemartin", "forks": 5799},
-{"description": "Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants", "language": "Python", "repo": "rasa", "new_stars": 147, "stars": 9016, "owner": "RasaHQ", "forks": 2801},
+{"description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.", "language": "Python", "repo": "data-science-ipython-notebooks", "new_stars": 49, "stars": 18786, "owner": "donnemartin", "forks": 5800},
+{"description": "Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants", "language": "Python", "repo": "rasa", "new_stars": 147, "stars": 9015, "owner": "RasaHQ", "forks": 2801},
 {"description": "PyTorch implementation of FastSurferCNN", "language": "Python", "repo": "FastSurfer", "new_stars": 19, "stars": 72, "owner": "Deep-MI", "forks": 8},
-{"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 36, "stars": 8823, "owner": "google", "forks": 703},
+{"description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more", "language": "Python", "repo": "jax", "new_stars": 36, "stars": 8824, "owner": "google", "forks": 702},
 {"description": "A framework for training and evaluating AI models on a variety of openly available dialogue datasets.", "language": "Python", "repo": "ParlAI", "new_stars": 6, "stars": 6332, "owner": "facebookresearch", "forks": 1267},
 {"description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows", "language": "Python", "repo": "airflow", "new_stars": 15, "stars": 17216, "owner": "apache", "forks": 6668},
 {"description": "Official implementation of \"Implicit Neural Representations with Periodic Activation Functions\"", "language": "Python", "repo": "siren", "new_stars": 49, "stars": 203, "owner": "vsitzmann", "forks": 22},
 {"description": "Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.", "language": "Python", "repo": "skywater-pdk", "new_stars": 40, "stars": 201, "owner": "google", "forks": 9},
-{"description": "Machine Learning Pipelines for Kubeflow", "language": "Python", "repo": "pipelines", "new_stars": 4, "stars": 1622, "owner": "kubeflow", "forks": 588},
+{"description": "Machine Learning Pipelines for Kubeflow", "language": "Python", "repo": "pipelines", "new_stars": 4, "stars": 1623, "owner": "kubeflow", "forks": 588},
 {"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 88, "stars": 100190, "owner": "donnemartin", "forks": 17722},
-{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 53, "stars": 29689, "owner": "huggingface", "forks": 7007},
+{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 53, "stars": 29691, "owner": "huggingface", "forks": 7008},
 {"description": "Sentence Embeddings with BERT & XLNet", "language": "Python", "repo": "sentence-transformers", "new_stars": 12, "stars": 2180, "owner": "UKPLab", "forks": 402},
-{"description": "The right way to check the weather", "language": "Python", "repo": "wttr.in", "new_stars": 713, "stars": 11930, "owner": "chubin", "forks": 620},
-{"description": "TextAttack", "language": "Python", "repo": "TextAttack", "new_stars": 75, "stars": 317, "owner": "QData", "forks": 31},
+{"description": "The right way to check the weather", "language": "Python", "repo": "wttr.in", "new_stars": 711, "stars": 11931, "owner": "chubin", "forks": 620},
+{"description": "TextAttack", "language": "Python", "repo": "TextAttack", "new_stars": 75, "stars": 319, "owner": "QData", "forks": 31},
 {"description": "Time Series Forecasting Best Practices & Examples", "language": "Python", "repo": "forecasting", "new_stars": 20, "stars": 1266, "owner": "microsoft", "forks": 179},
 {"description": "BBT - Bug Bounty Tools", "language": "Python", "repo": "Bug-Bounty-Toolz", "new_stars": 49, "stars": 102, "owner": "m4ll0k", "forks": 29},
 {"description": "AI Toolkit for Healthcare Imaging", "language": "Python", "repo": "MONAI", "new_stars": 5, "stars": 1032, "owner": "Project-MONAI", "forks": 177},
@@ -23,5 +23,5 @@
 {"description": "Industrial-strength Natural Language Processing (NLP) with Python and Cython", "language": "Python", "repo": "spaCy", "new_stars": 19, "stars": 16715, "owner": "explosion", "forks": 2984},
 {"description": "StarGAN v2 - Official PyTorch Implementation (CVPR 2020)", "language": "Python", "repo": "stargan-v2", "new_stars": 32, "stars": 1457, "owner": "clovaai", "forks": 196},
 {"description": "NumPy-like API accelerated with CUDA", "language": "Python", "repo": "cupy", "new_stars": 10, "stars": 4226, "owner": "cupy", "forks": 384},
-{"description": "Easily document cables and wiring harnesses", "language": "Python", "repo": "WireViz", "new_stars": 252, "stars": 1631, "owner": "formatc1702", "forks": 65}
+{"description": "Easily document cables and wiring harnesses", "language": "Python", "repo": "WireViz", "new_stars": 253, "stars": 1632, "owner": "formatc1702", "forks": 65}
 ]

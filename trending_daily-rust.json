@@ -1,9 +1,9 @@
 [
-{"description": "Distributed SQL database in Rust, written as a learning project", "language": "Rust", "repo": "toydb", "new_stars": 140, "stars": 623, "owner": "erikgrinaker", "forks": 29},
+{"description": "Distributed SQL database in Rust, written as a learning project", "language": "Rust", "repo": "toydb", "new_stars": 140, "stars": 626, "owner": "erikgrinaker", "forks": 29},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 5, "stars": 14612, "owner": "libra", "forks": 2210},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 44, "stars": 2426, "owner": "ruffle-rs", "forks": 68},
-{"description": "egui: Immediate mode GUI written in Rust, made for WASM", "language": "Rust", "repo": "emigui", "new_stars": 272, "stars": 429, "owner": "emilk", "forks": 17},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 16, "stars": 4315, "owner": "timberio", "forks": 248},
+{"description": "egui: Immediate mode GUI written in Rust, made for WASM", "language": "Rust", "repo": "emigui", "new_stars": 276, "stars": 433, "owner": "emilk", "forks": 17},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 16, "stars": 4315, "owner": "timberio", "forks": 249},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 9, "stars": 12272, "owner": "firecracker-microvm", "forks": 826},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 2789, "owner": "graphql-rust", "forks": 245},
 {"description": "The official BaDSV specification and CLI. Ascend from your puny DSV files!", "language": "Rust", "repo": "badsv", "new_stars": 11, "stars": 38, "owner": "RocketRace", "forks": 0},
@@ -22,6 +22,6 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 5, "stars": 2104, "owner": "launchbadge", "forks": 124},
 {"description": "A generic framework for on-demand, incrementalized computation. Inspired by adapton, glimmer, and rustc's query system.", "language": "Rust", "repo": "salsa", "new_stars": 23, "stars": 638, "owner": "salsa-rs", "forks": 40},
 {"description": "The Streaming SQL Database powered by Timely Dataflow", "language": "Rust", "repo": "materialize", "new_stars": 6, "stars": 1376, "owner": "MaterializeInc", "forks": 76},
-{"description": "Rust DataFrames", "language": "Rust", "repo": "polars", "new_stars": 6, "stars": 30, "owner": "ritchie46", "forks": 0},
+{"description": "Rust DataFrames", "language": "Rust", "repo": "polars", "new_stars": 6, "stars": 32, "owner": "ritchie46", "forks": 0},
 {"description": "Minimal implementation of the Mimblewimble protocol.", "language": "Rust", "repo": "grin", "new_stars": 1, "stars": 4673, "owner": "mimblewimble", "forks": 936}
 ]

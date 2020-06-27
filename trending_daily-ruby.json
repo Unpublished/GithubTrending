@@ -13,7 +13,7 @@
 {"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 0, "stars": 3941, "owner": "rack", "forks": 1455},
 {"description": "\"Classic stack\" Rails/Sidekiq/ActionCable PostgreSQL/Redis/Puma app to demonstrate Digital Ocean Kubernetes deployment with Helm 3 and local Docker dev environment with docker-compose and dip (", "language": "Ruby", "repo": "rails-k8s-demo", "new_stars": 28, "stars": 143, "owner": "lewagon", "forks": 7},
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 1, "stars": 2855, "owner": "thoughtbot", "forks": 803},
-{"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 1, "stars": 3117, "owner": "luggit", "forks": 520},
+{"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 1, "stars": 3118, "owner": "luggit", "forks": 520},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 0, "stars": 6954, "owner": "varvet", "forks": 533},
 {"description": "FriendlyId is the \u201cSwiss Army bulldozer\u201d of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL\u2019s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.", "language": "Ruby", "repo": "friendly_id", "new_stars": 2, "stars": 5474, "owner": "norman", "forks": 570},
 {"description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 0, "stars": 7773, "owner": "kaminari", "forks": 1021},
@@ -22,6 +22,6 @@
 {"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 2, "stars": 257, "owner": "jsonapi-serializer", "forks": 29},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 3, "stars": 5803, "owner": "paper-trail-gem", "forks": 767},
 {"description": "WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.", "language": "Ruby", "repo": "wpscan", "new_stars": 4, "stars": 5004, "owner": "wpscanteam", "forks": 907},
-{"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 1, "stars": 4017, "owner": "colszowka", "forks": 459},
+{"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 2, "stars": 4017, "owner": "colszowka", "forks": 459},
 {"description": "General Rack Authentication Framework", "language": "Ruby", "repo": "warden", "new_stars": 1, "stars": 2264, "owner": "wardencommunity", "forks": 184}
 ]

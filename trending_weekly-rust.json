@@ -1,6 +1,6 @@
 [
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 52, "stars": 3316, "owner": "bytecodealliance", "forks": 295},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 350, "stars": 46132, "owner": "rust-lang", "forks": 6875},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 363, "stars": 46134, "owner": "rust-lang", "forks": 6875},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 158, "stars": 2854, "owner": "tauri-apps", "forks": 81},
 {"description": "Blazing fast linter for JavaScript and TypeScript written in Rust", "language": "Rust", "repo": "deno_lint", "new_stars": 90, "stars": 368, "owner": "denoland", "forks": 54},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 192, "stars": 8475, "owner": "swc-project", "forks": 168},
@@ -8,10 +8,10 @@
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 21, "stars": 842, "owner": "gfx-rs", "forks": 115},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 182, "stars": 8176, "owner": "starship", "forks": 366},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 66, "stars": 2620, "owner": "seanmonstar", "forks": 266},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 119, "stars": 15933, "owner": "rust-unofficial", "forks": 1067},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 135, "stars": 15934, "owner": "rust-unofficial", "forks": 1067},
 {"description": "[PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 59, "stars": 206, "owner": "aws-cloudformation", "forks": 16},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 64, "stars": 4505, "owner": "rust-lang", "forks": 519},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 162, "stars": 3082, "owner": "LemmyNet", "forks": 200},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 69, "stars": 4505, "owner": "rust-lang", "forks": 519},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 172, "stars": 3092, "owner": "LemmyNet", "forks": 200},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 39, "stars": 4387, "owner": "pingcap", "forks": 631},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 128, "stars": 2429, "owner": "ruffle-rs", "forks": 68},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 26, "stars": 1222, "owner": "actix", "forks": 397},
@@ -20,8 +20,8 @@
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 120, "stars": 6269, "owner": "hecrj", "forks": 213},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 36, "stars": 3307, "owner": "rustwasm", "forks": 452},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 40, "stars": 5628, "owner": "amethyst", "forks": 632},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 59, "stars": 1913, "owner": "linebender", "forks": 155},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 60, "stars": 1914, "owner": "linebender", "forks": 155},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 51, "stars": 7530, "owner": "tikv", "forks": 1117},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 54, "stars": 12273, "owner": "firecracker-microvm", "forks": 826},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 34, "stars": 3710, "owner": "Spotifyd", "forks": 190}
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 36, "stars": 3710, "owner": "Spotifyd", "forks": 190}
 ]

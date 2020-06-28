@@ -1,5 +1,5 @@
 [
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 102, "stars": 1956, "owner": "linebender", "forks": 157},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 106, "stars": 1960, "owner": "linebender", "forks": 157},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 376, "stars": 46149, "owner": "rust-lang", "forks": 6878},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 53, "stars": 3317, "owner": "bytecodealliance", "forks": 295},
 {"description": "Blazing fast linter for JavaScript and TypeScript written in Rust", "language": "Rust", "repo": "deno_lint", "new_stars": 91, "stars": 369, "owner": "denoland", "forks": 54},
@@ -11,7 +11,7 @@
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 188, "stars": 8182, "owner": "starship", "forks": 366},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 192, "stars": 8475, "owner": "swc-project", "forks": 168},
 {"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 62, "stars": 1554, "owner": "stjepang", "forks": 74},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 275, "stars": 3194, "owner": "LemmyNet", "forks": 202},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 281, "stars": 3200, "owner": "LemmyNet", "forks": 202},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 136, "stars": 2437, "owner": "ruffle-rs", "forks": 68},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 51, "stars": 7531, "owner": "tikv", "forks": 1119},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 69, "stars": 2623, "owner": "seanmonstar", "forks": 266},
@@ -19,8 +19,8 @@
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 41, "stars": 4389, "owner": "pingcap", "forks": 632},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 57, "stars": 12273, "owner": "firecracker-microvm", "forks": 826},
 {"description": "Actix web examples", "language": "Rust", "repo": "examples", "new_stars": 27, "stars": 1222, "owner": "actix", "forks": 397},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 77, "stars": 4328, "owner": "timberio", "forks": 249},
-{"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 39, "stars": 3256, "owner": "serde-rs", "forks": 352},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 80, "stars": 4331, "owner": "timberio", "forks": 249},
+{"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 39, "stars": 3257, "owner": "serde-rs", "forks": 352},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 42, "stars": 2886, "owner": "crossbeam-rs", "forks": 205},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 149, "stars": 9746, "owner": "rust-lang", "forks": 1170},
 {"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 130, "stars": 3533, "owner": "XAMPPRocky", "forks": 218}

@@ -1,6 +1,6 @@
 [
 {"description": "End-to-End Object Detection with Transformers", "language": "Python", "repo": "detr", "new_stars": 3869, "stars": 3941, "owner": "facebookresearch", "forks": 454},
-{"description": "DeepFaceLab is the leading software for creating deepfakes.", "language": "Python", "repo": "DeepFaceLab", "new_stars": 2583, "stars": 16905, "owner": "iperov", "forks": 4023},
+{"description": "DeepFaceLab is the leading software for creating deepfakes.", "language": "Python", "repo": "DeepFaceLab", "new_stars": 2583, "stars": 16907, "owner": "iperov", "forks": 4024},
 {"description": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.", "language": "Python", "repo": "macOS-Simple-KVM", "new_stars": 787, "stars": 6367, "owner": "foxlet", "forks": 487},
 {"description": "OpenMMLab Detection Toolbox and Benchmark", "language": "Python", "repo": "mmdetection", "new_stars": 793, "stars": 10319, "owner": "open-mmlab", "forks": 3488},
 {"description": "Web APIs for Django.", "language": "Python", "repo": "django-rest-framework", "new_stars": 662, "stars": 18062, "owner": "encode", "forks": 5138},
@@ -8,20 +8,20 @@
 {"description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"", "language": "Python", "repo": "gpt-2", "new_stars": 380, "stars": 12159, "owner": "openai", "forks": 2975},
 {"description": "nlp \u2013 Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow", "language": "Python", "repo": "nlp", "new_stars": 669, "stars": 1453, "owner": "huggingface", "forks": 120},
 {"description": "PyTorch ,ONNX and TensorRT implementation of YOLOv4", "language": "Python", "repo": "pytorch-YOLOv4", "new_stars": 415, "stars": 904, "owner": "Tianxiaomo", "forks": 225},
-{"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 988, "stars": 11238, "owner": "facebookresearch", "forks": 2517},
+{"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 989, "stars": 11239, "owner": "facebookresearch", "forks": 2517},
 {"description": "My Python Examples", "language": "Python", "repo": "Python", "new_stars": 588, "stars": 17916, "owner": "geekcomputers", "forks": 8505},
 {"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 1739, "stars": 15844, "owner": "tiangolo", "forks": 1076},
 {"description": "Py2/py3 script that can download macOS components direct from Apple", "language": "Python", "repo": "gibMacOS", "new_stars": 291, "stars": 1439, "owner": "corpnewt", "forks": 215},
 {"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 2110, "stars": 29698, "owner": "huggingface", "forks": 7008},
 {"description": "MlFinlab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.", "language": "Python", "repo": "mlfinlab", "new_stars": 194, "stars": 1473, "owner": "hudson-and-thames", "forks": 399},
 {"description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows", "language": "Python", "repo": "airflow", "new_stars": 425, "stars": 17220, "owner": "apache", "forks": 6667},
-{"description": "Automatic SQL injection and database takeover tool", "language": "Python", "repo": "sqlmap", "new_stars": 332, "stars": 17522, "owner": "sqlmapproject", "forks": 3825},
+{"description": "Automatic SQL injection and database takeover tool", "language": "Python", "repo": "sqlmap", "new_stars": 333, "stars": 17523, "owner": "sqlmapproject", "forks": 3825},
 {"description": "\u56e2\u5b50\u7ffb\u8bd1\u5668 \u2014\u2014 \u4e2a\u4eba\u5174\u8da3\u5236\u4f5c\u7684\u4e00\u6b3e\u57fa\u4e8eOCR\u6280\u672f\u7684\u7ffb\u8bd1\u5668", "language": "Python", "repo": "Dango-Translator", "new_stars": 971, "stars": 1328, "owner": "PantsuDango", "forks": 159},
 {"description": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.", "language": "Python", "repo": "d2l-en", "new_stars": 966, "stars": 6048, "owner": "d2l-ai", "forks": 1416},
-{"description": "\u544a\u522b\u67af\u71e5\uff0c\u81f4\u529b\u4e8e\u6253\u9020 Python \u5bcc\u6709\u4f53\u7cfb\u4e14\u5b9e\u7528\u7684\u5c0f\u4f8b\u5b50\u3001\u5c0f\u6848\u4f8b\u3002", "language": "Python", "repo": "python-small-examples", "new_stars": 701, "stars": 4540, "owner": "jackzhenguo", "forks": 1032},
+{"description": "\u544a\u522b\u67af\u71e5\uff0c\u81f4\u529b\u4e8e\u6253\u9020 Python \u5bcc\u6709\u4f53\u7cfb\u4e14\u5b9e\u7528\u7684\u5c0f\u4f8b\u5b50\u3001\u5c0f\u6848\u4f8b\u3002", "language": "Python", "repo": "python-small-examples", "new_stars": 703, "stars": 4542, "owner": "jackzhenguo", "forks": 1033},
 {"description": "Python tool for grabbing text via screenshot", "language": "Python", "repo": "textshot", "new_stars": 422, "stars": 801, "owner": "ianzhao05", "forks": 115},
-{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 861, "stars": 50290, "owner": "django", "forks": 21811},
+{"description": "The Web framework for perfectionists with deadlines.", "language": "Python", "repo": "django", "new_stars": 862, "stars": 50291, "owner": "django", "forks": 21811},
 {"description": "StyleGAN2 - Official TensorFlow Implementation", "language": "Python", "repo": "stylegan2", "new_stars": 573, "stars": 4766, "owner": "NVlabs", "forks": 922},
 {"description": "A next generation HTTP client for Python.", "language": "Python", "repo": "httpx", "new_stars": 364, "stars": 5016, "owner": "encode", "forks": 300},
-{"description": "Deepfakes Software For All", "language": "Python", "repo": "faceswap", "new_stars": 679, "stars": 31185, "owner": "deepfakes", "forks": 9819}
+{"description": "Deepfakes Software For All", "language": "Python", "repo": "faceswap", "new_stars": 682, "stars": 31188, "owner": "deepfakes", "forks": 9819}
 ]

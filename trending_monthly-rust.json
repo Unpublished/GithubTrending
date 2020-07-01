@@ -1,6 +1,6 @@
 [
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 1002, "stars": 6143, "owner": "meilisearch", "forks": 175},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1138, "stars": 46271, "owner": "rust-lang", "forks": 6889},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1138, "stars": 46272, "owner": "rust-lang", "forks": 6888},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 355, "stars": 2057, "owner": "linebender", "forks": 158},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 566, "stars": 9802, "owner": "rust-lang", "forks": 1178},
 {"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 463, "stars": 1109, "owner": "extrawurst", "forks": 49},
@@ -8,11 +8,11 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 191, "stars": 7550, "owner": "tikv", "forks": 1122},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 376, "stars": 12184, "owner": "yewstack", "forks": 531},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 520, "stars": 16003, "owner": "rust-unofficial", "forks": 1070},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 996, "stars": 3679, "owner": "LemmyNet", "forks": 229},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 996, "stars": 3680, "owner": "LemmyNet", "forks": 229},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 318, "stars": 18170, "owner": "xi-editor", "forks": 659},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 336, "stars": 4445, "owner": "timberio", "forks": 253},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 78, "stars": 1280, "owner": "greshake", "forks": 240},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 182, "stars": 3073, "owner": "fdehau", "forks": 156},
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 182, "stars": 3074, "owner": "fdehau", "forks": 156},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 192, "stars": 5503, "owner": "rust-lang", "forks": 1484},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 141, "stars": 2896, "owner": "crossbeam-rs", "forks": 205},
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 304, "stars": 8592, "owner": "actix", "forks": 1059},
@@ -22,6 +22,6 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 231, "stars": 2142, "owner": "launchbadge", "forks": 124},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 111, "stars": 3315, "owner": "rustwasm", "forks": 454},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 118, "stars": 2884, "owner": "seanmonstar", "forks": 385},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 722, "stars": 23611, "owner": "alacritty", "forks": 1186},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 722, "stars": 23612, "owner": "alacritty", "forks": 1186},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 233, "stars": 2644, "owner": "seanmonstar", "forks": 266}
 ]

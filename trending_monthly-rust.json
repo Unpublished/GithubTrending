@@ -1,7 +1,7 @@
 [
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 995, "stars": 6143, "owner": "meilisearch", "forks": 175},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1140, "stars": 46274, "owner": "rust-lang", "forks": 6888},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 356, "stars": 2059, "owner": "linebender", "forks": 158},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1140, "stars": 46275, "owner": "rust-lang", "forks": 6888},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 356, "stars": 2061, "owner": "linebender", "forks": 158},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 570, "stars": 9802, "owner": "rust-lang", "forks": 1178},
 {"description": "blazing fast terminal-ui for git written in rust", "language": "Rust", "repo": "gitui", "new_stars": 463, "stars": 1109, "owner": "extrawurst", "forks": 49},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 584, "stars": 2905, "owner": "tauri-apps", "forks": 82},
@@ -9,9 +9,9 @@
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 374, "stars": 12186, "owner": "yewstack", "forks": 531},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 519, "stars": 16004, "owner": "rust-unofficial", "forks": 1070},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 963, "stars": 3683, "owner": "LemmyNet", "forks": 230},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 311, "stars": 18170, "owner": "xi-editor", "forks": 659},
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 311, "stars": 18171, "owner": "xi-editor", "forks": 659},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 336, "stars": 4445, "owner": "timberio", "forks": 253},
-{"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 76, "stars": 1279, "owner": "greshake", "forks": 240},
+{"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 76, "stars": 1278, "owner": "greshake", "forks": 240},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 176, "stars": 3075, "owner": "fdehau", "forks": 156},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 180, "stars": 5503, "owner": "rust-lang", "forks": 1484},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 139, "stars": 2896, "owner": "crossbeam-rs", "forks": 205},
@@ -22,6 +22,6 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 228, "stars": 2144, "owner": "launchbadge", "forks": 124},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 105, "stars": 3315, "owner": "rustwasm", "forks": 454},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 116, "stars": 2884, "owner": "seanmonstar", "forks": 385},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 715, "stars": 23613, "owner": "alacritty", "forks": 1186},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 715, "stars": 23614, "owner": "alacritty", "forks": 1186},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 232, "stars": 2644, "owner": "seanmonstar", "forks": 266}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 9, "stars": 4492, "owner": "clap-rs", "forks": 427},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 43, "stars": 12237, "owner": "yewstack", "forks": 535},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 43, "stars": 12238, "owner": "yewstack", "forks": 535},
 {"description": "Select partial standard input and replace with the result of another command efficiently", "language": "Rust", "repo": "teip", "new_stars": 13, "stars": 143, "owner": "greymd", "forks": 11},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 8, "stars": 2027, "owner": "gleam-lang", "forks": 89},
 {"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 3, "stars": 7345, "owner": "analysis-tools-dev", "forks": 850},
@@ -10,12 +10,12 @@
 {"description": "Fast and feature-rich multi-network Ethereum client.", "language": "Rust", "repo": "openethereum", "new_stars": 5, "stars": 6070, "owner": "openethereum", "forks": 1512},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 45, "stars": 5552, "owner": "RustPython", "forks": 393},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 3, "stars": 2400, "owner": "paritytech", "forks": 746},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 17, "stars": 2666, "owner": "seanmonstar", "forks": 267},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 17, "stars": 2667, "owner": "seanmonstar", "forks": 267},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 23, "stars": 2564, "owner": "ruffle-rs", "forks": 72},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 2, "stars": 999, "owner": "paritytech", "forks": 262},
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 33, "stars": 6188, "owner": "meilisearch", "forks": 178},
-{"description": "a cross-platform (currently Linux & WebAssembly) networking engine built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast", "language": "Rust", "repo": "naia", "new_stars": 27, "stars": 72, "owner": "naia-rs", "forks": 1},
-{"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 32, "stars": 8938, "owner": "valeriansaliou", "forks": 275},
+{"description": "a cross-platform (currently Linux & WebAssembly) networking engine built in Rust. Intended to make multiplayer game development dead-simple & lightning-fast", "language": "Rust", "repo": "naia", "new_stars": 27, "stars": 73, "owner": "naia-rs", "forks": 1},
+{"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 32, "stars": 8939, "owner": "valeriansaliou", "forks": 275},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 8, "stars": 5720, "owner": "rust-lang", "forks": 1171},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 2, "stars": 1284, "owner": "rust-windowing", "forks": 339},
 {"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 14, "stars": 1389, "owner": "Kethku", "forks": 55},
@@ -23,5 +23,5 @@
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 18, "stars": 10223, "owner": "SergioBenitez", "forks": 684},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 5, "stars": 1175, "owner": "hrkfdn", "forks": 61},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 16188, "owner": "servo", "forks": 2384},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 25, "stars": 9838, "owner": "rust-lang", "forks": 1185}
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 25, "stars": 9839, "owner": "rust-lang", "forks": 1185}
 ]

@@ -17,11 +17,11 @@
 {"description": "Actix web is a small, pragmatic, and extremely fast rust web framework.", "language": "Rust", "repo": "actix-web", "new_stars": 14, "stars": 8656, "owner": "actix", "forks": 1066},
 {"description": "Native PostgreSQL driver for the Rust programming language", "language": "Rust", "repo": "rust-postgres", "new_stars": 6, "stars": 1808, "owner": "sfackler", "forks": 187},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 9, "stars": 2280, "owner": "hyperium", "forks": 177},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 18, "stars": 10274, "owner": "SergioBenitez", "forks": 686},
-{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 27, "stars": 20608, "owner": "BurntSushi", "forks": 907},
-{"description": "Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 18, "stars": 1157, "owner": "federico-terzi", "forks": 49},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 18, "stars": 10275, "owner": "SergioBenitez", "forks": 687},
+{"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 27, "stars": 20609, "owner": "BurntSushi", "forks": 907},
+{"description": "Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 18, "stars": 1158, "owner": "federico-terzi", "forks": 49},
 {"description": "Assorted immutable collection datatypes for Rust", "language": "Rust", "repo": "im-rs", "new_stars": 5, "stars": 956, "owner": "bodil", "forks": 53},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 4, "stars": 2353, "owner": "ggez", "forks": 297},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 2906, "owner": "seanmonstar", "forks": 387},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 2907, "owner": "seanmonstar", "forks": 388},
 {"description": "A mutex with timeout tracing", "language": "Rust", "repo": "trace-mutex", "new_stars": 2, "stars": 20, "owner": "jamesmunns", "forks": 1}
 ]

@@ -1,12 +1,12 @@
 [
-{"description": "Open-source live chat software", "language": "Ruby", "repo": "chatwoot", "new_stars": 12, "stars": 4283, "owner": "chatwoot", "forks": 373},
+{"description": "Open-source live chat software", "language": "Ruby", "repo": "chatwoot", "new_stars": 16, "stars": 4283, "owner": "chatwoot", "forks": 373},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 15, "stars": 21375, "owner": "tootsuite", "forks": 3661},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 5, "stars": 20933, "owner": "heartcombo", "forks": 5037},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 5, "stars": 20933, "owner": "heartcombo", "forks": 5038},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 5, "stars": 45938, "owner": "rails", "forks": 18563},
-{"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 3, "stars": 9127, "owner": "ruby-grape", "forks": 1153},
+{"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 1, "stars": 9127, "owner": "ruby-grape", "forks": 1153},
 {"description": "Code coverage for Ruby 1.9+ with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 4, "stars": 4030, "owner": "colszowka", "forks": 462},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 29252, "owner": "fastlane", "forks": 4591},
-{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 6, "stars": 7950, "owner": "Shopify", "forks": 1037},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 8, "stars": 29252, "owner": "fastlane", "forks": 4591},
+{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 6, "stars": 7951, "owner": "Shopify", "forks": 1037},
 {"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 0, "stars": 3950, "owner": "rack", "forks": 1458},
 {"description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:", "language": "Ruby", "repo": "spree", "new_stars": 4, "stars": 10490, "owner": "spree", "forks": 4487},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 24, "stars": 28778, "owner": "huginn", "forks": 2752},
@@ -20,8 +20,8 @@
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 1, "stars": 4988, "owner": "rails-api", "forks": 1338},
 {"description": "AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer)", "language": "Ruby", "repo": "aasm", "new_stars": 2, "stars": 4064, "owner": "aasm", "forks": 542},
 {"description": "The ultimate WinRM shell for hacking/pentesting", "language": "Ruby", "repo": "evil-winrm", "new_stars": 6, "stars": 1181, "owner": "Hackplayers", "forks": 248},
-{"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 18, "stars": 26287, "owner": "bayandin", "forks": 3277},
+{"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 18, "stars": 26288, "owner": "bayandin", "forks": 3277},
 {"description": "help to kill N+1 queries and unused eager loading", "language": "Ruby", "repo": "bullet", "new_stars": 2, "stars": 5943, "owner": "flyerhzm", "forks": 328},
-{"description": "A lightning fast JSON:API serializer for Ruby Objects.", "language": "Ruby", "repo": "fast_jsonapi", "new_stars": 4, "stars": 5040, "owner": "Netflix", "forks": 397},
+{"description": "A lightning fast JSON:API serializer for Ruby Objects.", "language": "Ruby", "repo": "fast_jsonapi", "new_stars": 3, "stars": 5040, "owner": "Netflix", "forks": 397},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 0, "stars": 2423, "owner": "rubygems", "forks": 1193}
 ]

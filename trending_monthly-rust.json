@@ -1,10 +1,10 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1038, "stars": 46486, "owner": "rust-lang", "forks": 6906},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1039, "stars": 46487, "owner": "rust-lang", "forks": 6906},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 956, "stars": 3833, "owner": "LemmyNet", "forks": 242},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 352, "stars": 2110, "owner": "linebender", "forks": 160},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 188, "stars": 7601, "owner": "tikv", "forks": 1128},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 515, "stars": 1278, "owner": "extrawurst", "forks": 53},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2171, "stars": 4555, "owner": "tauri-apps", "forks": 103},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2173, "stars": 4557, "owner": "tauri-apps", "forks": 103},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 348, "stars": 8533, "owner": "swc-project", "forks": 172},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 224, "stars": 2218, "owner": "launchbadge", "forks": 129},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 442, "stars": 4599, "owner": "timberio", "forks": 259},
@@ -22,6 +22,6 @@
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 217, "stars": 3416, "owner": "bytecodealliance", "forks": 303},
 {"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 2759, "stars": 4534, "owner": "dabreegster", "forks": 117},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 171, "stars": 3128, "owner": "fdehau", "forks": 155},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 185, "stars": 5708, "owner": "amethyst", "forks": 638},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 186, "stars": 5709, "owner": "amethyst", "forks": 638},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 81, "stars": 3529, "owner": "rust-lang", "forks": 512}
 ]

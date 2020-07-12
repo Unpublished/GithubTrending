@@ -5,7 +5,7 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 190, "stars": 7603, "owner": "tikv", "forks": 1128},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 518, "stars": 1281, "owner": "extrawurst", "forks": 53},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2240, "stars": 4624, "owner": "tauri-apps", "forks": 102},
-{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 465, "stars": 4622, "owner": "timberio", "forks": 260},
+{"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 467, "stars": 4623, "owner": "timberio", "forks": 260},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 488, "stars": 12400, "owner": "yewstack", "forks": 543},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 525, "stars": 2638, "owner": "ruffle-rs", "forks": 74},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 225, "stars": 2219, "owner": "launchbadge", "forks": 129},
@@ -23,5 +23,5 @@
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 192, "stars": 5714, "owner": "amethyst", "forks": 638},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 171, "stars": 3128, "owner": "fdehau", "forks": 155},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 109, "stars": 3354, "owner": "rustwasm", "forks": 456},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 118, "stars": 2840, "owner": "graphql-rust", "forks": 247}
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 119, "stars": 2841, "owner": "graphql-rust", "forks": 247}
 ]

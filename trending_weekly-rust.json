@@ -1,10 +1,10 @@
 [
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 1549, "stars": 4569, "owner": "tauri-apps", "forks": 103},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 1552, "stars": 4570, "owner": "tauri-apps", "forks": 103},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 144, "stars": 4600, "owner": "timberio", "forks": 260},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 91, "stars": 10311, "owner": "SergioBenitez", "forks": 688},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 213, "stars": 2879, "owner": "seanmonstar", "forks": 268},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 157, "stars": 12397, "owner": "yewstack", "forks": 542},
-{"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 104, "stars": 8707, "owner": "actix", "forks": 1065},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 214, "stars": 2880, "owner": "seanmonstar", "forks": 268},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 158, "stars": 12398, "owner": "yewstack", "forks": 542},
+{"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 105, "stars": 8708, "owner": "actix", "forks": 1065},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 49, "stars": 5598, "owner": "RustPython", "forks": 396},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 162, "stars": 1279, "owner": "extrawurst", "forks": 53},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 177, "stars": 23796, "owner": "alacritty", "forks": 1191},
@@ -20,7 +20,7 @@
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 32, "stars": 3353, "owner": "rustwasm", "forks": 456},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 21, "stars": 2364, "owner": "ggez", "forks": 300},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 190, "stars": 46492, "owner": "rust-lang", "forks": 6907},
-{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 45, "stars": 4063, "owner": "rayon-rs", "forks": 239},
+{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 46, "stars": 4063, "owner": "rayon-rs", "forks": 239},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 51, "stars": 16232, "owner": "servo", "forks": 2385},
 {"description": "ripgrep recursively searches directories for a regex pattern", "language": "Rust", "repo": "ripgrep", "new_stars": 111, "stars": 20655, "owner": "BurntSushi", "forks": 909},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 40, "stars": 12335, "owner": "firecracker-microvm", "forks": 834}

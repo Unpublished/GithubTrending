@@ -12,9 +12,9 @@
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 10, "stars": 3769, "owner": "Spotifyd", "forks": 194},
 {"description": "Rust front-end framework for building web apps", "language": "Rust", "repo": "valerie", "new_stars": 153, "stars": 158, "owner": "emmanuelantony2000", "forks": 4},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 6, "stars": 2296, "owner": "hyperium", "forks": 177},
-{"description": "Actor framework for Rust.", "language": "Rust", "repo": "actix", "new_stars": 10, "stars": 5338, "owner": "actix", "forks": 493},
+{"description": "Actor framework for Rust.", "language": "Rust", "repo": "actix", "new_stars": 10, "stars": 5338, "owner": "actix", "forks": 492},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 10, "stars": 3421, "owner": "bytecodealliance", "forks": 303},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 24, "stars": 9966, "owner": "rust-lang", "forks": 1208},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 25, "stars": 9967, "owner": "rust-lang", "forks": 1208},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 15, "stars": 5715, "owner": "amethyst", "forks": 638},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 4, "stars": 4085, "owner": "gfx-rs", "forks": 467},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 26, "stars": 4645, "owner": "timberio", "forks": 260},
@@ -22,6 +22,6 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 11, "stars": 3940, "owner": "rust-analyzer", "forks": 387},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 18, "stars": 10317, "owner": "SergioBenitez", "forks": 689},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 3, "stars": 1636, "owner": "rust-lang", "forks": 373},
-{"description": "Rust Programming Fundamentals - one course to rule them all, one course to find them...", "language": "Rust", "repo": "ultimate_rust_crash_course", "new_stars": 2, "stars": 30, "owner": "CleanCut", "forks": 18},
+{"description": "Rust Programming Fundamentals - one course to rule them all, one course to find them...", "language": "Rust", "repo": "ultimate_rust_crash_course", "new_stars": 2, "stars": 31, "owner": "CleanCut", "forks": 18},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 5708, "owner": "diesel-rs", "forks": 546}
 ]

@@ -1,11 +1,11 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1032, "stars": 46573, "owner": "rust-lang", "forks": 6914},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1033, "stars": 46574, "owner": "rust-lang", "forks": 6914},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 978, "stars": 3864, "owner": "LemmyNet", "forks": 243},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 332, "stars": 2120, "owner": "linebender", "forks": 161},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 185, "stars": 7613, "owner": "tikv", "forks": 1129},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2483, "stars": 4885, "owner": "tauri-apps", "forks": 106},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2486, "stars": 4888, "owner": "tauri-apps", "forks": 106},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 491, "stars": 12431, "owner": "yewstack", "forks": 545},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 493, "stars": 16182, "owner": "rust-unofficial", "forks": 1080},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 494, "stars": 16183, "owner": "rust-unofficial", "forks": 1080},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 509, "stars": 4697, "owner": "timberio", "forks": 265},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 210, "stars": 2235, "owner": "launchbadge", "forks": 131},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 191, "stars": 2105, "owner": "rust-embedded", "forks": 130},
@@ -20,8 +20,8 @@
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 108, "stars": 3363, "owner": "rustwasm", "forks": 458},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 169, "stars": 3142, "owner": "fdehau", "forks": 155},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 129, "stars": 2864, "owner": "graphql-rust", "forks": 249},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 674, "stars": 21019, "owner": "sharkdp", "forks": 448},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 186, "stars": 5729, "owner": "amethyst", "forks": 640},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 676, "stars": 21021, "owner": "sharkdp", "forks": 448},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 187, "stars": 5730, "owner": "amethyst", "forks": 640},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 209, "stars": 4612, "owner": "rust-lang", "forks": 532},
 {"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 195, "stars": 3584, "owner": "XAMPPRocky", "forks": 222}
 ]

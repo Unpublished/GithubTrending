@@ -1,19 +1,19 @@
 [
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 839, "stars": 40171, "owner": "pytorch", "forks": 10434},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 178, "stars": 7177, "owner": "abseil", "forks": 1281},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 839, "stars": 40172, "owner": "pytorch", "forks": 10434},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 180, "stars": 7178, "owner": "abseil", "forks": 1281},
 {"description": "\u57fa\u4e8ePython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u5e73\u53f0\u5f00\u53d1\u6846\u67b6", "language": "C++", "repo": "vnpy", "new_stars": 400, "stars": 12314, "owner": "vnpy", "forks": 5329},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 481, "stars": 52414, "owner": "apple", "forks": 8498},
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 482, "stars": 52415, "owner": "apple", "forks": 8499},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 863, "stars": 31857, "owner": "godotengine", "forks": 6051},
-{"description": "CRYENGINE is a powerful real-time game development platform created by Crytek.", "language": "C++", "repo": "CRYENGINE", "new_stars": 615, "stars": 10099, "owner": "CRYTEK", "forks": 1910},
-{"description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows", "language": "C++", "repo": "drogon", "new_stars": 421, "stars": 2243, "owner": "an-tao", "forks": 173},
+{"description": "CRYENGINE is a powerful real-time game development platform created by Crytek.", "language": "C++", "repo": "CRYENGINE", "new_stars": 615, "stars": 10098, "owner": "CRYTEK", "forks": 1910},
+{"description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows", "language": "C++", "repo": "drogon", "new_stars": 423, "stars": 2245, "owner": "an-tao", "forks": 173},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 599, "stars": 42679, "owner": "protocolbuffers", "forks": 11531},
 {"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 621, "stars": 12168, "owner": "topjohnwu", "forks": 1972},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1282, "stars": 146416, "owner": "tensorflow", "forks": 82040},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1283, "stars": 146417, "owner": "tensorflow", "forks": 82040},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 245, "stars": 3016, "owner": "yhirose", "forks": 714},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 391, "stars": 16103, "owner": "google", "forks": 6311},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1168, "stars": 84430, "owner": "electron", "forks": 11305},
 {"description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.", "language": "C++", "repo": "JUCE", "new_stars": 89, "stars": 2208, "owner": "juce-framework", "forks": 823},
-{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 267, "stars": 9201, "owner": "Tencent", "forks": 2354},
+{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 268, "stars": 9202, "owner": "Tencent", "forks": 2354},
 {"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 135, "stars": 4084, "owner": "IntelRealSense", "forks": 2807},
 {"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeepass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 350, "stars": 8160, "owner": "keepassxreboot", "forks": 664},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 269, "stars": 9105, "owner": "gabime", "forks": 1979},
@@ -23,5 +23,5 @@
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 324, "stars": 8879, "owner": "fmtlib", "forks": 1065},
 {"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 295, "stars": 8994, "owner": "ossrs", "forks": 3106},
 {"description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.", "language": "C++", "repo": "mysql-server", "new_stars": 131, "stars": 5359, "owner": "mysql", "forks": 2086},
-{"description": "A Non-Euclidean Rendering Engine for 3D scenes.", "language": "C++", "repo": "NonEuclidean", "new_stars": 1154, "stars": 3952, "owner": "HackerPoet", "forks": 370}
+{"description": "A Non-Euclidean Rendering Engine for 3D scenes.", "language": "C++", "repo": "NonEuclidean", "new_stars": 1156, "stars": 3954, "owner": "HackerPoet", "forks": 370}
 ]

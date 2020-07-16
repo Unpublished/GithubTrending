@@ -1,7 +1,7 @@
 [
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1034, "stars": 46601, "owner": "rust-lang", "forks": 6917},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 984, "stars": 3873, "owner": "LemmyNet", "forks": 244},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 309, "stars": 2123, "owner": "linebender", "forks": 161},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 986, "stars": 3875, "owner": "LemmyNet", "forks": 244},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 310, "stars": 2124, "owner": "linebender", "forks": 161},
 {"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2530, "stars": 4949, "owner": "tauri-apps", "forks": 106},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 184, "stars": 7618, "owner": "tikv", "forks": 1131},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 487, "stars": 12437, "owner": "yewstack", "forks": 546},
@@ -20,8 +20,8 @@
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 66, "stars": 2371, "owner": "ggez", "forks": 303},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 195, "stars": 3436, "owner": "bytecodealliance", "forks": 305},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 132, "stars": 2871, "owner": "graphql-rust", "forks": 248},
-{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 166, "stars": 3150, "owner": "fdehau", "forks": 155},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 669, "stars": 21034, "owner": "sharkdp", "forks": 449},
-{"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 2823, "stars": 4602, "owner": "dabreegster", "forks": 118},
-{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 192, "stars": 2739, "owner": "PyO3", "forks": 172}
+{"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 167, "stars": 3151, "owner": "fdehau", "forks": 155},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 669, "stars": 21034, "owner": "sharkdp", "forks": 450},
+{"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 2824, "stars": 4603, "owner": "dabreegster", "forks": 118},
+{"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 192, "stars": 2739, "owner": "PyO3", "forks": 173}
 ]

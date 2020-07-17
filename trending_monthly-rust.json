@@ -1,8 +1,8 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1028, "stars": 46636, "owner": "rust-lang", "forks": 6919},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1032, "stars": 46637, "owner": "rust-lang", "forks": 6919},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 990, "stars": 3882, "owner": "LemmyNet", "forks": 246},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 299, "stars": 2125, "owner": "linebender", "forks": 161},
-{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2544, "stars": 5050, "owner": "tauri-apps", "forks": 106},
+{"description": "Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast.", "language": "Rust", "repo": "tauri", "new_stars": 2533, "stars": 5050, "owner": "tauri-apps", "forks": 106},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 172, "stars": 7623, "owner": "tikv", "forks": 1133},
 {"description": "A lightweight and ultra-fast tool for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 506, "stars": 4717, "owner": "timberio", "forks": 266},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 494, "stars": 12447, "owner": "yewstack", "forks": 546},
@@ -15,13 +15,13 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 492, "stars": 16212, "owner": "rust-unofficial", "forks": 1082},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 188, "stars": 3436, "owner": "bytecodealliance", "forks": 305},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 336, "stars": 8555, "owner": "swc-project", "forks": 173},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 229, "stars": 5621, "owner": "RustPython", "forks": 401},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 229, "stars": 5621, "owner": "RustPython", "forks": 402},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 132, "stars": 2875, "owner": "graphql-rust", "forks": 248},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 415, "stars": 2921, "owner": "seanmonstar", "forks": 274},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 131, "stars": 2939, "owner": "crossbeam-rs", "forks": 208},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 67, "stars": 2374, "owner": "ggez", "forks": 302},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 658, "stars": 21044, "owner": "sharkdp", "forks": 450},
-{"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 195, "stars": 4523, "owner": "pingcap", "forks": 646},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 659, "stars": 21044, "owner": "sharkdp", "forks": 450},
+{"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 196, "stars": 4524, "owner": "pingcap", "forks": 646},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 164, "stars": 1082, "owner": "deislabs", "forks": 71},
 {"description": "[PREVIEW] A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 228, "stars": 265, "owner": "aws-cloudformation", "forks": 22}
 ]

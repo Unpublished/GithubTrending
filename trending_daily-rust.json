@@ -1,17 +1,17 @@
 [
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 75, "stars": 10465, "owner": "SergioBenitez", "forks": 699},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 46660, "owner": "rust-lang", "forks": 6920},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 75, "stars": 10474, "owner": "SergioBenitez", "forks": 699},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 46661, "owner": "rust-lang", "forks": 6920},
 {"description": "I started learning Rust, if you wanna join me, welcome!", "language": "Rust", "repo": "learnrust", "new_stars": 19, "stars": 264, "owner": "inancgumus", "forks": 17},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 8, "stars": 2250, "owner": "launchbadge", "forks": 132},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 8, "stars": 2252, "owner": "launchbadge", "forks": 132},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 22, "stars": 2144, "owner": "rust-embedded", "forks": 132},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 5, "stars": 4834, "owner": "rust-lang", "forks": 635},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 15, "stars": 1627, "owner": "cjbassi", "forks": 62},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 10, "stars": 8809, "owner": "tokio-rs", "forks": 821},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 9, "stars": 5758, "owner": "rust-lang", "forks": 1180},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 8, "stars": 12361, "owner": "firecracker-microvm", "forks": 838},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 8, "stars": 12362, "owner": "firecracker-microvm", "forks": 838},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 26, "stars": 1328, "owner": "extrawurst", "forks": 53},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 13, "stars": 6419, "owner": "hecrj", "forks": 223},
-{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 15, "stars": 2318, "owner": "redox-os", "forks": 128},
+{"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 15, "stars": 2323, "owner": "redox-os", "forks": 128},
 {"description": "A modern Rust debugging library", "language": "Rust", "repo": "headcrab", "new_stars": 42, "stars": 209, "owner": "headcrab-rs", "forks": 5},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 7625, "owner": "tikv", "forks": 1134},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 2, "stars": 786, "owner": "tokio-rs", "forks": 121},
@@ -22,6 +22,6 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 3, "stars": 2426, "owner": "paritytech", "forks": 757},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 4, "stars": 2743, "owner": "PyO3", "forks": 174},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 4, "stars": 14662, "owner": "libra", "forks": 2231},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 16217, "owner": "rust-unofficial", "forks": 1082},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 10, "stars": 5623, "owner": "RustPython", "forks": 402}
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 16218, "owner": "rust-unofficial", "forks": 1082},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 10, "stars": 5624, "owner": "RustPython", "forks": 402}
 ]

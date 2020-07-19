@@ -11,11 +11,11 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 492, "stars": 16240, "owner": "rust-unofficial", "forks": 1084},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 412, "stars": 2945, "owner": "seanmonstar", "forks": 278},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 187, "stars": 3442, "owner": "bytecodealliance", "forks": 305},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 262, "stars": 5657, "owner": "RustPython", "forks": 404},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 212, "stars": 2259, "owner": "launchbadge", "forks": 135},
-{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 219, "stars": 2158, "owner": "rust-embedded", "forks": 133},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 264, "stars": 5659, "owner": "RustPython", "forks": 404},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 213, "stars": 2260, "owner": "launchbadge", "forks": 135},
+{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 220, "stars": 2159, "owner": "rust-embedded", "forks": 133},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 138, "stars": 2885, "owner": "graphql-rust", "forks": 248},
-{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 179, "stars": 16259, "owner": "servo", "forks": 2388},
+{"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 180, "stars": 16260, "owner": "servo", "forks": 2388},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 109, "stars": 4098, "owner": "rayon-rs", "forks": 239},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 198, "stars": 4532, "owner": "pingcap", "forks": 649},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 63, "stars": 2377, "owner": "ggez", "forks": 301},
@@ -23,5 +23,5 @@
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 162, "stars": 3163, "owner": "fdehau", "forks": 155},
 {"description": "Super-fast typescript / javascript compiler written in rust", "language": "Rust", "repo": "swc", "new_stars": 316, "stars": 8565, "owner": "swc-project", "forks": 172},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 110, "stars": 3374, "owner": "rustwasm", "forks": 459},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 185, "stars": 5751, "owner": "amethyst", "forks": 641}
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 187, "stars": 5753, "owner": "amethyst", "forks": 641}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 150, "stars": 46804, "owner": "opencv", "forks": 37618},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 150, "stars": 46808, "owner": "opencv", "forks": 37620},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 8, "stars": 14773, "owner": "google", "forks": 2286},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 34, "stars": 84576, "owner": "electron", "forks": 11323},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 9, "stars": 2265, "owner": "Aircoookie", "forks": 389},
-{"description": "Tengine is a lite, high performance, modular inference engine for embedded device", "language": "C++", "repo": "Tengine", "new_stars": 3, "stars": 1490, "owner": "OAID", "forks": 444},
+{"description": "Tengine is a lite, high performance, modular inference engine for embedded device", "language": "C++", "repo": "Tengine", "new_stars": 3, "stars": 1491, "owner": "OAID", "forks": 444},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 8, "stars": 2612, "owner": "microsoft", "forks": 636},
 {"description": "Lightweight C++ command line option parser", "language": "C++", "repo": "cxxopts", "new_stars": 3, "stars": 2052, "owner": "jarro2783", "forks": 327},
 {"description": "A fast and easy-to-use status bar", "language": "C++", "repo": "polybar", "new_stars": 6, "stars": 7046, "owner": "polybar", "forks": 386},
@@ -17,11 +17,11 @@
 {"description": "Point Cloud Library (PCL)", "language": "C++", "repo": "pcl", "new_stars": 5, "stars": 5265, "owner": "PointCloudLibrary", "forks": 3466},
 {"description": "OpenVSLAM: A Versatile Visual SLAM Framework", "language": "C++", "repo": "openvslam", "new_stars": 5, "stars": 2482, "owner": "xdspacelab", "forks": 606},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 18, "stars": 42891, "owner": "protocolbuffers", "forks": 11572},
-{"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 4, "stars": 7972, "owner": "ceph", "forks": 3890},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 10, "stars": 9162, "owner": "gabime", "forks": 1989},
-{"description": "C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio\u2026", "language": "C++", "repo": "interview", "new_stars": 21, "stars": 13227, "owner": "huihut", "forks": 3972},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 32, "stars": 40344, "owner": "pytorch", "forks": 10510},
-{"description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping", "language": "C++", "repo": "LIO-SAM", "new_stars": 6, "stars": 264, "owner": "TixiaoShan", "forks": 92},
+{"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 4, "stars": 7973, "owner": "ceph", "forks": 3890},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 10, "stars": 9163, "owner": "gabime", "forks": 1989},
+{"description": "C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio\u2026", "language": "C++", "repo": "interview", "new_stars": 21, "stars": 13228, "owner": "huihut", "forks": 3972},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 32, "stars": 40344, "owner": "pytorch", "forks": 10511},
+{"description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping", "language": "C++", "repo": "LIO-SAM", "new_stars": 6, "stars": 265, "owner": "TixiaoShan", "forks": 92},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 12, "stars": 7234, "owner": "abseil", "forks": 1287},
 {"description": "Apache Doris (Incubating)", "language": "C++", "repo": "incubator-doris", "new_stars": 4, "stars": 1829, "owner": "apache", "forks": 524}
 ]

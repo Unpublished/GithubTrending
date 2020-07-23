@@ -1,5 +1,5 @@
 [
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 451, "stars": 10846, "owner": "SergioBenitez", "forks": 712},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 448, "stars": 10848, "owner": "SergioBenitez", "forks": 712},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 284, "stars": 46871, "owner": "rust-lang", "forks": 6946},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 25, "stars": 1041, "owner": "paritytech", "forks": 272},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 296, "stars": 250228, "owner": "996icu", "forks": 21063},
@@ -12,16 +12,16 @@
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 71, "stars": 2987, "owner": "seanmonstar", "forks": 284},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 115, "stars": 16312, "owner": "rust-unofficial", "forks": 1089},
 {"description": "Expose your local web server to the internet with a public URL.", "language": "Rust", "repo": "tunnelto", "new_stars": 120, "stars": 843, "owner": "agrinman", "forks": 27},
-{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 27, "stars": 912, "owner": "gfx-rs", "forks": 128},
+{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 28, "stars": 913, "owner": "gfx-rs", "forks": 128},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 75, "stars": 8870, "owner": "tokio-rs", "forks": 826},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 28, "stars": 5782, "owner": "rust-lang", "forks": 1182},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 30, "stars": 3125, "owner": "rust-lang", "forks": 505},
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 33, "stars": 14686, "owner": "libra", "forks": 2229},
-{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 45, "stars": 1665, "owner": "cjbassi", "forks": 64},
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 32, "stars": 14686, "owner": "libra", "forks": 2229},
+{"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 46, "stars": 1666, "owner": "cjbassi", "forks": 64},
 {"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 27, "stars": 1682, "owner": "stjepang", "forks": 84},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 41, "stars": 4570, "owner": "clap-rs", "forks": 436},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 18, "stars": 801, "owner": "tokio-rs", "forks": 127},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 123, "stars": 10148, "owner": "rust-lang", "forks": 1252},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 121, "stars": 10148, "owner": "rust-lang", "forks": 1252},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 34, "stars": 2297, "owner": "http-rs", "forks": 222},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 29, "stars": 2279, "owner": "tock", "forks": 301}
 ]

@@ -9,7 +9,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 484, "stars": 16324, "owner": "rust-unofficial", "forks": 1090},
 {"description": "A lightweight and ultra-fast router for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 565, "stars": 4823, "owner": "timberio", "forks": 273},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 209, "stars": 2190, "owner": "rust-embedded", "forks": 136},
-{"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 1556, "stars": 4769, "owner": "dabreegster", "forks": 125},
+{"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 1548, "stars": 4770, "owner": "dabreegster", "forks": 125},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 74, "stars": 2398, "owner": "ggez", "forks": 303},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 229, "stars": 2301, "owner": "launchbadge", "forks": 144},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 292, "stars": 2164, "owner": "linebender", "forks": 166},
@@ -22,6 +22,6 @@
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 120, "stars": 4121, "owner": "rayon-rs", "forks": 239},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 133, "stars": 6567, "owner": "hyperium", "forks": 884},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 115, "stars": 2966, "owner": "seanmonstar", "forks": 390},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 164, "stars": 7666, "owner": "tikv", "forks": 1140},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 165, "stars": 7667, "owner": "tikv", "forks": 1140},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 153, "stars": 5759, "owner": "diesel-rs", "forks": 553}
 ]

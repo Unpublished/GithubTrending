@@ -1,12 +1,12 @@
 [
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 442, "stars": 10856, "owner": "SergioBenitez", "forks": 713},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 285, "stars": 46878, "owner": "rust-lang", "forks": 6947},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 285, "stars": 46880, "owner": "rust-lang", "forks": 6947},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 26, "stars": 1043, "owner": "paritytech", "forks": 272},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 295, "stars": 250229, "owner": "996icu", "forks": 21063},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 36, "stars": 4867, "owner": "rust-lang", "forks": 637},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 55, "stars": 2187, "owner": "rust-embedded", "forks": 136},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 74, "stars": 5686, "owner": "RustPython", "forks": 408},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 106, "stars": 8089, "owner": "nushell", "forks": 390},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 107, "stars": 8090, "owner": "nushell", "forks": 390},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 50, "stars": 2294, "owner": "launchbadge", "forks": 139},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 70, "stars": 2373, "owner": "redox-os", "forks": 128},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 70, "stars": 2988, "owner": "seanmonstar", "forks": 284},
@@ -21,7 +21,7 @@
 {"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 27, "stars": 1682, "owner": "stjepang", "forks": 84},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 41, "stars": 4570, "owner": "clap-rs", "forks": 436},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 19, "stars": 803, "owner": "tokio-rs", "forks": 127},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 120, "stars": 10148, "owner": "rust-lang", "forks": 1253},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 120, "stars": 10150, "owner": "rust-lang", "forks": 1253},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 34, "stars": 2297, "owner": "http-rs", "forks": 222},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 30, "stars": 2280, "owner": "tock", "forks": 301}
 ]

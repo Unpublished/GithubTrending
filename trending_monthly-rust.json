@@ -1,8 +1,8 @@
 [
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 961, "stars": 3921, "owner": "LemmyNet", "forks": 248},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 2615, "stars": 5385, "owner": "tauri-apps", "forks": 110},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 797, "stars": 10902, "owner": "SergioBenitez", "forks": 715},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 964, "stars": 46908, "owner": "rust-lang", "forks": 6948},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 798, "stars": 10903, "owner": "SergioBenitez", "forks": 715},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 967, "stars": 46911, "owner": "rust-lang", "forks": 6948},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 862, "stars": 250254, "owner": "996icu", "forks": 21064},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 475, "stars": 12541, "owner": "yewstack", "forks": 556},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 273, "stars": 5693, "owner": "RustPython", "forks": 409},
@@ -18,10 +18,10 @@
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 406, "stars": 2996, "owner": "seanmonstar", "forks": 286},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 190, "stars": 3211, "owner": "fdehau", "forks": 156},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 143, "stars": 2907, "owner": "graphql-rust", "forks": 250},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 181, "stars": 3463, "owner": "bytecodealliance", "forks": 311},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 182, "stars": 3463, "owner": "bytecodealliance", "forks": 311},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 120, "stars": 4121, "owner": "rayon-rs", "forks": 239},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 131, "stars": 6565, "owner": "hyperium", "forks": 884},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 114, "stars": 2966, "owner": "seanmonstar", "forks": 390},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 164, "stars": 7665, "owner": "tikv", "forks": 1140},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 133, "stars": 6567, "owner": "hyperium", "forks": 884},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 115, "stars": 2967, "owner": "seanmonstar", "forks": 390},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 165, "stars": 7666, "owner": "tikv", "forks": 1140},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 154, "stars": 5759, "owner": "diesel-rs", "forks": 552}
 ]

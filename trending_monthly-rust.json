@@ -10,11 +10,11 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 472, "stars": 16343, "owner": "rust-unofficial", "forks": 1090},
 {"description": "A lightweight and ultra-fast router for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 552, "stars": 4832, "owner": "timberio", "forks": 273},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 223, "stars": 2307, "owner": "launchbadge", "forks": 145},
-{"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 76, "stars": 2400, "owner": "ggez", "forks": 303},
+{"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 76, "stars": 2400, "owner": "ggez", "forks": 304},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 403, "stars": 3008, "owner": "seanmonstar", "forks": 286},
 {"description": "Distributed SQL database in Rust, written as a learning project", "language": "Rust", "repo": "toydb", "new_stars": 613, "stars": 1092, "owner": "erikgrinaker", "forks": 55},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 197, "stars": 3220, "owner": "fdehau", "forks": 156},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 174, "stars": 3471, "owner": "bytecodealliance", "forks": 312},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 175, "stars": 3472, "owner": "bytecodealliance", "forks": 312},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 134, "stars": 6574, "owner": "hyperium", "forks": 884},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 141, "stars": 2917, "owner": "graphql-rust", "forks": 250},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 67, "stars": 823, "owner": "tokio-rs", "forks": 131},
@@ -22,6 +22,6 @@
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 124, "stars": 4127, "owner": "rayon-rs", "forks": 239},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 166, "stars": 7677, "owner": "tikv", "forks": 1145},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 334, "stars": 2745, "owner": "ruffle-rs", "forks": 79},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 116, "stars": 2972, "owner": "seanmonstar", "forks": 393},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 116, "stars": 2971, "owner": "seanmonstar", "forks": 393},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 229, "stars": 4683, "owner": "rust-lang", "forks": 543}
 ]

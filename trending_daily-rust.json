@@ -1,11 +1,11 @@
 [
-{"description": "Faster Nmap Scanning with Rust", "language": "Rust", "repo": "RustScan", "new_stars": 187, "stars": 982, "owner": "brandonskerritt", "forks": 85},
+{"description": "Faster Nmap Scanning with Rust", "language": "Rust", "repo": "RustScan", "new_stars": 187, "stars": 984, "owner": "brandonskerritt", "forks": 85},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 9, "stars": 8625, "owner": "swc-project", "forks": 177},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 9, "stars": 4578, "owner": "pingcap", "forks": 649},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 3, "stars": 14690, "owner": "libra", "forks": 2231},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 3, "stars": 2449, "owner": "paritytech", "forks": 766},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 5, "stars": 4293, "owner": "dani-garcia", "forks": 298},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 4, "stars": 5790, "owner": "amethyst", "forks": 648},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 4, "stars": 5791, "owner": "amethyst", "forks": 648},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 6, "stars": 2306, "owner": "launchbadge", "forks": 144},
 {"description": "An idiomatic, modern, lean, fast, safe & pure rust implementation of git", "language": "Rust", "repo": "git-oxide", "new_stars": 12, "stars": 156, "owner": "Byron", "forks": 3},
 {"description": "Multi Layer Archive - A pure rust encrypted and compressed archive file format", "language": "Rust", "repo": "MLA", "new_stars": 59, "stars": 97, "owner": "ANSSI-FR", "forks": 3},
@@ -22,6 +22,6 @@
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 15, "stars": 2743, "owner": "ruffle-rs", "forks": 79},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 4, "stars": 1194, "owner": "awslabs", "forks": 101},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 3468, "owner": "bytecodealliance", "forks": 312},
-{"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 3, "stars": 1127, "owner": "ijl", "forks": 39},
+{"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 3, "stars": 1128, "owner": "ijl", "forks": 39},
 {"description": "Distributed compute platform implemented in Rust, using Apache Arrow memory model.", "language": "Rust", "repo": "ballista", "new_stars": 13, "stars": 660, "owner": "ballista-compute", "forks": 34}
 ]

@@ -1,6 +1,6 @@
 [
-{"description": "Faster Nmap Scanning with Rust", "language": "Rust", "repo": "RustScan", "new_stars": 187, "stars": 1002, "owner": "brandonskerritt", "forks": 86},
-{"description": "Compiler from LLVM IR to Minecraft datapacks.", "language": "Rust", "repo": "langcraft", "new_stars": 209, "stars": 288, "owner": "SuperTails", "forks": 2},
+{"description": "Faster Nmap Scanning with Rust", "language": "Rust", "repo": "RustScan", "new_stars": 187, "stars": 1008, "owner": "RustScan", "forks": 87},
+{"description": "Compiler from LLVM IR to Minecraft datapacks.", "language": "Rust", "repo": "langcraft", "new_stars": 217, "stars": 293, "owner": "SuperTails", "forks": 2},
 {"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 20, "stars": 1261, "owner": "pretzelhammer", "forks": 59},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 31, "stars": 24084, "owner": "alacritty", "forks": 1205},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 10, "stars": 2917, "owner": "graphql-rust", "forks": 250},
@@ -21,7 +21,7 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 3, "stars": 2969, "owner": "seanmonstar", "forks": 392},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 3, "stars": 2193, "owner": "rust-embedded", "forks": 137},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 5, "stars": 1294, "owner": "WebAssembly", "forks": 81},
-{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 7, "stars": 816, "owner": "tokio-rs", "forks": 129},
+{"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 7, "stars": 816, "owner": "tokio-rs", "forks": 130},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 6, "stars": 3390, "owner": "rustwasm", "forks": 461},
 {"description": "Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage", "language": "Rust", "repo": "zenith", "new_stars": 8, "stars": 394, "owner": "bvaisvil", "forks": 12}
 ]

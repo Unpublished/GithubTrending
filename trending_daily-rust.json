@@ -1,10 +1,10 @@
 [
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 17, "stars": 2774, "owner": "ruffle-rs", "forks": 81},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 40, "stars": 9156, "owner": "starship", "forks": 400},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 14351, "owner": "sharkdp", "forks": 366},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 40, "stars": 9158, "owner": "starship", "forks": 400},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 14352, "owner": "sharkdp", "forks": 366},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 4, "stars": 14707, "owner": "libra", "forks": 2234},
-{"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 2, "stars": 1203, "owner": "awslabs", "forks": 103},
-{"description": "A file system on top of your file system", "language": "Rust", "repo": "gotenksfs", "new_stars": 33, "stars": 138, "owner": "carlosgaldino", "forks": 7},
+{"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 2, "stars": 1204, "owner": "awslabs", "forks": 103},
+{"description": "A file system on top of your file system", "language": "Rust", "repo": "gotenksfs", "new_stars": 31, "stars": 139, "owner": "carlosgaldino", "forks": 7},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 15, "stars": 16390, "owner": "rust-unofficial", "forks": 1095},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 3, "stars": 746, "owner": "solana-labs", "forks": 157},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 5, "stars": 1562, "owner": "cloudflare", "forks": 188},
@@ -22,6 +22,6 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 8, "stars": 2336, "owner": "launchbadge", "forks": 151},
 {"description": "A little experiment in more easily building cross-platform components in rust", "language": "Rust", "repo": "uniffi-rs", "new_stars": 2, "stars": 26, "owner": "mozilla", "forks": 5},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 1, "stars": 3353, "owner": "serde-rs", "forks": 355},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 2388, "owner": "hyperium", "forks": 185},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 2389, "owner": "hyperium", "forks": 185},
 {"description": "AVML - Acquire Volatile Memory for Linux", "language": "Rust", "repo": "avml", "new_stars": 1, "stars": 300, "owner": "microsoft", "forks": 27}
 ]

@@ -4,10 +4,10 @@
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 4, "stars": 745, "owner": "solana-labs", "forks": 157},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 4, "stars": 14705, "owner": "libra", "forks": 2234},
 {"description": "A modern Quake engine.", "language": "Rust", "repo": "richter", "new_stars": 29, "stars": 214, "owner": "cormac-obrien", "forks": 6},
-{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 26, "stars": 4135, "owner": "dandavison", "forks": 81},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 7, "stars": 3489, "owner": "bytecodealliance", "forks": 313},
+{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 26, "stars": 4134, "owner": "dandavison", "forks": 81},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 7, "stars": 3489, "owner": "bytecodealliance", "forks": 312},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 12, "stars": 6125, "owner": "Rigellute", "forks": 199},
-{"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 3, "stars": 1325, "owner": "rust-windowing", "forks": 349},
+{"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 3, "stars": 1325, "owner": "rust-windowing", "forks": 348},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 10, "stars": 12447, "owner": "firecracker-microvm", "forks": 846},
 {"description": "Spartan: High-speed zkSNARKs without trusted setup", "language": "Rust", "repo": "Spartan", "new_stars": 30, "stars": 77, "owner": "microsoft", "forks": 7},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 6, "stars": 1562, "owner": "cloudflare", "forks": 188},
@@ -22,6 +22,6 @@
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 14341, "owner": "sharkdp", "forks": 366},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 8, "stars": 1710, "owner": "cjbassi", "forks": 64},
 {"description": "sccache is ccache with cloud storage", "language": "Rust", "repo": "sccache", "new_stars": 2, "stars": 1498, "owner": "mozilla", "forks": 205},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 17, "stars": 10242, "owner": "rust-lang", "forks": 1267},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 17, "stars": 10243, "owner": "rust-lang", "forks": 1267},
 {"description": "A file system on top of your file system", "language": "Rust", "repo": "gotenksfs", "new_stars": 27, "stars": 131, "owner": "carlosgaldino", "forks": 6}
 ]

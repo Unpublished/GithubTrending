@@ -1,10 +1,10 @@
 [
 {"description": "View components for Rails", "language": "Ruby", "repo": "view_component", "new_stars": 5, "stars": 952, "owner": "github", "forks": 105},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 9, "stars": 17052, "owner": "ruby", "forks": 4560},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 9, "stars": 20307, "owner": "hashicorp", "forks": 3983},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 10, "stars": 20307, "owner": "hashicorp", "forks": 3983},
 {"description": "Rack middleware for blocking & throttling", "language": "Ruby", "repo": "rack-attack", "new_stars": 1, "stars": 4671, "owner": "kickstarter", "forks": 283},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 11, "stars": 29362, "owner": "fastlane", "forks": 4602},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 10466, "owner": "mperham", "forks": 1835},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 12, "stars": 29362, "owner": "fastlane", "forks": 4602},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 10466, "owner": "mperham", "forks": 1835},
 {"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 4, "stars": 2325, "owner": "sorbet", "forks": 210},
 {"description": "Intelligent search made easy with Rails and Elasticsearch", "language": "Ruby", "repo": "searchkick", "new_stars": 0, "stars": 5347, "owner": "ankane", "forks": 636},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 1, "stars": 4611, "owner": "doorkeeper-gem", "forks": 944},
@@ -21,7 +21,7 @@
 {"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 2, "stars": 4830, "owner": "thoughtbot", "forks": 877},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5001, "owner": "rails-api", "forks": 1339},
 {"description": "Decorators/View-Models for Rails Applications", "language": "Ruby", "repo": "draper", "new_stars": 1, "stars": 4841, "owner": "drapergem", "forks": 506},
-{"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 1, "stars": 4367, "owner": "rmosolgo", "forks": 948},
+{"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 0, "stars": 4367, "owner": "rmosolgo", "forks": 948},
 {"description": "PDF generator (from HTML) plugin for Ruby on Rails", "language": "Ruby", "repo": "wicked_pdf", "new_stars": 0, "stars": 3096, "owner": "mileszs", "forks": 555},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 1, "stars": 3180, "owner": "luggit", "forks": 523}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 7, "stars": 2774, "owner": "ruffle-rs", "forks": 81},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 46, "stars": 9173, "owner": "starship", "forks": 401},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 46, "stars": 9174, "owner": "starship", "forks": 401},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 19, "stars": 14357, "owner": "sharkdp", "forks": 366},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 3, "stars": 14708, "owner": "libra", "forks": 2234},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 4, "stars": 1205, "owner": "awslabs", "forks": 103},
@@ -18,9 +18,9 @@
 {"description": "A lightweight and ultra-fast router for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 13, "stars": 4867, "owner": "timberio", "forks": 281},
 {"description": "A tiling window manager in the spirit of dwm / Xmonad but written in Rust (Very much a work in progress!)", "language": "Rust", "repo": "penrose", "new_stars": 5, "stars": 158, "owner": "sminez", "forks": 6},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 8, "stars": 5722, "owner": "RustPython", "forks": 415},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 6, "stars": 3028, "owner": "seanmonstar", "forks": 289},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 4, "stars": 2336, "owner": "launchbadge", "forks": 151},
-{"description": "A little experiment in more easily building cross-platform components in rust", "language": "Rust", "repo": "uniffi-rs", "new_stars": 24, "stars": 36, "owner": "mozilla", "forks": 5},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 6, "stars": 3029, "owner": "seanmonstar", "forks": 289},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 4, "stars": 2337, "owner": "launchbadge", "forks": 151},
+{"description": "A little experiment in more easily building cross-platform components in rust", "language": "Rust", "repo": "uniffi-rs", "new_stars": 24, "stars": 36, "owner": "mozilla", "forks": 6},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 2, "stars": 3355, "owner": "serde-rs", "forks": 355},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 2390, "owner": "hyperium", "forks": 185},
 {"description": "AVML - Acquire Volatile Memory for Linux", "language": "Rust", "repo": "avml", "new_stars": 3, "stars": 300, "owner": "microsoft", "forks": 27}

@@ -1,9 +1,9 @@
 [
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 743, "stars": 22007, "owner": "sharkdp", "forks": 468},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 856, "stars": 11088, "owner": "rust-lang", "forks": 1328},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 837, "stars": 11088, "owner": "rust-lang", "forks": 1328},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 144, "stars": 8310, "owner": "nushell", "forks": 396},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 219, "stars": 24391, "owner": "alacritty", "forks": 1230},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 229, "stars": 2746, "owner": "paritytech", "forks": 821},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 220, "stars": 24391, "owner": "alacritty", "forks": 1231},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 229, "stars": 2747, "owner": "paritytech", "forks": 821},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 48, "stars": 1134, "owner": "paritytech", "forks": 294},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 140, "stars": 4531, "owner": "dani-garcia", "forks": 302},
 {"description": "The fast, light, and robust client for Ethereum-like networks.", "language": "Rust", "repo": "openethereum", "new_stars": 28, "stars": 6141, "owner": "openethereum", "forks": 1521},
@@ -11,7 +11,7 @@
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 239, "stars": 4467, "owner": "dandavison", "forks": 85},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 150, "stars": 1893, "owner": "cjbassi", "forks": 67},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 132, "stars": 8828, "owner": "swc-project", "forks": 184},
-{"description": "A modern Rust debugging library", "language": "Rust", "repo": "headcrab", "new_stars": 205, "stars": 519, "owner": "headcrab-rs", "forks": 16},
+{"description": "A modern Rust debugging library", "language": "Rust", "repo": "headcrab", "new_stars": 226, "stars": 519, "owner": "headcrab-rs", "forks": 16},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 70, "stars": 2295, "owner": "rust-embedded", "forks": 141},
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 143, "stars": 10418, "owner": "ogham", "forks": 326},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 24, "stars": 1874, "owner": "shadowsocks", "forks": 425},
@@ -23,5 +23,5 @@
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 113, "stars": 12718, "owner": "yewstack", "forks": 570},
 {"description": "Rust Ethereum 2.0 Client", "language": "Rust", "repo": "lighthouse", "new_stars": 25, "stars": 576, "owner": "sigp", "forks": 149},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 56, "stars": 3884, "owner": "getzola", "forks": 346},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 181, "stars": 47306, "owner": "rust-lang", "forks": 7003}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 181, "stars": 47306, "owner": "rust-lang", "forks": 7004}
 ]

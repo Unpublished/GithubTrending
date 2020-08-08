@@ -1,15 +1,15 @@
 [
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 80, "stars": 2715, "owner": "paritytech", "forks": 814},
-{"description": null, "language": "Rust", "repo": "TLS-poison", "new_stars": 69, "stars": 151, "owner": "jmdx", "forks": 10},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 9, "stars": 1119, "owner": "paritytech", "forks": 292},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 80, "stars": 2718, "owner": "paritytech", "forks": 814},
+{"description": null, "language": "Rust", "repo": "TLS-poison", "new_stars": 69, "stars": 153, "owner": "jmdx", "forks": 10},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 9, "stars": 1121, "owner": "paritytech", "forks": 292},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 24, "stars": 8301, "owner": "nushell", "forks": 396},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 56, "stars": 250570, "owner": "996icu", "forks": 21071},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 56, "stars": 250575, "owner": "996icu", "forks": 21070},
 {"description": "The fast, light, and robust client for Ethereum-like networks.", "language": "Rust", "repo": "openethereum", "new_stars": 3, "stars": 6140, "owner": "openethereum", "forks": 1521},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 8, "stars": 2379, "owner": "launchbadge", "forks": 157},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 8, "stars": 2379, "owner": "launchbadge", "forks": 158},
 {"description": "A lightweight and ultra-fast router for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 4, "stars": 4911, "owner": "timberio", "forks": 285},
 {"description": "A command-line benchmarking tool", "language": "Rust", "repo": "hyperfine", "new_stars": 16, "stars": 5860, "owner": "sharkdp", "forks": 105},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 23, "stars": 4460, "owner": "dandavison", "forks": 85},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 8, "stars": 7748, "owner": "tikv", "forks": 1154},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 8, "stars": 7747, "owner": "tikv", "forks": 1154},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 3, "stars": 14733, "owner": "libra", "forks": 2238},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 12, "stars": 8994, "owner": "tokio-rs", "forks": 839},
 {"description": "A small and fast async runtime for Rust", "language": "Rust", "repo": "smol", "new_stars": 5, "stars": 1714, "owner": "stjepang", "forks": 87},
@@ -22,6 +22,6 @@
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 9, "stars": 6543, "owner": "hecrj", "forks": 234},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 4, "stars": 18240, "owner": "xi-editor", "forks": 660},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 3, "stars": 2951, "owner": "graphql-rust", "forks": 252},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 14, "stars": 11095, "owner": "SergioBenitez", "forks": 724},
-{"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 8930, "owner": "actix", "forks": 1071}
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 14, "stars": 11097, "owner": "SergioBenitez", "forks": 724},
+{"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 11, "stars": 8929, "owner": "actix", "forks": 1071}
 ]

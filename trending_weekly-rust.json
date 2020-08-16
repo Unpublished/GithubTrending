@@ -14,14 +14,14 @@
 {"description": "The fast, light, and robust client for Ethereum-like networks.", "language": "Rust", "repo": "openethereum", "new_stars": 10, "stars": 6149, "owner": "openethereum", "forks": 1531},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 31, "stars": 1903, "owner": "shadowsocks", "forks": 427},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 50, "stars": 5917, "owner": "amethyst", "forks": 655},
-{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 37, "stars": 982, "owner": "gfx-rs", "forks": 130},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 60, "stars": 9046, "owner": "tokio-rs", "forks": 845},
+{"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 38, "stars": 983, "owner": "gfx-rs", "forks": 130},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 60, "stars": 9047, "owner": "tokio-rs", "forks": 845},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 58, "stars": 3577, "owner": "bytecodealliance", "forks": 321},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 73, "stars": 6606, "owner": "hecrj", "forks": 242},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 74, "stars": 6607, "owner": "hecrj", "forks": 242},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 56, "stars": 4695, "owner": "clap-rs", "forks": 451},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 128, "stars": 8948, "owner": "swc-project", "forks": 187},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 31, "stars": 14759, "owner": "libra", "forks": 2250},
-{"description": "A lightweight and ultra-fast router for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 104, "stars": 5014, "owner": "timberio", "forks": 295},
+{"description": "A lightweight and ultra-fast router for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 105, "stars": 5015, "owner": "timberio", "forks": 295},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 38, "stars": 2225, "owner": "linebender", "forks": 173},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 24, "stars": 3671, "owner": "cloudflare", "forks": 225}
 ]

@@ -1,6 +1,6 @@
 [
-{"description": "A web browser engine for the space age", "language": "Rust", "repo": "kosmonaut", "new_stars": 154, "stars": 1277, "owner": "twilco", "forks": 19},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 19, "stars": 3623, "owner": "bytecodealliance", "forks": 322},
+{"description": "A web browser engine for the space age", "language": "Rust", "repo": "kosmonaut", "new_stars": 156, "stars": 1279, "owner": "twilco", "forks": 19},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 19, "stars": 3624, "owner": "bytecodealliance", "forks": 322},
 {"description": "Kernel Mode TCP Sockets + LSASS Dump (Rust Shellcode)", "language": "Rust", "repo": "SassyKitdi", "new_stars": 13, "stars": 57, "owner": "zerosum0x0", "forks": 15},
 {"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 6, "stars": 18260, "owner": "xi-editor", "forks": 664},
 {"description": "Cranelift based backend for rustc", "language": "Rust", "repo": "rustc_codegen_cranelift", "new_stars": 4, "stars": 486, "owner": "bjorn3", "forks": 30},
@@ -15,7 +15,7 @@
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 47538, "owner": "rust-lang", "forks": 7027},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 6, "stars": 3022, "owner": "crossbeam-rs", "forks": 215},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 6, "stars": 4213, "owner": "Geal", "forks": 474},
-{"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 10, "stars": 1233, "owner": "ijl", "forks": 41},
+{"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 10, "stars": 1234, "owner": "ijl", "forks": 41},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 12, "stars": 4633, "owner": "dani-garcia", "forks": 308},
 {"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 6, "stars": 9008, "owner": "actix", "forks": 1074},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 25, "stars": 16631, "owner": "rust-unofficial", "forks": 1111},

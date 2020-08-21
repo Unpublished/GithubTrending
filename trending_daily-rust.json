@@ -1,18 +1,18 @@
 [
 {"description": "Remote shell into ephemeral environments", "language": "Rust", "repo": "tunshell", "new_stars": 14, "stars": 207, "owner": "TimeToogo", "forks": 8},
 {"description": "Analyze HTTP requests to minimize risks of HTTP Desync attacks (precursor for HTTP request splitting/smuggling).", "language": "Rust", "repo": "http-desync-guardian", "new_stars": 14, "stars": 112, "owner": "aws", "forks": 6},
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 8, "stars": 6312, "owner": "wasmerio", "forks": 238},
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 11, "stars": 6312, "owner": "wasmerio", "forks": 238},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 4, "stars": 14769, "owner": "libra", "forks": 2250},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 6, "stars": 808, "owner": "solana-labs", "forks": 178},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 7, "stars": 808, "owner": "solana-labs", "forks": 178},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 1, "stars": 2462, "owner": "hyperium", "forks": 195},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 13, "stars": 5959, "owner": "amethyst", "forks": 661},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 12, "stars": 5959, "owner": "amethyst", "forks": 661},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 2, "stars": 2801, "owner": "paritytech", "forks": 830},
 {"description": "An interactive cheatsheet tool for the command-line and application launchers", "language": "Rust", "repo": "navi", "new_stars": 15, "stars": 7571, "owner": "denisidoro", "forks": 334},
-{"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 460, "owner": "hyperledger", "forks": 545},
+{"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 0, "stars": 461, "owner": "hyperledger", "forks": 546},
 {"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 2, "stars": 1401, "owner": "pretzelhammer", "forks": 67},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 9, "stars": 1228, "owner": "paritytech", "forks": 305},
 {"description": "High performance Rust ECS library", "language": "Rust", "repo": "legion", "new_stars": 6, "stars": 768, "owner": "TomGillen", "forks": 66},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 24, "stars": 24643, "owner": "alacritty", "forks": 1261},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 23, "stars": 24643, "owner": "alacritty", "forks": 1261},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 3, "stars": 2122, "owner": "blockstack", "forks": 378},
 {"description": "Rust language projection for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 3, "stars": 2121, "owner": "microsoft", "forks": 62},
 {"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 18, "stars": 9042, "owner": "actix", "forks": 1078},
@@ -23,5 +23,5 @@
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 3, "stars": 1697, "owner": "rust-lang", "forks": 383},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 3, "stars": 3621, "owner": "huggingface", "forks": 244},
 {"description": "A more intuitive version of du in rust", "language": "Rust", "repo": "dust", "new_stars": 13, "stars": 1533, "owner": "bootandy", "forks": 35},
-{"description": "MozillaVPN is an unofficial configuration manager giving Linux, macOS users (among others), access to MozillaVPN.", "language": "Rust", "repo": "MozWire", "new_stars": 25, "stars": 181, "owner": "NilsIrl", "forks": 7}
+{"description": "MozillaVPN is an unofficial configuration manager giving Linux, macOS users (among others), access to MozillaVPN.", "language": "Rust", "repo": "MozWire", "new_stars": 23, "stars": 181, "owner": "NilsIrl", "forks": 7}
 ]

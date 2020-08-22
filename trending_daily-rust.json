@@ -1,8 +1,8 @@
 [
-{"description": "another runtime", "language": "Rust", "repo": "jstime", "new_stars": 31, "stars": 80, "owner": "jstime", "forks": 7},
+{"description": "another runtime", "language": "Rust", "repo": "jstime", "new_stars": 31, "stars": 81, "owner": "jstime", "forks": 7},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 8, "stars": 14777, "owner": "libra", "forks": 2254},
-{"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 69, "stars": 7556, "owner": "analysis-tools-dev", "forks": 878},
-{"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 42, "stars": 1540, "owner": "dtolnay", "forks": 52},
+{"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 69, "stars": 7557, "owner": "analysis-tools-dev", "forks": 878},
+{"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 42, "stars": 1542, "owner": "dtolnay", "forks": 52},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 12, "stars": 2808, "owner": "paritytech", "forks": 833},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 25, "stars": 6219, "owner": "tauri-apps", "forks": 133},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 53, "stars": 250938, "owner": "996icu", "forks": 21087},
@@ -12,7 +12,7 @@
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 5874, "owner": "rust-lang", "forks": 1212},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 7, "stars": 9088, "owner": "tokio-rs", "forks": 848},
 {"description": "Rust language projection for the Windows Runtime", "language": "Rust", "repo": "winrt-rs", "new_stars": 6, "stars": 2126, "owner": "microsoft", "forks": 62},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 17, "stars": 14660, "owner": "sharkdp", "forks": 375},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 16, "stars": 14661, "owner": "sharkdp", "forks": 375},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 9, "stars": 5854, "owner": "diesel-rs", "forks": 554},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 5, "stars": 3004, "owner": "graphql-rust", "forks": 262},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 5, "stars": 2243, "owner": "linebender", "forks": 178},
@@ -23,5 +23,5 @@
 {"description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 3, "stars": 494, "owner": "graphprotocol", "forks": 95},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 1, "stars": 3044, "owner": "seanmonstar", "forks": 403},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 7, "stars": 3376, "owner": "fdehau", "forks": 159},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 26, "stars": 11388, "owner": "rust-lang", "forks": 1374}
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 26, "stars": 11389, "owner": "rust-lang", "forks": 1374}
 ]

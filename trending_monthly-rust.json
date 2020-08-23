@@ -1,10 +1,10 @@
 [
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 1332, "stars": 11416, "owner": "rust-lang", "forks": 1377},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 747, "stars": 24701, "owner": "alacritty", "forks": 1260},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 747, "stars": 24701, "owner": "alacritty", "forks": 1261},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 214, "stars": 1244, "owner": "paritytech", "forks": 307},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 1243, "stars": 17470, "owner": "servo", "forks": 2443},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 1135, "stars": 250971, "owner": "996icu", "forks": 21088},
-{"description": "Faster Nmap Scanning with Rust", "language": "Rust", "repo": "RustScan", "new_stars": 1687, "stars": 1883, "owner": "RustScan", "forks": 135},
+{"description": "Faster Nmap Scanning with Rust", "language": "Rust", "repo": "RustScan", "new_stars": 1688, "stars": 1883, "owner": "RustScan", "forks": 135},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 1190, "stars": 22251, "owner": "sharkdp", "forks": 481},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 396, "stars": 2816, "owner": "paritytech", "forks": 835},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 231, "stars": 7871, "owner": "tikv", "forks": 1216},
@@ -20,8 +20,8 @@
 {"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 179, "stars": 1408, "owner": "pretzelhammer", "forks": 67},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 89, "stars": 1922, "owner": "shadowsocks", "forks": 430},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 57, "stars": 1366, "owner": "rust-windowing", "forks": 357},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 381, "stars": 8438, "owner": "nushell", "forks": 406},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 382, "stars": 8439, "owner": "nushell", "forks": 406},
 {"description": "A TUI system monitor written in Rust", "language": "Rust", "repo": "ytop", "new_stars": 320, "stars": 1976, "owner": "cjbassi", "forks": 69},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 244, "stars": 12611, "owner": "firecracker-microvm", "forks": 857},
-{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 698, "stars": 4668, "owner": "dandavison", "forks": 90}
+{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 699, "stars": 4669, "owner": "dandavison", "forks": 90}
 ]

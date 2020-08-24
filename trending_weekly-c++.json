@@ -1,15 +1,15 @@
 [
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 510, "stars": 16898, "owner": "google", "forks": 6445},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 836, "stars": 23150, "owner": "ocornut", "forks": 3835},
-{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 84, "stars": 2530, "owner": "Aircoookie", "forks": 424},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 510, "stars": 16898, "owner": "google", "forks": 6446},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 836, "stars": 23150, "owner": "ocornut", "forks": 3836},
+{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 85, "stars": 2531, "owner": "Aircoookie", "forks": 424},
 {"description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.", "language": "C++", "repo": "mediapipe", "new_stars": 346, "stars": 8580, "owner": "google", "forks": 1569},
 {"description": "Software modular synth", "language": "C++", "repo": "BespokeSynth", "new_stars": 157, "stars": 766, "owner": "awwbees", "forks": 27},
 {"description": "Implementation of popular deep learning networks with TensorRT network definition APIs", "language": "C++", "repo": "tensorrtx", "new_stars": 56, "stars": 743, "owner": "wang-xinyu", "forks": 167},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 269, "stars": 41282, "owner": "pytorch", "forks": 10810},
-{"description": "Productive & portable programming language for high-performance, sparse & differentiable computing", "language": "C++", "repo": "taichi", "new_stars": 159, "stars": 12014, "owner": "taichi-dev", "forks": 1275},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 119, "stars": 43389, "owner": "protocolbuffers", "forks": 11725},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 270, "stars": 41283, "owner": "pytorch", "forks": 10810},
+{"description": "Productive & portable programming language for high-performance, sparse & differentiable computing", "language": "C++", "repo": "taichi", "new_stars": 160, "stars": 12015, "owner": "taichi-dev", "forks": 1275},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 120, "stars": 43390, "owner": "protocolbuffers", "forks": 11725},
 {"description": "High-level tracing language for Linux eBPF", "language": "C++", "repo": "bpftrace", "new_stars": 42, "stars": 2931, "owner": "iovisor", "forks": 385},
-{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 31, "stars": 4676, "owner": "google", "forks": 900},
+{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 32, "stars": 4677, "owner": "google", "forks": 900},
 {"description": "Awesome OCR toolkits based on PaddlePaddle \uff088.6M ultra-lightweight pre-trained model, support training and deployment among server, mobile, embeded and IoT devices\uff09", "language": "C++", "repo": "PaddleOCR", "new_stars": 290, "stars": 2842, "owner": "PaddlePaddle", "forks": 509},
 {"description": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy", "language": "C++", "repo": "milvus", "new_stars": 56, "stars": 3951, "owner": "milvus-io", "forks": 634},
 {"description": "Mozilla Voice STT is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.", "language": "C++", "repo": "STT", "new_stars": 147, "stars": 14860, "owner": "mozilla", "forks": 2791},
@@ -22,6 +22,6 @@
 {"description": "A brief computer graphics / rendering course", "language": "C++", "repo": "tinyrenderer", "new_stars": 52, "stars": 9056, "owner": "ssloy", "forks": 797},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 56, "stars": 9152, "owner": "fmtlib", "forks": 1108},
 {"description": "A static devirtualizer for VMProtect x64 3.x. powered by VTIL.", "language": "C++", "repo": "NoVmp", "new_stars": 307, "stars": 690, "owner": "can1357", "forks": 119},
-{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 68, "stars": 5692, "owner": "llvm", "forks": 2197},
-{"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 104, "stars": 11686, "owner": "ClickHouse", "forks": 2290}
+{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 69, "stars": 5693, "owner": "llvm", "forks": 2197},
+{"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 105, "stars": 11686, "owner": "ClickHouse", "forks": 2290}
 ]

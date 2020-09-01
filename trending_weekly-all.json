@@ -1,8 +1,8 @@
 [
-{"description": null, "language": "Kotlin", "repo": "compose-samples", "new_stars": 1002, "stars": 2779, "owner": "android", "forks": 402},
+{"description": null, "language": "Kotlin", "repo": "compose-samples", "new_stars": 1002, "stars": 2780, "owner": "android", "forks": 402},
 {"description": "INFO-SPIDER \u662f\u4e00\u4e2a\u96c6\u4f17\u591a\u6570\u636e\u6e90\u4e8e\u4e00\u8eab\u7684\u722c\u866b\u5de5\u5177\u7bb1", "language": "Python", "repo": "InfoSpider", "new_stars": 501, "stars": 1218, "owner": "kangvcar", "forks": 164},
-{"description": "Draft of the fastai book", "language": "Jupyter Notebook", "repo": "fastbook", "new_stars": 636, "stars": 8803, "owner": "fastai", "forks": 2202},
-{"description": "The ultimate Free Open Source Solution for team communications.", "language": "JavaScript", "repo": "Rocket.Chat", "new_stars": 286, "stars": 28144, "owner": "RocketChat", "forks": 6098},
+{"description": "Draft of the fastai book", "language": "Jupyter Notebook", "repo": "fastbook", "new_stars": 636, "stars": 8803, "owner": "fastai", "forks": 2203},
+{"description": "The ultimate Free Open Source Solution for team communications.", "language": "JavaScript", "repo": "Rocket.Chat", "new_stars": 286, "stars": 28145, "owner": "RocketChat", "forks": 6098},
 {"description": "\u652f\u6301\u591a\u5bb6\u4e91\u5b58\u50a8\u7684\u4e91\u76d8\u7cfb\u7edf (A project helps you build your own cloud in minutes)", "language": "Go", "repo": "Cloudreve", "new_stars": 262, "stars": 5895, "owner": "cloudreve", "forks": 1091},
 {"description": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web", "language": "Vue", "repo": "element3", "new_stars": 291, "stars": 528, "owner": "kkbjs", "forks": 239},
 {"description": "Certified Kubernetes Administrator - CKA Course", "language": "Shell", "repo": "certified-kubernetes-administrator-course", "new_stars": 711, "stars": 804, "owner": "kodekloudhub", "forks": 251},
@@ -14,14 +14,14 @@
 {"description": null, "language": null, "repo": "desafio-4-2020", "new_stars": 39, "stars": 64, "owner": "maratonadev-br", "forks": 94},
 {"description": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community", "language": "Java", "repo": "spring-authorization-server", "new_stars": 105, "stars": 1007, "owner": "spring-projects-experimental", "forks": 161},
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 1178, "stars": 8337, "owner": "meilisearch", "forks": 232},
-{"description": "AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes", "language": "Go", "repo": "aws-controllers-k8s", "new_stars": 249, "stars": 953, "owner": "aws", "forks": 76},
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 654, "stars": 105502, "owner": "donnemartin", "forks": 18937},
+{"description": "AWS Controllers for Kubernetes (ACK) is a project enabling you to manage AWS services from Kubernetes", "language": "Go", "repo": "aws-controllers-k8s", "new_stars": 249, "stars": 954, "owner": "aws", "forks": 76},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 654, "stars": 105505, "owner": "donnemartin", "forks": 18937},
 {"description": "The fastai deep learning library, plus lessons and tutorials", "language": "Jupyter Notebook", "repo": "fastai", "new_stars": 241, "stars": 19246, "owner": "fastai", "forks": 6678},
 {"description": "A fast JSON parser/generator for Java.", "language": "Java", "repo": "fastjson", "new_stars": 78, "stars": 22298, "owner": "alibaba", "forks": 5937},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 113, "stars": 2658, "owner": "Aircoookie", "forks": 441},
 {"description": "\u9ad8\u4eff\u6296\u97f3APP", "language": "Java", "repo": "Tiktok", "new_stars": 69, "stars": 786, "owner": "18380438200", "forks": 208},
 {"description": "go-zero\u662f\u4e00\u4e2a\u96c6\u6210\u4e86\u5404\u79cd\u5de5\u7a0b\u5b9e\u8df5\u7684web\u548crpc\u6846\u67b6\u3002\u901a\u8fc7\u5f39\u6027\u8bbe\u8ba1\u4fdd\u969c\u4e86\u5927\u5e76\u53d1\u670d\u52a1\u7aef\u7684\u7a33\u5b9a\u6027\uff0c\u7ecf\u53d7\u4e86\u5145\u5206\u7684\u5b9e\u6218\u68c0\u9a8c\u3002\u5305\u542b\u6781\u7b80\u7684API\u5b9a\u4e49\u548c\u751f\u6210\u5de5\u5177\uff0c\u53ef\u4ee5\u4e00\u952e\u751f\u6210Go, iOS, Android, Dart, TypeScript, JavaScript\u4ee3\u7801\uff0c\u5e76\u53ef\u76f4\u63a5\u8fd0\u884c\u3002", "language": "Go", "repo": "go-zero", "new_stars": 177, "stars": 656, "owner": "tal-tech", "forks": 86},
-{"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 160, "stars": 5424, "owner": "livewire", "forks": 389},
-{"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 1598, "stars": 158268, "owner": "EbookFoundation", "forks": 37477},
-{"description": "Make images smaller using best-in-class codecs, right in the browser.", "language": "TypeScript", "repo": "squoosh", "new_stars": 185, "stars": 10798, "owner": "GoogleChromeLabs", "forks": 742}
+{"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 160, "stars": 5425, "owner": "livewire", "forks": 389},
+{"description": "Freely available programming books", "language": null, "repo": "free-programming-books", "new_stars": 1598, "stars": 158275, "owner": "EbookFoundation", "forks": 37477},
+{"description": "Make images smaller using best-in-class codecs, right in the browser.", "language": "TypeScript", "repo": "squoosh", "new_stars": 185, "stars": 10799, "owner": "GoogleChromeLabs", "forks": 742}
 ]

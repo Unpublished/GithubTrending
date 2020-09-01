@@ -1,7 +1,7 @@
 [
-{"description": "DearPyGui: A GPU Accelerated Python GUI Framework", "language": "C++", "repo": "DearPyGui", "new_stars": 368, "stars": 1587, "owner": "hoffstadt", "forks": 55},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 37, "stars": 85480, "owner": "electron", "forks": 11437},
-{"description": "Matplot++: A C++ Graphics Library for Data Visualization", "language": "C++", "repo": "matplotplusplus", "new_stars": 312, "stars": 1310, "owner": "alandefreitas", "forks": 63},
+{"description": "DearPyGui: A GPU Accelerated Python GUI Framework", "language": "C++", "repo": "DearPyGui", "new_stars": 368, "stars": 1592, "owner": "hoffstadt", "forks": 56},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 37, "stars": 85480, "owner": "electron", "forks": 11436},
+{"description": "Matplot++: A C++ Graphics Library for Data Visualization", "language": "C++", "repo": "matplotplusplus", "new_stars": 312, "stars": 1314, "owner": "alandefreitas", "forks": 63},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 53, "stars": 2655, "owner": "Aircoookie", "forks": 440},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 8, "stars": 14971, "owner": "google", "forks": 2312},
 {"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 5, "stars": 16997, "owner": "google", "forks": 6468},
@@ -11,17 +11,17 @@
 {"description": "Cocos2d-x is a suite of open-source, cross-platform, game-development tools used by millions of developers all over the world.", "language": "C++", "repo": "cocos2d-x", "new_stars": 9, "stars": 14615, "owner": "cocos2d", "forks": 6865},
 {"description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.", "language": "C++", "repo": "mediapipe", "new_stars": 15, "stars": 8678, "owner": "google", "forks": 1587},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 38, "stars": 41475, "owner": "pytorch", "forks": 10884},
-{"description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.", "language": "C++", "repo": "C-Plus-Plus", "new_stars": 26, "stars": 8127, "owner": "TheAlgorithms", "forks": 2692},
+{"description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.", "language": "C++", "repo": "C-Plus-Plus", "new_stars": 26, "stars": 8128, "owner": "TheAlgorithms", "forks": 2692},
 {"description": "\u57fa\u4e8e\u6df1\u5ea6\u5b66\u4e60\u9ad8\u6027\u80fd\u4e2d\u6587\u8f66\u724c\u8bc6\u522b High Performance Chinese License Plate Recognition Framework.", "language": "C++", "repo": "HyperLPR", "new_stars": 5, "stars": 3608, "owner": "szad670401", "forks": 1529},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 23, "stars": 43504, "owner": "protocolbuffers", "forks": 11757},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 42, "stars": 147976, "owner": "tensorflow", "forks": 82558},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 23, "stars": 43506, "owner": "protocolbuffers", "forks": 11757},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 42, "stars": 147976, "owner": "tensorflow", "forks": 82559},
 {"description": "The code base of supertuxkart", "language": "C++", "repo": "stk-code", "new_stars": 12, "stars": 3042, "owner": "supertuxkart", "forks": 889},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 35, "stars": 3937, "owner": "vesoft-inc", "forks": 465},
-{"description": "Warzone 2100 - a free and open source real time strategy game.", "language": "C++", "repo": "warzone2100", "new_stars": 15, "stars": 1319, "owner": "Warzone2100", "forks": 344},
+{"description": "Warzone 2100 - a free and open source real time strategy game.", "language": "C++", "repo": "warzone2100", "new_stars": 15, "stars": 1320, "owner": "Warzone2100", "forks": 344},
 {"description": "Guidelines Support Library", "language": "C++", "repo": "GSL", "new_stars": 4, "stars": 4118, "owner": "microsoft", "forks": 554},
 {"description": "The Z3 Theorem Prover", "language": "C++", "repo": "z3", "new_stars": 5, "stars": 5710, "owner": "Z3Prover", "forks": 930},
 {"description": "C++ \u5320\u5fc3\u4e4b\u4f5c \u4ece0\u52301\u5165\u95e8\u8d44\u6599", "language": "C++", "repo": "Cpp-0-1-Resource", "new_stars": 7, "stars": 1450, "owner": "AnkerLeng", "forks": 778},
 {"description": "g2o: A General Framework for Graph Optimization", "language": "C++", "repo": "g2o", "new_stars": 2, "stars": 1628, "owner": "RainerKuemmerle", "forks": 863},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 16, "stars": 27403, "owner": "grpc", "forks": 6915},
-{"description": "iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.", "language": "C++", "repo": "iblessing", "new_stars": 12, "stars": 165, "owner": "Soulghost", "forks": 26}
+{"description": "iblessing is an iOS security exploiting toolkit, it mainly includes application information collection, static analysis and dynamic analysis. It can be used for reverse engineering, binary analysis and vulnerability mining.", "language": "C++", "repo": "iblessing", "new_stars": 12, "stars": 166, "owner": "Soulghost", "forks": 26}
 ]

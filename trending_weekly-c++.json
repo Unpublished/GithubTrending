@@ -1,11 +1,11 @@
 [
-{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 120, "stars": 2669, "owner": "Aircoookie", "forks": 443},
-{"description": "DearPyGui: A GPU Accelerated Python GUI Framework", "language": "C++", "repo": "DearPyGui", "new_stars": 1448, "stars": 1760, "owner": "hoffstadt", "forks": 61},
+{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 122, "stars": 2670, "owner": "Aircoookie", "forks": 443},
+{"description": "DearPyGui: A GPU Accelerated Python GUI Framework", "language": "C++", "repo": "DearPyGui", "new_stars": 1448, "stars": 1761, "owner": "hoffstadt", "forks": 61},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 224, "stars": 3561, "owner": "yhirose", "forks": 785},
 {"description": "write your game with TypeScript in the ue4 or unity", "language": "C++", "repo": "puerts", "new_stars": 160, "stars": 460, "owner": "Tencent", "forks": 53},
 {"description": "Modern C++ Parallel Task Programming", "language": "C++", "repo": "taskflow", "new_stars": 77, "stars": 3867, "owner": "taskflow", "forks": 461},
 {"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 301, "stars": 67512, "owner": "microsoft", "forks": 6230},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 201, "stars": 85505, "owner": "electron", "forks": 11445},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 205, "stars": 85505, "owner": "electron", "forks": 11445},
 {"description": "A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.", "language": "C++", "repo": "3d-game-shaders-for-beginners", "new_stars": 75, "stars": 6892, "owner": "lettier", "forks": 486},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "Firmware", "new_stars": 22, "stars": 3764, "owner": "PX4", "forks": 10304},
 {"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 51, "stars": 8125, "owner": "MarlinFirmware", "forks": 11447},
@@ -16,12 +16,12 @@
 {"description": "Cycles Hydra Delegate", "language": "C++", "repo": "hdcycles", "new_stars": 26, "stars": 126, "owner": "tangent-opensource", "forks": 14},
 {"description": "Caffe: a fast open framework for deep learning.", "language": "C++", "repo": "caffe", "new_stars": 59, "stars": 30779, "owner": "BVLC", "forks": 18481},
 {"description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.", "language": "C++", "repo": "LightGBM", "new_stars": 45, "stars": 11461, "owner": "microsoft", "forks": 3006},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 166, "stars": 47966, "owner": "opencv", "forks": 38727},
-{"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 163, "stars": 3967, "owner": "vesoft-inc", "forks": 467},
-{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 47, "stars": 9518, "owner": "Tencent", "forks": 2427},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 75, "stars": 9538, "owner": "gabime", "forks": 2058},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 170, "stars": 47966, "owner": "opencv", "forks": 38728},
+{"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 162, "stars": 3968, "owner": "vesoft-inc", "forks": 467},
+{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 46, "stars": 9518, "owner": "Tencent", "forks": 2427},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 74, "stars": 9538, "owner": "gabime", "forks": 2058},
 {"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 89, "stars": 6148, "owner": "lupoDharkael", "forks": 429},
 {"description": "Apple HomeKit firmware for Shelly switches", "language": "C++", "repo": "shelly-homekit", "new_stars": 12, "stars": 205, "owner": "mongoose-os-apps", "forks": 32},
 {"description": "Little Navmap is a free flight planner, navigation tool, moving map, airport search and airport information system for Flight Simulator X and Prepar3D.", "language": "C++", "repo": "littlenavmap", "new_stars": 10, "stars": 328, "owner": "albar965", "forks": 74},
-{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 31, "stars": 12017, "owner": "catchorg", "forks": 1984}
+{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 30, "stars": 12017, "owner": "catchorg", "forks": 1984}
 ]

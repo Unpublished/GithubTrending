@@ -1,7 +1,7 @@
 [
-{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 458, "stars": 4009, "owner": "bottlerocket-os", "forks": 153},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 38, "stars": 22451, "owner": "sharkdp", "forks": 486},
-{"description": "An interactive cheatsheet tool for the command-line and application launchers", "language": "Rust", "repo": "navi", "new_stars": 59, "stars": 7714, "owner": "denisidoro", "forks": 336},
+{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 458, "stars": 4014, "owner": "bottlerocket-os", "forks": 154},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 38, "stars": 22452, "owner": "sharkdp", "forks": 486},
+{"description": "An interactive cheatsheet tool for the command-line and application launchers", "language": "Rust", "repo": "navi", "new_stars": 54, "stars": 7715, "owner": "denisidoro", "forks": 336},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 9, "stars": 4906, "owner": "rust-lang", "forks": 569},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 3, "stars": 2131, "owner": "blockstack", "forks": 383},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 21, "stars": 5859, "owner": "benfred", "forks": 223},
@@ -14,14 +14,14 @@
 {"description": "Yet another cross-platform graphical process/system monitor.", "language": "Rust", "repo": "bottom", "new_stars": 18, "stars": 675, "owner": "ClementTsang", "forks": 20},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 5, "stars": 3071, "owner": "crossbeam-rs", "forks": 218},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 17, "stars": 11548, "owner": "rust-lang", "forks": 1408},
-{"description": "Interpret traceroute output to show names of ASN traversed", "language": "Rust", "repo": "asroute", "new_stars": 61, "stars": 86, "owner": "stevenpack", "forks": 1},
+{"description": "Interpret traceroute output to show names of ASN traversed", "language": "Rust", "repo": "asroute", "new_stars": 62, "stars": 87, "owner": "stevenpack", "forks": 1},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 4, "stars": 9159, "owner": "tokio-rs", "forks": 852},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 5, "stars": 1291, "owner": "ijl", "forks": 45},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 16819, "owner": "rust-unofficial", "forks": 1125},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 7, "stars": 6388, "owner": "wasmerio", "forks": 244},
 {"description": "A Decentralized Operating System for Private Applications", "language": "Rust", "repo": "snarkOS", "new_stars": 3, "stars": 56, "owner": "AleoHQ", "forks": 1},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 10, "stars": 2485, "owner": "launchbadge", "forks": 174},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 47910, "owner": "rust-lang", "forks": 7077},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 9, "stars": 2485, "owner": "launchbadge", "forks": 174},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 47912, "owner": "rust-lang", "forks": 7077},
 {"description": "A Creative Coding Framework for Rust.", "language": "Rust", "repo": "nannou", "new_stars": 2, "stars": 2215, "owner": "nannou-org", "forks": 111},
 {"description": null, "language": "Rust", "repo": "autocxx", "new_stars": 12, "stars": 737, "owner": "google", "forks": 20}
 ]

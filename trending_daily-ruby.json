@@ -1,10 +1,10 @@
 [
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 4, "stars": 11008, "owner": "rubocop-hq", "forks": 2462},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 9512, "owner": "fluent", "forks": 1099},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 9512, "owner": "fluent", "forks": 1100},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 21062, "owner": "heartcombo", "forks": 5066},
 {"description": "Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.", "language": "Ruby", "repo": "active_merchant", "new_stars": 2, "stars": 4229, "owner": "activemerchant", "forks": 2366},
 {"description": "Main Website for The Odin Project", "language": "Ruby", "repo": "theodinproject", "new_stars": 3, "stars": 1068, "owner": "TheOdinProject", "forks": 861},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 9, "stars": 29691, "owner": "fastlane", "forks": 4635},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 9, "stars": 29690, "owner": "fastlane", "forks": 4635},
 {"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 0, "stars": 2370, "owner": "sorbet", "forks": 219},
 {"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 1, "stars": 1208, "owner": "elastic", "forks": 653},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 0, "stars": 811, "owner": "rswag", "forks": 225},
@@ -15,13 +15,13 @@
 {"description": "Ruby toolkit for the GitHub API", "language": "Ruby", "repo": "octokit.rb", "new_stars": 3, "stars": 3319, "owner": "octokit", "forks": 1095},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 12661, "owner": "CocoaPods", "forks": 2296},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 7651, "owner": "heartcombo", "forks": 1280},
-{"description": "Remote multi-server automation tool", "language": "Ruby", "repo": "capistrano", "new_stars": 3, "stars": 11589, "owner": "capistrano", "forks": 1739},
+{"description": "Remote multi-server automation tool", "language": "Ruby", "repo": "capistrano", "new_stars": 3, "stars": 11588, "owner": "capistrano", "forks": 1739},
 {"description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 6, "stars": 4536, "owner": "chatwoot", "forks": 434},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 2, "stars": 9155, "owner": "ruby-grape", "forks": 1163},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 1, "stars": 2743, "owner": "elastic", "forks": 703},
 {"description": "Oauth2 strategy for Google", "language": "Ruby", "repo": "omniauth-google-oauth2", "new_stars": 0, "stars": 1212, "owner": "zquestz", "forks": 355},
 {"description": "Enables your consumer driven contracts workflow", "language": "Ruby", "repo": "pact_broker", "new_stars": 1, "stars": 485, "owner": "pact-foundation", "forks": 137},
-{"description": "Fast, Nimble PDF Writer for Ruby", "language": "Ruby", "repo": "prawn", "new_stars": 1, "stars": 4040, "owner": "prawnpdf", "forks": 625},
+{"description": "Fast, Nimble PDF Writer for Ruby", "language": "Ruby", "repo": "prawn", "new_stars": 1, "stars": 4040, "owner": "prawnpdf", "forks": 626},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 10521, "owner": "mperham", "forks": 1844},
 {"description": "RSpec's 'test double' framework, with support for stubbing and mocking", "language": "Ruby", "repo": "rspec-mocks", "new_stars": 1, "stars": 991, "owner": "rspec", "forks": 305}
 ]

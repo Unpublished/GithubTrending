@@ -1,10 +1,10 @@
 [
-{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 48, "stars": 202, "owner": "DataDog", "forks": 9},
+{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 56, "stars": 204, "owner": "DataDog", "forks": 9},
 {"description": "Painless shell argument parsing and dependency check.", "language": "Rust", "repo": "slap", "new_stars": 39, "stars": 80, "owner": "agnipau", "forks": 0},
-{"description": "Turn a $30 USB switch into a full-featured multi-monitor KVM switch", "language": "Rust", "repo": "display-switch", "new_stars": 77, "stars": 473, "owner": "haimgel", "forks": 24},
+{"description": "Turn a $30 USB switch into a full-featured multi-monitor KVM switch", "language": "Rust", "repo": "display-switch", "new_stars": 70, "stars": 473, "owner": "haimgel", "forks": 24},
 {"description": "The corrective bash syntax highlighter", "language": "Rust", "repo": "shellharden", "new_stars": 13, "stars": 3563, "owner": "anordal", "forks": 110},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 22504, "owner": "sharkdp", "forks": 489},
-{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 294, "stars": 4499, "owner": "bottlerocket-os", "forks": 168},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 29, "stars": 22504, "owner": "sharkdp", "forks": 489},
+{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 296, "stars": 4499, "owner": "bottlerocket-os", "forks": 168},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 4, "stars": 1495, "owner": "Edu4rdSHL", "forks": 192},
 {"description": "Scan only once by IP address and reduce scan times with Nmap for large amounts of data.", "language": "Rust", "repo": "unimap", "new_stars": 32, "stars": 73, "owner": "Edu4rdSHL", "forks": 9},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 12, "stars": 4923, "owner": "rust-lang", "forks": 573},
@@ -12,7 +12,7 @@
 {"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 14, "stars": 7651, "owner": "analysis-tools-dev", "forks": 886},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 5, "stars": 2139, "owner": "blockstack", "forks": 384},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 25, "stars": 7995, "owner": "tikv", "forks": 1230},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 18, "stars": 6412, "owner": "tauri-apps", "forks": 142},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 17, "stars": 6412, "owner": "tauri-apps", "forks": 142},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 4, "stars": 2392, "owner": "http-rs", "forks": 233},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 4, "stars": 2888, "owner": "ruffle-rs", "forks": 88},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 4, "stars": 5938, "owner": "rust-lang", "forks": 1223},
@@ -21,7 +21,7 @@
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 7, "stars": 4845, "owner": "dandavison", "forks": 96},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 9, "stars": 2889, "owner": "paritytech", "forks": 861},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 4, "stars": 5854, "owner": "RustPython", "forks": 425},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 9, "stars": 9170, "owner": "tokio-rs", "forks": 855},
-{"description": "A lightweight and ultra-fast binary for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 9, "stars": 5168, "owner": "timberio", "forks": 303},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 6, "stars": 9170, "owner": "tokio-rs", "forks": 855},
+{"description": "A lightweight and ultra-fast binary for building observability pipelines", "language": "Rust", "repo": "vector", "new_stars": 9, "stars": 5169, "owner": "timberio", "forks": 303},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 4, "stars": 4258, "owner": "Geal", "forks": 481}
 ]

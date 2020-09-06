@@ -1,5 +1,5 @@
 [
-{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 80, "stars": 221, "owner": "DataDog", "forks": 10},
+{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 80, "stars": 225, "owner": "DataDog", "forks": 10},
 {"description": "Painless shell argument parsing and dependency check.", "language": "Rust", "repo": "slap", "new_stars": 14, "stars": 83, "owner": "agnipau", "forks": 0},
 {"description": "Turn a $30 USB switch into a full-featured multi-monitor KVM switch", "language": "Rust", "repo": "display-switch", "new_stars": 73, "stars": 476, "owner": "haimgel", "forks": 24},
 {"description": "The corrective bash syntax highlighter", "language": "Rust", "repo": "shellharden", "new_stars": 17, "stars": 3565, "owner": "anordal", "forks": 110},
@@ -15,7 +15,7 @@
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 18, "stars": 6415, "owner": "tauri-apps", "forks": 142},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 3, "stars": 2392, "owner": "http-rs", "forks": 233},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 3, "stars": 2888, "owner": "ruffle-rs", "forks": 88},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 5, "stars": 5938, "owner": "rust-lang", "forks": 1222},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 5, "stars": 5939, "owner": "rust-lang", "forks": 1222},
 {"description": "High performance Rust ECS library", "language": "Rust", "repo": "legion", "new_stars": 4, "stars": 796, "owner": "TomGillen", "forks": 67},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 23, "stars": 11588, "owner": "rust-lang", "forks": 1420},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 9, "stars": 4845, "owner": "dandavison", "forks": 96},

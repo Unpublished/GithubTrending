@@ -1,7 +1,7 @@
 [
-{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 818, "stars": 4685, "owner": "bottlerocket-os", "forks": 175},
+{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 819, "stars": 4685, "owner": "bottlerocket-os", "forks": 175},
 {"description": "The Modern Day Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 135, "stars": 2168, "owner": "RustScan", "forks": 168},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 419, "stars": 8804, "owner": "meilisearch", "forks": 253},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 422, "stars": 8806, "owner": "meilisearch", "forks": 253},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 208, "stars": 48085, "owner": "rust-lang", "forks": 7095},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 42, "stars": 3213, "owner": "seanmonstar", "forks": 311},
 {"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 31, "stars": 1460, "owner": "pretzelhammer", "forks": 68},
@@ -10,11 +10,11 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 220, "stars": 11749, "owner": "rust-lang", "forks": 1431},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 31, "stars": 2538, "owner": "hyperium", "forks": 205},
 {"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 43, "stars": 9282, "owner": "valeriansaliou", "forks": 297},
-{"description": "High performance Rust ECS library", "language": "Rust", "repo": "legion", "new_stars": 32, "stars": 816, "owner": "amethyst", "forks": 68},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 89, "stars": 8021, "owner": "tikv", "forks": 1235},
+{"description": "High performance Rust ECS library", "language": "Rust", "repo": "legion", "new_stars": 33, "stars": 817, "owner": "amethyst", "forks": 68},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 91, "stars": 8022, "owner": "tikv", "forks": 1235},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 47, "stars": 4946, "owner": "rust-lang", "forks": 572},
 {"description": "The fastest and cross-platform subdomain enumerator, do not waste your time.", "language": "Rust", "repo": "findomain", "new_stars": 27, "stars": 1515, "owner": "Edu4rdSHL", "forks": 198},
-{"description": "Yet another cross-platform graphical process/system monitor.", "language": "Rust", "repo": "bottom", "new_stars": 126, "stars": 792, "owner": "ClementTsang", "forks": 21},
+{"description": "Yet another cross-platform graphical process/system monitor.", "language": "Rust", "repo": "bottom", "new_stars": 127, "stars": 793, "owner": "ClementTsang", "forks": 21},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 38, "stars": 3057, "owner": "graphql-rust", "forks": 265},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 50, "stars": 5902, "owner": "benfred", "forks": 222},
 {"description": "An interactive cheatsheet tool for the command-line and application launchers", "language": "Rust", "repo": "navi", "new_stars": 59, "stars": 7764, "owner": "denisidoro", "forks": 337},
@@ -22,6 +22,6 @@
 {"description": "The fast, light, and robust client for Ethereum-like networks.", "language": "Rust", "repo": "openethereum", "new_stars": 21, "stars": 6185, "owner": "openethereum", "forks": 1543},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 26, "stars": 3474, "owner": "serde-rs", "forks": 366},
 {"description": "Static analysis tools for all programming languages, build tools, config files and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 80, "stars": 7696, "owner": "analysis-tools-dev", "forks": 888},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 27, "stars": 854, "owner": "solana-labs", "forks": 193},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 27, "stars": 854, "owner": "solana-labs", "forks": 194},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 58, "stars": 4337, "owner": "rust-analyzer", "forks": 427}
 ]

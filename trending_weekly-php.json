@@ -1,9 +1,9 @@
 [
 {"description": null, "language": "PHP", "repo": "jetstream", "new_stars": 662, "stars": 1527, "owner": "laravel", "forks": 154},
-{"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 295, "stars": 5795, "owner": "livewire", "forks": 417},
+{"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 296, "stars": 5796, "owner": "livewire", "forks": 417},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 310, "stars": 61382, "owner": "laravel", "forks": 19290},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 76, "stars": 22034, "owner": "laravel", "forks": 7553},
-{"description": "A set of renderless components to utilise in your Laravel Blade views.", "language": "PHP", "repo": "blade-ui-kit", "new_stars": 105, "stars": 483, "owner": "blade-ui-kit", "forks": 28},
+{"description": "A set of renderless components to utilise in your Laravel Blade views.", "language": "PHP", "repo": "blade-ui-kit", "new_stars": 104, "stars": 483, "owner": "blade-ui-kit", "forks": 28},
 {"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 26, "stars": 7273, "owner": "dompdf", "forks": 1391},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 40, "stars": 23876, "owner": "symfony", "forks": 7784},
 {"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 33, "stars": 3195, "owner": "mailcow", "forks": 564},
@@ -23,5 +23,5 @@
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 35, "stars": 17839, "owner": "Seldaek", "forks": 1687},
 {"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 22, "stars": 3286, "owner": "beyondcode", "forks": 302},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 26, "stars": 15517, "owner": "PHPMailer", "forks": 8275},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 31, "stars": 14269, "owner": "WordPress", "forks": 8859}
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 31, "stars": 14269, "owner": "WordPress", "forks": 8860}
 ]

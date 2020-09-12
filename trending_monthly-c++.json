@@ -1,10 +1,10 @@
 [
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 775, "stars": 17090, "owner": "google", "forks": 6499},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1372, "stars": 23491, "owner": "ocornut", "forks": 3916},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 775, "stars": 17090, "owner": "google", "forks": 6498},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1372, "stars": 23491, "owner": "ocornut", "forks": 3918},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 373, "stars": 2765, "owner": "Aircoookie", "forks": 460},
 {"description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.", "language": "C++", "repo": "mediapipe", "new_stars": 698, "stars": 8817, "owner": "google", "forks": 1615},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 658, "stars": 45088, "owner": "bitcoin", "forks": 26315},
-{"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 551, "stars": 12028, "owner": "ClickHouse", "forks": 2359},
+{"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 552, "stars": 12029, "owner": "ClickHouse", "forks": 2359},
 {"description": "DeepSpeech is an open source speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.", "language": "C++", "repo": "DeepSpeech", "new_stars": 474, "stars": 15110, "owner": "mozilla", "forks": 2828},
 {"description": "Implementation of popular deep learning networks with TensorRT network definition APIs", "language": "C++", "repo": "tensorrtx", "new_stars": 195, "stars": 836, "owner": "wang-xinyu", "forks": 195},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 426, "stars": 3139, "owner": "microsoft", "forks": 730},
@@ -12,7 +12,7 @@
 {"description": "Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs", "language": "C++", "repo": "taichi", "new_stars": 375, "stars": 12177, "owner": "taichi-dev", "forks": 1291},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 440, "stars": 3618, "owner": "yhirose", "forks": 800},
 {"description": "C++ Library Manager for Windows, Linux, and MacOS", "language": "C++", "repo": "vcpkg", "new_stars": 377, "stars": 10254, "owner": "microsoft", "forks": 2802},
-{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 364, "stars": 5914, "owner": "llvm", "forks": 2287},
+{"description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at", "language": "C++", "repo": "llvm-project", "new_stars": 364, "stars": 5914, "owner": "llvm", "forks": 2288},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 928, "stars": 41737, "owner": "pytorch", "forks": 10972},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 338, "stars": 10877, "owner": "facebookresearch", "forks": 1932},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 873, "stars": 85737, "owner": "electron", "forks": 11477},
@@ -22,6 +22,6 @@
 {"description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node", "language": "C++", "repo": "vosk-api", "new_stars": 98, "stars": 666, "owner": "alphacep", "forks": 133},
 {"description": "Solidity, the Contract-Oriented Programming Language", "language": "C++", "repo": "solidity", "new_stars": 130, "stars": 8270, "owner": "ethereum", "forks": 2347},
 {"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 284, "stars": 6240, "owner": "flameshot-org", "forks": 440},
-{"description": "ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.", "language": "C++", "repo": "arangodb", "new_stars": 195, "stars": 10282, "owner": "arangodb", "forks": 674},
-{"description": "Modern C++ Parallel Task Programming", "language": "C++", "repo": "taskflow", "new_stars": 184, "stars": 3916, "owner": "taskflow", "forks": 469}
+{"description": "ArangoDB is a native multi-model database with flexible data models for documents, graphs, and key-values. Build high performance applications using a convenient SQL-like query language or JavaScript extensions.", "language": "C++", "repo": "arangodb", "new_stars": 196, "stars": 10283, "owner": "arangodb", "forks": 674},
+{"description": "Modern C++ Parallel Task Programming", "language": "C++", "repo": "taskflow", "new_stars": 184, "stars": 3916, "owner": "taskflow", "forks": 470}
 ]

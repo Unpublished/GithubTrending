@@ -1,17 +1,17 @@
 [
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 27, "stars": 26738, "owner": "danielmiessler", "forks": 13062},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 27, "stars": 26738, "owner": "danielmiessler", "forks": 13063},
 {"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 3, "stars": 5668, "owner": "opencart", "forks": 4154},
 {"description": "Docker-based development-only dependency manager; pairs with Valet.", "language": "PHP", "repo": "takeout", "new_stars": 42, "stars": 661, "owner": "tighten", "forks": 34},
 {"description": "All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers", "language": "PHP", "repo": "RED_HAWK", "new_stars": 4, "stars": 1432, "owner": "Tuhinshubhra", "forks": 568},
 {"description": "Damn Vulnerable Web Application (DVWA)", "language": "PHP", "repo": "DVWA", "new_stars": 5, "stars": 4530, "owner": "digininja", "forks": 1396},
 {"description": "Laravel FREE E-Commerce Software", "language": "PHP", "repo": "laracom", "new_stars": 2, "stars": 1283, "owner": "jsdecena", "forks": 709},
-{"description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.", "language": "PHP", "repo": "fuzzdb", "new_stars": 7, "stars": 4904, "owner": "fuzzdb-project", "forks": 1452},
+{"description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.", "language": "PHP", "repo": "fuzzdb", "new_stars": 7, "stars": 4905, "owner": "fuzzdb-project", "forks": 1452},
 {"description": "Simple non-production environment variable sharing for Laravel projects.", "language": "PHP", "repo": "eco-cli", "new_stars": 18, "stars": 57, "owner": "hotmeteor", "forks": 1},
 {"description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.", "language": "PHP", "repo": "Lychee", "new_stars": 9, "stars": 377, "owner": "LycheeOrg", "forks": 67},
-{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 4, "stars": 1914, "owner": "pterodactyl", "forks": 446},
-{"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 2, "stars": 344, "owner": "Ignitetch", "forks": 178},
+{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 4, "stars": 1915, "owner": "pterodactyl", "forks": 446},
+{"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 1, "stars": 344, "owner": "Ignitetch", "forks": 178},
 {"description": "List of 75 languages for Laravel 4, 5, 6 and 7", "language": "PHP", "repo": "lang", "new_stars": 6, "stars": 5034, "owner": "Laravel-Lang", "forks": 2228},
-{"description": "A magic memoization function", "language": "PHP", "repo": "once", "new_stars": 7, "stars": 709, "owner": "spatie", "forks": 27},
+{"description": "A magic memoization function", "language": "PHP", "repo": "once", "new_stars": 7, "stars": 710, "owner": "spatie", "forks": 27},
 {"description": "A server software for Minecraft: Bedrock Edition in PHP", "language": "PHP", "repo": "PocketMine-MP", "new_stars": 1, "stars": 2030, "owner": "pmmp", "forks": 1264},
 {"description": "A PHP framework for console artisans", "language": "PHP", "repo": "laravel-zero", "new_stars": 4, "stars": 2350, "owner": "laravel-zero", "forks": 125},
 {"description": null, "language": "PHP", "repo": "php-reverse-shell", "new_stars": 4, "stars": 410, "owner": "pentestmonkey", "forks": 472},
@@ -21,6 +21,6 @@
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 7, "stars": 3326, "owner": "akaunting", "forks": 1229},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 11689, "owner": "nextcloud", "forks": 2139},
 {"description": "Simple AP setup & WiFi management for Debian-based devices", "language": "PHP", "repo": "raspap-webgui", "new_stars": 4, "stars": 2484, "owner": "billz", "forks": 577},
-{"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 3, "stars": 664, "owner": "inertiajs", "forks": 195},
-{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 6, "stars": 7940, "owner": "squizlabs", "forks": 1268}
+{"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 3, "stars": 665, "owner": "inertiajs", "forks": 195},
+{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 7940, "owner": "squizlabs", "forks": 1268}
 ]

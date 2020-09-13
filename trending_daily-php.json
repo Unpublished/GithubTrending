@@ -1,16 +1,16 @@
 [
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 27, "stars": 26735, "owner": "danielmiessler", "forks": 13059},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 27, "stars": 26736, "owner": "danielmiessler", "forks": 13059},
 {"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 3, "stars": 5667, "owner": "opencart", "forks": 4153},
 {"description": "Docker-based development-only dependency manager; pairs with Valet.", "language": "PHP", "repo": "takeout", "new_stars": 42, "stars": 657, "owner": "tighten", "forks": 34},
 {"description": "All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers", "language": "PHP", "repo": "RED_HAWK", "new_stars": 4, "stars": 1429, "owner": "Tuhinshubhra", "forks": 568},
 {"description": "Damn Vulnerable Web Application (DVWA)", "language": "PHP", "repo": "DVWA", "new_stars": 5, "stars": 4529, "owner": "digininja", "forks": 1396},
 {"description": "Laravel FREE E-Commerce Software", "language": "PHP", "repo": "laracom", "new_stars": 2, "stars": 1283, "owner": "jsdecena", "forks": 708},
 {"description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.", "language": "PHP", "repo": "fuzzdb", "new_stars": 7, "stars": 4902, "owner": "fuzzdb-project", "forks": 1448},
-{"description": "Simple non-production environment variable sharing for Laravel projects.", "language": "PHP", "repo": "eco-cli", "new_stars": 18, "stars": 44, "owner": "hotmeteor", "forks": 1},
+{"description": "Simple non-production environment variable sharing for Laravel projects.", "language": "PHP", "repo": "eco-cli", "new_stars": 18, "stars": 46, "owner": "hotmeteor", "forks": 1},
 {"description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.", "language": "PHP", "repo": "Lychee", "new_stars": 9, "stars": 374, "owner": "LycheeOrg", "forks": 67},
 {"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 4, "stars": 1914, "owner": "pterodactyl", "forks": 445},
-{"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 1, "stars": 344, "owner": "Ignitetch", "forks": 177},
-{"description": "List of 75 languages for Laravel 4, 5, 6 and 7", "language": "PHP", "repo": "lang", "new_stars": 6, "stars": 5033, "owner": "Laravel-Lang", "forks": 2228},
+{"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 2, "stars": 344, "owner": "Ignitetch", "forks": 177},
+{"description": "List of 75 languages for Laravel 4, 5, 6 and 7", "language": "PHP", "repo": "lang", "new_stars": 6, "stars": 5034, "owner": "Laravel-Lang", "forks": 2228},
 {"description": "A magic memoization function", "language": "PHP", "repo": "once", "new_stars": 7, "stars": 707, "owner": "spatie", "forks": 27},
 {"description": "A server software for Minecraft: Bedrock Edition in PHP", "language": "PHP", "repo": "PocketMine-MP", "new_stars": 1, "stars": 2030, "owner": "pmmp", "forks": 1264},
 {"description": "A PHP framework for console artisans", "language": "PHP", "repo": "laravel-zero", "new_stars": 4, "stars": 2350, "owner": "laravel-zero", "forks": 125},
@@ -19,8 +19,8 @@
 {"description": null, "language": "PHP", "repo": "http-client", "new_stars": 5, "stars": 471, "owner": "php-fig", "forks": 7},
 {"description": "Personal CRM. Remember everything about your friends, family and business relationships.", "language": "PHP", "repo": "monica", "new_stars": 6, "stars": 10173, "owner": "monicahq", "forks": 1216},
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 7, "stars": 3325, "owner": "akaunting", "forks": 1229},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 11686, "owner": "nextcloud", "forks": 2139},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 13, "stars": 11687, "owner": "nextcloud", "forks": 2139},
 {"description": "Simple AP setup & WiFi management for Debian-based devices", "language": "PHP", "repo": "raspap-webgui", "new_stars": 4, "stars": 2483, "owner": "billz", "forks": 577},
 {"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 3, "stars": 662, "owner": "inertiajs", "forks": 195},
-{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 7940, "owner": "squizlabs", "forks": 1268}
+{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 6, "stars": 7940, "owner": "squizlabs", "forks": 1268}
 ]

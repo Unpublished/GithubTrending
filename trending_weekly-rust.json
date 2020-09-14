@@ -1,18 +1,18 @@
 [
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 80, "stars": 922, "owner": "solana-labs", "forks": 203},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 210, "stars": 48198, "owner": "rust-lang", "forks": 7110},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 211, "stars": 48200, "owner": "rust-lang", "forks": 7111},
 {"description": "The Modern Day Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 159, "stars": 2287, "owner": "RustScan", "forks": 175},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 431, "stars": 251564, "owner": "996icu", "forks": 21098},
 {"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 130, "stars": 420, "owner": "DataDog", "forks": 20},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 37, "stars": 3496, "owner": "serde-rs", "forks": 364},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 56, "stars": 6450, "owner": "wasmerio", "forks": 249},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 91, "stars": 2588, "owner": "launchbadge", "forks": 179},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 92, "stars": 2589, "owner": "launchbadge", "forks": 179},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 74, "stars": 3527, "owner": "fdehau", "forks": 170},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 38, "stars": 2563, "owner": "hyperium", "forks": 206},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 44, "stars": 3072, "owner": "graphql-rust", "forks": 266},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 37, "stars": 2563, "owner": "hyperium", "forks": 206},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 43, "stars": 3072, "owner": "graphql-rust", "forks": 266},
 {"description": "A statically typed language for the Erlang VM", "language": "Rust", "repo": "gleam", "new_stars": 40, "stars": 2243, "owner": "gleam-lang", "forks": 106},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 75, "stars": 11438, "owner": "SergioBenitez", "forks": 744},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 53, "stars": 2959, "owner": "ruffle-rs", "forks": 90},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 52, "stars": 2959, "owner": "ruffle-rs", "forks": 90},
 {"description": "Examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 23, "stars": 1371, "owner": "actix", "forks": 434},
 {"description": "Unofficial Bitwarden compatible server written in Rust", "language": "Rust", "repo": "bitwarden_rs", "new_stars": 101, "stars": 4897, "owner": "dani-garcia", "forks": 319},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 50, "stars": 2465, "owner": "rust-embedded", "forks": 154},
@@ -23,5 +23,5 @@
 {"description": "An embeddable dynamic programming language for Rust.", "language": "Rust", "repo": "rune", "new_stars": 122, "stars": 329, "owner": "rune-rs", "forks": 13},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 14, "stars": 3022, "owner": "autozimu", "forks": 241},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 17, "stars": 2611, "owner": "chyyuu", "forks": 1661},
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 131, "stars": 14928, "owner": "libra", "forks": 2279}
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 132, "stars": 14929, "owner": "libra", "forks": 2279}
 ]

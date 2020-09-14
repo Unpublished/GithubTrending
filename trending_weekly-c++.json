@@ -1,17 +1,17 @@
 [
-{"description": "Sogou framework for C++ backend development.", "language": "C++", "repo": "workflow", "new_stars": 201, "stars": 1372, "owner": "sogou", "forks": 220},
+{"description": "Sogou framework for C++ backend development.", "language": "C++", "repo": "workflow", "new_stars": 200, "stars": 1372, "owner": "sogou", "forks": 220},
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 87, "stars": 12049, "owner": "yuzu-emu", "forks": 990},
 {"description": "JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.", "language": "C++", "repo": "JUCE", "new_stars": 21, "stars": 2320, "owner": "juce-framework", "forks": 853},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 234, "stars": 45113, "owner": "bitcoin", "forks": 26323},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 234, "stars": 45113, "owner": "bitcoin", "forks": 26324},
 {"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 20, "stars": 5231, "owner": "ArduPilot", "forks": 9785},
 {"description": "Photogrammetric Computer Vision Framework", "language": "C++", "repo": "AliceVision", "new_stars": 20, "stars": 1479, "owner": "alicevision", "forks": 404},
 {"description": "C++ \u5320\u5fc3\u4e4b\u4f5c \u4ece0\u52301\u5165\u95e8\u8d44\u6599", "language": "C++", "repo": "Cpp-0-1-Resource", "new_stars": 51, "stars": 1532, "owner": "AnkerLeng", "forks": 832},
 {"description": "Solidity, the Contract-Oriented Programming Language", "language": "C++", "repo": "solidity", "new_stars": 32, "stars": 8276, "owner": "ethereum", "forks": 2348},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 389, "stars": 3225, "owner": "microsoft", "forks": 734},
-{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 48, "stars": 8183, "owner": "MarlinFirmware", "forks": 11615},
-{"description": "an efficient feature complete C++ bittorrent implementation", "language": "C++", "repo": "libtorrent", "new_stars": 85, "stars": 2741, "owner": "arvidn", "forks": 627},
+{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 48, "stars": 8184, "owner": "MarlinFirmware", "forks": 11616},
+{"description": "an efficient feature complete C++ bittorrent implementation", "language": "C++", "repo": "libtorrent", "new_stars": 86, "stars": 2742, "owner": "arvidn", "forks": 627},
 {"description": "C++ Library Manager for Windows, Linux, and MacOS", "language": "C++", "repo": "vcpkg", "new_stars": 96, "stars": 10286, "owner": "microsoft", "forks": 2811},
-{"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 70, "stars": 6259, "owner": "flameshot-org", "forks": 440},
+{"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 70, "stars": 6260, "owner": "flameshot-org", "forks": 440},
 {"description": "Make a fortune quietly", "language": "C++", "repo": "naiveproxy", "new_stars": 47, "stars": 1034, "owner": "klzgrad", "forks": 145},
 {"description": "The Feature Packed Alternate Open Source firmware for the TS100 iron by miniware.", "language": "C++", "repo": "ts100", "new_stars": 30, "stars": 2478, "owner": "Ralim", "forks": 305},
 {"description": "Awesome OCR toolkits based on PaddlePaddle \uff08\u300e\u98de\u6868\u300f8.6M\u8d85\u8f7b\u91cf\u4e2d\u6587OCR\u6a21\u578b\uff0c\u652f\u6301\u8bad\u7ec3\u90e8\u7f72\u5168\u6d41\u7a0b\uff09", "language": "C++", "repo": "PaddleOCR", "new_stars": 175, "stars": 3150, "owner": "PaddlePaddle", "forks": 577},
@@ -20,8 +20,8 @@
 {"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 57, "stars": 8812, "owner": "CoatiSoftware", "forks": 555},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 190, "stars": 85761, "owner": "electron", "forks": 11479},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 91, "stars": 18531, "owner": "CMU-Perceptual-Computing-Lab", "forks": 5617},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 76, "stars": 14649, "owner": "envoyproxy", "forks": 2494},
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 76, "stars": 14648, "owner": "envoyproxy", "forks": 2494},
 {"description": "C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio\u2026", "language": "C++", "repo": "interview", "new_stars": 169, "stars": 14429, "owner": "huihut", "forks": 4278},
 {"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 15, "stars": 3924, "owner": "qgis", "forks": 1846},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 197, "stars": 41784, "owner": "pytorch", "forks": 10993}
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 197, "stars": 41783, "owner": "pytorch", "forks": 10993}
 ]

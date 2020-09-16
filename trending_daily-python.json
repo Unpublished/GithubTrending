@@ -1,12 +1,12 @@
 [
-{"description": "Test tool for CVE-2020-1472", "language": "Python", "repo": "CVE-2020-1472", "new_stars": 153, "stars": 758, "owner": "SecuraBV", "forks": 153},
-{"description": "PoC for Zerologon - all research credits go to Tom Tervoort of Secura", "language": "Python", "repo": "CVE-2020-1472", "new_stars": 127, "stars": 397, "owner": "dirkjanm", "forks": 101},
-{"description": "Tensorflow2.0", "language": "Python", "repo": "eat_tensorflow2_in_30_days", "new_stars": 38, "stars": 5729, "owner": "lyhue1991", "forks": 1529},
-{"description": "Depth-Aware Video Frame Interpolation (CVPR 2019)", "language": "Python", "repo": "DAIN", "new_stars": 202, "stars": 4412, "owner": "baowenbo", "forks": 488},
-{"description": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai", "language": "Python", "repo": "EasyOCR", "new_stars": 28, "stars": 7688, "owner": "JaidedAI", "forks": 698},
-{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 245, "stars": 85580, "owner": "TheAlgorithms", "forks": 25052},
+{"description": "Test tool for CVE-2020-1472", "language": "Python", "repo": "CVE-2020-1472", "new_stars": 153, "stars": 762, "owner": "SecuraBV", "forks": 153},
+{"description": "PoC for Zerologon - all research credits go to Tom Tervoort of Secura", "language": "Python", "repo": "CVE-2020-1472", "new_stars": 111, "stars": 397, "owner": "dirkjanm", "forks": 102},
+{"description": "Tensorflow2.0", "language": "Python", "repo": "eat_tensorflow2_in_30_days", "new_stars": 38, "stars": 5731, "owner": "lyhue1991", "forks": 1529},
+{"description": "Depth-Aware Video Frame Interpolation (CVPR 2019)", "language": "Python", "repo": "DAIN", "new_stars": 202, "stars": 4419, "owner": "baowenbo", "forks": 488},
+{"description": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai", "language": "Python", "repo": "EasyOCR", "new_stars": 28, "stars": 7693, "owner": "JaidedAI", "forks": 698},
+{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 245, "stars": 85581, "owner": "TheAlgorithms", "forks": 25052},
 {"description": "PyTorch implementations of Generative Adversarial Networks.", "language": "Python", "repo": "PyTorch-GAN", "new_stars": 28, "stars": 7318, "owner": "eriklindernoren", "forks": 2124},
-{"description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more", "language": "Python", "repo": "pandas", "new_stars": 20, "stars": 26544, "owner": "pandas-dev", "forks": 10901},
+{"description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more", "language": "Python", "repo": "pandas", "new_stars": 20, "stars": 26544, "owner": "pandas-dev", "forks": 10902},
 {"description": "My implementation of various GAN (generative adversarial networks) architectures like vanilla GAN, cGAN, DCGAN, etc.", "language": "Python", "repo": "pytorch-gans", "new_stars": 53, "stars": 209, "owner": "gordicaleksa", "forks": 14},
 {"description": "Collection of PoC and offensive techniques used by the BlackArrow Red Team", "language": "Python", "repo": "redteam-research", "new_stars": 35, "stars": 184, "owner": "blackarrowsec", "forks": 68},
 {"description": "WhatsApp Parser Toolset v1.20", "language": "Python", "repo": "whapa", "new_stars": 11, "stars": 351, "owner": "B16f00t", "forks": 131},
@@ -22,6 +22,6 @@
 {"description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows", "language": "Python", "repo": "airflow", "new_stars": 20, "stars": 18246, "owner": "apache", "forks": 7077},
 {"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 16, "stars": 12602, "owner": "facebookresearch", "forks": 3004},
 {"description": "A simple, yet elegant HTTP library.", "language": "Python", "repo": "requests", "new_stars": 2, "stars": 43516, "owner": "psf", "forks": 7895},
-{"description": "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.", "language": "Python", "repo": "DeepSpeed", "new_stars": 52, "stars": 3245, "owner": "microsoft", "forks": 287},
+{"description": "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.", "language": "Python", "repo": "DeepSpeed", "new_stars": 52, "stars": 3246, "owner": "microsoft", "forks": 287},
 {"description": "An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.", "language": "Python", "repo": "ray", "new_stars": 18, "stars": 13077, "owner": "ray-project", "forks": 2023}
 ]

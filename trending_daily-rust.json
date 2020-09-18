@@ -1,5 +1,5 @@
 [
-{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 74, "stars": 15210, "owner": "libra", "forks": 2298},
+{"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 74, "stars": 15210, "owner": "libra", "forks": 2299},
 {"description": "A protobuf code generation framework for the Rust language developed at Dropbox.", "language": "Rust", "repo": "pb-jelly", "new_stars": 63, "stars": 452, "owner": "dropbox", "forks": 7},
 {"description": "High-performance, vendor-neutral observability pipelines.", "language": "Rust", "repo": "vector", "new_stars": 6, "stars": 5257, "owner": "timberio", "forks": 319},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 7, "stars": 3130, "owner": "seanmonstar", "forks": 413},
@@ -8,7 +8,7 @@
 {"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 6, "stars": 465, "owner": "DataDog", "forks": 21},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 4, "stars": 2925, "owner": "paritytech", "forks": 880},
 {"description": "A curated list of static analysis tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 20, "stars": 7754, "owner": "analysis-tools-dev", "forks": 896},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 4, "stars": 1414, "owner": "paritytech", "forks": 335},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 4, "stars": 1415, "owner": "paritytech", "forks": 335},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 5, "stars": 3038, "owner": "tree-sitter", "forks": 199},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 5, "stars": 5923, "owner": "benfred", "forks": 222},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 3, "stars": 1328, "owner": "ijl", "forks": 46},
@@ -22,6 +22,6 @@
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 9, "stars": 5890, "owner": "RustPython", "forks": 425},
 {"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 8, "stars": 3877, "owner": "XAMPPRocky", "forks": 227},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 12, "stars": 6490, "owner": "wasmerio", "forks": 250},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 5, "stars": 6394, "owner": "BurntSushi", "forks": 215},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 5, "stars": 6395, "owner": "BurntSushi", "forks": 215},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 3, "stars": 1318, "owner": "gfx-rs", "forks": 120}
 ]

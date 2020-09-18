@@ -1,6 +1,6 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 88, "stars": 15209, "owner": "libra", "forks": 2297},
-{"description": "A protobuf code generation framework for the Rust language developed at Dropbox.", "language": "Rust", "repo": "pb-jelly", "new_stars": 78, "stars": 439, "owner": "dropbox", "forks": 7},
+{"description": "A protobuf code generation framework for the Rust language developed at Dropbox.", "language": "Rust", "repo": "pb-jelly", "new_stars": 78, "stars": 440, "owner": "dropbox", "forks": 7},
 {"description": "High-performance, vendor-neutral observability pipelines.", "language": "Rust", "repo": "vector", "new_stars": 8, "stars": 5254, "owner": "timberio", "forks": 318},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 4, "stars": 3127, "owner": "seanmonstar", "forks": 412},
 {"description": "The fast, light, and robust client for Ethereum-like networks.", "language": "Rust", "repo": "openethereum", "new_stars": 5, "stars": 6196, "owner": "openethereum", "forks": 1549},
@@ -12,16 +12,16 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 14, "stars": 3036, "owner": "tree-sitter", "forks": 199},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 8, "stars": 5923, "owner": "benfred", "forks": 222},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 4, "stars": 1327, "owner": "ijl", "forks": 46},
-{"description": "An interactive cheatsheet tool for the command-line and application launchers", "language": "Rust", "repo": "navi", "new_stars": 5, "stars": 7817, "owner": "denisidoro", "forks": 341},
+{"description": "An interactive cheatsheet tool for the command-line and application launchers", "language": "Rust", "repo": "navi", "new_stars": 5, "stars": 7818, "owner": "denisidoro", "forks": 341},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 5, "stars": 3089, "owner": "graphql-rust", "forks": 269},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 12, "stars": 6584, "owner": "Rigellute", "forks": 223},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 8062, "owner": "tikv", "forks": 1241},
-{"description": "An idiomatic, lean, fast & safe pure Rust implementation of Git", "language": "Rust", "repo": "gitoxide", "new_stars": 26, "stars": 1541, "owner": "Byron", "forks": 20},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 8063, "owner": "tikv", "forks": 1241},
+{"description": "An idiomatic, lean, fast & safe pure Rust implementation of Git", "language": "Rust", "repo": "gitoxide", "new_stars": 26, "stars": 1543, "owner": "Byron", "forks": 20},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 7, "stars": 4378, "owner": "rust-analyzer", "forks": 429},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 6, "stars": 12743, "owner": "firecracker-microvm", "forks": 867},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 5, "stars": 5885, "owner": "RustPython", "forks": 425},
 {"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 4, "stars": 3874, "owner": "XAMPPRocky", "forks": 227},
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 16, "stars": 6487, "owner": "wasmerio", "forks": 250},
-{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 2, "stars": 6391, "owner": "BurntSushi", "forks": 215},
-{"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 1, "stars": 1316, "owner": "gfx-rs", "forks": 120}
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 16, "stars": 6488, "owner": "wasmerio", "forks": 250},
+{"description": "A fast CSV command line toolkit written in Rust.", "language": "Rust", "repo": "xsv", "new_stars": 2, "stars": 6392, "owner": "BurntSushi", "forks": 215},
+{"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 1, "stars": 1317, "owner": "gfx-rs", "forks": 120}
 ]

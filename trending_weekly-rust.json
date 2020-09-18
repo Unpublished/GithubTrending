@@ -1,8 +1,8 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 424, "stars": 15210, "owner": "libra", "forks": 2300},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 436, "stars": 251664, "owner": "996icu", "forks": 21102},
-{"description": "An idiomatic, lean, fast & safe pure Rust implementation of Git", "language": "Rust", "repo": "gitoxide", "new_stars": 295, "stars": 1555, "owner": "Byron", "forks": 20},
-{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 100, "stars": 468, "owner": "DataDog", "forks": 21},
+{"description": "An idiomatic, lean, fast & safe pure Rust implementation of Git", "language": "Rust", "repo": "gitoxide", "new_stars": 296, "stars": 1556, "owner": "Byron", "forks": 20},
+{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 97, "stars": 469, "owner": "DataDog", "forks": 21},
 {"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 123, "stars": 9307, "owner": "actix", "forks": 1093},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 196, "stars": 48300, "owner": "rust-lang", "forks": 7129},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 40, "stars": 2610, "owner": "launchbadge", "forks": 180},
@@ -10,7 +10,7 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 20, "stars": 2925, "owner": "paritytech", "forks": 880},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 74, "stars": 11480, "owner": "SergioBenitez", "forks": 751},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 45, "stars": 4101, "owner": "Spotifyd", "forks": 211},
-{"description": "The Modern Day Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 127, "stars": 2330, "owner": "RustScan", "forks": 179},
+{"description": "The Modern Day Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 124, "stars": 2330, "owner": "RustScan", "forks": 179},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 79, "stars": 6490, "owner": "wasmerio", "forks": 250},
 {"description": "Actor framework for Rust.", "language": "Rust", "repo": "actix", "new_stars": 38, "stars": 5578, "owner": "actix", "forks": 503},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 44, "stars": 6774, "owner": "hyperium", "forks": 889},
@@ -20,8 +20,8 @@
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 22, "stars": 3130, "owner": "seanmonstar", "forks": 413},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 43, "stars": 3039, "owner": "tree-sitter", "forks": 199},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 21, "stars": 2626, "owner": "chyyuu", "forks": 1666},
-{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 36, "stars": 3094, "owner": "graphql-rust", "forks": 269},
+{"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 35, "stars": 3094, "owner": "graphql-rust", "forks": 269},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 46, "stars": 2480, "owner": "rust-embedded", "forks": 156},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 55, "stars": 9270, "owner": "tokio-rs", "forks": 857},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 87, "stars": 13292, "owner": "yewstack", "forks": 606}
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 55, "stars": 9271, "owner": "tokio-rs", "forks": 857},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 88, "stars": 13293, "owner": "yewstack", "forks": 606}
 ]

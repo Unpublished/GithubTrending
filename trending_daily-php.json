@@ -3,13 +3,13 @@
 {"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 2, "stars": 1932, "owner": "pterodactyl", "forks": 449},
 {"description": "WordPress starter theme with a modern development workflow", "language": "PHP", "repo": "sage", "new_stars": 1, "stars": 10834, "owner": "roots", "forks": 2903},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 8, "stars": 8994, "owner": "Maatwebsite", "forks": 1457},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 13, "stars": 26872, "owner": "danielmiessler", "forks": 13138},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 13, "stars": 26872, "owner": "danielmiessler", "forks": 13139},
 {"description": "The RSS feed for websites missing it", "language": "PHP", "repo": "rss-bridge", "new_stars": 1, "stars": 2764, "owner": "RSS-Bridge", "forks": 495},
 {"description": "A spec compliant, secure by default PHP OAuth 2.0 Server", "language": "PHP", "repo": "oauth2-server", "new_stars": 2, "stars": 5620, "owner": "thephpleague", "forks": 956},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 8, "stars": 23906, "owner": "symfony", "forks": 7795},
 {"description": "A skeleton repository for Spatie's Laravel Packages", "language": "PHP", "repo": "package-skeleton-laravel", "new_stars": 1, "stars": 418, "owner": "spatie", "forks": 131},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 8, "stars": 11746, "owner": "nextcloud", "forks": 2147},
-{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 3, "stars": 3210, "owner": "mailcow", "forks": 572},
+{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 3, "stars": 3211, "owner": "mailcow", "forks": 572},
 {"description": "PHP library for printing to ESC/POS-compatible thermal and impact printers", "language": "PHP", "repo": "escpos-php", "new_stars": 2, "stars": 1529, "owner": "mike42", "forks": 616},
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 3, "stars": 3241, "owner": "moodle", "forks": 4586},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 7962, "owner": "squizlabs", "forks": 1270},
@@ -22,6 +22,6 @@
 {"description": "Invoices, Expenses and Tasks built with Laravel and Flutter", "language": "PHP", "repo": "invoiceninja", "new_stars": 2, "stars": 5345, "owner": "invoiceninja", "forks": 1666},
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 0, "stars": 5577, "owner": "doctrine", "forks": 194},
 {"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 1, "stars": 11331, "owner": "PHPOffice", "forks": 3983},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 5, "stars": 10725, "owner": "vlucas", "forks": 507},
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 5, "stars": 10726, "owner": "vlucas", "forks": 507},
 {"description": "A full-featured Laravel package for aiding in Shopify App development", "language": "PHP", "repo": "laravel-shopify", "new_stars": 4, "stars": 483, "owner": "osiset", "forks": 151}
 ]

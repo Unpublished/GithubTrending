@@ -1,5 +1,5 @@
 [
-{"description": "GitHub\u2019s official command line tool", "language": "Go", "repo": "cli", "new_stars": 527, "stars": 15860, "owner": "cli", "forks": 1034},
+{"description": "GitHub\u2019s official command line tool", "language": "Go", "repo": "cli", "new_stars": 527, "stars": 15862, "owner": "cli", "forks": 1034},
 {"description": "A minimalist knowledge base manager", "language": "Python", "repo": "kb", "new_stars": 257, "stars": 1341, "owner": "gnebbia", "forks": 30},
 {"description": "Easily and securely send things from one computer to another", "language": "Go", "repo": "croc", "new_stars": 387, "stars": 8102, "owner": "schollz", "forks": 296},
 {"description": "A lightweight, pure-Swift library for downloading and caching images from the web.", "language": "Swift", "repo": "Kingfisher", "new_stars": 64, "stars": 17063, "owner": "onevcat", "forks": 1903},
@@ -10,18 +10,18 @@
 {"description": "Bypass Paywalls web browser extension for Chrome and Firefox.", "language": "JavaScript", "repo": "bypass-paywalls-chrome", "new_stars": 157, "stars": 8925, "owner": "iamadamdev", "forks": 619},
 {"description": "Repo for Vue 3.0", "language": "TypeScript", "repo": "vue-next", "new_stars": 278, "stars": 17202, "owner": "vuejs", "forks": 2845},
 {"description": "A self-hosted Fuzzing-As-A-Service platform", "language": "Rust", "repo": "onefuzz", "new_stars": 146, "stars": 1559, "owner": "microsoft", "forks": 76},
-{"description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.", "language": "Python", "repo": "twint", "new_stars": 147, "stars": 6965, "owner": "twintproject", "forks": 975},
-{"description": "Tensorflow2.0", "language": "Python", "repo": "eat_tensorflow2_in_30_days", "new_stars": 121, "stars": 6634, "owner": "lyhue1991", "forks": 1627},
-{"description": "Silero Models: pre-trained STT models and benchmarks made embarrassingly simple", "language": "Jupyter Notebook", "repo": "silero-models", "new_stars": 36, "stars": 203, "owner": "snakers4", "forks": 12},
+{"description": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.", "language": "Python", "repo": "twint", "new_stars": 147, "stars": 6966, "owner": "twintproject", "forks": 975},
+{"description": "Tensorflow2.0", "language": "Python", "repo": "eat_tensorflow2_in_30_days", "new_stars": 121, "stars": 6635, "owner": "lyhue1991", "forks": 1627},
+{"description": "Silero Models: pre-trained STT models and benchmarks made embarrassingly simple", "language": "Jupyter Notebook", "repo": "silero-models", "new_stars": 36, "stars": 204, "owner": "snakers4", "forks": 12},
 {"description": "An extension for VS Code that visualizes data during debugging.", "language": "TypeScript", "repo": "vscode-debug-visualizer", "new_stars": 105, "stars": 5799, "owner": "hediet", "forks": 253},
-{"description": "Hooks for fetching, caching and updating asynchronous data in React", "language": "TypeScript", "repo": "react-query", "new_stars": 179, "stars": 12578, "owner": "tannerlinsley", "forks": 486},
+{"description": "Hooks for fetching, caching and updating asynchronous data in React", "language": "TypeScript", "repo": "react-query", "new_stars": 179, "stars": 12579, "owner": "tannerlinsley", "forks": 486},
 {"description": "V2ray , Trojan, Trojan-go, NaiveProxy, shadowsocksR install tools for windows V2ray\uff0cTrojan\uff0cTrojan-go, NaiveProxy, shadowsocksR\u7684\u4e00\u952e\u5b89\u88c5\u5de5\u5177windows\u4e0b\u7528\uff08\u4e00\u952e\u79d1\u5b66\u4e0a\u7f51\uff09", "language": "C#", "repo": "windows", "new_stars": 69, "stars": 474, "owner": "proxysu", "forks": 145},
-{"description": "Simple, private file sharing from the makers of Firefox", "language": "JavaScript", "repo": "send", "new_stars": 428, "stars": 11354, "owner": "mozilla", "forks": 1069},
-{"description": "Linux\u547d\u4ee4\u5927\u5168\u641c\u7d22\u5de5\u5177\uff0c\u5185\u5bb9\u5305\u542bLinux\u547d\u4ee4\u624b\u518c\u3001\u8be6\u89e3\u3001\u5b66\u4e60\u3001\u641c\u96c6\u3002", "language": "HTML", "repo": "linux-command", "new_stars": 131, "stars": 13886, "owner": "jaywcjlove", "forks": 3228},
+{"description": "Simple, private file sharing from the makers of Firefox", "language": "JavaScript", "repo": "send", "new_stars": 428, "stars": 11357, "owner": "mozilla", "forks": 1069},
+{"description": "Linux\u547d\u4ee4\u5927\u5168\u641c\u7d22\u5de5\u5177\uff0c\u5185\u5bb9\u5305\u542bLinux\u547d\u4ee4\u624b\u518c\u3001\u8be6\u89e3\u3001\u5b66\u4e60\u3001\u641c\u96c6\u3002", "language": "HTML", "repo": "linux-command", "new_stars": 131, "stars": 13887, "owner": "jaywcjlove", "forks": 3228},
 {"description": "A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.", "language": "JavaScript", "repo": "material-shell", "new_stars": 199, "stars": 3586, "owner": "material-shell", "forks": 101},
 {"description": "Day.js 2KB immutable date library alternative to Moment.js with the same modern API", "language": "JavaScript", "repo": "dayjs", "new_stars": 215, "stars": 30245, "owner": "iamkun", "forks": 1442},
 {"description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF", "language": "Python", "repo": "PayloadsAllTheThings", "new_stars": 184, "stars": 17142, "owner": "swisskyrepo", "forks": 5341},
 {"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 54, "stars": 3801, "owner": "TheCherno", "forks": 569},
 {"description": "Elegant transition library for iOS & tvOS", "language": "Swift", "repo": "Hero", "new_stars": 46, "stars": 19188, "owner": "HeroTransitions", "forks": 1545},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 94, "stars": 42268, "owner": "pytorch", "forks": 11061}
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 94, "stars": 42268, "owner": "pytorch", "forks": 11062}
 ]

@@ -3,10 +3,10 @@
 {"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 2, "stars": 1933, "owner": "pterodactyl", "forks": 449},
 {"description": "WordPress starter theme with a modern development workflow", "language": "PHP", "repo": "sage", "new_stars": 0, "stars": 10835, "owner": "roots", "forks": 2905},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 10, "stars": 8999, "owner": "Maatwebsite", "forks": 1458},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 14, "stars": 26882, "owner": "danielmiessler", "forks": 13146},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 14, "stars": 26886, "owner": "danielmiessler", "forks": 13146},
 {"description": "The RSS feed for websites missing it", "language": "PHP", "repo": "rss-bridge", "new_stars": 3, "stars": 2766, "owner": "RSS-Bridge", "forks": 495},
 {"description": "A spec compliant, secure by default PHP OAuth 2.0 Server", "language": "PHP", "repo": "oauth2-server", "new_stars": 4, "stars": 5621, "owner": "thephpleague", "forks": 957},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 4, "stars": 23906, "owner": "symfony", "forks": 7795},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 5, "stars": 23906, "owner": "symfony", "forks": 7795},
 {"description": "A skeleton repository for Spatie's Laravel Packages", "language": "PHP", "repo": "package-skeleton-laravel", "new_stars": 1, "stars": 419, "owner": "spatie", "forks": 131},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 3, "stars": 11750, "owner": "nextcloud", "forks": 2147},
 {"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 3, "stars": 3212, "owner": "mailcow", "forks": 572},
@@ -23,5 +23,5 @@
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 1, "stars": 5577, "owner": "doctrine", "forks": 194},
 {"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 2, "stars": 11332, "owner": "PHPOffice", "forks": 3983},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 4, "stars": 10727, "owner": "vlucas", "forks": 507},
-{"description": "A full-featured Laravel package for aiding in Shopify App development", "language": "PHP", "repo": "laravel-shopify", "new_stars": 4, "stars": 483, "owner": "osiset", "forks": 151}
+{"description": "A full-featured Laravel package for aiding in Shopify App development", "language": "PHP", "repo": "laravel-shopify", "new_stars": 4, "stars": 484, "owner": "osiset", "forks": 151}
 ]

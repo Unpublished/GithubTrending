@@ -1,6 +1,6 @@
 [
-{"description": null, "language": "PHP", "repo": "fortify", "new_stars": 7, "stars": 532, "owner": "laravel", "forks": 56},
-{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 4, "stars": 1936, "owner": "pterodactyl", "forks": 452},
+{"description": null, "language": "PHP", "repo": "fortify", "new_stars": 7, "stars": 532, "owner": "laravel", "forks": 55},
+{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 4, "stars": 1937, "owner": "pterodactyl", "forks": 452},
 {"description": "WordPress starter theme with a modern development workflow", "language": "PHP", "repo": "sage", "new_stars": 3, "stars": 10837, "owner": "roots", "forks": 2905},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 7, "stars": 9006, "owner": "Maatwebsite", "forks": 1457},
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 20, "stars": 26901, "owner": "danielmiessler", "forks": 13161},
@@ -13,7 +13,7 @@
 {"description": "PHP library for printing to ESC/POS-compatible thermal and impact printers", "language": "PHP", "repo": "escpos-php", "new_stars": 2, "stars": 1532, "owner": "mike42", "forks": 616},
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 1, "stars": 3243, "owner": "moodle", "forks": 4592},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 7972, "owner": "squizlabs", "forks": 1270},
-{"description": "Yii 2: The Fast, Secure and Professional PHP Framework", "language": "PHP", "repo": "yii2", "new_stars": 7, "stars": 13519, "owner": "yiisoft", "forks": 6951},
+{"description": "Yii 2: The Fast, Secure and Professional PHP Framework", "language": "PHP", "repo": "yii2", "new_stars": 7, "stars": 13519, "owner": "yiisoft", "forks": 6950},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 11, "stars": 19921, "owner": "guzzle", "forks": 2126},
 {"description": "JSON Web Token Authentication for Laravel & Lumen", "language": "PHP", "repo": "jwt-auth", "new_stars": 9, "stars": 9468, "owner": "tymondesigns", "forks": 1185},
 {"description": "A beautiful, fully open-source, tunneling service - written in pure PHP", "language": "PHP", "repo": "expose", "new_stars": 6, "stars": 2789, "owner": "beyondcode", "forks": 127},
@@ -21,7 +21,7 @@
 {"description": "Enable AMP on your WordPress site, the WordPress way.", "language": "PHP", "repo": "amp-wp", "new_stars": 0, "stars": 1582, "owner": "ampproject", "forks": 370},
 {"description": "Invoices, Expenses and Tasks built with Laravel and Flutter", "language": "PHP", "repo": "invoiceninja", "new_stars": 2, "stars": 5348, "owner": "invoiceninja", "forks": 1667},
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 2, "stars": 5579, "owner": "doctrine", "forks": 194},
-{"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 1, "stars": 11333, "owner": "PHPOffice", "forks": 3983},
+{"description": "ARCHIVED", "language": "PHP", "repo": "PHPExcel", "new_stars": 0, "stars": 11333, "owner": "PHPOffice", "forks": 3983},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 3, "stars": 10729, "owner": "vlucas", "forks": 508},
 {"description": "A full-featured Laravel package for aiding in Shopify App development", "language": "PHP", "repo": "laravel-shopify", "new_stars": 1, "stars": 484, "owner": "osiset", "forks": 151}
 ]

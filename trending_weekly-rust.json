@@ -9,10 +9,10 @@
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 30, "stars": 2503, "owner": "rust-embedded", "forks": 157},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 70, "stars": 11524, "owner": "SergioBenitez", "forks": 755},
 {"description": "Actor framework for Rust.", "language": "Rust", "repo": "actix", "new_stars": 40, "stars": 5604, "owner": "actix", "forks": 505},
-{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 22, "stars": 4116, "owner": "Spotifyd", "forks": 213},
+{"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 23, "stars": 4117, "owner": "Spotifyd", "forks": 213},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 49, "stars": 6804, "owner": "hyperium", "forks": 892},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 37, "stars": 6511, "owner": "wasmerio", "forks": 253},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 102, "stars": 17061, "owner": "rust-unofficial", "forks": 1143},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 102, "stars": 17061, "owner": "rust-unofficial", "forks": 1142},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 146, "stars": 25364, "owner": "alacritty", "forks": 1299},
 {"description": "The Rust UI-Toolkit.", "language": "Rust", "repo": "orbtk", "new_stars": 34, "stars": 2648, "owner": "redox-os", "forks": 150},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 41, "stars": 3072, "owner": "tree-sitter", "forks": 202},
@@ -21,7 +21,7 @@
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 36, "stars": 1443, "owner": "paritytech", "forks": 339},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 31, "stars": 6007, "owner": "rust-lang", "forks": 1238},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 79, "stars": 13350, "owner": "yewstack", "forks": 608},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 172, "stars": 48417, "owner": "rust-lang", "forks": 7146},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 173, "stars": 48418, "owner": "rust-lang", "forks": 7146},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 27, "stars": 3550, "owner": "rustwasm", "forks": 479},
 {"description": "A curated list of static analysis tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 61, "stars": 7791, "owner": "analysis-tools-dev", "forks": 896}
 ]

@@ -1,12 +1,12 @@
 [
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 58, "stars": 4167, "owner": "Spotifyd", "forks": 217},
 {"description": "A self-hosted Fuzzing-As-A-Service platform", "language": "Rust", "repo": "onefuzz", "new_stars": 521, "stars": 2065, "owner": "microsoft", "forks": 89},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 94, "stars": 17119, "owner": "rust-unofficial", "forks": 1145},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 96, "stars": 17121, "owner": "rust-unofficial", "forks": 1145},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 86, "stars": 15063, "owner": "sharkdp", "forks": 385},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 43, "stars": 2399, "owner": "linebender", "forks": 191},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 36, "stars": 4613, "owner": "Peltoche", "forks": 162},
 {"description": "Examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 16, "stars": 1413, "owner": "actix", "forks": 443},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 52, "stars": 5953, "owner": "RustPython", "forks": 431},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 53, "stars": 5954, "owner": "RustPython", "forks": 431},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 32, "stars": 8116, "owner": "tikv", "forks": 1258},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 23, "stars": 2600, "owner": "hyperium", "forks": 213},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 26, "stars": 2962, "owner": "paritytech", "forks": 895},
@@ -20,8 +20,8 @@
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 37, "stars": 3308, "owner": "seanmonstar", "forks": 325},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 18, "stars": 4198, "owner": "getzola", "forks": 367},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 20, "stars": 2522, "owner": "async-rs", "forks": 240},
-{"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 15, "stars": 1426, "owner": "rust-windowing", "forks": 370},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 29, "stars": 4862, "owner": "clap-rs", "forks": 472},
+{"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 16, "stars": 1427, "owner": "rust-windowing", "forks": 370},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 29, "stars": 4862, "owner": "clap-rs", "forks": 473},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 137, "stars": 22878, "owner": "sharkdp", "forks": 501},
 {"description": "Core libraries of WeDPR instant scenario-focused solutions for privacy-inspired business; WeDPR\u5373\u65f6\u53ef\u7528\u573a\u666f\u5f0f\u9690\u79c1\u4fdd\u62a4\u9ad8\u6548\u89e3\u51b3\u65b9\u6848\u6838\u5fc3\u7b97\u6cd5\u7ec4\u4ef6", "language": "Rust", "repo": "WeDPR-Lab-Core", "new_stars": 13, "stars": 42, "owner": "WeBankBlockchain", "forks": 12}
 ]

@@ -2,17 +2,17 @@
 {"description": "Explorations in reactive UI patterns", "language": "Rust", "repo": "crochet", "new_stars": 84, "stars": 228, "owner": "raphlinus", "forks": 11},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 5, "stars": 15251, "owner": "libra", "forks": 2306},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 8, "stars": 3001, "owner": "ruffle-rs", "forks": 93},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 48526, "owner": "rust-lang", "forks": 7162},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 48527, "owner": "rust-lang", "forks": 7162},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 2, "stars": 1671, "owner": "cloudflare", "forks": 201},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 5989, "owner": "diesel-rs", "forks": 563},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 13, "stars": 5958, "owner": "RustPython", "forks": 432},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 25, "stars": 2428, "owner": "linebender", "forks": 191},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 25, "stars": 2429, "owner": "linebender", "forks": 191},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 2, "stars": 1346, "owner": "gfx-rs", "forks": 124},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 3, "stars": 4131, "owner": "LemmyNet", "forks": 271},
 {"description": "Examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 1, "stars": 1413, "owner": "actix", "forks": 443},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 4, "stars": 6157, "owner": "amethyst", "forks": 683},
 {"description": "Proofs for Filecoin in Rust", "language": "Rust", "repo": "rust-fil-proofs", "new_stars": 0, "stars": 236, "owner": "filecoin-project", "forks": 121},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 3, "stars": 4631, "owner": "Peltoche", "forks": 162},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 3, "stars": 4633, "owner": "Peltoche", "forks": 162},
 {"description": "Reference client for NEAR Protocol", "language": "Rust", "repo": "nearcore", "new_stars": 0, "stars": 711, "owner": "nearprotocol", "forks": 100},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 2, "stars": 2602, "owner": "hyperium", "forks": 213},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 10, "stars": 9361, "owner": "tokio-rs", "forks": 864},
@@ -23,5 +23,5 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 3, "stars": 2656, "owner": "launchbadge", "forks": 189},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 6, "stars": 3815, "owner": "bytecodealliance", "forks": 338},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 1, "stars": 2152, "owner": "blockstack", "forks": 388},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 2, "stars": 4198, "owner": "getzola", "forks": 367}
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 2, "stars": 4199, "owner": "getzola", "forks": 367}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 851, "stars": 61710, "owner": "laravel", "forks": 19452},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 190, "stars": 23952, "owner": "symfony", "forks": 7805},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 190, "stars": 23953, "owner": "symfony", "forks": 7805},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 313, "stars": 22178, "owner": "laravel", "forks": 7584},
 {"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 104, "stars": 8002, "owner": "deployphp", "forks": 1150},
 {"description": "Docker-based development-only dependency manager. macOS-only and installs via PHP's Composer... for now.", "language": "PHP", "repo": "takeout", "new_stars": 441, "stars": 737, "owner": "tighten", "forks": 37},
@@ -12,10 +12,10 @@
 {"description": null, "language": "PHP", "repo": "ui", "new_stars": 72, "stars": 836, "owner": "laravel", "forks": 171},
 {"description": null, "language": "PHP", "repo": "socialite", "new_stars": 67, "stars": 4615, "owner": "laravel", "forks": 861},
 {"description": null, "language": "PHP", "repo": "sanctum", "new_stars": 102, "stars": 1765, "owner": "laravel", "forks": 126},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 539, "stars": 26981, "owner": "danielmiessler", "forks": 13246},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 539, "stars": 26980, "owner": "danielmiessler", "forks": 13246},
 {"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 92, "stars": 3332, "owner": "beyondcode", "forks": 303},
 {"description": null, "language": "PHP", "repo": "php-reverse-shell", "new_stars": 45, "stars": 425, "owner": "pentestmonkey", "forks": 491},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 149, "stars": 14339, "owner": "WordPress", "forks": 8867},
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 149, "stars": 14339, "owner": "WordPress", "forks": 8866},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 206, "stars": 23873, "owner": "composer", "forks": 5914},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 167, "stars": 19950, "owner": "guzzle", "forks": 2126},
 {"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 115, "stars": 3237, "owner": "mailcow", "forks": 576},
@@ -23,5 +23,5 @@
 {"description": "SuiteCRM - Open source CRM for the world", "language": "PHP", "repo": "SuiteCRM", "new_stars": 50, "stars": 2255, "owner": "salesagility", "forks": 1347},
 {"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 87, "stars": 7313, "owner": "dompdf", "forks": 1397},
 {"description": "Goutte, a simple PHP Web Scraper", "language": "PHP", "repo": "Goutte", "new_stars": 83, "stars": 8105, "owner": "FriendsOfPHP", "forks": 944},
-{"description": "JSON Web Token Authentication for Laravel & Lumen", "language": "PHP", "repo": "jwt-auth", "new_stars": 122, "stars": 9489, "owner": "tymondesigns", "forks": 1186}
+{"description": "JSON Web Token Authentication for Laravel & Lumen", "language": "PHP", "repo": "jwt-auth", "new_stars": 123, "stars": 9490, "owner": "tymondesigns", "forks": 1186}
 ]

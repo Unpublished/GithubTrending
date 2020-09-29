@@ -1,10 +1,10 @@
 [
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 60, "stars": 4167, "owner": "Spotifyd", "forks": 218},
-{"description": "A self-hosted Fuzzing-As-A-Service platform", "language": "Rust", "repo": "onefuzz", "new_stars": 586, "stars": 2059, "owner": "microsoft", "forks": 89},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 97, "stars": 17114, "owner": "rust-unofficial", "forks": 1144},
+{"description": "A self-hosted Fuzzing-As-A-Service platform", "language": "Rust", "repo": "onefuzz", "new_stars": 587, "stars": 2060, "owner": "microsoft", "forks": 89},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 97, "stars": 17114, "owner": "rust-unofficial", "forks": 1145},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 94, "stars": 15063, "owner": "sharkdp", "forks": 385},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 29, "stars": 3169, "owner": "seanmonstar", "forks": 417},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 177, "stars": 48510, "owner": "rust-lang", "forks": 7161},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 178, "stars": 48511, "owner": "rust-lang", "forks": 7161},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 41, "stars": 2396, "owner": "linebender", "forks": 191},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 27, "stars": 6816, "owner": "hyperium", "forks": 891},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 58, "stars": 9216, "owner": "swc-project", "forks": 203},
@@ -22,6 +22,6 @@
 {"description": "Terminal bandwidth utilization tool", "language": "Rust", "repo": "bandwhich", "new_stars": 38, "stars": 5822, "owner": "imsnif", "forks": 157},
 {"description": "Rust Ethereum 2.0 Client", "language": "Rust", "repo": "lighthouse", "new_stars": 14, "stars": 641, "owner": "sigp", "forks": 165},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 18, "stars": 4197, "owner": "getzola", "forks": 367},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 26, "stars": 2960, "owner": "paritytech", "forks": 896},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 27, "stars": 2961, "owner": "paritytech", "forks": 896},
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 28, "stars": 4301, "owner": "rayon-rs", "forks": 243}
 ]

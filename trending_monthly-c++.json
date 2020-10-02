@@ -1,20 +1,20 @@
 [
 {"description": "Sogou framework for C++ back-end development", "language": "C++", "repo": "workflow", "new_stars": 1414, "stars": 1993, "owner": "sogou", "forks": 406},
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 1099, "stars": 18036, "owner": "google", "forks": 6613},
-{"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at", "language": "C++", "repo": "FreeCAD", "new_stars": 1705, "stars": 7698, "owner": "FreeCAD", "forks": 1951},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 1100, "stars": 18037, "owner": "google", "forks": 6613},
+{"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at", "language": "C++", "repo": "FreeCAD", "new_stars": 1705, "stars": 7698, "owner": "FreeCAD", "forks": 1952},
 {"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 388, "stars": 6517, "owner": "flameshot-org", "forks": 460},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 504, "stars": 3307, "owner": "microsoft", "forks": 753},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 226, "stars": 17099, "owner": "ApolloAuto", "forks": 6461},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 302, "stars": 2957, "owner": "Aircoookie", "forks": 494},
 {"description": "Awesome OCR toolkits based on PaddlePaddle \uff083.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices\uff09", "language": "C++", "repo": "PaddleOCR", "new_stars": 1171, "stars": 4089, "owner": "PaddlePaddle", "forks": 749},
-{"description": "Implementation of popular deep learning networks with TensorRT network definition APIs", "language": "C++", "repo": "tensorrtx", "new_stars": 172, "stars": 947, "owner": "wang-xinyu", "forks": 226},
+{"description": "Implementation of popular deep learning networks with TensorRT network definition APIs", "language": "C++", "repo": "tensorrtx", "new_stars": 173, "stars": 948, "owner": "wang-xinyu", "forks": 227},
 {"description": "Modern C++ Parallel Task Programming", "language": "C++", "repo": "taskflow", "new_stars": 197, "stars": 4052, "owner": "taskflow", "forks": 486},
 {"description": "C++ Library Manager for Windows, Linux, and MacOS", "language": "C++", "repo": "vcpkg", "new_stars": 361, "stars": 10475, "owner": "microsoft", "forks": 2845},
-{"description": "Windows Package Manager CLI (aka winget)", "language": "C++", "repo": "winget-cli", "new_stars": 730, "stars": 8902, "owner": "microsoft", "forks": 295},
+{"description": "Windows Package Manager CLI (aka winget)", "language": "C++", "repo": "winget-cli", "new_stars": 731, "stars": 8903, "owner": "microsoft", "forks": 295},
 {"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 520, "stars": 12323, "owner": "ClickHouse", "forks": 2436},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1481, "stars": 42849, "owner": "pytorch", "forks": 11144},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 1482, "stars": 42849, "owner": "pytorch", "forks": 11144},
 {"description": "A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.", "language": "C++", "repo": "OpenCat", "new_stars": 126, "stars": 1214, "owner": "PetoiCamp", "forks": 338},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1184, "stars": 148908, "owner": "tensorflow", "forks": 82817},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1186, "stars": 148910, "owner": "tensorflow", "forks": 82817},
 {"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 713, "stars": 7344, "owner": "Light-City", "forks": 1659},
 {"description": "an efficient feature complete C++ bittorrent implementation", "language": "C++", "repo": "libtorrent", "new_stars": 133, "stars": 2772, "owner": "arvidn", "forks": 636},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 601, "stars": 45299, "owner": "bitcoin", "forks": 26392},
@@ -23,5 +23,5 @@
 {"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 532, "stars": 4082, "owner": "TheCherno", "forks": 590},
 {"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 299, "stars": 10967, "owner": "Tencent", "forks": 1208},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 693, "stars": 53697, "owner": "apple", "forks": 8602},
-{"description": "Linux / Windows / macOS \u8de8\u5e73\u53f0 V2Ray \u5ba2\u6237\u7aef | \u652f\u6301 SSR / Trojan / Trojan-Go / NaiveProxy | \u4f7f\u7528 C++ / Qt5 \u5f00\u53d1 | \u53ef\u62d3\u5c55\u63d2\u4ef6\u5f0f\u8bbe\u8ba1", "language": "C++", "repo": "Qv2ray", "new_stars": 654, "stars": 5990, "owner": "Qv2ray", "forks": 952}
+{"description": "Linux / Windows / macOS \u8de8\u5e73\u53f0 V2Ray \u5ba2\u6237\u7aef | \u652f\u6301 SSR / Trojan / Trojan-Go / NaiveProxy | \u4f7f\u7528 C++ / Qt5 \u5f00\u53d1 | \u53ef\u62d3\u5c55\u63d2\u4ef6\u5f0f\u8bbe\u8ba1", "language": "C++", "repo": "Qv2ray", "new_stars": 655, "stars": 5991, "owner": "Qv2ray", "forks": 952}
 ]

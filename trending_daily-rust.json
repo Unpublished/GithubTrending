@@ -1,8 +1,8 @@
 [
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 3129, "owner": "graphql-rust", "forks": 274},
 {"description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 20, "stars": 349, "owner": "aws-cloudformation", "forks": 40},
-{"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 55, "stars": 309, "owner": "casperstorm", "forks": 16},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 39, "stars": 48610, "owner": "rust-lang", "forks": 7173},
+{"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 56, "stars": 310, "owner": "casperstorm", "forks": 16},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 40, "stars": 48611, "owner": "rust-lang", "forks": 7173},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 35, "stars": 10375, "owner": "starship", "forks": 466},
 {"description": "Port of blueprintjs.com to yew", "language": "Rust", "repo": "yewprint", "new_stars": 8, "stars": 85, "owner": "cecton", "forks": 8},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 11, "stars": 1084, "owner": "serenity-rs", "forks": 207},
@@ -11,17 +11,17 @@
 {"description": "High-performance, vendor-neutral observability pipelines.", "language": "Rust", "repo": "vector", "new_stars": 14, "stars": 5344, "owner": "timberio", "forks": 328},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 11, "stars": 2554, "owner": "rust-embedded", "forks": 160},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 26, "stars": 1454, "owner": "TheAlgorithms", "forks": 237},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 17, "stars": 4230, "owner": "getzola", "forks": 367},
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 18, "stars": 4231, "owner": "getzola", "forks": 367},
 {"description": "A blazingly fast static web server in a single binary you can set up with zero code.", "language": "Rust", "repo": "binserve", "new_stars": 33, "stars": 102, "owner": "mufeedvh", "forks": 4},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 8, "stars": 1262, "owner": "deislabs", "forks": 82},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 26, "stars": 21816, "owner": "BurntSushi", "forks": 959},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 6169, "owner": "amethyst", "forks": 687},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 2, "stars": 8682, "owner": "nushell", "forks": 433},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 2, "stars": 8682, "owner": "nushell", "forks": 434},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 9, "stars": 4182, "owner": "Spotifyd", "forks": 219},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 4, "stars": 3680, "owner": "rust-lang", "forks": 538},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 19, "stars": 17168, "owner": "rust-unofficial", "forks": 1156},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 4, "stars": 3571, "owner": "rustwasm", "forks": 480},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 2, "stars": 15255, "owner": "libra", "forks": 2308},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 0, "stars": 950, "owner": "solana-labs", "forks": 215},
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 6, "stars": 6554, "owner": "wasmerio", "forks": 256}
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 7, "stars": 6555, "owner": "wasmerio", "forks": 256}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 3129, "owner": "graphql-rust", "forks": 274},
-{"description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 21, "stars": 350, "owner": "aws-cloudformation", "forks": 40},
+{"description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 22, "stars": 351, "owner": "aws-cloudformation", "forks": 40},
 {"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 57, "stars": 311, "owner": "casperstorm", "forks": 16},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 43, "stars": 48614, "owner": "rust-lang", "forks": 7173},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 35, "stars": 10375, "owner": "starship", "forks": 466},
@@ -12,7 +12,7 @@
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 11, "stars": 2554, "owner": "rust-embedded", "forks": 160},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 30, "stars": 1458, "owner": "TheAlgorithms", "forks": 238},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 18, "stars": 4231, "owner": "getzola", "forks": 367},
-{"description": "A blazingly fast static web server in a single binary you can set up with zero code.", "language": "Rust", "repo": "binserve", "new_stars": 38, "stars": 107, "owner": "mufeedvh", "forks": 4},
+{"description": "A blazingly fast static web server in a single binary you can set up with zero code.", "language": "Rust", "repo": "binserve", "new_stars": 38, "stars": 107, "owner": "mufeedvh", "forks": 5},
 {"description": "Kubernetes Rust Kubelet", "language": "Rust", "repo": "krustlet", "new_stars": 9, "stars": 1263, "owner": "deislabs", "forks": 82},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 27, "stars": 21816, "owner": "BurntSushi", "forks": 959},
 {"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 8, "stars": 6169, "owner": "amethyst", "forks": 687},
@@ -22,6 +22,6 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 21, "stars": 17170, "owner": "rust-unofficial", "forks": 1156},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 4, "stars": 3571, "owner": "rustwasm", "forks": 480},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 2, "stars": 15255, "owner": "libra", "forks": 2308},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 0, "stars": 950, "owner": "solana-labs", "forks": 215},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 1, "stars": 951, "owner": "solana-labs", "forks": 215},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 7, "stars": 6555, "owner": "wasmerio", "forks": 256}
 ]

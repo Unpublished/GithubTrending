@@ -2,8 +2,8 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 6, "stars": 3129, "owner": "graphql-rust", "forks": 274},
 {"description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 22, "stars": 351, "owner": "aws-cloudformation", "forks": 40},
 {"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 57, "stars": 311, "owner": "casperstorm", "forks": 17},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 48, "stars": 48618, "owner": "rust-lang", "forks": 7174},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 36, "stars": 10376, "owner": "starship", "forks": 466},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 49, "stars": 48619, "owner": "rust-lang", "forks": 7174},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 38, "stars": 10378, "owner": "starship", "forks": 466},
 {"description": "Port of blueprintjs.com to yew", "language": "Rust", "repo": "yewprint", "new_stars": 9, "stars": 86, "owner": "cecton", "forks": 8},
 {"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 11, "stars": 1084, "owner": "serenity-rs", "forks": 208},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 5, "stars": 6000, "owner": "diesel-rs", "forks": 565},
@@ -22,6 +22,6 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 23, "stars": 17171, "owner": "rust-unofficial", "forks": 1156},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 4, "stars": 3571, "owner": "rustwasm", "forks": 480},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 2, "stars": 15255, "owner": "libra", "forks": 2308},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 0, "stars": 950, "owner": "solana-labs", "forks": 215},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 1, "stars": 951, "owner": "solana-labs", "forks": 215},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 9, "stars": 6557, "owner": "wasmerio", "forks": 256}
 ]

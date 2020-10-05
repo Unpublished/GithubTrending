@@ -17,7 +17,7 @@
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 25, "stars": 5073, "owner": "rust-lang", "forks": 687},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 16, "stars": 996, "owner": "tokio-rs", "forks": 173},
 {"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 197, "stars": 320, "owner": "casperstorm", "forks": 18},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 49, "stars": 4461, "owner": "rust-analyzer", "forks": 440},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 49, "stars": 4461, "owner": "rust-analyzer", "forks": 441},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 13, "stars": 1681, "owner": "cloudflare", "forks": 202},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 87, "stars": 21829, "owner": "BurntSushi", "forks": 959},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 36, "stars": 9383, "owner": "tokio-rs", "forks": 868},

@@ -4,17 +4,17 @@
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 121, "stars": 959, "owner": "solana-labs", "forks": 217},
 {"description": "Examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 76, "stars": 1418, "owner": "actix", "forks": 449},
 {"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 337, "stars": 9439, "owner": "actix", "forks": 1105},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 284, "stars": 7045, "owner": "hecrj", "forks": 282},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 285, "stars": 7046, "owner": "hecrj", "forks": 282},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 171, "stars": 4197, "owner": "Spotifyd", "forks": 221},
-{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 103, "stars": 3183, "owner": "seanmonstar", "forks": 424},
+{"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 104, "stars": 3184, "owner": "seanmonstar", "forks": 424},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 185, "stars": 6564, "owner": "wasmerio", "forks": 256},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 132, "stars": 6842, "owner": "hyperium", "forks": 898},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 79, "stars": 2663, "owner": "chyyuu", "forks": 1676},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 385, "stars": 17198, "owner": "rust-unofficial", "forks": 1156},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 386, "stars": 17198, "owner": "rust-unofficial", "forks": 1156},
 {"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 289, "stars": 545, "owner": "DataDog", "forks": 25},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 172, "stars": 3612, "owner": "fdehau", "forks": 181},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 121, "stars": 3102, "owner": "tree-sitter", "forks": 202},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 780, "stars": 48669, "owner": "rust-lang", "forks": 7178},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 780, "stars": 48669, "owner": "rust-lang", "forks": 7179},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 997, "stars": 251862, "owner": "996icu", "forks": 21092},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 156, "stars": 2563, "owner": "rust-embedded", "forks": 160},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 207, "stars": 2691, "owner": "launchbadge", "forks": 190},
@@ -23,5 +23,5 @@
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 116, "stars": 3133, "owner": "graphql-rust", "forks": 274},
 {"description": "Acala Network - CrossChain StableCoin platform based on Substrate.", "language": "Rust", "repo": "Acala", "new_stars": 19, "stars": 121, "owner": "AcalaNetwork", "forks": 32},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 120, "stars": 1469, "owner": "paritytech", "forks": 346},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 672, "stars": 25602, "owner": "alacritty", "forks": 1306}
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 674, "stars": 25604, "owner": "alacritty", "forks": 1306}
 ]

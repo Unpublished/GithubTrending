@@ -4,8 +4,8 @@
 {"description": "A modern version of \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 17, "stars": 10948, "owner": "ogham", "forks": 348},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 30, "stars": 48661, "owner": "rust-lang", "forks": 7178},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 7, "stars": 5837, "owner": "rust-lang", "forks": 1593},
-{"description": "The Modern Day Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 12, "stars": 2456, "owner": "RustScan", "forks": 197},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 6, "stars": 2687, "owner": "launchbadge", "forks": 190},
+{"description": "The Modern Day Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 13, "stars": 2457, "owner": "RustScan", "forks": 197},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 7, "stars": 2688, "owner": "launchbadge", "forks": 190},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 6, "stars": 5074, "owner": "rust-lang", "forks": 687},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 5, "stars": 3020, "owner": "ruffle-rs", "forks": 95},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 10, "stars": 13449, "owner": "yewstack", "forks": 611},
@@ -19,9 +19,9 @@
 {"description": "Actor framework for Rust.", "language": "Rust", "repo": "actix", "new_stars": 3, "stars": 5649, "owner": "actix", "forks": 507},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 8, "stars": 4194, "owner": "Spotifyd", "forks": 221},
 {"description": "Rust ORM Framework High Performance Rust ORM(JSON based)", "language": "Rust", "repo": "rbatis", "new_stars": 23, "stars": 230, "owner": "rbatis", "forks": 22},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 5, "stars": 3838, "owner": "bytecodealliance", "forks": 342},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 5, "stars": 3838, "owner": "bytecodealliance", "forks": 343},
 {"description": "Fast HTTP Checker.", "language": "Rust", "repo": "fhc", "new_stars": 13, "stars": 46, "owner": "Edu4rdSHL", "forks": 6},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 7, "stars": 17190, "owner": "rust-unofficial", "forks": 1156},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 8, "stars": 17191, "owner": "rust-unofficial", "forks": 1156},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 6, "stars": 1121, "owner": "mullvad", "forks": 105},
 {"description": "High performance Rust ECS library", "language": "Rust", "repo": "legion", "new_stars": 1, "stars": 848, "owner": "amethyst", "forks": 75}
 ]

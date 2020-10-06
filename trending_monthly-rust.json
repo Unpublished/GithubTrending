@@ -10,18 +10,18 @@
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 184, "stars": 6564, "owner": "wasmerio", "forks": 256},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 132, "stars": 6842, "owner": "hyperium", "forks": 898},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 79, "stars": 2663, "owner": "chyyuu", "forks": 1676},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 383, "stars": 17200, "owner": "rust-unofficial", "forks": 1156},
-{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 286, "stars": 546, "owner": "DataDog", "forks": 25},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 384, "stars": 17201, "owner": "rust-unofficial", "forks": 1156},
+{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 284, "stars": 546, "owner": "DataDog", "forks": 25},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 173, "stars": 3613, "owner": "fdehau", "forks": 181},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 123, "stars": 3104, "owner": "tree-sitter", "forks": 202},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 778, "stars": 48677, "owner": "rust-lang", "forks": 7182},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 777, "stars": 48677, "owner": "rust-lang", "forks": 7182},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 989, "stars": 251864, "owner": "996icu", "forks": 21092},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 160, "stars": 2568, "owner": "rust-embedded", "forks": 161},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 207, "stars": 2692, "owner": "launchbadge", "forks": 190},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 141, "stars": 4672, "owner": "Peltoche", "forks": 166},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 140, "stars": 4672, "owner": "Peltoche", "forks": 166},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 30, "stars": 786, "owner": "dtolnay", "forks": 182},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 118, "stars": 3135, "owner": "graphql-rust", "forks": 274},
 {"description": "Acala Network - CrossChain StableCoin platform based on Substrate.", "language": "Rust", "repo": "Acala", "new_stars": 19, "stars": 121, "owner": "AcalaNetwork", "forks": 32},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 122, "stars": 1471, "owner": "paritytech", "forks": 346},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 675, "stars": 25608, "owner": "alacritty", "forks": 1307}
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 673, "stars": 25608, "owner": "alacritty", "forks": 1307}
 ]

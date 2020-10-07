@@ -1,10 +1,10 @@
 [
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 84, "stars": 11899, "owner": "nextcloud", "forks": 2178},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 115, "stars": 22295, "owner": "laravel", "forks": 7620},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 40, "stars": 14373, "owner": "WordPress", "forks": 8899},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 84, "stars": 11899, "owner": "nextcloud", "forks": 2177},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 114, "stars": 22295, "owner": "laravel", "forks": 7620},
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 40, "stars": 14373, "owner": "WordPress", "forks": 8901},
 {"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 55, "stars": 428, "owner": "Ignitetch", "forks": 210},
 {"description": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.", "language": "PHP", "repo": "cms", "new_stars": 17, "stars": 2216, "owner": "craftcms", "forks": 462},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 139, "stars": 27141, "owner": "danielmiessler", "forks": 13355},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 137, "stars": 27140, "owner": "danielmiessler", "forks": 13356},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 55, "stars": 23933, "owner": "composer", "forks": 5919},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 27, "stars": 16594, "owner": "sebastianbergmann", "forks": 1929},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 22, "stars": 8080, "owner": "doctrine", "forks": 2245},
@@ -20,7 +20,7 @@
 {"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 16, "stars": 6373, "owner": "woocommerce", "forks": 7638},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 13, "stars": 5147, "owner": "PrestaShop", "forks": 3840},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 30, "stars": 19980, "owner": "guzzle", "forks": 2131},
-{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 53, "stars": 24802, "owner": "fzaninotto", "forks": 2773},
+{"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 52, "stars": 24802, "owner": "fzaninotto", "forks": 2773},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 28, "stars": 3449, "owner": "vimeo", "forks": 304},
 {"description": "Simple forum software for building great communities.", "language": "PHP", "repo": "core", "new_stars": 12, "stars": 5050, "owner": "flarum", "forks": 683}
 ]

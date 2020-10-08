@@ -6,7 +6,7 @@
 {"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 330, "stars": 9455, "owner": "actix", "forks": 1107},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 107, "stars": 3190, "owner": "seanmonstar", "forks": 425},
 {"description": "A spotify daemon", "language": "Rust", "repo": "spotifyd", "new_stars": 168, "stars": 4206, "owner": "Spotifyd", "forks": 222},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 315, "stars": 7083, "owner": "hecrj", "forks": 284},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 314, "stars": 7083, "owner": "hecrj", "forks": 284},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 136, "stars": 6850, "owner": "hyperium", "forks": 898},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 169, "stars": 2582, "owner": "rust-embedded", "forks": 161},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 384, "stars": 17221, "owner": "rust-unofficial", "forks": 1158},
@@ -22,6 +22,6 @@
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 80, "stars": 2105, "owner": "vi", "forks": 78},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 30, "stars": 788, "owner": "dtolnay", "forks": 182},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 115, "stars": 3785, "owner": "huggingface", "forks": 266},
-{"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 142, "stars": 3875, "owner": "cloudflare", "forks": 243},
-{"description": "A curated list of static analysis tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 164, "stars": 7836, "owner": "analysis-tools-dev", "forks": 899}
+{"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 141, "stars": 3875, "owner": "cloudflare", "forks": 243},
+{"description": "A curated list of static analysis tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 165, "stars": 7837, "owner": "analysis-tools-dev", "forks": 899}
 ]

@@ -10,8 +10,8 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 138, "stars": 6852, "owner": "hyperium", "forks": 898},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 170, "stars": 2584, "owner": "rust-embedded", "forks": 161},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 390, "stars": 17226, "owner": "rust-unofficial", "forks": 1158},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 784, "stars": 48736, "owner": "rust-lang", "forks": 7196},
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 182, "stars": 6571, "owner": "wasmerio", "forks": 256},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 785, "stars": 48737, "owner": "rust-lang", "forks": 7196},
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 183, "stars": 6572, "owner": "wasmerio", "forks": 256},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 125, "stars": 3114, "owner": "tree-sitter", "forks": 202},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 172, "stars": 1539, "owner": "TheAlgorithms", "forks": 250},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 956, "stars": 251874, "owner": "996icu", "forks": 21096},
@@ -22,6 +22,6 @@
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 80, "stars": 2106, "owner": "vi", "forks": 78},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 30, "stars": 787, "owner": "dtolnay", "forks": 182},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 114, "stars": 3785, "owner": "huggingface", "forks": 266},
-{"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 137, "stars": 3876, "owner": "cloudflare", "forks": 243},
+{"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 138, "stars": 3877, "owner": "cloudflare", "forks": 243},
 {"description": "A curated list of static analysis tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 166, "stars": 7839, "owner": "analysis-tools-dev", "forks": 900}
 ]

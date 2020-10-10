@@ -1,7 +1,7 @@
 [
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 502, "stars": 15264, "owner": "libra", "forks": 2309},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 285, "stars": 2603, "owner": "linebender", "forks": 201},
-{"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 333, "stars": 9465, "owner": "actix", "forks": 1107},
+{"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 334, "stars": 9466, "owner": "actix", "forks": 1107},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 323, "stars": 7094, "owner": "hecrj", "forks": 284},
 {"description": "Examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 74, "stars": 1422, "owner": "actix", "forks": 451},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 777, "stars": 48755, "owner": "rust-lang", "forks": 7198},
@@ -23,5 +23,5 @@
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 28, "stars": 787, "owner": "dtolnay", "forks": 183},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 274, "stars": 6756, "owner": "Rigellute", "forks": 232},
 {"description": "A rust-vmm based cloud hypervisor", "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 147, "stars": 961, "owner": "cloud-hypervisor", "forks": 115},
-{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 238, "stars": 562, "owner": "DataDog", "forks": 26}
+{"description": "Scipio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "scipio", "new_stars": 238, "stars": 562, "owner": "DataDog", "forks": 27}
 ]

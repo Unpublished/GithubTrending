@@ -10,7 +10,7 @@
 {"description": "Actix web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 334, "stars": 9469, "owner": "actix", "forks": 1107},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 395, "stars": 17243, "owner": "rust-unofficial", "forks": 1159},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 95, "stars": 5091, "owner": "rust-lang", "forks": 699},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 784, "stars": 48773, "owner": "rust-lang", "forks": 7197},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 783, "stars": 48772, "owner": "rust-lang", "forks": 7197},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 133, "stars": 3123, "owner": "tree-sitter", "forks": 202},
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 176, "stars": 1544, "owner": "TheAlgorithms", "forks": 253},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 142, "stars": 3887, "owner": "cloudflare", "forks": 243},
@@ -22,6 +22,6 @@
 {"description": "A rust-vmm based cloud hypervisor", "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 148, "stars": 962, "owner": "cloud-hypervisor", "forks": 115},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 278, "stars": 6763, "owner": "Rigellute", "forks": 232},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 67, "stars": 1701, "owner": "cloudflare", "forks": 203},
-{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 172, "stars": 4496, "owner": "rust-analyzer", "forks": 446},
+{"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 173, "stars": 4497, "owner": "rust-analyzer", "forks": 446},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 671, "stars": 25671, "owner": "alacritty", "forks": 1305}
 ]

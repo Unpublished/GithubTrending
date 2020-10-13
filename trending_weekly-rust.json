@@ -1,7 +1,7 @@
 [
 {"description": "A (WIP) Extremely fast JavaScript linter and Rust crate", "language": "Rust", "repo": "RSLint", "new_stars": 703, "stars": 947, "owner": "RDambrosio016", "forks": 25},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 139, "stars": 23130, "owner": "sharkdp", "forks": 557},
-{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 59, "stars": 2629, "owner": "rust-embedded", "forks": 160},
+{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 60, "stars": 2630, "owner": "rust-embedded", "forks": 160},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 42, "stars": 4516, "owner": "rust-analyzer", "forks": 446},
 {"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 73, "stars": 480, "owner": "casperstorm", "forks": 27},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 46, "stars": 3899, "owner": "cloudflare", "forks": 243},
@@ -22,6 +22,6 @@
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 171, "stars": 5262, "owner": "dandavison", "forks": 101},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 26, "stars": 1709, "owner": "cloudflare", "forks": 204},
 {"description": "Multi functional app to find duplicates, empty folders etc.", "language": "Rust", "repo": "czkawka", "new_stars": 175, "stars": 363, "owner": "qarmin", "forks": 13},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 56, "stars": 9441, "owner": "tokio-rs", "forks": 869},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 56, "stars": 9442, "owner": "tokio-rs", "forks": 869},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 41, "stars": 3880, "owner": "bytecodealliance", "forks": 344}
 ]

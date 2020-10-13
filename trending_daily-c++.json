@@ -1,7 +1,7 @@
 [
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 152, "stars": 49107, "owner": "opencv", "forks": 39810},
-{"description": "Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.", "language": "C++", "repo": "SmartGuitarAmp", "new_stars": 108, "stars": 567, "owner": "keyth72", "forks": 17},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 24, "stars": 43050, "owner": "pytorch", "forks": 11221},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 154, "stars": 49108, "owner": "opencv", "forks": 39811},
+{"description": "Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.", "language": "C++", "repo": "SmartGuitarAmp", "new_stars": 108, "stars": 570, "owner": "keyth72", "forks": 17},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 25, "stars": 43051, "owner": "pytorch", "forks": 11221},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 29, "stars": 23959, "owner": "ocornut", "forks": 4008},
 {"description": "Parallel and Heterogeneous Task Programming in Modern C++", "language": "C++", "repo": "taskflow", "new_stars": 9, "stars": 4160, "owner": "taskflow", "forks": 497},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 5, "stars": 3040, "owner": "Aircoookie", "forks": 514},
@@ -10,9 +10,9 @@
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 19, "stars": 33756, "owner": "godotengine", "forks": 6421},
 {"description": "The Z3 Theorem Prover", "language": "C++", "repo": "z3", "new_stars": 2, "stars": 5791, "owner": "Z3Prover", "forks": 948},
 {"description": "Diablo build for modern operating systems", "language": "C++", "repo": "devilutionX", "new_stars": 12, "stars": 2796, "owner": "diasurgical", "forks": 333},
-{"description": "Simple C++ geometry processing library.", "language": "C++", "repo": "libigl", "new_stars": 2, "stars": 2548, "owner": "libigl", "forks": 777},
-{"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 12, "stars": 1595, "owner": "OneLoneCoder", "forks": 444},
-{"description": "Automatic differentiation with weighted finite-state transducers.", "language": "C++", "repo": "gtn", "new_stars": 29, "stars": 220, "owner": "facebookresearch", "forks": 21},
+{"description": "Simple C++ geometry processing library.", "language": "C++", "repo": "libigl", "new_stars": 3, "stars": 2548, "owner": "libigl", "forks": 777},
+{"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 11, "stars": 1595, "owner": "OneLoneCoder", "forks": 444},
+{"description": "Automatic differentiation with weighted finite-state transducers.", "language": "C++", "repo": "gtn", "new_stars": 28, "stars": 220, "owner": "facebookresearch", "forks": 21},
 {"description": "Highly customizable Wayland bar for Sway and Wlroots based compositors.", "language": "C++", "repo": "Waybar", "new_stars": 3, "stars": 1246, "owner": "Alexays", "forks": 172},
 {"description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)", "language": "C++", "repo": "PrusaSlicer", "new_stars": 3, "stars": 2414, "owner": "prusa3d", "forks": 591},
 {"description": "Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles. A 100% free and open source real-time strategy game for Windows, macOS, Linux, BSD+", "language": "C++", "repo": "warzone2100", "new_stars": 2, "stars": 1406, "owner": "Warzone2100", "forks": 355},
@@ -22,6 +22,6 @@
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 8, "stars": 20316, "owner": "microsoft", "forks": 3538},
 {"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 6, "stars": 17331, "owner": "commaai", "forks": 4156},
 {"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 23, "stars": 6648, "owner": "flameshot-org", "forks": 472},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 23, "stars": 86311, "owner": "electron", "forks": 11568},
-{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 1, "stars": 4570, "owner": "monero-project", "forks": 2323}
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 23, "stars": 86312, "owner": "electron", "forks": 11568},
+{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 2, "stars": 4570, "owner": "monero-project", "forks": 2323}
 ]

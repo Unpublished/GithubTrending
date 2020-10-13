@@ -14,14 +14,14 @@
 {"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 183, "stars": 1593, "owner": "boa-dev", "forks": 186},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 46, "stars": 6021, "owner": "RustPython", "forks": 439},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 44, "stars": 3880, "owner": "bytecodealliance", "forks": 345},
-{"description": "A (WIP) Extremely fast JavaScript linter and Rust crate", "language": "Rust", "repo": "RSLint", "new_stars": 715, "stars": 883, "owner": "RDambrosio016", "forks": 24},
+{"description": "A (WIP) Extremely fast JavaScript linter and Rust crate", "language": "Rust", "repo": "RSLint", "new_stars": 717, "stars": 885, "owner": "RDambrosio016", "forks": 24},
 {"description": "A lightweight and fast proxy utility tries to include any useful features.", "language": "Rust", "repo": "leaf", "new_stars": 138, "stars": 178, "owner": "eycorsican", "forks": 28},
 {"description": "A set of tools to check AWS CloudFormation templates for policy compliance using a simple, policy-as-code, declarative syntax", "language": "Rust", "repo": "cloudformation-guard", "new_stars": 41, "stars": 397, "owner": "aws-cloudformation", "forks": 47},
-{"description": "Multi functional app to find duplicates, empty folders etc.", "language": "Rust", "repo": "czkawka", "new_stars": 168, "stars": 334, "owner": "qarmin", "forks": 13},
+{"description": "Multi functional app to find duplicates, empty folders etc.", "language": "Rust", "repo": "czkawka", "new_stars": 170, "stars": 336, "owner": "qarmin", "forks": 13},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 170, "stars": 5252, "owner": "dandavison", "forks": 101},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 27, "stars": 1707, "owner": "cloudflare", "forks": 204},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 48, "stars": 12842, "owner": "firecracker-microvm", "forks": 879},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 52, "stars": 9432, "owner": "tokio-rs", "forks": 869},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 53, "stars": 9433, "owner": "tokio-rs", "forks": 869},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 33, "stars": 3130, "owner": "tree-sitter", "forks": 206},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 75, "stars": 7104, "owner": "hecrj", "forks": 286}
 ]

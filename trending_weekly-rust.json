@@ -1,7 +1,7 @@
 [
 {"description": "A (WIP) Extremely fast JavaScript linter and Rust crate", "language": "Rust", "repo": "RSLint", "new_stars": 691, "stars": 967, "owner": "RDambrosio016", "forks": 25},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 141, "stars": 23139, "owner": "sharkdp", "forks": 558},
-{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 65, "stars": 2638, "owner": "rust-embedded", "forks": 161},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 142, "stars": 23140, "owner": "sharkdp", "forks": 558},
+{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 66, "stars": 2639, "owner": "rust-embedded", "forks": 161},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 28, "stars": 5101, "owner": "rust-lang", "forks": 708},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 89, "stars": 6859, "owner": "tauri-apps", "forks": 154},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 49, "stars": 12848, "owner": "firecracker-microvm", "forks": 882},
@@ -14,7 +14,7 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 58, "stars": 9444, "owner": "tokio-rs", "forks": 869},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 35, "stars": 3138, "owner": "tree-sitter", "forks": 206},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 102, "stars": 9348, "owner": "swc-project", "forks": 210},
-{"description": "A lightweight and fast proxy utility tries to include any useful features.", "language": "Rust", "repo": "leaf", "new_stars": 148, "stars": 192, "owner": "eycorsican", "forks": 29},
+{"description": "A lightweight and fast proxy utility tries to include any useful features.", "language": "Rust", "repo": "leaf", "new_stars": 149, "stars": 193, "owner": "eycorsican", "forks": 29},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 99, "stars": 6939, "owner": "hyperium", "forks": 902},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 26, "stars": 1710, "owner": "cloudflare", "forks": 204},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 165, "stars": 5264, "owner": "dandavison", "forks": 102},

@@ -1,20 +1,20 @@
 [
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 210, "stars": 24056, "owner": "symfony", "forks": 7837},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 312, "stars": 11991, "owner": "nextcloud", "forks": 2203},
-{"description": null, "language": "PHP", "repo": "fortify", "new_stars": 315, "stars": 717, "owner": "laravel", "forks": 103},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 531, "stars": 27265, "owner": "danielmiessler", "forks": 13477},
+{"description": null, "language": "PHP", "repo": "fortify", "new_stars": 314, "stars": 718, "owner": "laravel", "forks": 103},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 532, "stars": 27266, "owner": "danielmiessler", "forks": 13477},
 {"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 68, "stars": 742, "owner": "inertiajs", "forks": 224},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 338, "stars": 22377, "owner": "laravel", "forks": 7661},
 {"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 121, "stars": 464, "owner": "Ignitetch", "forks": 226},
-{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 146, "stars": 14398, "owner": "WordPress", "forks": 8934},
+{"description": "WordPress, Git-ified. Synced via SVN every 15 minutes, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit patches to", "language": "PHP", "repo": "WordPress", "new_stars": 146, "stars": 14398, "owner": "WordPress", "forks": 8935},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 68, "stars": 5164, "owner": "PrestaShop", "forks": 3860},
-{"description": null, "language": "PHP", "repo": "jetstream", "new_stars": 476, "stars": 2101, "owner": "laravel", "forks": 325},
+{"description": null, "language": "PHP", "repo": "jetstream", "new_stars": 476, "stars": 2101, "owner": "laravel", "forks": 326},
 {"description": "A Free and Opensource laravel eCommerce framework built for all to build and scale your business.", "language": "PHP", "repo": "bagisto", "new_stars": 139, "stars": 2982, "owner": "bagisto", "forks": 958},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 175, "stars": 15668, "owner": "PHPMailer", "forks": 8378},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 677, "stars": 62018, "owner": "laravel", "forks": 19578},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 679, "stars": 62020, "owner": "laravel", "forks": 19579},
 {"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 117, "stars": 8067, "owner": "deployphp", "forks": 1159},
 {"description": "ownCloud web server core (Files, DAV, etc.)", "language": "PHP", "repo": "core", "new_stars": 49, "stars": 7233, "owner": "owncloud", "forks": 1998},
-{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 93, "stars": 3288, "owner": "mailcow", "forks": 588},
+{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 94, "stars": 3289, "owner": "mailcow", "forks": 588},
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 105, "stars": 10260, "owner": "octobercms", "forks": 2165},
 {"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 78, "stars": 1991, "owner": "pterodactyl", "forks": 467},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 175, "stars": 20021, "owner": "guzzle", "forks": 2135},
@@ -22,5 +22,5 @@
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 94, "stars": 7498, "owner": "doctrine", "forks": 1078},
 {"description": null, "language": "PHP", "repo": "ui", "new_stars": 84, "stars": 897, "owner": "laravel", "forks": 193},
 {"description": "Damn Vulnerable Web Application (DVWA)", "language": "PHP", "repo": "DVWA", "new_stars": 81, "stars": 4611, "owner": "digininja", "forks": 1431},
-{"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 60, "stars": 3292, "owner": "moodle", "forks": 4643}
+{"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 61, "stars": 3293, "owner": "moodle", "forks": 4643}
 ]

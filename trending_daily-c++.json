@@ -5,13 +5,13 @@
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 11, "stars": 27830, "owner": "grpc", "forks": 7091},
 {"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 5, "stars": 2864, "owner": "NVIDIA", "forks": 646},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 13, "stars": 4564, "owner": "vesoft-inc", "forks": 491},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 25, "stars": 43132, "owner": "pytorch", "forks": 11254},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 25, "stars": 43134, "owner": "pytorch", "forks": 11254},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 9, "stars": 5041, "owner": "carla-simulator", "forks": 1480},
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 10, "stars": 19947, "owner": "dmlc", "forks": 7778},
 {"description": "A cross platform (Linux and Windows) user mode SDK to read data from your Azure Kinect device.", "language": "C++", "repo": "Azure-Kinect-Sensor-SDK", "new_stars": 1, "stars": 766, "owner": "microsoft", "forks": 307},
 {"description": "C++ Library Manager for Windows, Linux, and MacOS", "language": "C++", "repo": "vcpkg", "new_stars": 9, "stars": 10618, "owner": "microsoft", "forks": 2894},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 21, "stars": 20633, "owner": "nlohmann", "forks": 3658},
-{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 7, "stars": 3390, "owner": "microsoft", "forks": 768},
+{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 7, "stars": 3391, "owner": "microsoft", "forks": 768},
 {"description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.", "language": "C++", "repo": "assimp", "new_stars": 4, "stars": 5893, "owner": "assimp", "forks": 1770},
 {"description": "oneAPI Deep Neural Network Library (oneDNN)", "language": "C++", "repo": "oneDNN", "new_stars": 0, "stars": 2095, "owner": "oneapi-src", "forks": 558},
 {"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 12, "stars": 9752, "owner": "ossrs", "forks": 3294},
@@ -22,6 +22,6 @@
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 5, "stars": 4840, "owner": "google", "forks": 931},
 {"description": "Webots Robot Simulator", "language": "C++", "repo": "webots", "new_stars": 0, "stars": 1071, "owner": "cyberbotics", "forks": 565},
 {"description": "An open source VR headset with SteamVR supports for $200", "language": "C++", "repo": "Relativty", "new_stars": 9, "stars": 4990, "owner": "relativty", "forks": 230},
-{"description": "static analysis of C/C++ code", "language": "C++", "repo": "cppcheck", "new_stars": 3, "stars": 3123, "owner": "danmar", "forks": 931},
+{"description": "static analysis of C/C++ code", "language": "C++", "repo": "cppcheck", "new_stars": 3, "stars": 3124, "owner": "danmar", "forks": 931},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 15, "stars": 44279, "owner": "protocolbuffers", "forks": 11905}
 ]

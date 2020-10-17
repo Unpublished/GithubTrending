@@ -1,9 +1,9 @@
 [
 {"description": "Example Apps that can be deployed with Waypoint", "language": "PHP", "repo": "waypoint-examples", "new_stars": 16, "stars": 72, "owner": "hashicorp", "forks": 8},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 11, "stars": 23991, "owner": "composer", "forks": 5926},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 11, "stars": 23990, "owner": "composer", "forks": 5926},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 7, "stars": 24062, "owner": "symfony", "forks": 7836},
 {"description": "Enlighten your APIs with auto-generated documentation", "language": "PHP", "repo": "enlighten", "new_stars": 59, "stars": 224, "owner": "StydeNet", "forks": 18},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 31, "stars": 27291, "owner": "danielmiessler", "forks": 13490},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 31, "stars": 27292, "owner": "danielmiessler", "forks": 13490},
 {"description": "PanDownload\u7f51\u9875\u590d\u523b\u7248", "language": "PHP", "repo": "baiduwp-php", "new_stars": 25, "stars": 710, "owner": "yuantuo666", "forks": 380},
 {"description": "A framework agnostic PHP library to build chat bots", "language": "PHP", "repo": "botman", "new_stars": 2, "stars": 5215, "owner": "botman", "forks": 684},
 {"description": "Yii 2: The Fast, Secure and Professional PHP Framework", "language": "PHP", "repo": "yii2", "new_stars": 4, "stars": 13538, "owner": "yiisoft", "forks": 6942},
@@ -14,7 +14,7 @@
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 5, "stars": 3296, "owner": "moodle", "forks": 4646},
 {"description": "PHP library for the Stripe API.", "language": "PHP", "repo": "stripe-php", "new_stars": 5, "stars": 2676, "owner": "stripe", "forks": 632},
 {"description": "Personal CRM. Remember everything about your friends, family and business relationships.", "language": "PHP", "repo": "monica", "new_stars": 7, "stars": 10269, "owner": "monicahq", "forks": 1241},
-{"description": "Hexagonal Architecture + DDD + CQRS in PHP using Symfony 5", "language": "PHP", "repo": "php-ddd-example", "new_stars": 2, "stars": 1260, "owner": "CodelyTV", "forks": 409},
+{"description": "Hexagonal Architecture + DDD + CQRS in PHP using Symfony 5", "language": "PHP", "repo": "php-ddd-example", "new_stars": 2, "stars": 1260, "owner": "CodelyTV", "forks": 410},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 8018, "owner": "squizlabs", "forks": 1279},
 {"description": "Easy AdminLTE integration with Laravel", "language": "PHP", "repo": "Laravel-AdminLTE", "new_stars": 4, "stars": 2298, "owner": "jeroennoten", "forks": 700},
 {"description": "A SwiftUI-inspired spin on Laravel Livewire.", "language": "PHP", "repo": "swift", "new_stars": 6, "stars": 48, "owner": "redbastie", "forks": 7},
@@ -22,6 +22,6 @@
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 1, "stars": 4394, "owner": "snipe", "forks": 1673},
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 3, "stars": 4156, "owner": "barryvdh", "forks": 649},
 {"description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.", "language": "PHP", "repo": "glpi", "new_stars": 1, "stars": 1848, "owner": "glpi-project", "forks": 687},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 13, "stars": 22388, "owner": "laravel", "forks": 7665},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 13, "stars": 22388, "owner": "laravel", "forks": 7666},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 7, "stars": 5144, "owner": "firefly-iii", "forks": 626}
 ]

@@ -7,7 +7,7 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 72, "stars": 9479, "owner": "tokio-rs", "forks": 872},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 180, "stars": 25833, "owner": "alacritty", "forks": 1317},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 27, "stars": 2117, "owner": "ctz", "forks": 205},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 51, "stars": 12879, "owner": "firecracker-microvm", "forks": 886},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 52, "stars": 12880, "owner": "firecracker-microvm", "forks": 886},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 53, "stars": 2261, "owner": "extrawurst", "forks": 90},
 {"description": "Volta: Start your engines.", "language": "Rust", "repo": "volta", "new_stars": 362, "stars": 2226, "owner": "volta-cli", "forks": 57},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 36, "stars": 8189, "owner": "tikv", "forks": 1266},
@@ -17,11 +17,11 @@
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 52, "stars": 3905, "owner": "bytecodealliance", "forks": 346},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 83, "stars": 9370, "owner": "swc-project", "forks": 210},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 162, "stars": 48901, "owner": "rust-lang", "forks": 7202},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 45, "stars": 5888, "owner": "rust-lang", "forks": 1605},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 45, "stars": 5888, "owner": "rust-lang", "forks": 1604},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 23, "stars": 3604, "owner": "rustwasm", "forks": 485},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 101, "stars": 6901, "owner": "tauri-apps", "forks": 156},
-{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 152, "stars": 5351, "owner": "dandavison", "forks": 103},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 35, "stars": 3081, "owner": "ruffle-rs", "forks": 98},
+{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 157, "stars": 5356, "owner": "dandavison", "forks": 103},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 36, "stars": 3082, "owner": "ruffle-rs", "forks": 98},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 22, "stars": 1721, "owner": "cloudflare", "forks": 208},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 31, "stars": 3914, "owner": "cloudflare", "forks": 243}
 ]

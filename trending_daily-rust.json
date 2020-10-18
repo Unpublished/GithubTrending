@@ -7,7 +7,7 @@
 {"description": "A fast, simple, recursive content discovery tool written in Rust.", "language": "Rust", "repo": "feroxbuster", "new_stars": 33, "stars": 236, "owner": "epi052", "forks": 29},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 4, "stars": 2642, "owner": "linebender", "forks": 207},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 8, "stars": 2745, "owner": "launchbadge", "forks": 198},
-{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 101, "stars": 5406, "owner": "dandavison", "forks": 104},
+{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 101, "stars": 5407, "owner": "dandavison", "forks": 104},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 2, "stars": 3220, "owner": "seanmonstar", "forks": 429},
 {"description": "A mod for downloading and using your own minecraft skin to use in game, just enter your username!", "language": "Rust", "repo": "smash-minecraft-skins", "new_stars": 3, "stars": 56, "owner": "jam1garner", "forks": 2},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 8191, "owner": "tikv", "forks": 1266},
@@ -23,5 +23,5 @@
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 9, "stars": 1723, "owner": "cloudflare", "forks": 209},
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 7, "stars": 6825, "owner": "Rigellute", "forks": 233},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 4, "stars": 2486, "owner": "http-rs", "forks": 237},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 0, "stars": 977, "owner": "solana-labs", "forks": 230}
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 0, "stars": 978, "owner": "solana-labs", "forks": 230}
 ]

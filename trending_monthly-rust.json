@@ -10,7 +10,7 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 390, "stars": 17322, "owner": "rust-unofficial", "forks": 1164},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 174, "stars": 6040, "owner": "RustPython", "forks": 441},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 51, "stars": 3270, "owner": "rust-lang", "forks": 536},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 726, "stars": 48916, "owner": "rust-lang", "forks": 7203},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 726, "stars": 48916, "owner": "rust-lang", "forks": 7204},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 110, "stars": 3220, "owner": "seanmonstar", "forks": 429},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 103, "stars": 5113, "owner": "rust-lang", "forks": 710},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 173, "stars": 4534, "owner": "rust-analyzer", "forks": 450},
@@ -23,5 +23,5 @@
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 140, "stars": 4697, "owner": "Peltoche", "forks": 166},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 73, "stars": 1378, "owner": "seed-rs", "forks": 89},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 88, "stars": 2700, "owner": "chyyuu", "forks": 1680},
-{"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 28, "stars": 795, "owner": "dtolnay", "forks": 188}
+{"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 28, "stars": 795, "owner": "dtolnay", "forks": 189}
 ]

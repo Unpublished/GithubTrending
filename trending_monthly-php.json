@@ -1,11 +1,11 @@
 [
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 216, "stars": 24072, "owner": "symfony", "forks": 7841},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 215, "stars": 24072, "owner": "symfony", "forks": 7841},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 311, "stars": 12025, "owner": "nextcloud", "forks": 2209},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 681, "stars": 27478, "owner": "danielmiessler", "forks": 13524},
-{"description": null, "language": "PHP", "repo": "framework", "new_stars": 336, "stars": 22404, "owner": "laravel", "forks": 7674},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 684, "stars": 27481, "owner": "danielmiessler", "forks": 13524},
+{"description": null, "language": "PHP", "repo": "framework", "new_stars": 335, "stars": 22404, "owner": "laravel", "forks": 7674},
 {"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 69, "stars": 748, "owner": "inertiajs", "forks": 225},
 {"description": "This is Advance Phishing Tool ! OTP PHISHING", "language": "PHP", "repo": "AdvPhishing", "new_stars": 129, "stars": 480, "owner": "Ignitetch", "forks": 231},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 177, "stars": 15683, "owner": "PHPMailer", "forks": 8387},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 178, "stars": 15684, "owner": "PHPMailer", "forks": 8387},
 {"description": "PrestaShop offers a fully scalable open source ecommerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 72, "stars": 5171, "owner": "PrestaShop", "forks": 3867},
 {"description": null, "language": "PHP", "repo": "fortify", "new_stars": 238, "stars": 738, "owner": "laravel", "forks": 106},
 {"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 126, "stars": 14403, "owner": "WordPress", "forks": 8957},
@@ -15,12 +15,12 @@
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 101, "stars": 7510, "owner": "doctrine", "forks": 1080},
 {"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 116, "stars": 8076, "owner": "deployphp", "forks": 1161},
 {"description": "Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.", "language": "PHP", "repo": "october", "new_stars": 105, "stars": 10266, "owner": "octobercms", "forks": 2166},
-{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 104, "stars": 3303, "owner": "mailcow", "forks": 590},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 661, "stars": 62066, "owner": "laravel", "forks": 19595},
-{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 166, "stars": 20035, "owner": "guzzle", "forks": 2137},
-{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 78, "stars": 2002, "owner": "pterodactyl", "forks": 472},
+{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 105, "stars": 3304, "owner": "mailcow", "forks": 590},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 661, "stars": 62067, "owner": "laravel", "forks": 19596},
+{"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 167, "stars": 20036, "owner": "guzzle", "forks": 2137},
+{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 79, "stars": 2003, "owner": "pterodactyl", "forks": 472},
 {"description": "ownCloud web server core (Files, DAV, etc.)", "language": "PHP", "repo": "core", "new_stars": 50, "stars": 7236, "owner": "owncloud", "forks": 1997},
 {"description": "Easy!Appointments - Open Source Appointment Scheduler", "language": "PHP", "repo": "easyappointments", "new_stars": 61, "stars": 1493, "owner": "alextselegidis", "forks": 714},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 233, "stars": 24009, "owner": "composer", "forks": 5930},
-{"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 64, "stars": 5728, "owner": "opencart", "forks": 4202}
+{"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 64, "stars": 5728, "owner": "opencart", "forks": 4201}
 ]

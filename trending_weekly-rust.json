@@ -4,7 +4,7 @@
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 74, "stars": 9511, "owner": "tokio-rs", "forks": 880},
 {"description": "Volta: Start your engines.", "language": "Rust", "repo": "volta", "new_stars": 148, "stars": 2279, "owner": "volta-cli", "forks": 58},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 192, "stars": 49001, "owner": "rust-lang", "forks": 7212},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 192, "stars": 25946, "owner": "alacritty", "forks": 1332},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 192, "stars": 25946, "owner": "alacritty", "forks": 1333},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 40, "stars": 2761, "owner": "launchbadge", "forks": 201},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 90, "stars": 2343, "owner": "o2sh", "forks": 118},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 60, "stars": 12908, "owner": "firecracker-microvm", "forks": 890},
@@ -18,10 +18,10 @@
 {"description": "SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.", "language": "Rust", "repo": "sixtyfps", "new_stars": 51, "stars": 277, "owner": "sixtyfpsui", "forks": 8},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 63, "stars": 4227, "owner": "LemmyNet", "forks": 279},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 94, "stars": 2341, "owner": "extrawurst", "forks": 92},
-{"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 21, "stars": 1125, "owner": "serenity-rs", "forks": 214},
-{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 54, "stars": 3192, "owner": "tree-sitter", "forks": 208},
+{"description": "A Rust library for the Discord API.", "language": "Rust", "repo": "serenity", "new_stars": 21, "stars": 1125, "owner": "serenity-rs", "forks": 215},
+{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 54, "stars": 3193, "owner": "tree-sitter", "forks": 208},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 160, "stars": 252032, "owner": "996icu", "forks": 21095},
-{"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 44, "stars": 540, "owner": "casperstorm", "forks": 30},
+{"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 44, "stars": 540, "owner": "casperstorm", "forks": 31},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 34, "stars": 3100, "owner": "ruffle-rs", "forks": 98},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 41, "stars": 4560, "owner": "rust-analyzer", "forks": 456}
 ]

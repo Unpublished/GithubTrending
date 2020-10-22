@@ -1,10 +1,10 @@
 [
-{"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 7, "stars": 8141, "owner": "pybind", "forks": 1156},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 9, "stars": 15732, "owner": "facebook", "forks": 3720},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 29, "stars": 49497, "owner": "opencv", "forks": 40064},
+{"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 7, "stars": 8142, "owner": "pybind", "forks": 1156},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 9, "stars": 15733, "owner": "facebook", "forks": 3720},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 29, "stars": 49499, "owner": "opencv", "forks": 40068},
 {"description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.", "language": "C++", "repo": "connectedhomeip", "new_stars": 3, "stars": 729, "owner": "project-chip", "forks": 134},
-{"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 8, "stars": 4196, "owner": "TheCherno", "forks": 605},
-{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 3, "stars": 4861, "owner": "google", "forks": 935},
+{"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 8, "stars": 4199, "owner": "TheCherno", "forks": 605},
+{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 3, "stars": 4862, "owner": "google", "forks": 935},
 {"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 25, "stars": 12324, "owner": "simdjson", "forks": 620},
 {"description": "Productive & portable programming language for high-performance, sparse & differentiable computing on GPUs", "language": "C++", "repo": "taichi", "new_stars": 13, "stars": 12412, "owner": "taichi-dev", "forks": 1331},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 14, "stars": 3128, "owner": "Aircoookie", "forks": 540},
@@ -12,9 +12,9 @@
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 7, "stars": 3424, "owner": "microsoft", "forks": 780},
 {"description": "Open Source Routing Engine for OpenStreetMap", "language": "C++", "repo": "valhalla", "new_stars": 0, "stars": 1276, "owner": "valhalla", "forks": 256},
 {"description": "A C++ library for interacting with JSON.", "language": "C++", "repo": "jsoncpp", "new_stars": 5, "stars": 5050, "owner": "open-source-parsers", "forks": 1956},
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 18381, "owner": "google", "forks": 6695},
-{"description": "Windows Implementation Library", "language": "C++", "repo": "wil", "new_stars": 4, "stars": 1456, "owner": "microsoft", "forks": 87},
-{"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 3, "stars": 3487, "owner": "intel-isl", "forks": 898},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 18382, "owner": "google", "forks": 6695},
+{"description": "Windows Implementation Library", "language": "C++", "repo": "wil", "new_stars": 4, "stars": 1457, "owner": "microsoft", "forks": 87},
+{"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 3, "stars": 3488, "owner": "intel-isl", "forks": 898},
 {"description": "ONNX-TensorRT: TensorRT backend for ONNX", "language": "C++", "repo": "onnx-tensorrt", "new_stars": 1, "stars": 1017, "owner": "onnx", "forks": 284},
 {"description": "Horion - A Minecraft: Bedrock Edition Utility Mod.", "language": "C++", "repo": "Horion", "new_stars": 2, "stars": 80, "owner": "horionclient", "forks": 78},
 {"description": "Implementation of popular deep learning networks with TensorRT network definition API", "language": "C++", "repo": "tensorrtx", "new_stars": 8, "stars": 1042, "owner": "wang-xinyu", "forks": 247},
@@ -22,6 +22,6 @@
 {"description": "An open source smart contract platform", "language": "C++", "repo": "eos", "new_stars": 2, "stars": 10969, "owner": "EOSIO", "forks": 3535},
 {"description": "P4_16 reference compiler", "language": "C++", "repo": "p4c", "new_stars": 1, "stars": 277, "owner": "p4lang", "forks": 218},
 {"description": "Open Source H.264 Codec", "language": "C++", "repo": "openh264", "new_stars": 2, "stars": 3955, "owner": "cisco", "forks": 1394},
-{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 2, "stars": 12224, "owner": "catchorg", "forks": 2047},
-{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 181, "stars": 7962, "owner": "changkun", "forks": 1105}
+{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 2, "stars": 12224, "owner": "catchorg", "forks": 2048},
+{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 181, "stars": 7967, "owner": "changkun", "forks": 1105}
 ]

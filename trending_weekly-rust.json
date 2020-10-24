@@ -1,18 +1,18 @@
 [
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 51, "stars": 1546, "owner": "paritytech", "forks": 365},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 88, "stars": 3114, "owner": "paritytech", "forks": 936},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 53, "stars": 1548, "owner": "paritytech", "forks": 366},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 88, "stars": 3114, "owner": "paritytech", "forks": 937},
 {"description": "Git repository summary on your terminal", "language": "Rust", "repo": "onefetch", "new_stars": 96, "stars": 2353, "owner": "o2sh", "forks": 119},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 58, "stars": 9519, "owner": "tokio-rs", "forks": 882},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 176, "stars": 25981, "owner": "alacritty", "forks": 1336},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 59, "stars": 9520, "owner": "tokio-rs", "forks": 882},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 177, "stars": 25982, "owner": "alacritty", "forks": 1336},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 103, "stars": 13643, "owner": "yewstack", "forks": 626},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 591, "stars": 5884, "owner": "dandavison", "forks": 106},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 28, "stars": 1743, "owner": "cloudflare", "forks": 213},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 138, "stars": 7266, "owner": "hecrj", "forks": 296},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 37, "stars": 2771, "owner": "launchbadge", "forks": 207},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 191, "stars": 49048, "owner": "rust-lang", "forks": 7223},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 216, "stars": 252093, "owner": "996icu", "forks": 21097},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 38, "stars": 2772, "owner": "launchbadge", "forks": 207},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 191, "stars": 49049, "owner": "rust-lang", "forks": 7223},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 217, "stars": 252094, "owner": "996icu", "forks": 21096},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 50, "stars": 4574, "owner": "rust-analyzer", "forks": 456},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 88, "stars": 6976, "owner": "tauri-apps", "forks": 159},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 89, "stars": 6977, "owner": "tauri-apps", "forks": 159},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 38, "stars": 3410, "owner": "seanmonstar", "forks": 341},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 107, "stars": 2362, "owner": "extrawurst", "forks": 91},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 70, "stars": 4238, "owner": "LemmyNet", "forks": 282},
@@ -23,5 +23,5 @@
 {"description": "A new FRAME-based Substrate node, ready for hacking.", "language": "Rust", "repo": "substrate-node-template", "new_stars": 7, "stars": 99, "owner": "substrate-developer-hub", "forks": 116},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 18, "stars": 1155, "owner": "mullvad", "forks": 108},
 {"description": "Dragonfly image service, providing fast, secure and easy access to container images.", "language": "Rust", "repo": "image-service", "new_stars": 34, "stars": 68, "owner": "dragonflyoss", "forks": 15},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 188, "stars": 9649, "owner": "meilisearch", "forks": 286}
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 190, "stars": 9651, "owner": "meilisearch", "forks": 286}
 ]

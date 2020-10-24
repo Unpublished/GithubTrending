@@ -1,11 +1,11 @@
 [
-{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 892, "stars": 8025, "owner": "changkun", "forks": 1108},
-{"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 110, "stars": 17491, "owner": "commaai", "forks": 4206},
-{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 223, "stars": 8601, "owner": "MarlinFirmware", "forks": 12046},
+{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 893, "stars": 8026, "owner": "changkun", "forks": 1108},
+{"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 110, "stars": 17492, "owner": "commaai", "forks": 4206},
+{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 223, "stars": 8601, "owner": "MarlinFirmware", "forks": 12047},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 134, "stars": 53942, "owner": "apple", "forks": 8651},
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 81, "stars": 20406, "owner": "microsoft", "forks": 3559},
-{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 78, "stars": 3145, "owner": "Aircoookie", "forks": 544},
-{"description": "A YAML parser and emitter in C++", "language": "C++", "repo": "yaml-cpp", "new_stars": 37, "stars": 2260, "owner": "jbeder", "forks": 749},
+{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 79, "stars": 3145, "owner": "Aircoookie", "forks": 544},
+{"description": "A YAML parser and emitter in C++", "language": "C++", "repo": "yaml-cpp", "new_stars": 38, "stars": 2260, "owner": "jbeder", "forks": 750},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 77, "stars": 22002, "owner": "google", "forks": 5121},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 399, "stars": 34197, "owner": "godotengine", "forks": 6472},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 85, "stars": 15000, "owner": "envoyproxy", "forks": 2582},
@@ -16,12 +16,12 @@
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 88, "stars": 11246, "owner": "facebookresearch", "forks": 1992},
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 118, "stars": 12228, "owner": "ValveSoftware", "forks": 480},
 {"description": "A C++ library for interacting with JSON.", "language": "C++", "repo": "jsoncpp", "new_stars": 28, "stars": 5054, "owner": "open-source-parsers", "forks": 1956},
-{"description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.", "language": "C++", "repo": "DeepSpeech", "new_stars": 75, "stars": 15480, "owner": "mozilla", "forks": 2890},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 269, "stars": 149498, "owner": "tensorflow", "forks": 83065},
+{"description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.", "language": "C++", "repo": "DeepSpeech", "new_stars": 76, "stars": 15481, "owner": "mozilla", "forks": 2890},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 270, "stars": 149499, "owner": "tensorflow", "forks": 83065},
 {"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 43, "stars": 1657, "owner": "OneLoneCoder", "forks": 459},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 192, "stars": 86521, "owner": "electron", "forks": 11618},
-{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 51, "stars": 17221, "owner": "ApolloAuto", "forks": 6550},
+{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 52, "stars": 17221, "owner": "ApolloAuto", "forks": 6550},
 {"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research", "language": "C++", "repo": "AirSim", "new_stars": 55, "stars": 10816, "owner": "microsoft", "forks": 2937},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 36, "stars": 9864, "owner": "Tencent", "forks": 2682},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 98, "stars": 27924, "owner": "grpc", "forks": 7123}
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 99, "stars": 27925, "owner": "grpc", "forks": 7123}
 ]

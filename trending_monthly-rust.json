@@ -1,13 +1,13 @@
 [
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 397, "stars": 7287, "owner": "hecrj", "forks": 298},
-{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 90, "stars": 1747, "owner": "cloudflare", "forks": 213},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 397, "stars": 7287, "owner": "hecrj", "forks": 299},
+{"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 91, "stars": 1748, "owner": "cloudflare", "forks": 213},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 107, "stars": 5141, "owner": "rust-lang", "forks": 717},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 305, "stars": 2664, "owner": "linebender", "forks": 213},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 218, "stars": 2713, "owner": "rust-embedded", "forks": 165},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 785, "stars": 49083, "owner": "rust-lang", "forks": 7229},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 786, "stars": 49084, "owner": "rust-lang", "forks": 7230},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 923, "stars": 5910, "owner": "dandavison", "forks": 106},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 63, "stars": 3287, "owner": "rust-lang", "forks": 541},
-{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 152, "stars": 3210, "owner": "tree-sitter", "forks": 213},
+{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 153, "stars": 3211, "owner": "tree-sitter", "forks": 213},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 187, "stars": 6079, "owner": "RustPython", "forks": 444},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 202, "stars": 6985, "owner": "hyperium", "forks": 906},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 744, "stars": 26019, "owner": "alacritty", "forks": 1341},
@@ -22,6 +22,6 @@
 {"description": "High-performance, vendor-neutral observability pipelines.", "language": "Rust", "repo": "vector", "new_stars": 231, "stars": 5498, "owner": "timberio", "forks": 341},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 186, "stars": 3961, "owner": "cloudflare", "forks": 246},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 82, "stars": 2135, "owner": "ctz", "forks": 210},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 154, "stars": 4728, "owner": "Peltoche", "forks": 167},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 154, "stars": 4727, "owner": "Peltoche", "forks": 167},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 384, "stars": 17390, "owner": "rust-unofficial", "forks": 1172}
 ]

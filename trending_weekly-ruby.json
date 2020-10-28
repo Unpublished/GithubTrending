@@ -1,21 +1,21 @@
 [
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 38, "stars": 11123, "owner": "rubocop-hq", "forks": 2519},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 84, "stars": 22130, "owner": "tootsuite", "forks": 3774},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 66, "stars": 46752, "owner": "rails", "forks": 18781},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 69, "stars": 46755, "owner": "rails", "forks": 18781},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 16, "stars": 8943, "owner": "faker-ruby", "forks": 2488},
-{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 7, "stars": 4913, "owner": "rails", "forks": 1299},
-{"description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:", "language": "Ruby", "repo": "spree", "new_stars": 22, "stars": 10730, "owner": "spree", "forks": 4586},
+{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 8, "stars": 4913, "owner": "rails", "forks": 1299},
+{"description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:", "language": "Ruby", "repo": "spree", "new_stars": 23, "stars": 10731, "owner": "spree", "forks": 4586},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 17, "stars": 3326, "owner": "solidusio", "forks": 971},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 15, "stars": 21186, "owner": "heartcombo", "forks": 5099},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 62, "stars": 41498, "owner": "jekyll", "forks": 9075},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 27, "stars": 11733, "owner": "elastic", "forks": 3078},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 16, "stars": 10622, "owner": "mperham", "forks": 1869},
-{"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 16, "stars": 465, "owner": "jsonapi-serializer", "forks": 50},
+{"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 17, "stars": 466, "owner": "jsonapi-serializer", "forks": 50},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 15, "stars": 22390, "owner": "gitlabhq", "forks": 5620},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 31, "stars": 8150, "owner": "github", "forks": 2953},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 48, "stars": 20854, "owner": "hashicorp", "forks": 4011},
 {"description": "Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.", "language": "Ruby", "repo": "active_merchant", "new_stars": 3, "stars": 4245, "owner": "activemerchant", "forks": 2387},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 64, "stars": 29868, "owner": "huginn", "forks": 2829},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 65, "stars": 29869, "owner": "huginn", "forks": 2829},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 58, "stars": 30016, "owner": "fastlane", "forks": 4700},
 {"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails", "language": "Ruby", "repo": "decidim", "new_stars": 6, "stars": 793, "owner": "decidim", "forks": 247},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 76, "stars": 21923, "owner": "rapid7", "forks": 10565},
@@ -23,5 +23,5 @@
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 20, "stars": 1925, "owner": "github", "forks": 7557},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 22, "stars": 2135, "owner": "github", "forks": 940},
 {"description": "WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.", "language": "Ruby", "repo": "wpscan", "new_stars": 20, "stars": 5233, "owner": "wpscanteam", "forks": 943},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 96, "stars": 23457, "owner": "Homebrew", "forks": 5507}
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 96, "stars": 23457, "owner": "Homebrew", "forks": 5508}
 ]

@@ -6,15 +6,15 @@
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 218, "stars": 4638, "owner": "rust-analyzer", "forks": 462},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 207, "stars": 3997, "owner": "cloudflare", "forks": 252},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 111, "stars": 5158, "owner": "rust-lang", "forks": 720},
-{"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 369, "stars": 566, "owner": "casperstorm", "forks": 32},
+{"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 369, "stars": 566, "owner": "casperstorm", "forks": 33},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 243, "stars": 13004, "owner": "firecracker-microvm", "forks": 896},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 227, "stars": 1672, "owner": "paritytech", "forks": 382},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 211, "stars": 7014, "owner": "hyperium", "forks": 910},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 269, "stars": 4070, "owner": "bytecodealliance", "forks": 354},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 270, "stars": 4071, "owner": "bytecodealliance", "forks": 354},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 232, "stars": 9574, "owner": "tokio-rs", "forks": 888},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 156, "stars": 4267, "owner": "LemmyNet", "forks": 285},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 763, "stars": 49184, "owner": "rust-lang", "forks": 7248},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 731, "stars": 26150, "owner": "alacritty", "forks": 1352},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 732, "stars": 26151, "owner": "alacritty", "forks": 1352},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 165, "stars": 6104, "owner": "RustPython", "forks": 446},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 950, "stars": 5977, "owner": "dandavison", "forks": 106},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 194, "stars": 3183, "owner": "ruffle-rs", "forks": 100},
@@ -23,5 +23,5 @@
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 390, "stars": 7038, "owner": "tauri-apps", "forks": 162},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 181, "stars": 3259, "owner": "tree-sitter", "forks": 216},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 60, "stars": 1460, "owner": "WebAssembly", "forks": 102},
-{"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 403, "stars": 1731, "owner": "boa-dev", "forks": 194}
+{"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 404, "stars": 1732, "owner": "boa-dev", "forks": 194}
 ]

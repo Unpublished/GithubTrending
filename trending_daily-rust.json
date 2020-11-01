@@ -1,5 +1,5 @@
 [
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 108, "stars": 3290, "owner": "paritytech", "forks": 959},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 90, "stars": 3290, "owner": "paritytech", "forks": 959},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 50, "stars": 1672, "owner": "paritytech", "forks": 382},
 {"description": "A tool for collecting RDP, web and VNC screenshots all in one place", "language": "Rust", "repo": "scrying", "new_stars": 22, "stars": 55, "owner": "nccgroup", "forks": 13},
 {"description": "A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (", "language": "Rust", "repo": "webrtc", "new_stars": 42, "stars": 161, "owner": "webrtc-rs", "forks": 5},
@@ -9,9 +9,9 @@
 {"description": "AUR helper based on yay", "language": "Rust", "repo": "paru", "new_stars": 39, "stars": 220, "owner": "Morganamilo", "forks": 17},
 {"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 24, "stars": 9636, "owner": "actix", "forks": 1116},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 8, "stars": 15293, "owner": "libra", "forks": 2316},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 23, "stars": 11775, "owner": "SergioBenitez", "forks": 782},
-{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 21, "stars": 2429, "owner": "extrawurst", "forks": 96},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 60, "stars": 23506, "owner": "sharkdp", "forks": 581},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 24, "stars": 11776, "owner": "SergioBenitez", "forks": 782},
+{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 23, "stars": 2431, "owner": "extrawurst", "forks": 96},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 61, "stars": 23507, "owner": "sharkdp", "forks": 581},
 {"description": "WebAssembly Gateway Interface", "language": "Rust", "repo": "wagi", "new_stars": 6, "stars": 29, "owner": "deislabs", "forks": 2},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 8, "stars": 5160, "owner": "rust-lang", "forks": 721},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 45, "stars": 13736, "owner": "yewstack", "forks": 633},
@@ -21,7 +21,7 @@
 {"description": "Realtime ticker data in your terminal", "language": "Rust", "repo": "tickrs", "new_stars": 13, "stars": 108, "owner": "tarkah", "forks": 3},
 {"description": "A rust-vmm based cloud hypervisor", "language": "Rust", "repo": "cloud-hypervisor", "new_stars": 11, "stars": 992, "owner": "cloud-hypervisor", "forks": 117},
 {"description": "Vulkan bindings for Rust", "language": "Rust", "repo": "ash", "new_stars": 9, "stars": 588, "owner": "MaikKlein", "forks": 80},
-{"description": "A modern replacement for ps written in Rust", "language": "Rust", "repo": "procs", "new_stars": 11, "stars": 1252, "owner": "dalance", "forks": 32},
+{"description": "A modern replacement for ps written in Rust", "language": "Rust", "repo": "procs", "new_stars": 12, "stars": 1253, "owner": "dalance", "forks": 32},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 10, "stars": 2033, "owner": "shadowsocks", "forks": 447},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 24, "stars": 2818, "owner": "launchbadge", "forks": 211}
 ]

@@ -1,18 +1,18 @@
 [
 {"description": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.", "language": "Python", "repo": "youtube-dl-gui", "new_stars": 825, "stars": 5852, "owner": "MrS0m30n3", "forks": 1062},
 {"description": "Hunt down social media accounts by username across social networks", "language": "Python", "repo": "sherlock", "new_stars": 1407, "stars": 16573, "owner": "sherlock-project", "forks": 1707},
-{"description": "Dumb downloader that scrapes the web", "language": "Python", "repo": "you-get", "new_stars": 850, "stars": 36299, "owner": "soimort", "forks": 7404},
+{"description": "Dumb downloader that scrapes the web", "language": "Python", "repo": "you-get", "new_stars": 852, "stars": 36301, "owner": "soimort", "forks": 7404},
 {"description": "INFO-SPIDER \u662f\u4e00\u4e2a\u96c6\u4f17\u591a\u6570\u636e\u6e90\u4e8e\u4e00\u8eab\u7684\u722c\u866b\u5de5\u5177\u7bb1", "language": "Python", "repo": "InfoSpider", "new_stars": 405, "stars": 2997, "owner": "kangvcar", "forks": 576},
 {"description": "Russian GPT3 models.", "language": "Python", "repo": "ru-gpts", "new_stars": 295, "stars": 634, "owner": "sberbank-ai", "forks": 129},
-{"description": "Animation engine for explanatory math videos", "language": "Python", "repo": "manim", "new_stars": 1105, "stars": 27261, "owner": "3b1b", "forks": 3486},
-{"description": "Zipline, a Pythonic Algorithmic Trading Library", "language": "Python", "repo": "zipline", "new_stars": 272, "stars": 12331, "owner": "quantopian", "forks": 3539},
+{"description": "Animation engine for explanatory math videos", "language": "Python", "repo": "manim", "new_stars": 1109, "stars": 27263, "owner": "3b1b", "forks": 3487},
+{"description": "Zipline, a Pythonic Algorithmic Trading Library", "language": "Python", "repo": "zipline", "new_stars": 279, "stars": 12338, "owner": "quantopian", "forks": 3541},
 {"description": "Incredibly fast crawler designed for OSINT.", "language": "Python", "repo": "Photon", "new_stars": 113, "stars": 7104, "owner": "s0md3v", "forks": 986},
-{"description": "\u57fa\u4e8e\u5f00\u6e90GPT2.0\u7684\u521d\u4ee3\u521b\u4f5c\u578b\u4eba\u5de5\u667a\u80fd | \u53ef\u6269\u5c55\u3001\u53ef\u8fdb\u5316", "language": "Python", "repo": "EssayKiller_V2", "new_stars": 542, "stars": 1161, "owner": "EssayKillerBrain", "forks": 186},
-{"description": "Linux/OSX/FreeBSD resource monitor", "language": "Python", "repo": "bpytop", "new_stars": 269, "stars": 3708, "owner": "aristocratos", "forks": 133},
-{"description": null, "language": "Python", "repo": "multilingual-t5", "new_stars": 213, "stars": 350, "owner": "google-research", "forks": 34},
+{"description": "\u57fa\u4e8e\u5f00\u6e90GPT2.0\u7684\u521d\u4ee3\u521b\u4f5c\u578b\u4eba\u5de5\u667a\u80fd | \u53ef\u6269\u5c55\u3001\u53ef\u8fdb\u5316", "language": "Python", "repo": "EssayKiller_V2", "new_stars": 543, "stars": 1162, "owner": "EssayKillerBrain", "forks": 187},
+{"description": "Linux/OSX/FreeBSD resource monitor", "language": "Python", "repo": "bpytop", "new_stars": 270, "stars": 3709, "owner": "aristocratos", "forks": 133},
+{"description": null, "language": "Python", "repo": "multilingual-t5", "new_stars": 214, "stars": 350, "owner": "google-research", "forks": 34},
 {"description": "Most advanced XSS scanner.", "language": "Python", "repo": "XSStrike", "new_stars": 72, "stars": 8555, "owner": "s0md3v", "forks": 1228},
-{"description": "Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.", "language": "Python", "repo": "malwoverview", "new_stars": 109, "stars": 1116, "owner": "alexandreborges", "forks": 194},
-{"description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more", "language": "Python", "repo": "pytorch-image-models", "new_stars": 233, "stars": 5302, "owner": "rwightman", "forks": 737},
+{"description": "Malwoverview is a first response tool used for downloading and screening malware samples, suspicious URLs, IP address, domains. Malwoverview offers threat hunting information from Virus Total, Hybrid Analysis, URLHaus, Polyswarm, Malshare, Alien Vault, Malpedia, ThreatCrowd, Valhalla and it is able to scan Android devices against VT and HA.", "language": "Python", "repo": "malwoverview", "new_stars": 110, "stars": 1117, "owner": "alexandreborges", "forks": 194},
+{"description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more", "language": "Python", "repo": "pytorch-image-models", "new_stars": 234, "stars": 5303, "owner": "rwightman", "forks": 737},
 {"description": "DeepFaceLab is the leading software for creating deepfakes.", "language": "Python", "repo": "DeepFaceLab", "new_stars": 423, "stars": 20835, "owner": "iperov", "forks": 4880},
 {"description": "A curated list of awesome Python frameworks, libraries, software and resources", "language": "Python", "repo": "awesome-python", "new_stars": 494, "stars": 88271, "owner": "vinta", "forks": 17368},
 {"description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows", "language": "Python", "repo": "airflow", "new_stars": 146, "stars": 18774, "owner": "apache", "forks": 7365},
@@ -23,5 +23,5 @@
 {"description": "Open source home automation that puts local control and privacy first", "language": "Python", "repo": "core", "new_stars": 432, "stars": 36833, "owner": "home-assistant", "forks": 12013},
 {"description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.", "language": "Python", "repo": "pytorch-lightning", "new_stars": 553, "stars": 9624, "owner": "PyTorchLightning", "forks": 1116},
 {"description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.", "language": "Python", "repo": "pytube", "new_stars": 52, "stars": 3588, "owner": "nficano", "forks": 918},
-{"description": "Data parsing and validation using Python type hints", "language": "Python", "repo": "pydantic", "new_stars": 77, "stars": 4489, "owner": "samuelcolvin", "forks": 404}
+{"description": "Data parsing and validation using Python type hints", "language": "Python", "repo": "pydantic", "new_stars": 76, "stars": 4488, "owner": "samuelcolvin", "forks": 404}
 ]

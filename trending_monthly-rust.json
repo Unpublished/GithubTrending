@@ -11,9 +11,9 @@
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 273, "stars": 4074, "owner": "bytecodealliance", "forks": 354},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 239, "stars": 9581, "owner": "tokio-rs", "forks": 888},
 {"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 157, "stars": 4268, "owner": "LemmyNet", "forks": 284},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 746, "stars": 26161, "owner": "alacritty", "forks": 1353},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 746, "stars": 26161, "owner": "alacritty", "forks": 1352},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 212, "stars": 7015, "owner": "hyperium", "forks": 910},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 773, "stars": 49192, "owner": "rust-lang", "forks": 7251},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 773, "stars": 49191, "owner": "rust-lang", "forks": 7251},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 213, "stars": 4003, "owner": "cloudflare", "forks": 253},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 167, "stars": 6106, "owner": "RustPython", "forks": 446},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 958, "stars": 5985, "owner": "dandavison", "forks": 106},
@@ -21,7 +21,7 @@
 {"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 220, "stars": 1631, "owner": "TheAlgorithms", "forks": 281},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 62, "stars": 2452, "owner": "tock", "forks": 334},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 196, "stars": 3185, "owner": "ruffle-rs", "forks": 100},
-{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 185, "stars": 3263, "owner": "tree-sitter", "forks": 216},
+{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 186, "stars": 3264, "owner": "tree-sitter", "forks": 216},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 78, "stars": 2720, "owner": "chyyuu", "forks": 1688},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 88, "stars": 1757, "owner": "cloudflare", "forks": 217}
 ]

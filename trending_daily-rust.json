@@ -1,12 +1,12 @@
 [
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 77, "stars": 4418, "owner": "getzola", "forks": 377},
-{"description": "ASCII globe generator", "language": "Rust", "repo": "globe", "new_stars": 205, "stars": 316, "owner": "adamsky", "forks": 9},
+{"description": "ASCII globe generator", "language": "Rust", "repo": "globe", "new_stars": 207, "stars": 318, "owner": "adamsky", "forks": 9},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 128, "stars": 3298, "owner": "paritytech", "forks": 958},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 18, "stars": 3449, "owner": "seanmonstar", "forks": 345},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 60, "stars": 26164, "owner": "alacritty", "forks": 1352},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 57, "stars": 13747, "owner": "yewstack", "forks": 633},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 61, "stars": 26164, "owner": "alacritty", "forks": 1352},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 58, "stars": 13748, "owner": "yewstack", "forks": 633},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 11, "stars": 4427, "owner": "Geal", "forks": 502},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 54, "stars": 49195, "owner": "rust-lang", "forks": 7252},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 55, "stars": 49196, "owner": "rust-lang", "forks": 7252},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 5, "stars": 3726, "owner": "rust-lang", "forks": 555},
 {"description": "Language Server Protocol (LSP) support for vim and neovim.", "language": "Rust", "repo": "LanguageClient-neovim", "new_stars": 4, "stars": 3068, "owner": "autozimu", "forks": 245},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 5, "stars": 1793, "owner": "rust-lang", "forks": 403},
@@ -22,6 +22,6 @@
 {"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 2, "stars": 31, "owner": "solana-labs", "forks": 46},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 3, "stars": 3715, "owner": "fdehau", "forks": 194},
 {"description": "Tooling for Nitro Enclave Management", "language": "Rust", "repo": "aws-nitro-enclaves-cli", "new_stars": 4, "stars": 13, "owner": "aws", "forks": 3},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 31, "stars": 17450, "owner": "rust-unofficial", "forks": 1176},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 32, "stars": 17451, "owner": "rust-unofficial", "forks": 1176},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 5, "stars": 1031, "owner": "tokio-rs", "forks": 176}
 ]

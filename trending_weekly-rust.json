@@ -5,10 +5,10 @@
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 235, "stars": 252245, "owner": "996icu", "forks": 21117},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 115, "stars": 13749, "owner": "yewstack", "forks": 633},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 148, "stars": 4076, "owner": "bytecodealliance", "forks": 354},
-{"description": "A Kubernetes Resource Interface for the Edge", "language": "Rust", "repo": "akri", "new_stars": 98, "stars": 350, "owner": "deislabs", "forks": 27},
+{"description": "A Kubernetes Resource Interface for the Edge", "language": "Rust", "repo": "akri", "new_stars": 99, "stars": 351, "owner": "deislabs", "forks": 27},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 80, "stars": 3187, "owner": "ruffle-rs", "forks": 100},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 114, "stars": 4420, "owner": "getzola", "forks": 377},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 186, "stars": 49200, "owner": "rust-lang", "forks": 7252},
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 115, "stars": 4421, "owner": "getzola", "forks": 377},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 187, "stars": 49201, "owner": "rust-lang", "forks": 7252},
 {"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 778, "stars": 1881, "owner": "EmbarkStudios", "forks": 42},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 71, "stars": 4645, "owner": "rust-analyzer", "forks": 462},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 33, "stars": 2528, "owner": "http-rs", "forks": 239},
@@ -21,7 +21,7 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 65, "stars": 3265, "owner": "tree-sitter", "forks": 216},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 46, "stars": 1432, "owner": "seed-rs", "forks": 92},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 28, "stars": 2034, "owner": "shadowsocks", "forks": 447},
-{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 156, "stars": 22211, "owner": "BurntSushi", "forks": 978},
+{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 157, "stars": 22212, "owner": "BurntSushi", "forks": 978},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 79, "stars": 6160, "owner": "benfred", "forks": 230},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 53, "stars": 2822, "owner": "launchbadge", "forks": 212}
 ]

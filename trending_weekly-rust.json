@@ -11,8 +11,8 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 56, "stars": 2867, "owner": "launchbadge", "forks": 218},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 62, "stars": 2791, "owner": "rust-embedded", "forks": 171},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 32, "stars": 3927, "owner": "huggingface", "forks": 279},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 90, "stars": 17510, "owner": "rust-unofficial", "forks": 1181},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 188, "stars": 49323, "owner": "rust-lang", "forks": 7275},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 90, "stars": 17510, "owner": "rust-unofficial", "forks": 1182},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 191, "stars": 49326, "owner": "rust-lang", "forks": 7276},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 72, "stars": 4488, "owner": "Geal", "forks": 503},
 {"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 67, "stars": 9687, "owner": "actix", "forks": 1118},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 33, "stars": 2593, "owner": "async-rs", "forks": 250},
@@ -21,7 +21,7 @@
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 65, "stars": 5269, "owner": "rust-lang", "forks": 628},
 {"description": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "glommio", "new_stars": 120, "stars": 695, "owner": "DataDog", "forks": 27},
 {"description": "Lucet, the Sandboxing WebAssembly Compiler.", "language": "Rust", "repo": "lucet", "new_stars": 33, "stars": 3408, "owner": "bytecodealliance", "forks": 137},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 16, "stars": 1009, "owner": "solana-labs", "forks": 239},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 17, "stars": 1010, "owner": "solana-labs", "forks": 239},
 {"description": "Community showcase and examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 15, "stars": 1476, "owner": "actix", "forks": 461},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 32, "stars": 3212, "owner": "ruffle-rs", "forks": 106}
 ]

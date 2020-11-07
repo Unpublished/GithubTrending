@@ -1,6 +1,6 @@
 [
 {"description": "An independent Rust text editor that runs in your terminal!", "language": "Rust", "repo": "ox", "new_stars": 1366, "stars": 1641, "owner": "curlpipe", "forks": 32},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 405, "stars": 4832, "owner": "bevyengine", "forks": 353},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 407, "stars": 4833, "owner": "bevyengine", "forks": 353},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 134, "stars": 22306, "owner": "BurntSushi", "forks": 984},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 90, "stars": 3321, "owner": "paritytech", "forks": 968},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 29, "stars": 1687, "owner": "paritytech", "forks": 387},
@@ -15,7 +15,7 @@
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 72, "stars": 4488, "owner": "Geal", "forks": 502},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 26, "stars": 1448, "owner": "seed-rs", "forks": 92},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 60, "stars": 2790, "owner": "rust-embedded", "forks": 171},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 173, "stars": 49313, "owner": "rust-lang", "forks": 7274},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 174, "stars": 49314, "owner": "rust-lang", "forks": 7274},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 16, "stars": 1009, "owner": "solana-labs", "forks": 239},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 132, "stars": 26248, "owner": "alacritty", "forks": 1366},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 21, "stars": 6107, "owner": "diesel-rs", "forks": 574},
@@ -23,5 +23,5 @@
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 83, "stars": 17506, "owner": "rust-unofficial", "forks": 1182},
 {"description": "A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (", "language": "Rust", "repo": "webrtc", "new_stars": 36, "stars": 185, "owner": "webrtc-rs", "forks": 8},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 16, "stars": 1805, "owner": "rust-lang", "forks": 403},
-{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 29, "stars": 2589, "owner": "async-rs", "forks": 250}
+{"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 30, "stars": 2590, "owner": "async-rs", "forks": 250}
 ]

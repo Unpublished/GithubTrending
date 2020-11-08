@@ -1,14 +1,14 @@
 [
-{"description": "Dumb downloader that scrapes the web", "language": "Python", "repo": "you-get", "new_stars": 1579, "stars": 36702, "owner": "soimort", "forks": 7516},
-{"description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.", "language": "Python", "repo": "fairseq", "new_stars": 1109, "stars": 10206, "owner": "pytorch", "forks": 2533},
-{"description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time", "language": "Python", "repo": "Real-Time-Voice-Cloning", "new_stars": 1693, "stars": 21300, "owner": "CorentinJ", "forks": 4054},
-{"description": "Open source home automation that puts local control and privacy first", "language": "Python", "repo": "core", "new_stars": 1011, "stars": 36978, "owner": "home-assistant", "forks": 12110},
+{"description": "Dumb downloader that scrapes the web", "language": "Python", "repo": "you-get", "new_stars": 1578, "stars": 36703, "owner": "soimort", "forks": 7516},
+{"description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.", "language": "Python", "repo": "fairseq", "new_stars": 1109, "stars": 10207, "owner": "pytorch", "forks": 2533},
+{"description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time", "language": "Python", "repo": "Real-Time-Voice-Cloning", "new_stars": 1694, "stars": 21301, "owner": "CorentinJ", "forks": 4054},
+{"description": "Open source home automation that puts local control and privacy first", "language": "Python", "repo": "core", "new_stars": 1012, "stars": 36978, "owner": "home-assistant", "forks": 12110},
 {"description": "Zipline, a Pythonic Algorithmic Trading Library", "language": "Python", "repo": "zipline", "new_stars": 690, "stars": 12660, "owner": "quantopian", "forks": 3599},
-{"description": "Hunt down social media accounts by username across social networks", "language": "Python", "repo": "sherlock", "new_stars": 1820, "stars": 16725, "owner": "sherlock-project", "forks": 1724},
+{"description": "Hunt down social media accounts by username across social networks", "language": "Python", "repo": "sherlock", "new_stars": 1820, "stars": 16726, "owner": "sherlock-project", "forks": 1724},
 {"description": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2, MNASNet, Single-Path NAS, FBNet, and more", "language": "Python", "repo": "pytorch-image-models", "new_stars": 566, "stars": 5389, "owner": "rwightman", "forks": 753},
-{"description": "High-Resolution 3D Human Digitization from A Single Image.", "language": "Python", "repo": "pifuhd", "new_stars": 804, "stars": 3947, "owner": "facebookresearch", "forks": 438},
-{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 1797, "stars": 36304, "owner": "huggingface", "forks": 8798},
-{"description": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite", "language": "Python", "repo": "yolov5", "new_stars": 730, "stars": 5949, "owner": "ultralytics", "forks": 1829},
+{"description": "High-Resolution 3D Human Digitization from A Single Image.", "language": "Python", "repo": "pifuhd", "new_stars": 814, "stars": 3957, "owner": "facebookresearch", "forks": 439},
+{"description": "Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.", "language": "Python", "repo": "transformers", "new_stars": 1799, "stars": 36306, "owner": "huggingface", "forks": 8798},
+{"description": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite", "language": "Python", "repo": "yolov5", "new_stars": 731, "stars": 5950, "owner": "ultralytics", "forks": 1829},
 {"description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.", "language": "Python", "repo": "pytorch-lightning", "new_stars": 1123, "stars": 9739, "owner": "PyTorchLightning", "forks": 1127},
 {"description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.", "language": "Python", "repo": "Mobile-Security-Framework-MobSF", "new_stars": 764, "stars": 7544, "owner": "MobSF", "forks": 1918},
 {"description": "Python3\u7f51\u7edc\u722c\u866b\u5b9e\u6218\uff1a\u6dd8\u5b9d\u3001\u4eac\u4e1c\u3001\u7f51\u6613\u4e91\u3001B\u7ad9\u300112306\u3001\u6296\u97f3\u3001\u7b14\u8da3\u9601\u3001\u6f2b\u753b\u5c0f\u8bf4\u4e0b\u8f7d\u3001\u97f3\u4e50\u7535\u5f71\u4e0b\u8f7d\u7b49", "language": "Python", "repo": "python-spider", "new_stars": 314, "stars": 11677, "owner": "Jack-Cherish", "forks": 4649},
@@ -23,5 +23,5 @@
 {"description": "\u57fa\u4e8e\u5f00\u6e90GPT2.0\u7684\u521d\u4ee3\u521b\u4f5c\u578b\u4eba\u5de5\u667a\u80fd | \u53ef\u6269\u5c55\u3001\u53ef\u8fdb\u5316", "language": "Python", "repo": "EssayKiller_V2", "new_stars": 972, "stars": 1421, "owner": "EssayKillerBrain", "forks": 246},
 {"description": "Practical Python Programming (course by", "language": "Python", "repo": "practical-python", "new_stars": 1273, "stars": 6674, "owner": "dabeaz-course", "forks": 2986},
 {"description": "Comprehensive Python Cheatsheet", "language": "Python", "repo": "python-cheatsheet", "new_stars": 1197, "stars": 16656, "owner": "gto76", "forks": 3153},
-{"description": "Linux/OSX/FreeBSD resource monitor", "language": "Python", "repo": "bpytop", "new_stars": 1171, "stars": 3952, "owner": "aristocratos", "forks": 144}
+{"description": "Linux/OSX/FreeBSD resource monitor", "language": "Python", "repo": "bpytop", "new_stars": 1172, "stars": 3953, "owner": "aristocratos", "forks": 144}
 ]

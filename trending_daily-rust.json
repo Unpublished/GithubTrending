@@ -1,7 +1,7 @@
 [
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 245, "stars": 4936, "owner": "bevyengine", "forks": 358},
 {"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 93, "stars": 9770, "owner": "valeriansaliou", "forks": 313},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 17, "stars": 9692, "owner": "actix", "forks": 1118},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 18, "stars": 9693, "owner": "actix", "forks": 1118},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 53, "stars": 1762, "owner": "librespot-org", "forks": 234},
 {"description": "Rust Ethereum 2.0 Client", "language": "Rust", "repo": "lighthouse", "new_stars": 9, "stars": 686, "owner": "sigp", "forks": 171},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 11, "stars": 3216, "owner": "ruffle-rs", "forks": 106},
@@ -22,6 +22,6 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 8, "stars": 2056, "owner": "shadowsocks", "forks": 452},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 5, "stars": 17888, "owner": "servo", "forks": 2460},
 {"description": "A World of Warcraft addon manager written in Rust.", "language": "Rust", "repo": "ajour", "new_stars": 15, "stars": 596, "owner": "casperstorm", "forks": 32},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 13, "stars": 3480, "owner": "seanmonstar", "forks": 351},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 15, "stars": 3482, "owner": "seanmonstar", "forks": 351},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 8, "stars": 1459, "owner": "ijl", "forks": 57}
 ]

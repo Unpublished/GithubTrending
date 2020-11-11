@@ -1,17 +1,17 @@
 [
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 504, "stars": 5005, "owner": "bevyengine", "forks": 368},
-{"description": "Deploy your apps on any Cloud providers in just a few seconds", "language": "Rust", "repo": "engine", "new_stars": 1716, "stars": 1894, "owner": "Qovery", "forks": 21},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 498, "stars": 5005, "owner": "bevyengine", "forks": 368},
+{"description": "Deploy your apps on any Cloud providers in just a few seconds", "language": "Rust", "repo": "engine", "new_stars": 1703, "stars": 1895, "owner": "Qovery", "forks": 21},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 83, "stars": 1789, "owner": "librespot-org", "forks": 238},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 184, "stars": 49404, "owner": "rust-lang", "forks": 7288},
-{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 24, "stars": 2062, "owner": "shadowsocks", "forks": 452},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 187, "stars": 49405, "owner": "rust-lang", "forks": 7288},
+{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 23, "stars": 2062, "owner": "shadowsocks", "forks": 452},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 20, "stars": 2721, "owner": "hyperium", "forks": 228},
 {"description": "The Modern Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 76, "stars": 2807, "owner": "RustScan", "forks": 234},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 52, "stars": 9707, "owner": "actix", "forks": 1120},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 160, "stars": 26347, "owner": "alacritty", "forks": 1372},
-{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 60, "stars": 2823, "owner": "rust-embedded", "forks": 172},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 51, "stars": 9707, "owner": "actix", "forks": 1120},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 159, "stars": 26347, "owner": "alacritty", "forks": 1373},
+{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 59, "stars": 2823, "owner": "rust-embedded", "forks": 172},
 {"description": "Async version of the Rust standard library", "language": "Rust", "repo": "async-std", "new_stars": 30, "stars": 2600, "owner": "async-rs", "forks": 250},
-{"description": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "glommio", "new_stars": 60, "stars": 717, "owner": "DataDog", "forks": 28},
-{"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 145, "stars": 9633, "owner": "swc-project", "forks": 214},
+{"description": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "glommio", "new_stars": 58, "stars": 717, "owner": "DataDog", "forks": 28},
+{"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 144, "stars": 9633, "owner": "swc-project", "forks": 214},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 30, "stars": 1700, "owner": "paritytech", "forks": 394},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 147, "stars": 10911, "owner": "starship", "forks": 491},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 63, "stars": 6728, "owner": "wasmerio", "forks": 267},
@@ -23,5 +23,5 @@
 {"description": "Metal IO library for Rust", "language": "Rust", "repo": "mio", "new_stars": 20, "stars": 3937, "owner": "tokio-rs", "forks": 470},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 62, "stars": 5287, "owner": "rust-lang", "forks": 629},
 {"description": "Terminal workspace (WIP)", "language": "Rust", "repo": "mosaic", "new_stars": 28, "stars": 172, "owner": "mosaic-org", "forks": 9},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 43, "stars": 3239, "owner": "ruffle-rs", "forks": 106}
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 45, "stars": 3241, "owner": "ruffle-rs", "forks": 106}
 ]

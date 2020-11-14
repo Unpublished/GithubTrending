@@ -4,7 +4,7 @@
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 526, "stars": 22410, "owner": "BurntSushi", "forks": 985},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 159, "stars": 4046, "owner": "cloudflare", "forks": 259},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 223, "stars": 3279, "owner": "ruffle-rs", "forks": 107},
-{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 258, "stars": 4122, "owner": "bytecodealliance", "forks": 361},
+{"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 259, "stars": 4123, "owner": "bytecodealliance", "forks": 361},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 232, "stars": 1707, "owner": "paritytech", "forks": 396},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 765, "stars": 49474, "owner": "rust-lang", "forks": 7294},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 879, "stars": 252468, "owner": "996icu", "forks": 21121},
@@ -21,7 +21,7 @@
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 224, "stars": 2843, "owner": "rust-embedded", "forks": 173},
 {"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 471, "stars": 9893, "owner": "valeriansaliou", "forks": 317},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 232, "stars": 5309, "owner": "rust-lang", "forks": 631},
-{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 114, "stars": 4439, "owner": "rayon-rs", "forks": 248},
+{"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 115, "stars": 4440, "owner": "rayon-rs", "forks": 248},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 151, "stars": 3506, "owner": "seanmonstar", "forks": 353},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 202, "stars": 3333, "owner": "tree-sitter", "forks": 219}
 ]

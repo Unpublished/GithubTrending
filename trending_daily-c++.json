@@ -1,10 +1,10 @@
 [
-{"description": "KPHP \u2014 a PHP compiler", "language": "C++", "repo": "kphp", "new_stars": 104, "stars": 345, "owner": "VKCOM", "forks": 11},
-{"description": "Open EDR public repository", "language": "C++", "repo": "openedr", "new_stars": 178, "stars": 412, "owner": "ComodoSecurity", "forks": 55},
+{"description": "KPHP \u2014 a PHP compiler", "language": "C++", "repo": "kphp", "new_stars": 100, "stars": 349, "owner": "VKCOM", "forks": 11},
+{"description": "Open EDR public repository", "language": "C++", "repo": "openedr", "new_stars": 179, "stars": 415, "owner": "ComodoSecurity", "forks": 55},
 {"description": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.", "language": "C++", "repo": "connectedhomeip", "new_stars": 1, "stars": 789, "owner": "project-chip", "forks": 141},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 42, "stars": 69308, "owner": "microsoft", "forks": 6360},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 42, "stars": 69308, "owner": "microsoft", "forks": 6361},
 {"description": "Google's Operations Research tools:", "language": "C++", "repo": "or-tools", "new_stars": 1, "stars": 6285, "owner": "google", "forks": 1352},
-{"description": "Reverse Engineers' Hex Editor", "language": "C++", "repo": "rehex", "new_stars": 23, "stars": 386, "owner": "solemnwarning", "forks": 26},
+{"description": "Reverse Engineers' Hex Editor", "language": "C++", "repo": "rehex", "new_stars": 23, "stars": 415, "owner": "solemnwarning", "forks": 26},
 {"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.", "language": "C++", "repo": "bullet3", "new_stars": 6, "stars": 7119, "owner": "bulletphysics", "forks": 1932},
 {"description": "Infrared remote library for Arduino: send and receive infrared signals with multiple protocols", "language": "C++", "repo": "Arduino-IRremote", "new_stars": 4, "stars": 3063, "owner": "z3t0", "forks": 1470},
 {"description": "MegEngine \u662f\u4e00\u4e2a\u5feb\u901f\u3001\u53ef\u62d3\u5c55\u3001\u6613\u4e8e\u4f7f\u7528\u4e14\u652f\u6301\u81ea\u52a8\u6c42\u5bfc\u7684\u6df1\u5ea6\u5b66\u4e60\u6846\u67b6", "language": "C++", "repo": "MegEngine", "new_stars": 13, "stars": 3010, "owner": "MegEngine", "forks": 370},
@@ -12,10 +12,10 @@
 {"description": "The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.", "language": "C++", "repo": "cpprestsdk", "new_stars": 6, "stars": 5773, "owner": "microsoft", "forks": 1343},
 {"description": "GEOSX Simulation Framework", "language": "C++", "repo": "GEOSX", "new_stars": 2, "stars": 37, "owner": "GEOSX", "forks": 15},
 {"description": "DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.", "language": "C++", "repo": "DeepSpeech", "new_stars": 7, "stars": 15732, "owner": "mozilla", "forks": 2925},
-{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 12, "stars": 12330, "owner": "catchorg", "forks": 2069},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 23, "stars": 14091, "owner": "topjohnwu", "forks": 2331},
+{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 11, "stars": 12330, "owner": "catchorg", "forks": 2069},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 24, "stars": 14096, "owner": "topjohnwu", "forks": 2331},
 {"description": "Project Reunion is an evolution of the Windows developer platform that will make it more compatible, agile, modern and open.", "language": "C++", "repo": "ProjectReunion", "new_stars": 8, "stars": 1006, "owner": "microsoft", "forks": 42},
-{"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 19, "stars": 12900, "owner": "ClickHouse", "forks": 2580},
+{"description": "ClickHouse is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 19, "stars": 12900, "owner": "ClickHouse", "forks": 2579},
 {"description": "rAthena is an open-source cross-platform MMORPG server.", "language": "C++", "repo": "rathena", "new_stars": 0, "stars": 1566, "owner": "rathena", "forks": 1464},
 {"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u63a8\u7406 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) \u603b\u6a21\u578b\u4ec54.7M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 7, "stars": 5901, "owner": "ouyanghuiyu", "forks": 1172},
 {"description": "A flexible and efficient deep neural network (DNN) compiler that generates high-performance executable from a DNN model description.", "language": "C++", "repo": "nnfusion", "new_stars": 9, "stars": 295, "owner": "microsoft", "forks": 31},
@@ -23,5 +23,5 @@
 {"description": "Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning.", "language": "C++", "repo": "vowpal_wabbit", "new_stars": 8, "stars": 7302, "owner": "VowpalWabbit", "forks": 1696},
 {"description": "Apache Thrift", "language": "C++", "repo": "thrift", "new_stars": 6, "stars": 7885, "owner": "apache", "forks": 3460},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 7, "stars": 15325, "owner": "google", "forks": 2365},
-{"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 15, "stars": 19168, "owner": "CMU-Perceptual-Computing-Lab", "forks": 5813}
+{"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 14, "stars": 19170, "owner": "CMU-Perceptual-Computing-Lab", "forks": 5812}
 ]

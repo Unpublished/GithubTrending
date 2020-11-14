@@ -1,10 +1,10 @@
 [
-{"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 148, "stars": 1878, "owner": "pretzelhammer", "forks": 86},
+{"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 144, "stars": 1878, "owner": "pretzelhammer", "forks": 86},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 12, "stars": 2910, "owner": "launchbadge", "forks": 224},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 21, "stars": 22408, "owner": "BurntSushi", "forks": 985},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 15, "stars": 9684, "owner": "tokio-rs", "forks": 898},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 49467, "owner": "rust-lang", "forks": 7293},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 15, "stars": 12694, "owner": "rust-lang", "forks": 1600},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 15, "stars": 12695, "owner": "rust-lang", "forks": 1600},
 {"description": "Rust & Vulkan test projects", "language": "Rust", "repo": "rust_test", "new_stars": 23, "stars": 158, "owner": "sebbbi", "forks": 8},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 4, "stars": 15304, "owner": "libra", "forks": 2318},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 3, "stars": 2728, "owner": "hyperium", "forks": 232},
@@ -13,7 +13,7 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 10, "stars": 3348, "owner": "paritytech", "forks": 980},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 5, "stars": 8809, "owner": "nushell", "forks": 450},
 {"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 9, "stars": 9726, "owner": "actix", "forks": 1121},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 23, "stars": 26401, "owner": "alacritty", "forks": 1380},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 23, "stars": 26402, "owner": "alacritty", "forks": 1380},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 3, "stars": 1187, "owner": "mullvad", "forks": 110},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 0, "stars": 2180, "owner": "blockstack", "forks": 405},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 8, "stars": 4506, "owner": "Geal", "forks": 510},
@@ -21,7 +21,7 @@
 {"description": "Community showcase and examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 2, "stars": 1486, "owner": "actix", "forks": 465},
 {"description": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "glommio", "new_stars": 6, "stars": 727, "owner": "DataDog", "forks": 30},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 1, "stars": 1119, "owner": "tower-rs", "forks": 88},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 7, "stars": 3503, "owner": "seanmonstar", "forks": 353},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 7, "stars": 3504, "owner": "seanmonstar", "forks": 353},
 {"description": "Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust", "language": "Rust", "repo": "i3status-rust", "new_stars": 4, "stars": 1424, "owner": "greshake", "forks": 272},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 6, "stars": 2582, "owner": "ggez", "forks": 327}
 ]

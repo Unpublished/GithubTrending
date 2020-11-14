@@ -1,9 +1,9 @@
 [
-{"description": "Common used path planning algorithms with animations.", "language": "Python", "repo": "PathPlanning", "new_stars": 113, "stars": 655, "owner": "zhm-real", "forks": 129},
+{"description": "Common used path planning algorithms with animations.", "language": "Python", "repo": "PathPlanning", "new_stars": 113, "stars": 660, "owner": "zhm-real", "forks": 129},
 {"description": "Py2/py3 script that can download macOS components direct from Apple", "language": "Python", "repo": "gibMacOS", "new_stars": 90, "stars": 2455, "owner": "corpnewt", "forks": 349},
-{"description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.", "language": "Python", "repo": "30-Days-Of-Python", "new_stars": 63, "stars": 2634, "owner": "Asabeneh", "forks": 651},
-{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 206, "stars": 100111, "owner": "public-apis", "forks": 12250},
-{"description": "Bringing Old Photo Back to Life (CVPR 2020 oral)", "language": "Python", "repo": "Bringing-Old-Photos-Back-to-Life", "new_stars": 11, "stars": 1689, "owner": "microsoft", "forks": 194},
+{"description": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.", "language": "Python", "repo": "30-Days-Of-Python", "new_stars": 63, "stars": 2639, "owner": "Asabeneh", "forks": 653},
+{"description": "A collective list of free APIs for use in software and web development.", "language": "Python", "repo": "public-apis", "new_stars": 206, "stars": 100117, "owner": "public-apis", "forks": 12250},
+{"description": "Bringing Old Photo Back to Life (CVPR 2020 oral)", "language": "Python", "repo": "Bringing-Old-Photos-Back-to-Life", "new_stars": 11, "stars": 1692, "owner": "microsoft", "forks": 194},
 {"description": "YOLOv5 in PyTorch > ONNX > CoreML > TFLite", "language": "Python", "repo": "yolov5", "new_stars": 40, "stars": 6126, "owner": "ultralytics", "forks": 1909},
 {"description": "Run macOS on QEMU/KVM. Only commercial support is available. With OpenCore + Big Sur support now!", "language": "Python", "repo": "OSX-KVM", "new_stars": 27, "stars": 9766, "owner": "kholia", "forks": 972},
 {"description": "Printer Exploitation Toolkit - The tool that made dumpster diving obsolete.", "language": "Python", "repo": "PRET", "new_stars": 80, "stars": 2506, "owner": "RUB-NDS", "forks": 477},
@@ -12,9 +12,9 @@
 {"description": "Detectron2 is FAIR's next-generation platform for object detection and segmentation.", "language": "Python", "repo": "detectron2", "new_stars": 19, "stars": 13515, "owner": "facebookresearch", "forks": 3321},
 {"description": "The most widely used Python to C compiler", "language": "Python", "repo": "cython", "new_stars": 4, "stars": 5620, "owner": "cython", "forks": 1101},
 {"description": "Scripts of possible interest to macOS admins", "language": "Python", "repo": "macadmin-scripts", "new_stars": 61, "stars": 1259, "owner": "munki", "forks": 312},
-{"description": "A unified toolbox for machine learning with time series", "language": "Python", "repo": "sktime", "new_stars": 10, "stars": 2588, "owner": "alan-turing-institute", "forks": 351},
+{"description": "A unified toolbox for machine learning with time series", "language": "Python", "repo": "sktime", "new_stars": 10, "stars": 2589, "owner": "alan-turing-institute", "forks": 351},
 {"description": "Daily hacker news top stories. Subscribe the hackernews daily top stories by watching this repo.", "language": "Python", "repo": "daily-hackernews", "new_stars": 5, "stars": 28, "owner": "xueyuanl", "forks": 3},
-{"description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.", "language": "Python", "repo": "pytorch-lightning", "new_stars": 20, "stars": 9845, "owner": "PyTorchLightning", "forks": 1140},
+{"description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.", "language": "Python", "repo": "pytorch-lightning", "new_stars": 20, "stars": 9846, "owner": "PyTorchLightning", "forks": 1140},
 {"description": "scikit-learn: machine learning in Python", "language": "Python", "repo": "scikit-learn", "new_stars": 18, "stars": 42928, "owner": "scikit-learn", "forks": 20613},
 {"description": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python", "language": "Python", "repo": "autoscraper", "new_stars": 77, "stars": 2705, "owner": "alirezamika", "forks": 245},
 {"description": "An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.", "language": "Python", "repo": "ray", "new_stars": 18, "stars": 13776, "owner": "ray-project", "forks": 2185},
@@ -22,6 +22,6 @@
 {"description": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy", "language": "Python", "repo": "bird-bot", "new_stars": 35, "stars": 1049, "owner": "natewong1313", "forks": 307},
 {"description": "Face Analysis Project on MXNet", "language": "Python", "repo": "insightface", "new_stars": 12, "stars": 8014, "owner": "deepinsight", "forks": 2779},
 {"description": "Cross platform GUI plist editor written in python.", "language": "Python", "repo": "ProperTree", "new_stars": 8, "stars": 753, "owner": "corpnewt", "forks": 131},
-{"description": "\u5b66\u4e60\u5f3a\u56fd xuexiqiangguo \u5168\u7f51\u6700\u597d\u7528\u5b66\u4e60\u5f3a\u56fd\u52a9\u624b\uff1aTechXueXi \uff08\u61d2\u4eba\u5237\u5206\u5de5\u5177 \u81ea\u52a8\u5b66\u4e60\uff09\u6280\u672f\u5f3a\u56fd\uff0c\u652f\u6301\u7b54\u9898\uff0c\u4e0b\u8f7d\u5730\u5740\uff1a", "language": "Python", "repo": "TechXueXi", "new_stars": 10, "stars": 516, "owner": "TechXueXi", "forks": 140},
+{"description": "\u5b66\u4e60\u5f3a\u56fd xuexiqiangguo \u5168\u7f51\u6700\u597d\u7528\u5b66\u4e60\u5f3a\u56fd\u52a9\u624b\uff1aTechXueXi \uff08\u61d2\u4eba\u5237\u5206\u5de5\u5177 \u81ea\u52a8\u5b66\u4e60\uff09\u6280\u672f\u5f3a\u56fd\uff0c\u652f\u6301\u7b54\u9898\uff0c\u4e0b\u8f7d\u5730\u5740\uff1a", "language": "Python", "repo": "TechXueXi", "new_stars": 10, "stars": 517, "owner": "TechXueXi", "forks": 139},
 {"description": "Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.", "language": "Python", "repo": "diff-match-patch", "new_stars": 6, "stars": 3746, "owner": "google", "forks": 687}
 ]

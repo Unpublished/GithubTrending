@@ -1,5 +1,5 @@
 [
-{"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 144, "stars": 1849, "owner": "pretzelhammer", "forks": 84},
+{"description": "Educational blog posts for Rust beginners", "language": "Rust", "repo": "rust-blog", "new_stars": 148, "stars": 1851, "owner": "pretzelhammer", "forks": 84},
 {"description": "Rust & Vulkan test projects", "language": "Rust", "repo": "rust_test", "new_stars": 23, "stars": 156, "owner": "sebbbi", "forks": 8},
 {"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 11, "stars": 2070, "owner": "EmbarkStudios", "forks": 48},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 8318, "owner": "tikv", "forks": 1287},
@@ -22,6 +22,6 @@
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 10, "stars": 3348, "owner": "paritytech", "forks": 979},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 1, "stars": 1119, "owner": "tower-rs", "forks": 88},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 12, "stars": 2907, "owner": "launchbadge", "forks": 224},
-{"description": "AUR helper based on yay", "language": "Rust", "repo": "paru", "new_stars": 3, "stars": 300, "owner": "Morganamilo", "forks": 21},
+{"description": "AUR helper based on yay", "language": "Rust", "repo": "paru", "new_stars": 3, "stars": 302, "owner": "Morganamilo", "forks": 21},
 {"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 4, "stars": 2564, "owner": "http-rs", "forks": 245}
 ]

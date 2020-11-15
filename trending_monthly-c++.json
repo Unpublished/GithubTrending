@@ -1,16 +1,16 @@
 [
-{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 1557, "stars": 8667, "owner": "changkun", "forks": 1209},
+{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 1558, "stars": 8668, "owner": "changkun", "forks": 1209},
 {"description": "Awesome multilingual OCR toolkits based on PaddlePaddle \uff08multilingual recognition: English, Chinese, Korean, Japanese, German, French etc. 3.5M practical ultra lightweight OCR system, support training and deployment among server, mobile, embedded and IoT devices\uff09", "language": "C++", "repo": "PaddleOCR", "new_stars": 2373, "stars": 6579, "owner": "PaddlePaddle", "forks": 1244},
 {"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 2022, "stars": 19281, "owner": "commaai", "forks": 4308},
-{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 3514, "stars": 42772, "owner": "microsoft", "forks": 2333},
+{"description": "Windows system utilities to maximize productivity", "language": "C++", "repo": "PowerToys", "new_stars": 3516, "stars": 42774, "owner": "microsoft", "forks": 2333},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 663, "stars": 21222, "owner": "nlohmann", "forks": 3766},
 {"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 112, "stars": 3056, "owner": "tdlib", "forks": 613},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 930, "stars": 24839, "owner": "ocornut", "forks": 4154},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 931, "stars": 24840, "owner": "ocornut", "forks": 4154},
 {"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 170, "stars": 1764, "owner": "OneLoneCoder", "forks": 484},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 460, "stars": 3501, "owner": "Aircoookie", "forks": 595},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 440, "stars": 28203, "owner": "grpc", "forks": 7200},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 441, "stars": 28204, "owner": "grpc", "forks": 7200},
 {"description": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.", "language": "C++", "repo": "mediapipe", "new_stars": 515, "stars": 9693, "owner": "google", "forks": 1820},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1213, "stars": 150111, "owner": "tensorflow", "forks": 83223},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1214, "stars": 150111, "owner": "tensorflow", "forks": 83223},
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 288, "stars": 20561, "owner": "microsoft", "forks": 3616},
 {"description": "SRS is a RTMP/HLS/WebRTC/SRT/GB28181 streaming cluster, high efficiency, stable and simple.", "language": "C++", "repo": "srs", "new_stars": 292, "stars": 10005, "owner": "ossrs", "forks": 3362},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 342, "stars": 15207, "owner": "envoyproxy", "forks": 2651},
@@ -20,8 +20,8 @@
 {"description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.", "language": "C++", "repo": "xbmc", "new_stars": 140, "stars": 11377, "owner": "xbmc", "forks": 5569},
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 449, "stars": 12458, "owner": "ValveSoftware", "forks": 494},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 290, "stars": 10480, "owner": "qbittorrent", "forks": 1883},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 905, "stars": 43870, "owner": "pytorch", "forks": 11541},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 906, "stars": 43871, "owner": "pytorch", "forks": 11541},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 291, "stars": 13567, "owner": "telegramdesktop", "forks": 3038},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 563, "stars": 44752, "owner": "protocolbuffers", "forks": 12018},
-{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 527, "stars": 8859, "owner": "MarlinFirmware", "forks": 12277}
+{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 527, "stars": 8859, "owner": "MarlinFirmware", "forks": 12276}
 ]

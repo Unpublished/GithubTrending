@@ -1,14 +1,14 @@
 [
 {"description": "Deploy your apps on any Cloud providers in just a few seconds", "language": "Rust", "repo": "engine", "new_stars": 761, "stars": 2139, "owner": "Qovery", "forks": 22},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 547, "stars": 11386, "owner": "starship", "forks": 503},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 142, "stars": 5077, "owner": "bevyengine", "forks": 377},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 559, "stars": 11398, "owner": "starship", "forks": 503},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 143, "stars": 5078, "owner": "bevyengine", "forks": 377},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 65, "stars": 3284, "owner": "ruffle-rs", "forks": 107},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 78, "stars": 6771, "owner": "wasmerio", "forks": 270},
-{"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 140, "stars": 9914, "owner": "valeriansaliou", "forks": 317},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 178, "stars": 49502, "owner": "rust-lang", "forks": 7298},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 162, "stars": 26428, "owner": "alacritty", "forks": 1386},
+{"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 138, "stars": 9914, "owner": "valeriansaliou", "forks": 317},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 178, "stars": 49503, "owner": "rust-lang", "forks": 7298},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 163, "stars": 26429, "owner": "alacritty", "forks": 1386},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 24, "stars": 1796, "owner": "librespot-org", "forks": 238},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 201, "stars": 252477, "owner": "996icu", "forks": 21118},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 201, "stars": 252475, "owner": "996icu", "forks": 21118},
 {"description": "Shared cockpit for Microsoft Flight Simulator.", "language": "Rust", "repo": "yourcontrols", "new_stars": 17, "stars": 117, "owner": "Sequal32", "forks": 7},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 66, "stars": 9695, "owner": "tokio-rs", "forks": 898},
 {"description": "The Modern Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 61, "stars": 2843, "owner": "RustScan", "forks": 237},
@@ -22,6 +22,6 @@
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 33, "stars": 3088, "owner": "PyO3", "forks": 205},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 57, "stars": 2927, "owner": "launchbadge", "forks": 228},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 11, "stars": 1021, "owner": "solana-labs", "forks": 245},
-{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 42, "stars": 2849, "owner": "rust-embedded", "forks": 172},
+{"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 43, "stars": 2850, "owner": "rust-embedded", "forks": 172},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 113, "stars": 12716, "owner": "rust-lang", "forks": 1606}
 ]

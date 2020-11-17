@@ -1,12 +1,12 @@
 [
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 35, "stars": 23786, "owner": "Homebrew", "forks": 5558},
-{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 3, "stars": 893, "owner": "rswag", "forks": 242},
-{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 5, "stars": 17505, "owner": "ruby", "forks": 4676},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 14, "stars": 30141, "owner": "fastlane", "forks": 4719},
-{"description": "Open Cloud Security Posture Management Engine", "language": "Ruby", "repo": "opencspm", "new_stars": 18, "stars": 96, "owner": "OpenCSPM", "forks": 4},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 35, "stars": 23787, "owner": "Homebrew", "forks": 5558},
+{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 2, "stars": 893, "owner": "rswag", "forks": 242},
+{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 5, "stars": 17505, "owner": "ruby", "forks": 4675},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 12, "stars": 30141, "owner": "fastlane", "forks": 4719},
+{"description": "Open Cloud Security Posture Management Engine", "language": "Ruby", "repo": "opencspm", "new_stars": 20, "stars": 99, "owner": "OpenCSPM", "forks": 4},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 4, "stars": 6403, "owner": "chef", "forks": 2460},
-{"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 2, "stars": 3669, "owner": "instructure", "forks": 1571},
-{"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 3, "stars": 3372, "owner": "luggit", "forks": 543},
+{"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 1, "stars": 3669, "owner": "instructure", "forks": 1571},
+{"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 2, "stars": 3372, "owner": "luggit", "forks": 543},
 {"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 6, "stars": 516, "owner": "jsonapi-serializer", "forks": 56},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 11, "stars": 30096, "owner": "huginn", "forks": 2848},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 12809, "owner": "CocoaPods", "forks": 2332},
@@ -21,7 +21,7 @@
 {"description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks", "language": "Ruby", "repo": "carrierwave", "new_stars": 1, "stars": 8545, "owner": "carrierwaveuploader", "forks": 1552},
 {"description": "File Attachment toolkit for Ruby applications", "language": "Ruby", "repo": "shrine", "new_stars": 1, "stars": 2740, "owner": "shrinerb", "forks": 224},
 {"description": "A really simple end-user interface for your BigBlueButton server.", "language": "Ruby", "repo": "greenlight", "new_stars": 0, "stars": 477, "owner": "bigbluebutton", "forks": 3065},
-{"description": "The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot", "language": "Ruby", "repo": "dependabot-core", "new_stars": 1, "stars": 1514, "owner": "dependabot", "forks": 370},
+{"description": "The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot", "language": "Ruby", "repo": "dependabot-core", "new_stars": 1, "stars": 1515, "owner": "dependabot", "forks": 370},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 1, "stars": 4716, "owner": "activerecord-hackery", "forks": 710},
 {"description": "Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 3, "stars": 3435, "owner": "Homebrew", "forks": 214}
 ]

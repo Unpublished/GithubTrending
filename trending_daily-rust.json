@@ -1,11 +1,11 @@
 [
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 203, "stars": 3599, "owner": "ruffle-rs", "forks": 117},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 203, "stars": 3608, "owner": "ruffle-rs", "forks": 117},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 239, "stars": 18635, "owner": "servo", "forks": 2499},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 7, "stars": 13092, "owner": "firecracker-microvm", "forks": 919},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 49631, "owner": "rust-lang", "forks": 7309},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 31, "stars": 49632, "owner": "rust-lang", "forks": 7309},
 {"description": "Source code for crates.io", "language": "Rust", "repo": "crates.io", "new_stars": 6, "stars": 1824, "owner": "rust-lang", "forks": 409},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 6, "stars": 2752, "owner": "hyperium", "forks": 231},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 17, "stars": 9738, "owner": "tokio-rs", "forks": 901},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 17, "stars": 9739, "owner": "tokio-rs", "forks": 901},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 6, "stars": 6150, "owner": "rust-lang", "forks": 1277},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 4, "stars": 2757, "owner": "chyyuu", "forks": 1705},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 28, "stars": 23877, "owner": "sharkdp", "forks": 591},
@@ -22,6 +22,6 @@
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 10, "stars": 7091, "owner": "hyperium", "forks": 920},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 4, "stars": 3757, "owner": "rust-lang", "forks": 558},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 10, "stars": 6807, "owner": "wasmerio", "forks": 271},
-{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 82, "stars": 2625, "owner": "extrawurst", "forks": 100},
+{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 82, "stars": 2626, "owner": "extrawurst", "forks": 100},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 7, "stars": 1495, "owner": "WebAssembly", "forks": 106}
 ]

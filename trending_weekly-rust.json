@@ -1,10 +1,10 @@
 [
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 1258, "stars": 12192, "owner": "starship", "forks": 520},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 778, "stars": 18658, "owner": "servo", "forks": 2501},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 609, "stars": 3874, "owner": "ruffle-rs", "forks": 134},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 611, "stars": 3876, "owner": "ruffle-rs", "forks": 134},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 628, "stars": 26987, "owner": "alacritty", "forks": 1397},
-{"description": "Ping, but with a graph", "language": "Rust", "repo": "gping", "new_stars": 2255, "stars": 3411, "owner": "orf", "forks": 128},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 162, "stars": 10184, "owner": "meilisearch", "forks": 311},
+{"description": "Ping, but with a graph", "language": "Rust", "repo": "gping", "new_stars": 2257, "stars": 3411, "owner": "orf", "forks": 128},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 163, "stars": 10185, "owner": "meilisearch", "forks": 311},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 46, "stars": 3547, "owner": "seanmonstar", "forks": 361},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 227, "stars": 49656, "owner": "rust-lang", "forks": 7312},
 {"description": "OS kernel labs based on Rust Lang & RISC-V 64", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 22, "stars": 2758, "owner": "chyyuu", "forks": 1707},
@@ -22,6 +22,6 @@
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 63, "stars": 2961, "owner": "launchbadge", "forks": 235},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 99, "stars": 17633, "owner": "rust-unofficial", "forks": 1195},
 {"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 97, "stars": 2099, "owner": "dtolnay", "forks": 82},
-{"description": "The Lunatic VM", "language": "Rust", "repo": "lunatic", "new_stars": 265, "stars": 390, "owner": "lunatic-lang", "forks": 6},
+{"description": "The Lunatic VM", "language": "Rust", "repo": "lunatic", "new_stars": 266, "stars": 391, "owner": "lunatic-lang", "forks": 6},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 76, "stars": 5377, "owner": "rust-lang", "forks": 630}
 ]

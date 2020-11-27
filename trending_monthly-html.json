@@ -1,7 +1,7 @@
 [
 {"description": "\u6e05\u534e\u5927\u5b66\u8ba1\u7b97\u673a\u7cfb\u8bfe\u7a0b\u653b\u7565 Guidance for courses in Department of Computer Science and Technology, Tsinghua University", "language": "HTML", "repo": "REKCARC-TSC-UHT", "new_stars": 457, "stars": 15706, "owner": "PKUanonym", "forks": 4536},
-{"description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev", "language": "HTML", "repo": "free-for-dev", "new_stars": 2068, "stars": 40970, "owner": "ripienaar", "forks": 4305},
-{"description": null, "language": "HTML", "repo": "docker-development-youtube-series", "new_stars": 118, "stars": 450, "owner": "marcel-dempers", "forks": 424},
+{"description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev", "language": "HTML", "repo": "free-for-dev", "new_stars": 2075, "stars": 40976, "owner": "ripienaar", "forks": 4306},
+{"description": null, "language": "HTML", "repo": "docker-development-youtube-series", "new_stars": 119, "stars": 451, "owner": "marcel-dempers", "forks": 424},
 {"description": "2020\u4e2d\u56fd\u7ffb\u5899\u8f6f\u4ef6VPN\u63a8\u8350\u6307\u5357\uff0c\u4ee5\u53ca\u5bf9\u6bd4VPS\u642d\u5efa\u68af\u5b50\u3001SSR\u673a\u573a\u3001\u84dd\u706f\u3001WireGuard\u3001V2ray\u3001\u8001\u738bVPN\u7b49\u79d1\u5b66\u4e0a\u7f51\u8f6f\u4ef6\u4e0e\u7ffb\u5899\u65b9\u6cd5\uff0c\u4e2d\u56fd\u6700\u65b0\u79d1\u5b66\u4e0a\u7f51\u7ffb\u5899VPN\u68af\u5b50\u4e0b\u8f7d\u63a8\u8350\uff0c\u7a33\u5b9a\u597d\u7528\u3002", "language": "HTML", "repo": "vpncn.github.io", "new_stars": 186, "stars": 918, "owner": "vpncn", "forks": 139},
 {"description": "\u6c38\u4e45\u514d\u8d39\u5f00\u6e90\u7684\u5bfc\u5e08\u8bc4\u4ef7\u6570\u636e\u3001\u6570\u636e\u722c\u866b\u3001\u65e0\u9700\u7f16\u7a0b\u57fa\u7840\u7684\u5c55\u793a\u7f51\u9875\u4ee5\u53ca\u65b0\u4fe1\u606f\u8865\u5145\u5e73\u53f0", "language": "HTML", "repo": "RateMySupervisor", "new_stars": 263, "stars": 741, "owner": "kgco", "forks": 105},
 {"description": "Cloud hosting website", "language": "HTML", "repo": "loruki-website", "new_stars": 111, "stars": 227, "owner": "bradtraversy", "forks": 125},
@@ -15,13 +15,13 @@
 {"description": "Amazon EKS Helm chart repository", "language": "HTML", "repo": "eks-charts", "new_stars": 50, "stars": 313, "owner": "aws", "forks": 169},
 {"description": "AI education materials for Chinese students, teachers and IT professionals.", "language": "HTML", "repo": "ai-edu", "new_stars": 215, "stars": 8516, "owner": "microsoft", "forks": 2066},
 {"description": "AWS Certified Solutions Architect - Associate", "language": "HTML", "repo": "Course-Certified-Solutions-Architect-Associate", "new_stars": 9, "stars": 15, "owner": "ACloudGuru-Resources", "forks": 168},
-{"description": "Style guides for Google-originated open-source projects", "language": "HTML", "repo": "styleguide", "new_stars": 381, "stars": 26011, "owner": "google", "forks": 9828},
-{"description": "Hugo Theme PaperMod", "language": "HTML", "repo": "hugo-PaperMod", "new_stars": 101, "stars": 180, "owner": "adityatelange", "forks": 100},
+{"description": "Style guides for Google-originated open-source projects", "language": "HTML", "repo": "styleguide", "new_stars": 382, "stars": 26012, "owner": "google", "forks": 9828},
+{"description": "Hugo Theme PaperMod", "language": "HTML", "repo": "hugo-PaperMod", "new_stars": 102, "stars": 181, "owner": "adityatelange", "forks": 100},
 {"description": "Un blog incre\u00edble para el curso de Git y Github de Platzi", "language": "HTML", "repo": "hyperblog", "new_stars": 264, "stars": 3158, "owner": "freddier", "forks": 4707},
 {"description": "Helm Charts", "language": "HTML", "repo": "charts", "new_stars": 168, "stars": 2206, "owner": "bitnami", "forks": 2162},
 {"description": "Amundsen is a metadata driven application for improving the productivity of data analysts, data scientists and engineers when interacting with data.", "language": "HTML", "repo": "amundsen", "new_stars": 124, "stars": 1543, "owner": "amundsen-io", "forks": 309},
 {"description": "Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap", "language": "HTML", "repo": "tabler", "new_stars": 198, "stars": 22275, "owner": "tabler", "forks": 2443},
 {"description": "Build a beautiful and simple website in literally minutes. Demo at", "language": "HTML", "repo": "beautiful-jekyll", "new_stars": 66, "stars": 3004, "owner": "daattali", "forks": 9550},
 {"description": "This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL", "language": "HTML", "repo": "ansible-collection-hardening", "new_stars": 76, "stars": 1849, "owner": "dev-sec", "forks": 356},
-{"description": "deeplearning.ai\uff08\u5434\u6069\u8fbe\u8001\u5e08\u7684\u6df1\u5ea6\u5b66\u4e60\u8bfe\u7a0b\u7b14\u8bb0\u53ca\u8d44\u6e90\uff09", "language": "HTML", "repo": "deeplearning_ai_books", "new_stars": 256, "stars": 12284, "owner": "fengdu78", "forks": 4693}
+{"description": "deeplearning.ai\uff08\u5434\u6069\u8fbe\u8001\u5e08\u7684\u6df1\u5ea6\u5b66\u4e60\u8bfe\u7a0b\u7b14\u8bb0\u53ca\u8d44\u6e90\uff09", "language": "HTML", "repo": "deeplearning_ai_books", "new_stars": 257, "stars": 12284, "owner": "fengdu78", "forks": 4693}
 ]

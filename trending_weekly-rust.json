@@ -1,10 +1,10 @@
 [
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 926, "stars": 4453, "owner": "ruffle-rs", "forks": 147},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 929, "stars": 4455, "owner": "ruffle-rs", "forks": 147},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 264, "stars": 9986, "owner": "tokio-rs", "forks": 918},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 110, "stars": 13197, "owner": "firecracker-microvm", "forks": 929},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 170, "stars": 7693, "owner": "hecrj", "forks": 316},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 176, "stars": 7698, "owner": "hecrj", "forks": 316},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 209, "stars": 49803, "owner": "rust-lang", "forks": 7326},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 42, "stars": 8384, "owner": "tikv", "forks": 1298},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 41, "stars": 8385, "owner": "tikv", "forks": 1298},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 253, "stars": 27175, "owner": "alacritty", "forks": 1412},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 108, "stars": 9803, "owner": "swc-project", "forks": 222},
 {"description": "A high-performance, end-to-end observability data platform.", "language": "Rust", "repo": "vector", "new_stars": 57, "stars": 5723, "owner": "timberio", "forks": 357},
@@ -17,11 +17,11 @@
 {"description": "The fast, light, and robust client for the Ethereum mainnet.", "language": "Rust", "repo": "openethereum", "new_stars": 13, "stars": 69, "owner": "openethereum", "forks": 23},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 135, "stars": 13047, "owner": "rust-lang", "forks": 1622},
 {"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 42, "stars": 2126, "owner": "dtolnay", "forks": 87},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 29, "stars": 5089, "owner": "clap-rs", "forks": 496},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 30, "stars": 5090, "owner": "clap-rs", "forks": 496},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 33, "stars": 8867, "owner": "nushell", "forks": 454},
 {"description": "A low-overhead Vulkan-like GPU API for Rust.", "language": "Rust", "repo": "gfx", "new_stars": 28, "stars": 4389, "owner": "gfx-rs", "forks": 502},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 76, "stars": 7302, "owner": "tauri-apps", "forks": 174},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 15, "stars": 3767, "owner": "rust-lang", "forks": 559},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 59, "stars": 9825, "owner": "actix", "forks": 1119},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 60, "stars": 9826, "owner": "actix", "forks": 1119},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 26, "stars": 3272, "owner": "graphql-rust", "forks": 281}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 70, "stars": 7692, "owner": "hecrj", "forks": 316},
 {"description": "CUDA on Intel GPUs", "language": "Rust", "repo": "ZLUDA", "new_stars": 117, "stars": 263, "owner": "vosen", "forks": 9},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 11, "stars": 13044, "owner": "rust-lang", "forks": 1621},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 11, "stars": 13044, "owner": "rust-lang", "forks": 1622},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 10, "stars": 3272, "owner": "graphql-rust", "forks": 281},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 15, "stars": 9801, "owner": "swc-project", "forks": 221},
 {"description": "Community showcase and examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 2, "stars": 1516, "owner": "actix", "forks": 472},
@@ -13,7 +13,7 @@
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 10, "stars": 3388, "owner": "tree-sitter", "forks": 225},
 {"description": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "glommio", "new_stars": 40, "stars": 859, "owner": "DataDog", "forks": 32},
 {"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 7, "stars": 5034, "owner": "bottlerocket-os", "forks": 200},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 9823, "owner": "actix", "forks": 1120},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 9824, "owner": "actix", "forks": 1120},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 8, "stars": 3151, "owner": "PyO3", "forks": 211},
 {"description": "Libra\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "libra", "new_stars": 8, "stars": 15335, "owner": "libra", "forks": 2326},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 17, "stars": 13195, "owner": "firecracker-microvm", "forks": 928},

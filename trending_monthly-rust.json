@@ -1,13 +1,13 @@
 [
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 933, "stars": 5309, "owner": "bevyengine", "forks": 395},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 927, "stars": 5309, "owner": "bevyengine", "forks": 395},
 {"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 1231, "stars": 27204, "owner": "alacritty", "forks": 1410},
-{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 1836, "stars": 12467, "owner": "starship", "forks": 524},
+{"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 1837, "stars": 12468, "owner": "starship", "forks": 524},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 918, "stars": 18714, "owner": "servo", "forks": 2510},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 493, "stars": 10011, "owner": "tokio-rs", "forks": 919},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 845, "stars": 49830, "owner": "rust-lang", "forks": 7331},
-{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 550, "stars": 22644, "owner": "BurntSushi", "forks": 996},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 1491, "stars": 4600, "owner": "ruffle-rs", "forks": 155},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 491, "stars": 7781, "owner": "hecrj", "forks": 320},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 846, "stars": 49831, "owner": "rust-lang", "forks": 7332},
+{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 553, "stars": 22647, "owner": "BurntSushi", "forks": 996},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 1494, "stars": 4603, "owner": "ruffle-rs", "forks": 155},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 492, "stars": 7782, "owner": "hecrj", "forks": 320},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 220, "stars": 2995, "owner": "launchbadge", "forks": 241},
 {"description": "Glommio is a thread-per-core framework that aims to make the task of writing highly parallel asynchronous application in a thread-per-core architecture easier for rustaceans", "language": "Rust", "repo": "glommio", "new_stars": 301, "stars": 872, "owner": "DataDog", "forks": 33},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 641, "stars": 13069, "owner": "rust-lang", "forks": 1626},
@@ -21,7 +21,7 @@
 {"description": "An independent Rust text editor that runs in your terminal!", "language": "Rust", "repo": "ox", "new_stars": 1934, "stars": 2198, "owner": "curlpipe", "forks": 50},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 169, "stars": 3583, "owner": "seanmonstar", "forks": 362},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 125, "stars": 5220, "owner": "pingcap", "forks": 729},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 321, "stars": 7312, "owner": "tauri-apps", "forks": 174},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 322, "stars": 7313, "owner": "tauri-apps", "forks": 174},
 {"description": "Rust Ethereum 2.0 Client", "language": "Rust", "repo": "lighthouse", "new_stars": 87, "stars": 752, "owner": "sigp", "forks": 183},
 {"description": "Shared cockpit for Microsoft Flight Simulator.", "language": "Rust", "repo": "yourcontrols", "new_stars": 61, "stars": 147, "owner": "Sequal32", "forks": 7}
 ]

@@ -1,15 +1,15 @@
 [
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 27, "stars": 24342, "owner": "Homebrew", "forks": 5620},
-{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 8, "stars": 8391, "owner": "Homebrew", "forks": 8653},
-{"description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 9, "stars": 6473, "owner": "chatwoot", "forks": 617},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 30, "stars": 24346, "owner": "Homebrew", "forks": 5620},
+{"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 8, "stars": 8392, "owner": "Homebrew", "forks": 8653},
+{"description": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 10, "stars": 6475, "owner": "chatwoot", "forks": 617},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 1, "stars": 4523, "owner": "rmosolgo", "forks": 1010},
 {"description": "InSpec: Auditing and Testing Framework", "language": "Ruby", "repo": "inspec", "new_stars": 1, "stars": 2225, "owner": "inspec", "forks": 604},
-{"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 1, "stars": 6585, "owner": "puma", "forks": 1186},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 4, "stars": 11821, "owner": "elastic", "forks": 3094},
+{"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 0, "stars": 6585, "owner": "puma", "forks": 1186},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 3, "stars": 11821, "owner": "elastic", "forks": 3094},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 4, "stars": 3399, "owner": "luggit", "forks": 543},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 8, "stars": 41701, "owner": "jekyll", "forks": 9117},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 12839, "owner": "CocoaPods", "forks": 2339},
-{"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 30, "stars": 10132, "owner": "mame", "forks": 471},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 12838, "owner": "CocoaPods", "forks": 2339},
+{"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 29, "stars": 10133, "owner": "mame", "forks": 471},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 10690, "owner": "mperham", "forks": 1879},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 47035, "owner": "rails", "forks": 18876},
 {"description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:", "language": "Ruby", "repo": "spree", "new_stars": 4, "stars": 10793, "owner": "spree", "forks": 4607},
@@ -23,5 +23,5 @@
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 0, "stars": 2783, "owner": "elastic", "forks": 710},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5033, "owner": "rails-api", "forks": 1357},
 {"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 4, "stars": 4053, "owner": "rack", "forks": 1501},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 3, "stars": 17678, "owner": "Homebrew", "forks": 8693}
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 3, "stars": 17677, "owner": "Homebrew", "forks": 8693}
 ]

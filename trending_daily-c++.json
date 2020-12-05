@@ -1,6 +1,6 @@
 [
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 97, "stars": 19461, "owner": "google", "forks": 6908},
-{"description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 560, "stars": 1303, "owner": "WerWolv", "forks": 38},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 97, "stars": 19463, "owner": "google", "forks": 6908},
+{"description": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 560, "stars": 1317, "owner": "WerWolv", "forks": 38},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 14, "stars": 15416, "owner": "envoyproxy", "forks": 2700},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 19, "stars": 45105, "owner": "protocolbuffers", "forks": 12106},
 {"description": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication\u2026", "language": "C++", "repo": "arrow", "new_stars": 6, "stars": 6670, "owner": "apache", "forks": 1673},
@@ -20,8 +20,8 @@
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 5, "stars": 5295, "owner": "google", "forks": 788},
 {"description": "SQL powered operating system instrumentation, monitoring, and analytics.", "language": "C++", "repo": "osquery", "new_stars": 7, "stars": 17389, "owner": "osquery", "forks": 2077},
 {"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 2, "stars": 12401, "owner": "catchorg", "forks": 2088},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 33, "stars": 25281, "owner": "ocornut", "forks": 4236},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 11, "stars": 10645, "owner": "qbittorrent", "forks": 1912},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 36, "stars": 25284, "owner": "ocornut", "forks": 4236},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 12, "stars": 10646, "owner": "qbittorrent", "forks": 1912},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 18, "stars": 19410, "owner": "CMU-Perceptual-Computing-Lab", "forks": 5890},
 {"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 2, "stars": 2519, "owner": "chriskohlhoff", "forks": 756}
 ]

@@ -1,16 +1,16 @@
 [
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 55, "stars": 27667, "owner": "alacritty", "forks": 1422},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 56, "stars": 27675, "owner": "alacritty", "forks": 1422},
 {"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 68, "stars": 2269, "owner": "EmbarkStudios", "forks": 52},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 9, "stars": 1345, "owner": "awslabs", "forks": 125},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 22, "stars": 9901, "owner": "swc-project", "forks": 226},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 4, "stars": 1056, "owner": "solana-labs", "forks": 247},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 7, "stars": 3023, "owner": "launchbadge", "forks": 250},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 32, "stars": 24080, "owner": "sharkdp", "forks": 599},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 33, "stars": 24081, "owner": "sharkdp", "forks": 599},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 17, "stars": 4847, "owner": "Peltoche", "forks": 171},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 8, "stars": 2806, "owner": "hyperium", "forks": 238},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 9, "stars": 4587, "owner": "Geal", "forks": 514},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 3745, "owner": "rustwasm", "forks": 512},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 111, "stars": 4988, "owner": "ruffle-rs", "forks": 170},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 112, "stars": 4989, "owner": "ruffle-rs", "forks": 170},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 11, "stars": 1533, "owner": "ijl", "forks": 60},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 19, "stars": 6349, "owner": "dandavison", "forks": 114},
 {"description": "Private payments for mobile devices.", "language": "Rust", "repo": "mobilecoin", "new_stars": 2, "stars": 141, "owner": "mobilecoinfoundation", "forks": 29},
@@ -21,7 +21,7 @@
 {"description": "A high-performance, end-to-end observability data platform.", "language": "Rust", "repo": "vector", "new_stars": 14, "stars": 5810, "owner": "timberio", "forks": 363},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 24, "stars": 17787, "owner": "rust-unofficial", "forks": 1202},
 {"description": "A simple, expressive, embeddable programming language, made with Rust", "language": "Rust", "repo": "koto", "new_stars": 12, "stars": 61, "owner": "koto-lang", "forks": 1},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 23, "stars": 14061, "owner": "yewstack", "forks": 631},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 24, "stars": 14062, "owner": "yewstack", "forks": 631},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 0, "stars": 1526, "owner": "WebAssembly", "forks": 107},
 {"description": "Advent of Code 2020", "language": "Rust", "repo": "adventofcode-2020", "new_stars": 3, "stars": 19, "owner": "coriolinus", "forks": 6}
 ]

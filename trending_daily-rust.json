@@ -1,9 +1,9 @@
 [
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 410, "stars": 27804, "owner": "alacritty", "forks": 1423},
-{"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 72, "stars": 2273, "owner": "EmbarkStudios", "forks": 53},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 410, "stars": 27812, "owner": "alacritty", "forks": 1424},
+{"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 73, "stars": 2274, "owner": "EmbarkStudios", "forks": 53},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 10, "stars": 1346, "owner": "awslabs", "forks": 125},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 24, "stars": 9903, "owner": "swc-project", "forks": 226},
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 4, "stars": 1056, "owner": "solana-labs", "forks": 247},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 5, "stars": 1057, "owner": "solana-labs", "forks": 247},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 10, "stars": 3026, "owner": "launchbadge", "forks": 250},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 40, "stars": 24088, "owner": "sharkdp", "forks": 600},
 {"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 20, "stars": 4850, "owner": "Peltoche", "forks": 171},
@@ -19,9 +19,9 @@
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 11, "stars": 4136, "owner": "cloudflare", "forks": 264},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 10, "stars": 4045, "owner": "huggingface", "forks": 287},
 {"description": "A high-performance, end-to-end observability data platform.", "language": "Rust", "repo": "vector", "new_stars": 16, "stars": 5812, "owner": "timberio", "forks": 363},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 27, "stars": 17790, "owner": "rust-unofficial", "forks": 1202},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 27, "stars": 17790, "owner": "rust-unofficial", "forks": 1203},
 {"description": "A simple, expressive, embeddable programming language, made with Rust", "language": "Rust", "repo": "koto", "new_stars": 12, "stars": 61, "owner": "koto-lang", "forks": 1},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 30, "stars": 14068, "owner": "yewstack", "forks": 631},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 31, "stars": 14069, "owner": "yewstack", "forks": 631},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 0, "stars": 1526, "owner": "WebAssembly", "forks": 107},
 {"description": "Advent of Code 2020", "language": "Rust", "repo": "adventofcode-2020", "new_stars": 3, "stars": 19, "owner": "coriolinus", "forks": 5}
 ]

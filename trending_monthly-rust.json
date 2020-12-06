@@ -1,12 +1,12 @@
 [
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 1675, "stars": 27804, "owner": "alacritty", "forks": 1423},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 1684, "stars": 27812, "owner": "alacritty", "forks": 1424},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 1870, "stars": 12613, "owner": "starship", "forks": 537},
 {"description": "The Servo Browser Engine", "language": "Rust", "repo": "servo", "new_stars": 916, "stars": 18748, "owner": "servo", "forks": 2508},
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 520, "stars": 10100, "owner": "tokio-rs", "forks": 924},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 520, "stars": 10100, "owner": "tokio-rs", "forks": 925},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 656, "stars": 13182, "owner": "rust-lang", "forks": 1641},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 867, "stars": 50018, "owner": "rust-lang", "forks": 7356},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 821, "stars": 5400, "owner": "bevyengine", "forks": 405},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 521, "stars": 7882, "owner": "hecrj", "forks": 326},
+{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 522, "stars": 7883, "owner": "hecrj", "forks": 326},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 1813, "stars": 4993, "owner": "ruffle-rs", "forks": 171},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 404, "stars": 9903, "owner": "swc-project", "forks": 226},
 {"description": "Deploy your apps on any Cloud providers in just a few seconds", "language": "Rust", "repo": "engine", "new_stars": 1829, "stars": 2278, "owner": "Qovery", "forks": 27},
@@ -19,9 +19,9 @@
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 142, "stars": 1846, "owner": "librespot-org", "forks": 244},
 {"description": "Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.", "language": "Rust", "repo": "sonic", "new_stars": 490, "stars": 10081, "owner": "valeriansaliou", "forks": 324},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 110, "stars": 2145, "owner": "shadowsocks", "forks": 460},
-{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 108, "stars": 2639, "owner": "http-rs", "forks": 251},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 167, "stars": 3618, "owner": "seanmonstar", "forks": 368},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 500, "stars": 10359, "owner": "meilisearch", "forks": 323},
+{"description": "Fast and friendly HTTP server framework for async Rust", "language": "Rust", "repo": "tide", "new_stars": 109, "stars": 2640, "owner": "http-rs", "forks": 251},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 168, "stars": 3619, "owner": "seanmonstar", "forks": 368},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 501, "stars": 10360, "owner": "meilisearch", "forks": 324},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 148, "stars": 3189, "owner": "PyO3", "forks": 213},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 202, "stars": 4280, "owner": "bytecodealliance", "forks": 370}
 ]

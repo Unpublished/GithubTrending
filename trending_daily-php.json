@@ -1,9 +1,9 @@
 [
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 25, "stars": 62917, "owner": "laravel", "forks": 19947},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 27, "stars": 62919, "owner": "laravel", "forks": 19948},
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 6, "stars": 4564, "owner": "snipe", "forks": 1707},
 {"description": "Symfony integration for the doctrine/migrations library", "language": "PHP", "repo": "DoctrineMigrationsBundle", "new_stars": 4, "stars": 3342, "owner": "doctrine", "forks": 191},
-{"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 2, "stars": 9376, "owner": "Maatwebsite", "forks": 1501},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 9, "stars": 12469, "owner": "nextcloud", "forks": 2310},
+{"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 1, "stars": 9376, "owner": "Maatwebsite", "forks": 1501},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 8, "stars": 12470, "owner": "nextcloud", "forks": 2310},
 {"description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.", "language": "PHP", "repo": "glpi", "new_stars": 3, "stars": 1895, "owner": "glpi-project", "forks": 707},
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 3, "stars": 4257, "owner": "barryvdh", "forks": 665},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 9, "stars": 16833, "owner": "sebastianbergmann", "forks": 1947},
@@ -20,7 +20,7 @@
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 8, "stars": 10908, "owner": "vlucas", "forks": 518},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 4, "stars": 9212, "owner": "PHPOffice", "forks": 1965},
 {"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 4, "stars": 6600, "owner": "woocommerce", "forks": 8115},
-{"description": "A beautiful, fully open-source, tunneling service - written in pure PHP", "language": "PHP", "repo": "expose", "new_stars": 8, "stars": 2986, "owner": "beyondcode", "forks": 145},
+{"description": "A beautiful, fully open-source, tunneling service - written in pure PHP", "language": "PHP", "repo": "expose", "new_stars": 7, "stars": 2987, "owner": "beyondcode", "forks": 145},
 {"description": "Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.", "language": "PHP", "repo": "magento-lts", "new_stars": 0, "stars": 587, "owner": "OpenMage", "forks": 301},
 {"description": "Collections Abstraction Library", "language": "PHP", "repo": "collections", "new_stars": 7, "stars": 4950, "owner": "doctrine", "forks": 154},
 {"description": "Comprehensive mailing tools for PHP", "language": "PHP", "repo": "swiftmailer", "new_stars": 2, "stars": 9211, "owner": "swiftmailer", "forks": 796}

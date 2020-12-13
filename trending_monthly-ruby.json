@@ -1,10 +1,10 @@
 [
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 1040, "stars": 24659, "owner": "Homebrew", "forks": 5647},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 1041, "stars": 24660, "owner": "Homebrew", "forks": 5647},
 {"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 229, "stars": 8471, "owner": "Homebrew", "forks": 8714},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 148, "stars": 17721, "owner": "Homebrew", "forks": 8729},
-{"description": "Code. Music. Live.", "language": "Ruby", "repo": "sonic-pi", "new_stars": 1125, "stars": 7353, "owner": "sonic-pi-net", "forks": 710},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 660, "stars": 30730, "owner": "fastlane", "forks": 4750},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 492, "stars": 22516, "owner": "rapid7", "forks": 10752},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 148, "stars": 17721, "owner": "Homebrew", "forks": 8730},
+{"description": "Code. Music. Live.", "language": "Ruby", "repo": "sonic-pi", "new_stars": 1126, "stars": 7354, "owner": "sonic-pi-net", "forks": 710},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 661, "stars": 30731, "owner": "fastlane", "forks": 4750},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 493, "stars": 22517, "owner": "rapid7", "forks": 10752},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 137, "stars": 17590, "owner": "ruby", "forks": 4692},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 304, "stars": 47163, "owner": "rails", "forks": 18906},
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 279, "stars": 24444, "owner": "freeCodeCamp", "forks": 1660},
@@ -14,14 +14,14 @@
 {"description": "Sample code for the Twitter API early access endpoints (Python, Java, Ruby, and Node.js).", "language": "Ruby", "repo": "Twitter-API-v2-sample-code", "new_stars": 36, "stars": 118, "owner": "twitterdev", "forks": 73},
 {"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 123, "stars": 1887, "owner": "samber", "forks": 347},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 39, "stars": 7059, "owner": "thoughtbot", "forks": 2267},
-{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 27, "stars": 8875, "owner": "activeadmin", "forks": 3162},
+{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 28, "stars": 8876, "owner": "activeadmin", "forks": 3162},
 {"description": "WPScan is a free, for non-commercial use, black box WordPress security scanner written for security professionals and blog maintainers to test the security of their WordPress websites.", "language": "Ruby", "repo": "wpscan", "new_stars": 93, "stars": 5363, "owner": "wpscanteam", "forks": 952},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 102, "stars": 21300, "owner": "heartcombo", "forks": 5129},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 103, "stars": 21301, "owner": "heartcombo", "forks": 5129},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 25, "stars": 4947, "owner": "rails", "forks": 1334},
 {"description": "An Ansible role to install and configure Winlogbeat", "language": "Ruby", "repo": "ansible-winlogbeat", "new_stars": 0, "stars": 5, "owner": "stone-payments", "forks": 1},
 {"description": "help to kill N+1 queries and unused eager loading", "language": "Ruby", "repo": "bullet", "new_stars": 46, "stars": 6082, "owner": "flyerhzm", "forks": 343},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 244, "stars": 22455, "owner": "tootsuite", "forks": 3823},
 {"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 432, "stars": 10280, "owner": "mame", "forks": 479},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 25, "stars": 4733, "owner": "activerecord-hackery", "forks": 711},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 229, "stars": 41766, "owner": "jekyll", "forks": 9136}
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 229, "stars": 41766, "owner": "jekyll", "forks": 9137}
 ]

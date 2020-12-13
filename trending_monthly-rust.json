@@ -1,7 +1,7 @@
 [
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 2047, "stars": 12944, "owner": "starship", "forks": 543},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 2264, "stars": 28545, "owner": "alacritty", "forks": 1450},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 872, "stars": 50200, "owner": "rust-lang", "forks": 7383},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 2264, "stars": 28547, "owner": "alacritty", "forks": 1450},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 874, "stars": 50202, "owner": "rust-lang", "forks": 7383},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 535, "stars": 10179, "owner": "tokio-rs", "forks": 938},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 1981, "stars": 5226, "owner": "ruffle-rs", "forks": 175},
 {"description": "Diem\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "diem", "new_stars": 194, "stars": 15473, "owner": "diem", "forks": 2341},
@@ -20,7 +20,7 @@
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 470, "stars": 10457, "owner": "meilisearch", "forks": 330},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 139, "stars": 4061, "owner": "huggingface", "forks": 292},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 182, "stars": 6917, "owner": "wasmerio", "forks": 276},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 168, "stars": 3654, "owner": "seanmonstar", "forks": 371},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 169, "stars": 3655, "owner": "seanmonstar", "forks": 371},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 145, "stars": 6145, "owner": "rust-lang", "forks": 1660},
 {"description": "Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.", "language": "Rust", "repo": "influxdb_iox", "new_stars": 143, "stars": 403, "owner": "influxdata", "forks": 31},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 187, "stars": 3069, "owner": "launchbadge", "forks": 256}

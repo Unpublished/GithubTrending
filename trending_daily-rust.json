@@ -1,10 +1,10 @@
 [
-{"description": "An experimental GPU compute-centric 2D renderer.", "language": "Rust", "repo": "piet-gpu", "new_stars": 45, "stars": 318, "owner": "linebender", "forks": 18},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 17, "stars": 9955, "owner": "actix", "forks": 1130},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 50207, "owner": "rust-lang", "forks": 7384},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 28, "stars": 5231, "owner": "ruffle-rs", "forks": 175},
+{"description": "An experimental GPU compute-centric 2D renderer.", "language": "Rust", "repo": "piet-gpu", "new_stars": 45, "stars": 320, "owner": "linebender", "forks": 18},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 17, "stars": 9957, "owner": "actix", "forks": 1130},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 50206, "owner": "rust-lang", "forks": 7384},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 36, "stars": 5235, "owner": "ruffle-rs", "forks": 175},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 16, "stars": 7936, "owner": "hecrj", "forks": 327},
-{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 27, "stars": 6476, "owner": "dandavison", "forks": 114},
+{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 27, "stars": 6477, "owner": "dandavison", "forks": 114},
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 5, "stars": 916, "owner": "rust-lang", "forks": 555},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 5, "stars": 4063, "owner": "huggingface", "forks": 293},
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 10, "stars": 2975, "owner": "rust-embedded", "forks": 196},
@@ -16,12 +16,12 @@
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 14, "stars": 22899, "owner": "BurntSushi", "forks": 1008},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 5, "stars": 4891, "owner": "rust-analyzer", "forks": 482},
 {"description": "The Mullvad VPN client app for desktop and mobile", "language": "Rust", "repo": "mullvadvpn-app", "new_stars": 2, "stars": 1228, "owner": "mullvad", "forks": 114},
-{"description": "The fast, light, and robust client for the Ethereum mainnet.", "language": "Rust", "repo": "openethereum", "new_stars": 6, "stars": 105, "owner": "openethereum", "forks": 31},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 14153, "owner": "yewstack", "forks": 634},
+{"description": "The fast, light, and robust client for the Ethereum mainnet.", "language": "Rust", "repo": "openethereum", "new_stars": 5, "stars": 105, "owner": "openethereum", "forks": 31},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 14155, "owner": "yewstack", "forks": 634},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 3, "stars": 2836, "owner": "linebender", "forks": 232},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 8, "stars": 4640, "owner": "Geal", "forks": 519},
+{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 8, "stars": 4641, "owner": "Geal", "forks": 519},
 {"description": "Concurrency permutation testing tool for Rust.", "language": "Rust", "repo": "loom", "new_stars": 6, "stars": 736, "owner": "tokio-rs", "forks": 50},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 6223, "owner": "diesel-rs", "forks": 607},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 4, "stars": 6224, "owner": "diesel-rs", "forks": 607},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 3, "stars": 2623, "owner": "ggez", "forks": 329},
-{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1, "stars": 18480, "owner": "xi-editor", "forks": 670}
+{"description": "A modern editor with a backend written in Rust.", "language": "Rust", "repo": "xi-editor", "new_stars": 1, "stars": 18479, "owner": "xi-editor", "forks": 670}
 ]

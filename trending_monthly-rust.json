@@ -1,10 +1,10 @@
 [
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 2082, "stars": 5404, "owner": "ruffle-rs", "forks": 182},
-{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 1883, "stars": 28703, "owner": "alacritty", "forks": 1457},
+{"description": "A cross-platform, GPU-accelerated terminal emulator", "language": "Rust", "repo": "alacritty", "new_stars": 1885, "stars": 28705, "owner": "alacritty", "forks": 1457},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 535, "stars": 10234, "owner": "tokio-rs", "forks": 944},
 {"description": "Diem\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "diem", "new_stars": 194, "stars": 15485, "owner": "diem", "forks": 2348},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 383, "stars": 10055, "owner": "swc-project", "forks": 231},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 521, "stars": 13396, "owner": "rust-lang", "forks": 1678},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 522, "stars": 13397, "owner": "rust-lang", "forks": 1678},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 516, "stars": 8012, "owner": "hecrj", "forks": 331},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 310, "stars": 13377, "owner": "firecracker-microvm", "forks": 937},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 540, "stars": 22993, "owner": "BurntSushi", "forks": 1013},
@@ -22,6 +22,6 @@
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 70, "stars": 2052, "owner": "rusoto", "forks": 342},
 {"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 777, "stars": 252982, "owner": "996icu", "forks": 21114},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 141, "stars": 6261, "owner": "rust-lang", "forks": 1292},
-{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 154, "stars": 6172, "owner": "rust-lang", "forks": 1667},
+{"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 154, "stars": 6172, "owner": "rust-lang", "forks": 1668},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 101, "stars": 2181, "owner": "shadowsocks", "forks": 464}
 ]

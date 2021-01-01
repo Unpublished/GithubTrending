@@ -1,16 +1,16 @@
 [
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 165, "stars": 3621, "owner": "paritytech", "forks": 1070},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 267, "stars": 50710, "owner": "rust-lang", "forks": 7438},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 268, "stars": 50710, "owner": "rust-lang", "forks": 7439},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 89, "stars": 1905, "owner": "paritytech", "forks": 440},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 112, "stars": 14381, "owner": "yewstack", "forks": 644},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 49, "stars": 4717, "owner": "Geal", "forks": 525},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 247, "stars": 10600, "owner": "tokio-rs", "forks": 965},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 85, "stars": 7044, "owner": "wasmerio", "forks": 281},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 136, "stars": 6023, "owner": "bevyengine", "forks": 463},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 112, "stars": 7707, "owner": "tauri-apps", "forks": 182},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 44, "stars": 6523, "owner": "amethyst", "forks": 704},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 113, "stars": 7708, "owner": "tauri-apps", "forks": 182},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 44, "stars": 6523, "owner": "amethyst", "forks": 703},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 49, "stars": 4425, "owner": "bytecodealliance", "forks": 388},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 71, "stars": 12216, "owner": "SergioBenitez", "forks": 822},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 73, "stars": 12217, "owner": "SergioBenitez", "forks": 822},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 31, "stars": 5312, "owner": "pingcap", "forks": 740},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 44, "stars": 3467, "owner": "seanmonstar", "forks": 452},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 33, "stars": 2219, "owner": "shadowsocks", "forks": 466},
@@ -20,8 +20,8 @@
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 36, "stars": 8992, "owner": "nushell", "forks": 469},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 40, "stars": 2924, "owner": "linebender", "forks": 243},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 154, "stars": 24463, "owner": "sharkdp", "forks": 612},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 48, "stars": 3194, "owner": "launchbadge", "forks": 281},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 45, "stars": 3742, "owner": "seanmonstar", "forks": 377},
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 46, "stars": 3194, "owner": "launchbadge", "forks": 281},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 45, "stars": 3742, "owner": "seanmonstar", "forks": 378},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 59, "stars": 4722, "owner": "getzola", "forks": 404},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 43, "stars": 5257, "owner": "clap-rs", "forks": 511}
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 40, "stars": 5257, "owner": "clap-rs", "forks": 511}
 ]

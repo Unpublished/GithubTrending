@@ -1,13 +1,13 @@
 [
-{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 244, "stars": 10597, "owner": "tokio-rs", "forks": 965},
+{"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 164, "stars": 10597, "owner": "tokio-rs", "forks": 965},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 164, "stars": 3620, "owner": "paritytech", "forks": 1070},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 258, "stars": 50701, "owner": "rust-lang", "forks": 7438},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 260, "stars": 50703, "owner": "rust-lang", "forks": 7438},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 86, "stars": 1902, "owner": "paritytech", "forks": 440},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 108, "stars": 14377, "owner": "yewstack", "forks": 644},
 {"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 85, "stars": 7044, "owner": "wasmerio", "forks": 281},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 45, "stars": 2917, "owner": "hyperium", "forks": 261},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 136, "stars": 6023, "owner": "bevyengine", "forks": 463},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 43, "stars": 6522, "owner": "amethyst", "forks": 704},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 44, "stars": 6523, "owner": "amethyst", "forks": 704},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 47, "stars": 6246, "owner": "rust-lang", "forks": 1681},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 108, "stars": 7703, "owner": "tauri-apps", "forks": 182},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 32, "stars": 2218, "owner": "shadowsocks", "forks": 466},
@@ -22,6 +22,6 @@
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 41, "stars": 8556, "owner": "tikv", "forks": 1330},
 {"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 63, "stars": 10112, "owner": "actix", "forks": 1134},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 42, "stars": 5256, "owner": "clap-rs", "forks": 511},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 96, "stars": 18052, "owner": "rust-unofficial", "forks": 1230},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 97, "stars": 18053, "owner": "rust-unofficial", "forks": 1230},
 {"description": "Community showcase and examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 17, "stars": 1580, "owner": "actix", "forks": 479}
 ]

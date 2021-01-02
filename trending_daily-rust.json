@@ -1,18 +1,18 @@
 [
 {"description": "DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system", "language": "Rust", "repo": "datenlord", "new_stars": 29, "stars": 301, "owner": "datenlord", "forks": 23},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 5, "stars": 3470, "owner": "seanmonstar", "forks": 453},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 89, "stars": 5749, "owner": "ruffle-rs", "forks": 189},
-{"description": "Diem\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "diem", "new_stars": 6, "stars": 15540, "owner": "diem", "forks": 2360},
-{"description": "crawl and scrape web pages in rust", "language": "Rust", "repo": "voyager", "new_stars": 22, "stars": 257, "owner": "mattsse", "forks": 3},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 93, "stars": 5753, "owner": "ruffle-rs", "forks": 189},
+{"description": "Diem\u2019s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.", "language": "Rust", "repo": "diem", "new_stars": 6, "stars": 15540, "owner": "diem", "forks": 2362},
+{"description": "crawl and scrape web pages in rust", "language": "Rust", "repo": "voyager", "new_stars": 22, "stars": 259, "owner": "mattsse", "forks": 3},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 5, "stars": 3196, "owner": "launchbadge", "forks": 281},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 7, "stars": 6296, "owner": "diesel-rs", "forks": 611},
 {"description": "Rust implementation of Renderer Agnostic User Interface", "language": "Rust", "repo": "raui", "new_stars": 19, "stars": 154, "owner": "PsichiX", "forks": 2},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 34, "stars": 50724, "owner": "rust-lang", "forks": 7442},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 50725, "owner": "rust-lang", "forks": 7442},
 {"description": "Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.", "language": "Rust", "repo": "ncspot", "new_stars": 8, "stars": 1567, "owner": "hrkfdn", "forks": 79},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 9, "stars": 6305, "owner": "rust-lang", "forks": 1306},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 11, "stars": 5262, "owner": "clap-rs", "forks": 510},
 {"description": "A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 5, "stars": 8083, "owner": "analysis-tools-dev", "forks": 942},
-{"description": "Manage your shell commands.", "language": "Rust", "repo": "pueue", "new_stars": 10, "stars": 1092, "owner": "Nukesor", "forks": 35},
+{"description": "Manage your shell commands.", "language": "Rust", "repo": "pueue", "new_stars": 11, "stars": 1093, "owner": "Nukesor", "forks": 35},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 3, "stars": 2204, "owner": "blockstack", "forks": 412},
 {"description": "Rust library to create a Good Game Easily", "language": "Rust", "repo": "ggez", "new_stars": 6, "stars": 2647, "owner": "ggez", "forks": 328},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 7, "stars": 8997, "owner": "nushell", "forks": 470},
@@ -22,6 +22,6 @@
 {"description": "Powerful SQL migration toolkit for Rust.", "language": "Rust", "repo": "refinery", "new_stars": 14, "stars": 542, "owner": "rust-db", "forks": 41},
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 3, "stars": 1307, "owner": "gfx-rs", "forks": 167},
 {"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 7, "stars": 2491, "owner": "EmbarkStudios", "forks": 64},
-{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 6, "stars": 4726, "owner": "getzola", "forks": 404},
-{"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 9, "stars": 1812, "owner": "boa-dev", "forks": 197}
+{"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 7, "stars": 4727, "owner": "getzola", "forks": 404},
+{"description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.", "language": "Rust", "repo": "boa", "new_stars": 10, "stars": 1813, "owner": "boa-dev", "forks": 197}
 ]

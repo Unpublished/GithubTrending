@@ -1,10 +1,10 @@
 [
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 307, "stars": 8178, "owner": "wasmerio", "forks": 301},
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 307, "stars": 8182, "owner": "wasmerio", "forks": 301},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 4, "stars": 1122, "owner": "solana-labs", "forks": 261},
 {"description": "A Rust framework for creating web apps", "language": "Rust", "repo": "seed", "new_stars": 7, "stars": 1618, "owner": "seed-rs", "forks": 97},
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 11, "stars": 29099, "owner": "alacritty", "forks": 1490},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 84, "stars": 13823, "owner": "rust-lang", "forks": 1746},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 19, "stars": 24607, "owner": "sharkdp", "forks": 616},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 19, "stars": 24608, "owner": "sharkdp", "forks": 616},
 {"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 32, "stars": 5489, "owner": "dabreegster", "forks": 161},
 {"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 10, "stars": 3616, "owner": "rust-lang", "forks": 446},
 {"description": "kubernetes client and futures controller runtime", "language": "Rust", "repo": "kube-rs", "new_stars": 5, "stars": 508, "owner": "clux", "forks": 84},
@@ -20,8 +20,8 @@
 {"description": "A collection of additional crates supporting the actix and actix-web frameworks.", "language": "Rust", "repo": "actix-extras", "new_stars": 0, "stars": 152, "owner": "actix", "forks": 48},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 10, "stars": 3641, "owner": "tree-sitter", "forks": 248},
 {"description": "Everything needed to build applications that interact with an Indy distributed identity ledger.", "language": "Rust", "repo": "indy-sdk", "new_stars": 1, "stars": 499, "owner": "hyperledger", "forks": 590},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 14489, "owner": "yewstack", "forks": 650},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 16, "stars": 14490, "owner": "yewstack", "forks": 650},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 6, "stars": 3316, "owner": "PyO3", "forks": 225},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 4, "stars": 1920, "owner": "serde-rs", "forks": 277},
-{"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "io-uring", "new_stars": 15, "stars": 279, "owner": "tokio-rs", "forks": 25}
+{"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "io-uring", "new_stars": 15, "stars": 280, "owner": "tokio-rs", "forks": 26}
 ]

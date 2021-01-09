@@ -1,10 +1,10 @@
 [
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 285, "stars": 8075, "owner": "wasmerio", "forks": 300},
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 285, "stars": 8093, "owner": "wasmerio", "forks": 300},
 {"description": "The Stacks 2.0 blockchain implementation", "language": "Rust", "repo": "stacks-blockchain", "new_stars": 4, "stars": 2223, "owner": "blockstack", "forks": 416},
-{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 11, "stars": 4518, "owner": "LemmyNet", "forks": 299},
+{"description": "Building a federated alternative to reddit in rust", "language": "Rust", "repo": "lemmy", "new_stars": 11, "stars": 4519, "owner": "LemmyNet", "forks": 299},
 {"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 36, "stars": 5486, "owner": "dabreegster", "forks": 161},
 {"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 5, "stars": 4146, "owner": "huggingface", "forks": 305},
-{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 29096, "owner": "alacritty", "forks": 1490},
+{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 13, "stars": 29097, "owner": "alacritty", "forks": 1490},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 4, "stars": 1121, "owner": "solana-labs", "forks": 260},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 3, "stars": 1605, "owner": "WebAssembly", "forks": 114},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 7, "stars": 2950, "owner": "hyperium", "forks": 264},
@@ -13,7 +13,7 @@
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 11, "stars": 1973, "owner": "paritytech", "forks": 454},
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 1, "stars": 939, "owner": "rust-lang", "forks": 566},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 25, "stars": 7800, "owner": "tauri-apps", "forks": 183},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 121, "stars": 254323, "owner": "996icu", "forks": 21195},
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 121, "stars": 254325, "owner": "996icu", "forks": 21195},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 85, "stars": 13818, "owner": "rust-lang", "forks": 1746},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 5, "stars": 2427, "owner": "vi", "forks": 92},
 {"description": "A high-performance observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 8, "stars": 6045, "owner": "timberio", "forks": 382},
@@ -21,7 +21,7 @@
 {"description": "Diem\u2019s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.", "language": "Rust", "repo": "diem", "new_stars": 3, "stars": 15570, "owner": "diem", "forks": 2372},
 {"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 2, "stars": 6387, "owner": "benfred", "forks": 231},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 10, "stars": 1216, "owner": "tower-rs", "forks": 93},
-{"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "io-uring", "new_stars": 6, "stars": 271, "owner": "tokio-rs", "forks": 25},
+{"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "io-uring", "new_stars": 6, "stars": 274, "owner": "tokio-rs", "forks": 25},
 {"description": "The Modern Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 8, "stars": 3120, "owner": "RustScan", "forks": 270},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 6, "stars": 6293, "owner": "rust-lang", "forks": 1696}
 ]

@@ -6,10 +6,10 @@
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 57, "stars": 13827, "owner": "rust-lang", "forks": 1747},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 30, "stars": 24612, "owner": "sharkdp", "forks": 615},
 {"description": "A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.", "language": "Rust", "repo": "abstreet", "new_stars": 36, "stars": 5493, "owner": "dabreegster", "forks": 161},
-{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 11, "stars": 3617, "owner": "rust-lang", "forks": 446},
+{"description": "Zero-cost asynchronous programming in Rust", "language": "Rust", "repo": "futures-rs", "new_stars": 11, "stars": 3618, "owner": "rust-lang", "forks": 446},
 {"description": "kubernetes client and futures controller runtime", "language": "Rust", "repo": "kube-rs", "new_stars": 9, "stars": 520, "owner": "clux", "forks": 86},
-{"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 13, "stars": 1220, "owner": "tower-rs", "forks": 95},
-{"description": "WebAssembly runtime for Python", "language": "Rust", "repo": "wasmer-python", "new_stars": 25, "stars": 1038, "owner": "wasmerio", "forks": 35},
+{"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 14, "stars": 1220, "owner": "tower-rs", "forks": 95},
+{"description": "WebAssembly runtime for Python", "language": "Rust", "repo": "wasmer-python", "new_stars": 24, "stars": 1038, "owner": "wasmerio", "forks": 35},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 20, "stars": 8611, "owner": "tikv", "forks": 1337},
 {"description": "Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions", "language": "Rust", "repo": "websocat", "new_stars": 8, "stars": 2430, "owner": "vi", "forks": 93},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 28, "stars": 7807, "owner": "tauri-apps", "forks": 183},
@@ -23,5 +23,5 @@
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 21, "stars": 14494, "owner": "yewstack", "forks": 650},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 9, "stars": 3318, "owner": "PyO3", "forks": 225},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 5, "stars": 1921, "owner": "serde-rs", "forks": 277},
-{"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "io-uring", "new_stars": 17, "stars": 281, "owner": "tokio-rs", "forks": 26}
+{"description": "The `io_uring` library for Rust", "language": "Rust", "repo": "io-uring", "new_stars": 17, "stars": 282, "owner": "tokio-rs", "forks": 26}
 ]

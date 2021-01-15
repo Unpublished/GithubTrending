@@ -1,9 +1,9 @@
 [
-{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 18, "stars": 2186, "owner": "pterodactyl", "forks": 525},
+{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 17, "stars": 2186, "owner": "pterodactyl", "forks": 525},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 26, "stars": 8260, "owner": "squizlabs", "forks": 1308},
-{"description": "Clean Code concepts adapted for PHP", "language": "PHP", "repo": "clean-code-php", "new_stars": 43, "stars": 8755, "owner": "jupeter", "forks": 2061},
+{"description": "Clean Code concepts adapted for PHP", "language": "PHP", "repo": "clean-code-php", "new_stars": 44, "stars": 8756, "owner": "jupeter", "forks": 2061},
 {"description": "PrestaShop is a fully scalable open source e-commerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 22, "stars": 5358, "owner": "PrestaShop", "forks": 3950},
-{"description": null, "language": "PHP", "repo": "jetstream", "new_stars": 29, "stars": 2507, "owner": "laravel", "forks": 429},
+{"description": null, "language": "PHP", "repo": "jetstream", "new_stars": 29, "stars": 2507, "owner": "laravel", "forks": 430},
 {"description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes", "language": "PHP", "repo": "core", "new_stars": 2, "stars": 1723, "owner": "api-platform", "forks": 579},
 {"description": "Shopware 6 is an open source eCommerce platform realised by the ideas and the spirit of its community.", "language": "PHP", "repo": "platform", "new_stars": 12, "stars": 1168, "owner": "shopware", "forks": 447},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 45, "stars": 22949, "owner": "laravel", "forks": 7847},
@@ -14,14 +14,14 @@
 {"description": "A beautiful, fully open-source, tunneling service - written in pure PHP", "language": "PHP", "repo": "expose", "new_stars": 43, "stars": 3093, "owner": "beyondcode", "forks": 158},
 {"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 34, "stars": 12051, "owner": "barryvdh", "forks": 1173},
 {"description": "Dolibarr ERP CRM is a modern software package to manage your company or foundation activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...).It's opensource software (wrote with PHP language) designed for small and medium companies, foundation and freelances. You can freely install, use and distribute it as a standalone a\u2026", "language": "PHP", "repo": "dolibarr", "new_stars": 17, "stars": 2251, "owner": "Dolibarr", "forks": 1597},
-{"description": null, "language": "PHP", "repo": "ui", "new_stars": 26, "stars": 1085, "owner": "laravel", "forks": 231},
+{"description": null, "language": "PHP", "repo": "ui", "new_stars": 12, "stars": 1085, "owner": "laravel", "forks": 231},
 {"description": "List of 76 languages for Laravel Framework 4, 5, 6, 7 and 8, Laravel Jetstream and Laravel Fortify.", "language": "PHP", "repo": "lang", "new_stars": 25, "stars": 5405, "owner": "Laravel-Lang", "forks": 2394},
 {"description": "QR Code Generator", "language": "PHP", "repo": "qr-code", "new_stars": 17, "stars": 3054, "owner": "endroid", "forks": 567},
-{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 52, "stars": 3602, "owner": "mailcow", "forks": 624},
+{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 51, "stars": 3602, "owner": "mailcow", "forks": 624},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 38, "stars": 24499, "owner": "symfony", "forks": 7956},
 {"description": "Home of the Joomla! Content Management System", "language": "PHP", "repo": "joomla-cms", "new_stars": 4, "stars": 3660, "owner": "joomla", "forks": 3094},
-{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 30, "stars": 6688, "owner": "woocommerce", "forks": 8297},
-{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 22, "stars": 3834, "owner": "vimeo", "forks": 351},
-{"description": "A pure PHP library for reading and writing word processing documents", "language": "PHP", "repo": "PHPWord", "new_stars": 20, "stars": 5416, "owner": "PHPOffice", "forks": 2194},
-{"description": "Symfony Bundle for Doctrine ORM and DBAL", "language": "PHP", "repo": "DoctrineBundle", "new_stars": 16, "stars": 3777, "owner": "doctrine", "forks": 382}
+{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 30, "stars": 6688, "owner": "woocommerce", "forks": 8298},
+{"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 22, "stars": 3833, "owner": "vimeo", "forks": 351},
+{"description": "A pure PHP library for reading and writing word processing documents", "language": "PHP", "repo": "PHPWord", "new_stars": 19, "stars": 5416, "owner": "PHPOffice", "forks": 2194},
+{"description": "Symfony Bundle for Doctrine ORM and DBAL", "language": "PHP", "repo": "DoctrineBundle", "new_stars": 16, "stars": 3777, "owner": "doctrine", "forks": 381}
 ]

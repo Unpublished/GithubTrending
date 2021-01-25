@@ -1,14 +1,14 @@
 [
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 1241, "stars": 48220, "owner": "bitcoin", "forks": 27229},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 1241, "stars": 48219, "owner": "bitcoin", "forks": 27229},
 {"description": "Ethereum miner with OpenCL, CUDA and stratum support", "language": "C++", "repo": "ethminer", "new_stars": 232, "stars": 3542, "owner": "ethereum-mining", "forks": 1220},
-{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 530, "stars": 8300, "owner": "SerenityOS", "forks": 714},
-{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 722, "stars": 9792, "owner": "MarlinFirmware", "forks": 13113},
+{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 530, "stars": 8305, "owner": "SerenityOS", "forks": 714},
+{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 722, "stars": 9795, "owner": "MarlinFirmware", "forks": 13113},
 {"description": "Telegram for Android source", "language": "C++", "repo": "Telegram", "new_stars": 499, "stars": 15778, "owner": "DrKLO", "forks": 5665},
 {"description": "Flax Engine \u2013 multi-platform 3D game engine", "language": "C++", "repo": "FlaxEngine", "new_stars": 875, "stars": 2010, "owner": "FlaxEngine", "forks": 167},
 {"description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner", "language": "C++", "repo": "xmrig", "new_stars": 158, "stars": 3638, "owner": "xmrig", "forks": 1703},
-{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 404, "stars": 5093, "owner": "monero-project", "forks": 2394},
+{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 404, "stars": 5094, "owner": "monero-project", "forks": 2395},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 819, "stars": 14651, "owner": "telegramdesktop", "forks": 3154},
-{"description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.", "language": "C++", "repo": "xbmc", "new_stars": 537, "stars": 12019, "owner": "xbmc", "forks": 5638},
+{"description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.", "language": "C++", "repo": "xbmc", "new_stars": 537, "stars": 12018, "owner": "xbmc", "forks": 5638},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 835, "stars": 36122, "owner": "godotengine", "forks": 6821},
 {"description": "\u57fa\u4e8ePython\u7684\u5f00\u6e90\u91cf\u5316\u4ea4\u6613\u5e73\u53f0\u5f00\u53d1\u6846\u67b6", "language": "C++", "repo": "vnpy", "new_stars": 434, "stars": 13901, "owner": "vnpy", "forks": 5895},
 {"description": "Open Source Soldering Iron firmware for Miniware and Pinecil", "language": "C++", "repo": "IronOS", "new_stars": 204, "stars": 2939, "owner": "Ralim", "forks": 359},
@@ -19,9 +19,9 @@
 {"description": "STM32/ESP32/ESP8285 based High Performance Radio Link for Quads", "language": "C++", "repo": "ExpressLRS", "new_stars": 107, "stars": 327, "owner": "AlessandroAU", "forks": 83},
 {"description": "GNU Radio \u2013 the Free and Open Software Radio Ecosystem", "language": "C++", "repo": "gnuradio", "new_stars": 94, "stars": 2606, "owner": "gnuradio", "forks": 1369},
 {"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 269, "stars": 12604, "owner": "notepad-plus-plus", "forks": 3055},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 714, "stars": 46058, "owner": "protocolbuffers", "forks": 12317},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 714, "stars": 46060, "owner": "protocolbuffers", "forks": 12317},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 304, "stars": 10734, "owner": "gabime", "forks": 2268},
-{"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 146, "stars": 3301, "owner": "tdlib", "forks": 666},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 343, "stars": 11155, "owner": "qbittorrent", "forks": 1996},
-{"description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!", "language": "C++", "repo": "MuseScore", "new_stars": 194, "stars": 5546, "owner": "musescore", "forks": 1560}
+{"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 146, "stars": 3302, "owner": "tdlib", "forks": 666},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 342, "stars": 11155, "owner": "qbittorrent", "forks": 1996},
+{"description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!", "language": "C++", "repo": "MuseScore", "new_stars": 194, "stars": 5546, "owner": "musescore", "forks": 1561}
 ]

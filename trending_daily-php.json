@@ -1,8 +1,8 @@
 [
 {"description": "Official PHP low-level client for Elasticsearch.", "language": "PHP", "repo": "elasticsearch-php", "new_stars": 3, "stars": 4428, "owner": "elastic", "forks": 846},
 {"description": null, "language": "PHP", "repo": "framework", "new_stars": 10, "stars": 23371, "owner": "laravel", "forks": 7911},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 8, "stars": 24617, "owner": "symfony", "forks": 7991},
-{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 4, "stars": 9564, "owner": "phpstan", "forks": 688},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 8, "stars": 24617, "owner": "symfony", "forks": 7992},
+{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 5, "stars": 9565, "owner": "phpstan", "forks": 688},
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 1, "stars": 3482, "owner": "moodle", "forks": 4836},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 5, "stars": 20483, "owner": "guzzle", "forks": 2181},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 1, "stars": 9670, "owner": "mockery", "forks": 423},
@@ -16,12 +16,12 @@
 {"description": "Mautic: Open Source Marketing Automation Software.", "language": "PHP", "repo": "mautic", "new_stars": 3, "stars": 4337, "owner": "mautic", "forks": 1579},
 {"description": "A spec compliant, secure by default PHP OAuth 2.0 Server", "language": "PHP", "repo": "oauth2-server", "new_stars": 1, "stars": 5748, "owner": "thephpleague", "forks": 987},
 {"description": "Twig, the flexible, fast, and secure template language for PHP", "language": "PHP", "repo": "Twig", "new_stars": 4, "stars": 7069, "owner": "twigphp", "forks": 1124},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 6, "stars": 24720, "owner": "composer", "forks": 6021},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 7, "stars": 24721, "owner": "composer", "forks": 6021},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 25, "stars": 63753, "owner": "laravel", "forks": 20367},
 {"description": "Statamic 3: Core Package", "language": "PHP", "repo": "cms", "new_stars": 2, "stars": 902, "owner": "statamic", "forks": 157},
 {"description": "PHP library for the Stripe API.", "language": "PHP", "repo": "stripe-php", "new_stars": 1, "stars": 2807, "owner": "stripe", "forks": 664},
-{"description": "LavaLust is an lightweight Web Framework - (using MVC pattern) - for people who are developing web sites using PHP. It helps you write code easily using Object-Oriented Approach. It also provides set of libraries for commonly needed tasks, as well as a helper functions to minimize the amount of time coding.", "language": "PHP", "repo": "LavaLust", "new_stars": 13, "stars": 125, "owner": "ronmarasigan", "forks": 126},
+{"description": "LavaLust is an lightweight Web Framework - (using MVC pattern) - for people who are developing web sites using PHP. It helps you write code easily using Object-Oriented Approach. It also provides set of libraries for commonly needed tasks, as well as a helper functions to minimize the amount of time coding.", "language": "PHP", "repo": "LavaLust", "new_stars": 13, "stars": 126, "owner": "ronmarasigan", "forks": 126},
 {"description": "Clockwork - php dev tools in your browser - server-side component", "language": "PHP", "repo": "clockwork", "new_stars": 3, "stars": 3331, "owner": "itsgoingd", "forks": 184},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 2, "stars": 17029, "owner": "sebastianbergmann", "forks": 1967},
-{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 2, "stars": 11047, "owner": "vlucas", "forks": 521}
+{"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 3, "stars": 11048, "owner": "vlucas", "forks": 521}
 ]

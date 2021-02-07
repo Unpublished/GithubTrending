@@ -1,8 +1,8 @@
 [
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 279, "stars": 31270, "owner": "fastlane", "forks": 4812},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 846, "stars": 26386, "owner": "Homebrew", "forks": 5867},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 32, "stars": 21421, "owner": "heartcombo", "forks": 5165},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 79, "stars": 47535, "owner": "rails", "forks": 19088},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 863, "stars": 26401, "owner": "Homebrew", "forks": 5867},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 33, "stars": 21422, "owner": "heartcombo", "forks": 5165},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 79, "stars": 47536, "owner": "rails", "forks": 19088},
 {"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 57, "stars": 17937, "owner": "Homebrew", "forks": 8864},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 18, "stars": 12970, "owner": "CocoaPods", "forks": 2363},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 14, "stars": 10811, "owner": "mperham", "forks": 1903},
@@ -10,7 +10,7 @@
 {"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 166, "stars": 2187, "owner": "samber", "forks": 378},
 {"description": "Sentry SDK for Ruby", "language": "Ruby", "repo": "sentry-ruby", "new_stars": 1, "stars": 714, "owner": "getsentry", "forks": 357},
 {"description": "Data science interview questions and answers", "language": "Ruby", "repo": "data-science-interviews", "new_stars": 35, "stars": 3820, "owner": "alexeygrigorev", "forks": 759},
-{"description": "Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 15, "stars": 3549, "owner": "Homebrew", "forks": 222},
+{"description": "Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 16, "stars": 3550, "owner": "Homebrew", "forks": 222},
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 8, "stars": 2998, "owner": "thoughtbot", "forks": 835},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 27, "stars": 11289, "owner": "rubocop-hq", "forks": 2597},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 10, "stars": 9250, "owner": "ruby-grape", "forks": 1181},
@@ -18,10 +18,10 @@
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 9, "stars": 6643, "owner": "puma", "forks": 1207},
 {"description": "Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report", "language": "Ruby", "repo": "OSCP-Exam-Report-Template-Markdown", "new_stars": 69, "stars": 1270, "owner": "noraj", "forks": 324},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 19, "stars": 4580, "owner": "opf", "forks": 1364},
-{"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 10, "stars": 6299, "owner": "github-changelog-generator", "forks": 740},
+{"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 10, "stars": 6300, "owner": "github-changelog-generator", "forks": 740},
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 22, "stars": 8490, "owner": "Shopify", "forks": 1111},
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 18, "stars": 2093, "owner": "github", "forks": 8085},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 44, "stars": 9960, "owner": "fluent", "forks": 1140},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 11, "stars": 3468, "owner": "solidusio", "forks": 1019},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 81, "stars": 32541, "owner": "discourse", "forks": 7110}
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 81, "stars": 32541, "owner": "discourse", "forks": 7111}
 ]

@@ -1,6 +1,6 @@
 [
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 11300, "owner": "rubocop-hq", "forks": 2601},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 13, "stars": 32576, "owner": "discourse", "forks": 7120},
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 12, "stars": 32576, "owner": "discourse", "forks": 7120},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 1, "stars": 5022, "owner": "rails", "forks": 1356},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 2, "stars": 3502, "owner": "luggit", "forks": 551},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 2, "stars": 9146, "owner": "faker-ruby", "forks": 2579},
@@ -9,19 +9,19 @@
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 1, "stars": 3478, "owner": "solidusio", "forks": 1021},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 3, "stars": 8929, "owner": "activeadmin", "forks": 3175},
 {"description": "Collection of Prometheus alerting rules", "language": "Ruby", "repo": "awesome-prometheus-alerts", "new_stars": 6, "stars": 2218, "owner": "samber", "forks": 381},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 5, "stars": 23095, "owner": "rapid7", "forks": 10940},
-{"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 0, "stars": 3995, "owner": "redmine", "forks": 2019},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 5, "stars": 23096, "owner": "rapid7", "forks": 10941},
+{"description": "Mirror of redmine code source - Official SVN repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 1, "stars": 3995, "owner": "redmine", "forks": 2019},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 2, "stars": 4595, "owner": "rmosolgo", "forks": 1022},
-{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 4, "stars": 7738, "owner": "heartcombo", "forks": 1296},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 2, "stars": 7738, "owner": "heartcombo", "forks": 1296},
 {"description": "Server automation framework and application", "language": "Ruby", "repo": "puppet", "new_stars": 0, "stars": 6044, "owner": "puppetlabs", "forks": 2174},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 10, "stars": 47569, "owner": "rails", "forks": 19111},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 11, "stars": 47569, "owner": "rails", "forks": 19111},
 {"description": "Spree is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations. Over 1 million downloads and counting! Check it out:", "language": "Ruby", "repo": "spree", "new_stars": 2, "stars": 11062, "owner": "spree", "forks": 4663},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 1, "stars": 2629, "owner": "rubygems", "forks": 1325},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 10817, "owner": "mperham", "forks": 1904},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 21436, "owner": "heartcombo", "forks": 5169},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 21436, "owner": "heartcombo", "forks": 5168},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 0, "stars": 6469, "owner": "chef", "forks": 2473},
 {"description": "Ruby integrations for Elasticsearch", "language": "Ruby", "repo": "elasticsearch-ruby", "new_stars": 1, "stars": 1796, "owner": "elastic", "forks": 525},
 {"description": "Flexible production-grade boilerplate with Next.js 10, Vercel and TypeScript. Includes multiple opt-in presets using Storybook, Airtable, GraphQL, Analytics, CSS-in-JS, Monitoring, End-to-end testing, Internationalization, CI/CD and SaaS B2B multi single-tenancy (monorepo) support", "language": "Ruby", "repo": "next-right-now", "new_stars": 1, "stars": 618, "owner": "UnlyEd", "forks": 56},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 2, "stars": 2807, "owner": "elastic", "forks": 717},
-{"description": "Roo provides an interface to spreadsheets of several sorts.", "language": "Ruby", "repo": "roo", "new_stars": 2, "stars": 2431, "owner": "roo-rb", "forks": 458}
+{"description": "Roo provides an interface to spreadsheets of several sorts.", "language": "Ruby", "repo": "roo", "new_stars": 2, "stars": 2432, "owner": "roo-rb", "forks": 458}
 ]

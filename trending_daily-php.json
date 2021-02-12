@@ -1,5 +1,5 @@
 [
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 4, "stars": 24640, "owner": "symfony", "forks": 8001},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 4, "stars": 24640, "owner": "symfony", "forks": 8003},
 {"description": "WordPress starter theme with a modern development workflow", "language": "PHP", "repo": "sage", "new_stars": 2, "stars": 11039, "owner": "roots", "forks": 2923},
 {"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 2, "stars": 9275, "owner": "magento", "forks": 8219},
 {"description": "A simple library to work with JSON Web Token and JSON Web Signature", "language": "PHP", "repo": "jwt", "new_stars": 1, "stars": 6010, "owner": "lcobucci", "forks": 496},
@@ -13,8 +13,8 @@
 {"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 2, "stars": 7665, "owner": "dompdf", "forks": 1464},
 {"description": "The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.", "language": "PHP", "repo": "php-graph-sdk", "new_stars": 2, "stars": 2958, "owner": "facebookarchive", "forks": 1585},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 4, "stars": 18405, "owner": "Seldaek", "forks": 1719},
-{"description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)", "language": "PHP", "repo": "laravel-mongodb", "new_stars": 2, "stars": 5360, "owner": "jenssegers", "forks": 1217},
-{"description": "Custom Blade components to add sortable/drag-and-drop HTML elements in your apps.", "language": "PHP", "repo": "laravel-blade-sortable", "new_stars": 27, "stars": 116, "owner": "asantibanez", "forks": 3},
+{"description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)", "language": "PHP", "repo": "laravel-mongodb", "new_stars": 2, "stars": 5361, "owner": "jenssegers", "forks": 1217},
+{"description": "Custom Blade components to add sortable/drag-and-drop HTML elements in your apps.", "language": "PHP", "repo": "laravel-blade-sortable", "new_stars": 27, "stars": 118, "owner": "asantibanez", "forks": 3},
 {"description": "Laravel Firebase Cloud Messaging.", "language": "PHP", "repo": "larafirebase", "new_stars": 3, "stars": 69, "owner": "kutia-software-company", "forks": 4},
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 1, "stars": 4383, "owner": "barryvdh", "forks": 680},
 {"description": "Symfony integration for the doctrine/migrations library", "language": "PHP", "repo": "DoctrineMigrationsBundle", "new_stars": 0, "stars": 3428, "owner": "doctrine", "forks": 196},
@@ -22,6 +22,6 @@
 {"description": "OOP Proxy wrappers utilities - generates and manages proxies of your objects", "language": "PHP", "repo": "ProxyManager", "new_stars": 0, "stars": 4188, "owner": "Ocramius", "forks": 170},
 {"description": "JWT authentication for your Symfony REST API", "language": "PHP", "repo": "LexikJWTAuthenticationBundle", "new_stars": 1, "stars": 1967, "owner": "lexik", "forks": 480},
 {"description": "Symfony Bundle for Doctrine ORM and DBAL", "language": "PHP", "repo": "DoctrineBundle", "new_stars": 0, "stars": 3829, "owner": "doctrine", "forks": 382},
-{"description": "Database management in a single PHP file", "language": "PHP", "repo": "adminer", "new_stars": 1, "stars": 4593, "owner": "vrana", "forks": 860},
+{"description": "Database management in a single PHP file", "language": "PHP", "repo": "adminer", "new_stars": 0, "stars": 4593, "owner": "vrana", "forks": 860},
 {"description": "The Stopwatch component provides a way to profile code.", "language": "PHP", "repo": "stopwatch", "new_stars": 3, "stars": 2180, "owner": "symfony", "forks": 10}
 ]

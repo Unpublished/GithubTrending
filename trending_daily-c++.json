@@ -1,10 +1,10 @@
 [
 {"description": "Raw nanopore signal mapper that enables real-time targeted sequencing", "language": "C++", "repo": "UNCALLED", "new_stars": 3, "stars": 326, "owner": "skovaka", "forks": 24},
-{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 16, "stars": 13625, "owner": "yuzu-emu", "forks": 1153},
+{"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 16, "stars": 13626, "owner": "yuzu-emu", "forks": 1153},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 20, "stars": 27572, "owner": "ocornut", "forks": 4537},
 {"description": "Coverage-guided, in-process fuzzing for the JVM", "language": "C++", "repo": "jazzer", "new_stars": 15, "stars": 161, "owner": "CodeIntelligenceTesting", "forks": 6},
 {"description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node", "language": "C++", "repo": "vosk-api", "new_stars": 3, "stars": 1220, "owner": "alphacep", "forks": 243},
-{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 9, "stars": 5168, "owner": "monero-project", "forks": 2413},
+{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 10, "stars": 5169, "owner": "monero-project", "forks": 2413},
 {"description": "Fast PlayStation 1 emulator for PC and Android", "language": "C++", "repo": "duckstation", "new_stars": 6, "stars": 1327, "owner": "stenzek", "forks": 113},
 {"description": "gRPC for Web Clients", "language": "C++", "repo": "grpc-web", "new_stars": 9, "stars": 5264, "owner": "grpc", "forks": 484},
 {"description": "Ethereum miner with OpenCL, CUDA and stratum support", "language": "C++", "repo": "ethminer", "new_stars": 12, "stars": 3746, "owner": "ethereum-mining", "forks": 1297},
@@ -12,9 +12,9 @@
 {"description": "My understanding of Unreal Engine 4's GameplayAbilitySystem plugin with a simple multiplayer sample project.", "language": "C++", "repo": "GASDocumentation", "new_stars": 1, "stars": 757, "owner": "tranek", "forks": 162},
 {"description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies", "language": "C++", "repo": "DearPyGui", "new_stars": 26, "stars": 4407, "owner": "hoffstadt", "forks": 197},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 5, "stars": 7069, "owner": "dolphin-emu", "forks": 1662},
-{"description": "\u57fa\u4e8e\u5185\u6838\u6a21\u5f0f\u7684\u786c\u4ef6\u4fe1\u606f\u6b3a\u9a97\u5de5\u5177", "language": "C++", "repo": "EASY-HWID-SPOOFER", "new_stars": 13, "stars": 69, "owner": "FiYHer", "forks": 32},
-{"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 3, "stars": 1991, "owner": "OneLoneCoder", "forks": 565},
-{"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 4, "stars": 4973, "owner": "TheCherno", "forks": 751},
+{"description": "\u57fa\u4e8e\u5185\u6838\u6a21\u5f0f\u7684\u786c\u4ef6\u4fe1\u606f\u6b3a\u9a97\u5de5\u5177", "language": "C++", "repo": "EASY-HWID-SPOOFER", "new_stars": 13, "stars": 70, "owner": "FiYHer", "forks": 32},
+{"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 3, "stars": 1992, "owner": "OneLoneCoder", "forks": 565},
+{"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 4, "stars": 4974, "owner": "TheCherno", "forks": 751},
 {"description": "Open Source Soldering Iron firmware for Miniware and Pinecil", "language": "C++", "repo": "IronOS", "new_stars": 5, "stars": 3010, "owner": "Ralim", "forks": 363},
 {"description": "An open source re-implementation of RollerCoaster Tycoon 2", "language": "C++", "repo": "OpenRCT2", "new_stars": 2, "stars": 9113, "owner": "OpenRCT2", "forks": 1073},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 26, "stars": 153203, "owner": "tensorflow", "forks": 83985},
@@ -23,5 +23,5 @@
 {"description": "Advanced 2D Plotting for Dear ImGui", "language": "C++", "repo": "implot", "new_stars": 0, "stars": 1231, "owner": "epezent", "forks": 95},
 {"description": "Remote-control OBS Studio through WebSockets", "language": "C++", "repo": "obs-websocket", "new_stars": 4, "stars": 1700, "owner": "Palakis", "forks": 310},
 {"description": "The FastLED library for colored LED animation on Arduino. Please direct questions/requests for help to the FastLED Reddit community:", "language": "C++", "repo": "FastLED", "new_stars": 5, "stars": 4422, "owner": "FastLED", "forks": 1194},
-{"description": null, "language": "C++", "repo": "AI-on-the-edge-device", "new_stars": 52, "stars": 471, "owner": "jomjol", "forks": 49}
+{"description": null, "language": "C++", "repo": "AI-on-the-edge-device", "new_stars": 49, "stars": 471, "owner": "jomjol", "forks": 49}
 ]

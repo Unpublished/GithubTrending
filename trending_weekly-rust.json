@@ -1,9 +1,9 @@
 [
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 299, "stars": 5634, "owner": "rust-analyzer", "forks": 545},
 {"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 69, "stars": 12601, "owner": "SergioBenitez", "forks": 850},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 546, "stars": 52193, "owner": "rust-lang", "forks": 7562},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 208, "stars": 14414, "owner": "rust-lang", "forks": 1868},
-{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 207, "stars": 7087, "owner": "ruffle-rs", "forks": 252},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 546, "stars": 52194, "owner": "rust-lang", "forks": 7562},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 209, "stars": 14415, "owner": "rust-lang", "forks": 1868},
+{"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 208, "stars": 7088, "owner": "ruffle-rs", "forks": 252},
 {"description": "AWS SDK for Rust", "language": "Rust", "repo": "rusoto", "new_stars": 27, "stars": 2184, "owner": "rusoto", "forks": 356},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 39, "stars": 2354, "owner": "ctz", "forks": 237},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 38, "stars": 5502, "owner": "rust-lang", "forks": 771},
@@ -15,7 +15,7 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 39, "stars": 6447, "owner": "rust-lang", "forks": 1743},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 39, "stars": 3686, "owner": "seanmonstar", "forks": 475},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 57, "stars": 4463, "owner": "fdehau", "forks": 225},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 61, "stars": 10511, "owner": "actix", "forks": 1154},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 61, "stars": 10510, "owner": "actix", "forks": 1154},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 199, "stars": 8527, "owner": "tauri-apps", "forks": 192},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 28, "stars": 1225, "owner": "solana-labs", "forks": 293},
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 16, "stars": 1645, "owner": "gfx-rs", "forks": 153},
@@ -23,5 +23,5 @@
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 66, "stars": 8517, "owner": "hecrj", "forks": 354},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 36, "stars": 7527, "owner": "hyperium", "forks": 968},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 41, "stars": 6483, "owner": "diesel-rs", "forks": 623},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 96, "stars": 7196, "owner": "RustPython", "forks": 487}
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 95, "stars": 7196, "owner": "RustPython", "forks": 487}
 ]

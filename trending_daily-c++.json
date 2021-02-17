@@ -1,18 +1,18 @@
 [
-{"description": "GTA III, Vice City", "language": "C++", "repo": "re3", "new_stars": 841, "stars": 3638, "owner": "GTAmodding", "forks": 284},
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 106, "stars": 10085, "owner": "CoatiSoftware", "forks": 646},
+{"description": "GTA III, Vice City", "language": "C++", "repo": "re3", "new_stars": 841, "stars": 3655, "owner": "GTAmodding", "forks": 286},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 106, "stars": 10096, "owner": "CoatiSoftware", "forks": 646},
 {"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 33, "stars": 22595, "owner": "commaai", "forks": 4687},
-{"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 3, "stars": 5623, "owner": "ArduPilot", "forks": 10446},
+{"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 3, "stars": 5624, "owner": "ArduPilot", "forks": 10447},
 {"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 9, "stars": 12759, "owner": "catchorg", "forks": 2157},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 10, "stars": 46362, "owner": "protocolbuffers", "forks": 12390},
-{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 11, "stars": 14500, "owner": "ClickHouse", "forks": 2919},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 10, "stars": 46363, "owner": "protocolbuffers", "forks": 12390},
+{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 11, "stars": 14501, "owner": "ClickHouse", "forks": 2919},
 {"description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.", "language": "C++", "repo": "server", "new_stars": 1, "stars": 1829, "owner": "triton-inference-server", "forks": 415},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 10, "stars": 29356, "owner": "grpc", "forks": 7505},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 10, "stars": 29357, "owner": "grpc", "forks": 7505},
 {"description": "STM32/ESP32/ESP8285 based High Performance Radio Link for Quads", "language": "C++", "repo": "ExpressLRS", "new_stars": 3, "stars": 365, "owner": "AlessandroAU", "forks": 90},
-{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 95, "stars": 10274, "owner": "MarlinFirmware", "forks": 13393},
+{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 95, "stars": 10274, "owner": "MarlinFirmware", "forks": 13394},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 5, "stars": 4201, "owner": "PX4", "forks": 10779},
 {"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 1, "stars": 3999, "owner": "NixOS", "forks": 658},
-{"description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.", "language": "C++", "repo": "LightGBM", "new_stars": 5, "stars": 12183, "owner": "microsoft", "forks": 3206},
+{"description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.", "language": "C++", "repo": "LightGBM", "new_stars": 5, "stars": 12185, "owner": "microsoft", "forks": 3207},
 {"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 1, "stars": 4337, "owner": "qgis", "forks": 1955},
 {"description": "Fast and exact implementation of the C++ from_chars functions for float and double types: 4x faster than strtod", "language": "C++", "repo": "fast_float", "new_stars": 17, "stars": 460, "owner": "fastfloat", "forks": 24},
 {"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 10, "stars": 10935, "owner": "google", "forks": 2068},
@@ -23,5 +23,5 @@
 {"description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more", "language": "C++", "repo": "incubator-mxnet", "new_stars": 1, "stars": 19271, "owner": "apache", "forks": 6806},
 {"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 11, "stars": 5738, "owner": "Atmosphere-NX", "forks": 640},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 2, "stars": 5490, "owner": "google", "forks": 820},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 26, "stars": 52387, "owner": "opencv", "forks": 43222}
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 26, "stars": 52386, "owner": "opencv", "forks": 43222}
 ]

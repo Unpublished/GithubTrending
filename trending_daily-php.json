@@ -1,15 +1,15 @@
 [
-{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 9, "stars": 8357, "owner": "squizlabs", "forks": 1324},
+{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 8, "stars": 8357, "owner": "squizlabs", "forks": 1324},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 24679, "owner": "symfony", "forks": 8014},
 {"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 6, "stars": 9299, "owner": "magento", "forks": 8233},
 {"description": "The Facebook SDK for PHP provides a native interface to the Graph API and Facebook Login.", "language": "PHP", "repo": "php-graph-sdk", "new_stars": 1, "stars": 2961, "owner": "facebookarchive", "forks": 1595},
 {"description": null, "language": "PHP", "repo": "breeze", "new_stars": 11, "stars": 1271, "owner": "laravel", "forks": 104},
 {"description": "PHP Secure Communications Library", "language": "PHP", "repo": "phpseclib", "new_stars": 2, "stars": 4254, "owner": "phpseclib", "forks": 695},
-{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 5, "stars": 15023, "owner": "briannesbitt", "forks": 1152},
+{"description": "A simple PHP API extension for DateTime.", "language": "PHP", "repo": "Carbon", "new_stars": 5, "stars": 15024, "owner": "briannesbitt", "forks": 1152},
 {"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 19, "stars": 63924, "owner": "laravel", "forks": 20460},
 {"description": "The Official Twilio SendGrid Led, Community Driven PHP API Library", "language": "PHP", "repo": "sendgrid-php", "new_stars": 1, "stars": 1246, "owner": "sendgrid", "forks": 586},
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 4, "stars": 4398, "owner": "barryvdh", "forks": 683},
-{"description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!", "language": "PHP", "repo": "matomo", "new_stars": 3, "stars": 14575, "owner": "matomo-org", "forks": 2094},
+{"description": "Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites & apps and visualise this data and extract insights. Privacy is built-in. We love Pull Requests!", "language": "PHP", "repo": "matomo", "new_stars": 4, "stars": 14575, "owner": "matomo-org", "forks": 2094},
 {"description": "Simple patches plugin for Composer", "language": "PHP", "repo": "composer-patches", "new_stars": 0, "stars": 1020, "owner": "cweagans", "forks": 194},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 4, "stars": 9695, "owner": "mockery", "forks": 424},
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 2, "stars": 9603, "owner": "phpstan", "forks": 695},
@@ -21,7 +21,7 @@
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 5, "stars": 18437, "owner": "Seldaek", "forks": 1714},
 {"description": "A free, self-hostable aggregator\u2026", "language": "PHP", "repo": "FreshRSS", "new_stars": 10, "stars": 2939, "owner": "FreshRSS", "forks": 363},
 {"description": "Instant Upgrades and Instant Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 10, "stars": 3849, "owner": "rectorphp", "forks": 332},
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 11, "stars": 13127, "owner": "nextcloud", "forks": 2424},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 12, "stars": 13127, "owner": "nextcloud", "forks": 2424},
 {"description": "A", "language": "PHP", "repo": "platform", "new_stars": 4, "stars": 2027, "owner": "orchidsoftware", "forks": 341},
 {"description": "PHP Hamcrest implementation [Official]", "language": "PHP", "repo": "hamcrest-php", "new_stars": 3, "stars": 6565, "owner": "hamcrest", "forks": 34}
 ]

@@ -1,5 +1,5 @@
 [
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 22, "stars": 13138, "owner": "nextcloud", "forks": 2425},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 24, "stars": 13138, "owner": "nextcloud", "forks": 2425},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 8, "stars": 18439, "owner": "Seldaek", "forks": 1713},
 {"description": "Main repository for pfSense", "language": "PHP", "repo": "pfsense", "new_stars": 5, "stars": 2998, "owner": "pfsense", "forks": 1135},
 {"description": "Official repository of the AWS SDK for PHP (@awsforphp)", "language": "PHP", "repo": "aws-sdk-php", "new_stars": 3, "stars": 5105, "owner": "aws", "forks": 989},
@@ -8,12 +8,12 @@
 {"description": "The most widely used PHP client for RabbitMQ", "language": "PHP", "repo": "php-amqplib", "new_stars": 4, "stars": 3715, "owner": "php-amqplib", "forks": 909},
 {"description": "PSR-7 HTTP message library", "language": "PHP", "repo": "psr7", "new_stars": 4, "stars": 6926, "owner": "guzzle", "forks": 210},
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 4, "stars": 9696, "owner": "mockery", "forks": 424},
-{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 34, "stars": 63933, "owner": "laravel", "forks": 20464},
+{"description": "A PHP framework for web artisans", "language": "PHP", "repo": "laravel", "new_stars": 36, "stars": 63934, "owner": "laravel", "forks": 20464},
 {"description": "All Submissions you make to Magento Inc. (\"Magento\") through GitHub are subject to the following terms and conditions: (1) You grant Magento a perpetual, worldwide, non-exclusive, no charge, royalty free, irrevocable license under your applicable copyrights and patents to reproduce, prepare derivative works of, display, publically perform, subli\u2026", "language": "PHP", "repo": "magento2", "new_stars": 6, "stars": 9299, "owner": "magento", "forks": 8238},
 {"description": "A flexible and feature-complete Redis client for PHP.", "language": "PHP", "repo": "predis", "new_stars": 3, "stars": 6692, "owner": "predis", "forks": 865},
 {"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 9, "stars": 14782, "owner": "WordPress", "forks": 9352},
-{"description": "HumHub - Open Source Social Network", "language": "PHP", "repo": "humhub", "new_stars": 3, "stars": 5282, "owner": "humhub", "forks": 1521},
-{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 8, "stars": 8363, "owner": "squizlabs", "forks": 1324},
+{"description": "HumHub - Open Source Social Network", "language": "PHP", "repo": "humhub", "new_stars": 4, "stars": 5282, "owner": "humhub", "forks": 1521},
+{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 15, "stars": 8363, "owner": "squizlabs", "forks": 1324},
 {"description": "Provides the functionality to compare PHP values for equality.", "language": "PHP", "repo": "comparator", "new_stars": 4, "stars": 6144, "owner": "sebastianbergmann", "forks": 51},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 7, "stars": 9713, "owner": "z-song", "forks": 2448},
 {"description": "Provides functionality that helps writing PHP code that has runtime-specific (PHP / HHVM) execution paths", "language": "PHP", "repo": "environment", "new_stars": 4, "stars": 5905, "owner": "sebastianbergmann", "forks": 23},
@@ -22,6 +22,6 @@
 {"description": null, "language": "PHP", "repo": "breeze", "new_stars": 10, "stars": 1273, "owner": "laravel", "forks": 104},
 {"description": "FilterIterator implementation that filters files based on a list of suffixes, prefixes, and other exclusion criteria.", "language": "PHP", "repo": "php-file-iterator", "new_stars": 4, "stars": 6518, "owner": "sebastianbergmann", "forks": 39},
 {"description": "Provides the functionality to export PHP variables for visualization", "language": "PHP", "repo": "exporter", "new_stars": 4, "stars": 5957, "owner": "sebastianbergmann", "forks": 22},
-{"description": "Utility class for timing", "language": "PHP", "repo": "php-timer", "new_stars": 5, "stars": 6706, "owner": "sebastianbergmann", "forks": 52},
+{"description": "Utility class for timing", "language": "PHP", "repo": "php-timer", "new_stars": 6, "stars": 6707, "owner": "sebastianbergmann", "forks": 52},
 {"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 4, "stars": 7682, "owner": "dompdf", "forks": 1467}
 ]

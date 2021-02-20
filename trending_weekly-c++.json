@@ -1,11 +1,11 @@
 [
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 897, "stars": 10435, "owner": "CoatiSoftware", "forks": 653},
-{"description": "Ethereum miner with OpenCL, CUDA and stratum support", "language": "C++", "repo": "ethminer", "new_stars": 125, "stars": 3868, "owner": "ethereum-mining", "forks": 1342},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 598, "stars": 49642, "owner": "bitcoin", "forks": 27653},
-{"description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner", "language": "C++", "repo": "xmrig", "new_stars": 82, "stars": 3845, "owner": "xmrig", "forks": 1785},
-{"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 1319, "stars": 9552, "owner": "flameshot-org", "forks": 614},
-{"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 25, "stars": 5632, "owner": "ArduPilot", "forks": 10465},
-{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 45, "stars": 5208, "owner": "monero-project", "forks": 2427},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 897, "stars": 10438, "owner": "CoatiSoftware", "forks": 653},
+{"description": "Ethereum miner with OpenCL, CUDA and stratum support", "language": "C++", "repo": "ethminer", "new_stars": 125, "stars": 3872, "owner": "ethereum-mining", "forks": 1343},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 609, "stars": 49645, "owner": "bitcoin", "forks": 27653},
+{"description": "RandomX, CryptoNight, AstroBWT and Argon2 CPU/GPU miner", "language": "C++", "repo": "xmrig", "new_stars": 83, "stars": 3847, "owner": "xmrig", "forks": 1786},
+{"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 1324, "stars": 9557, "owner": "flameshot-org", "forks": 614},
+{"description": "ArduPlane, ArduCopter, ArduRover source", "language": "C++", "repo": "ardupilot", "new_stars": 25, "stars": 5632, "owner": "ArduPilot", "forks": 10467},
+{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 47, "stars": 5209, "owner": "monero-project", "forks": 2428},
 {"description": "Nano is a cryptocurrency", "language": "C++", "repo": "nano-node", "new_stars": 37, "stars": 2820, "owner": "nanocurrency", "forks": 633},
 {"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 291, "stars": 10289, "owner": "MarlinFirmware", "forks": 13417},
 {"description": "Self-hosted crypto trading bot (automated high frequency market making) in node.js, angular, typescript and c++", "language": "C++", "repo": "Krypto-trading-bot", "new_stars": 24, "stars": 2025, "owner": "ctubio", "forks": 555},
@@ -13,9 +13,9 @@
 {"description": "Automatic License Plate Recognition library", "language": "C++", "repo": "openalpr", "new_stars": 28, "stars": 9958, "owner": "openalpr", "forks": 2301},
 {"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 40, "stars": 5749, "owner": "Atmosphere-NX", "forks": 640},
 {"description": "The official distribution of olcPixelGameEngine, a tool used in javidx9's YouTube videos and projects", "language": "C++", "repo": "olcPixelGameEngine", "new_stars": 38, "stars": 2022, "owner": "OneLoneCoder", "forks": 577},
-{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 164, "stars": 9000, "owner": "SerenityOS", "forks": 774},
+{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 165, "stars": 9001, "owner": "SerenityOS", "forks": 774},
 {"description": "A date and time library based on the C++11/14/17 <chrono> header", "language": "C++", "repo": "date", "new_stars": 30, "stars": 2064, "owner": "HowardHinnant", "forks": 442},
-{"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 155, "stars": 22625, "owner": "commaai", "forks": 4694},
+{"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 158, "stars": 22628, "owner": "commaai", "forks": 4694},
 {"description": "Fully featured, open source, privacy friendly email app for Android", "language": "C++", "repo": "FairEmail", "new_stars": 38, "stars": 1708, "owner": "M66B", "forks": 248},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 34, "stars": 3067, "owner": "esphome", "forks": 806},
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 51, "stars": 13167, "owner": "ValveSoftware", "forks": 534},
@@ -23,5 +23,5 @@
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 142, "stars": 13752, "owner": "yuzu-emu", "forks": 1162},
 {"description": "Source code for SonoBus, a real-time network audio streaming collaboration tool.", "language": "C++", "repo": "sonobus", "new_stars": 426, "stars": 508, "owner": "essej", "forks": 21},
 {"description": "Remote-control OBS Studio through WebSockets", "language": "C++", "repo": "obs-websocket", "new_stars": 24, "stars": 1723, "owner": "Palakis", "forks": 315},
-{"description": "ESP8266 core for Arduino", "language": "C++", "repo": "Arduino", "new_stars": 36, "stars": 12496, "owner": "esp8266", "forks": 10713}
+{"description": "ESP8266 core for Arduino", "language": "C++", "repo": "Arduino", "new_stars": 38, "stars": 12497, "owner": "esp8266", "forks": 10713}
 ]

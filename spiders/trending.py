@@ -3,7 +3,7 @@ A scraper for github's trending pages based on maniac103's script
 """
 import scrapy
 
-REPO_LIST_PATH = ".explore-pjax-container > div:nth-child(1) > div:nth-child(2)"
+REPO_LIST_PATH = "div.Box > div:nth-child(2)"
 
 
 class TrendingSpiderBase(scrapy.Spider):

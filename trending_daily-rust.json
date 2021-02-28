@@ -1,10 +1,10 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 72, "stars": 52649, "owner": "rust-lang", "forks": 7615},
-{"description": "in progress pretty printing calculator language", "language": "Rust", "repo": "CalcuLaTeX", "new_stars": 113, "stars": 268, "owner": "mkhan45", "forks": 5},
-{"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 87, "stars": 2737, "owner": "EmbarkStudios", "forks": 72},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 72, "stars": 52651, "owner": "rust-lang", "forks": 7615},
+{"description": "in progress pretty printing calculator language", "language": "Rust", "repo": "CalcuLaTeX", "new_stars": 113, "stars": 269, "owner": "mkhan45", "forks": 5},
+{"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 87, "stars": 2738, "owner": "EmbarkStudios", "forks": 72},
 {"description": "Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.", "language": "Rust", "repo": "valheim-docker", "new_stars": 42, "stars": 419, "owner": "mbround18", "forks": 41},
 {"description": "Diem\u2019s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.", "language": "Rust", "repo": "diem", "new_stars": 7, "stars": 15693, "owner": "diem", "forks": 2391},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 26, "stars": 10674, "owner": "actix", "forks": 1172},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 25, "stars": 10675, "owner": "actix", "forks": 1172},
 {"description": "Create full-fledged APIs for static datasets without writing a single line of code.", "language": "Rust", "repo": "roapi", "new_stars": 47, "stars": 137, "owner": "roapi", "forks": 7},
 {"description": "A high-performance observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 14, "stars": 6492, "owner": "timberio", "forks": 428},
 {"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 22, "stars": 2110, "owner": "Kethku", "forks": 94},
@@ -16,12 +16,12 @@
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 6, "stars": 2025, "owner": "serde-rs", "forks": 289},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 19, "stars": 1310, "owner": "solana-labs", "forks": 307},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 24, "stars": 3599, "owner": "launchbadge", "forks": 329},
-{"description": "derive(Error) for struct and enum error types", "language": "Rust", "repo": "thiserror", "new_stars": 19, "stars": 1337, "owner": "dtolnay", "forks": 51},
+{"description": "derive(Error) for struct and enum error types", "language": "Rust", "repo": "thiserror", "new_stars": 18, "stars": 1338, "owner": "dtolnay", "forks": 51},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 16, "stars": 5789, "owner": "rust-analyzer", "forks": 568},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 10, "stars": 1800, "owner": "ijl", "forks": 68},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 8, "stars": 1719, "owner": "WebAssembly", "forks": 121},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 7, "stars": 1288, "owner": "tower-rs", "forks": 97},
 {"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 39, "stars": 25456, "owner": "sharkdp", "forks": 642},
 {"description": "Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.", "language": "Rust", "repo": "materialize", "new_stars": 13, "stars": 2393, "owner": "MaterializeInc", "forks": 135},
-{"description": "Realtime ticker data in your terminal", "language": "Rust", "repo": "tickrs", "new_stars": 10, "stars": 453, "owner": "tarkah", "forks": 24}
+{"description": "Realtime ticker data in your terminal", "language": "Rust", "repo": "tickrs", "new_stars": 10, "stars": 454, "owner": "tarkah", "forks": 24}
 ]

@@ -1,13 +1,13 @@
 [
 {"description": "A demo application to illustrate how Inertia.js works.", "language": "PHP", "repo": "pingcrm", "new_stars": 4, "stars": 935, "owner": "inertiajs", "forks": 302},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 18, "stars": 30158, "owner": "danielmiessler", "forks": 15310},
-{"description": "open source alternative to memberstack / memberspace , but with both front and backend member-only content protection", "language": "PHP", "repo": "MemberPrism2", "new_stars": 63, "stars": 133, "owner": "easychen", "forks": 6},
-{"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 2, "stars": 3809, "owner": "akaunting", "forks": 1405},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 20, "stars": 30160, "owner": "danielmiessler", "forks": 15310},
+{"description": "open source alternative to memberstack / memberspace , but with both front and backend member-only content protection", "language": "PHP", "repo": "MemberPrism2", "new_stars": 58, "stars": 134, "owner": "easychen", "forks": 6},
+{"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 2, "stars": 3809, "owner": "akaunting", "forks": 1406},
 {"description": "WordPress starter theme with a modern development workflow", "language": "PHP", "repo": "sage", "new_stars": 2, "stars": 11079, "owner": "roots", "forks": 2929},
-{"description": "Ghygen is a GitHub Actions configurator for your Laravel Application.", "language": "PHP", "repo": "gh-actions-yaml-generator", "new_stars": 15, "stars": 107, "owner": "Hi-Folks", "forks": 3},
+{"description": "Ghygen is a GitHub Actions configurator for your Laravel Application.", "language": "PHP", "repo": "gh-actions-yaml-generator", "new_stars": 16, "stars": 108, "owner": "Hi-Folks", "forks": 3},
 {"description": "The Roundcube Webmail suite", "language": "PHP", "repo": "roundcubemail", "new_stars": 1, "stars": 3753, "owner": "roundcube", "forks": 1362},
 {"description": null, "language": "PHP", "repo": "php-reverse-shell", "new_stars": 1, "stars": 595, "owner": "pentestmonkey", "forks": 741},
-{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 6, "stars": 14802, "owner": "WordPress", "forks": 9369},
+{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 7, "stars": 14803, "owner": "WordPress", "forks": 9369},
 {"description": "PHP Telegram Bot based on the official Telegram Bot API", "language": "PHP", "repo": "core", "new_stars": 1, "stars": 2521, "owner": "php-telegram-bot", "forks": 747},
 {"description": "The RSS feed for websites missing it", "language": "PHP", "repo": "rss-bridge", "new_stars": 2, "stars": 3185, "owner": "RSS-Bridge", "forks": 582},
 {"description": "Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.", "language": "PHP", "repo": "Mobile-Detect", "new_stars": 2, "stars": 9646, "owner": "serbanghita", "forks": 2579},
@@ -18,10 +18,10 @@
 {"description": "The Filesystem component provides basic utilities for the filesystem.", "language": "PHP", "repo": "filesystem", "new_stars": 3, "stars": 3819, "owner": "symfony", "forks": 49},
 {"description": "A set of service abstractions extracted out of the Symfony components", "language": "PHP", "repo": "service-contracts", "new_stars": 3, "stars": 1643, "owner": "symfony", "forks": 3},
 {"description": "Community-based GPL-licensed network monitoring system", "language": "PHP", "repo": "librenms", "new_stars": 3, "stars": 2204, "owner": "librenms", "forks": 1559},
-{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 11, "stars": 16285, "owner": "PHPMailer", "forks": 8644},
+{"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 11, "stars": 16285, "owner": "PHPMailer", "forks": 8643},
 {"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 6, "stars": 11011, "owner": "barryvdh", "forks": 955},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 4, "stars": 18458, "owner": "Seldaek", "forks": 1714},
-{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 2, "stars": 2296, "owner": "pterodactyl", "forks": 560},
-{"description": "Update Pi-hole's lists from remote sources easily", "language": "PHP", "repo": "pihole-updatelists", "new_stars": 2, "stars": 416, "owner": "jacklul", "forks": 32},
-{"description": "Open Source eCommerce Platform on Symfony", "language": "PHP", "repo": "Sylius", "new_stars": 5, "stars": 6236, "owner": "Sylius", "forks": 1777}
+{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 3, "stars": 2297, "owner": "pterodactyl", "forks": 560},
+{"description": "Update Pi-hole's lists from remote sources easily", "language": "PHP", "repo": "pihole-updatelists", "new_stars": 3, "stars": 417, "owner": "jacklul", "forks": 32},
+{"description": "Open Source eCommerce Platform on Symfony", "language": "PHP", "repo": "Sylius", "new_stars": 6, "stars": 6237, "owner": "Sylius", "forks": 1777}
 ]

@@ -1,17 +1,17 @@
 [
-{"description": null, "language": "Rust", "repo": "totally-safe-transmute", "new_stars": 9, "stars": 82, "owner": "ben0x539", "forks": 6},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 32, "stars": 52700, "owner": "rust-lang", "forks": 7623},
+{"description": null, "language": "Rust", "repo": "totally-safe-transmute", "new_stars": 10, "stars": 83, "owner": "ben0x539", "forks": 6},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 33, "stars": 52701, "owner": "rust-lang", "forks": 7623},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 15, "stars": 7060, "owner": "bevyengine", "forks": 555},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 2, "stars": 6559, "owner": "diesel-rs", "forks": 630},
-{"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 11, "stars": 1002, "owner": "dtolnay", "forks": 246},
+{"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 12, "stars": 1003, "owner": "dtolnay", "forks": 247},
 {"description": "Raw bindings to platform APIs for Rust", "language": "Rust", "repo": "libc", "new_stars": 3, "stars": 968, "owner": "rust-lang", "forks": 586},
-{"description": "Community showcase and examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 5, "stars": 1705, "owner": "actix", "forks": 508},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 8, "stars": 3328, "owner": "linebender", "forks": 264},
-{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 12, "stars": 6786, "owner": "amethyst", "forks": 721},
+{"description": "Community showcase and examples of Actix ecosystem usage.", "language": "Rust", "repo": "examples", "new_stars": 4, "stars": 1705, "owner": "actix", "forks": 508},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 7, "stars": 3328, "owner": "linebender", "forks": 264},
+{"description": "Data-oriented and data-driven game engine written in Rust", "language": "Rust", "repo": "amethyst", "new_stars": 11, "stars": 6786, "owner": "amethyst", "forks": 721},
 {"description": "swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.", "language": "Rust", "repo": "swc", "new_stars": 18, "stars": 10988, "owner": "swc-project", "forks": 271},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 5, "stars": 8906, "owner": "tikv", "forks": 1385},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 12, "stars": 10697, "owner": "actix", "forks": 1174},
-{"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 35, "stars": 72905, "owner": "denoland", "forks": 3798},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 6, "stars": 8907, "owner": "tikv", "forks": 1385},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 10, "stars": 10697, "owner": "actix", "forks": 1174},
+{"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 38, "stars": 72908, "owner": "denoland", "forks": 3798},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 6, "stars": 4293, "owner": "seanmonstar", "forks": 417},
 {"description": "An experimental Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 9, "stars": 5804, "owner": "rust-analyzer", "forks": 572},
 {"description": "Realtime ticker data in your terminal", "language": "Rust", "repo": "tickrs", "new_stars": 5, "stars": 465, "owner": "tarkah", "forks": 25},
@@ -23,5 +23,5 @@
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 1, "stars": 1657, "owner": "rust-windowing", "forks": 412},
 {"description": "Turn static CLI commands into TUIs with ease", "language": "Rust", "repo": "lazycli", "new_stars": 9, "stars": 81, "owner": "jesseduffield", "forks": 5},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 13, "stars": 5559, "owner": "clap-rs", "forks": 533},
-{"description": "Tiny cross-platform WebView library in Rust for Tauri. [WIP]", "language": "Rust", "repo": "wry", "new_stars": 4, "stars": 157, "owner": "tauri-apps", "forks": 8}
+{"description": "Tiny cross-platform WebView library in Rust for Tauri. [WIP]", "language": "Rust", "repo": "wry", "new_stars": 5, "stars": 158, "owner": "tauri-apps", "forks": 8}
 ]

@@ -1,5 +1,5 @@
 [
-{"description": "Ghidra is a software reverse engineering (SRE) framework", "language": "Java", "repo": "ghidra", "new_stars": 134, "stars": 25168, "owner": "NationalSecurityAgency", "forks": 3373},
+{"description": "Ghidra is a software reverse engineering (SRE) framework", "language": "Java", "repo": "ghidra", "new_stars": 103, "stars": 25188, "owner": "NationalSecurityAgency", "forks": 3373},
 {"description": "Apache Iceberg", "language": "Java", "repo": "iceberg", "new_stars": 4, "stars": 1217, "owner": "apache", "forks": 457},
 {"description": "Mirror of Apache RocketMQ", "language": "Java", "repo": "rocketmq", "new_stars": 12, "stars": 13625, "owner": "apache", "forks": 7476},
 {"description": "Apache NiFi", "language": "Java", "repo": "nifi", "new_stars": 0, "stars": 2472, "owner": "apache", "forks": 1972},
@@ -10,18 +10,18 @@
 {"description": "Twilio Video (WebRTC) for React Native", "language": "Java", "repo": "react-native-twilio-video-webrtc", "new_stars": 1, "stars": 396, "owner": "blackuy", "forks": 271},
 {"description": "Apache Hive", "language": "Java", "repo": "hive", "new_stars": 1, "stars": 3599, "owner": "apache", "forks": 3425},
 {"description": "\u5f00\u6e90\u8bba\u575b\u3001\u95ee\u7b54\u7cfb\u7edf\uff0c\u73b0\u6709\u529f\u80fd\u63d0\u95ee\u3001\u56de\u590d\u3001\u901a\u77e5\u3001\u6700\u65b0\u3001\u6700\u70ed\u3001\u6d88\u9664\u96f6\u56de\u590d\u529f\u80fd\u3002\u529f\u80fd\u6301\u7eed\u66f4\u65b0\u4e2d\u2026\u2026 \u6280\u672f\u6808 Spring\u3001Spring Boot\u3001MyBatis\u3001MySQL/H2\u3001Bootstrap", "language": "Java", "repo": "community", "new_stars": 4, "stars": 1397, "owner": "codedrinker", "forks": 560},
-{"description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java", "language": "Java", "repo": "opentelemetry-java-instrumentation", "new_stars": 1, "stars": 268, "owner": "open-telemetry", "forks": 142},
-{"description": "A browser automation framework and ecosystem.", "language": "Java", "repo": "selenium", "new_stars": 9, "stars": 19979, "owner": "SeleniumHQ", "forks": 6183},
-{"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 26, "stars": 53900, "owner": "elastic", "forks": 19332},
+{"description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java", "language": "Java", "repo": "opentelemetry-java-instrumentation", "new_stars": 1, "stars": 268, "owner": "open-telemetry", "forks": 143},
+{"description": "A browser automation framework and ecosystem.", "language": "Java", "repo": "selenium", "new_stars": 9, "stars": 19980, "owner": "SeleniumHQ", "forks": 6183},
+{"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 26, "stars": 53900, "owner": "elastic", "forks": 19331},
 {"description": "Provides Familiar Spring Abstractions for Apache Kafka", "language": "Java", "repo": "spring-kafka", "new_stars": 1, "stars": 1267, "owner": "spring-projects", "forks": 951},
 {"description": "\u963f\u91cc\u5df4\u5df4 MySQL binlog \u589e\u91cf\u8ba2\u9605&\u6d88\u8d39\u7ec4\u4ef6", "language": "Java", "repo": "canal", "new_stars": 17, "stars": 17956, "owner": "alibaba", "forks": 5568},
-{"description": "Mirror of Apache Cassandra", "language": "Java", "repo": "cassandra", "new_stars": 3, "stars": 6484, "owner": "apache", "forks": 2803},
+{"description": "Mirror of Apache Cassandra", "language": "Java", "repo": "cassandra", "new_stars": 2, "stars": 6484, "owner": "apache", "forks": 2803},
 {"description": "React Native Local and Remote Notifications", "language": "Java", "repo": "react-native-push-notification", "new_stars": 2, "stars": 5559, "owner": "zo0r", "forks": 1703},
-{"description": "A simple tool to calculate the overall performance of an investment portfolio.", "language": "Java", "repo": "portfolio", "new_stars": 3, "stars": 1287, "owner": "buchen", "forks": 310},
+{"description": "A simple tool to calculate the overall performance of an investment portfolio.", "language": "Java", "repo": "portfolio", "new_stars": 4, "stars": 1288, "owner": "buchen", "forks": 310},
 {"description": "Maven plugins for Azure", "language": "Java", "repo": "azure-maven-plugins", "new_stars": 0, "stars": 203, "owner": "microsoft", "forks": 97},
 {"description": "\u9879\u76ee\u57fa\u4e8e Spring Boot 2.1.0 \u3001 Jpa\u3001 Spring Security\u3001redis\u3001Vue\u7684\u524d\u540e\u7aef\u5206\u79bb\u7684\u540e\u53f0\u7ba1\u7406\u7cfb\u7edf\uff0c\u9879\u76ee\u91c7\u7528\u5206\u6a21\u5757\u5f00\u53d1\u65b9\u5f0f\uff0c \u6743\u9650\u63a7\u5236\u91c7\u7528 RBAC\uff0c\u652f\u6301\u6570\u636e\u5b57\u5178\u4e0e\u6570\u636e\u6743\u9650\u7ba1\u7406\uff0c\u652f\u6301\u4e00\u952e\u751f\u6210\u524d\u540e\u7aef\u4ee3\u7801\uff0c\u652f\u6301\u52a8\u6001\u8def\u7531", "language": "Java", "repo": "eladmin", "new_stars": 52, "stars": 14544, "owner": "elunez", "forks": 5392},
-{"description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform", "language": "Java", "repo": "groovy", "new_stars": 3, "stars": 4042, "owner": "apache", "forks": 1545},
+{"description": "Apache Groovy: A powerful multi-faceted programming language for the JVM platform", "language": "Java", "repo": "groovy", "new_stars": 4, "stars": 4043, "owner": "apache", "forks": 1545},
 {"description": "Flow is a Java framework binding Vaadin web components to Java. This is part of Vaadin 10+.", "language": "Java", "repo": "flow", "new_stars": 1, "stars": 284, "owner": "vaadin", "forks": 91},
 {"description": "Learn how to accept a basic card payment on web, iOS, Android", "language": "Java", "repo": "accept-a-card-payment", "new_stars": 0, "stars": 291, "owner": "stripe-samples", "forks": 281},
-{"description": "K-9 Mail \u2013 Open Source Email App for Android", "language": "Java", "repo": "k-9", "new_stars": 3, "stars": 5692, "owner": "k9mail", "forks": 2145}
+{"description": "K-9 Mail \u2013 Open Source Email App for Android", "language": "Java", "repo": "k-9", "new_stars": 3, "stars": 5693, "owner": "k9mail", "forks": 2145}
 ]

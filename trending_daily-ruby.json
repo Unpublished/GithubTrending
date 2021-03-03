@@ -1,15 +1,15 @@
 [
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 14, "stars": 23794, "owner": "tootsuite", "forks": 3958},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 15, "stars": 23794, "owner": "tootsuite", "forks": 3958},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 5, "stars": 21469, "owner": "heartcombo", "forks": 5174},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 4, "stars": 9178, "owner": "faker-ruby", "forks": 2591},
 {"description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data", "language": "Ruby", "repo": "rails_admin", "new_stars": 6, "stars": 7448, "owner": "sferik", "forks": 2177},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 20, "stars": 23271, "owner": "rapid7", "forks": 11020},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 12, "stars": 47708, "owner": "rails", "forks": 19172},
-{"description": "A runtime developer console and IRB alternative with powerful introspection capabilities.", "language": "Ruby", "repo": "pry", "new_stars": 2, "stars": 6160, "owner": "pry", "forks": 566},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 16, "stars": 23270, "owner": "rapid7", "forks": 11021},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 13, "stars": 47709, "owner": "rails", "forks": 19172},
+{"description": "A runtime developer console and IRB alternative with powerful introspection capabilities.", "language": "Ruby", "repo": "pry", "new_stars": 1, "stars": 6160, "owner": "pry", "forks": 566},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 3, "stars": 13054, "owner": "CocoaPods", "forks": 2371},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 2, "stars": 7125, "owner": "thoughtbot", "forks": 2321},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 1, "stars": 5046, "owner": "rails", "forks": 1363},
-{"description": null, "language": "Ruby", "repo": "magic_test", "new_stars": 24, "stars": 112, "owner": "bullet-train-co", "forks": 4},
+{"description": null, "language": "Ruby", "repo": "magic_test", "new_stars": 21, "stars": 112, "owner": "bullet-train-co", "forks": 4},
 {"description": "A Read-Write Proxy for Connections; Also provides an ActiveRecord adapter.", "language": "Ruby", "repo": "makara", "new_stars": 0, "stars": 780, "owner": "instacart", "forks": 137},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 10851, "owner": "mperham", "forks": 1912},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 1, "stars": 5073, "owner": "rails-api", "forks": 1368},
@@ -23,5 +23,5 @@
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 5, "stars": 8863, "owner": "resque", "forks": 1602},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 5, "stars": 6666, "owner": "puma", "forks": 1208},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 113, "owner": "DataDog", "forks": 211},
-{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 3, "stars": 7761, "owner": "heartcombo", "forks": 1293}
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 2, "stars": 7761, "owner": "heartcombo", "forks": 1293}
 ]

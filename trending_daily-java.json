@@ -1,8 +1,8 @@
 [
-{"description": "GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5e2e\u52a9\u4f60\u53d1\u73b0\u9ad8\u5206\u4f18\u79c0\u4e2d\u6587\u9879\u76ee\u3001\u66f4\u9ad8\u6548\u5730\u5438\u6536\u56fd\u4eba\u7684\u4f18\u79c0\u7ecf\u9a8c\u6210\u679c\uff1b\u699c\u5355\u6bcf\u5468\u66f4\u65b0\u4e00\u6b21\uff0c\u656c\u8bf7\u5173\u6ce8\uff01", "language": "Java", "repo": "GitHub-Chinese-Top-Charts", "new_stars": 58, "stars": 30819, "owner": "kon9chunkit", "forks": 4466},
-{"description": "Apache Beam is a unified programming model for Batch and Streaming", "language": "Java", "repo": "beam", "new_stars": 3, "stars": 4660, "owner": "apache", "forks": 2916},
-{"description": "JDK main-line development", "language": "Java", "repo": "jdk", "new_stars": 49, "stars": 8447, "owner": "openjdk", "forks": 2011},
-{"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 19, "stars": 54151, "owner": "elastic", "forks": 19475},
+{"description": "GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5e2e\u52a9\u4f60\u53d1\u73b0\u9ad8\u5206\u4f18\u79c0\u4e2d\u6587\u9879\u76ee\u3001\u66f4\u9ad8\u6548\u5730\u5438\u6536\u56fd\u4eba\u7684\u4f18\u79c0\u7ecf\u9a8c\u6210\u679c\uff1b\u699c\u5355\u6bcf\u5468\u66f4\u65b0\u4e00\u6b21\uff0c\u656c\u8bf7\u5173\u6ce8\uff01", "language": "Java", "repo": "GitHub-Chinese-Top-Charts", "new_stars": 58, "stars": 30823, "owner": "kon9chunkit", "forks": 4466},
+{"description": "Apache Beam is a unified programming model for Batch and Streaming", "language": "Java", "repo": "beam", "new_stars": 3, "stars": 4660, "owner": "apache", "forks": 2917},
+{"description": "JDK main-line development", "language": "Java", "repo": "jdk", "new_stars": 49, "stars": 8448, "owner": "openjdk", "forks": 2011},
+{"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 19, "stars": 54151, "owner": "elastic", "forks": 19474},
 {"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 19, "stars": 54054, "owner": "spring-projects", "forks": 33132},
 {"description": "A high performance caching library for Java", "language": "Java", "repo": "caffeine", "new_stars": 10, "stars": 9529, "owner": "ben-manes", "forks": 982},
 {"description": "Resilience4j is a fault tolerance library designed for Java8 and functional programming", "language": "Java", "repo": "resilience4j", "new_stars": 6, "stars": 6640, "owner": "resilience4j", "forks": 890},
@@ -14,8 +14,8 @@
 {"description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.", "language": "Java", "repo": "checkstyle", "new_stars": 5, "stars": 5905, "owner": "checkstyle", "forks": 7757},
 {"description": "PowerMock is a Java framework that allows you to unit test code normally regarded as untestable.", "language": "Java", "repo": "powermock", "new_stars": 1, "stars": 3447, "owner": "powermock", "forks": 536},
 {"description": "Java client for Kubernetes & OpenShift", "language": "Java", "repo": "kubernetes-client", "new_stars": 2, "stars": 1770, "owner": "fabric8io", "forks": 871},
-{"description": "Build container images for your Java applications.", "language": "Java", "repo": "jib", "new_stars": 11, "stars": 10395, "owner": "GoogleContainerTools", "forks": 1032},
-{"description": "Alluxio, data orchestration for analytics and machine learning in the cloud", "language": "Java", "repo": "alluxio", "new_stars": 3, "stars": 5007, "owner": "Alluxio", "forks": 2442},
+{"description": "Build container images for your Java applications.", "language": "Java", "repo": "jib", "new_stars": 11, "stars": 10394, "owner": "GoogleContainerTools", "forks": 1032},
+{"description": "Alluxio, data orchestration for analytics and machine learning in the cloud", "language": "Java", "repo": "alluxio", "new_stars": 3, "stars": 5008, "owner": "Alluxio", "forks": 2442},
 {"description": "Graphs for Everyone", "language": "Java", "repo": "neo4j", "new_stars": 5, "stars": 8728, "owner": "neo4j", "forks": 1972},
 {"description": "Nextcloud Android app", "language": "Java", "repo": "android", "new_stars": 1, "stars": 2304, "owner": "nextcloud", "forks": 1153},
 {"description": "Hibernate's core Object/Relational Mapping functionality", "language": "Java", "repo": "hibernate-orm", "new_stars": 0, "stars": 4557, "owner": "hibernate", "forks": 2934},
@@ -23,5 +23,5 @@
 {"description": "CloudFoundry User Account and Authentication (UAA) Server", "language": "Java", "repo": "uaa", "new_stars": 2, "stars": 1296, "owner": "cloudfoundry", "forks": 762},
 {"description": "Free universal database tool and SQL client", "language": "Java", "repo": "dbeaver", "new_stars": 18, "stars": 19493, "owner": "dbeaver", "forks": 1798},
 {"description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web", "language": "Java", "repo": "capacitor", "new_stars": 2, "stars": 5335, "owner": "ionic-team", "forks": 614},
-{"description": "Apache Calcite", "language": "Java", "repo": "calcite", "new_stars": 5, "stars": 2381, "owner": "apache", "forks": 1344}
+{"description": "Apache Calcite", "language": "Java", "repo": "calcite", "new_stars": 5, "stars": 2380, "owner": "apache", "forks": 1344}
 ]

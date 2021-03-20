@@ -1,6 +1,6 @@
 [
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 257, "stars": 7808, "owner": "chatwoot", "forks": 797},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 12, "stars": 47811, "owner": "rails", "forks": 19214},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 257, "stars": 7826, "owner": "chatwoot", "forks": 798},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 13, "stars": 47812, "owner": "rails", "forks": 19214},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 1, "stars": 7141, "owner": "thoughtbot", "forks": 2336},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 15, "stars": 23453, "owner": "rapid7", "forks": 11075},
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 4, "stars": 1677, "owner": "github", "forks": 182},
@@ -8,7 +8,7 @@
 {"description": "Pretty print your Ruby objects with style -- in full color and with proper indentation", "language": "Ruby", "repo": "awesome_print", "new_stars": 10, "stars": 3835, "owner": "awesome-print", "forks": 439},
 {"description": "A library for bulk insertion of data into your database using ActiveRecord.", "language": "Ruby", "repo": "activerecord-import", "new_stars": 1, "stars": 3472, "owner": "zdennis", "forks": 571},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 4, "stars": 31552, "owner": "fastlane", "forks": 4858},
-{"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 8, "stars": 5832, "owner": "ankane", "forks": 333},
+{"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 9, "stars": 5833, "owner": "ankane", "forks": 333},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 3, "stars": 4642, "owner": "rmosolgo", "forks": 1043},
 {"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 2, "stars": 2552, "owner": "sorbet", "forks": 267},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 3, "stars": 7208, "owner": "varvet", "forks": 555},
@@ -17,11 +17,11 @@
 {"description": "Multitouch gestures with libinput driver on Linux", "language": "Ruby", "repo": "fusuma", "new_stars": 4, "stars": 2438, "owner": "iberianpig", "forks": 119},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 3, "stars": 4814, "owner": "activerecord-hackery", "forks": 718},
 {"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 3, "stars": 4124, "owner": "rack", "forks": 1526},
-{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 6, "stars": 8577, "owner": "github", "forks": 3093},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 6, "stars": 8577, "owner": "github", "forks": 3092},
 {"description": "Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.", "language": "Ruby", "repo": "database_cleaner", "new_stars": 0, "stars": 2687, "owner": "DatabaseCleaner", "forks": 476},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 2, "stars": 6682, "owner": "puma", "forks": 1218},
-{"description": "Export existing AWS resources to Terraform style (tf, tfstate)", "language": "Ruby", "repo": "terraforming", "new_stars": 3, "stars": 3944, "owner": "dtan4", "forks": 594},
+{"description": "Export existing AWS resources to Terraform style (tf, tfstate)", "language": "Ruby", "repo": "terraforming", "new_stars": 4, "stars": 3945, "owner": "dtan4", "forks": 594},
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 0, "stars": 8871, "owner": "resque", "forks": 1605},
-{"description": "A Ruby library for carefully refactoring critical paths.", "language": "Ruby", "repo": "scientist", "new_stars": 4, "stars": 5944, "owner": "github", "forks": 397},
+{"description": "A Ruby library for carefully refactoring critical paths.", "language": "Ruby", "repo": "scientist", "new_stars": 5, "stars": 5945, "owner": "github", "forks": 397},
 {"description": "Beautiful, performant feature flags for Ruby.", "language": "Ruby", "repo": "flipper", "new_stars": 0, "stars": 2430, "owner": "jnunemaker", "forks": 288}
 ]

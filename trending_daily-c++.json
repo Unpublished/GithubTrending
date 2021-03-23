@@ -1,16 +1,16 @@
 [
-{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 52, "stars": 5399, "owner": "Aircoookie", "forks": 996},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 108, "stars": 37439, "owner": "godotengine", "forks": 7022},
-{"description": "Telegram for Android source", "language": "C++", "repo": "Telegram", "new_stars": 84, "stars": 16600, "owner": "DrKLO", "forks": 5877},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 51, "stars": 50917, "owner": "bitcoin", "forks": 28088},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 28, "stars": 28368, "owner": "ocornut", "forks": 4721},
+{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 52, "stars": 5400, "owner": "Aircoookie", "forks": 996},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 108, "stars": 37448, "owner": "godotengine", "forks": 7022},
+{"description": "Telegram for Android source", "language": "C++", "repo": "Telegram", "new_stars": 84, "stars": 16603, "owner": "DrKLO", "forks": 5877},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 51, "stars": 50919, "owner": "bitcoin", "forks": 28088},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 28, "stars": 28369, "owner": "ocornut", "forks": 4721},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 3, "stars": 7200, "owner": "dolphin-emu", "forks": 1680},
-{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 12, "stars": 10492, "owner": "MarlinFirmware", "forks": 13735},
-{"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.", "language": "C++", "repo": "bullet3", "new_stars": 7, "stars": 7679, "owner": "bulletphysics", "forks": 2059},
+{"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 11, "stars": 10492, "owner": "MarlinFirmware", "forks": 13734},
+{"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.", "language": "C++", "repo": "bullet3", "new_stars": 7, "stars": 7680, "owner": "bulletphysics", "forks": 2059},
 {"description": "Klipper is a 3d-printer firmware", "language": "C++", "repo": "klipper", "new_stars": 5, "stars": 2783, "owner": "KevinOConnor", "forks": 1738},
-{"description": "STM32/ESP32/ESP8285 based High Performance Radio Link for Quads", "language": "C++", "repo": "ExpressLRS", "new_stars": 1, "stars": 435, "owner": "ExpressLRS", "forks": 105},
+{"description": "STM32/ESP32/ESP8285 based High Performance Radio Link for Quads", "language": "C++", "repo": "ExpressLRS", "new_stars": 1, "stars": 436, "owner": "ExpressLRS", "forks": 105},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 3, "stars": 3182, "owner": "esphome", "forks": 856},
-{"description": "Highly customizable Wayland bar for Sway and Wlroots based compositors.", "language": "C++", "repo": "Waybar", "new_stars": 3, "stars": 1504, "owner": "Alexays", "forks": 215},
+{"description": "Highly customizable Wayland bar for Sway and Wlroots based compositors.", "language": "C++", "repo": "Waybar", "new_stars": 2, "stars": 1504, "owner": "Alexays", "forks": 215},
 {"description": "Nintendo Switch Emulator", "language": "C++", "repo": "yuzu", "new_stars": 14, "stars": 14147, "owner": "yuzu-emu", "forks": 1199},
 {"description": null, "language": "C++", "repo": "rpi-imager", "new_stars": 6, "stars": 473, "owner": "raspberrypi", "forks": 78},
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 5, "stars": 13314, "owner": "ValveSoftware", "forks": 541},
@@ -23,5 +23,5 @@
 {"description": "Coroutine-based concurrency library for PHP", "language": "C++", "repo": "swoole-src", "new_stars": 16, "stars": 16654, "owner": "swoole", "forks": 3129},
 {"description": "DSi Menu replacement for DS/DSi/3DS/2DS", "language": "C++", "repo": "TWiLightMenu", "new_stars": 1, "stars": 1461, "owner": "DS-Homebrew", "forks": 127},
 {"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 4, "stars": 3434, "owner": "tdlib", "forks": 707},
-{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 4, "stars": 4871, "owner": "PCSX2", "forks": 796}
+{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 4, "stars": 4872, "owner": "PCSX2", "forks": 796}
 ]

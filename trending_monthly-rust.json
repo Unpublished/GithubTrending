@@ -5,10 +5,10 @@
 {"description": "Spotify for the terminal written in Rust", "language": "Rust", "repo": "spotify-tui", "new_stars": 313, "stars": 8040, "owner": "Rigellute", "forks": 281},
 {"description": "High-performance, high-reliability observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 302, "stars": 6760, "owner": "timberio", "forks": 458},
 {"description": "A fast, simple, recursive content discovery tool written in Rust.", "language": "Rust", "repo": "feroxbuster", "new_stars": 460, "stars": 1357, "owner": "epi052", "forks": 132},
-{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 319, "stars": 3532, "owner": "extrawurst", "forks": 138},
+{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 320, "stars": 3533, "owner": "extrawurst", "forks": 138},
 {"description": "Making Rust a first-class language and ecosystem for GPU code", "language": "Rust", "repo": "rust-gpu", "new_stars": 344, "stars": 2982, "owner": "EmbarkStudios", "forks": 78},
-{"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 161, "stars": 2239, "owner": "Kethku", "forks": 100},
-{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 153, "stars": 2541, "owner": "shadowsocks", "forks": 495},
+{"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 162, "stars": 2240, "owner": "Kethku", "forks": 100},
+{"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 154, "stars": 2542, "owner": "shadowsocks", "forks": 495},
 {"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 120, "stars": 5313, "owner": "bottlerocket-os", "forks": 226},
 {"description": "Valheim Docker powered by Odin. The Valheim dedicated gameserver manager which is designed with resiliency in mind by providing automatic updates, world backup support, and a user friendly cli interface.", "language": "Rust", "repo": "valheim-docker", "new_stars": 166, "stars": 538, "owner": "mbround18", "forks": 52},
 {"description": null, "language": "Rust", "repo": "bottom-rs", "new_stars": 111, "stars": 216, "owner": "bottom-software-foundation", "forks": 11},
@@ -21,7 +21,7 @@
 {"description": "OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32", "language": "Rust", "repo": "os_kernel_lab", "new_stars": 64, "stars": 2973, "owner": "chyyuu", "forks": 1762},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 836, "stars": 53303, "owner": "rust-lang", "forks": 7678},
 {"description": "wrangle your cloudflare workers", "language": "Rust", "repo": "wrangler", "new_stars": 76, "stars": 2074, "owner": "cloudflare", "forks": 257},
-{"description": "Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.", "language": "Rust", "repo": "materialize", "new_stars": 141, "stars": 2515, "owner": "MaterializeInc", "forks": 153},
+{"description": "Materialize simplifies application development with streaming data. Incrementally-updated materialized views - in PostgreSQL and in real time. Materialize is powered by Timely Dataflow.", "language": "Rust", "repo": "materialize", "new_stars": 141, "stars": 2515, "owner": "MaterializeInc", "forks": 154},
 {"description": "A Rust runtime for AWS Lambda", "language": "Rust", "repo": "aws-lambda-rust-runtime", "new_stars": 69, "stars": 1543, "owner": "awslabs", "forks": 148},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 63, "stars": 1048, "owner": "dtolnay", "forks": 258}
 ]

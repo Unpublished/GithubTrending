@@ -1,5 +1,5 @@
 [
-{"description": "GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5e2e\u52a9\u4f60\u53d1\u73b0\u9ad8\u5206\u4f18\u79c0\u4e2d\u6587\u9879\u76ee\u3001\u66f4\u9ad8\u6548\u5730\u5438\u6536\u56fd\u4eba\u7684\u4f18\u79c0\u7ecf\u9a8c\u6210\u679c\uff1b\u699c\u5355\u6bcf\u5468\u66f4\u65b0\u4e00\u6b21\uff0c\u656c\u8bf7\u5173\u6ce8\uff01", "language": "Java", "repo": "GitHub-Chinese-Top-Charts", "new_stars": 200, "stars": 32114, "owner": "kon9chunkit", "forks": 4607},
+{"description": "GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5e2e\u52a9\u4f60\u53d1\u73b0\u9ad8\u5206\u4f18\u79c0\u4e2d\u6587\u9879\u76ee\u3001\u66f4\u9ad8\u6548\u5730\u5438\u6536\u56fd\u4eba\u7684\u4f18\u79c0\u7ecf\u9a8c\u6210\u679c\uff1b\u699c\u5355\u6bcf\u5468\u66f4\u65b0\u4e00\u6b21\uff0c\u656c\u8bf7\u5173\u6ce8\uff01", "language": "Java", "repo": "GitHub-Chinese-Top-Charts", "new_stars": 201, "stars": 32121, "owner": "kon9chunkit", "forks": 4607},
 {"description": "Cobaltstrike4.1 Source", "language": "Java", "repo": "CobaltstrikeSource", "new_stars": 18, "stars": 157, "owner": "mai1zhi2", "forks": 63},
 {"description": "A mod that adds the mystic vaults for Vault Hunters modpack. (Public port of the Livestream version)", "language": "Java", "repo": "Vault-public", "new_stars": 2, "stars": 23, "owner": "Iskallia", "forks": 11},
 {"description": "The Java gRPC implementation. HTTP/2 based RPC", "language": "Java", "repo": "grpc-java", "new_stars": 9, "stars": 8520, "owner": "grpc", "forks": 2877},
@@ -12,16 +12,16 @@
 {"description": "Jenkins plugin to run dynamic agents in a Kubernetes/Docker environment", "language": "Java", "repo": "kubernetes-plugin", "new_stars": 2, "stars": 1851, "owner": "jenkinsci", "forks": 1039},
 {"description": "A scalable web crawler framework for Java.", "language": "Java", "repo": "webmagic", "new_stars": 4, "stars": 9687, "owner": "code4craft", "forks": 3947},
 {"description": "Apache Ignite", "language": "Java", "repo": "ignite", "new_stars": 3, "stars": 3756, "owner": "apache", "forks": 1659},
-{"description": "A browser automation framework and ecosystem.", "language": "Java", "repo": "selenium", "new_stars": 9, "stars": 20414, "owner": "SeleniumHQ", "forks": 6222},
+{"description": "A browser automation framework and ecosystem.", "language": "Java", "repo": "selenium", "new_stars": 9, "stars": 20415, "owner": "SeleniumHQ", "forks": 6222},
 {"description": "Java DSL for easy testing of REST services", "language": "Java", "repo": "rest-assured", "new_stars": 3, "stars": 5253, "owner": "rest-assured", "forks": 1475},
 {"description": "An extensible media player for Android", "language": "Java", "repo": "ExoPlayer", "new_stars": 6, "stars": 17448, "owner": "google", "forks": 5141},
-{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 19, "stars": 42021, "owner": "spring-projects", "forks": 29253},
-{"description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java\u8bca\u65ad\u5229\u5668Arthas", "language": "Java", "repo": "arthas", "new_stars": 23, "stars": 25133, "owner": "alibaba", "forks": 5513},
-{"description": "Apache Lucene open-source search software", "language": "Java", "repo": "lucene", "new_stars": 4, "stars": 73, "owner": "apache", "forks": 46},
+{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 19, "stars": 42022, "owner": "spring-projects", "forks": 29254},
+{"description": "Alibaba Java Diagnostic Tool Arthas/Alibaba Java\u8bca\u65ad\u5229\u5668Arthas", "language": "Java", "repo": "arthas", "new_stars": 23, "stars": 25134, "owner": "alibaba", "forks": 5513},
+{"description": "Apache Lucene open-source search software", "language": "Java", "repo": "lucene", "new_stars": 4, "stars": 74, "owner": "apache", "forks": 46},
 {"description": "Mirror of Apache RocketMQ", "language": "Java", "repo": "rocketmq", "new_stars": 9, "stars": 13833, "owner": "apache", "forks": 7599},
 {"description": "External configuration (server and client) for Spring Cloud", "language": "Java", "repo": "spring-cloud-config", "new_stars": 0, "stars": 1668, "owner": "spring-cloud", "forks": 1107},
 {"description": "\u5fae\u4eba\u4e8b\u662f\u4e00\u4e2a\u524d\u540e\u7aef\u5206\u79bb\u7684\u4eba\u529b\u8d44\u6e90\u7ba1\u7406\u7cfb\u7edf\uff0c\u9879\u76ee\u91c7\u7528SpringBoot+Vue\u5f00\u53d1\u3002", "language": "Java", "repo": "vhr", "new_stars": 19, "stars": 20740, "owner": "lenve", "forks": 8677},
 {"description": "OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.", "language": "Java", "repo": "DependencyCheck", "new_stars": 2, "stars": 2864, "owner": "jeremylong", "forks": 715},
-{"description": "Apache Dubbo is a high-performance, java based, open source RPC framework.", "language": "Java", "repo": "dubbo", "new_stars": 12, "stars": 34898, "owner": "apache", "forks": 23313},
-{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 20, "stars": 25301, "owner": "eugenp", "forks": 40552}
+{"description": "Apache Dubbo is a high-performance, java based, open source RPC framework.", "language": "Java", "repo": "dubbo", "new_stars": 12, "stars": 34899, "owner": "apache", "forks": 23313},
+{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 20, "stars": 25302, "owner": "eugenp", "forks": 40554}
 ]

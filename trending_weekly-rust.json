@@ -1,5 +1,5 @@
 [
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 275, "stars": 53374, "owner": "rust-lang", "forks": 7694},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 275, "stars": 53377, "owner": "rust-lang", "forks": 7694},
 {"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 219, "stars": 12683, "owner": "ogham", "forks": 384},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 119, "stars": 7584, "owner": "ruffle-rs", "forks": 280},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 195, "stars": 15630, "owner": "starship", "forks": 658},
@@ -11,7 +11,7 @@
 {"description": "Rust bindings to wgpu native library", "language": "Rust", "repo": "wgpu-rs", "new_stars": 25, "stars": 1488, "owner": "gfx-rs", "forks": 196},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 94, "stars": 11455, "owner": "tokio-rs", "forks": 1077},
 {"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 75, "stars": 5327, "owner": "bottlerocket-os", "forks": 229},
-{"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 260, "stars": 73672, "owner": "denoland", "forks": 3865},
+{"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 260, "stars": 73673, "owner": "denoland", "forks": 3865},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 35, "stars": 4991, "owner": "Geal", "forks": 540},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 23, "stars": 1705, "owner": "rust-windowing", "forks": 423},
 {"description": "Rust bindings for the Python interpreter", "language": "Rust", "repo": "pyo3", "new_stars": 39, "stars": 3960, "owner": "PyO3", "forks": 261},
@@ -19,8 +19,8 @@
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 140, "stars": 7439, "owner": "bevyengine", "forks": 581},
 {"description": "Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 43, "stars": 4489, "owner": "cloudflare", "forks": 308},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 90, "stars": 16788, "owner": "sharkdp", "forks": 429},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 190, "stars": 12901, "owner": "meilisearch", "forks": 412},
-{"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 144, "stars": 2655, "owner": "dtolnay", "forks": 119},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 190, "stars": 12903, "owner": "meilisearch", "forks": 412},
+{"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 144, "stars": 2655, "owner": "dtolnay", "forks": 120},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 66, "stars": 6746, "owner": "rust-lang", "forks": 1801},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 40, "stars": 6644, "owner": "diesel-rs", "forks": 640},
 {"description": "An idiomatic, lean, fast & safe pure Rust implementation of Git", "language": "Rust", "repo": "gitoxide", "new_stars": 115, "stars": 1931, "owner": "Byron", "forks": 39}

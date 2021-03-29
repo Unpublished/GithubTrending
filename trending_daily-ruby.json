@@ -1,8 +1,8 @@
 [
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 10, "stars": 23540, "owner": "rapid7", "forks": 11095},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 12, "stars": 23952, "owner": "tootsuite", "forks": 3980},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 13, "stars": 31160, "owner": "huginn", "forks": 2950},
-{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 18, "stars": 18817, "owner": "kilimchoi", "forks": 311},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 11, "stars": 31160, "owner": "huginn", "forks": 2950},
+{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 17, "stars": 18816, "owner": "kilimchoi", "forks": 311},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 1, "stars": 2675, "owner": "rubygems", "forks": 1350},
 {"description": "Markdown Templates for Offensive Security OSCP, OSWE, OSCE, OSEE, OSWP exam report", "language": "Ruby", "repo": "OSCP-Exam-Report-Template-Markdown", "new_stars": 8, "stars": 1521, "owner": "noraj", "forks": 382},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 1, "stars": 9218, "owner": "faker-ruby", "forks": 2615},
@@ -12,7 +12,7 @@
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 1, "stars": 6687, "owner": "puma", "forks": 1218},
 {"description": "A static analysis security vulnerability scanner for Ruby on Rails applications", "language": "Ruby", "repo": "brakeman", "new_stars": 2, "stars": 6052, "owner": "presidentbeef", "forks": 635},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 3, "stars": 22533, "owner": "gitlabhq", "forks": 5637},
-{"description": "Repository for information about 0-days exploited in-the-wild.", "language": "Ruby", "repo": "0days-in-the-wild", "new_stars": 25, "stars": 211, "owner": "googleprojectzero", "forks": 20},
+{"description": "Repository for information about 0-days exploited in-the-wild.", "language": "Ruby", "repo": "0days-in-the-wild", "new_stars": 23, "stars": 212, "owner": "googleprojectzero", "forks": 20},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 10, "stars": 32928, "owner": "discourse", "forks": 7178},
 {"description": "Emacs Plus formulae for the Homebrew package manager", "language": "Ruby", "repo": "homebrew-emacs-plus", "new_stars": 1, "stars": 982, "owner": "d12frosted", "forks": 94},
 {"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 1, "stars": 824, "owner": "rubysec", "forks": 178},
@@ -23,5 +23,5 @@
 {"description": null, "language": "Ruby", "repo": "CSVSerializer", "new_stars": 0, "stars": 0, "owner": "airtasker", "forks": 0},
 {"description": null, "language": "Ruby", "repo": "Syllabus", "new_stars": 5, "stars": 44, "owner": "IIC2143-2021-1", "forks": 4},
 {"description": "Cloud Foundry Homebrew packages", "language": "Ruby", "repo": "homebrew-tap", "new_stars": 0, "stars": 51, "owner": "cloudfoundry", "forks": 36},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 3, "stars": 18094, "owner": "Homebrew", "forks": 9017}
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 3, "stars": 18094, "owner": "Homebrew", "forks": 9016}
 ]

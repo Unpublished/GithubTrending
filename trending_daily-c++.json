@@ -1,14 +1,14 @@
 [
-{"description": "Simple Ants simulator", "language": "C++", "repo": "AntSimulator", "new_stars": 122, "stars": 294, "owner": "johnBuffer", "forks": 29},
-{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 74, "stars": 13033, "owner": "catchorg", "forks": 2194},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 111, "stars": 47111, "owner": "protocolbuffers", "forks": 12581},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 37, "stars": 47276, "owner": "pytorch", "forks": 12613},
+{"description": "Simple Ants simulator", "language": "C++", "repo": "AntSimulator", "new_stars": 144, "stars": 304, "owner": "johnBuffer", "forks": 31},
+{"description": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 46, "stars": 13037, "owner": "catchorg", "forks": 2194},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 117, "stars": 47116, "owner": "protocolbuffers", "forks": 12581},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 36, "stars": 47277, "owner": "pytorch", "forks": 12614},
 {"description": "HTTP and WebSocket built on Boost.Asio in C++11", "language": "C++", "repo": "beast", "new_stars": 1, "stars": 2946, "owner": "boostorg", "forks": 484},
-{"description": "LeetCode Problems' Solutions", "language": "C++", "repo": "leetcode", "new_stars": 13, "stars": 14599, "owner": "haoel", "forks": 4383},
+{"description": "LeetCode Problems' Solutions", "language": "C++", "repo": "leetcode", "new_stars": 13, "stars": 14599, "owner": "haoel", "forks": 4384},
 {"description": "Telegram anti-revoke plugin - Telegram \u9632\u64a4\u56de\u63d2\u4ef6", "language": "C++", "repo": "Telegram-Anti-Revoke", "new_stars": 4, "stars": 1106, "owner": "SpriteOvO", "forks": 116},
-{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 12, "stars": 21512, "owner": "google", "forks": 7338},
-{"description": "Telegram for Android source", "language": "C++", "repo": "Telegram", "new_stars": 14, "stars": 16694, "owner": "DrKLO", "forks": 5890},
-{"description": "Bringing the 3D geospatial ecosystem to Unreal Engine", "language": "C++", "repo": "cesium-unreal", "new_stars": 20, "stars": 68, "owner": "CesiumGS", "forks": 15},
+{"description": "Googletest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 12, "stars": 21513, "owner": "google", "forks": 7338},
+{"description": "Telegram for Android source", "language": "C++", "repo": "Telegram", "new_stars": 12, "stars": 16694, "owner": "DrKLO", "forks": 5890},
+{"description": "Bringing the 3D geospatial ecosystem to Unreal Engine", "language": "C++", "repo": "cesium-unreal", "new_stars": 20, "stars": 69, "owner": "CesiumGS", "forks": 15},
 {"description": "Open standard for machine learning interoperability", "language": "C++", "repo": "onnx", "new_stars": 5, "stars": 9989, "owner": "onnx", "forks": 1870},
 {"description": "Klipper is a 3d-printer firmware", "language": "C++", "repo": "klipper", "new_stars": 3, "stars": 2816, "owner": "KevinOConnor", "forks": 1768},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 8, "stars": 15980, "owner": "google", "forks": 2474},
@@ -22,6 +22,6 @@
 {"description": "An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy", "language": "C++", "repo": "milvus", "new_stars": 6, "stars": 5378, "owner": "milvus-io", "forks": 845},
 {"description": "A flexible, high-performance serving system for machine learning models", "language": "C++", "repo": "serving", "new_stars": 4, "stars": 4954, "owner": "tensorflow", "forks": 1948},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 12, "stars": 16546, "owner": "facebook", "forks": 3867},
-{"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 4, "stars": 2726, "owner": "chriskohlhoff", "forks": 793},
-{"description": "Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib", "language": "C++", "repo": "matplotlib-cpp", "new_stars": 4, "stars": 2405, "owner": "lava", "forks": 625}
+{"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 3, "stars": 2726, "owner": "chriskohlhoff", "forks": 793},
+{"description": "Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib", "language": "C++", "repo": "matplotlib-cpp", "new_stars": 5, "stars": 2406, "owner": "lava", "forks": 625}
 ]

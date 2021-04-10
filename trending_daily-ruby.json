@@ -1,19 +1,19 @@
 [
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 12, "stars": 31656, "owner": "fastlane", "forks": 4873},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 11, "stars": 31657, "owner": "fastlane", "forks": 4873},
 {"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 16, "stars": 27474, "owner": "bayandin", "forks": 3369},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 10911, "owner": "mperham", "forks": 1922},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 2, "stars": 33019, "owner": "discourse", "forks": 7193},
-{"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 5, "stars": 3585, "owner": "solidusio", "forks": 1046},
+{"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 4, "stars": 3585, "owner": "solidusio", "forks": 1046},
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 3, "stars": 1727, "owner": "github", "forks": 189},
-{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 5, "stars": 18050, "owner": "ruby", "forks": 4782},
+{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 4, "stars": 18050, "owner": "ruby", "forks": 4782},
 {"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 1, "stars": 764, "owner": "jsonapi-serializer", "forks": 75},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 5, "stars": 2690, "owner": "rubygems", "forks": 1352},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 3, "stars": 7158, "owner": "thoughtbot", "forks": 2350},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 0, "stars": 9290, "owner": "ruby-grape", "forks": 1189},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 0, "stars": 5074, "owner": "rails", "forks": 1370},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 6, "stars": 21561, "owner": "heartcombo", "forks": 5193},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 6, "stars": 11367, "owner": "rubocop", "forks": 2654},
-{"description": "Easy file attachment management for ActiveRecord", "language": "Ruby", "repo": "paperclip", "new_stars": 1, "stars": 9063, "owner": "thoughtbot", "forks": 2236},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 4, "stars": 11368, "owner": "rubocop", "forks": 2654},
+{"description": "Easy file attachment management for ActiveRecord", "language": "Ruby", "repo": "paperclip", "new_stars": 0, "stars": 9063, "owner": "thoughtbot", "forks": 2236},
 {"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails", "language": "Ruby", "repo": "decidim", "new_stars": 2, "stars": 917, "owner": "decidim", "forks": 276},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 1, "stars": 10130, "owner": "fluent", "forks": 1164},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 1, "stars": 9231, "owner": "faker-ruby", "forks": 2621},
@@ -22,6 +22,6 @@
 {"description": "Official Sass port of Bootstrap 2 and 3.", "language": "Ruby", "repo": "bootstrap-sass", "new_stars": 1, "stars": 12749, "owner": "twbs", "forks": 3691},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 1, "stars": 2829, "owner": "elastic", "forks": 718},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 1, "stars": 2312, "owner": "github", "forks": 1048},
-{"description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 0, "stars": 7922, "owner": "kaminari", "forks": 1038},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 48139, "owner": "rails", "forks": 19268}
+{"description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 1, "stars": 7922, "owner": "kaminari", "forks": 1038},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 7, "stars": 48139, "owner": "rails", "forks": 19268}
 ]

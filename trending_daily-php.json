@@ -1,14 +1,14 @@
 [
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 4, "stars": 17544, "owner": "sebastianbergmann", "forks": 1999},
 {"description": "Free & Open Source Invoice App for Freelancers & Small Businesses", "language": "PHP", "repo": "crater", "new_stars": 8, "stars": 3856, "owner": "bytefury", "forks": 762},
-{"description": "Display your Laravel routes in the console, but make it pretty.", "language": "PHP", "repo": "pretty-routes", "new_stars": 46, "stars": 306, "owner": "Wulfheart", "forks": 21},
+{"description": "Display your Laravel routes in the console, but make it pretty.", "language": "PHP", "repo": "pretty-routes", "new_stars": 47, "stars": 307, "owner": "Wulfheart", "forks": 21},
 {"description": "Minimal Laravel authentication scaffolding with Blade and Tailwind.", "language": "PHP", "repo": "breeze", "new_stars": 3, "stars": 1376, "owner": "laravel", "forks": 126},
 {"description": "List of 77 languages for Laravel Framework 4, 5, 6, 7 and 8, Laravel Jetstream , Laravel Fortify, Laravel Cashier and Laravel Nova.", "language": "PHP", "repo": "lang", "new_stars": 7, "stars": 5690, "owner": "Laravel-Lang", "forks": 2547},
 {"description": "PHP library generating PDF files from UTF-8 encoded HTML", "language": "PHP", "repo": "mpdf", "new_stars": 4, "stars": 3120, "owner": "mpdf", "forks": 799},
 {"description": "Community-based GPL-licensed network monitoring system", "language": "PHP", "repo": "librenms", "new_stars": 3, "stars": 2298, "owner": "librenms", "forks": 1601},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 0, "stars": 11223, "owner": "vlucas", "forks": 542},
 {"description": "A PHP port of GraphQL reference implementation", "language": "PHP", "repo": "graphql-php", "new_stars": 2, "stars": 4021, "owner": "webonyx", "forks": 464},
-{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 9, "stars": 23901, "owner": "laravel", "forks": 8121},
+{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 9, "stars": 23901, "owner": "laravel", "forks": 8122},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 8, "stars": 25128, "owner": "symfony", "forks": 8083},
 {"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 2, "stars": 18672, "owner": "Seldaek", "forks": 1732},
 {"description": "The server component of API Platform: hypermedia and GraphQL APIs in minutes", "language": "PHP", "repo": "core", "new_stars": 2, "stars": 1834, "owner": "api-platform", "forks": 614},
@@ -23,5 +23,5 @@
 {"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 3, "stars": 9792, "owner": "phpstan", "forks": 709},
 {"description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams", "language": "PHP", "repo": "wave", "new_stars": 24, "stars": 931, "owner": "thedevdojo", "forks": 96},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 0, "stars": 8525, "owner": "doctrine", "forks": 2314},
-{"description": "World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, PLIST, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities", "language": "PHP", "repo": "countries-states-cities-database", "new_stars": 7, "stars": 1278, "owner": "dr5hn", "forks": 714}
+{"description": "World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, PLIST, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities", "language": "PHP", "repo": "countries-states-cities-database", "new_stars": 7, "stars": 1278, "owner": "dr5hn", "forks": 715}
 ]

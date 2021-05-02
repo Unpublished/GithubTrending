@@ -1,7 +1,7 @@
 [
 {"description": "Learn to write an embedded OS in Rust", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 710, "stars": 4262, "owner": "rust-embedded", "forks": 243},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 143, "stars": 1739, "owner": "solana-labs", "forks": 375},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 442, "stars": 16185, "owner": "rust-lang", "forks": 2163},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 444, "stars": 16187, "owner": "rust-lang", "forks": 2163},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 292, "stars": 8668, "owner": "dani-garcia", "forks": 507},
 {"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust", "language": "Rust", "repo": "datafuse", "new_stars": 108, "stars": 526, "owner": "datafuselabs", "forks": 52},
 {"description": "CLI email client", "language": "Rust", "repo": "himalaya", "new_stars": 207, "stars": 861, "owner": "soywod", "forks": 16},
@@ -10,9 +10,9 @@
 {"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 26, "stars": 160, "owner": "solana-labs", "forks": 136},
 {"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 49, "stars": 6079, "owner": "pingcap", "forks": 802},
 {"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 380, "stars": 2478, "owner": "zellij-org", "forks": 66},
-{"description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly", "language": "Rust", "repo": "v86", "new_stars": 67, "stars": 10921, "owner": "copy", "forks": 849},
-{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 89, "stars": 3890, "owner": "extrawurst", "forks": 148},
-{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 182, "stars": 13631, "owner": "meilisearch", "forks": 441},
+{"description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly", "language": "Rust", "repo": "v86", "new_stars": 69, "stars": 10923, "owner": "copy", "forks": 849},
+{"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 91, "stars": 3892, "owner": "extrawurst", "forks": 148},
+{"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 183, "stars": 13632, "owner": "meilisearch", "forks": 441},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 77, "stars": 3619, "owner": "linebender", "forks": 297},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 53, "stars": 3917, "owner": "launchbadge", "forks": 364},
 {"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 30, "stars": 6729, "owner": "rust-lang", "forks": 1380},
@@ -21,7 +21,7 @@
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 87, "stars": 15609, "owner": "yewstack", "forks": 708},
 {"description": "A high-performance, highly reliable, observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 46, "stars": 6993, "owner": "timberio", "forks": 491},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 43, "stars": 3454, "owner": "hyperium", "forks": 328},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 75, "stars": 11163, "owner": "actix", "forks": 1213},
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 76, "stars": 11164, "owner": "actix", "forks": 1213},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 84, "stars": 3187, "owner": "paritytech", "forks": 660},
 {"description": "A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more.", "language": "Rust", "repo": "static-analysis", "new_stars": 31, "stars": 8501, "owner": "analysis-tools-dev", "forks": 981}
 ]

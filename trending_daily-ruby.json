@@ -15,13 +15,13 @@
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 4, "stars": 31807, "owner": "fastlane", "forks": 4892},
 {"description": "A runtime developer console and IRB alternative with powerful introspection capabilities.", "language": "Ruby", "repo": "pry", "new_stars": 2, "stars": 6201, "owner": "pry", "forks": 574},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 11420, "owner": "rubocop", "forks": 2682},
-{"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 3, "stars": 6725, "owner": "puma", "forks": 1236},
-{"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 0, "stars": 7267, "owner": "varvet", "forks": 557},
+{"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 3, "stars": 6726, "owner": "puma", "forks": 1236},
+{"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 1, "stars": 7268, "owner": "varvet", "forks": 557},
 {"description": "Library for stubbing and setting expectations on HTTP requests in Ruby.", "language": "Ruby", "repo": "webmock", "new_stars": 1, "stars": 3518, "owner": "bblimke", "forks": 507},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 10961, "owner": "mperham", "forks": 1937},
 {"description": "Decorators/View-Models for Rails Applications", "language": "Ruby", "repo": "draper", "new_stars": 1, "stars": 4964, "owner": "drapergem", "forks": 518},
 {"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 0, "stars": 1342, "owner": "elastic", "forks": 710},
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 1, "stars": 8893, "owner": "resque", "forks": 1610},
-{"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 1, "stars": 4809, "owner": "doorkeeper-gem", "forks": 975},
-{"description": "Pagination library for Rails, Sinatra, Merb, DataMapper, and more", "language": "Ruby", "repo": "will_paginate", "new_stars": 1, "stars": 5577, "owner": "mislav", "forks": 885}
+{"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 0, "stars": 4809, "owner": "doorkeeper-gem", "forks": 975},
+{"description": "Pagination library for Rails, Sinatra, Merb, DataMapper, and more", "language": "Ruby", "repo": "will_paginate", "new_stars": 2, "stars": 5577, "owner": "mislav", "forks": 885}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "Personal CRM. Remember everything about your friends, family and business relationships.", "language": "PHP", "repo": "monica", "new_stars": 3, "stars": 12867, "owner": "monicahq", "forks": 1431},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 18, "stars": 31515, "owner": "danielmiessler", "forks": 16176},
+{"description": "Personal CRM. Remember everything about your friends, family and business relationships.", "language": "PHP", "repo": "monica", "new_stars": 3, "stars": 12867, "owner": "monicahq", "forks": 1433},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 17, "stars": 31515, "owner": "danielmiessler", "forks": 16176},
 {"description": null, "language": "PHP", "repo": "laradmin", "new_stars": 6, "stars": 63, "owner": "theizerg", "forks": 34},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 10, "stars": 14202, "owner": "nextcloud", "forks": 2537},
-{"description": null, "language": "PHP", "repo": "php-reverse-shell", "new_stars": 0, "stars": 706, "owner": "pentestmonkey", "forks": 862},
+{"description": null, "language": "PHP", "repo": "php-reverse-shell", "new_stars": 0, "stars": 707, "owner": "pentestmonkey", "forks": 863},
 {"description": "Damn Vulnerable Web Application (DVWA)", "language": "PHP", "repo": "DVWA", "new_stars": 0, "stars": 5199, "owner": "digininja", "forks": 1596},
 {"description": "The collaborative editing software that runs Wikipedia. Mirror\u00a0from", "language": "PHP", "repo": "mediawiki", "new_stars": 2, "stars": 2424, "owner": "wikimedia", "forks": 1038},
 {"description": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.", "language": "PHP", "repo": "github-profile-views-counter", "new_stars": 3, "stars": 914, "owner": "antonkomarev", "forks": 75},
@@ -14,14 +14,14 @@
 {"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 4, "stars": 2485, "owner": "pterodactyl", "forks": 633},
 {"description": "openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. It contains services like SSH, (S)FTP, SMB/CIFS, DAAP media server, RSync, BitTorrent client and many more. Thanks to the modular design of the framework it can be enhanced via plugins. OpenMediaVault is primarily designed to be used in home envi\u2026", "language": "PHP", "repo": "openmediavault", "new_stars": 1, "stars": 2281, "owner": "openmediavault", "forks": 287},
 {"description": null, "language": "PHP", "repo": "FotoSploit", "new_stars": 0, "stars": 308, "owner": "Cesar-Hack-Gray", "forks": 76},
-{"description": "\u65b0\u7248\u7b80\u5355\u5f3a\u5927\u7684\u65e0\u6570\u636e\u5e93\u7684\u56fe\u5e8a2.0\u7248 \u6f14\u793a\u5730\u5740\uff1a", "language": "PHP", "repo": "EasyImages2.0", "new_stars": 2, "stars": 345, "owner": "icret", "forks": 88},
+{"description": "\u65b0\u7248\u7b80\u5355\u5f3a\u5927\u7684\u65e0\u6570\u636e\u5e93\u7684\u56fe\u5e8a2.0\u7248 \u6f14\u793a\u5730\u5740\uff1a", "language": "PHP", "repo": "EasyImages2.0", "new_stars": 2, "stars": 346, "owner": "icret", "forks": 88},
 {"description": "Async PHP client/server API for the telegram MTProto protocol", "language": "PHP", "repo": "MadelineProto", "new_stars": 1, "stars": 1541, "owner": "danog", "forks": 391},
 {"description": "Tailwind scaffolding for the Laravel framework.", "language": "PHP", "repo": "jetstream", "new_stars": 1, "stars": 2804, "owner": "laravel", "forks": 521},
-{"description": "Get account information, photos, videos, stories and comments.", "language": "PHP", "repo": "instagram-php-scraper", "new_stars": 0, "stars": 2281, "owner": "postaddictme", "forks": 642},
-{"description": "Small class to extract + compress .zip, .gz, .rar archives via browser.", "language": "PHP", "repo": "unzipper", "new_stars": 2, "stars": 518, "owner": "ndeet", "forks": 685},
+{"description": "Get account information, photos, videos, stories and comments.", "language": "PHP", "repo": "instagram-php-scraper", "new_stars": 0, "stars": 2282, "owner": "postaddictme", "forks": 642},
+{"description": "Small class to extract + compress .zip, .gz, .rar archives via browser.", "language": "PHP", "repo": "unzipper", "new_stars": 3, "stars": 519, "owner": "ndeet", "forks": 685},
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 4, "stars": 4015, "owner": "akaunting", "forks": 1484},
 {"description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.", "language": "PHP", "repo": "Lychee", "new_stars": 1, "stars": 5801, "owner": "electerious", "forks": 687},
 {"description": "An SDK built to facilitate application development for Facebook Ads API.", "language": "PHP", "repo": "facebook-php-business-sdk", "new_stars": 0, "stars": 584, "owner": "facebook", "forks": 407},
 {"description": "All in one tool for Information Gathering, Vulnerability Scanning and Crawling. A must have tool for all penetration testers", "language": "PHP", "repo": "RED_HAWK", "new_stars": 2, "stars": 1691, "owner": "Tuhinshubhra", "forks": 673},
-{"description": "Supercharge your Laravel application's performance.", "language": "PHP", "repo": "octane", "new_stars": 15, "stars": 2531, "owner": "laravel", "forks": 121}
+{"description": "Supercharge your Laravel application's performance.", "language": "PHP", "repo": "octane", "new_stars": 15, "stars": 2532, "owner": "laravel", "forks": 121}
 ]

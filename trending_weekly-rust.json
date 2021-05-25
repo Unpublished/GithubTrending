@@ -1,10 +1,10 @@
 [
-{"description": "The best open source remote desktop client software", "language": "Rust", "repo": "rustdesk", "new_stars": 1147, "stars": 3541, "owner": "rustdesk", "forks": 239},
+{"description": "The best open source remote desktop client software", "language": "Rust", "repo": "rustdesk", "new_stars": 1147, "stars": 3543, "owner": "rustdesk", "forks": 239},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 131, "stars": 4867, "owner": "paritytech", "forks": 1391},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 82, "stars": 15869, "owner": "yewstack", "forks": 724},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 82, "stars": 13519, "owner": "SergioBenitez", "forks": 922},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 83, "stars": 13520, "owner": "SergioBenitez", "forks": 922},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 84, "stars": 9552, "owner": "hecrj", "forks": 417},
-{"description": "Rust Fullstack Framework", "language": "Rust", "repo": "MoonZoon", "new_stars": 112, "stars": 569, "owner": "MoonZoon", "forks": 15},
+{"description": "Rust Fullstack Framework", "language": "Rust", "repo": "MoonZoon", "new_stars": 113, "stars": 570, "owner": "MoonZoon", "forks": 15},
 {"description": "An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.", "language": "Rust", "repo": "regex", "new_stars": 26, "stars": 1898, "owner": "rust-lang", "forks": 278},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 50, "stars": 3749, "owner": "linebender", "forks": 302},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 75, "stars": 3507, "owner": "paritytech", "forks": 719},
@@ -16,12 +16,12 @@
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 87, "stars": 2125, "owner": "solana-labs", "forks": 463},
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 65, "stars": 17335, "owner": "sharkdp", "forks": 436},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 53, "stars": 5301, "owner": "bytecodealliance", "forks": 463},
-{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 192, "stars": 32770, "owner": "alacritty", "forks": 1714},
+{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 193, "stars": 32771, "owner": "alacritty", "forks": 1714},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 38, "stars": 5881, "owner": "rust-lang", "forks": 813},
 {"description": "A command-line tool and library for generating regular expressions from user-provided test cases", "language": "Rust", "repo": "grex", "new_stars": 115, "stars": 3868, "owner": "pemistahl", "forks": 89},
 {"description": "A Text User Interface library for the Rust programming language", "language": "Rust", "repo": "cursive", "new_stars": 64, "stars": 2311, "owner": "gyscos", "forks": 162},
 {"description": "Project Serum Rust monorepo.", "language": "Rust", "repo": "serum-dex", "new_stars": 7, "stars": 185, "owner": "project-serum", "forks": 60},
-{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 24, "stars": 4215, "owner": "rustwasm", "forks": 555},
+{"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 25, "stars": 4216, "owner": "rustwasm", "forks": 555},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 34, "stars": 3569, "owner": "hyperium", "forks": 342},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 27, "stars": 1899, "owner": "WebAssembly", "forks": 130}
 ]

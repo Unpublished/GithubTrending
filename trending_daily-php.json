@@ -1,8 +1,8 @@
 [
 {"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 4, "stars": 7523, "owner": "googleapis", "forks": 3259},
-{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 1, "stars": 8597, "owner": "squizlabs", "forks": 1356},
+{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 2, "stars": 8598, "owner": "squizlabs", "forks": 1356},
 {"description": "A PHP library for generating universally unique identifiers (UUIDs).", "language": "PHP", "repo": "uuid", "new_stars": 3, "stars": 11202, "owner": "ramsey", "forks": 414},
-{"description": "A PHP framework for web artisans.", "language": "PHP", "repo": "laravel", "new_stars": 23, "stars": 65409, "owner": "laravel", "forks": 20939},
+{"description": "A PHP framework for web artisans.", "language": "PHP", "repo": "laravel", "new_stars": 23, "stars": 65411, "owner": "laravel", "forks": 20939},
 {"description": "A pure PHP library for reading and writing word processing documents", "language": "PHP", "repo": "PHPWord", "new_stars": 1, "stars": 5619, "owner": "PHPOffice", "forks": 2271},
 {"description": "Easy AdminLTE integration with Laravel", "language": "PHP", "repo": "Laravel-AdminLTE", "new_stars": 4, "stars": 2673, "owner": "jeroennoten", "forks": 797},
 {"description": "Invoices, Expenses and Tasks built with Laravel and Flutter", "language": "PHP", "repo": "invoiceninja", "new_stars": 7, "stars": 5921, "owner": "invoiceninja", "forks": 1812},
@@ -17,11 +17,11 @@
 {"description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 1, "stars": 4144, "owner": "rectorphp", "forks": 377},
 {"description": "Provides functionality to recursively process PHP variables", "language": "PHP", "repo": "recursion-context", "new_stars": 2, "stars": 5828, "owner": "sebastianbergmann", "forks": 12},
 {"description": "PHP library generating PDF files from UTF-8 encoded HTML", "language": "PHP", "repo": "mpdf", "new_stars": 2, "stars": 3172, "owner": "mpdf", "forks": 810},
-{"description": "Highly opinionated mocking framework for PHP 5.3+", "language": "PHP", "repo": "prophecy", "new_stars": 2, "stars": 8014, "owner": "phpspec", "forks": 209},
+{"description": "Highly opinionated mocking framework for PHP 5.3+", "language": "PHP", "repo": "prophecy", "new_stars": 3, "stars": 8015, "owner": "phpspec", "forks": 209},
 {"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 2, "stars": 7023, "owner": "woocommerce", "forks": 9148},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 1, "stars": 4148, "owner": "vimeo", "forks": 401},
 {"description": "A PHP port of GraphQL reference implementation", "language": "PHP", "repo": "graphql-php", "new_stars": 0, "stars": 4063, "owner": "webonyx", "forks": 468},
-{"description": "World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, PLIST, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities", "language": "PHP", "repo": "countries-states-cities-database", "new_stars": 11, "stars": 1395, "owner": "dr5hn", "forks": 750},
+{"description": "World countries, states, regions, provinces, cities, towns in JSON, SQL, XML, PLIST, YAML, and CSV. All Countries, States, Cities with ISO2, ISO3, Country Code, Phone Code, Capital, Native Language, Timezones, Latitude, Longitude, Region, Subregion, Flag Emoji, and Currency. #countries #states #cities", "language": "PHP", "repo": "countries-states-cities-database", "new_stars": 10, "stars": 1395, "owner": "dr5hn", "forks": 750},
 {"description": "Snapshotting of global state, factored out of PHPUnit into a stand-alone component", "language": "PHP", "repo": "global-state", "new_stars": 2, "stars": 5843, "owner": "sebastianbergmann", "forks": 13},
 {"description": "Twig, the flexible, fast, and secure template language for PHP", "language": "PHP", "repo": "Twig", "new_stars": 4, "stars": 7193, "owner": "twigphp", "forks": 1135}
 ]

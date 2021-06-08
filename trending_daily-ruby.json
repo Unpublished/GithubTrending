@@ -1,11 +1,11 @@
 [
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 9, "stars": 32416, "owner": "fastlane", "forks": 4920},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 24, "stars": 9319, "owner": "chatwoot", "forks": 1015},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 19, "stars": 9319, "owner": "chatwoot", "forks": 1015},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 48512, "owner": "rails", "forks": 19427},
-{"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 1, "stars": 3689, "owner": "luggit", "forks": 565},
+{"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 0, "stars": 3689, "owner": "luggit", "forks": 565},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 0, "stars": 2849, "owner": "elastic", "forks": 725},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 10, "stars": 22045, "owner": "hashicorp", "forks": 4087},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 12194, "owner": "elastic", "forks": 3170},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 10, "stars": 22045, "owner": "hashicorp", "forks": 4088},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 2, "stars": 12195, "owner": "elastic", "forks": 3170},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 2, "stars": 1117, "owner": "rswag", "forks": 276},
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 1, "stars": 3063, "owner": "thoughtbot", "forks": 855},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 11464, "owner": "rubocop", "forks": 2686},
@@ -22,6 +22,6 @@
 {"description": "AASM - State machines for Ruby classes (plain Ruby, ActiveRecord, Mongoid, NoBrainer, Dynamoid)", "language": "Ruby", "repo": "aasm", "new_stars": 1, "stars": 4314, "owner": "aasm", "forks": 569},
 {"description": "OmniAuth is a flexible authentication system utilizing Rack middleware.", "language": "Ruby", "repo": "omniauth", "new_stars": 2, "stars": 7389, "owner": "omniauth", "forks": 948},
 {"description": "Scheduler / Cron for Sidekiq jobs", "language": "Ruby", "repo": "sidekiq-cron", "new_stars": 1, "stars": 1416, "owner": "ondrejbartas", "forks": 179},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 11006, "owner": "mperham", "forks": 1944},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 11007, "owner": "mperham", "forks": 1944},
 {"description": "The participatory democracy framework. A generator and multiple gems made with Ruby on Rails", "language": "Ruby", "repo": "decidim", "new_stars": 1, "stars": 949, "owner": "decidim", "forks": 283}
 ]

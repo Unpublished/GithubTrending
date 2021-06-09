@@ -1,14 +1,14 @@
 [
-{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 3, "stars": 5119, "owner": "rails", "forks": 1402},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 20, "stars": 28211, "owner": "Homebrew", "forks": 6306},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 12, "stars": 22052, "owner": "hashicorp", "forks": 4089},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 5, "stars": 18291, "owner": "Homebrew", "forks": 9167},
-{"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 2, "stars": 832, "owner": "jsonapi-serializer", "forks": 80},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 2, "stars": 48511, "owner": "rails", "forks": 19431},
-{"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 14, "stars": 11158, "owner": "mame", "forks": 511},
+{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 7, "stars": 5120, "owner": "rails", "forks": 1402},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 20, "stars": 28214, "owner": "Homebrew", "forks": 6307},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 10, "stars": 22053, "owner": "hashicorp", "forks": 4089},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 6, "stars": 18293, "owner": "Homebrew", "forks": 9168},
+{"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 1, "stars": 832, "owner": "jsonapi-serializer", "forks": 80},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 4, "stars": 48514, "owner": "rails", "forks": 19431},
+{"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 6, "stars": 11158, "owner": "mame", "forks": 511},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 1, "stars": 9325, "owner": "faker-ruby", "forks": 2645},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 15, "stars": 9324, "owner": "chatwoot", "forks": 1015},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 9, "stars": 32421, "owner": "fastlane", "forks": 4919},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 10, "stars": 9324, "owner": "chatwoot", "forks": 1015},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 8, "stars": 32421, "owner": "fastlane", "forks": 4919},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 0, "stars": 7207, "owner": "thoughtbot", "forks": 2379},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9015, "owner": "activeadmin", "forks": 3206},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 0, "stars": 2849, "owner": "elastic", "forks": 725},
@@ -23,5 +23,5 @@
 {"description": "Token based authentication for Rails JSON APIs. Designed to work with jToker and ng-token-auth.", "language": "Ruby", "repo": "devise_token_auth", "new_stars": 0, "stars": 3170, "owner": "lynndylanhurley", "forks": 1027},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 4, "stars": 10302, "owner": "fluent", "forks": 1177},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11008, "owner": "mperham", "forks": 1944},
-{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 1, "stars": 6590, "owner": "chef", "forks": 2512}
+{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 1, "stars": 6590, "owner": "chef", "forks": 2511}
 ]

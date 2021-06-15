@@ -1,7 +1,7 @@
 [
 {"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 2641, "stars": 68352, "owner": "iluwatar", "forks": 21290},
 {"description": "LeetCode solutions in any programming language | \u591a\u79cd\u7f16\u7a0b\u8bed\u8a00\u5b9e\u73b0 LeetCode\u3001\u300a\u5251\u6307 Offer\uff08\u7b2c 2 \u7248\uff09\u300b\u3001\u300a\u7a0b\u5e8f\u5458\u9762\u8bd5\u91d1\u5178\uff08\u7b2c 6 \u7248\uff09\u300b\u9898\u89e3", "language": "Java", "repo": "leetcode", "new_stars": 1764, "stars": 5683, "owner": "doocs", "forks": 1148},
-{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 1761, "stars": 39006, "owner": "TheAlgorithms", "forks": 12798},
+{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 1759, "stars": 39006, "owner": "TheAlgorithms", "forks": 12798},
 {"description": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.", "language": "Java", "repo": "airbyte", "new_stars": 735, "stars": 3134, "owner": "airbytehq", "forks": 324},
 {"description": "\u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1", "language": "Java", "repo": "CS-Notes", "new_stars": 3907, "stars": 132136, "owner": "CyC2018", "forks": 42502},
 {"description": "A Fabric mod designed to improve frame rates and reduce micro-stutter", "language": "Java", "repo": "sodium-fabric", "new_stars": 205, "stars": 1579, "owner": "CaffeineMC", "forks": 298},
@@ -16,12 +16,12 @@
 {"description": "Gitee \u6700\u6709\u4ef7\u503c\u5f00\u6e90\u9879\u76ee", "language": "Java", "repo": "JustAuth", "new_stars": 360, "stars": 11619, "owner": "justauth", "forks": 2067},
 {"description": "A tool for reverse engineering Android apk files", "language": "Java", "repo": "Apktool", "new_stars": 228, "stars": 11999, "owner": "iBotPeaches", "forks": 2787},
 {"description": "\u5feb\u901f\u3001\u7b80\u5355\u907f\u514dOOM\u7684java\u5904\u7406Excel\u5de5\u5177", "language": "Java", "repo": "easyexcel", "new_stars": 411, "stars": 20184, "owner": "alibaba", "forks": 5366},
-{"description": "Modifications to the Minecraft base files to assist in compatibility between mods.", "language": "Java", "repo": "MinecraftForge", "new_stars": 99, "stars": 4722, "owner": "MinecraftForge", "forks": 2132},
-{"description": "\u96f6\u4ee3\u7801\u3001\u70ed\u66f4\u65b0\u3001\u81ea\u52a8\u5316 ORM \u5e93\uff0c\u540e\u7aef\u63a5\u53e3\u548c\u6587\u6863\u96f6\u4ee3\u7801\uff0c\u524d\u7aef(\u5ba2\u6237\u7aef) \u5b9a\u5236\u8fd4\u56de JSON \u7684\u6570\u636e\u548c\u7ed3\u6784\u3002", "language": "Java", "repo": "APIJSON", "new_stars": 416, "stars": 11088, "owner": "Tencent", "forks": 1403},
+{"description": "Modifications to the Minecraft base files to assist in compatibility between mods.", "language": "Java", "repo": "MinecraftForge", "new_stars": 100, "stars": 4723, "owner": "MinecraftForge", "forks": 2132},
+{"description": "\u96f6\u4ee3\u7801\u3001\u70ed\u66f4\u65b0\u3001\u81ea\u52a8\u5316 ORM \u5e93\uff0c\u540e\u7aef\u63a5\u53e3\u548c\u6587\u6863\u96f6\u4ee3\u7801\uff0c\u524d\u7aef(\u5ba2\u6237\u7aef) \u5b9a\u5236\u8fd4\u56de JSON \u7684\u6570\u636e\u548c\u7ed3\u6784\u3002", "language": "Java", "repo": "APIJSON", "new_stars": 415, "stars": 11088, "owner": "Tencent", "forks": 1403},
 {"description": "SpringBoot \u76f8\u5173\u6f0f\u6d1e\u5b66\u4e60\u8d44\u6599\uff0c\u5229\u7528\u65b9\u6cd5\u548c\u6280\u5de7\u5408\u96c6\uff0c\u9ed1\u76d2\u5b89\u5168\u8bc4\u4f30 check list", "language": "Java", "repo": "SpringBootVulExploit", "new_stars": 283, "stars": 2154, "owner": "LandGrey", "forks": 544},
 {"description": "Apache Dubbo is a high-performance, java based, open source RPC framework.", "language": "Java", "repo": "dubbo", "new_stars": 361, "stars": 35530, "owner": "apache", "forks": 23673},
-{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 426, "stars": 26278, "owner": "eugenp", "forks": 42238},
-{"description": "An open source SQL database designed to process time series data, faster", "language": "Java", "repo": "questdb", "new_stars": 479, "stars": 3739, "owner": "questdb", "forks": 197},
-{"description": "Better YouTube experience on Android TV", "language": "Java", "repo": "SmartTubeNext", "new_stars": 243, "stars": 1627, "owner": "yuliskov", "forks": 149},
+{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 427, "stars": 26279, "owner": "eugenp", "forks": 42238},
+{"description": "An open source SQL database designed to process time series data, faster", "language": "Java", "repo": "questdb", "new_stars": 480, "stars": 3740, "owner": "questdb", "forks": 197},
+{"description": "Better YouTube experience on Android TV", "language": "Java", "repo": "SmartTubeNext", "new_stars": 244, "stars": 1628, "owner": "yuliskov", "forks": 149},
 {"description": "Source for the TechEmpower Framework Benchmarks project", "language": "Java", "repo": "FrameworkBenchmarks", "new_stars": 101, "stars": 5887, "owner": "TechEmpower", "forks": 1609}
 ]

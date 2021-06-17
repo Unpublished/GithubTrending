@@ -1,7 +1,7 @@
 [
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 2, "stars": 9337, "owner": "faker-ruby", "forks": 2652},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 0, "stars": 7212, "owner": "thoughtbot", "forks": 2386},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 6, "stars": 9363, "owner": "chatwoot", "forks": 1024},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 5, "stars": 9363, "owner": "chatwoot", "forks": 1024},
 {"description": "Annotate Rails classes with schema and routes info", "language": "Ruby", "repo": "annotate_models", "new_stars": 0, "stars": 3734, "owner": "ctran", "forks": 469},
 {"description": "A fast JSON:API serializer for Ruby (fork of Netflix/fast_jsonapi)", "language": "Ruby", "repo": "jsonapi-serializer", "new_stars": 3, "stars": 846, "owner": "jsonapi-serializer", "forks": 81},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 0, "stars": 11430, "owner": "rubocop", "forks": 2692},
@@ -10,9 +10,9 @@
 {"description": "Default formulae for the missing package manager for macOS", "language": "Ruby", "repo": "homebrew-core", "new_stars": 7, "stars": 9460, "owner": "Homebrew", "forks": 9375},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 1, "stars": 6597, "owner": "chef", "forks": 2513},
 {"description": "Fluentd daemonset for Kubernetes and it Docker image", "language": "Ruby", "repo": "fluentd-kubernetes-daemonset", "new_stars": 2, "stars": 919, "owner": "fluent", "forks": 788},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 4, "stars": 13242, "owner": "CocoaPods", "forks": 2422},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 5, "stars": 13243, "owner": "CocoaPods", "forks": 2422},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 8, "stars": 32458, "owner": "fastlane", "forks": 4928},
-{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 9020, "owner": "activeadmin", "forks": 3207},
+{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9021, "owner": "activeadmin", "forks": 3207},
 {"description": "MIT\u89c6\u9891\u516c\u5f00\u8bfe\u300a\u8ba1\u7b97\u673a\u7a0b\u5e8f\u7684\u6784\u9020\u548c\u89e3\u91ca\u300b\u4e2d\u6587\u5316\u9879\u76ee\u53ca\u8bfe\u7a0b\u5b66\u4e60\u8d44\u6599\u641c\u96c6\u3002", "language": "Ruby", "repo": "Learning-SICP", "new_stars": 3, "stars": 8431, "owner": "DeathKing", "forks": 1347},
 {"description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks", "language": "Ruby", "repo": "carrierwave", "new_stars": 0, "stars": 8641, "owner": "carrierwaveuploader", "forks": 1599},
 {"description": "Typhoeus wraps libcurl in order to make fast and reliable requests.", "language": "Ruby", "repo": "typhoeus", "new_stars": 2, "stars": 3841, "owner": "typhoeus", "forks": 430},
@@ -22,6 +22,6 @@
 {"description": "Active Merchant is a simple payment abstraction library extracted from Shopify. The aim of the project is to feel natural to Ruby users and to abstract as many parts as possible away from the user to offer a consistent interface across all supported gateways.", "language": "Ruby", "repo": "active_merchant", "new_stars": 0, "stars": 4319, "owner": "activemerchant", "forks": 2444},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 2, "stars": 6087, "owner": "paper-trail-gem", "forks": 810},
 {"description": "Rack middleware for blocking & throttling", "language": "Ruby", "repo": "rack-attack", "new_stars": 1, "stars": 4910, "owner": "rack", "forks": 309},
-{"description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp", "language": "Ruby", "repo": "setup", "new_stars": 20, "stars": 10131, "owner": "lewagon", "forks": 837},
+{"description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp", "language": "Ruby", "repo": "setup", "new_stars": 19, "stars": 10131, "owner": "lewagon", "forks": 837},
 {"description": "Ruby integrations for Elasticsearch", "language": "Ruby", "repo": "elasticsearch-ruby", "new_stars": 2, "stars": 1810, "owner": "elastic", "forks": 549}
 ]

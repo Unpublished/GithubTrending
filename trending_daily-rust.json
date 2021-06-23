@@ -12,9 +12,9 @@
 {"description": "Native WebGPU implementation based on gfx-hal", "language": "Rust", "repo": "wgpu", "new_stars": 4, "stars": 2021, "owner": "gfx-rs", "forks": 187},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 22, "stars": 17469, "owner": "tauri-apps", "forks": 371},
 {"description": "Format Rust code", "language": "Rust", "repo": "rustfmt", "new_stars": 3, "stars": 3694, "owner": "rust-lang", "forks": 602},
-{"description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly", "language": "Rust", "repo": "v86", "new_stars": 11, "stars": 11265, "owner": "copy", "forks": 874},
+{"description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly", "language": "Rust", "repo": "v86", "new_stars": 11, "stars": 11266, "owner": "copy", "forks": 874},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 25, "stars": 17050, "owner": "rust-lang", "forks": 2351},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 6, "stars": 6952, "owner": "diesel-rs", "forks": 671},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 6, "stars": 6952, "owner": "diesel-rs", "forks": 672},
 {"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 14, "stars": 2134, "owner": "ijl", "forks": 80},
 {"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 6, "stars": 6528, "owner": "rust-analyzer", "forks": 662},
 {"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 4, "stars": 4190, "owner": "launchbadge", "forks": 396},
@@ -23,5 +23,5 @@
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 15, "stars": 9553, "owner": "dani-garcia", "forks": 557},
 {"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 7, "stars": 4918, "owner": "seanmonstar", "forks": 465},
 {"description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 15, "stars": 14594, "owner": "meilisearch", "forks": 474},
-{"description": "Yet another remote desktop software", "language": "Rust", "repo": "rustdesk", "new_stars": 240, "stars": 7420, "owner": "rustdesk", "forks": 535}
+{"description": "Yet another remote desktop software", "language": "Rust", "repo": "rustdesk", "new_stars": 240, "stars": 7423, "owner": "rustdesk", "forks": 536}
 ]

@@ -1,17 +1,17 @@
 [
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 82, "stars": 2476, "owner": "solana-labs", "forks": 532},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 83, "stars": 2477, "owner": "solana-labs", "forks": 532},
 {"description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 3, "stars": 1085, "owner": "graphprotocol", "forks": 258},
 {"description": "ELF visualizer. Generates HTML files from ELF binaries.", "language": "Rust", "repo": "elfcat", "new_stars": 58, "stars": 690, "owner": "ruslashev", "forks": 10},
-{"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 2, "stars": 303, "owner": "solana-labs", "forks": 213},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 0, "stars": 6892, "owner": "rust-lang", "forks": 1422},
+{"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 4, "stars": 305, "owner": "solana-labs", "forks": 213},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 2, "stars": 6892, "owner": "rust-lang", "forks": 1422},
 {"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 6, "stars": 6967, "owner": "diesel-rs", "forks": 672},
-{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 6, "stars": 5010, "owner": "paritytech", "forks": 1455},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 23, "stars": 17504, "owner": "tauri-apps", "forks": 374},
+{"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 7, "stars": 5011, "owner": "paritytech", "forks": 1455},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 24, "stars": 17505, "owner": "tauri-apps", "forks": 374},
 {"description": "Official Rust implementation of Apache Arrow", "language": "Rust", "repo": "arrow-rs", "new_stars": 4, "stars": 396, "owner": "apache", "forks": 68},
-{"description": "Ping, but with a graph", "language": "Rust", "repo": "gping", "new_stars": 35, "stars": 5064, "owner": "orf", "forks": 193},
+{"description": "Ping, but with a graph", "language": "Rust", "repo": "gping", "new_stars": 36, "stars": 5065, "owner": "orf", "forks": 193},
 {"description": "TensorBase is a new big data warehousing with modern efforts.", "language": "Rust", "repo": "tensorbase", "new_stars": 7, "stars": 732, "owner": "tensorbase", "forks": 62},
-{"description": "The fast, light, and robust client for the Ethereum mainnet.", "language": "Rust", "repo": "openethereum", "new_stars": 9, "stars": 934, "owner": "openethereum", "forks": 163},
-{"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 7, "stars": 2160, "owner": "ijl", "forks": 81},
+{"description": "The fast, light, and robust client for the Ethereum mainnet.", "language": "Rust", "repo": "openethereum", "new_stars": 10, "stars": 935, "owner": "openethereum", "forks": 163},
+{"description": "Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy", "language": "Rust", "repo": "orjson", "new_stars": 8, "stars": 2161, "owner": "ijl", "forks": 81},
 {"description": "Apache Arrow DataFusion and Ballista query engines", "language": "Rust", "repo": "arrow-datafusion", "new_stars": 4, "stars": 622, "owner": "apache", "forks": 81},
 {"description": "A command-line DNS client.", "language": "Rust", "repo": "dog", "new_stars": 26, "stars": 3034, "owner": "ogham", "forks": 64},
 {"description": "Fast multi-threaded DataFrame library in Rust and Python", "language": "Rust", "repo": "polars", "new_stars": 11, "stars": 1931, "owner": "pola-rs", "forks": 108},
@@ -23,5 +23,5 @@
 {"description": "Cube.js \u2014 Open-Source Analytical API Platform", "language": "TypeScript", "repo": "cube.js", "new_stars": 14, "stars": 10640, "owner": "cube-js", "forks": 998},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 17, "stars": 16167, "owner": "yewstack", "forks": 750},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 17, "stars": 20531, "owner": "rust-unofficial", "forks": 1410},
-{"description": "Rust Ethereum 2.0 Client", "language": "Rust", "repo": "lighthouse", "new_stars": 5, "stars": 1147, "owner": "sigp", "forks": 242}
+{"description": "Rust Ethereum 2.0 Client", "language": "Rust", "repo": "lighthouse", "new_stars": 6, "stars": 1148, "owner": "sigp", "forks": 242}
 ]

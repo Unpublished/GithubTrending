@@ -1,16 +1,16 @@
 [
-{"description": "High performance visual profiler, debugger, tests enabler for C++ and Python", "language": "C++", "repo": "palanteer", "new_stars": 561, "stars": 1243, "owner": "dfeneyrou", "forks": 31},
-{"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 51, "stars": 25821, "owner": "commaai", "forks": 5194},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 34, "stars": 15847, "owner": "telegramdesktop", "forks": 3426},
-{"description": "GTA III, Vice City", "language": "C++", "repo": "re3", "new_stars": 63, "stars": 4293, "owner": "GTAmodding", "forks": 485},
+{"description": "High performance visual profiler, debugger, tests enabler for C++ and Python", "language": "C++", "repo": "palanteer", "new_stars": 286, "stars": 1251, "owner": "dfeneyrou", "forks": 31},
+{"description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.", "language": "C++", "repo": "openpilot", "new_stars": 39, "stars": 25824, "owner": "commaai", "forks": 5195},
+{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 37, "stars": 15850, "owner": "telegramdesktop", "forks": 3427},
+{"description": "GTA III, Vice City", "language": "C++", "repo": "re3", "new_stars": 64, "stars": 4294, "owner": "GTAmodding", "forks": 486},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 21, "stars": 11886, "owner": "gabime", "forks": 2525},
 {"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 12, "stars": 4740, "owner": "qgis", "forks": 2056},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 59, "stars": 156943, "owner": "tensorflow", "forks": 84999},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 61, "stars": 156945, "owner": "tensorflow", "forks": 85000},
 {"description": "Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios", "language": "C++", "repo": "wslg", "new_stars": 38, "stars": 4149, "owner": "microsoft", "forks": 94},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 10, "stars": 8719, "owner": "abseil", "forks": 1618},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 10, "stars": 8720, "owner": "abseil", "forks": 1618},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 10, "stars": 5709, "owner": "cameron314", "forks": 1183},
 {"description": "JSON library for Arduino and embedded C++. Simple and efficient.", "language": "C++", "repo": "ArduinoJson", "new_stars": 6, "stars": 5219, "owner": "bblanchon", "forks": 950},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 52, "stars": 49088, "owner": "pytorch", "forks": 13280},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 51, "stars": 49089, "owner": "pytorch", "forks": 13280},
 {"description": "The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.", "language": "C++", "repo": "WindowsAppSDK", "new_stars": 72, "stars": 2001, "owner": "microsoft", "forks": 107},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 11, "stars": 5850, "owner": "google", "forks": 865},
 {"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 5, "stars": 1466, "owner": "azerothcore", "forks": 938},
@@ -22,6 +22,6 @@
 {"description": "ONNX-TensorRT: TensorRT backend for ONNX", "language": "C++", "repo": "onnx-tensorrt", "new_stars": 4, "stars": 1489, "owner": "onnx", "forks": 362},
 {"description": "The Z3 Theorem Prover", "language": "C++", "repo": "z3", "new_stars": 6, "stars": 6491, "owner": "Z3Prover", "forks": 1060},
 {"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 12, "stars": 10548, "owner": "apple", "forks": 954},
-{"description": "Simple, secure & standards compliant web server for the most demanding of applications", "language": "C++", "repo": "uWebSockets", "new_stars": 27, "stars": 12707, "owner": "uNetworking", "forks": 1352},
-{"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 12, "stars": 12842, "owner": "Tencent", "forks": 1424}
+{"description": "Simple, secure & standards compliant web server for the most demanding of applications", "language": "C++", "repo": "uWebSockets", "new_stars": 27, "stars": 12708, "owner": "uNetworking", "forks": 1352},
+{"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 8, "stars": 12842, "owner": "Tencent", "forks": 1424}
 ]

@@ -1,13 +1,13 @@
 [
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 49, "stars": 49236, "owner": "pytorch", "forks": 13352},
-{"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research", "language": "C++", "repo": "AirSim", "new_stars": 14, "stars": 11870, "owner": "microsoft", "forks": 3290},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 49, "stars": 49235, "owner": "pytorch", "forks": 13352},
+{"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research", "language": "C++", "repo": "AirSim", "new_stars": 14, "stars": 11869, "owner": "microsoft", "forks": 3290},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 44, "stars": 4629, "owner": "PX4", "forks": 11057},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 141, "stars": 48828, "owner": "protocolbuffers", "forks": 12917},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 19, "stars": 22877, "owner": "google", "forks": 7642},
 {"description": "A primitive library for neural network", "language": "C++", "repo": "ppl.nn", "new_stars": 104, "stars": 295, "owner": "openppl-public", "forks": 40},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 24, "stars": 56471, "owner": "apple", "forks": 9070},
 {"description": "\u817e\u8baf\u4e91TRTC\u97f3\u89c6\u9891\u670d\u52a1\uff0c\u56fd\u5185\u4e0b\u8f7d\u955c\u50cf\uff1a", "language": "C++", "repo": "TRTCSDK", "new_stars": 8, "stars": 969, "owner": "tencentyun", "forks": 954},
-{"description": "A repo for bringing all interview and competative programming question under one repo", "language": "C++", "repo": "Daily-Coding-DS-ALGO-Practice", "new_stars": 6, "stars": 128, "owner": "Ayush7614", "forks": 318},
+{"description": "A repo for bringing all interview and competative programming question under one repo", "language": "C++", "repo": "Daily-Coding-DS-ALGO-Practice", "new_stars": 9, "stars": 128, "owner": "Ayush7614", "forks": 318},
 {"description": "The QuantLib C++ library", "language": "C++", "repo": "QuantLib", "new_stars": 4, "stars": 2697, "owner": "lballabio", "forks": 1153},
 {"description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.", "language": "C++", "repo": "srs", "new_stars": 99, "stars": 14935, "owner": "ossrs", "forks": 3909},
 {"description": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows", "language": "C++", "repo": "drogon", "new_stars": 11, "stars": 5755, "owner": "an-tao", "forks": 497},
@@ -20,8 +20,8 @@
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 21, "stars": 20167, "owner": "facebook", "forks": 4522},
 {"description": "Unsupervised text tokenizer for Neural Network-based text generation.", "language": "C++", "repo": "sentencepiece", "new_stars": 1, "stars": 5170, "owner": "google", "forks": 711},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 6, "stars": 4832, "owner": "microsoft", "forks": 1132},
-{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 36, "stars": 17276, "owner": "ClickHouse", "forks": 3455},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 28, "stars": 30822, "owner": "grpc", "forks": 8044},
+{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 35, "stars": 17276, "owner": "ClickHouse", "forks": 3455},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 28, "stars": 30822, "owner": "grpc", "forks": 8045},
 {"description": "Doom 3 BFG Edition", "language": "C++", "repo": "DOOM-3-BFG", "new_stars": 12, "stars": 3912, "owner": "id-Software", "forks": 1137},
-{"description": "Linux / Windows / macOS \u8de8\u5e73\u53f0 V2Ray \u5ba2\u6237\u7aef | \u652f\u6301 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | \u4f7f\u7528 C++ / Qt \u5f00\u53d1 | \u53ef\u62d3\u5c55\u63d2\u4ef6\u5f0f\u8bbe\u8ba1", "language": "C++", "repo": "Qv2ray", "new_stars": 40, "stars": 11105, "owner": "Qv2ray", "forks": 1827}
+{"description": "Linux / Windows / macOS \u8de8\u5e73\u53f0 V2Ray \u5ba2\u6237\u7aef | \u652f\u6301 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | \u4f7f\u7528 C++ / Qt \u5f00\u53d1 | \u53ef\u62d3\u5c55\u63d2\u4ef6\u5f0f\u8bbe\u8ba1", "language": "C++", "repo": "Qv2ray", "new_stars": 41, "stars": 11106, "owner": "Qv2ray", "forks": 1827}
 ]

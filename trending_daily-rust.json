@@ -1,7 +1,7 @@
 [
 {"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 125, "stars": 6743, "owner": "rust-analyzer", "forks": 684},
-{"description": "Interactively Visualizing Ownership and Borrowing", "language": "Rust", "repo": "rustviz", "new_stars": 1278, "stars": 1516, "owner": "rustviz", "forks": 27},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 58, "stars": 20741, "owner": "rust-unofficial", "forks": 1422},
+{"description": "Interactively Visualizing Ownership and Borrowing", "language": "Rust", "repo": "rustviz", "new_stars": 1279, "stars": 1516, "owner": "rustviz", "forks": 27},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 61, "stars": 20744, "owner": "rust-unofficial", "forks": 1422},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 56, "stars": 26257, "owner": "BurntSushi", "forks": 1151},
 {"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust", "language": "Rust", "repo": "datafuse", "new_stars": 60, "stars": 806, "owner": "datafuselabs", "forks": 88},
 {"description": "A secure embedded operating system for microcontrollers", "language": "Rust", "repo": "tock", "new_stars": 10, "stars": 2979, "owner": "tock", "forks": 405},
@@ -15,7 +15,7 @@
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 23, "stars": 2717, "owner": "solana-labs", "forks": 566},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 17, "stars": 2000, "owner": "WebAssembly", "forks": 133},
 {"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 22, "stars": 8165, "owner": "hyperium", "forks": 1030},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 42, "stars": 6859, "owner": "rust-lang", "forks": 792},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 43, "stars": 6860, "owner": "rust-lang", "forks": 792},
 {"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 9, "stars": 5332, "owner": "Geal", "forks": 569},
 {"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 37, "stars": 5128, "owner": "XAMPPRocky", "forks": 287},
 {"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 2, "stars": 327, "owner": "solana-labs", "forks": 227},

@@ -1,14 +1,14 @@
 [
 {"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 170, "stars": 5275, "owner": "CleverRaven", "forks": 2804},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 825, "stars": 49377, "owner": "pytorch", "forks": 13391},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 1082, "stars": 18362, "owner": "facebook", "forks": 4117},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 826, "stars": 49378, "owner": "pytorch", "forks": 13391},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 1083, "stars": 18363, "owner": "facebook", "forks": 4117},
 {"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 284, "stars": 23187, "owner": "aria2", "forks": 2732},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 311, "stars": 15945, "owner": "telegramdesktop", "forks": 3450},
 {"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 114, "stars": 6007, "owner": "ArduPilot", "forks": 11222},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 404, "stars": 30893, "owner": "grpc", "forks": 8063},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 405, "stars": 30894, "owner": "grpc", "forks": 8063},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 335, "stars": 20217, "owner": "facebook", "forks": 4536},
-{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly |", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 567, "stars": 13976, "owner": "changkun", "forks": 1739},
-{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 260, "stars": 18763, "owner": "ApolloAuto", "forks": 7386},
+{"description": "Modern C++ Tutorial: C++11/14/17/20 On the Fly |", "language": "C++", "repo": "modern-cpp-tutorial", "new_stars": 568, "stars": 13977, "owner": "changkun", "forks": 1739},
+{"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 261, "stars": 18764, "owner": "ApolloAuto", "forks": 7387},
 {"description": "Linux / Windows / macOS \u8de8\u5e73\u53f0 V2Ray \u5ba2\u6237\u7aef | \u652f\u6301 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | \u4f7f\u7528 C++ / Qt \u5f00\u53d1 | \u53ef\u62d3\u5c55\u63d2\u4ef6\u5f0f\u8bbe\u8ba1", "language": "C++", "repo": "Qv2ray", "new_stars": 563, "stars": 11204, "owner": "Qv2ray", "forks": 1844},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 171, "stars": 4644, "owner": "PX4", "forks": 11072},
 {"description": "Node.js bindings to libsass", "language": "C++", "repo": "node-sass", "new_stars": 67, "stars": 7778, "owner": "sass", "forks": 1228},
@@ -20,8 +20,8 @@
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 570, "stars": 30341, "owner": "ocornut", "forks": 5117},
 {"description": "Mumble is an open-source, low-latency, high quality voice chat software.", "language": "C++", "repo": "mumble", "new_stars": 271, "stars": 4179, "owner": "mumble-voip", "forks": 868},
 {"description": "The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.", "language": "C++", "repo": "WindowsAppSDK", "new_stars": 260, "stars": 2076, "owner": "microsoft", "forks": 113},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1242, "stars": 157280, "owner": "tensorflow", "forks": 85088},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1243, "stars": 157281, "owner": "tensorflow", "forks": 85089},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 534, "stars": 11547, "owner": "fmtlib", "forks": 1401},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 90, "stars": 5141, "owner": "PCSX2", "forks": 833},
-{"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 190, "stars": 4195, "owner": "xournalpp", "forks": 447}
+{"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 191, "stars": 4196, "owner": "xournalpp", "forks": 447}
 ]

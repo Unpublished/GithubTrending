@@ -1,14 +1,14 @@
 [
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 128, "stars": 28294, "owner": "sharkdp", "forks": 719},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 159, "stars": 28302, "owner": "sharkdp", "forks": 719},
 {"description": null, "language": "Rust", "repo": "loadstone", "new_stars": 19, "stars": 125, "owner": "absw", "forks": 7},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 11, "stars": 5103, "owner": "paritytech", "forks": 1505},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 20, "stars": 17988, "owner": "sharkdp", "forks": 446},
-{"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 34, "stars": 76677, "owner": "denoland", "forks": 4041},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 21, "stars": 17989, "owner": "sharkdp", "forks": 446},
+{"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 33, "stars": 76677, "owner": "denoland", "forks": 4041},
 {"description": "A high-performance, highly reliable, observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 7, "stars": 7623, "owner": "timberio", "forks": 567},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 21, "stars": 14880, "owner": "nushell", "forks": 673},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 20, "stars": 12565, "owner": "tokio-rs", "forks": 1170},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 20, "stars": 26361, "owner": "BurntSushi", "forks": 1154},
-{"description": "Fast multi-threaded DataFrame library in Rust and Python", "language": "Rust", "repo": "polars", "new_stars": 7, "stars": 2010, "owner": "pola-rs", "forks": 113},
+{"description": "Fast multi-threaded DataFrame library in Rust and Python", "language": "Rust", "repo": "polars", "new_stars": 7, "stars": 2011, "owner": "pola-rs", "forks": 113},
 {"description": "A Flash Player emulator written in Rust", "language": "Rust", "repo": "ruffle", "new_stars": 16, "stars": 8292, "owner": "ruffle-rs", "forks": 344},
 {"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 19, "stars": 1995, "owner": "wez", "forks": 100},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 36, "stars": 17478, "owner": "rust-lang", "forks": 2443},
@@ -23,5 +23,5 @@
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 6, "stars": 3801, "owner": "crossbeam-rs", "forks": 281},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 11, "stars": 7359, "owner": "rust-lang", "forks": 1937},
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 26, "stars": 33573, "owner": "alacritty", "forks": 1780},
-{"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 7, "stars": 4322, "owner": "qarmin", "forks": 93}
+{"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 8, "stars": 4321, "owner": "qarmin", "forks": 93}
 ]

@@ -3,8 +3,8 @@
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 11123, "owner": "mperham", "forks": 1977},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 11411, "owner": "rubocop", "forks": 2721},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 15, "stars": 43030, "owner": "jekyll", "forks": 9466},
-{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 26, "stars": 19490, "owner": "kilimchoi", "forks": 416},
-{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 4, "stars": 18279, "owner": "ruby", "forks": 4852},
+{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 27, "stars": 19491, "owner": "kilimchoi", "forks": 416},
+{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 4, "stars": 18278, "owner": "ruby", "forks": 4852},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 10405, "owner": "fluent", "forks": 1189},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 2, "stars": 7240, "owner": "thoughtbot", "forks": 2411},
 {"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 3, "stars": 6507, "owner": "github-changelog-generator", "forks": 796},
@@ -17,11 +17,11 @@
 {"description": "Strategies for cleaning databases in Ruby. Can be used to ensure a clean state for testing.", "language": "Ruby", "repo": "database_cleaner", "new_stars": 0, "stars": 2716, "owner": "DatabaseCleaner", "forks": 482},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 6624, "owner": "chef", "forks": 2516},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 21773, "owner": "heartcombo", "forks": 5247},
-{"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 3, "stars": 4940, "owner": "CanCanCommunity", "forks": 519},
+{"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 4, "stars": 4941, "owner": "CanCanCommunity", "forks": 519},
 {"description": "Create and modify Xcode projects from Ruby.", "language": "Ruby", "repo": "Xcodeproj", "new_stars": 0, "stars": 1934, "owner": "CocoaPods", "forks": 403},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 4, "stars": 18380, "owner": "Homebrew", "forks": 9238},
-{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 0, "stars": 7826, "owner": "heartcombo", "forks": 1298},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 4, "stars": 18379, "owner": "Homebrew", "forks": 9238},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 7827, "owner": "heartcombo", "forks": 1298},
 {"description": "A Ruby/Rack web server built for concurrency", "language": "Ruby", "repo": "puma", "new_stars": 4, "stars": 6786, "owner": "puma", "forks": 1254},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 7, "stars": 31834, "owner": "huginn", "forks": 3029},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 13, "stars": 28485, "owner": "Homebrew", "forks": 6421}
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 8, "stars": 31835, "owner": "huginn", "forks": 3029},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 16, "stars": 28487, "owner": "Homebrew", "forks": 6421}
 ]

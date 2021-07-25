@@ -1,15 +1,15 @@
 [
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 183, "stars": 49392, "owner": "protocolbuffers", "forks": 13001},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 206, "stars": 49397, "owner": "protocolbuffers", "forks": 13001},
 {"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 54, "stars": 13648, "owner": "flameshot-org", "forks": 847},
 {"description": "Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).", "language": "C++", "repo": "connectedhomeip", "new_stars": 16, "stars": 2028, "owner": "project-chip", "forks": 395},
 {"description": "GDAL is an open source X/MIT licensed translator library for raster and vector geospatial data formats.", "language": "C++", "repo": "gdal", "new_stars": 8, "stars": 2588, "owner": "OSGeo", "forks": 1459},
 {"description": "Exploit allowing you to read registry hives as non-admin on Windows 10 and 11", "language": "C++", "repo": "HiveNightmare", "new_stars": 78, "stars": 368, "owner": "GossiTheDog", "forks": 89},
 {"description": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/WebRTC server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 14, "stars": 4277, "owner": "ZLMediaKit", "forks": 1195},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 27, "stars": 12141, "owner": "gabime", "forks": 2575},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 60, "stars": 30771, "owner": "ocornut", "forks": 5178},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 29, "stars": 12142, "owner": "gabime", "forks": 2575},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 62, "stars": 30773, "owner": "ocornut", "forks": 5177},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 57, "stars": 49701, "owner": "pytorch", "forks": 13451},
 {"description": "yuzu Early Access source code with linux specific patches included", "language": "C++", "repo": "pineapple-src", "new_stars": 8, "stars": 209, "owner": "pineappleEA", "forks": 15},
-{"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 11, "stars": 3991, "owner": "NVIDIA", "forks": 971},
+{"description": "TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.", "language": "C++", "repo": "TensorRT", "new_stars": 12, "stars": 3991, "owner": "NVIDIA", "forks": 971},
 {"description": "C++ Primer 5 answers", "language": "C++", "repo": "Cpp-Primer", "new_stars": 8, "stars": 6354, "owner": "Mooophy", "forks": 2781},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 18, "stars": 9456, "owner": "pybind", "forks": 1363},
 {"description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!", "language": "C++", "repo": "MuseScore", "new_stars": 16, "stars": 6167, "owner": "musescore", "forks": 1691},
@@ -22,6 +22,6 @@
 {"description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM", "language": "C++", "repo": "ORB_SLAM3", "new_stars": 3, "stars": 2682, "owner": "UZ-SLAMLab", "forks": 996},
 {"description": "Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps.", "language": "C++", "repo": "Hippy", "new_stars": 4, "stars": 5909, "owner": "Tencent", "forks": 653},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 26, "stars": 17516, "owner": "envoyproxy", "forks": 3192},
-{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 14, "stars": 4933, "owner": "microsoft", "forks": 1164},
+{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 14, "stars": 4934, "owner": "microsoft", "forks": 1164},
 {"description": "A C++ library for interacting with JSON.", "language": "C++", "repo": "jsoncpp", "new_stars": 11, "stars": 5693, "owner": "open-source-parsers", "forks": 2145}
 ]

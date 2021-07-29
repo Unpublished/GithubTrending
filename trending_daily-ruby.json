@@ -11,10 +11,10 @@
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 48760, "owner": "rails", "forks": 19586},
 {"description": "Official Sass port of Bootstrap 2 and 3.", "language": "Ruby", "repo": "bootstrap-sass", "new_stars": 3, "stars": 12748, "owner": "twbs", "forks": 3690},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 0, "stars": 4009, "owner": "instructure", "forks": 1722},
-{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 3, "stars": 5207, "owner": "rails", "forks": 1423},
+{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 2, "stars": 5207, "owner": "rails", "forks": 1423},
 {"description": "For empowering community", "language": "Ruby", "repo": "forem", "new_stars": 7, "stars": 17204, "owner": "forem", "forks": 2978},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11141, "owner": "mperham", "forks": 1981},
-{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 7833, "owner": "heartcombo", "forks": 1298},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 0, "stars": 7833, "owner": "heartcombo", "forks": 1298},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 2, "stars": 6107, "owner": "paper-trail-gem", "forks": 813},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 6, "stars": 11414, "owner": "rubocop", "forks": 2725},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 6636, "owner": "chef", "forks": 2522},
@@ -22,6 +22,6 @@
 {"description": "Download an entire website from the Wayback Machine.", "language": "Ruby", "repo": "wayback-machine-downloader", "new_stars": 0, "stars": 3355, "owner": "hartator", "forks": 469},
 {"description": "OmniAuth is a flexible authentication system utilizing Rack middleware.", "language": "Ruby", "repo": "omniauth", "new_stars": 1, "stars": 7418, "owner": "omniauth", "forks": 953},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 2, "stars": 4904, "owner": "activerecord-hackery", "forks": 734},
-{"description": "Open Source multi-language/multi-currency/multi-store E-commerce platform for Ruby on Rails with a modern UX, PWA frontend, REST API, GraphQL, several official extensions, and 3rd party integrations.", "language": "Ruby", "repo": "spree", "new_stars": 1, "stars": 11347, "owner": "spree", "forks": 4757},
+{"description": "Open Source multi-language/multi-currency/multi-store E-commerce platform for Ruby on Rails with a modern UX, PWA frontend, REST API, GraphQL, several official extensions, and 3rd party integrations.", "language": "Ruby", "repo": "spree", "new_stars": 2, "stars": 11347, "owner": "spree", "forks": 4757},
 {"description": "ActiveRecord plugin allowing you to hide and restore records without actually deleting them.", "language": "Ruby", "repo": "acts_as_paranoid", "new_stars": 0, "stars": 1237, "owner": "ActsAsParanoid", "forks": 188}
 ]

@@ -6,11 +6,11 @@
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 2, "stars": 7254, "owner": "thoughtbot", "forks": 2429},
 {"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 7, "stars": 10624, "owner": "postalserver", "forks": 736},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11145, "owner": "mperham", "forks": 1981},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 22, "stars": 24520, "owner": "mastodon", "forks": 4073},
-{"description": "Performance profiling for Rails, made simple", "language": "Ruby", "repo": "rails-mini-profiler", "new_stars": 80, "stars": 201, "owner": "hschne", "forks": 9},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 22, "stars": 24521, "owner": "mastodon", "forks": 4073},
+{"description": "Performance profiling for Rails, made simple", "language": "Ruby", "repo": "rails-mini-profiler", "new_stars": 81, "stars": 202, "owner": "hschne", "forks": 9},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 4, "stars": 2777, "owner": "rubygems", "forks": 1397},
 {"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 3, "stars": 6518, "owner": "github-changelog-generator", "forks": 799},
-{"description": "Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 29, "stars": 815, "owner": "bensheldon", "forks": 24},
+{"description": "Multithreaded, Postgres-based, ActiveJob backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 30, "stars": 816, "owner": "bensheldon", "forks": 24},
 {"description": "Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 6, "stars": 3742, "owner": "Homebrew", "forks": 237},
 {"description": "Core formulae for the Homebrew package manager on Linux", "language": "Ruby", "repo": "linuxbrew-core", "new_stars": 2, "stars": 1101, "owner": "Homebrew", "forks": 498},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 6, "stars": 21795, "owner": "heartcombo", "forks": 5253},
@@ -22,6 +22,6 @@
 {"description": "Fluentd daemonset for Kubernetes and it Docker image", "language": "Ruby", "repo": "fluentd-kubernetes-daemonset", "new_stars": 1, "stars": 938, "owner": "fluent", "forks": 804},
 {"description": null, "language": "Ruby", "repo": "project-template-react-rails-api", "new_stars": 0, "stars": 2, "owner": "learn-co-curriculum", "forks": 57},
 {"description": "RSpec for Rails 5+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 1, "stars": 4579, "owner": "rspec", "forks": 922},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 15, "stars": 48772, "owner": "rails", "forks": 19590},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 16, "stars": 48772, "owner": "rails", "forks": 19589},
 {"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 1, "stars": 2328, "owner": "citation-style-language", "forks": 3078}
 ]

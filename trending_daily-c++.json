@@ -1,9 +1,9 @@
 [
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 96, "stars": 23221, "owner": "google", "forks": 7728},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 102, "stars": 23221, "owner": "google", "forks": 7728},
 {"description": "This is the code for Mark Rober's Domino Robot project. You can find a bunch more info about the project, including details about the software architecture on my website.", "language": "C++", "repo": "DominoRobot", "new_stars": 14, "stars": 217, "owner": "alexbaucom17", "forks": 16},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 37, "stars": 157820, "owner": "tensorflow", "forks": 85222},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 37, "stars": 157820, "owner": "tensorflow", "forks": 85223},
 {"description": "C++ implementation of the Google logging module", "language": "C++", "repo": "glog", "new_stars": 5, "stars": 4618, "owner": "google", "forks": 1690},
-{"description": "Point Cloud Library (PCL)", "language": "C++", "repo": "pcl", "new_stars": 2, "stars": 6454, "owner": "PointCloudLibrary", "forks": 3933},
+{"description": "Point Cloud Library (PCL)", "language": "C++", "repo": "pcl", "new_stars": 3, "stars": 6455, "owner": "PointCloudLibrary", "forks": 3933},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 10, "stars": 4972, "owner": "microsoft", "forks": 1175},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 19, "stars": 55913, "owner": "bitcoin", "forks": 29499},
 {"description": "ROS2 Navigation Framework and System", "language": "C++", "repo": "navigation2", "new_stars": 0, "stars": 635, "owner": "ros-planning", "forks": 424},
@@ -11,7 +11,7 @@
 {"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 5, "stars": 3312, "owner": "duckdb", "forks": 251},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 6, "stars": 12194, "owner": "gabime", "forks": 2581},
 {"description": "Yoga is a cross-platform layout engine which implements Flexbox. Follow", "language": "C++", "repo": "yoga", "new_stars": 5, "stars": 14512, "owner": "facebook", "forks": 1206},
-{"description": "RenderDoc is a stand-alone graphics debugging tool.", "language": "C++", "repo": "renderdoc", "new_stars": 7, "stars": 5569, "owner": "baldurk", "forks": 838},
+{"description": "RenderDoc is a stand-alone graphics debugging tool.", "language": "C++", "repo": "renderdoc", "new_stars": 6, "stars": 5569, "owner": "baldurk", "forks": 838},
 {"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 10, "stars": 13143, "owner": "Tencent", "forks": 1456},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 3, "stars": 5603, "owner": "google", "forks": 1075},
 {"description": "TensorFlow Lite for Microcontrollers", "language": "C++", "repo": "tflite-micro", "new_stars": 3, "stars": 153, "owner": "tensorflow", "forks": 75},
@@ -21,7 +21,7 @@
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 12, "stars": 14211, "owner": "facebookresearch", "forks": 2294},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 5, "stars": 4699, "owner": "PX4", "forks": 11136},
 {"description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events", "language": "C++", "repo": "async-profiler", "new_stars": 4, "stars": 4192, "owner": "jvm-profiling-tools", "forks": 475},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 15, "stars": 31351, "owner": "grpc", "forks": 8152},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 15, "stars": 31351, "owner": "grpc", "forks": 8151},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 2, "stars": 3573, "owner": "esphome", "forks": 1059},
 {"description": "Universal grid map library for mobile robotic mapping", "language": "C++", "repo": "grid_map", "new_stars": 3, "stars": 1297, "owner": "ANYbotics", "forks": 552}
 ]

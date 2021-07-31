@@ -1,15 +1,15 @@
 [
 {"description": "Powerful, fast, and an easy to use search engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 635, "stars": 15293, "owner": "meilisearch", "forks": 500},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 306, "stars": 15809, "owner": "firecracker-microvm", "forks": 1082},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 551, "stars": 17672, "owner": "rust-lang", "forks": 2490},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 552, "stars": 17673, "owner": "rust-lang", "forks": 2490},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 1125, "stars": 57242, "owner": "rust-lang", "forks": 8088},
 {"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 330, "stars": 6895, "owner": "rust-analyzer", "forks": 703},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1345, "stars": 18955, "owner": "tauri-apps", "forks": 419},
 {"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy", "language": "Rust", "repo": "datafuse", "new_stars": 246, "stars": 957, "owner": "datafuselabs", "forks": 110},
-{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 166, "stars": 9655, "owner": "tikv", "forks": 1501},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 703, "stars": 28553, "owner": "sharkdp", "forks": 729},
+{"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 167, "stars": 9656, "owner": "tikv", "forks": 1501},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 704, "stars": 28554, "owner": "sharkdp", "forks": 729},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 444, "stars": 5446, "owner": "paritytech", "forks": 1597},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 367, "stars": 9911, "owner": "bevyengine", "forks": 824},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 368, "stars": 9912, "owner": "bevyengine", "forks": 825},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 337, "stars": 12711, "owner": "tokio-rs", "forks": 1180},
 {"description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 64, "stars": 1152, "owner": "graphprotocol", "forks": 278},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 155, "stars": 6216, "owner": "clap-rs", "forks": 573},
@@ -21,7 +21,7 @@
 {"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 695, "stars": 76906, "owner": "denoland", "forks": 4066},
 {"description": "A working demo of RustDesk server implementation", "language": "Rust", "repo": "rustdesk-server-demo", "new_stars": 88, "stars": 192, "owner": "rustdesk", "forks": 78},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 111, "stars": 2955, "owner": "shadowsocks", "forks": 555},
-{"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 130, "stars": 2060, "owner": "wez", "forks": 106},
+{"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 131, "stars": 2061, "owner": "wez", "forks": 106},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 75, "stars": 2293, "owner": "serde-rs", "forks": 329},
 {"description": "The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 516, "stars": 17930, "owner": "starship", "forks": 761}
 ]

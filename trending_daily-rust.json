@@ -1,18 +1,18 @@
 [
-{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 221, "stars": 897, "owner": "tokio-rs", "forks": 22},
+{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 221, "stars": 902, "owner": "tokio-rs", "forks": 23},
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 29, "stars": 33900, "owner": "alacritty", "forks": 1818},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 14, "stars": 10089, "owner": "dani-garcia", "forks": 582},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 14, "stars": 10090, "owner": "dani-garcia", "forks": 582},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 4, "stars": 2366, "owner": "librespot-org", "forks": 316},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 31, "stars": 28619, "owner": "sharkdp", "forks": 734},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 30, "stars": 28620, "owner": "sharkdp", "forks": 734},
 {"description": "The Metaplex protocol", "language": "Rust", "repo": "metaplex", "new_stars": 9, "stars": 184, "owner": "metaplex-foundation", "forks": 205},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 7, "stars": 3921, "owner": "paritytech", "forks": 832},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 8, "stars": 6238, "owner": "clap-rs", "forks": 573},
-{"description": null, "language": "Rust", "repo": "diamond-types", "new_stars": 20, "stars": 275, "owner": "josephg", "forks": 4},
+{"description": null, "language": "Rust", "repo": "diamond-types", "new_stars": 19, "stars": 276, "owner": "josephg", "forks": 4},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 3, "stars": 6112, "owner": "rust-lang", "forks": 840},
-{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 26, "stars": 10148, "owner": "dandavison", "forks": 161},
+{"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 25, "stars": 10149, "owner": "dandavison", "forks": 161},
 {"description": "A fast, simple, recursive content discovery tool written in Rust.", "language": "Rust", "repo": "feroxbuster", "new_stars": 11, "stars": 1702, "owner": "epi052", "forks": 169},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 9, "stars": 5390, "owner": "fdehau", "forks": 280},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 24, "stars": 9974, "owner": "bevyengine", "forks": 831},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 25, "stars": 9975, "owner": "bevyengine", "forks": 831},
 {"description": "Netcat Alternative", "language": "Rust", "repo": "rustcat", "new_stars": 7, "stars": 216, "owner": "robiot", "forks": 23},
 {"description": "Safe and portable GPU abstraction in Rust, implementing WebGPU API.", "language": "Rust", "repo": "wgpu", "new_stars": 10, "stars": 2281, "owner": "gfx-rs", "forks": 209},
 {"description": "async fn(Request) -> Result<Response, Error>", "language": "Rust", "repo": "tower", "new_stars": 9, "stars": 1464, "owner": "tower-rs", "forks": 110},
@@ -22,6 +22,6 @@
 {"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 8, "stars": 4395, "owner": "qarmin", "forks": 98},
 {"description": "Facilitating high-level interactions between Wasm modules and JavaScript", "language": "Rust", "repo": "wasm-bindgen", "new_stars": 7, "stars": 4381, "owner": "rustwasm", "forks": 582},
 {"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 9, "stars": 14108, "owner": "ogham", "forks": 415},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 10, "stars": 6070, "owner": "Peltoche", "forks": 198},
-{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 3, "stars": 7125, "owner": "diesel-rs", "forks": 679}
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 11, "stars": 6072, "owner": "Peltoche", "forks": 198},
+{"description": "A safe, extensible ORM and Query Builder for Rust", "language": "Rust", "repo": "diesel", "new_stars": 2, "stars": 7125, "owner": "diesel-rs", "forks": 679}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "\u4fe1\u606f\u6536\u96c6\u81ea\u52a8\u5316\u5de5\u5177", "language": "Python", "repo": "ShuiZe_0x727", "new_stars": 137, "stars": 691, "owner": "0x727", "forks": 117},
-{"description": "Animation engine for explanatory math videos", "language": "Python", "repo": "manim", "new_stars": 120, "stars": 35757, "owner": "3b1b", "forks": 4171},
-{"description": "Free, open source crypto trading bot", "language": "Python", "repo": "freqtrade", "new_stars": 95, "stars": 10296, "owner": "freqtrade", "forks": 2402},
-{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 205, "stars": 140650, "owner": "donnemartin", "forks": 25849},
+{"description": "\u4fe1\u606f\u6536\u96c6\u81ea\u52a8\u5316\u5de5\u5177", "language": "Python", "repo": "ShuiZe_0x727", "new_stars": 140, "stars": 694, "owner": "0x727", "forks": 117},
+{"description": "Animation engine for explanatory math videos", "language": "Python", "repo": "manim", "new_stars": 120, "stars": 35764, "owner": "3b1b", "forks": 4173},
+{"description": "Free, open source crypto trading bot", "language": "Python", "repo": "freqtrade", "new_stars": 97, "stars": 10298, "owner": "freqtrade", "forks": 2402},
+{"description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.", "language": "Python", "repo": "system-design-primer", "new_stars": 206, "stars": 140651, "owner": "donnemartin", "forks": 25850},
 {"description": "Code samples used on cloud.google.com", "language": "Python", "repo": "python-docs-samples", "new_stars": 4, "stars": 5135, "owner": "GoogleCloudPlatform", "forks": 5216},
-{"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 85, "stars": 34445, "owner": "tiangolo", "forks": 2445},
+{"description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production", "language": "Python", "repo": "fastapi", "new_stars": 86, "stars": 34446, "owner": "tiangolo", "forks": 2445},
 {"description": "Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants", "language": "Python", "repo": "rasa", "new_stars": 277, "stars": 12068, "owner": "RasaHQ", "forks": 3636},
 {"description": "Dota2 AI bot", "language": "Python", "repo": "LastOrder-Dota2", "new_stars": 85, "stars": 223, "owner": "bilibili", "forks": 16},
 {"description": "A toolkit for testing, tweaking and cracking JSON Web Tokens", "language": "Python", "repo": "jwt_tool", "new_stars": 24, "stars": 2122, "owner": "ticarpi", "forks": 326},
@@ -15,13 +15,13 @@
 {"description": "An open source framework that provides a simple, universal API for building distributed applications. Ray is packaged with RLlib, a scalable reinforcement learning library, and Tune, a scalable hyperparameter tuning library.", "language": "Python", "repo": "ray", "new_stars": 24, "stars": 16845, "owner": "ray-project", "forks": 2842},
 {"description": "PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models.", "language": "Python", "repo": "SlowFast", "new_stars": 9, "stars": 3980, "owner": "facebookresearch", "forks": 781},
 {"description": "Generic Signature Format for SIEM Systems", "language": "Python", "repo": "sigma", "new_stars": 63, "stars": 3918, "owner": "SigmaHQ", "forks": 1112},
-{"description": "A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.", "language": "Python", "repo": "cookiecutter", "new_stars": 18, "stars": 15074, "owner": "cookiecutter", "forks": 1491},
-{"description": "\u300aDesigning Data-Intensive Application\u300bDDIA\u4e2d\u6587\u7ffb\u8bd1", "language": "Python", "repo": "ddia", "new_stars": 25, "stars": 7853, "owner": "Vonng", "forks": 1799},
-{"description": "\u5b66\u4e60python\u64cd\u4f5cselenium\u7684\u4e00\u4e2a", "language": "Python", "repo": "JDMemberCloseAccount", "new_stars": 15, "stars": 668, "owner": "yqchilde", "forks": 222},
+{"description": "A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.", "language": "Python", "repo": "cookiecutter", "new_stars": 19, "stars": 15075, "owner": "cookiecutter", "forks": 1491},
+{"description": "\u300aDesigning Data-Intensive Application\u300bDDIA\u4e2d\u6587\u7ffb\u8bd1", "language": "Python", "repo": "ddia", "new_stars": 26, "stars": 7854, "owner": "Vonng", "forks": 1799},
+{"description": "\u5b66\u4e60python\u64cd\u4f5cselenium\u7684\u4e00\u4e2a", "language": "Python", "repo": "JDMemberCloseAccount", "new_stars": 16, "stars": 669, "owner": "yqchilde", "forks": 221},
 {"description": "dbt (data build tool) enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.", "language": "Python", "repo": "dbt", "new_stars": 16, "stars": 3343, "owner": "dbt-labs", "forks": 631},
 {"description": "An open source library for deep learning end-to-end dialog systems and chatbots.", "language": "Python", "repo": "DeepPavlov", "new_stars": 5, "stars": 5335, "owner": "deepmipt", "forks": 967},
 {"description": "Official Python client library for kubernetes", "language": "Python", "repo": "python", "new_stars": 8, "stars": 3901, "owner": "kubernetes-client", "forks": 2181},
 {"description": "Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch", "language": "Python", "repo": "vit-pytorch", "new_stars": 25, "stars": 5263, "owner": "lucidrains", "forks": 692},
 {"description": "Curso de programaci\u00f3n en Python - UNSAM", "language": "Python", "repo": "Programacion_en_Python_UNSAM", "new_stars": 5, "stars": 457, "owner": "python-unsam", "forks": 383},
-{"description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.", "language": "Python", "repo": "pytorch-lightning", "new_stars": 14, "stars": 14899, "owner": "PyTorchLightning", "forks": 1779}
+{"description": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.", "language": "Python", "repo": "pytorch-lightning", "new_stars": 14, "stars": 14899, "owner": "PyTorchLightning", "forks": 1778}
 ]

@@ -1,10 +1,10 @@
 [
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code", "language": "Rust", "repo": "rust-clippy", "new_stars": 36, "stars": 6123, "owner": "rust-lang", "forks": 840},
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 173, "stars": 33961, "owner": "alacritty", "forks": 1822},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 97, "stars": 16568, "owner": "yewstack", "forks": 775},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 98, "stars": 16569, "owner": "yewstack", "forks": 775},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 224, "stars": 19100, "owner": "tauri-apps", "forks": 427},
 {"description": "Apache Arrow DataFusion and Ballista query engines", "language": "Rust", "repo": "arrow-datafusion", "new_stars": 40, "stars": 775, "owner": "apache", "forks": 106},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 222, "stars": 57390, "owner": "rust-lang", "forks": 8102},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 223, "stars": 57391, "owner": "rust-lang", "forks": 8103},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 48, "stars": 6256, "owner": "clap-rs", "forks": 574},
 {"description": "The Metaplex protocol", "language": "Rust", "repo": "metaplex", "new_stars": 25, "stars": 190, "owner": "metaplex-foundation", "forks": 215},
 {"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 73, "stars": 14133, "owner": "ogham", "forks": 416},
@@ -21,7 +21,7 @@
 {"description": "A fast, simple, recursive content discovery tool written in Rust.", "language": "Rust", "repo": "feroxbuster", "new_stars": 51, "stars": 1712, "owner": "epi052", "forks": 171},
 {"description": "Build terminal user interfaces and dashboards using Rust", "language": "Rust", "repo": "tui-rs", "new_stars": 35, "stars": 5395, "owner": "fdehau", "forks": 281},
 {"description": "A viewer for git and diff output", "language": "Rust", "repo": "delta", "new_stars": 149, "stars": 10193, "owner": "dandavison", "forks": 161},
-{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 26, "stars": 2370, "owner": "librespot-org", "forks": 317},
-{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 40, "stars": 2260, "owner": "johnthagen", "forks": 60},
+{"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 27, "stars": 2371, "owner": "librespot-org", "forks": 317},
+{"description": "How to minimize Rust binary size", "language": "Rust", "repo": "min-sized-rust", "new_stars": 41, "stars": 2261, "owner": "johnthagen", "forks": 60},
 {"description": "A smarter cd command. Supports all major shells.", "language": "Rust", "repo": "zoxide", "new_stars": 86, "stars": 3291, "owner": "ajeetdsouza", "forks": 67}
 ]

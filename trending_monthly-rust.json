@@ -1,12 +1,12 @@
 [
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 696, "stars": 33989, "owner": "alacritty", "forks": 1828},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 427, "stars": 10024, "owner": "bevyengine", "forks": 836},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 429, "stars": 10026, "owner": "bevyengine", "forks": 836},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1363, "stars": 19135, "owner": "tauri-apps", "forks": 427},
-{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 612, "stars": 17817, "owner": "rust-lang", "forks": 2510},
-{"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy", "language": "Rust", "repo": "datafuse", "new_stars": 773, "stars": 1504, "owner": "datafuselabs", "forks": 137},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 787, "stars": 28702, "owner": "sharkdp", "forks": 736},
+{"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 613, "stars": 17818, "owner": "rust-lang", "forks": 2510},
+{"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy", "language": "Rust", "repo": "datafuse", "new_stars": 778, "stars": 1508, "owner": "datafuselabs", "forks": 138},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 788, "stars": 28703, "owner": "sharkdp", "forks": 736},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 299, "stars": 15841, "owner": "firecracker-microvm", "forks": 1085},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 968, "stars": 57432, "owner": "rust-lang", "forks": 8111},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 969, "stars": 57433, "owner": "rust-lang", "forks": 8110},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 443, "stars": 5466, "owner": "paritytech", "forks": 1608},
 {"description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 85, "stars": 1178, "owner": "graphprotocol", "forks": 280},
 {"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 724, "stars": 77018, "owner": "denoland", "forks": 4071},
@@ -22,6 +22,6 @@
 {"description": "Powerful, fast, and an easy to use search engine", "language": "Rust", "repo": "MeiliSearch", "new_stars": 601, "stars": 15389, "owner": "meilisearch", "forks": 503},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 195, "stars": 7478, "owner": "rust-lang", "forks": 1965},
 {"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 165, "stars": 4042, "owner": "linebender", "forks": 328},
-{"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 336, "stars": 6938, "owner": "rust-analyzer", "forks": 710},
+{"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 337, "stars": 6939, "owner": "rust-analyzer", "forks": 711},
 {"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 290, "stars": 3527, "owner": "zellij-org", "forks": 96}
 ]

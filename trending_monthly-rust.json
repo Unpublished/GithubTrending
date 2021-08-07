@@ -1,17 +1,17 @@
 [
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 682, "stars": 33977, "owner": "alacritty", "forks": 1824},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1345, "stars": 19118, "owner": "tauri-apps", "forks": 427},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 422, "stars": 10019, "owner": "bevyengine", "forks": 835},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1346, "stars": 19118, "owner": "tauri-apps", "forks": 427},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 424, "stars": 10021, "owner": "bevyengine", "forks": 835},
 {"description": "Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 605, "stars": 17812, "owner": "rust-lang", "forks": 2511},
 {"description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 85, "stars": 1178, "owner": "graphprotocol", "forks": 280},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 299, "stars": 15842, "owner": "firecracker-microvm", "forks": 1084},
-{"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy", "language": "Rust", "repo": "datafuse", "new_stars": 696, "stars": 1429, "owner": "datafuselabs", "forks": 132},
-{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 163, "stars": 4040, "owner": "linebender", "forks": 328},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 953, "stars": 57420, "owner": "rust-lang", "forks": 8109},
+{"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy", "language": "Rust", "repo": "datafuse", "new_stars": 700, "stars": 1433, "owner": "datafuselabs", "forks": 133},
+{"description": "A data-first Rust-native UI design toolkit.", "language": "Rust", "repo": "druid", "new_stars": 164, "stars": 4041, "owner": "linebender", "forks": 328},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 953, "stars": 57420, "owner": "rust-lang", "forks": 8110},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 441, "stars": 5465, "owner": "paritytech", "forks": 1607},
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 179, "stars": 6261, "owner": "clap-rs", "forks": 575},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 390, "stars": 12818, "owner": "tokio-rs", "forks": 1190},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 523, "stars": 21164, "owner": "rust-unofficial", "forks": 1455},
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 523, "stars": 21164, "owner": "rust-unofficial", "forks": 1456},
 {"description": "A secure JavaScript and TypeScript runtime", "language": "Rust", "repo": "deno", "new_stars": 716, "stars": 77010, "owner": "denoland", "forks": 4071},
 {"description": "Safe and portable GPU abstraction in Rust, implementing WebGPU API.", "language": "Rust", "repo": "wgpu", "new_stars": 196, "stars": 2297, "owner": "gfx-rs", "forks": 210},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 450, "stars": 10129, "owner": "dani-garcia", "forks": 585},
@@ -23,5 +23,5 @@
 {"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 149, "stars": 2085, "owner": "wez", "forks": 106},
 {"description": "Tools for concurrent programming in Rust", "language": "Rust", "repo": "crossbeam", "new_stars": 92, "stars": 3863, "owner": "crossbeam-rs", "forks": 286},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 167, "stars": 9682, "owner": "tikv", "forks": 1502},
-{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 93, "stars": 5611, "owner": "bottlerocket-os", "forks": 256}
+{"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 94, "stars": 5612, "owner": "bottlerocket-os", "forks": 256}
 ]

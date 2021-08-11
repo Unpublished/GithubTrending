@@ -1,15 +1,15 @@
 [
-{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 393, "stars": 1314, "owner": "tokio-rs", "forks": 47},
+{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 393, "stars": 1318, "owner": "tokio-rs", "forks": 47},
 {"description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, built to make the Data Cloud easy", "language": "Rust", "repo": "datafuse", "new_stars": 802, "stars": 1763, "owner": "datafuselabs", "forks": 147},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 51, "stars": 2897, "owner": "solana-labs", "forks": 612},
-{"description": "efficient approximate nearest neighbor search algorithm collections library written in Rust", "language": "Rust", "repo": "hora", "new_stars": 974, "stars": 1247, "owner": "hora-search", "forks": 20},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 130, "stars": 10102, "owner": "bevyengine", "forks": 846},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 272, "stars": 18425, "owner": "sharkdp", "forks": 467},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 199, "stars": 57513, "owner": "rust-lang", "forks": 8118},
-{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 76, "stars": 14379, "owner": "SergioBenitez", "forks": 999},
+{"description": "efficient approximate nearest neighbor search algorithm collections library written in Rust", "language": "Rust", "repo": "hora", "new_stars": 983, "stars": 1256, "owner": "hora-search", "forks": 20},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 131, "stars": 10103, "owner": "bevyengine", "forks": 847},
+{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 276, "stars": 18429, "owner": "sharkdp", "forks": 467},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 200, "stars": 57515, "owner": "rust-lang", "forks": 8118},
+{"description": "A web framework for Rust.", "language": "Rust", "repo": "Rocket", "new_stars": 76, "stars": 14379, "owner": "SergioBenitez", "forks": 1000},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 94, "stars": 12855, "owner": "tokio-rs", "forks": 1191},
-{"description": "The Metaplex protocol", "language": "Rust", "repo": "metaplex", "new_stars": 18, "stars": 202, "owner": "metaplex-foundation", "forks": 245},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 137, "stars": 10225, "owner": "dani-garcia", "forks": 586},
+{"description": "The Metaplex protocol", "language": "Rust", "repo": "metaplex", "new_stars": 19, "stars": 203, "owner": "metaplex-foundation", "forks": 246},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 137, "stars": 10226, "owner": "dani-garcia", "forks": 586},
 {"description": "Actor framework for Rust.", "language": "Rust", "repo": "actix", "new_stars": 30, "stars": 6483, "owner": "actix", "forks": 557},
 {"description": "Fast multi-threaded DataFrame library in Rust and Python", "language": "Rust", "repo": "polars", "new_stars": 43, "stars": 2131, "owner": "pola-rs", "forks": 120},
 {"description": "x86 virtualization in your browser, recompiling x86 to wasm on the fly", "language": "Rust", "repo": "v86", "new_stars": 56, "stars": 11469, "owner": "copy", "forks": 892},
@@ -21,7 +21,7 @@
 {"description": "This repository is for active development of the *unofficial* Azure SDK for Rust. This repository is *not* supported by the Azure SDK team.", "language": "Rust", "repo": "azure-sdk-for-rust", "new_stars": 2, "stars": 139, "owner": "Azure", "forks": 68},
 {"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 88, "stars": 16620, "owner": "yewstack", "forks": 781},
 {"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 92, "stars": 14194, "owner": "ogham", "forks": 418},
-{"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 135, "stars": 4528, "owner": "qarmin", "forks": 101},
+{"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 136, "stars": 4529, "owner": "qarmin", "forks": 101},
 {"description": "End-to-end encryption and mutual authentication for distributed applications.", "language": "Rust", "repo": "ockam", "new_stars": 143, "stars": 1142, "owner": "ockam-network", "forks": 112},
-{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 153, "stars": 258157, "owner": "996icu", "forks": 21347}
+{"description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.", "language": "Rust", "repo": "996.ICU", "new_stars": 154, "stars": 258158, "owner": "996icu", "forks": 21347}
 ]

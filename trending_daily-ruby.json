@@ -5,11 +5,11 @@
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 9, "stars": 22467, "owner": "hashicorp", "forks": 4129},
 {"description": "The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot", "language": "Ruby", "repo": "dependabot-core", "new_stars": 4, "stars": 2079, "owner": "dependabot", "forks": 519},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 0, "stars": 6665, "owner": "chef", "forks": 2528},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 21, "stars": 43185, "owner": "jekyll", "forks": 9499},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 20, "stars": 43185, "owner": "jekyll", "forks": 9499},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11174, "owner": "mperham", "forks": 1985},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 8, "stars": 24876, "owner": "rapid7", "forks": 11493},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 9, "stars": 24877, "owner": "rapid7", "forks": 11494},
 {"description": "Code smell detector for Ruby", "language": "Ruby", "repo": "reek", "new_stars": 13, "stars": 3597, "owner": "troessner", "forks": 265},
-{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 1, "stars": 5231, "owner": "rails", "forks": 1429},
+{"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 2, "stars": 5232, "owner": "rails", "forks": 1429},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 9044, "owner": "activeadmin", "forks": 3225},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 2, "stars": 4857, "owner": "doorkeeper-gem", "forks": 984},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 1, "stars": 11435, "owner": "rubocop", "forks": 2749},
@@ -22,6 +22,6 @@
 {"description": "Remote multi-server automation tool", "language": "Ruby", "repo": "capistrano", "new_stars": 0, "stars": 11932, "owner": "capistrano", "forks": 1771},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 7841, "owner": "heartcombo", "forks": 1298},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 3, "stars": 10489, "owner": "fluent", "forks": 1197},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 5, "stars": 13334, "owner": "CocoaPods", "forks": 2453},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 6, "stars": 13335, "owner": "CocoaPods", "forks": 2453},
 {"description": "Automatically generate change log from your tags, issues, labels and pull requests on GitHub.", "language": "Ruby", "repo": "github-changelog-generator", "new_stars": 3, "stars": 6530, "owner": "github-changelog-generator", "forks": 806}
 ]

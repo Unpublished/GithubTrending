@@ -1,10 +1,10 @@
 [
 {"description": "Linux / Windows / macOS \u8de8\u5e73\u53f0 V2Ray \u5ba2\u6237\u7aef | \u652f\u6301 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | \u4f7f\u7528 C++ / Qt \u5f00\u53d1 | \u53ef\u62d3\u5c55\u63d2\u4ef6\u5f0f\u8bbe\u8ba1", "language": "C++", "repo": "Qv2ray", "new_stars": 464, "stars": 12202, "owner": "Qv2ray", "forks": 2136},
-{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 604, "stars": 14890, "owner": "SerenityOS", "forks": 1512},
+{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 609, "stars": 14893, "owner": "SerenityOS", "forks": 1512},
 {"description": "Fast PlayStation 1 emulator for PC and Android", "language": "C++", "repo": "duckstation", "new_stars": 247, "stars": 2311, "owner": "stenzek", "forks": 190},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 456, "stars": 26059, "owner": "nlohmann", "forks": 4476},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 456, "stars": 26060, "owner": "nlohmann", "forks": 4476},
 {"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 293, "stars": 50348, "owner": "pytorch", "forks": 13661},
-{"description": "Open standard for machine learning interoperability", "language": "C++", "repo": "onnx", "new_stars": 156, "stars": 11243, "owner": "onnx", "forks": 2086},
+{"description": "Open standard for machine learning interoperability", "language": "C++", "repo": "onnx", "new_stars": 157, "stars": 11244, "owner": "onnx", "forks": 2086},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 159, "stars": 31203, "owner": "ocornut", "forks": 5294},
 {"description": "Space exploration, trading, and combat game.", "language": "C++", "repo": "endless-sky", "new_stars": 264, "stars": 3164, "owner": "endless-sky", "forks": 697},
 {"description": "Ethereum miner with OpenCL, CUDA and stratum support", "language": "C++", "repo": "ethminer", "new_stars": 35, "stars": 5373, "owner": "ethereum-mining", "forks": 1945},
@@ -15,13 +15,13 @@
 {"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 382, "stars": 18522, "owner": "ClickHouse", "forks": 3644},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 403, "stars": 56515, "owner": "bitcoin", "forks": 29717},
 {"description": "Inject into zygote process", "language": "C++", "repo": "Riru", "new_stars": 37, "stars": 3030, "owner": "RikkaApps", "forks": 322},
-{"description": "Organic Maps is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe founders. No ads, no tracking, no data collection, no crapware.", "language": "C++", "repo": "organicmaps", "new_stars": 67, "stars": 2444, "owner": "organicmaps", "forks": 85},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 215, "stars": 50208, "owner": "protocolbuffers", "forks": 13133},
+{"description": "Organic Maps is an Android & iOS offline maps app for travelers, tourists, hikers, and cyclists based on top of crowd-sourced OpenStreetMap data and curated with love by MapsWithMe founders. No ads, no tracking, no data collection, no crapware.", "language": "C++", "repo": "organicmaps", "new_stars": 68, "stars": 2446, "owner": "organicmaps", "forks": 85},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 216, "stars": 50209, "owner": "protocolbuffers", "forks": 13133},
 {"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba", "language": "C++", "repo": "MNN", "new_stars": 33, "stars": 6003, "owner": "alibaba", "forks": 1214},
-{"description": "very currency", "language": "C++", "repo": "dogecoin", "new_stars": 91, "stars": 12613, "owner": "dogecoin", "forks": 2252},
+{"description": "very currency", "language": "C++", "repo": "dogecoin", "new_stars": 92, "stars": 12614, "owner": "dogecoin", "forks": 2252},
 {"description": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.", "language": "C++", "repo": "LeetCode", "new_stars": 29, "stars": 1595, "owner": "wisdompeak", "forks": 433},
 {"description": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077", "language": "C++", "repo": "CyberEngineTweaks", "new_stars": 31, "stars": 3590, "owner": "yamashi", "forks": 183},
 {"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 40, "stars": 5339, "owner": "IntelRealSense", "forks": 3803},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 335, "stars": 158545, "owner": "tensorflow", "forks": 85372},
-{"description": "Add FidelityFX SuperResolution to SteamVR games", "language": "C++", "repo": "openvr_fsr", "new_stars": 109, "stars": 672, "owner": "fholger", "forks": 22}
+{"description": "Add FidelityFX SuperResolution to SteamVR games", "language": "C++", "repo": "openvr_fsr", "new_stars": 110, "stars": 673, "owner": "fholger", "forks": 22}
 ]

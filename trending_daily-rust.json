@@ -1,9 +1,9 @@
 [
 {"description": "Apache Arrow DataFusion and Ballista query engines", "language": "Rust", "repo": "arrow-datafusion", "new_stars": 14, "stars": 822, "owner": "apache", "forks": 120},
-{"description": "Algorithms written in Rust", "language": "Rust", "repo": "algorithm", "new_stars": 207, "stars": 358, "owner": "douchuan", "forks": 28},
-{"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 8, "stars": 411, "owner": "solana-labs", "forks": 284},
-{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 19, "stars": 3999, "owner": "paritytech", "forks": 852},
-{"description": "SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.", "language": "Rust", "repo": "sixtyfps", "new_stars": 143, "stars": 1533, "owner": "sixtyfpsui", "forks": 52},
+{"description": "Algorithms written in Rust", "language": "Rust", "repo": "algorithm", "new_stars": 209, "stars": 360, "owner": "douchuan", "forks": 29},
+{"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 9, "stars": 412, "owner": "solana-labs", "forks": 284},
+{"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 18, "stars": 3999, "owner": "paritytech", "forks": 852},
+{"description": "SixtyFPS is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.", "language": "Rust", "repo": "sixtyfps", "new_stars": 144, "stars": 1534, "owner": "sixtyfpsui", "forks": 52},
 {"description": "Yet another remote desktop software", "language": "Rust", "repo": "rustdesk", "new_stars": 52, "stars": 11243, "owner": "rustdesk", "forks": 951},
 {"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 31, "stars": 1483, "owner": "tokio-rs", "forks": 72},
 {"description": "A high-performance, highly reliable, observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 14, "stars": 7821, "owner": "timberio", "forks": 587},
@@ -12,7 +12,7 @@
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 18, "stars": 5391, "owner": "extrawurst", "forks": 206},
 {"description": "Diem\u2019s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.", "language": "Rust", "repo": "diem", "new_stars": 3, "stars": 15961, "owner": "diem", "forks": 2439},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 33, "stars": 15337, "owner": "nushell", "forks": 693},
-{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 18, "stars": 5214, "owner": "seanmonstar", "forks": 489},
+{"description": "A super-easy, composable, web server framework for warp speeds.", "language": "Rust", "repo": "warp", "new_stars": 19, "stars": 5215, "owner": "seanmonstar", "forks": 490},
 {"description": "Strongly typed JSON library for Rust", "language": "Rust", "repo": "json", "new_stars": 8, "stars": 2326, "owner": "serde-rs", "forks": 330},
 {"description": "Standalone JIT-style runtime for WebAssembly, using Cranelift", "language": "Rust", "repo": "wasmtime", "new_stars": 13, "stars": 5812, "owner": "bytecodealliance", "forks": 509},
 {"description": "Discover the world of microcontrollers through Rust!", "language": "Rust", "repo": "discovery", "new_stars": 7, "stars": 897, "owner": "rust-embedded", "forks": 267},
@@ -22,6 +22,6 @@
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 6, "stars": 1609, "owner": "tokio-rs", "forks": 263},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 24, "stars": 15926, "owner": "firecracker-microvm", "forks": 1097},
 {"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 27, "stars": 14297, "owner": "ogham", "forks": 423},
-{"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 18, "stars": 6467, "owner": "pingcap", "forks": 844},
+{"description": "open source training courses about distributed database and distributed systemes", "language": "Rust", "repo": "talent-plan", "new_stars": 19, "stars": 6468, "owner": "pingcap", "forks": 844},
 {"description": "Private payments for mobile devices.", "language": "Rust", "repo": "mobilecoin", "new_stars": 2, "stars": 956, "owner": "mobilecoinfoundation", "forks": 93}
 ]

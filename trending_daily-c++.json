@@ -1,15 +1,15 @@
 [
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 101, "stars": 19548, "owner": "facebook", "forks": 4239},
-{"description": "12 Weeks, 24 Lessons, IoT for All!", "language": "C++", "repo": "IoT-For-Beginners", "new_stars": 128, "stars": 7471, "owner": "microsoft", "forks": 704},
+{"description": "12 Weeks, 24 Lessons, IoT for All!", "language": "C++", "repo": "IoT-For-Beginners", "new_stars": 152, "stars": 7475, "owner": "microsoft", "forks": 704},
 {"description": "libco is a coroutine library which is widely used in wechat back-end service. It has been running on tens of thousands of machines since 2013.", "language": "C++", "repo": "libco", "new_stars": 2, "stars": 6526, "owner": "Tencent", "forks": 1781},
 {"description": "Parsing gigabytes of JSON per second", "language": "C++", "repo": "simdjson", "new_stars": 17, "stars": 13725, "owner": "simdjson", "forks": 713},
-{"description": "Solidity, the Smart Contract Programming Language", "language": "C++", "repo": "solidity", "new_stars": 13, "stars": 11684, "owner": "ethereum", "forks": 3002},
+{"description": "Solidity, the Smart Contract Programming Language", "language": "C++", "repo": "solidity", "new_stars": 7, "stars": 11684, "owner": "ethereum", "forks": 3002},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 3, "stars": 5931, "owner": "cameron314", "forks": 1216},
-{"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u3001mnn\u3001tnn\u63a8\u7406 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) \u603b\u6a21\u578b\u4ec54.7M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 18, "stars": 7204, "owner": "DayBreak-u", "forks": 1520},
-{"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 14, "stars": 14118, "owner": "flameshot-org", "forks": 877},
-{"description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2", "language": "C++", "repo": "filament", "new_stars": 13, "stars": 11592, "owner": "google", "forks": 1071},
-{"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 4, "stars": 2096, "owner": "Neargye", "forks": 176},
-{"description": "A framework for building native Windows apps with React.", "language": "C++", "repo": "react-native-windows", "new_stars": 10, "stars": 13896, "owner": "microsoft", "forks": 1034},
+{"description": "\u8d85\u8f7b\u91cf\u7ea7\u4e2d\u6587ocr\uff0c\u652f\u6301\u7ad6\u6392\u6587\u5b57\u8bc6\u522b, \u652f\u6301ncnn\u3001mnn\u3001tnn\u63a8\u7406 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) \u603b\u6a21\u578b\u4ec54.7M", "language": "C++", "repo": "chineseocr_lite", "new_stars": 17, "stars": 7204, "owner": "DayBreak-u", "forks": 1520},
+{"description": "Powerful yet simple to use screenshot software", "language": "C++", "repo": "flameshot", "new_stars": 13, "stars": 14117, "owner": "flameshot-org", "forks": 877},
+{"description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2", "language": "C++", "repo": "filament", "new_stars": 15, "stars": 11592, "owner": "google", "forks": 1071},
+{"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 5, "stars": 2096, "owner": "Neargye", "forks": 176},
+{"description": "A framework for building native Windows apps with React.", "language": "C++", "repo": "react-native-windows", "new_stars": 10, "stars": 13897, "owner": "microsoft", "forks": 1034},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 8, "stars": 4485, "owner": "ZLMediaKit", "forks": 1251},
 {"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 30, "stars": 14519, "owner": "Light-City", "forks": 3488},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 0, "stars": 6023, "owner": "google", "forks": 887},
@@ -23,5 +23,5 @@
 {"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 1, "stars": 10670, "owner": "apple", "forks": 978},
 {"description": "SRS is a simple, high efficiency and realtime video server, supports RTMP/WebRTC/HLS/HTTP-FLV/SRT/GB28181.", "language": "C++", "repo": "srs", "new_stars": 5, "stars": 15442, "owner": "ossrs", "forks": 4015},
 {"description": "The Kalibr visual-inertial calibration toolbox", "language": "C++", "repo": "kalibr", "new_stars": 0, "stars": 2226, "owner": "ethz-asl", "forks": 919},
-{"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 5, "stars": 5301, "owner": "mamedev", "forks": 1377}
+{"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 4, "stars": 5301, "owner": "mamedev", "forks": 1377}
 ]

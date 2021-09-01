@@ -1,7 +1,7 @@
 [
-{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 92, "stars": 3385, "owner": "solana-labs", "forks": 668},
-{"description": "The Metaplex protocol", "language": "Rust", "repo": "metaplex", "new_stars": 95, "stars": 477, "owner": "metaplex-foundation", "forks": 790},
-{"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 12, "stars": 468, "owner": "solana-labs", "forks": 301},
+{"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 97, "stars": 3393, "owner": "solana-labs", "forks": 668},
+{"description": "The Metaplex protocol", "language": "Rust", "repo": "metaplex", "new_stars": 96, "stars": 480, "owner": "metaplex-foundation", "forks": 796},
+{"description": "A collection of Solana-maintained on-chain programs", "language": "Rust", "repo": "solana-program-library", "new_stars": 12, "stars": 469, "owner": "solana-labs", "forks": 301},
 {"description": "Safe and portable GPU abstraction in Rust, implementing WebGPU API.", "language": "Rust", "repo": "wgpu", "new_stars": 11, "stars": 2532, "owner": "gfx-rs", "forks": 235},
 {"description": "Learn to write Rust procedural macros\u2003\u2003[Rust Latam conference, Montevideo Uruguay, March 2019]", "language": "Rust", "repo": "proc-macro-workshop", "new_stars": 2, "stars": 1328, "owner": "dtolnay", "forks": 335},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 12, "stars": 4076, "owner": "paritytech", "forks": 856},
@@ -15,13 +15,13 @@
 {"description": "Reference client for NEAR Protocol", "language": "Rust", "repo": "nearcore", "new_stars": 2, "stars": 971, "owner": "near", "forks": 150},
 {"description": "A high-performance, highly reliable, observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 8, "stars": 7893, "owner": "timberio", "forks": 598},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 9, "stars": 2836, "owner": "rustls", "forks": 287},
-{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 13, "stars": 6462, "owner": "clap-rs", "forks": 585},
+{"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 14, "stars": 6463, "owner": "clap-rs", "forks": 585},
 {"description": "WebAssembly System Interface", "language": "Rust", "repo": "WASI", "new_stars": 3, "stars": 2102, "owner": "WebAssembly", "forks": 141},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 18, "stars": 10674, "owner": "dani-garcia", "forks": 604},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 5, "stars": 8910, "owner": "uutils", "forks": 705},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 11, "stars": 7265, "owner": "benfred", "forks": 268},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 19, "stars": 10675, "owner": "dani-garcia", "forks": 604},
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 4, "stars": 8910, "owner": "uutils", "forks": 705},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 9, "stars": 7265, "owner": "benfred", "forks": 268},
 {"description": "An easy and powerful Rust HTTP Client", "language": "Rust", "repo": "reqwest", "new_stars": 10, "stars": 4486, "owner": "seanmonstar", "forks": 542},
-{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 7, "stars": 4784, "owner": "huggingface", "forks": 378},
+{"description": "Fast State-of-the-Art Tokenizers optimized for Research and Production", "language": "Rust", "repo": "tokenizers", "new_stars": 9, "stars": 4786, "owner": "huggingface", "forks": 378},
 {"description": "Acala - cross-chain DeFi hub and stablecoin based on Substrate for Polkadot and Kusama.", "language": "Rust", "repo": "Acala", "new_stars": 1, "stars": 451, "owner": "AcalaNetwork", "forks": 126},
-{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 17, "stars": 4525, "owner": "launchbadge", "forks": 438}
+{"description": "The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 16, "stars": 4525, "owner": "launchbadge", "forks": 438}
 ]

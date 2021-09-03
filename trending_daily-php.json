@@ -1,10 +1,10 @@
 [
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 285, "stars": 16700, "owner": "nextcloud", "forks": 2719},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 280, "stars": 16714, "owner": "nextcloud", "forks": 2720},
 {"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 12, "stars": 24751, "owner": "laravel", "forks": 8421},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 9, "stars": 9708, "owner": "spatie", "forks": 1462},
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 3, "stars": 26045, "owner": "fzaninotto", "forks": 3187},
 {"description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS", "language": "PHP", "repo": "grav", "new_stars": 6, "stars": 12890, "owner": "getgrav", "forks": 1324},
-{"description": "Adds static analysis to Laravel improving developer productivity and code quality.", "language": "PHP", "repo": "larastan", "new_stars": 6, "stars": 2982, "owner": "nunomaduro", "forks": 204},
+{"description": "Adds static analysis to Laravel improving developer productivity and code quality.", "language": "PHP", "repo": "larastan", "new_stars": 7, "stars": 2983, "owner": "nunomaduro", "forks": 204},
 {"description": "PHP Image Manipulation", "language": "PHP", "repo": "image", "new_stars": 5, "stars": 12098, "owner": "Intervention", "forks": 1367},
 {"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 1, "stars": 11645, "owner": "barryvdh", "forks": 1008},
 {"description": "A", "language": "PHP", "repo": "platform", "new_stars": 12, "stars": 2409, "owner": "orchidsoftware", "forks": 399},
@@ -12,8 +12,8 @@
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 2, "stars": 4769, "owner": "barryvdh", "forks": 748},
 {"description": "A php swagger annotation and parsing library", "language": "PHP", "repo": "swagger-php", "new_stars": 2, "stars": 4169, "owner": "zircote", "forks": 781},
 {"description": "\u95ea\u5ba2\u670d", "language": "PHP", "repo": "src", "new_stars": 3, "stars": 42, "owner": "kefu-chat", "forks": 22},
-{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 0, "stars": 10127, "owner": "phpstan", "forks": 723},
-{"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 1, "stars": 5270, "owner": "snipe", "forks": 1917},
+{"description": "PHP Static Analysis Tool - discover bugs in your code without running it!", "language": "PHP", "repo": "phpstan", "new_stars": 1, "stars": 10128, "owner": "phpstan", "forks": 723},
+{"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 1, "stars": 5270, "owner": "snipe", "forks": 1918},
 {"description": "Enable AMP on your WordPress site, the WordPress way.", "language": "PHP", "repo": "amp-wp", "new_stars": 0, "stars": 1681, "owner": "ampproject", "forks": 379},
 {"description": "Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 3, "stars": 10145, "owner": "Maatwebsite", "forks": 1606},
 {"description": "\u82f9\u679ccms\u5b98\u7f51,\u82f9\u679ccmsv10,maccmsv10,\u9ea6\u514bcms,\u5f00\u6e90cms,\u5185\u5bb9\u7ba1\u7406\u7cfb\u7edf,\u89c6\u9891\u5206\u4eab\u7a0b\u5e8f,\u5206\u96c6\u5267\u60c5\u7a0b\u5e8f,\u7f51\u5740\u5bfc\u822a\u7a0b\u5e8f,\u6587\u7ae0\u7a0b\u5e8f,\u6f2b\u753b\u7a0b\u5e8f,\u56fe\u7247\u7a0b\u5e8f", "language": "PHP", "repo": "maccms10", "new_stars": 3, "stars": 1037, "owner": "magicblack", "forks": 456},
@@ -21,7 +21,7 @@
 {"description": "Personal CRM. Remember everything about your friends, family and business relationships.", "language": "PHP", "repo": "monica", "new_stars": 13, "stars": 13261, "owner": "monicahq", "forks": 1490},
 {"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 8, "stars": 13084, "owner": "barryvdh", "forks": 1259},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 1, "stars": 8244, "owner": "doctrine", "forks": 1140},
-{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 3, "stars": 8792, "owner": "squizlabs", "forks": 1375},
-{"description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.", "language": "PHP", "repo": "elementor", "new_stars": 8, "stars": 4008, "owner": "elementor", "forks": 990},
+{"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 4, "stars": 8793, "owner": "squizlabs", "forks": 1375},
+{"description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.", "language": "PHP", "repo": "elementor", "new_stars": 8, "stars": 4008, "owner": "elementor", "forks": 991},
 {"description": "A package to backup your Laravel app", "language": "PHP", "repo": "laravel-backup", "new_stars": 3, "stars": 4608, "owner": "spatie", "forks": 653}
 ]

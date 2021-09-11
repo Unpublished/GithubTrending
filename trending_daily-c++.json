@@ -1,18 +1,18 @@
 [
-{"description": "A Python library for adding effects to audio.", "language": "C++", "repo": "pedalboard", "new_stars": 464, "stars": 1551, "owner": "spotify", "forks": 38},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 60, "stars": 50603, "owner": "protocolbuffers", "forks": 13206},
-{"description": "Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.", "language": "C++", "repo": "Khepri", "new_stars": 265, "stars": 935, "owner": "geemion", "forks": 108},
+{"description": "A Python library for adding effects to audio.", "language": "C++", "repo": "pedalboard", "new_stars": 474, "stars": 1563, "owner": "spotify", "forks": 38},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 60, "stars": 50605, "owner": "protocolbuffers", "forks": 13206},
+{"description": "Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.", "language": "C++", "repo": "Khepri", "new_stars": 265, "stars": 939, "owner": "geemion", "forks": 108},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 48, "stars": 9203, "owner": "abseil", "forks": 1702},
 {"description": "C++ implementation of the Google logging module", "language": "C++", "repo": "glog", "new_stars": 0, "stars": 4727, "owner": "google", "forks": 1717},
-{"description": "StarRocks is a next-gen sub-second MPP database for full analysis senarios, including multi-dimensional analytics, real-time analytics and ad-hoc query, formerly known as DorisDB.", "language": "C++", "repo": "starrocks", "new_stars": 49, "stars": 1054, "owner": "StarRocks", "forks": 217},
-{"description": "C++ Parallel Computing and Asynchronous Networking Engine", "language": "C++", "repo": "workflow", "new_stars": 14, "stars": 5462, "owner": "sogou", "forks": 1027},
+{"description": "StarRocks is a next-gen sub-second MPP database for full analysis scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.", "language": "C++", "repo": "starrocks", "new_stars": 49, "stars": 1055, "owner": "StarRocks", "forks": 219},
+{"description": "C++ Parallel Computing and Asynchronous Networking Engine", "language": "C++", "repo": "workflow", "new_stars": 14, "stars": 5460, "owner": "sogou", "forks": 1027},
 {"description": "Apache Thrift", "language": "C++", "repo": "thrift", "new_stars": 3, "stars": 8629, "owner": "apache", "forks": 3679},
 {"description": "C++ frame profiler", "language": "C++", "repo": "tracy", "new_stars": 9, "stars": 2709, "owner": "wolfpld", "forks": 188},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 7, "stars": 19168, "owner": "ApolloAuto", "forks": 7623},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 13, "stars": 57198, "owner": "apple", "forks": 9181},
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 12, "stars": 57198, "owner": "apple", "forks": 9181},
 {"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 13, "stars": 56913, "owner": "bitcoin", "forks": 29864},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 11, "stars": 31766, "owner": "grpc", "forks": 8312},
-{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 6, "stars": 4795, "owner": "PX4", "forks": 11232},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 10, "stars": 31766, "owner": "grpc", "forks": 8312},
+{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 6, "stars": 4796, "owner": "PX4", "forks": 11232},
 {"description": "PC\u7248\u5fae\u4fe1\u673a\u5668\u4eba", "language": "C++", "repo": "WeChatRobot", "new_stars": 4, "stars": 3897, "owner": "TonyChen56", "forks": 1612},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 12, "stars": 23703, "owner": "google", "forks": 7836},
 {"description": "Open standard for machine learning interoperability", "language": "C++", "repo": "onnx", "new_stars": 6, "stars": 11349, "owner": "onnx", "forks": 2111},
@@ -23,5 +23,5 @@
 {"description": "Implementation of popular deep learning networks with TensorRT network definition API", "language": "C++", "repo": "tensorrtx", "new_stars": 10, "stars": 2913, "owner": "wang-xinyu", "forks": 808},
 {"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 9, "stars": 6128, "owner": "TheCherno", "forks": 908},
 {"description": "Multi-platform high performance deep learning inference engine (\u300e\u98de\u6868\u300f\u591a\u5e73\u53f0\u9ad8\u6027\u80fd\u6df1\u5ea6\u5b66\u4e60\u9884\u6d4b\u5f15\u64ce\uff09", "language": "C++", "repo": "Paddle-Lite", "new_stars": 4, "stars": 5701, "owner": "PaddlePaddle", "forks": 1324},
-{"description": "Parallel programming for everyone.", "language": "C++", "repo": "taichi", "new_stars": 11, "stars": 15431, "owner": "taichi-dev", "forks": 1633}
+{"description": "Parallel programming for everyone.", "language": "C++", "repo": "taichi", "new_stars": 11, "stars": 15432, "owner": "taichi-dev", "forks": 1633}
 ]

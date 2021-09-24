@@ -1,10 +1,10 @@
 [
-{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 2219, "stars": 16956, "owner": "nextcloud", "forks": 2740},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 663, "stars": 33681, "owner": "danielmiessler", "forks": 17526},
-{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 138, "stars": 15471, "owner": "WordPress", "forks": 10275},
+{"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 2218, "stars": 16956, "owner": "nextcloud", "forks": 2740},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 661, "stars": 33681, "owner": "danielmiessler", "forks": 17527},
+{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 138, "stars": 15471, "owner": "WordPress", "forks": 10276},
 {"description": "PrestaShop is an Open Source e-commerce platform, committed to providing the best shopping cart experience for both merchants and customers.", "language": "PHP", "repo": "PrestaShop", "new_stars": 55, "stars": 6078, "owner": "PrestaShop", "forks": 4195},
 {"description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 122, "stars": 4441, "owner": "rectorphp", "forks": 407},
-{"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 67, "stars": 7681, "owner": "googleapis", "forks": 3317},
+{"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 67, "stars": 7681, "owner": "googleapis", "forks": 3318},
 {"description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.", "language": "PHP", "repo": "laravel-crm", "new_stars": 383, "stars": 615, "owner": "krayin", "forks": 85},
 {"description": "PHP Secure Communications Library", "language": "PHP", "repo": "phpseclib", "new_stars": 73, "stars": 4566, "owner": "phpseclib", "forks": 760},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 68, "stars": 8823, "owner": "squizlabs", "forks": 1382},
@@ -13,7 +13,7 @@
 {"description": "sample code for several design patterns in PHP 8", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 152, "stars": 19958, "owner": "DesignPatternsPHP", "forks": 4301},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 152, "stars": 9786, "owner": "spatie", "forks": 1473},
 {"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 247, "stars": 24907, "owner": "laravel", "forks": 8477},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 160, "stars": 25798, "owner": "symfony", "forks": 8294},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 161, "stars": 25799, "owner": "symfony", "forks": 8294},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 73, "stars": 4372, "owner": "vimeo", "forks": 448},
 {"description": "An Application dashboard and launcher", "language": "PHP", "repo": "Heimdall", "new_stars": 96, "stars": 3226, "owner": "linuxserver", "forks": 290},
 {"description": "Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.", "language": "PHP", "repo": "zabbix", "new_stars": 68, "stars": 1776, "owner": "zabbix", "forks": 558},
@@ -22,6 +22,6 @@
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 87, "stars": 17882, "owner": "sebastianbergmann", "forks": 2039},
 {"description": "A PHP Blogging Platform. Simple and Powerful.", "language": "PHP", "repo": "typecho", "new_stars": 128, "stars": 8191, "owner": "typecho", "forks": 1659},
 {"description": "Wave - The Software as a Service Starter Kit, designed to help you build the SAAS of your dreams", "language": "PHP", "repo": "wave", "new_stars": 130, "stars": 3091, "owner": "thedevdojo", "forks": 265},
-{"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 84, "stars": 8203, "owner": "dompdf", "forks": 1544},
-{"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 62, "stars": 8724, "owner": "deployphp", "forks": 1281}
+{"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 85, "stars": 8204, "owner": "dompdf", "forks": 1544},
+{"description": "A deployment tool written in PHP with support for popular frameworks out of the box", "language": "PHP", "repo": "deployer", "new_stars": 61, "stars": 8724, "owner": "deployphp", "forks": 1281}
 ]

@@ -1,13 +1,13 @@
 [
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 5, "stars": 21926, "owner": "heartcombo", "forks": 5302},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 1, "stars": 7388, "owner": "varvet", "forks": 567},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 7, "stars": 49124, "owner": "rails", "forks": 19713},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 7, "stars": 49124, "owner": "rails", "forks": 19714},
 {"description": "Open Source modular headless multi-language/multi-currency/multi-store e-commerce platform", "language": "Ruby", "repo": "spree", "new_stars": 1, "stars": 11441, "owner": "spree", "forks": 4793},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 4, "stars": 18486, "owner": "ruby", "forks": 4898},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 2, "stars": 9055, "owner": "activeadmin", "forks": 3228},
 {"description": "For empowering community", "language": "Ruby", "repo": "forem", "new_stars": 5, "stars": 17457, "owner": "forem", "forks": 3063},
 {"description": "The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 2139, "owner": "dependabot", "forks": 532},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 7, "stars": 34154, "owner": "discourse", "forks": 7386},
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 9, "stars": 34156, "owner": "discourse", "forks": 7387},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 4, "stars": 11492, "owner": "rubocop", "forks": 2775},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 2, "stars": 10597, "owner": "fluent", "forks": 1209},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 1, "stars": 2880, "owner": "elastic", "forks": 735},
@@ -20,8 +20,8 @@
 {"description": "A runtime developer console and IRB alternative with powerful introspection capabilities.", "language": "Ruby", "repo": "pry", "new_stars": 3, "stars": 6296, "owner": "pry", "forks": 586},
 {"description": "ISO 3166-1 country lists merged with their UN Geoscheme regional codes in ready-to-use JSON, XML, CSV data sets", "language": "Ruby", "repo": "ISO-3166-Countries-with-Regional-Codes", "new_stars": 1, "stars": 1480, "owner": "lukes", "forks": 2531},
 {"description": "Easy file attachment management for ActiveRecord", "language": "Ruby", "repo": "paperclip", "new_stars": 0, "stars": 9070, "owner": "thoughtbot", "forks": 2342},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 7, "stars": 43379, "owner": "jekyll", "forks": 9526},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 32963, "owner": "fastlane", "forks": 4983},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 5, "stars": 43378, "owner": "jekyll", "forks": 9526},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 4, "stars": 32963, "owner": "fastlane", "forks": 4982},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 2, "stars": 3864, "owner": "luggit", "forks": 576},
 {"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 2, "stars": 11413, "owner": "sinatra", "forks": 2032}
 ]

@@ -1,9 +1,9 @@
 [
 {"description": "Security, performance, marketing, and design tools \u2014 Jetpack is made by WordPress experts to make WP sites safer and faster, and help you grow your traffic.", "language": "PHP", "repo": "jetpack", "new_stars": 0, "stars": 1342, "owner": "Automattic", "forks": 747},
 {"description": "PHP Database Migrations for Everyone", "language": "PHP", "repo": "phinx", "new_stars": 1, "stars": 4213, "owner": "cakephp", "forks": 887},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 4, "stars": 25844, "owner": "symfony", "forks": 8323},
-{"description": "Advanced Laravel models filtering capabilities", "language": "PHP", "repo": "laravel-eloquent-filters", "new_stars": 12, "stars": 71, "owner": "pricecurrent", "forks": 7},
-{"description": "Pwn stuff.", "language": "PHP", "repo": "exploits", "new_stars": 34, "stars": 1188, "owner": "mm0r1", "forks": 303},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 3, "stars": 25844, "owner": "symfony", "forks": 8323},
+{"description": "Advanced Laravel models filtering capabilities", "language": "PHP", "repo": "laravel-eloquent-filters", "new_stars": 8, "stars": 72, "owner": "pricecurrent", "forks": 7},
+{"description": "Pwn stuff.", "language": "PHP", "repo": "exploits", "new_stars": 31, "stars": 1188, "owner": "mm0r1", "forks": 303},
 {"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the", "language": "PHP", "repo": "drupal", "new_stars": 0, "stars": 3609, "owner": "drupal", "forks": 1800},
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 0, "stars": 3836, "owner": "moodle", "forks": 5198},
 {"description": "The Drupal CLI. A tool to generate boilerplate code, interact with and debug Drupal.", "language": "PHP", "repo": "drupal-console", "new_stars": 0, "stars": 922, "owner": "hechoendrupal", "forks": 560},
@@ -15,7 +15,7 @@
 {"description": "Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.", "language": "PHP", "repo": "drush", "new_stars": 0, "stars": 2197, "owner": "drush-ops", "forks": 1041},
 {"description": "EC-CUBE is the most popular e-commerce solution in Japan", "language": "PHP", "repo": "ec-cube", "new_stars": 0, "stars": 617, "owner": "EC-CUBE", "forks": 570},
 {"description": "TYPO3 Extension news", "language": "PHP", "repo": "news", "new_stars": 2, "stars": 202, "owner": "georgringer", "forks": 273},
-{"description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)", "language": "PHP", "repo": "MISP", "new_stars": 0, "stars": 3371, "owner": "MISP", "forks": 1046},
+{"description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform (formely known as Malware Information Sharing Platform)", "language": "PHP", "repo": "MISP", "new_stars": 1, "stars": 3372, "owner": "MISP", "forks": 1047},
 {"description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 3, "stars": 4468, "owner": "rectorphp", "forks": 416},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 5, "stars": 8857, "owner": "squizlabs", "forks": 1386},
 {"description": "FreeScout \u2014 Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)", "language": "PHP", "repo": "freescout", "new_stars": 0, "stars": 1218, "owner": "freescout-helpdesk", "forks": 214},
@@ -23,5 +23,5 @@
 {"description": "PHP Compatibility check for PHP_CodeSniffer", "language": "PHP", "repo": "PHPCompatibility", "new_stars": 9, "stars": 1654, "owner": "PHPCompatibility", "forks": 153},
 {"description": "PHP Email address validator", "language": "PHP", "repo": "EmailValidator", "new_stars": 3, "stars": 10308, "owner": "egulias", "forks": 147},
 {"description": "Twig, the flexible, fast, and secure template language for PHP", "language": "PHP", "repo": "Twig", "new_stars": 2, "stars": 7307, "owner": "twigphp", "forks": 1140},
-{"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 3, "stars": 5351, "owner": "snipe", "forks": 1943}
+{"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 2, "stars": 5351, "owner": "snipe", "forks": 1944}
 ]

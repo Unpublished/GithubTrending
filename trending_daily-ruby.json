@@ -1,16 +1,16 @@
 [
-{"description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp", "language": "Ruby", "repo": "setup", "new_stars": 58, "stars": 11406, "owner": "lewagon", "forks": 969},
+{"description": "Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp", "language": "Ruby", "repo": "setup", "new_stars": 47, "stars": 11406, "owner": "lewagon", "forks": 969},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 7, "stars": 33039, "owner": "fastlane", "forks": 4999},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11269, "owner": "mperham", "forks": 2006},
-{"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 19, "stars": 10870, "owner": "postalserver", "forks": 769},
+{"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 19, "stars": 10870, "owner": "postalserver", "forks": 768},
 {"description": "Open Source modular headless multi-language/multi-currency/multi-store e-commerce platform", "language": "Ruby", "repo": "spree", "new_stars": 1, "stars": 11461, "owner": "spree", "forks": 4799},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 9, "stars": 32409, "owner": "huginn", "forks": 3080},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 1, "stars": 13412, "owner": "CocoaPods", "forks": 2470},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 8, "stars": 32409, "owner": "huginn", "forks": 3080},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 13413, "owner": "CocoaPods", "forks": 2470},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 4, "stars": 5213, "owner": "opf", "forks": 1498},
 {"description": "Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.", "language": "Ruby", "repo": "casa", "new_stars": 1, "stars": 117, "owner": "rubyforgood", "forks": 185},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 3, "stars": 21952, "owner": "heartcombo", "forks": 5308},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 10634, "owner": "fluent", "forks": 1213},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 12, "stars": 43450, "owner": "jekyll", "forks": 9542},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 13, "stars": 43451, "owner": "jekyll", "forks": 9542},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 2, "stars": 4134, "owner": "instructure", "forks": 1780},
 {"description": "A project serving Community Education Partnerships -", "language": "Ruby", "repo": "inkind-admin", "new_stars": 0, "stars": 2, "owner": "rubyforgood", "forks": 13},
 {"description": "A Really Ruby Mail Library", "language": "Ruby", "repo": "mail", "new_stars": 0, "stars": 3374, "owner": "mikel", "forks": 868},
@@ -19,9 +19,9 @@
 {"description": "RSpec's 'test double' framework, with support for stubbing and mocking", "language": "Ruby", "repo": "rspec-mocks", "new_stars": 1, "stars": 1044, "owner": "rspec", "forks": 310},
 {"description": "The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot", "language": "Ruby", "repo": "dependabot-core", "new_stars": 0, "stars": 2155, "owner": "dependabot", "forks": 536},
 {"description": "RSpec for Rails 5+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 0, "stars": 4626, "owner": "rspec", "forks": 925},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 5, "stars": 49207, "owner": "rails", "forks": 19758},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 4, "stars": 49207, "owner": "rails", "forks": 19760},
 {"description": "A curated list of awesome awesomeness", "language": "Ruby", "repo": "awesome-awesomeness", "new_stars": 22, "stars": 28099, "owner": "bayandin", "forks": 3431},
 {"description": "SAML SSO for Ruby", "language": "Ruby", "repo": "ruby-saml", "new_stars": 1, "stars": 774, "owner": "onelogin", "forks": 535},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5132, "owner": "rails-api", "forks": 1373},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 10, "stars": 22725, "owner": "hashicorp", "forks": 4147}
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 9, "stars": 22725, "owner": "hashicorp", "forks": 4147}
 ]

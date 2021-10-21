@@ -1,6 +1,6 @@
 [
 {"description": "The Windows App SDK empowers all Windows Desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.", "language": "C++", "repo": "WindowsAppSDK", "new_stars": 10, "stars": 2397, "owner": "microsoft", "forks": 145},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 15, "stars": 24006, "owner": "google", "forks": 7909},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 15, "stars": 24007, "owner": "google", "forks": 7909},
 {"description": "GalaxyEngine is a MySQL branch originated from Alibaba Group, especially supports large-scale distributed database system.", "language": "C++", "repo": "galaxyengine", "new_stars": 13, "stars": 97, "owner": "ApsaraDB", "forks": 25},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 20, "stars": 57396, "owner": "opencv", "forks": 48525},
 {"description": "Point Cloud Library (PCL)", "language": "C++", "repo": "pcl", "new_stars": 10, "stars": 6696, "owner": "PointCloudLibrary", "forks": 4007},
@@ -10,18 +10,18 @@
 {"description": "Open standard for machine learning interoperability", "language": "C++", "repo": "onnx", "new_stars": 5, "stars": 11559, "owner": "onnx", "forks": 2167},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 12, "stars": 3494, "owner": "oceanbase", "forks": 767},
 {"description": "Unsupervised text tokenizer for Neural Network-based text generation.", "language": "C++", "repo": "sentencepiece", "new_stars": 2, "stars": 5413, "owner": "google", "forks": 749},
-{"description": "Instant Kubernetes-Native Application Observability", "language": "C++", "repo": "pixie", "new_stars": 59, "stars": 2011, "owner": "pixie-io", "forks": 98},
+{"description": "Instant Kubernetes-Native Application Observability", "language": "C++", "repo": "pixie", "new_stars": 61, "stars": 2013, "owner": "pixie-io", "forks": 98},
 {"description": "OpenVINO\u2122 Toolkit repository", "language": "C++", "repo": "openvino", "new_stars": 1, "stars": 2547, "owner": "openvinotoolkit", "forks": 1100},
 {"description": "C++ implementation of the Google logging module", "language": "C++", "repo": "glog", "new_stars": 9, "stars": 4865, "owner": "google", "forks": 1744},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 13, "stars": 32168, "owner": "grpc", "forks": 8432},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 13, "stars": 32169, "owner": "grpc", "forks": 8432},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181 server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 6, "stars": 4814, "owner": "ZLMediaKit", "forks": 1345},
 {"description": "Immediate Mode Plotting", "language": "C++", "repo": "implot", "new_stars": 2, "stars": 1905, "owner": "epezent", "forks": 160},
 {"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba", "language": "C++", "repo": "MNN", "new_stars": 3, "stars": 6155, "owner": "alibaba", "forks": 1255},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 22, "stars": 51270, "owner": "protocolbuffers", "forks": 13336},
-{"description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.", "language": "C++", "repo": "server", "new_stars": 4, "stars": 2755, "owner": "triton-inference-server", "forks": 658},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 10, "stars": 12855, "owner": "gabime", "forks": 2729},
+{"description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.", "language": "C++", "repo": "server", "new_stars": 3, "stars": 2755, "owner": "triton-inference-server", "forks": 658},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 9, "stars": 12854, "owner": "gabime", "forks": 2729},
 {"description": "Stepper motor with multi-function interface and closed loop function. \u5177\u6709\u591a\u529f\u80fd\u63a5\u53e3\u548c\u95ed\u73af\u529f\u80fd\u7684\u6b65\u8fdb\u7535\u673a\u3002", "language": "C++", "repo": "XDrive", "new_stars": 13, "stars": 314, "owner": "unlir", "forks": 146},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 6, "stars": 6108, "owner": "cameron314", "forks": 1249},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 43, "stars": 77951, "owner": "microsoft", "forks": 6953},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 26, "stars": 27093, "owner": "nlohmann", "forks": 4598}
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 44, "stars": 77952, "owner": "microsoft", "forks": 6953},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 26, "stars": 27095, "owner": "nlohmann", "forks": 4599}
 ]

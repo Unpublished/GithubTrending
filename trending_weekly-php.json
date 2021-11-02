@@ -1,13 +1,13 @@
 [
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 135, "stars": 34411, "owner": "danielmiessler", "forks": 17886},
-{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 18, "stars": 7369, "owner": "woocommerce", "forks": 9733},
-{"description": "Adds static analysis to Laravel improving developer productivity and code quality.", "language": "PHP", "repo": "larastan", "new_stars": 59, "stars": 3182, "owner": "nunomaduro", "forks": 223},
-{"description": "A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.", "language": "PHP", "repo": "hyperf", "new_stars": 19, "stars": 4095, "owner": "hyperf", "forks": 822},
-{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 33, "stars": 2883, "owner": "pterodactyl", "forks": 776},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 134, "stars": 34411, "owner": "danielmiessler", "forks": 17887},
+{"description": "An open source eCommerce plugin for WordPress.", "language": "PHP", "repo": "woocommerce", "new_stars": 18, "stars": 7369, "owner": "woocommerce", "forks": 9732},
+{"description": "Adds static analysis to Laravel improving developer productivity and code quality.", "language": "PHP", "repo": "larastan", "new_stars": 60, "stars": 3184, "owner": "nunomaduro", "forks": 223},
+{"description": "A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.", "language": "PHP", "repo": "hyperf", "new_stars": 20, "stars": 4096, "owner": "hyperf", "forks": 822},
+{"description": "Pterodactyl is an open-source game server management panel built with PHP 7, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 32, "stars": 2883, "owner": "pterodactyl", "forks": 776},
 {"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 15, "stars": 7748, "owner": "googleapis", "forks": 3333},
 {"description": "A PHP Blogging Platform. Simple and Powerful.", "language": "PHP", "repo": "typecho", "new_stars": 28, "stars": 8282, "owner": "typecho", "forks": 1680},
 {"description": "PanDownload\u7f51\u9875\u590d\u523b\u7248", "language": "PHP", "repo": "baiduwp-php", "new_stars": 38, "stars": 2319, "owner": "yuantuo666", "forks": 819},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 35, "stars": 25939, "owner": "symfony", "forks": 8388},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 36, "stars": 25940, "owner": "symfony", "forks": 8388},
 {"description": "It counts how many times your GitHub profile has been viewed. Free cloud micro-service.", "language": "PHP", "repo": "github-profile-views-counter", "new_stars": 27, "stars": 1334, "owner": "antonkomarev", "forks": 130},
 {"description": "Community-based GPL-licensed network monitoring system", "language": "PHP", "repo": "librenms", "new_stars": 12, "stars": 2516, "owner": "librenms", "forks": 1746},
 {"description": "A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect", "language": "PHP", "repo": "agent", "new_stars": 16, "stars": 3839, "owner": "jenssegers", "forks": 381},
@@ -20,8 +20,8 @@
 {"description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.", "language": "PHP", "repo": "elementor", "new_stars": 24, "stars": 4126, "owner": "elementor", "forks": 1017},
 {"description": "Official PHP low-level client for Elasticsearch.", "language": "PHP", "repo": "elasticsearch-php", "new_stars": 6, "stars": 4698, "owner": "elastic", "forks": 894},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 82, "stars": 17254, "owner": "nextcloud", "forks": 2816},
-{"description": "A PHP framework for web artisans.", "language": "PHP", "repo": "laravel", "new_stars": 107, "stars": 67175, "owner": "laravel", "forks": 21714},
+{"description": "A PHP framework for web artisans.", "language": "PHP", "repo": "laravel", "new_stars": 105, "stars": 67175, "owner": "laravel", "forks": 21714},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 19, "stars": 8914, "owner": "squizlabs", "forks": 1396},
 {"description": "Easily build Eloquent queries from API requests", "language": "PHP", "repo": "laravel-query-builder", "new_stars": 21, "stars": 3018, "owner": "spatie", "forks": 277},
-{"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 75, "stars": 6728, "owner": "firefly-iii", "forks": 753}
+{"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 76, "stars": 6729, "owner": "firefly-iii", "forks": 753}
 ]

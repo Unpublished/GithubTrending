@@ -1,13 +1,13 @@
 [
-{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 37, "stars": 6235, "owner": "google", "forks": 915},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 56, "stars": 12376, "owner": "fmtlib", "forks": 1488},
-{"description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua", "language": "C++", "repo": "luau", "new_stars": 154, "stars": 1718, "owner": "Roblox", "forks": 103},
+{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 42, "stars": 6237, "owner": "google", "forks": 915},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 56, "stars": 12377, "owner": "fmtlib", "forks": 1489},
+{"description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua", "language": "C++", "repo": "luau", "new_stars": 154, "stars": 1723, "owner": "Roblox", "forks": 103},
 {"description": "very currency", "language": "C++", "repo": "dogecoin", "new_stars": 10, "stars": 13173, "owner": "dogecoin", "forks": 2347},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 11, "stars": 24132, "owner": "google", "forks": 7958},
-{"description": "A new C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 6, "stars": 251, "owner": "facebookincubator", "forks": 80},
+{"description": "A new C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 8, "stars": 253, "owner": "facebookincubator", "forks": 80},
 {"description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.", "language": "C++", "repo": "zeek", "new_stars": 3, "stars": 4106, "owner": "zeek", "forks": 1000},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 2, "stars": 11416, "owner": "Tencent", "forks": 3022},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 12, "stars": 27288, "owner": "nlohmann", "forks": 4633},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 13, "stars": 27289, "owner": "nlohmann", "forks": 4633},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 25, "stars": 160413, "owner": "tensorflow", "forks": 85757},
 {"description": "Open standard for machine learning interoperability", "language": "C++", "repo": "onnx", "new_stars": 2, "stars": 11636, "owner": "onnx", "forks": 2199},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 7, "stars": 51522, "owner": "protocolbuffers", "forks": 13388},
@@ -23,5 +23,5 @@
 {"description": "Matrix is a plugin style, non-invasive APM system developed by WeChat.", "language": "C++", "repo": "matrix", "new_stars": 2, "stars": 9188, "owner": "Tencent", "forks": 1395},
 {"description": "WebRTC streamer for V4L2 capture devices, RTSP sources and Screen Capture", "language": "C++", "repo": "webrtc-streamer", "new_stars": 0, "stars": 1437, "owner": "mpromonet", "forks": 390},
 {"description": "TrinityCore Open Source MMO Framework (master = 9.1.5.40944, 3.3.5 = 3.3.5a.12340)", "language": "C++", "repo": "TrinityCore", "new_stars": 2, "stars": 7016, "owner": "TrinityCore", "forks": 5215},
-{"description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.", "language": "C++", "repo": "skia", "new_stars": 7, "stars": 5591, "owner": "google", "forks": 1059}
+{"description": "Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.", "language": "C++", "repo": "skia", "new_stars": 7, "stars": 5592, "owner": "google", "forks": 1060}
 ]

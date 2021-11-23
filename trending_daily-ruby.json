@@ -1,12 +1,12 @@
 [
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 0, "stars": 9577, "owner": "faker-ruby", "forks": 2778},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 4, "stars": 32652, "owner": "huginn", "forks": 3108},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 5, "stars": 22985, "owner": "hashicorp", "forks": 4174},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 5, "stars": 32653, "owner": "huginn", "forks": 3108},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 5, "stars": 22984, "owner": "hashicorp", "forks": 4174},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 12483, "owner": "elastic", "forks": 3232},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 31, "stars": 30006, "owner": "Homebrew", "forks": 6878},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 22037, "owner": "heartcombo", "forks": 5321},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 30, "stars": 30006, "owner": "Homebrew", "forks": 6878},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 22037, "owner": "heartcombo", "forks": 5321},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 11396, "owner": "mperham", "forks": 2028},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 1, "stars": 10739, "owner": "fluent", "forks": 1224},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 1, "stars": 10740, "owner": "fluent", "forks": 1224},
 {"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 5, "stars": 11332, "owner": "chatwoot", "forks": 1295},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 0, "stars": 2621, "owner": "github", "forks": 1181},
 {"description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 3, "stars": 8061, "owner": "kaminari", "forks": 1064},
@@ -15,7 +15,7 @@
 {"description": "Documentation for the GOV.UK Kubernetes cluster", "language": "Ruby", "repo": "govuk-kubernetes-cluster-user-docs", "new_stars": 0, "stars": 0, "owner": "alphagov", "forks": 0},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 3, "stars": 5298, "owner": "opf", "forks": 1520},
 {"description": "The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 2252, "owner": "dependabot", "forks": 553},
-{"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 3, "stars": 4997, "owner": "activerecord-hackery", "forks": 741},
+{"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 2, "stars": 4997, "owner": "activerecord-hackery", "forks": 741},
 {"description": "Examples of Charting Library integrations with other libraries, frameworks and data transports", "language": "Ruby", "repo": "charting-library-examples", "new_stars": 1, "stars": 772, "owner": "tradingview", "forks": 476},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 9079, "owner": "activeadmin", "forks": 3240},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 145, "owner": "DataDog", "forks": 248},
@@ -23,5 +23,5 @@
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 10, "stars": 34481, "owner": "discourse", "forks": 7442},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 0, "stars": 5270, "owner": "rails", "forks": 1444},
 {"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 2, "stars": 1459, "owner": "elastic", "forks": 746},
-{"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 1, "stars": 22766, "owner": "gitlabhq", "forks": 5683}
+{"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 1, "stars": 22767, "owner": "gitlabhq", "forks": 5683}
 ]

@@ -1,12 +1,12 @@
 [
-{"description": "A REPL for x86-64 assembly language", "language": "Ruby", "repo": "asmrepl", "new_stars": 91, "stars": 579, "owner": "tenderlove", "forks": 15},
+{"description": "A REPL for x86-64 assembly language", "language": "Ruby", "repo": "asmrepl", "new_stars": 123, "stars": 586, "owner": "tenderlove", "forks": 15},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11412, "owner": "mperham", "forks": 2035},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 4, "stars": 2883, "owner": "rubygems", "forks": 1458},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 22052, "owner": "heartcombo", "forks": 5327},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 22052, "owner": "heartcombo", "forks": 5327},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 0, "stars": 4919, "owner": "rmosolgo", "forks": 1158},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 12, "stars": 33323, "owner": "fastlane", "forks": 5050},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 11, "stars": 33323, "owner": "fastlane", "forks": 5050},
 {"description": "The Best Pagination Ruby Gem", "language": "Ruby", "repo": "pagy", "new_stars": 2, "stars": 3313, "owner": "ddnexus", "forks": 289},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 5, "stars": 11577, "owner": "rubocop", "forks": 2802},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 4, "stars": 11577, "owner": "rubocop", "forks": 2802},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 2, "stars": 3960, "owner": "solidusio", "forks": 1131},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 12, "stars": 34535, "owner": "discourse", "forks": 7447},
 {"description": null, "language": "Ruby", "repo": "Phase-3-movie_app_101121", "new_stars": 0, "stars": 18, "owner": "learn-co-students", "forks": 0},
@@ -21,7 +21,7 @@
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 8, "stars": 23025, "owner": "hashicorp", "forks": 4177},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 2, "stars": 7444, "owner": "varvet", "forks": 574},
 {"description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!", "language": "Ruby", "repo": "oxidized", "new_stars": 2, "stars": 1836, "owner": "ytti", "forks": 684},
-{"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 1, "stars": 7353, "owner": "thoughtbot", "forks": 2497},
+{"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 2, "stars": 7354, "owner": "thoughtbot", "forks": 2497},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 1, "stars": 5247, "owner": "vcr", "forks": 476},
 {"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 4, "stars": 18723, "owner": "Homebrew", "forks": 9480}
 ]

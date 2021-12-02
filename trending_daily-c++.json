@@ -1,8 +1,8 @@
 [
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 22, "stars": 27621, "owner": "nlohmann", "forks": 4706},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 28, "stars": 58302, "owner": "opencv", "forks": 49248},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 26, "stars": 58303, "owner": "opencv", "forks": 49252},
 {"description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.", "language": "C++", "repo": "o3de", "new_stars": 5, "stars": 3742, "owner": "o3de", "forks": 1229},
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 7, "stars": 12224, "owner": "CoatiSoftware", "forks": 833},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 6, "stars": 12224, "owner": "CoatiSoftware", "forks": 833},
 {"description": "Windows Package Manager CLI (aka winget)", "language": "C++", "repo": "winget-cli", "new_stars": 11, "stars": 15760, "owner": "microsoft", "forks": 785},
 {"description": "OneFlow is a performance-centered and open-source deep learning framework.", "language": "C++", "repo": "oneflow", "new_stars": 1, "stars": 2799, "owner": "Oneflow-Inc", "forks": 321},
 {"description": "Instant Kubernetes-Native Application Observability", "language": "C++", "repo": "pixie", "new_stars": 8, "stars": 2594, "owner": "pixie-io", "forks": 135},
@@ -12,16 +12,16 @@
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 5, "stars": 6843, "owner": "vesoft-inc", "forks": 721},
 {"description": "KPHP \u2014 a PHP compiler", "language": "C++", "repo": "kphp", "new_stars": 13, "stars": 754, "owner": "VKCOM", "forks": 40},
 {"description": "WinMerge is an Open Source differencing and merging tool for Windows. WinMerge can compare both folders and files, presenting differences in a visual text format that is easy to understand and handle.", "language": "C++", "repo": "winmerge", "new_stars": 5, "stars": 2280, "owner": "WinMerge", "forks": 358},
-{"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 5, "stars": 10875, "owner": "apple", "forks": 1016},
+{"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 3, "stars": 10875, "owner": "apple", "forks": 1016},
 {"description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more", "language": "C++", "repo": "incubator-mxnet", "new_stars": 2, "stars": 19772, "owner": "apache", "forks": 6883},
 {"description": "\u673a\u5668\u4eba\u89c6\u89c9 \u79fb\u52a8\u673a\u5668\u4eba VS-SLAM ORB-SLAM2 \u6df1\u5ea6\u5b66\u4e60\u76ee\u6807\u68c0\u6d4b yolov3 \u884c\u4e3a\u68c0\u6d4b opencv PCL \u673a\u5668\u5b66\u4e60 \u65e0\u4eba\u9a7e\u9a76", "language": "C++", "repo": "MVision", "new_stars": 9, "stars": 6101, "owner": "Ewenwan", "forks": 2419},
 {"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research", "language": "C++", "repo": "AirSim", "new_stars": 6, "stars": 12469, "owner": "microsoft", "forks": 3501},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 12, "stars": 20490, "owner": "facebook", "forks": 4384},
 {"description": "oneAPI Threading Building Blocks (oneTBB)", "language": "C++", "repo": "oneTBB", "new_stars": 5, "stars": 3235, "owner": "oneapi-src", "forks": 643},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 25, "stars": 52032, "owner": "protocolbuffers", "forks": 13487},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 24, "stars": 52032, "owner": "protocolbuffers", "forks": 13488},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 12, "stars": 15286, "owner": "facebookresearch", "forks": 2415},
-{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 4, "stars": 6332, "owner": "google", "forks": 927},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 38, "stars": 52491, "owner": "pytorch", "forks": 14398},
-{"description": "Hex-Rays microcode plugin for automated simplification of Windows Kernel decompilation.", "language": "C++", "repo": "NtRays", "new_stars": 38, "stars": 150, "owner": "can1357", "forks": 18},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 30, "stars": 160986, "owner": "tensorflow", "forks": 85872}
+{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 6, "stars": 6334, "owner": "google", "forks": 927},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 38, "stars": 52493, "owner": "pytorch", "forks": 14399},
+{"description": "Hex-Rays microcode plugin for automated simplification of Windows Kernel decompilation.", "language": "C++", "repo": "NtRays", "new_stars": 37, "stars": 150, "owner": "can1357", "forks": 18},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 30, "stars": 160985, "owner": "tensorflow", "forks": 85874}
 ]

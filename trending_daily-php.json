@@ -15,7 +15,7 @@
 {"description": "Faker is a PHP library that generates fake data for you", "language": "PHP", "repo": "Faker", "new_stars": 9, "stars": 26263, "owner": "fzaninotto", "forks": 3243},
 {"description": "Build a full-featured administrative interface in ten minutes", "language": "PHP", "repo": "laravel-admin", "new_stars": 4, "stars": 10269, "owner": "z-song", "forks": 2612},
 {"description": "smart makes it possible to serve images and download files from any location including Laravel disks. It enables resizing and cacheing images before sending them to the browser. Templates make it super easy to preconfigure your settings to use them all over your site.", "language": "PHP", "repo": "smart", "new_stars": 23, "stars": 115, "owner": "dietercoopman", "forks": 9},
-{"description": "Associate comments and reactions with Eloquent models", "language": "PHP", "repo": "laravel-comments", "new_stars": 16, "stars": 30, "owner": "spatie", "forks": 1},
+{"description": "Associate comments and reactions with Eloquent models", "language": "PHP", "repo": "laravel-comments", "new_stars": 15, "stars": 30, "owner": "spatie", "forks": 1},
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 6, "stars": 6327, "owner": "doctrine", "forks": 219},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 12, "stars": 26218, "owner": "symfony", "forks": 8449},
 {"description": "The DependencyInjection component allows you to standardize and centralize the way objects are constructed in your application.", "language": "PHP", "repo": "dependency-injection", "new_stars": 4, "stars": 3633, "owner": "symfony", "forks": 80},
@@ -23,5 +23,5 @@
 {"description": "Log activity inside your Laravel app", "language": "PHP", "repo": "laravel-activitylog", "new_stars": 7, "stars": 4119, "owner": "spatie", "forks": 578},
 {"description": "The Config component helps you find, load, combine, autofill and validate configuration values of any kind, whatever their source may be (YAML, XML, INI files, or for instance a database).", "language": "PHP", "repo": "config", "new_stars": 4, "stars": 3667, "owner": "symfony", "forks": 29},
 {"description": "Base library for a lexer that can be used in Top-Down, Recursive Descent Parsers.", "language": "PHP", "repo": "lexer", "new_stars": 4, "stars": 10508, "owner": "doctrine", "forks": 45},
-{"description": "A personal music streaming server that works.", "language": "PHP", "repo": "koel", "new_stars": 18, "stars": 13095, "owner": "koel", "forks": 1670}
+{"description": "A personal music streaming server that works.", "language": "PHP", "repo": "koel", "new_stars": 18, "stars": 13096, "owner": "koel", "forks": 1670}
 ]

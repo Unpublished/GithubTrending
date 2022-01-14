@@ -1,2 +1,2 @@
 attrs>=19.2.0  # needed because Travis has a too old version pre-installed
-scrapy==2.5.0
+scrapy==2.5.1

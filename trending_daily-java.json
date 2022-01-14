@@ -1,11 +1,11 @@
 [
-{"description": "\u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1", "language": "Java", "repo": "CS-Notes", "new_stars": 75, "stars": 144744, "owner": "CyC2018", "forks": 46145},
+{"description": "\u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1", "language": "Java", "repo": "CS-Notes", "new_stars": 75, "stars": 144745, "owner": "CyC2018", "forks": 46145},
 {"description": "Eclipse Jetty\u00ae - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more", "language": "Java", "repo": "jetty.project", "new_stars": 0, "stars": 3278, "owner": "eclipse", "forks": 1751},
 {"description": "Test Automation Made Simple", "language": "Java", "repo": "karate", "new_stars": 9, "stars": 5551, "owner": "karatelabs", "forks": 1445},
-{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 29, "stars": 43802, "owner": "TheAlgorithms", "forks": 14352},
+{"description": "All Algorithms implemented in Java", "language": "Java", "repo": "Java", "new_stars": 26, "stars": 43803, "owner": "TheAlgorithms", "forks": 14352},
 {"description": "Dex to Java decompiler", "language": "Java", "repo": "jadx", "new_stars": 134, "stars": 28677, "owner": "skylot", "forks": 3574},
-{"description": "Open source distributed and RESTful search engine.", "language": "Java", "repo": "OpenSearch", "new_stars": 7, "stars": 4358, "owner": "opensearch-project", "forks": 448},
-{"description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)", "language": "Java", "repo": "openapi-generator", "new_stars": 10, "stars": 10896, "owner": "OpenAPITools", "forks": 3767},
+{"description": "Open source distributed and RESTful search engine.", "language": "Java", "repo": "OpenSearch", "new_stars": 7, "stars": 4360, "owner": "opensearch-project", "forks": 448},
+{"description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)", "language": "Java", "repo": "openapi-generator", "new_stars": 10, "stars": 10898, "owner": "OpenAPITools", "forks": 3767},
 {"description": "Gitee \u6700\u6709\u4ef7\u503c\u5f00\u6e90\u9879\u76ee", "language": "Java", "repo": "JustAuth", "new_stars": 48, "stars": 12867, "owner": "justauth", "forks": 2302},
 {"description": "Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.", "language": "Java", "repo": "drools", "new_stars": 5, "stars": 4125, "owner": "kiegroup", "forks": 2180},
 {"description": "Spring Security", "language": "Java", "repo": "spring-security", "new_stars": 6, "stars": 6492, "owner": "spring-projects", "forks": 4870},
@@ -18,10 +18,10 @@
 {"description": "COLA: Clean Object-oriented & Layered Architecture", "language": "Java", "repo": "COLA", "new_stars": 68, "stars": 6537, "owner": "alibaba", "forks": 1763},
 {"description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (", "language": "Java", "repo": "trino", "new_stars": 7, "stars": 4734, "owner": "trinodb", "forks": 1526},
 {"description": "\u300cJava\u5b66\u4e60+\u9762\u8bd5\u6307\u5357\u300d\u4e00\u4efd\u6db5\u76d6\u5927\u90e8\u5206 Java \u7a0b\u5e8f\u5458\u6240\u9700\u8981\u638c\u63e1\u7684\u6838\u5fc3\u77e5\u8bc6\u3002\u51c6\u5907 Java \u9762\u8bd5\uff0c\u9996\u9009 JavaGuide\uff01", "language": "Java", "repo": "JavaGuide", "new_stars": 35, "stars": 115563, "owner": "Snailclimb", "forks": 39452},
-{"description": "Conductor is a microservices orchestration engine.", "language": "Java", "repo": "conductor", "new_stars": 10, "stars": 3829, "owner": "Netflix", "forks": 1241},
-{"description": "Reformats Java source code to comply with Google Java Style.", "language": "Java", "repo": "google-java-format", "new_stars": 4, "stars": 4286, "owner": "google", "forks": 749},
+{"description": "Conductor is a microservices orchestration engine.", "language": "Java", "repo": "conductor", "new_stars": 8, "stars": 3829, "owner": "Netflix", "forks": 1241},
+{"description": "Reformats Java source code to comply with Google Java Style.", "language": "Java", "repo": "google-java-format", "new_stars": 5, "stars": 4286, "owner": "google", "forks": 749},
 {"description": "Most popular Mocking framework for unit tests written in Java", "language": "Java", "repo": "mockito", "new_stars": 4, "stars": 12511, "owner": "mockito", "forks": 2212},
 {"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 23, "stars": 58143, "owner": "elastic", "forks": 21131},
 {"description": "This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.", "language": "Java", "repo": "selling-partner-api-models", "new_stars": 1, "stars": 290, "owner": "amzn", "forks": 432},
-{"description": "A browser automation framework and ecosystem.", "language": "Java", "repo": "selenium", "new_stars": 5, "stars": 22560, "owner": "SeleniumHQ", "forks": 6722}
+{"description": "A browser automation framework and ecosystem.", "language": "Java", "repo": "selenium", "new_stars": 5, "stars": 22559, "owner": "SeleniumHQ", "forks": 6722}
 ]

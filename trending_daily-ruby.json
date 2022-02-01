@@ -1,8 +1,8 @@
 [
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 11, "stars": 50053, "owner": "rails", "forks": 20090},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 10, "stars": 50053, "owner": "rails", "forks": 20089},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 1, "stars": 9873, "owner": "faker-ruby", "forks": 2827},
-{"description": "Open Source headless multi-language/multi-currency/multi-store eCommerce platform", "language": "Ruby", "repo": "spree", "new_stars": 2, "stars": 11652, "owner": "spree", "forks": 4834},
-{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 1, "stars": 6804, "owner": "chef", "forks": 2561},
+{"description": "Open Source headless multi-language/multi-currency/multi-store eCommerce platform", "language": "Ruby", "repo": "spree", "new_stars": 1, "stars": 11652, "owner": "spree", "forks": 4834},
+{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 0, "stars": 6804, "owner": "chef", "forks": 2561},
 {"description": "Classy web-development dressed in a DSL (official / canonical repo)", "language": "Ruby", "repo": "sinatra", "new_stars": 0, "stars": 11522, "owner": "sinatra", "forks": 2050},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 11542, "owner": "mperham", "forks": 2070},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 11649, "owner": "rubocop", "forks": 2829},
@@ -19,9 +19,9 @@
 {"description": "Intelligent search made easy", "language": "Ruby", "repo": "searchkick", "new_stars": 4, "stars": 5792, "owner": "ankane", "forks": 699},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 4, "stars": 2948, "owner": "rubygems", "forks": 1487},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 12, "stars": 34902, "owner": "discourse", "forks": 7542},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 15, "stars": 30816, "owner": "Homebrew", "forks": 7153},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 15, "stars": 30815, "owner": "Homebrew", "forks": 7154},
 {"description": "Ensure uniqueness of your Sidekiq jobs", "language": "Ruby", "repo": "sidekiq-unique-jobs", "new_stars": 0, "stars": 1144, "owner": "mhenrixon", "forks": 237},
-{"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5165, "owner": "rails-api", "forks": 1385},
-{"description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.", "language": "Ruby", "repo": "wpscan", "new_stars": 3, "stars": 6355, "owner": "wpscanteam", "forks": 1075},
+{"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 1, "stars": 5166, "owner": "rails-api", "forks": 1385},
+{"description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites.", "language": "Ruby", "repo": "wpscan", "new_stars": 3, "stars": 6356, "owner": "wpscanteam", "forks": 1075},
 {"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 3, "stars": 6956, "owner": "puma", "forks": 1291}
 ]

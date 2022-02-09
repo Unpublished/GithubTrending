@@ -1,19 +1,19 @@
 [
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 4, "stars": 23329, "owner": "hashicorp", "forks": 4214},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 2, "stars": 4014, "owner": "luggit", "forks": 594},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 11, "stars": 34048, "owner": "fastlane", "forks": 5115},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 11, "stars": 34049, "owner": "fastlane", "forks": 5115},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 11561, "owner": "mperham", "forks": 2078},
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 12666, "owner": "elastic", "forks": 3274},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 4, "stars": 11988, "owner": "chatwoot", "forks": 1424},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 5, "stars": 11989, "owner": "chatwoot", "forks": 1424},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 3, "stars": 13577, "owner": "CocoaPods", "forks": 2509},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 0, "stars": 2953, "owner": "rubygems", "forks": 1494},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 2, "stars": 7901, "owner": "heartcombo", "forks": 1302},
-{"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 2, "stars": 2260, "owner": "github", "forks": 281},
+{"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 1, "stars": 2260, "owner": "github", "forks": 281},
 {"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 6, "stars": 11314, "owner": "postalserver", "forks": 801},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 3, "stars": 9136, "owner": "activeadmin", "forks": 3269},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 2, "stars": 5064, "owner": "activerecord-hackery", "forks": 737},
 {"description": "Magento Developer Documentation", "language": "Ruby", "repo": "devdocs", "new_stars": 1, "stars": 585, "owner": "magento", "forks": 1777},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 11663, "owner": "rubocop", "forks": 2833},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 11664, "owner": "rubocop", "forks": 2833},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 2, "stars": 22821, "owner": "gitlabhq", "forks": 5687},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 0, "stars": 9513, "owner": "teamcapybara", "forks": 1403},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 0, "stars": 5290, "owner": "vcr", "forks": 487},
@@ -23,5 +23,5 @@
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 4, "stars": 1316, "owner": "rswag", "forks": 313},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 0, "stars": 6810, "owner": "chef", "forks": 2561},
 {"description": "A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.", "language": "Ruby", "repo": "asciidoctor", "new_stars": 5, "stars": 3957, "owner": "asciidoctor", "forks": 704},
-{"description": "Manage your Ruby application's gem dependencies", "language": "Ruby", "repo": "bundler", "new_stars": 2, "stars": 4847, "owner": "rubygems", "forks": 2102}
+{"description": "Manage your Ruby application's gem dependencies", "language": "Ruby", "repo": "bundler", "new_stars": 2, "stars": 4847, "owner": "rubygems", "forks": 2103}
 ]

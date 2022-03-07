@@ -1,16 +1,16 @@
 [
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1786, "stars": 36199, "owner": "ocornut", "forks": 6222},
-{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 861, "stars": 18298, "owner": "SerenityOS", "forks": 1971},
+{"description": "The Serenity Operating System", "language": "C++", "repo": "serenity", "new_stars": 861, "stars": 18300, "owner": "SerenityOS", "forks": 1970},
 {"description": "C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendatio\u2026", "language": "C++", "repo": "interview", "new_stars": 783, "stars": 22870, "owner": "huihut", "forks": 6333},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 427, "stars": 25327, "owner": "google", "forks": 8333},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 482, "stars": 53304, "owner": "protocolbuffers", "forks": 13792},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 427, "stars": 25328, "owner": "google", "forks": 8333},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 482, "stars": 53304, "owner": "protocolbuffers", "forks": 13793},
 {"description": "A transaction processor for a hypothetical, general-purpose, central bank digital currency", "language": "C++", "repo": "opencbdc-tx", "new_stars": 455, "stars": 641, "owner": "mit-dci", "forks": 111},
-{"description": "\u4e0b\u8f7dB\u7ad9\u89c6\u9891\u3001\u76f4\u64ad\u3001\u6f2b\u753b\uff08\u80fd\u770b=\u80fd\u4e0b\u8f7d\uff09\u3002\u4f7f\u7528 Qt C++ \u5f00\u53d1", "language": "C++", "repo": "B23Downloader", "new_stars": 863, "stars": 1751, "owner": "vooidzero", "forks": 199},
+{"description": "\u4e0b\u8f7dB\u7ad9\u89c6\u9891\u3001\u76f4\u64ad\u3001\u6f2b\u753b\uff08\u80fd\u770b=\u80fd\u4e0b\u8f7d\uff09\u3002\u4f7f\u7528 Qt C++ \u5f00\u53d1", "language": "C++", "repo": "B23Downloader", "new_stars": 859, "stars": 1751, "owner": "vooidzero", "forks": 198},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 310, "stars": 33535, "owner": "grpc", "forks": 8838},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 664, "stars": 100627, "owner": "electron", "forks": 13259},
 {"description": "Lightning fast C++/CUDA neural network framework", "language": "C++", "repo": "tiny-cuda-nn", "new_stars": 253, "stars": 996, "owner": "NVlabs", "forks": 75},
 {"description": "Productive & portable high-performance programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 369, "stars": 18340, "owner": "taichi-dev", "forks": 1896},
-{"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 170, "stars": 17569, "owner": "google", "forks": 2729},
+{"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 170, "stars": 17568, "owner": "google", "forks": 2729},
 {"description": "Linux\u4e0bC++\u8f7b\u91cf\u7ea7Web\u670d\u52a1\u5668", "language": "C++", "repo": "TinyWebServer", "new_stars": 551, "stars": 5689, "owner": "qinguoyi", "forks": 1693},
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 437, "stars": 16489, "owner": "ValveSoftware", "forks": 723},
 {"description": "Universal Scene Description", "language": "C++", "repo": "USD", "new_stars": 66, "stars": 3390, "owner": "PixarAnimationStudios", "forks": 785},
@@ -23,5 +23,5 @@
 {"description": "Starting code for the GildedRose Refactoring Kata in many programming languages.", "language": "C++", "repo": "GildedRose-Refactoring-Kata", "new_stars": 50, "stars": 2139, "owner": "emilybache", "forks": 3167},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 125, "stars": 6608, "owner": "google", "forks": 952},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 265, "stars": 22010, "owner": "facebook", "forks": 4990},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1233, "stars": 81537, "owner": "microsoft", "forks": 7233}
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 1228, "stars": 81538, "owner": "microsoft", "forks": 7233}
 ]

@@ -5,7 +5,7 @@
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 2, "stars": 10159, "owner": "mockery", "forks": 438},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 11, "stars": 17984, "owner": "PHPMailer", "forks": 9198},
 {"description": "A platform to create documentation/wiki content built with PHP & Laravel", "language": "PHP", "repo": "BookStack", "new_stars": 12, "stars": 8966, "owner": "BookStackApp", "forks": 1250},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 36, "stars": 37919, "owner": "danielmiessler", "forks": 19477},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 37, "stars": 37921, "owner": "danielmiessler", "forks": 19479},
 {"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 7, "stars": 26354, "owner": "composer", "forks": 6302},
 {"description": "A PHP framework for web artisans.", "language": "PHP", "repo": "laravel", "new_stars": 10, "stars": 69222, "owner": "laravel", "forks": 22395},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 5, "stars": 26666, "owner": "symfony", "forks": 8622},
@@ -23,5 +23,5 @@
 {"description": "FreeScout \u2014 Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)", "language": "PHP", "repo": "freescout", "new_stars": 5, "stars": 1421, "owner": "freescout-helpdesk", "forks": 268},
 {"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 1, "stars": 4098, "owner": "moodle", "forks": 5410},
 {"description": "Drush is a command-line shell and scripting interface for Drupal, a veritable Swiss Army knife designed to make life easier for those who spend their working hours hacking away at the command prompt.", "language": "PHP", "repo": "drush", "new_stars": 0, "stars": 2230, "owner": "drush-ops", "forks": 1062},
-{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 11, "stars": 26639, "owner": "laravel", "forks": 9062}
+{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 11, "stars": 26640, "owner": "laravel", "forks": 9062}
 ]

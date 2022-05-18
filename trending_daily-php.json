@@ -1,12 +1,12 @@
 [
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 4, "stars": 9234, "owner": "doctrine", "forks": 2406},
-{"description": "WordPress running on an SQLite database", "language": "PHP", "repo": "wp-sqlite", "new_stars": 45, "stars": 257, "owner": "stokry", "forks": 12},
-{"description": "A simple wallet implementation for Laravel.", "language": "PHP", "repo": "laravel-wallet", "new_stars": 37, "stars": 85, "owner": "stephenjude", "forks": 8},
+{"description": "WordPress running on an SQLite database", "language": "PHP", "repo": "wp-sqlite", "new_stars": 43, "stars": 257, "owner": "stokry", "forks": 12},
+{"description": "A simple wallet implementation for Laravel.", "language": "PHP", "repo": "laravel-wallet", "new_stars": 35, "stars": 85, "owner": "stephenjude", "forks": 8},
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 9, "stars": 6109, "owner": "snipe", "forks": 2154},
 {"description": "A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.", "language": "PHP", "repo": "woocommerce", "new_stars": 0, "stars": 7813, "owner": "woocommerce", "forks": 10182},
-{"description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 4, "stars": 5299, "owner": "rectorphp", "forks": 492},
+{"description": "Instant Upgrades and Automated Refactoring of any PHP 5.3+ code", "language": "PHP", "repo": "rector", "new_stars": 3, "stars": 5298, "owner": "rectorphp", "forks": 492},
 {"description": "Twig, the flexible, fast, and secure template language for PHP", "language": "PHP", "repo": "Twig", "new_stars": 2, "stars": 7507, "owner": "twigphp", "forks": 1161},
-{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 5, "stars": 26529, "owner": "composer", "forks": 6317},
+{"description": "Dependency Manager for PHP", "language": "PHP", "repo": "composer", "new_stars": 5, "stars": 26530, "owner": "composer", "forks": 6317},
 {"description": "Freenom \u57df\u540d\u81ea\u52a8\u7eed\u671f\u3002Freenom domain name renews automatically.", "language": "PHP", "repo": "freenom", "new_stars": 6, "stars": 1220, "owner": "luolongfei", "forks": 999},
 {"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 10, "stars": 14001, "owner": "barryvdh", "forks": 1367},
 {"description": "Annotations Docblock Parser", "language": "PHP", "repo": "annotations", "new_stars": 3, "stars": 6437, "owner": "doctrine", "forks": 226},
@@ -21,7 +21,7 @@
 {"description": "The Process component executes commands in sub-processes.", "language": "PHP", "repo": "process", "new_stars": 4, "stars": 7005, "owner": "symfony", "forks": 100},
 {"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 7, "stars": 15412, "owner": "nikic", "forks": 874},
 {"description": "Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.", "language": "PHP", "repo": "readme-typing-svg", "new_stars": 6, "stars": 917, "owner": "DenverCoder1", "forks": 187},
-{"description": "Craft is a flexible, extensible platform for creating bespoke digital experiences.", "language": "PHP", "repo": "cms", "new_stars": 3, "stars": 2819, "owner": "craftcms", "forks": 584},
+{"description": "Craft is a flexible, extensible platform for creating bespoke digital experiences.", "language": "PHP", "repo": "cms", "new_stars": 2, "stars": 2819, "owner": "craftcms", "forks": 584},
 {"description": "With the Serializer component it's possible to handle serializing data structures, including object graphs, into array structures or other formats like XML and JSON. It can also handle deserializing XML and JSON back to object graphs.", "language": "PHP", "repo": "serializer", "new_stars": 2, "stars": 2095, "owner": "symfony", "forks": 70},
 {"description": null, "language": "PHP", "repo": "ReflectionCommon", "new_stars": 4, "stars": 8742, "owner": "phpDocumentor", "forks": 19}
 ]

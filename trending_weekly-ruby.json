@@ -1,18 +1,18 @@
 [
 {"description": "Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 47, "stars": 11322, "owner": "Homebrew", "forks": 10517},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 16, "stars": 10060, "owner": "faker-ruby", "forks": 2877},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 59, "stars": 50809, "owner": "rails", "forks": 20391},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 58, "stars": 50809, "owner": "rails", "forks": 20391},
 {"description": "Solidus, Rails eCommerce System", "language": "Ruby", "repo": "solidus", "new_stars": 33, "stars": 4244, "owner": "solidusio", "forks": 1185},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 77, "stars": 27397, "owner": "rapid7", "forks": 12281},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 83, "stars": 44767, "owner": "jekyll", "forks": 9787},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 78, "stars": 27398, "owner": "rapid7", "forks": 12281},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 84, "stars": 44768, "owner": "jekyll", "forks": 9787},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 9, "stars": 7502, "owner": "thoughtbot", "forks": 2541},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 29, "stars": 22453, "owner": "heartcombo", "forks": 5414},
 {"description": "An uroboros program with 100+ programming languages", "language": "Ruby", "repo": "quine-relay", "new_stars": 114, "stars": 12193, "owner": "mame", "forks": 546},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 19, "stars": 3179, "owner": "github", "forks": 10662},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 22, "stars": 11848, "owner": "mperham", "forks": 2133},
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 19, "stars": 3179, "owner": "github", "forks": 10663},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 20, "stars": 11848, "owner": "mperham", "forks": 2133},
 {"description": null, "language": "Ruby", "repo": "phase-3-object-relations-practice-code-challenge-magazines-many-many", "new_stars": 0, "stars": 270, "owner": "learn-co-curriculum", "forks": 0},
 {"description": null, "language": "Ruby", "repo": "phase-3-object-relations-practice-code-challenge-students-one-many", "new_stars": 0, "stars": 132, "owner": "learn-co-curriculum", "forks": 0},
-{"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 13, "stars": 4373, "owner": "rack", "forks": 1603},
+{"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 12, "stars": 4372, "owner": "rack", "forks": 1603},
 {"description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 8, "stars": 8201, "owner": "kaminari", "forks": 1071},
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 15, "stars": 2452, "owner": "github", "forks": 302},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 2, "stars": 181, "owner": "DataDog", "forks": 277},
@@ -22,6 +22,6 @@
 {"description": "A guide to contributing to open source", "language": "Ruby", "repo": "how-to-contribute-to-open-source", "new_stars": 31, "stars": 6565, "owner": "freeCodeCamp", "forks": 1417},
 {"description": null, "language": "Ruby", "repo": "phase-3-sinatra-react-project", "new_stars": 0, "stars": 1, "owner": "learn-co-curriculum", "forks": 635},
 {"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 5, "stars": 7085, "owner": "puma", "forks": 1320},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 17, "stars": 12877, "owner": "elastic", "forks": 3315},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 28, "stars": 12683, "owner": "chatwoot", "forks": 1605}
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 17, "stars": 12877, "owner": "elastic", "forks": 3316},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 28, "stars": 12683, "owner": "chatwoot", "forks": 1607}
 ]

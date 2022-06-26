@@ -1,11 +1,11 @@
 [
-{"description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.", "language": "Java", "repo": "spring-cloud-tencent", "new_stars": 776, "stars": 1364, "owner": "Tencent", "forks": 211},
-{"description": "The main repository of Telegram X \u2014 official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue.", "language": "Java", "repo": "Telegram-X", "new_stars": 760, "stars": 1243, "owner": "TGX-Android", "forks": 96},
+{"description": "Spring Cloud Tencent is a Spring Boot based Service Governance Framework provided by Tencent, including service discovery, traffic control, circuitbreak, ratelimit, config and so on.", "language": "Java", "repo": "spring-cloud-tencent", "new_stars": 776, "stars": 1366, "owner": "Tencent", "forks": 212},
+{"description": "The main repository of Telegram X \u2014 official alternative Telegram client for Android. Check out the $25,000 contest in the pinned issue.", "language": "Java", "repo": "Telegram-X", "new_stars": 754, "stars": 1243, "owner": "TGX-Android", "forks": 96},
 {"description": "COLA: Clean Object-oriented & Layered Architecture", "language": "Java", "repo": "COLA", "new_stars": 101, "stars": 7578, "owner": "alibaba", "forks": 2085},
-{"description": "To Be Top Javaer - Java\u5de5\u7a0b\u5e08\u6210\u795e\u4e4b\u8def", "language": "Java", "repo": "toBeTopJavaer", "new_stars": 220, "stars": 23112, "owner": "hollischuang", "forks": 5209},
-{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 154, "stars": 61883, "owner": "spring-projects", "forks": 36634},
+{"description": "To Be Top Javaer - Java\u5de5\u7a0b\u5e08\u6210\u795e\u4e4b\u8def", "language": "Java", "repo": "toBeTopJavaer", "new_stars": 221, "stars": 23112, "owner": "hollischuang", "forks": 5209},
+{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 155, "stars": 61884, "owner": "spring-projects", "forks": 36635},
 {"description": "Open source Old School RuneScape client", "language": "Java", "repo": "runelite", "new_stars": 59, "stars": 3796, "owner": "runelite", "forks": 4503},
-{"description": "Mirror of Apache Kafka", "language": "Java", "repo": "kafka", "new_stars": 82, "stars": 22312, "owner": "apache", "forks": 11639},
+{"description": "Mirror of Apache Kafka", "language": "Java", "repo": "kafka", "new_stars": 83, "stars": 22313, "owner": "apache", "forks": 11639},
 {"description": "CDC Connectors for Apache Flink\u00ae", "language": "Java", "repo": "flink-cdc-connectors", "new_stars": 43, "stars": 2640, "owner": "ververica", "forks": 897},
 {"description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.", "language": "Java", "repo": "termux-app", "new_stars": 179, "stars": 13563, "owner": "termux", "forks": 1827},
 {"description": "A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.", "language": "Java", "repo": "ysoserial", "new_stars": 26, "stars": 5405, "owner": "frohoff", "forks": 1502},
@@ -20,8 +20,8 @@
 {"description": "Apache Druid: a high performance real-time analytics database.", "language": "Java", "repo": "druid", "new_stars": 13, "stars": 11831, "owner": "apache", "forks": 3281},
 {"description": "Apache HBase", "language": "Java", "repo": "hbase", "new_stars": 57, "stars": 4561, "owner": "apache", "forks": 3024},
 {"description": "\u5feb\u901f\u3001\u7b80\u6d01\u3001\u89e3\u51b3\u5927\u6587\u4ef6\u5185\u5b58\u6ea2\u51fa\u7684java\u5904\u7406Excel\u5de5\u5177", "language": "Java", "repo": "easyexcel", "new_stars": 146, "stars": 24010, "owner": "alibaba", "forks": 6454},
-{"description": "2022\u5b89\u5353\u4fdd\u6d3bAndroid 4-12 KeepAlive", "language": "Java", "repo": "keepalive", "new_stars": 24, "stars": 60, "owner": "sysiiii", "forks": 22},
-{"description": "Reimplementation of TheFlow's bd-jb. No kernel part yet.", "language": "Java", "repo": "bd-jb", "new_stars": 19, "stars": 75, "owner": "sleirsgoevy", "forks": 4},
+{"description": "2022\u5b89\u5353\u4fdd\u6d3bAndroid 4-12 KeepAlive", "language": "Java", "repo": "keepalive", "new_stars": 23, "stars": 60, "owner": "sysiiii", "forks": 22},
+{"description": "Reimplementation of TheFlow's bd-jb. No kernel part yet.", "language": "Java", "repo": "bd-jb", "new_stars": 18, "stars": 75, "owner": "sleirsgoevy", "forks": 4},
 {"description": "GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba \u6765\u81ea\u963f\u91cc\u5df4\u5df4\u7684\u4e00\u7ad9\u5f0f\u5927\u89c4\u6a21\u56fe\u8ba1\u7b97\u7cfb\u7edf \u56fe\u5206\u6790 \u56fe\u67e5\u8be2 \u56fe\u673a\u5668\u5b66\u4e60", "language": "Java", "repo": "GraphScope", "new_stars": 47, "stars": 1724, "owner": "alibaba", "forks": 203},
-{"description": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.", "language": "Java", "repo": "airbyte", "new_stars": 68, "stars": 7128, "owner": "airbytehq", "forks": 1425}
+{"description": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.", "language": "Java", "repo": "airbyte", "new_stars": 67, "stars": 7128, "owner": "airbytehq", "forks": 1425}
 ]

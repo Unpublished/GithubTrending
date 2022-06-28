@@ -6,10 +6,10 @@
 {"description": "A RuboCop extension focused on enforcing Rails best practices and coding conventions.", "language": "Ruby", "repo": "rubocop-rails", "new_stars": 0, "stars": 613, "owner": "rubocop", "forks": 174},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 2, "stars": 5841, "owner": "opf", "forks": 1640},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 11899, "owner": "mperham", "forks": 2146},
-{"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 3, "stars": 3063, "owner": "rubygems", "forks": 1584},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 12, "stars": 50976, "owner": "rails", "forks": 20445},
+{"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 3, "stars": 3065, "owner": "rubygems", "forks": 1585},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 13, "stars": 50977, "owner": "rails", "forks": 20445},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 7, "stars": 29531, "owner": "mastodon", "forks": 4603},
-{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 10, "stars": 23966, "owner": "hashicorp", "forks": 4267},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 11, "stars": 23967, "owner": "hashicorp", "forks": 4267},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9203, "owner": "activeadmin", "forks": 3299},
 {"description": "RSpec for Rails 5+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 1, "stars": 4795, "owner": "rspec", "forks": 967},
 {"description": "Use Webpack to manage app-like JavaScript modules in Rails", "language": "Ruby", "repo": "webpacker", "new_stars": 0, "stars": 5293, "owner": "rails", "forks": 1476},
@@ -23,5 +23,5 @@
 {"description": "Beautiful, performant feature flags for Ruby.", "language": "Ruby", "repo": "flipper", "new_stars": 0, "stars": 2961, "owner": "jnunemaker", "forks": 359},
 {"description": "A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.", "language": "Ruby", "repo": "asciidoctor", "new_stars": 0, "stars": 4099, "owner": "asciidoctor", "forks": 730},
 {"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 1, "stars": 7095, "owner": "puma", "forks": 1326},
-{"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 0, "stars": 9127, "owner": "resque", "forks": 1647}
+{"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 1, "stars": 9128, "owner": "resque", "forks": 1647}
 ]

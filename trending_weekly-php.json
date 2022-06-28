@@ -1,17 +1,17 @@
 [
 {"description": "A customizable, open-source eCommerce platform built on WordPress. Build any commerce solution you can imagine.", "language": "PHP", "repo": "woocommerce", "new_stars": 146, "stars": 8019, "owner": "woocommerce", "forks": 10259},
-{"description": "CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.", "language": "PHP", "repo": "CloudPeler", "new_stars": 40, "stars": 149, "owner": "zidansec", "forks": 30},
-{"description": "Laravel is a web application framework with expressive, elegant syntax. We\u2019ve already laid the foundation for your next big idea \u2014 freeing you to create without sweating the small things.", "language": "PHP", "repo": "laravel", "new_stars": 110, "stars": 70098, "owner": "laravel", "forks": 22698},
+{"description": "CrimeFlare is a useful tool for bypassing websites protected by CloudFlare WAF, with this tool you can easily see the real IP of websites that have been protected by CloudFlare. The resulting information is certainly very useful for conducting further penetration testing, and analyzing websites with the same server.", "language": "PHP", "repo": "CloudPeler", "new_stars": 39, "stars": 149, "owner": "zidansec", "forks": 30},
+{"description": "Laravel is a web application framework with expressive, elegant syntax. We\u2019ve already laid the foundation for your next big idea \u2014 freeing you to create without sweating the small things.", "language": "PHP", "repo": "laravel", "new_stars": 111, "stars": 70098, "owner": "laravel", "forks": 22698},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 41, "stars": 18380, "owner": "PHPMailer", "forks": 9282},
 {"description": "A lightweight PHP MVC framework for Full Stack Developer", "language": "PHP", "repo": "tinyphp", "new_stars": 54, "stars": 132, "owner": "tinyphporg", "forks": 24},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 75, "stars": 9493, "owner": "squizlabs", "forks": 1442},
-{"description": "Admin panel, form builder and table builder for the TALL stack. Designed for humans.", "language": "PHP", "repo": "filament", "new_stars": 88, "stars": 3695, "owner": "filamentphp", "forks": 483},
+{"description": "Admin panel, form builder and table builder for the TALL stack. Designed for humans.", "language": "PHP", "repo": "filament", "new_stars": 88, "stars": 3696, "owner": "filamentphp", "forks": 483},
 {"description": "HTML to PDF converter for PHP", "language": "PHP", "repo": "dompdf", "new_stars": 35, "stars": 8919, "owner": "dompdf", "forks": 1648},
 {"description": "Doctrine Object Relational Mapper (ORM)", "language": "PHP", "repo": "orm", "new_stars": 19, "stars": 9282, "owner": "doctrine", "forks": 2414},
 {"description": "Laravel Debugbar (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 32, "stars": 14138, "owner": "barryvdh", "forks": 1383},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 27, "stars": 21927, "owner": "guzzle", "forks": 2307},
-{"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 15, "stars": 8132, "owner": "googleapis", "forks": 3455},
-{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 29, "stars": 5314, "owner": "mailcow", "forks": 844},
+{"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 14, "stars": 8132, "owner": "googleapis", "forks": 3455},
+{"description": "mailcow: dockerized -", "language": "PHP", "repo": "mailcow-dockerized", "new_stars": 30, "stars": 5315, "owner": "mailcow", "forks": 844},
 {"description": "sample code for several design patterns in PHP 8", "language": "PHP", "repo": "DesignPatternsPHP", "new_stars": 23, "stars": 20593, "owner": "DesignPatternsPHP", "forks": 4432},
 {"description": "A static analysis tool for finding errors in PHP applications", "language": "PHP", "repo": "psalm", "new_stars": 14, "stars": 4802, "owner": "vimeo", "forks": 536},
 {"description": "A DOMPDF Wrapper for Laravel", "language": "PHP", "repo": "laravel-dompdf", "new_stars": 25, "stars": 5322, "owner": "barryvdh", "forks": 837},
@@ -23,5 +23,5 @@
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 29, "stars": 6238, "owner": "snipe", "forks": 2195},
 {"description": "\u72ec\u89d2\u6570\u5361(\u81ea\u52a8\u552e\u8d27\u7cfb\u7edf)-\u5f00\u6e90\u5f0f\u7ad9\u957f\u81ea\u52a8\u5316\u552e\u8d27\u89e3\u51b3\u65b9\u6848\u3001\u9ad8\u6548\u3001\u7a33\u5b9a\u3001\u5feb\u901f\uff01", "language": "PHP", "repo": "dujiaoka", "new_stars": 24, "stars": 2765, "owner": "assimon", "forks": 948},
 {"description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.", "language": "PHP", "repo": "php-code-coverage", "new_stars": 11, "stars": 8312, "owner": "sebastianbergmann", "forks": 356},
-{"description": "Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)", "language": "PHP", "repo": "pimcore", "new_stars": 7, "stars": 2566, "owner": "pimcore", "forks": 1174}
+{"description": "Open Source Data & Experience Management Platform (PIM, MDM, CDP, DAM, DXP/CMS & Digital Commerce)", "language": "PHP", "repo": "pimcore", "new_stars": 7, "stars": 2565, "owner": "pimcore", "forks": 1174}
 ]

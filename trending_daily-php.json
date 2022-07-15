@@ -12,10 +12,10 @@
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 1, "stars": 9530, "owner": "squizlabs", "forks": 1451},
 {"description": "The osTicket open source ticketing system official project repository, for versions 1.8 and later", "language": "PHP", "repo": "osTicket", "new_stars": 1, "stars": 2459, "owner": "osTicket", "forks": 1441},
 {"description": "A PHP client library for accessing Google APIs", "language": "PHP", "repo": "google-api-php-client", "new_stars": 0, "stars": 8156, "owner": "googleapis", "forks": 3454},
-{"description": "PHP Email address validator", "language": "PHP", "repo": "EmailValidator", "new_stars": 4, "stars": 10722, "owner": "egulias", "forks": 164},
+{"description": "PHP Email address validator", "language": "PHP", "repo": "EmailValidator", "new_stars": 4, "stars": 10721, "owner": "egulias", "forks": 164},
 {"description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform", "language": "PHP", "repo": "MISP", "new_stars": 2, "stars": 3861, "owner": "MISP", "forks": 1161},
 {"description": "A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.", "language": "PHP", "repo": "hyperf", "new_stars": 1, "stars": 4667, "owner": "hyperf", "forks": 949},
-{"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 0, "stars": 15516, "owner": "nikic", "forks": 884},
+{"description": "A PHP parser written in PHP", "language": "PHP", "repo": "PHP-Parser", "new_stars": 0, "stars": 15515, "owner": "nikic", "forks": 884},
 {"description": "A PHP library for communicating with the Twilio REST API and generating TwiML.", "language": "PHP", "repo": "twilio-php", "new_stars": 0, "stars": 1357, "owner": "twilio", "forks": 531},
 {"description": "This is a webshell open source project", "language": "PHP", "repo": "webshell", "new_stars": 5, "stars": 8168, "owner": "tennc", "forks": 5312},
 {"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 4, "stars": 16406, "owner": "WordPress", "forks": 11402},
@@ -23,5 +23,5 @@
 {"description": "Mockery is a simple yet flexible PHP mock object framework for use in unit testing with PHPUnit, PHPSpec or any other testing framework. Its core goal is to offer a test double framework with a succinct API capable of clearly defining all possible object operations and interactions using a human readable Domain Specific Language (DSL).", "language": "PHP", "repo": "mockery", "new_stars": 1, "stars": 10209, "owner": "mockery", "forks": 445},
 {"description": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)", "language": "PHP", "repo": "laravel-mongodb", "new_stars": 1, "stars": 6118, "owner": "jenssegers", "forks": 1327},
 {"description": null, "language": "PHP", "repo": "Webdev2019", "new_stars": 0, "stars": 188, "owner": "yankovalenko94", "forks": 673},
-{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 1, "stars": 8219, "owner": "symfony", "forks": 282}
+{"description": "The HttpFoundation component defines an object-oriented layer for the HTTP specification.", "language": "PHP", "repo": "http-foundation", "new_stars": 1, "stars": 8218, "owner": "symfony", "forks": 282}
 ]

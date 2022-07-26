@@ -1,6 +1,6 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 1, "stars": 5910, "owner": "opf", "forks": 1652},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 5, "stars": 11940, "owner": "mperham", "forks": 2156},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 4, "stars": 11940, "owner": "mperham", "forks": 2156},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9210, "owner": "activeadmin", "forks": 3301},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 9, "stars": 24114, "owner": "hashicorp", "forks": 4274},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 5, "stars": 22588, "owner": "heartcombo", "forks": 5442},
@@ -8,12 +8,12 @@
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 0, "stars": 3094, "owner": "rubygems", "forks": 1598},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 3, "stars": 35573, "owner": "fastlane", "forks": 5255},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 1, "stars": 7684, "owner": "varvet", "forks": 593},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 11897, "owner": "rubocop", "forks": 2895},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 11897, "owner": "rubocop", "forks": 2896},
 {"description": "Manage complex tmux sessions easily", "language": "Ruby", "repo": "tmuxinator", "new_stars": 7, "stars": 11459, "owner": "tmuxinator", "forks": 619},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 2, "stars": 3069, "owner": "zammad", "forks": 597},
 {"description": "The Best Pagination Ruby Gem", "language": "Ruby", "repo": "pagy", "new_stars": 7, "stars": 3686, "owner": "ddnexus", "forks": 323},
 {"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 0, "stars": 5184, "owner": "CanCanCommunity", "forks": 580},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 8, "stars": 32858, "owner": "Homebrew", "forks": 7865},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 7, "stars": 32859, "owner": "Homebrew", "forks": 7865},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 0, "stars": 9568, "owner": "ruby-grape", "forks": 1217},
 {"description": "A guide to contributing to open source", "language": "Ruby", "repo": "how-to-contribute-to-open-source", "new_stars": 2, "stars": 6763, "owner": "freeCodeCamp", "forks": 1463},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 2, "stars": 6328, "owner": "paper-trail-gem", "forks": 863},
@@ -22,6 +22,6 @@
 {"description": "Solidus, the open-source eCommerce framework for industry trailblazers.", "language": "Ruby", "repo": "solidus", "new_stars": 2, "stars": 4350, "owner": "solidusio", "forks": 1215},
 {"description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data", "language": "Ruby", "repo": "rails_admin", "new_stars": 0, "stars": 7654, "owner": "railsadminteam", "forks": 2232},
 {"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 5, "stars": 13241, "owner": "chatwoot", "forks": 1666},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 13778, "owner": "CocoaPods", "forks": 2548},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 1, "stars": 13778, "owner": "CocoaPods", "forks": 2548},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 11366, "owner": "fluent", "forks": 1259}
 ]

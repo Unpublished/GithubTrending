@@ -3,12 +3,12 @@
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 4, "stars": 35587, "owner": "fastlane", "forks": 5261},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 0, "stars": 7687, "owner": "varvet", "forks": 593},
 {"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 1, "stars": 3230, "owner": "sorbet", "forks": 410},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 12991, "owner": "elastic", "forks": 3340},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 12991, "owner": "elastic", "forks": 3341},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 9212, "owner": "activeadmin", "forks": 3299},
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 5, "stars": 9663, "owner": "Shopify", "forks": 1265},
 {"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 0, "stars": 2670, "owner": "citation-style-language", "forks": 3317},
 {"description": "Ruby/Rake-based build and test system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 0, "stars": 434, "owner": "ThrowTheSwitch", "forks": 210},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 11, "stars": 27853, "owner": "rapid7", "forks": 12396},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 10, "stars": 27853, "owner": "rapid7", "forks": 12396},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 1, "stars": 21747, "owner": "kilimchoi", "forks": 703},
 {"description": "A library for bulk insertion of data into your database using ActiveRecord.", "language": "Ruby", "repo": "activerecord-import", "new_stars": 1, "stars": 3717, "owner": "zdennis", "forks": 601},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 0, "stars": 6331, "owner": "paper-trail-gem", "forks": 863},
@@ -21,7 +21,7 @@
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 1, "stars": 9622, "owner": "teamcapybara", "forks": 1410},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 1, "stars": 11906, "owner": "rubocop", "forks": 2895},
 {"description": "Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 1, "stars": 4477, "owner": "simplecov-ruby", "forks": 531},
-{"description": "Ruby library for the Stripe API.", "language": "Ruby", "repo": "stripe-ruby", "new_stars": 1, "stars": 1707, "owner": "stripe", "forks": 503},
+{"description": "Ruby library for the Stripe API.", "language": "Ruby", "repo": "stripe-ruby", "new_stars": 2, "stars": 1708, "owner": "stripe", "forks": 503},
 {"description": "Scheduler / Cron for Sidekiq jobs", "language": "Ruby", "repo": "sidekiq-cron", "new_stars": 0, "stars": 1595, "owner": "ondrejbartas", "forks": 251},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 5, "stars": 51158, "owner": "rails", "forks": 20507}
 ]

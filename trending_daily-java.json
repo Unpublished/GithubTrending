@@ -1,6 +1,6 @@
 [
-{"description": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.", "language": "Java", "repo": "shenyu", "new_stars": 52, "stars": 6676, "owner": "apache", "forks": 2322},
-{"description": "An open source SQL database designed to process time series data, faster", "language": "Java", "repo": "questdb", "new_stars": 13, "stars": 8959, "owner": "questdb", "forks": 506},
+{"description": "Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance.", "language": "Java", "repo": "shenyu", "new_stars": 53, "stars": 6676, "owner": "apache", "forks": 2322},
+{"description": "An open source SQL database designed to process time series data, faster", "language": "Java", "repo": "questdb", "new_stars": 13, "stars": 8958, "owner": "questdb", "forks": 506},
 {"description": "Quarkus: Supersonic Subatomic Java.", "language": "Java", "repo": "quarkus", "new_stars": 9, "stars": 10465, "owner": "quarkusio", "forks": 1927},
 {"description": "Welcome to the EazyBuilder project", "language": "Java", "repo": "EazyBuilder", "new_stars": 14, "stars": 204, "owner": "iSoftStoneGroup", "forks": 72},
 {"description": "Vulkan renderer mod for Minecraft.", "language": "Java", "repo": "VulkanMod", "new_stars": 8, "stars": 496, "owner": "xCollateral", "forks": 35},
@@ -12,16 +12,16 @@
 {"description": "OpenTelemetry auto-instrumentation and instrumentation libraries for Java", "language": "Java", "repo": "opentelemetry-java-instrumentation", "new_stars": 5, "stars": 926, "owner": "open-telemetry", "forks": 414},
 {"description": "\ud83d\udc76\ud83c\udffb \uc2e0\uc785 \uac1c\ubc1c\uc790 \uc804\uacf5 \uc9c0\uc2dd & \uae30\uc220 \uba74\uc811 \ubc31\uacfc\uc0ac\uc804", "language": "Java", "repo": "tech-interview-for-developer", "new_stars": 18, "stars": 7820, "owner": "gyoogle", "forks": 1986},
 {"description": "Apache ZooKeeper", "language": "Java", "repo": "zookeeper", "new_stars": 8, "stars": 10684, "owner": "apache", "forks": 6726},
-{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 16, "stars": 48641, "owner": "spring-projects", "forks": 34324},
+{"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 16, "stars": 48640, "owner": "spring-projects", "forks": 34324},
 {"description": "\u4e00\u7ad9\u5f0fApache Kafka\u96c6\u7fa4\u6307\u6807\u76d1\u63a7\u4e0e\u8fd0\u7ef4\u7ba1\u63a7\u5e73\u53f0", "language": "Java", "repo": "LogiKM", "new_stars": 8, "stars": 4372, "owner": "didi", "forks": 875},
 {"description": "The database purpose-built for stream processing applications.", "language": "Java", "repo": "ksql", "new_stars": 5, "stars": 5114, "owner": "confluentinc", "forks": 954},
 {"description": "(RuoYi)\u5b98\u65b9\u4ed3\u5e93 \u57fa\u4e8eSpringBoot\uff0cSpring Security\uff0cJWT\uff0cVue & Element \u7684\u524d\u540e\u7aef\u5206\u79bb\u6743\u9650\u7ba1\u7406\u7cfb\u7edf\uff0c\u540c\u65f6\u63d0\u4f9b\u4e86 Vue3 \u7684\u7248\u672c", "language": "Java", "repo": "RuoYi-Vue", "new_stars": 5, "stars": 1215, "owner": "yangzongzhuan", "forks": 723},
-{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 28, "stars": 62501, "owner": "spring-projects", "forks": 36878},
+{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 29, "stars": 62502, "owner": "spring-projects", "forks": 36878},
 {"description": "SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time).", "language": "Java", "repo": "incubator-seatunnel", "new_stars": 6, "stars": 3704, "owner": "apache", "forks": 623},
-{"description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.", "language": "Java", "repo": "antlr4", "new_stars": 10, "stars": 12682, "owner": "antlr", "forks": 2769},
+{"description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.", "language": "Java", "repo": "antlr4", "new_stars": 11, "stars": 12683, "owner": "antlr", "forks": 2769},
 {"description": "Picture Selector Library for Android or \u56fe\u7247\u9009\u62e9\u5668", "language": "Java", "repo": "PictureSelector", "new_stars": 5, "stars": 11761, "owner": "LuckSiege", "forks": 2723},
 {"description": "Distributed Workflow Engine for Microservices Orchestration", "language": "Java", "repo": "zeebe", "new_stars": 3, "stars": 2436, "owner": "camunda", "forks": 435},
 {"description": "Feign makes writing java http clients easier", "language": "Java", "repo": "feign", "new_stars": 7, "stars": 8228, "owner": "OpenFeign", "forks": 1712},
 {"description": "GraalVM: Run Programs Faster Anywhere", "language": "Java", "repo": "graal", "new_stars": 7, "stars": 17301, "owner": "oracle", "forks": 1395},
-{"description": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.", "language": "Java", "repo": "DSA-Bootcamp-Java", "new_stars": 25, "stars": 8087, "owner": "kunal-kushwaha", "forks": 5040}
+{"description": "This repository consists of the code samples, assignments, and notes for the Java Data Structures & Algorithms bootcamp of Community Classroom.", "language": "Java", "repo": "DSA-Bootcamp-Java", "new_stars": 26, "stars": 8088, "owner": "kunal-kushwaha", "forks": 5040}
 ]

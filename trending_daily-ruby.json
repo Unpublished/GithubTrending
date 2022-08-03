@@ -1,14 +1,14 @@
 [
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 3, "stars": 22606, "owner": "heartcombo", "forks": 5441},
 {"description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!", "language": "Ruby", "repo": "oxidized", "new_stars": 2, "stars": 2036, "owner": "ytti", "forks": 755},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 2, "stars": 11376, "owner": "fluent", "forks": 1261},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 3, "stars": 11377, "owner": "fluent", "forks": 1261},
 {"description": "Emacs Plus formulae for the Homebrew package manager", "language": "Ruby", "repo": "homebrew-emacs-plus", "new_stars": 3, "stars": 1524, "owner": "d12frosted", "forks": 124},
 {"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 1, "stars": 7115, "owner": "puma", "forks": 1331},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 2, "stars": 9214, "owner": "activeadmin", "forks": 3296},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 3, "stars": 10272, "owner": "faker-ruby", "forks": 2930},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 2, "stars": 4207, "owner": "luggit", "forks": 612},
 {"description": "Remote multi-server automation tool", "language": "Ruby", "repo": "capistrano", "new_stars": 1, "stars": 12210, "owner": "capistrano", "forks": 1795},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 6, "stars": 19345, "owner": "Homebrew", "forks": 9933},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 6, "stars": 19345, "owner": "Homebrew", "forks": 9932},
 {"description": "ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.", "language": "Ruby", "repo": "shopify-api-ruby", "new_stars": 1, "stars": 897, "owner": "Shopify", "forks": 388},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 3, "stars": 35594, "owner": "fastlane", "forks": 5264},
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 1, "stars": 2567, "owner": "github", "forks": 313},
@@ -17,11 +17,11 @@
 {"description": "It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.", "language": "Ruby", "repo": "i18n-js", "new_stars": 1, "stars": 3592, "owner": "fnando", "forks": 520},
 {"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 6, "stars": 13275, "owner": "chatwoot", "forks": 1681},
 {"description": "Ruby/Rake-based build and test system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 2, "stars": 436, "owner": "ThrowTheSwitch", "forks": 211},
-{"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 1, "stars": 4416, "owner": "rack", "forks": 1616},
+{"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 1, "stars": 4416, "owner": "rack", "forks": 1617},
 {"description": "Mirror of redmine code source - Official Subversion repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 2, "stars": 4460, "owner": "redmine", "forks": 2189},
 {"description": "Domain name parser for Ruby based on the Public Suffix List.", "language": "Ruby", "repo": "publicsuffix-ruby", "new_stars": 2, "stars": 535, "owner": "weppos", "forks": 105},
 {"description": "The core logic behind Dependabot's update PR creation. For product feedback see:", "language": "Ruby", "repo": "dependabot-core", "new_stars": 4, "stars": 2821, "owner": "dependabot", "forks": 659},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 1, "stars": 5199, "owner": "activerecord-hackery", "forks": 747},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 2, "stars": 9569, "owner": "ruby-grape", "forks": 1218},
-{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 6, "stars": 21765, "owner": "kilimchoi", "forks": 704}
+{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 5, "stars": 21765, "owner": "kilimchoi", "forks": 704}
 ]

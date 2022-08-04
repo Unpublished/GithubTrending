@@ -1,14 +1,14 @@
 [
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 25, "stars": 9675, "owner": "Shopify", "forks": 1268},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 15, "stars": 11956, "owner": "mperham", "forks": 2163},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 47, "stars": 51171, "owner": "rails", "forks": 20516},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 46, "stars": 51171, "owner": "rails", "forks": 20517},
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 64, "stars": 29297, "owner": "freeCodeCamp", "forks": 1980},
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 17, "stars": 2568, "owner": "github", "forks": 314},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 15, "stars": 12998, "owner": "elastic", "forks": 3342},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 30, "stars": 35597, "owner": "fastlane", "forks": 5263},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 16, "stars": 12999, "owner": "elastic", "forks": 3342},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 30, "stars": 35597, "owner": "fastlane", "forks": 5264},
 {"description": null, "language": "Ruby", "repo": "project-template-react-rails-api", "new_stars": 0, "stars": 28, "owner": "learn-co-curriculum", "forks": 329},
 {"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 7, "stars": 3233, "owner": "sorbet", "forks": 410},
-{"description": "A framework for building view components with a Ruby DSL.", "language": "Ruby", "repo": "phlex", "new_stars": 30, "stars": 144, "owner": "joeldrapper", "forks": 13},
+{"description": "A framework for building view components with a Ruby DSL.", "language": "Ruby", "repo": "phlex", "new_stars": 29, "stars": 144, "owner": "joeldrapper", "forks": 13},
 {"description": "A Ruby gem to load environment variables from `.env`.", "language": "Ruby", "repo": "dotenv", "new_stars": 9, "stars": 6124, "owner": "bkeepers", "forks": 483},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 2, "stars": 2942, "owner": "elastic", "forks": 760},
 {"description": "Boot large Ruby/Rails apps faster", "language": "Ruby", "repo": "bootsnap", "new_stars": 2, "stars": 2542, "owner": "Shopify", "forks": 164},
@@ -21,7 +21,7 @@
 {"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 10, "stars": 2674, "owner": "citation-style-language", "forks": 3320},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 4, "stars": 9570, "owner": "ruby-grape", "forks": 1218},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 54, "stars": 45088, "owner": "jekyll", "forks": 9843},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 22, "stars": 22607, "owner": "heartcombo", "forks": 5443},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 23, "stars": 22608, "owner": "heartcombo", "forks": 5443},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 19, "stars": 10275, "owner": "faker-ruby", "forks": 2931},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 2, "stars": 197, "owner": "DataDog", "forks": 293}
 ]

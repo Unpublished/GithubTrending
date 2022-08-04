@@ -1,6 +1,6 @@
 [
-{"description": "Transparent dictionary-based row-level compression for SQLite", "language": "Rust", "repo": "sqlite-zstd", "new_stars": 103, "stars": 829, "owner": "phiresky", "forks": 15},
-{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 50, "stars": 1194, "owner": "MystenLabs", "forks": 3333},
+{"description": "Transparent dictionary-based row-level compression for SQLite", "language": "Rust", "repo": "sqlite-zstd", "new_stars": 125, "stars": 831, "owner": "phiresky", "forks": 15},
+{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 49, "stars": 1194, "owner": "MystenLabs", "forks": 3335},
 {"description": "A Decentralized Operating System for Zero-Knowledge Applications", "language": "Rust", "repo": "snarkOS", "new_stars": 20, "stars": 1137, "owner": "AleoHQ", "forks": 247},
 {"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 9, "stars": 3909, "owner": "foundry-rs", "forks": 501},
 {"description": "The Rust Implementation of the libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 5, "stars": 2600, "owner": "libp2p", "forks": 541},
@@ -12,16 +12,16 @@
 {"description": "A full featured, fast Command Line Argument Parser for Rust", "language": "Rust", "repo": "clap", "new_stars": 9, "stars": 9175, "owner": "clap-rs", "forks": 790},
 {"description": "A high-performance observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 10, "stars": 10835, "owner": "vectordotdev", "forks": 839},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 11, "stars": 9102, "owner": "getzola", "forks": 661},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 88, "stars": 70213, "owner": "rust-lang", "forks": 9564},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 84, "stars": 70216, "owner": "rust-lang", "forks": 9564},
 {"description": "Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL", "language": "Rust", "repo": "graph-node", "new_stars": 1, "stars": 2064, "owner": "graphprotocol", "forks": 586},
-{"description": "Qdrant - Vector Search Engine for the next generation of AI applications", "language": "Rust", "repo": "qdrant", "new_stars": 14, "stars": 2121, "owner": "qdrant", "forks": 111},
-{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 48, "stars": 9070, "owner": "TheAlgorithms", "forks": 1030},
+{"description": "Qdrant - Vector Search Engine for the next generation of AI applications", "language": "Rust", "repo": "qdrant", "new_stars": 13, "stars": 2121, "owner": "qdrant", "forks": 111},
+{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 44, "stars": 9071, "owner": "TheAlgorithms", "forks": 1030},
 {"description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native", "language": "Rust", "repo": "egui", "new_stars": 16, "stars": 9915, "owner": "emilk", "forks": 631},
-{"description": "An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.", "language": "Rust", "repo": "meilisearch", "new_stars": 33, "stars": 28309, "owner": "meilisearch", "forks": 990},
-{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 20, "stars": 10031, "owner": "hyperium", "forks": 1203},
-{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 19, "stars": 22978, "owner": "yewstack", "forks": 1130},
-{"description": "Empowering everyone to build reliable and efficient smart contracts.", "language": "Rust", "repo": "sway", "new_stars": 9, "stars": 193, "owner": "FuelLabs", "forks": 51},
+{"description": "An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.", "language": "Rust", "repo": "meilisearch", "new_stars": 34, "stars": 28310, "owner": "meilisearch", "forks": 990},
+{"description": "An HTTP library for Rust", "language": "Rust", "repo": "hyper", "new_stars": 20, "stars": 10030, "owner": "hyperium", "forks": 1203},
+{"description": "Rust / Wasm framework for building client web apps", "language": "Rust", "repo": "yew", "new_stars": 18, "stars": 22978, "owner": "yewstack", "forks": 1130},
+{"description": "Empowering everyone to build reliable and efficient smart contracts.", "language": "Rust", "repo": "sway", "new_stars": 14, "stars": 198, "owner": "FuelLabs", "forks": 51},
 {"description": "GraphQL server library for Rust", "language": "Rust", "repo": "juniper", "new_stars": 7, "stars": 4649, "owner": "graphql-rust", "forks": 383},
 {"description": "Salvo is a powerful and simplest web server framework in Rust world", "language": "Rust", "repo": "salvo", "new_stars": 38, "stars": 710, "owner": "salvo-rs", "forks": 45},
-{"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 24, "stars": 18678, "owner": "ogham", "forks": 556}
+{"description": "A modern replacement for \u2018ls\u2019.", "language": "Rust", "repo": "exa", "new_stars": 23, "stars": 18678, "owner": "ogham", "forks": 556}
 ]

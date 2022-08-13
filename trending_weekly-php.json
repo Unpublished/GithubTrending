@@ -6,7 +6,7 @@
 {"description": "A PHP library for generating universally unique identifiers (UUIDs).", "language": "PHP", "repo": "uuid", "new_stars": 22, "stars": 11754, "owner": "ramsey", "forks": 469},
 {"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 18, "stars": 8768, "owner": "doctrine", "forks": 1208},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 60, "stars": 19716, "owner": "nextcloud", "forks": 3152},
-{"description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.", "language": "PHP", "repo": "elementor", "new_stars": 18, "stars": 4545, "owner": "elementor", "forks": 1127},
+{"description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.", "language": "PHP", "repo": "elementor", "new_stars": 16, "stars": 4545, "owner": "elementor", "forks": 1127},
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 17, "stars": 9599, "owner": "squizlabs", "forks": 1459},
 {"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 40, "stars": 16514, "owner": "WordPress", "forks": 11494},
 {"description": "A personal music streaming server that works.", "language": "PHP", "repo": "koel", "new_stars": 41, "stars": 13869, "owner": "koel", "forks": 1758},
@@ -17,11 +17,11 @@
 {"description": "Stay motivated and show off your contribution streak!", "language": "PHP", "repo": "github-readme-streak-stats", "new_stars": 35, "stars": 1516, "owner": "DenverCoder1", "forks": 282},
 {"description": "Open Source PHP Framework (originally from EllisLab)", "language": "PHP", "repo": "CodeIgniter4", "new_stars": 22, "stars": 4234, "owner": "codeigniter4", "forks": 1624},
 {"description": "Damn Vulnerable Web Application (DVWA)", "language": "PHP", "repo": "DVWA", "new_stars": 47, "stars": 6421, "owner": "digininja", "forks": 2145},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 146, "stars": 40818, "owner": "danielmiessler", "forks": 20640},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 145, "stars": 40818, "owner": "danielmiessler", "forks": 20640},
 {"description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.", "language": "PHP", "repo": "phpdotenv", "new_stars": 17, "stars": 12071, "owner": "vlucas", "forks": 585},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 16, "stars": 19832, "owner": "Seldaek", "forks": 1831},
-{"description": "A flexible and feature-complete Redis client for PHP.", "language": "PHP", "repo": "predis", "new_stars": 10, "stars": 7146, "owner": "predis", "forks": 947},
-{"description": "Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.", "language": "PHP", "repo": "leantime", "new_stars": 192, "stars": 1504, "owner": "Leantime", "forks": 290},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 17, "stars": 19832, "owner": "Seldaek", "forks": 1831},
+{"description": "A flexible and feature-complete Redis client for PHP.", "language": "PHP", "repo": "predis", "new_stars": 12, "stars": 7146, "owner": "predis", "forks": 947},
+{"description": "Leantime is a lean project management system for innovators. Designed to help you manage your projects from ideation to delivery.", "language": "PHP", "repo": "leantime", "new_stars": 191, "stars": 1504, "owner": "Leantime", "forks": 290},
 {"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 22, "stars": 12483, "owner": "barryvdh", "forks": 1081},
-{"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 20, "stars": 11089, "owner": "the-control-group", "forks": 2606}
+{"description": "Voyager - The Missing Laravel Admin", "language": "PHP", "repo": "voyager", "new_stars": 19, "stars": 11089, "owner": "the-control-group", "forks": 2606}
 ]

@@ -4,10 +4,10 @@
 {"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 13030, "owner": "elastic", "forks": 3353},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 4, "stars": 24273, "owner": "hashicorp", "forks": 4288},
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 0, "stars": 9175, "owner": "resque", "forks": 1658},
-{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 4, "stars": 45233, "owner": "jekyll", "forks": 9847},
+{"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 5, "stars": 45234, "owner": "jekyll", "forks": 9847},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 8007, "owner": "heartcombo", "forks": 1312},
 {"description": "Server automation framework and application", "language": "Ruby", "repo": "puppet", "new_stars": 0, "stars": 6671, "owner": "puppetlabs", "forks": 2244},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 7, "stars": 35728, "owner": "fastlane", "forks": 5289},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 7, "stars": 35727, "owner": "fastlane", "forks": 5289},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 2, "stars": 4242, "owner": "luggit", "forks": 611},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 0, "stars": 2984, "owner": "github", "forks": 1328},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 1, "stars": 11467, "owner": "fluent", "forks": 1264},
@@ -21,7 +21,7 @@
 {"description": "Collect performance profiles for your Rails application.", "language": "Ruby", "repo": "app_profiler", "new_stars": 0, "stars": 134, "owner": "Shopify", "forks": 5},
 {"description": "Ruby/Rake-based build and test system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 0, "stars": 441, "owner": "ThrowTheSwitch", "forks": 212},
 {"description": "For empowering community", "language": "Ruby", "repo": "forem", "new_stars": 4, "stars": 19534, "owner": "forem", "forks": 3477},
-{"description": "Catch unsafe migrations in development", "language": "Ruby", "repo": "strong_migrations", "new_stars": 1, "stars": 3130, "owner": "ankane", "forks": 139},
+{"description": "Catch unsafe migrations in development", "language": "Ruby", "repo": "strong_migrations", "new_stars": 0, "stars": 3130, "owner": "ankane", "forks": 139},
 {"description": "The core logic behind Dependabot's update PR creation. For product feedback see:", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 2865, "owner": "dependabot", "forks": 671},
 {"description": "A really simple end-user interface for your BigBlueButton server.", "language": "Ruby", "repo": "greenlight", "new_stars": 0, "stars": 695, "owner": "bigbluebutton", "forks": 3776}
 ]

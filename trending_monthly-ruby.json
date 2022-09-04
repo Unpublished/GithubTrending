@@ -1,9 +1,9 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 105, "stars": 6019, "owner": "opf", "forks": 1675},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 62, "stars": 12009, "owner": "mperham", "forks": 2183},
-{"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 37, "stars": 3260, "owner": "sorbet", "forks": 420},
-{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 104, "stars": 9769, "owner": "Shopify", "forks": 1272},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 264, "stars": 28096, "owner": "rapid7", "forks": 12486},
+{"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 36, "stars": 3260, "owner": "sorbet", "forks": 420},
+{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 103, "stars": 9769, "owner": "Shopify", "forks": 1272},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 264, "stars": 28096, "owner": "rapid7", "forks": 12487},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 298, "stars": 22056, "owner": "kilimchoi", "forks": 731},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 252, "stars": 36352, "owner": "huginn", "forks": 3296},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 59, "stars": 11961, "owner": "rubocop", "forks": 2906},
@@ -11,7 +11,7 @@
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 51, "stars": 2612, "owner": "ViewComponent", "forks": 326},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 40, "stars": 4511, "owner": "instructure", "forks": 1991},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 43, "stars": 7732, "owner": "varvet", "forks": 594},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 92, "stars": 19411, "owner": "Homebrew", "forks": 9956},
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 93, "stars": 19412, "owner": "Homebrew", "forks": 9956},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 117, "stars": 10192, "owner": "github", "forks": 3682},
 {"description": null, "language": "Ruby", "repo": "phase-3-enumerables-debugging", "new_stars": 0, "stars": 2, "owner": "learn-co-curriculum", "forks": 268},
 {"description": null, "language": "Ruby", "repo": "phase-3-active-record-mechanics", "new_stars": 0, "stars": 1, "owner": "learn-co-curriculum", "forks": 368},
@@ -22,6 +22,6 @@
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 45, "stars": 2985, "owner": "github", "forks": 1329},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 58, "stars": 23025, "owner": "gitlabhq", "forks": 5712},
 {"description": "Simple, but flexible HTTP client library, with support for multiple backends.", "language": "Ruby", "repo": "faraday", "new_stars": 37, "stars": 5356, "owner": "lostisland", "forks": 927},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 175, "stars": 13429, "owner": "chatwoot", "forks": 1737},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 248, "stars": 29887, "owner": "mastodon", "forks": 4658}
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 176, "stars": 13430, "owner": "chatwoot", "forks": 1737},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 248, "stars": 29887, "owner": "mastodon", "forks": 4659}
 ]

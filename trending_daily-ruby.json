@@ -1,9 +1,9 @@
 [
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 3, "stars": 13857, "owner": "CocoaPods", "forks": 2569},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 7, "stars": 24443, "owner": "hashicorp", "forks": 4307},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 7, "stars": 35902, "owner": "fastlane", "forks": 5318},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 6, "stars": 35902, "owner": "fastlane", "forks": 5318},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 11, "stars": 36603, "owner": "discourse", "forks": 7788},
-{"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 1, "stars": 2668, "owner": "ViewComponent", "forks": 340},
+{"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 1, "stars": 2668, "owner": "ViewComponent", "forks": 339},
 {"description": null, "language": "Ruby", "repo": "each", "new_stars": 0, "stars": 1, "owner": "turingschool-examples", "forks": 87},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 7025, "owner": "chef", "forks": 2568},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 4, "stars": 6110, "owner": "opf", "forks": 1695},
@@ -11,10 +11,10 @@
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 0, "stars": 5139, "owner": "rmosolgo", "forks": 1265},
 {"description": null, "language": "Ruby", "repo": "intro_to_testing", "new_stars": 0, "stars": 92, "owner": "turingschool-examples", "forks": 0},
 {"description": "Repository for collecting Locale data for Ruby on Rails I18n as well as other interesting, Rails related I18n stuff", "language": "Ruby", "repo": "rails-i18n", "new_stars": 0, "stars": 3859, "owner": "svenfuchs", "forks": 2802},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 16, "stars": 28422, "owner": "rapid7", "forks": 12567},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 15, "stars": 28423, "owner": "rapid7", "forks": 12567},
 {"description": "Ruby/Rake-based build and test system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 2, "stars": 448, "owner": "ThrowTheSwitch", "forks": 212},
-{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 4, "stars": 3154, "owner": "zammad", "forks": 613},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 7, "stars": 51557, "owner": "rails", "forks": 20670},
+{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 5, "stars": 3155, "owner": "zammad", "forks": 613},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 51558, "owner": "rails", "forks": 20670},
 {"description": "a collaborative knowledge-exchange platform in Rails; we welcome first-time contributors!", "language": "Ruby", "repo": "plots2", "new_stars": 2, "stars": 895, "owner": "publiclab", "forks": 1849},
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 1, "stars": 9851, "owner": "Shopify", "forks": 1277},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 4, "stars": 11547, "owner": "fluent", "forks": 1270},
@@ -22,6 +22,6 @@
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 1, "stars": 4287, "owner": "luggit", "forks": 615},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 7, "stars": 10420, "owner": "faker-ruby", "forks": 2989},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 7, "stars": 36615, "owner": "huginn", "forks": 3313},
-{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 7, "stars": 10304, "owner": "github", "forks": 3759},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 8, "stars": 10305, "owner": "github", "forks": 3759},
 {"description": "InSpec: Auditing and Testing Framework", "language": "Ruby", "repo": "inspec", "new_stars": 0, "stars": 2569, "owner": "inspec", "forks": 669}
 ]

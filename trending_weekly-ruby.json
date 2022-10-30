@@ -1,9 +1,9 @@
 [
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 251, "stars": 30349, "owner": "mastodon", "forks": 4720},
-{"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 20, "stars": 7234, "owner": "puma", "forks": 1354},
-{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 53, "stars": 10387, "owner": "github", "forks": 3796},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 103, "stars": 33830, "owner": "Homebrew", "forks": 8169},
-{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 30, "stars": 35965, "owner": "fastlane", "forks": 5335},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 258, "stars": 30356, "owner": "mastodon", "forks": 4721},
+{"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 18, "stars": 7234, "owner": "puma", "forks": 1354},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 52, "stars": 10387, "owner": "github", "forks": 3796},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 101, "stars": 33830, "owner": "Homebrew", "forks": 8169},
+{"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 31, "stars": 35966, "owner": "fastlane", "forks": 5335},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 68, "stars": 36717, "owner": "discourse", "forks": 7799},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 8, "stars": 7641, "owner": "thoughtbot", "forks": 2608},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 59, "stars": 22361, "owner": "kilimchoi", "forks": 759},
@@ -11,11 +11,11 @@
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 44, "stars": 45488, "owner": "jekyll", "forks": 9904},
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 15, "stars": 2699, "owner": "ViewComponent", "forks": 345},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 7, "stars": 1525, "owner": "rswag", "forks": 355},
-{"description": "Debugging functionality for Ruby", "language": "Ruby", "repo": "debug", "new_stars": 3, "stars": 777, "owner": "ruby", "forks": 70},
+{"description": "Debugging functionality for Ruby", "language": "Ruby", "repo": "debug", "new_stars": 2, "stars": 778, "owner": "ruby", "forks": 70},
 {"description": "Ruby FFI", "language": "Ruby", "repo": "ffi", "new_stars": 1, "stars": 1970, "owner": "ffi", "forks": 324},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 71, "stars": 28577, "owner": "rapid7", "forks": 12629},
-{"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 18, "stars": 23071, "owner": "gitlabhq", "forks": 5717},
-{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 32, "stars": 19628, "owner": "ruby", "forks": 5180},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 69, "stars": 28577, "owner": "rapid7", "forks": 12629},
+{"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 19, "stars": 23072, "owner": "gitlabhq", "forks": 5717},
+{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 32, "stars": 19629, "owner": "ruby", "forks": 5180},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 11, "stars": 12107, "owner": "mperham", "forks": 2208},
 {"description": "Ansible playbook for Elasticsearch", "language": "Ruby", "repo": "ansible-elasticsearch", "new_stars": 3, "stars": 1528, "owner": "elastic", "forks": 812},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 4, "stars": 8034, "owner": "heartcombo", "forks": 1314},
@@ -23,5 +23,5 @@
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 4, "stars": 5242, "owner": "rails-api", "forks": 1397},
 {"description": "Volunteer management system for nonprofit CASA, which serves foster youth in counties across America.", "language": "Ruby", "repo": "casa", "new_stars": 2, "stars": 176, "owner": "rubyforgood", "forks": 324},
 {"description": null, "language": "Ruby", "repo": "sports_ball_2210", "new_stars": 0, "stars": 31, "owner": "turingschool-examples", "forks": 0},
-{"description": "Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 36, "stars": 11786, "owner": "Homebrew", "forks": 10903}
+{"description": "Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 36, "stars": 11787, "owner": "Homebrew", "forks": 10903}
 ]

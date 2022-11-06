@@ -1,14 +1,14 @@
 [
-{"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 1, "stars": 9712, "owner": "teamcapybara", "forks": 1429},
-{"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 2, "stars": 4590, "owner": "instructure", "forks": 2045},
+{"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 0, "stars": 9712, "owner": "teamcapybara", "forks": 1429},
+{"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 2, "stars": 4591, "owner": "instructure", "forks": 2045},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 7, "stars": 35993, "owner": "fastlane", "forks": 5341},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 12029, "owner": "rubocop", "forks": 2941},
 {"description": null, "language": "Ruby", "repo": "i-told-you-it-was-private", "new_stars": 4, "stars": 231, "owner": "fxn", "forks": 12},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 240, "stars": 31531, "owner": "mastodon", "forks": 4825},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 243, "stars": 31549, "owner": "mastodon", "forks": 4829},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 1, "stars": 3195, "owner": "rubygems", "forks": 1648},
 {"description": "Bring some 12 factor love to your mobile apps!", "language": "Ruby", "repo": "react-native-config", "new_stars": 1, "stars": 4312, "owner": "luggit", "forks": 615},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 51699, "owner": "rails", "forks": 20739},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 5, "stars": 12125, "owner": "mperham", "forks": 2211},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 6, "stars": 12126, "owner": "mperham", "forks": 2211},
 {"description": "Elasticsearch integrations for ActiveModel/Record and Ruby on Rails", "language": "Ruby", "repo": "elasticsearch-rails", "new_stars": 0, "stars": 2976, "owner": "elastic", "forks": 773},
 {"description": "All sorts of useful information about every country packaged as convenient little country objects. It includes data from ISO 3166 (countries and states/subdivisions ), ISO 4217 (currency), and E.164 (phone numbers).", "language": "Ruby", "repo": "countries", "new_stars": 2, "stars": 1930, "owner": "countries", "forks": 648},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 1, "stars": 3184, "owner": "zammad", "forks": 622},
@@ -21,7 +21,7 @@
 {"description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.", "language": "Ruby", "repo": "resque", "new_stars": 0, "stars": 9207, "owner": "resque", "forks": 1669},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 0, "stars": 5455, "owner": "vcr", "forks": 496},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 1, "stars": 5148, "owner": "rmosolgo", "forks": 1278},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 2, "stars": 3448, "owner": "github", "forks": 11457},
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 1, "stars": 3448, "owner": "github", "forks": 11457},
 {"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 2, "stars": 5234, "owner": "CanCanCommunity", "forks": 595},
 {"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 1, "stars": 5471, "owner": "thoughtbot", "forks": 1051}
 ]

@@ -1,16 +1,16 @@
 [
 {"description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)", "language": "C++", "repo": "PrismLauncher", "new_stars": 2405, "stars": 2397, "owner": "PrismLauncher", "forks": 158},
-{"description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 680, "stars": 3916, "owner": "hyprwm", "forks": 141},
-{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 226, "stars": 9864, "owner": "Aircoookie", "forks": 1988},
+{"description": "Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 679, "stars": 3918, "owner": "hyprwm", "forks": 141},
+{"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 225, "stars": 9864, "owner": "Aircoookie", "forks": 1988},
 {"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| An Arknights assistant compatible with EN, JP, KR, ZH_TW clients", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 702, "stars": 4972, "owner": "MaaAssistantArknights", "forks": 568},
 {"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeepass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 344, "stars": 14264, "owner": "keepassxreboot", "forks": 1132},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1226, "stars": 43270, "owner": "ocornut", "forks": 7581},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1227, "stars": 43271, "owner": "ocornut", "forks": 7580},
 {"description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!", "language": "C++", "repo": "redpanda", "new_stars": 415, "stars": 5420, "owner": "redpanda-data", "forks": 366},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 249, "stars": 4985, "owner": "oceanbase", "forks": 1094},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 669, "stars": 64888, "owner": "opencv", "forks": 53031},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 667, "stars": 64888, "owner": "opencv", "forks": 53030},
 {"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 249, "stars": 16770, "owner": "trojan-gfw", "forks": 2879},
-{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 484, "stars": 26237, "owner": "microsoft", "forks": 4711},
-{"description": "Make a fortune quietly", "language": "C++", "repo": "naiveproxy", "new_stars": 681, "stars": 3498, "owner": "klzgrad", "forks": 510},
+{"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 482, "stars": 26237, "owner": "microsoft", "forks": 4711},
+{"description": "Make a fortune quietly", "language": "C++", "repo": "naiveproxy", "new_stars": 682, "stars": 3499, "owner": "klzgrad", "forks": 510},
 {"description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 406, "stars": 8944, "owner": "doitsujin", "forks": 582},
 {"description": "Run Nintendo Switch homebrew & games on your Android device!", "language": "C++", "repo": "skyline", "new_stars": 650, "stars": 10774, "owner": "skyline-emu", "forks": 1441},
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 174, "stars": 23463, "owner": "dmlc", "forks": 8507},
@@ -22,6 +22,6 @@
 {"description": "Simple, secure & standards compliant web server for the most demanding of applications", "language": "C++", "repo": "uWebSockets", "new_stars": 575, "stars": 14847, "owner": "uNetworking", "forks": 1610},
 {"description": "mold: A Modern Linker", "language": "C++", "repo": "mold", "new_stars": 571, "stars": 9479, "owner": "rui314", "forks": 330},
 {"description": "Software for ESP32 to talk to Hoymiles Inverters", "language": "C++", "repo": "OpenDTU", "new_stars": 171, "stars": 372, "owner": "tbnobody", "forks": 63},
-{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 477, "stars": 17740, "owner": "notepad-plus-plus", "forks": 3885},
-{"description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.", "language": "C++", "repo": "connectedhomeip", "new_stars": 347, "stars": 5114, "owner": "project-chip", "forks": 1134}
+{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 478, "stars": 17741, "owner": "notepad-plus-plus", "forks": 3885},
+{"description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.", "language": "C++", "repo": "connectedhomeip", "new_stars": 348, "stars": 5115, "owner": "project-chip", "forks": 1134}
 ]

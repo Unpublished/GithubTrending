@@ -1,16 +1,16 @@
 [
 {"description": "Unified developer tools for JavaScript, TypeScript, and the web", "language": "Rust", "repo": "tools", "new_stars": 2038, "stars": 21522, "owner": "rome", "forks": 639},
-{"description": "Speedy TypeScript type checker", "language": "Rust", "repo": "stc", "new_stars": 1918, "stars": 2958, "owner": "dudykr", "forks": 86},
-{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 564, "stars": 2822, "owner": "MystenLabs", "forks": 6956},
+{"description": "Speedy TypeScript type checker", "language": "Rust", "repo": "stc", "new_stars": 1906, "stars": 2959, "owner": "dudykr", "forks": 86},
+{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 564, "stars": 2823, "owner": "MystenLabs", "forks": 6959},
 {"description": "A Decentralized Operating System for ZK Applications", "language": "Rust", "repo": "snarkOS", "new_stars": 275, "stars": 1894, "owner": "AleoHQ", "forks": 494},
 {"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 689, "stars": 7374, "owner": "tokio-rs", "forks": 546},
 {"description": "An extremely fast Python linter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 1141, "stars": 3438, "owner": "charliermarsh", "forks": 82},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 839, "stars": 22033, "owner": "nushell", "forks": 1075},
-{"description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.", "language": "Rust", "repo": "rustdesk", "new_stars": 2335, "stars": 33686, "owner": "rustdesk", "forks": 2950},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 841, "stars": 22035, "owner": "nushell", "forks": 1075},
+{"description": "Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.", "language": "Rust", "repo": "rustdesk", "new_stars": 2335, "stars": 33687, "owner": "rustdesk", "forks": 2950},
 {"description": "RustDesk Server Program", "language": "Rust", "repo": "rustdesk-server", "new_stars": 363, "stars": 2797, "owner": "rustdesk", "forks": 551},
-{"description": "The Modern Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 1059, "stars": 8474, "owner": "RustScan", "forks": 641},
-{"description": "Distributed systems runtime daemon written in Rust.", "language": "Rust", "repo": "aurae", "new_stars": 539, "stars": 870, "owner": "aurae-runtime", "forks": 32},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 1332, "stars": 20554, "owner": "bevyengine", "forks": 2023},
+{"description": "The Modern Port Scanner", "language": "Rust", "repo": "RustScan", "new_stars": 1060, "stars": 8475, "owner": "RustScan", "forks": 641},
+{"description": "Distributed systems runtime daemon written in Rust.", "language": "Rust", "repo": "aurae", "new_stars": 540, "stars": 871, "owner": "aurae-runtime", "forks": 32},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 1333, "stars": 20555, "owner": "bevyengine", "forks": 2023},
 {"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 267, "stars": 4798, "owner": "foundry-rs", "forks": 651},
 {"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 358, "stars": 6441, "owner": "wez", "forks": 320},
 {"description": "Delicately-TUICed high-performance proxy built on top of the QUIC protocol", "language": "Rust", "repo": "tuic", "new_stars": 269, "stars": 1416, "owner": "EAimTY", "forks": 146},
@@ -22,6 +22,6 @@
 {"description": "An async & dynamic ORM for Rust", "language": "Rust", "repo": "sea-orm", "new_stars": 256, "stars": 3255, "owner": "SeaQL", "forks": 270},
 {"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 839, "stars": 15691, "owner": "spacedriveapp", "forks": 406},
 {"description": "A tiling window manager for Adventurers", "language": "Rust", "repo": "leftwm", "new_stars": 137, "stars": 2109, "owner": "leftwm", "forks": 144},
-{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 532, "stars": 13736, "owner": "wasmerio", "forks": 592},
-{"description": "Hurl, run and test HTTP requests with plain text.", "language": "Rust", "repo": "hurl", "new_stars": 772, "stars": 2756, "owner": "Orange-OpenSource", "forks": 77}
+{"description": "The leading WebAssembly Runtime supporting WASI and Emscripten", "language": "Rust", "repo": "wasmer", "new_stars": 533, "stars": 13737, "owner": "wasmerio", "forks": 592},
+{"description": "Hurl, run and test HTTP requests with plain text.", "language": "Rust", "repo": "hurl", "new_stars": 776, "stars": 2760, "owner": "Orange-OpenSource", "forks": 77}
 ]

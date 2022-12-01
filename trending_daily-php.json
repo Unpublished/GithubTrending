@@ -1,15 +1,15 @@
 [
 {"description": "A Laravel package helps you add a complete real-time messaging system to your new / existing application with only one command.", "language": "PHP", "repo": "chatify", "new_stars": 10, "stars": 1672, "owner": "munafio", "forks": 354},
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 5, "stars": 11734, "owner": "PHPOffice", "forks": 2871},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 11, "stars": 27682, "owner": "symfony", "forks": 8899},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 11, "stars": 27681, "owner": "symfony", "forks": 8899},
 {"description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.", "language": "PHP", "repo": "elementor", "new_stars": 1, "stars": 4742, "owner": "elementor", "forks": 1174},
-{"description": "Y\u0332our O\u0332wn U\u0332R\u0332L\u0332 S\u0332hortener - the \ud835\udc51\ud835\udc52 \ud835\udc53\ud835\udc4e\ud835\udc50\ud835\udc61\ud835\udc5c standard self hosted URL shortener in PHP", "language": "PHP", "repo": "YOURLS", "new_stars": 13, "stars": 8673, "owner": "YOURLS", "forks": 1782},
+{"description": "Y\u0332our O\u0332wn U\u0332R\u0332L\u0332 S\u0332hortener - the \ud835\udc51\ud835\udc52 \ud835\udc53\ud835\udc4e\ud835\udc50\ud835\udc61\ud835\udc5c standard self hosted URL shortener in PHP", "language": "PHP", "repo": "YOURLS", "new_stars": 13, "stars": 8674, "owner": "YOURLS", "forks": 1782},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 1, "stars": 18756, "owner": "sebastianbergmann", "forks": 2121},
-{"description": "Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.", "language": "PHP", "repo": "filament", "new_stars": 14, "stars": 5157, "owner": "filamentphp", "forks": 744},
-{"description": "PHP library that helps to map any input into a strongly-typed value object structure.", "language": "PHP", "repo": "Valinor", "new_stars": 13, "stars": 821, "owner": "CuyZ", "forks": 45},
+{"description": "Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.", "language": "PHP", "repo": "filament", "new_stars": 12, "stars": 5157, "owner": "filamentphp", "forks": 744},
+{"description": "PHP library that helps to map any input into a strongly-typed value object structure.", "language": "PHP", "repo": "Valinor", "new_stars": 13, "stars": 821, "owner": "CuyZ", "forks": 46},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 3, "stars": 22218, "owner": "guzzle", "forks": 2354},
-{"description": "\u72ec\u89d2\u6570\u5361(\u81ea\u52a8\u552e\u8d27\u7cfb\u7edf)-\u5f00\u6e90\u7ad9\u957f\u81ea\u52a8\u5316\u552e\u8d27\u89e3\u51b3\u65b9\u6848\u3001\u9ad8\u6548\u3001\u7a33\u5b9a\u3001\u5feb\u901f\uff01", "language": "PHP", "repo": "dujiaoka", "new_stars": 12, "stars": 3382, "owner": "assimon", "forks": 1080},
-{"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 4, "stars": 4445, "owner": "moodle", "forks": 5737},
+{"description": "\u72ec\u89d2\u6570\u5361(\u81ea\u52a8\u552e\u8d27\u7cfb\u7edf)-\u5f00\u6e90\u7ad9\u957f\u81ea\u52a8\u5316\u552e\u8d27\u89e3\u51b3\u65b9\u6848\u3001\u9ad8\u6548\u3001\u7a33\u5b9a\u3001\u5feb\u901f\uff01", "language": "PHP", "repo": "dujiaoka", "new_stars": 11, "stars": 3382, "owner": "assimon", "forks": 1080},
+{"description": "Moodle - the world's open source learning platform", "language": "PHP", "repo": "moodle", "new_stars": 3, "stars": 4445, "owner": "moodle", "forks": 5737},
 {"description": "PanDownload\u7f51\u9875\u590d\u523b\u7248", "language": "PHP", "repo": "baiduwp-php", "new_stars": 19, "stars": 3191, "owner": "yuantuo666", "forks": 984},
 {"description": "The Console component eases the creation of beautiful and testable command line interfaces.", "language": "PHP", "repo": "console", "new_stars": 3, "stars": 9325, "owner": "symfony", "forks": 254},
 {"description": "Open Source Invoicing Solution for Individuals & Businesses", "language": "PHP", "repo": "crater", "new_stars": 3, "stars": 6649, "owner": "crater-invoice", "forks": 1265},
@@ -23,5 +23,5 @@
 {"description": "Invoices, Expenses and Tasks built with Laravel, Flutter and React", "language": "PHP", "repo": "invoiceninja", "new_stars": 2, "stars": 6757, "owner": "invoiceninja", "forks": 2008},
 {"description": "Laravel IDE Helper", "language": "PHP", "repo": "laravel-ide-helper", "new_stars": 3, "stars": 12739, "owner": "barryvdh", "forks": 1095},
 {"description": "A platform to create documentation/wiki content built with PHP & Laravel", "language": "PHP", "repo": "BookStack", "new_stars": 11, "stars": 10441, "owner": "BookStackApp", "forks": 1407},
-{"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 7, "stars": 8877, "owner": "doctrine", "forks": 1234}
+{"description": "Doctrine Database Abstraction Layer", "language": "PHP", "repo": "dbal", "new_stars": 7, "stars": 8878, "owner": "doctrine", "forks": 1234}
 ]

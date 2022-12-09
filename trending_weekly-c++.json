@@ -1,12 +1,12 @@
 [
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 128, "stars": 23853, "owner": "facebook", "forks": 4927},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 136, "stars": 18160, "owner": "qbittorrent", "forks": 3059},
-{"description": "Development repository for the Triton language and compiler", "language": "C++", "repo": "triton", "new_stars": 148, "stars": 4446, "owner": "openai", "forks": 373},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 179, "stars": 104892, "owner": "electron", "forks": 14111},
-{"description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.", "language": "C++", "repo": "WasmEdge", "new_stars": 192, "stars": 4831, "owner": "WasmEdge", "forks": 438},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 202, "stars": 60853, "owner": "pytorch", "forks": 16954},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 128, "stars": 23854, "owner": "facebook", "forks": 4927},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 136, "stars": 18161, "owner": "qbittorrent", "forks": 3060},
+{"description": "Development repository for the Triton language and compiler", "language": "C++", "repo": "triton", "new_stars": 148, "stars": 4447, "owner": "openai", "forks": 373},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 179, "stars": 104891, "owner": "electron", "forks": 14111},
+{"description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.", "language": "C++", "repo": "WasmEdge", "new_stars": 192, "stars": 4832, "owner": "WasmEdge", "forks": 438},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "C++", "repo": "pytorch", "new_stars": 202, "stars": 60854, "owner": "pytorch", "forks": 16954},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 63, "stars": 28562, "owner": "google", "forks": 8980},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 157, "stars": 65291, "owner": "opencv", "forks": 53230},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 158, "stars": 65293, "owner": "opencv", "forks": 53232},
 {"description": "OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.", "language": "C++", "repo": "open_spiel", "new_stars": 53, "stars": 3460, "owner": "deepmind", "forks": 751},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 221, "stars": 55836, "owner": "godotengine", "forks": 9743},
 {"description": "UCI chess engine", "language": "C++", "repo": "Stockfish", "new_stars": 49, "stars": 7254, "owner": "official-stockfish", "forks": 1708},
@@ -20,8 +20,8 @@
 {"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 75, "stars": 18856, "owner": "ValveSoftware", "forks": 832},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 88, "stars": 10103, "owner": "Aircoookie", "forks": 2038},
 {"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 25, "stars": 8029, "owner": "hrydgard", "forks": 1877},
-{"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 48, "stars": 7083, "owner": "NixOS", "forks": 1019},
+{"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 48, "stars": 7082, "owner": "NixOS", "forks": 1019},
 {"description": "Utility to convert between various subscription format", "language": "C++", "repo": "subconverter", "new_stars": 74, "stars": 7547, "owner": "tindy2013", "forks": 1672},
-{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 47, "stars": 7848, "owner": "CleverRaven", "forks": 3555},
-{"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 137, "stars": 7692, "owner": "xournalpp", "forks": 653}
+{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 47, "stars": 7848, "owner": "CleverRaven", "forks": 3556},
+{"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 137, "stars": 7693, "owner": "xournalpp", "forks": 653}
 ]

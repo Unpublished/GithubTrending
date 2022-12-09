@@ -1,13 +1,13 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 6, "stars": 6307, "owner": "opf", "forks": 1726},
-{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 6, "stars": 19728, "owner": "ruby", "forks": 5203},
+{"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 6, "stars": 19729, "owner": "ruby", "forks": 5204},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 4, "stars": 11660, "owner": "fluent", "forks": 1280},
-{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 8, "stars": 14146, "owner": "chatwoot", "forks": 1901},
+{"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 8, "stars": 14147, "owner": "chatwoot", "forks": 1901},
 {"description": "A library for setting up Ruby objects as test data.", "language": "Ruby", "repo": "factory_bot", "new_stars": 2, "stars": 7662, "owner": "thoughtbot", "forks": 2618},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 1, "stars": 12064, "owner": "rubocop", "forks": 2954},
 {"description": "A high performance implementation of the Ruby programming language, built on GraalVM.", "language": "Ruby", "repo": "truffleruby", "new_stars": 1, "stars": 2800, "owner": "oracle", "forks": 173},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 22890, "owner": "heartcombo", "forks": 5488},
-{"description": "Prevents duplicate Sidekiq jobs", "language": "Ruby", "repo": "sidekiq-unique-jobs", "new_stars": 1, "stars": 1259, "owner": "mhenrixon", "forks": 251},
+{"description": "Prevents duplicate Sidekiq jobs", "language": "Ruby", "repo": "sidekiq-unique-jobs", "new_stars": 0, "stars": 1259, "owner": "mhenrixon", "forks": 251},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 12206, "owner": "mperham", "forks": 2248},
 {"description": "Easy file attachment management for ActiveRecord", "language": "Ruby", "repo": "paperclip", "new_stars": 0, "stars": 9069, "owner": "thoughtbot", "forks": 2417},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9275, "owner": "activeadmin", "forks": 3313},
@@ -23,5 +23,5 @@
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 4, "stars": 3502, "owner": "github", "forks": 11635},
 {"description": "Dependabot's update PR creation logic. Feedback:", "language": "Ruby", "repo": "dependabot-core", "new_stars": 3, "stars": 3058, "owner": "dependabot", "forks": 737},
 {"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 4, "stars": 6748, "owner": "ankane", "forks": 400},
-{"description": "Open Source multi-language/multi-currency/multi-store eCommerce platform", "language": "Ruby", "repo": "spree", "new_stars": 0, "stars": 12050, "owner": "spree", "forks": 4890}
+{"description": "Open Source multi-language/multi-currency/multi-store eCommerce platform", "language": "Ruby", "repo": "spree", "new_stars": 0, "stars": 12050, "owner": "spree", "forks": 4889}
 ]

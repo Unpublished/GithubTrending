@@ -4,11 +4,11 @@
 {"description": "For empowering community", "language": "Ruby", "repo": "forem", "new_stars": 10, "stars": 20007, "owner": "forem", "forks": 3559},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 12077, "owner": "rubocop", "forks": 2962},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 215, "owner": "DataDog", "forks": 313},
-{"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 1, "stars": 10535, "owner": "faker-ruby", "forks": 3035},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 22898, "owner": "heartcombo", "forks": 5489},
+{"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 2, "stars": 10535, "owner": "faker-ruby", "forks": 3035},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 22898, "owner": "heartcombo", "forks": 5490},
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 0, "stars": 3337, "owner": "thoughtbot", "forks": 900},
-{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9280, "owner": "activeadmin", "forks": 3314},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 1, "stars": 13919, "owner": "CocoaPods", "forks": 2593},
+{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9281, "owner": "activeadmin", "forks": 3314},
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 0, "stars": 13919, "owner": "CocoaPods", "forks": 2593},
 {"description": "RSpec for Rails 5+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 0, "stars": 4897, "owner": "rspec", "forks": 985},
 {"description": "RSpec's 'test double' framework, with support for stubbing and mocking", "language": "Ruby", "repo": "rspec-mocks", "new_stars": 0, "stars": 1093, "owner": "rspec", "forks": 335},
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 36122, "owner": "fastlane", "forks": 5370},
@@ -21,7 +21,7 @@
 {"description": "A Rails engine that helps you put together a super-flexible admin dashboard.", "language": "Ruby", "repo": "administrate", "new_stars": 1, "stars": 5490, "owner": "thoughtbot", "forks": 1056},
 {"description": "A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 1, "stars": 8319, "owner": "kaminari", "forks": 1077},
 {"description": "Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 1, "stars": 4534, "owner": "simplecov-ruby", "forks": 535},
-{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 8053, "owner": "heartcombo", "forks": 1314},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 0, "stars": 8053, "owner": "heartcombo", "forks": 1314},
 {"description": "Fast, Nimble PDF Writer for Ruby", "language": "Ruby", "repo": "prawn", "new_stars": 3, "stars": 4392, "owner": "prawnpdf", "forks": 668},
-{"description": "PDF generator (from HTML) plugin for Ruby on Rails", "language": "Ruby", "repo": "wicked_pdf", "new_stars": 0, "stars": 3390, "owner": "mileszs", "forks": 615}
+{"description": "PDF generator (from HTML) plugin for Ruby on Rails", "language": "Ruby", "repo": "wicked_pdf", "new_stars": 1, "stars": 3390, "owner": "mileszs", "forks": 615}
 ]

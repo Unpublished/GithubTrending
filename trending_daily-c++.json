@@ -1,16 +1,16 @@
 [
-{"description": "CV-CUDA\u2122 is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.", "language": "C++", "repo": "CV-CUDA", "new_stars": 129, "stars": 528, "owner": "CVCUDA", "forks": 45},
+{"description": "CV-CUDA\u2122 is an open-source, graphics processing unit (GPU)-accelerated library for cloud-scale image processing and computer vision.", "language": "C++", "repo": "CV-CUDA", "new_stars": 129, "stars": 530, "owner": "CVCUDA", "forks": 45},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 5, "stars": 19555, "owner": "google", "forks": 2977},
-{"description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine", "language": "C++", "repo": "fheroes2", "new_stars": 14, "stars": 1722, "owner": "ihhub", "forks": 232},
+{"description": "fheroes2 is a recreation of Heroes of Might and Magic II game engine", "language": "C++", "repo": "fheroes2", "new_stars": 14, "stars": 1724, "owner": "ihhub", "forks": 232},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 3, "stars": 22039, "owner": "ApolloAuto", "forks": 8959},
-{"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 3, "stars": 6474, "owner": "IntelRealSense", "forks": 4558},
+{"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 3, "stars": 6475, "owner": "IntelRealSense", "forks": 4558},
 {"description": "PowerDNS Authoritative, PowerDNS Recursor, dnsdist", "language": "C++", "repo": "pdns", "new_stars": 1, "stars": 2937, "owner": "PowerDNS", "forks": 820},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 8, "stars": 16486, "owner": "gabime", "forks": 3498},
 {"description": "A fast compressor/decompressor", "language": "C++", "repo": "snappy", "new_stars": 3, "stars": 5491, "owner": "google", "forks": 931},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 30, "stars": 44035, "owner": "ocornut", "forks": 7755},
 {"description": "OpenVINO\u2122 Toolkit repository", "language": "C++", "repo": "openvino", "new_stars": 4, "stars": 3884, "owner": "openvinotoolkit", "forks": 1572},
 {"description": "Stream VR games from your PC to your headset via Wi-Fi", "language": "C++", "repo": "ALVR", "new_stars": 4, "stars": 3007, "owner": "alvr-org", "forks": 299},
-{"description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.", "language": "C++", "repo": "C-Plus-Plus", "new_stars": 8, "stars": 22622, "owner": "TheAlgorithms", "forks": 6053},
+{"description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.", "language": "C++", "repo": "C-Plus-Plus", "new_stars": 8, "stars": 22621, "owner": "TheAlgorithms", "forks": 6053},
 {"description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.", "language": "C++", "repo": "bgfx", "new_stars": 8, "stars": 12504, "owner": "bkaradzic", "forks": 1747},
 {"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 13, "stars": 29107, "owner": "carbon-language", "forks": 1224},
 {"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 2, "stars": 2295, "owner": "Vita3K", "forks": 271},
@@ -18,10 +18,10 @@
 {"description": "This repository contains the solutions and explanations to the algorithm problems on LeetCode. Only medium or above are included. All are written in C++/Python and implemented by myself. The problems attempted multiple times are labelled with hyperlinks.", "language": "C++", "repo": "LeetCode", "new_stars": 1, "stars": 4268, "owner": "wisdompeak", "forks": 1009},
 {"description": "The Flutter engine", "language": "C++", "repo": "engine", "new_stars": 3, "stars": 6287, "owner": "flutter", "forks": 4901},
 {"description": "\u03bcWebSockets for Node.js back-ends", "language": "C++", "repo": "uWebSockets.js", "new_stars": 4, "stars": 5637, "owner": "uNetworking", "forks": 473},
-{"description": "Mediapipe-based library to redact faces from videos and images", "language": "C++", "repo": "magritte", "new_stars": 68, "stars": 210, "owner": "google", "forks": 6},
+{"description": "Mediapipe-based library to redact faces from videos and images", "language": "C++", "repo": "magritte", "new_stars": 68, "stars": 212, "owner": "google", "forks": 6},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 49, "stars": 10426, "owner": "Aircoookie", "forks": 2083},
 {"description": "Make WSA(Windows Subsystem for Android) run on Windows 10.", "language": "C++", "repo": "WSAPatch", "new_stars": 16, "stars": 148, "owner": "cinit", "forks": 248},
 {"description": "Source-code for Kiwi Next, a Kiwi Browser auto-rebased with latest Chromium", "language": "C++", "repo": "src.next", "new_stars": 4, "stars": 1083, "owner": "kiwibrowser", "forks": 165},
 {"description": "A distributed, fast open-source graph database featuring horizontal scalability and high availability", "language": "C++", "repo": "nebula", "new_stars": 2, "stars": 8396, "owner": "vesoft-inc", "forks": 943},
-{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 12, "stars": 19821, "owner": "google", "forks": 4158}
+{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 11, "stars": 19821, "owner": "google", "forks": 4157}
 ]

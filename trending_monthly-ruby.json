@@ -1,11 +1,11 @@
 [
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 51, "stars": 3251, "owner": "rubygems", "forks": 1685},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 246, "stars": 52061, "owner": "rails", "forks": 20845},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 77, "stars": 3560, "owner": "github", "forks": 11792},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 247, "stars": 52061, "owner": "rails", "forks": 20845},
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 78, "stars": 3561, "owner": "github", "forks": 11793},
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 221, "stars": 45860, "owner": "jekyll", "forks": 9963},
-{"description": "Homebrew tap for PHP 5.6 to 8.3. PHP 8.3 are nightly builds.", "language": "Ruby", "repo": "homebrew-php", "new_stars": 77, "stars": 1511, "owner": "shivammathur", "forks": 105},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 310, "stars": 37306, "owner": "huginn", "forks": 3357},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 64, "stars": 12107, "owner": "rubocop", "forks": 2972},
+{"description": "Homebrew tap for PHP 5.6 to 8.3. PHP 8.3 are nightly builds.", "language": "Ruby", "repo": "homebrew-php", "new_stars": 78, "stars": 1512, "owner": "shivammathur", "forks": 105},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 311, "stars": 37307, "owner": "huginn", "forks": 3357},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 65, "stars": 12108, "owner": "rubocop", "forks": 2972},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 172, "stars": 22657, "owner": "kilimchoi", "forks": 786},
 {"description": "The Ruby Programming Language [mirror]", "language": "Ruby", "repo": "ruby", "new_stars": 130, "stars": 19817, "owner": "ruby", "forks": 5219},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 283, "stars": 29107, "owner": "rapid7", "forks": 12801},
@@ -15,7 +15,7 @@
 {"description": "The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 122, "stars": 36192, "owner": "fastlane", "forks": 5381},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 27, "stars": 9293, "owner": "activeadmin", "forks": 3314},
 {"description": "The Open Source Ruby on Rails SaaS Template", "language": "Ruby", "repo": "bullet_train", "new_stars": 42, "stars": 778, "owner": "bullet-train-co", "forks": 130},
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 337, "stars": 34511, "owner": "Homebrew", "forks": 8387},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 338, "stars": 34512, "owner": "Homebrew", "forks": 8387},
 {"description": "The Best Pagination Ruby Gem", "language": "Ruby", "repo": "pagy", "new_stars": 46, "stars": 3913, "owner": "ddnexus", "forks": 349},
 {"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 90, "stars": 482, "owner": "Shopify", "forks": 11},
 {"description": "A production ready example Rails app that's using Docker and Docker Compose.", "language": "Ruby", "repo": "docker-rails-example", "new_stars": 48, "stars": 507, "owner": "nickjj", "forks": 90},
@@ -23,5 +23,5 @@
 {"description": "ShopifyAPI is a lightweight gem for accessing the Shopify admin REST and GraphQL web services.", "language": "Ruby", "repo": "shopify-api-ruby", "new_stars": 7, "stars": 933, "owner": "Shopify", "forks": 410},
 {"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 82, "stars": 19673, "owner": "Homebrew", "forks": 10075},
 {"description": "Mirror of redmine code source - Official Subversion repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 40, "stars": 4609, "owner": "redmine", "forks": 2234},
-{"description": "Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 118, "stars": 12011, "owner": "Homebrew", "forks": 11082}
+{"description": "Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 119, "stars": 12012, "owner": "Homebrew", "forks": 11082}
 ]

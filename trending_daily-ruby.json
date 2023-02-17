@@ -1,14 +1,14 @@
 [
-{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 38, "stars": 34976, "owner": "Homebrew", "forks": 8537},
+{"description": "The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 32, "stars": 34976, "owner": "Homebrew", "forks": 8537},
 {"description": "Sentry SDK for Ruby", "language": "Ruby", "repo": "sentry-ruby", "new_stars": 0, "stars": 861, "owner": "getsentry", "forks": 456},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 7, "stars": 23019, "owner": "heartcombo", "forks": 5533},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 6, "stars": 23019, "owner": "heartcombo", "forks": 5533},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 4, "stars": 4700, "owner": "instructure", "forks": 2118},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 2, "stars": 9776, "owner": "teamcapybara", "forks": 1431},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 13983, "owner": "CocoaPods", "forks": 2612},
 {"description": "The Best Pagination Ruby Gem", "language": "Ruby", "repo": "pagy", "new_stars": 4, "stars": 3975, "owner": "ddnexus", "forks": 350},
-{"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 3, "stars": 10614, "owner": "faker-ruby", "forks": 3060},
+{"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 3, "stars": 10615, "owner": "faker-ruby", "forks": 3060},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 1, "stars": 7868, "owner": "varvet", "forks": 604},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 12, "stars": 52320, "owner": "rails", "forks": 20926},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 12, "stars": 52321, "owner": "rails", "forks": 20927},
 {"description": "Open-source customer engagement suite, an alternative to Intercom, Zendesk, Salesforce Service Cloud etc.", "language": "Ruby", "repo": "chatwoot", "new_stars": 8, "stars": 14541, "owner": "chatwoot", "forks": 2015},
 {"description": "Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 8, "stars": 12157, "owner": "Homebrew", "forks": 11242},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 0, "stars": 5200, "owner": "rmosolgo", "forks": 1305},
@@ -22,6 +22,6 @@
 {"description": "Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 11, "stars": 46080, "owner": "jekyll", "forks": 9989},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 3, "stars": 9680, "owner": "ruby-grape", "forks": 1222},
 {"description": "Wiki Education Foundation's Wikipedia course dashboard system", "language": "Ruby", "repo": "WikiEduDashboard", "new_stars": 0, "stars": 325, "owner": "WikiEducationFoundation", "forks": 474},
-{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 4, "stars": 19779, "owner": "Homebrew", "forks": 10119},
-{"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 5, "stars": 12397, "owner": "postalserver", "forks": 904}
+{"description": "A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 5, "stars": 19779, "owner": "Homebrew", "forks": 10118},
+{"description": "A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 4, "stars": 12397, "owner": "postalserver", "forks": 904}
 ]

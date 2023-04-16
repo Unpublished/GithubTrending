@@ -82,3 +82,5 @@ FEED_STORAGES_BASE = {
 }
 
 FEED_EXPORT_FIELDS = ['description', 'language', 'repo', 'new_stars', 'stars', 'owner', 'forks']
+
+REQUEST_FINGERPRINTER_IMPLEMENTATION = '2.7'

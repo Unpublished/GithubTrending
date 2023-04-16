@@ -12,14 +12,14 @@ class TrendingSpiderBase(scrapy.Spider):
 
     def start_requests(self):
         url = 'https://github.com/trending/{lang}?since={range}'.format(lang=self.lang, range=self.timeRange)
-        yield scrapy.Request(url=url, callback=self.parse)
+        yield scrapy.Request(url=url)
 
-    def parse(self, response):
+    def parse(self, response, **kwargs):
         repo_list = response.css(REPO_LIST_PATH)
         for item in repo_list.xpath('article'):
             yield {
-                'owner':       item.xpath("h1/a/span/text()").re(r'[^\s\/]+')[0],
-                'repo':        self.to_string(item.xpath("h1/a/text()")),
+                'owner':       item.xpath("h2/a/span/text()").re(r'[^\s\/]+')[0],
+                'repo':        self.to_string(item.xpath("h2/a/text()")),
                 'description': self.to_string(item.xpath("p/text()")),
                 'language':    self.to_string(item.xpath("div[2]/span/span[@itemprop='programmingLanguage']/text()")),
                 'stars':       self.to_int(item.xpath("div[2]/a[1]/text()[2]")),

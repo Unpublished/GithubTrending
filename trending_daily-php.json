@@ -1,7 +1,7 @@
 [
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 17, "stars": 45998, "owner": "danielmiessler", "forks": 22835},
 {"description": "Invoices, Expenses and Tasks built with Laravel, Flutter and React", "language": "PHP", "repo": "invoiceninja", "new_stars": 4, "stars": 7023, "owner": "invoiceninja", "forks": 2075},
-{"description": "An open-source package that brings the power of modern headless e-commerce functionality to Laravel.", "language": "PHP", "repo": "lunar", "new_stars": 61, "stars": 1071, "owner": "lunarphp", "forks": 163},
+{"description": "An open-source package that brings the power of modern headless e-commerce functionality to Laravel.", "language": "PHP", "repo": "lunar", "new_stars": 61, "stars": 1073, "owner": "lunarphp", "forks": 163},
 {"description": "A PHP Blogging Platform. Simple and Powerful.", "language": "PHP", "repo": "typecho", "new_stars": 9, "stars": 9925, "owner": "typecho", "forks": 1905},
 {"description": "A server software for Minecraft: Bedrock Edition in PHP", "language": "PHP", "repo": "PocketMine-MP", "new_stars": 0, "stars": 3037, "owner": "pmmp", "forks": 1681},
 {"description": "Docker - Beginners | Intermediate | Advanced", "language": "PHP", "repo": "dockerlabs", "new_stars": 19, "stars": 3484, "owner": "collabnix", "forks": 1662},
@@ -9,19 +9,19 @@
 {"description": "PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards.", "language": "PHP", "repo": "PHP_CodeSniffer", "new_stars": 4, "stars": 10138, "owner": "squizlabs", "forks": 1514},
 {"description": "Demonstration store for Lunar", "language": "PHP", "repo": "livewire-starter-kit", "new_stars": 3, "stars": 60, "owner": "lunarphp", "forks": 30},
 {"description": "Free and Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 5, "stars": 6151, "owner": "akaunting", "forks": 2051},
-{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 5, "stars": 17353, "owner": "WordPress", "forks": 12228},
+{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 5, "stars": 17353, "owner": "WordPress", "forks": 12229},
 {"description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony", "language": "PHP", "repo": "grav", "new_stars": 3, "stars": 13752, "owner": "getgrav", "forks": 1379},
-{"description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.", "language": "PHP", "repo": "Lychee", "new_stars": 1, "stars": 2539, "owner": "LycheeOrg", "forks": 234},
+{"description": "A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.", "language": "PHP", "repo": "Lychee", "new_stars": 1, "stars": 2540, "owner": "LycheeOrg", "forks": 234},
 {"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 13, "stars": 10245, "owner": "firefly-iii", "forks": 1032},
 {"description": "Guzzle, an extensible PHP HTTP client", "language": "PHP", "repo": "guzzle", "new_stars": 2, "stars": 22480, "owner": "guzzle", "forks": 2384},
 {"description": "A personal music streaming server that works.", "language": "PHP", "repo": "koel", "new_stars": 3, "stars": 14592, "owner": "koel", "forks": 1847},
 {"description": "Generate subtitles, summaries, and chapters from videos in seconds", "language": "PHP", "repo": "subvert", "new_stars": 7, "stars": 465, "owner": "aschmelyun", "forks": 28},
 {"description": "Admin panel, form builder and table builder for Laravel. Built with the TALL stack. Designed for humans.", "language": "PHP", "repo": "filament", "new_stars": 9, "stars": 6415, "owner": "filamentphp", "forks": 968},
-{"description": "Some useful date scopes for your Laravel Eloquent models!", "language": "PHP", "repo": "laravel-date-scopes", "new_stars": 27, "stars": 242, "owner": "laracraft-tech", "forks": 10},
+{"description": "Some useful date scopes for your Laravel Eloquent models!", "language": "PHP", "repo": "laravel-date-scopes", "new_stars": 27, "stars": 245, "owner": "laracraft-tech", "forks": 11},
 {"description": "A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.", "language": "PHP", "repo": "woocommerce", "new_stars": 5, "stars": 8479, "owner": "woocommerce", "forks": 10752},
 {"description": "Websockets for Laravel. Done right.", "language": "PHP", "repo": "laravel-websockets", "new_stars": 1, "stars": 4764, "owner": "beyondcode", "forks": 525},
 {"description": "Laravel Mentorship Platform", "language": "PHP", "repo": "laramentor", "new_stars": 0, "stars": 22, "owner": "laramentor", "forks": 11},
-{"description": "Pterodactyl\u00ae is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 0, "stars": 4876, "owner": "pterodactyl", "forks": 1242},
+{"description": "Pterodactyl\u00ae is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.", "language": "PHP", "repo": "panel", "new_stars": 0, "stars": 4877, "owner": "pterodactyl", "forks": 1242},
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 3, "stars": 7916, "owner": "snipe", "forks": 2576},
-{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 5, "stars": 29316, "owner": "laravel", "forks": 9996}
+{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 5, "stars": 29317, "owner": "laravel", "forks": 9996}
 ]

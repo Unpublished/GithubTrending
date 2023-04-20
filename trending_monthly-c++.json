@@ -1,6 +1,6 @@
 [
-{"description": "A modern replacement for Redis and Memcached", "language": "C++", "repo": "dragonfly", "new_stars": 1794, "stars": 19029, "owner": "dragonflydb", "forks": 651},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 1197, "stars": 34338, "owner": "topjohnwu", "forks": 9145},
+{"description": "A modern replacement for Redis and Memcached", "language": "C++", "repo": "dragonfly", "new_stars": 1794, "stars": 19030, "owner": "dragonflydb", "forks": 651},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 1197, "stars": 34340, "owner": "topjohnwu", "forks": 9144},
 {"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 1463, "stars": 29795, "owner": "Light-City", "forks": 7184},
 {"description": "A high-performance, zero-overhead, extensible Python compiler using LLVM", "language": "C++", "repo": "codon", "new_stars": 3294, "stars": 12274, "owner": "exaloop", "forks": 446},
 {"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 229, "stars": 8546, "owner": "CleverRaven", "forks": 3691},
@@ -13,15 +13,15 @@
 {"description": "A Nintendo 3DS Emulator", "language": "C++", "repo": "citra", "new_stars": 174, "stars": 8414, "owner": "citra-emu", "forks": 1596},
 {"description": "YTsaurus is a scalable and fault-tolerant open-source big data platform.", "language": "C++", "repo": "ytsaurus", "new_stars": 1414, "stars": 1424, "owner": "ytsaurus", "forks": 53},
 {"description": "CV-CUDA\u2122 is an open-source, GPU accelerated library for cloud-scale image processing and computer vision.", "language": "C++", "repo": "CV-CUDA", "new_stars": 352, "stars": 1520, "owner": "CVCUDA", "forks": 137},
-{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 1188, "stars": 20938, "owner": "facebookresearch", "forks": 2884},
-{"description": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model", "language": "C++", "repo": "Whisper", "new_stars": 985, "stars": 2054, "owner": "Const-me", "forks": 184},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 978, "stars": 68188, "owner": "opencv", "forks": 55023},
-{"description": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 445, "stars": 2328, "owner": "MatsuriDayo", "forks": 201},
-{"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 325, "stars": 9372, "owner": "ZLMediaKit", "forks": 2488},
-{"description": "Cemu - Wii U emulator", "language": "C++", "repo": "Cemu", "new_stars": 273, "stars": 4707, "owner": "cemu-project", "forks": 285},
-{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 149, "stars": 7804, "owner": "monero-project", "forks": 3459},
+{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 1188, "stars": 20940, "owner": "facebookresearch", "forks": 2884},
+{"description": "High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model", "language": "C++", "repo": "Whisper", "new_stars": 985, "stars": 2056, "owner": "Const-me", "forks": 184},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 978, "stars": 68190, "owner": "opencv", "forks": 55023},
+{"description": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 445, "stars": 2329, "owner": "MatsuriDayo", "forks": 202},
+{"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 325, "stars": 9372, "owner": "ZLMediaKit", "forks": 2489},
+{"description": "Cemu - Wii U emulator", "language": "C++", "repo": "Cemu", "new_stars": 273, "stars": 4709, "owner": "cemu-project", "forks": 285},
+{"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 149, "stars": 7804, "owner": "monero-project", "forks": 3458},
 {"description": "OvenMediaEngine (OME) is a Sub-Second Latency Live Streaming Server with Large-Scale and High-Definition. #WebRTC #LLHLS", "language": "C++", "repo": "OvenMediaEngine", "new_stars": 103, "stars": 1961, "owner": "AirenSoft", "forks": 483},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 341, "stars": 8911, "owner": "microsoft", "forks": 2068},
-{"description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 1035, "stars": 7784, "owner": "hyprwm", "forks": 270},
-{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 679, "stars": 28221, "owner": "ClickHouse", "forks": 5632}
+{"description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 1035, "stars": 7786, "owner": "hyprwm", "forks": 270},
+{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 679, "stars": 28223, "owner": "ClickHouse", "forks": 5632}
 ]

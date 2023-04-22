@@ -1,13 +1,13 @@
 [
 {"description": "Pure C++, Easy Deploy ChatGLM-6B.", "language": "C++", "repo": "ChatGLM-MNN", "new_stars": 10, "stars": 344, "owner": "wangzhaode", "forks": 44},
-{"description": "ESP MQTT client and broker library", "language": "C++", "repo": "PicoMQTT", "new_stars": 13, "stars": 121, "owner": "mlesniew", "forks": 12},
+{"description": "ESP MQTT client and broker library", "language": "C++", "repo": "PicoMQTT", "new_stars": 13, "stars": 122, "owner": "mlesniew", "forks": 12},
 {"description": "NCM \u8f6f\u4ef6\u63d2\u4ef6\u7ba1\u7406\u5668", "language": "C++", "repo": "BetterNCM", "new_stars": 13, "stars": 4596, "owner": "MicroCBer", "forks": 279},
-{"description": "Transformer related optimization, including BERT, GPT", "language": "C++", "repo": "FasterTransformer", "new_stars": 17, "stars": 2873, "owner": "NVIDIA", "forks": 500},
-{"description": "Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.", "language": "C++", "repo": "cocos-engine", "new_stars": 8, "stars": 3739, "owner": "cocos", "forks": 1376},
+{"description": "Transformer related optimization, including BERT, GPT", "language": "C++", "repo": "FasterTransformer", "new_stars": 17, "stars": 2874, "owner": "NVIDIA", "forks": 501},
+{"description": "Cocos Engine is an open-source framework for building 2D & 3D real-time rendering and interactive contents, especially video games, which can be deployed to mobile, desktop and web. It is inherited from the legacy Cocos2d-x with a redesigned modern architecture. To run this engine, please download Cocos Creator.", "language": "C++", "repo": "cocos-engine", "new_stars": 8, "stars": 3740, "owner": "cocos", "forks": 1376},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 7, "stars": 7439, "owner": "google", "forks": 1469},
 {"description": "Simplify your onnx model", "language": "C++", "repo": "onnx-simplifier", "new_stars": 4, "stars": 2893, "owner": "daquexian", "forks": 318},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 6, "stars": 29479, "owner": "google", "forks": 9261},
-{"description": "FPS Unlocker for Roblox", "language": "C++", "repo": "rbxfpsunlocker", "new_stars": 7, "stars": 1377, "owner": "axstin", "forks": 646},
+{"description": "FPS Unlocker for Roblox", "language": "C++", "repo": "rbxfpsunlocker", "new_stars": 7, "stars": 1378, "owner": "axstin", "forks": 646},
 {"description": "A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOv5, YOLOX, YOLOP, YOLOv6, YOLOR, MODNet, YOLOX, YOLOv7, YOLOv8. MNN, NCNN, TNN, ONNXRuntime.", "language": "C++", "repo": "lite.ai.toolkit", "new_stars": 4, "stars": 2704, "owner": "DefTruth", "forks": 574},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 12, "stars": 25039, "owner": "facebook", "forks": 5114},
 {"description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.", "language": "C++", "repo": "zeek", "new_stars": 2, "stars": 5144, "owner": "zeek", "forks": 1132},
@@ -21,7 +21,7 @@
 {"description": "Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to: 1) mainstream cloud-native infrastructure platforms OpenStack and Kubernetes; 2) high-performance storage for cloud-native databases; 3) cloud storage middleware using S3-compatible object storage as a data storage.", "language": "C++", "repo": "curve", "new_stars": 1, "stars": 1846, "owner": "opencurve", "forks": 395},
 {"description": "a small build system with a focus on speed", "language": "C++", "repo": "ninja", "new_stars": 6, "stars": 9281, "owner": "ninja-build", "forks": 1453},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 12, "stars": 16695, "owner": "fmtlib", "forks": 2017},
-{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 7, "stars": 16977, "owner": "Tencent", "forks": 3812},
+{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 7, "stars": 16977, "owner": "Tencent", "forks": 3813},
 {"description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more", "language": "C++", "repo": "entt", "new_stars": 5, "stars": 8060, "owner": "skypjack", "forks": 751},
 {"description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.", "language": "C++", "repo": "x64dbg", "new_stars": 18, "stars": 40483, "owner": "x64dbg", "forks": 2127}
 ]

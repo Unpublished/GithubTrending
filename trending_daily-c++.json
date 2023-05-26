@@ -1,17 +1,17 @@
 [
-{"description": "This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery", "language": "C++", "repo": "BYD-Battery-Emulator-For-Gen24", "new_stars": 42, "stars": 200, "owner": "dalathegreat", "forks": 34},
+{"description": "This software converts the LEAF CAN into Modbus RTU registers understood by solar inverters that take the BYD 11kWh HVM battery", "language": "C++", "repo": "BYD-Battery-Emulator-For-Gen24", "new_stars": 42, "stars": 204, "owner": "dalathegreat", "forks": 37},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 29726, "owner": "google", "forks": 9358},
-{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 27, "stars": 9322, "owner": "microsoft", "forks": 2135},
+{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 27, "stars": 9324, "owner": "microsoft", "forks": 2135},
 {"description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.", "language": "C++", "repo": "LightGBM", "new_stars": 8, "stars": 14995, "owner": "microsoft", "forks": 3725},
-{"description": "Lilu plugin for AMD Vega iGPUs", "language": "C++", "repo": "NootedRed", "new_stars": 17, "stars": 490, "owner": "NootInc", "forks": 21},
+{"description": "Lilu plugin for AMD Vega iGPUs", "language": "C++", "repo": "NootedRed", "new_stars": 17, "stars": 491, "owner": "NootInc", "forks": 21},
 {"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 37, "stars": 88888, "owner": "microsoft", "forks": 7786},
 {"description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 0, "stars": 2413, "owner": "facebookincubator", "forks": 603},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 3, "stars": 9235, "owner": "carla-simulator", "forks": 2901},
 {"description": "A sample project for building Zygisk modules", "language": "C++", "repo": "zygisk-module-sample", "new_stars": 3, "stars": 422, "owner": "topjohnwu", "forks": 108},
-{"description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies", "language": "C++", "repo": "DearPyGui", "new_stars": 21, "stars": 10338, "owner": "hoffstadt", "forks": 564},
+{"description": "Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies", "language": "C++", "repo": "DearPyGui", "new_stars": 21, "stars": 10339, "owner": "hoffstadt", "forks": 564},
 {"description": "Windows Package Manager CLI (aka winget)", "language": "C++", "repo": "winget-cli", "new_stars": 9, "stars": 20191, "owner": "microsoft", "forks": 1286},
 {"description": "NoSQL data store using the seastar framework, compatible with Apache Cassandra", "language": "C++", "repo": "scylladb", "new_stars": 12, "stars": 10072, "owner": "scylladb", "forks": 1021},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 2, "stars": 8436, "owner": "ArduPilot", "forks": 14473},
+{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 2, "stars": 8437, "owner": "ArduPilot", "forks": 14473},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 7, "stars": 25279, "owner": "facebook", "forks": 5765},
 {"description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities", "language": "C++", "repo": "ORB_SLAM2", "new_stars": 10, "stars": 8183, "owner": "raulmur", "forks": 4522},
 {"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 4, "stars": 3679, "owner": "Neargye", "forks": 357},
@@ -23,5 +23,5 @@
 {"description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).", "language": "C++", "repo": "tflite-micro", "new_stars": 2, "stars": 1204, "owner": "tensorflow", "forks": 617},
 {"description": "Yoga is a cross-platform layout engine which implements Flexbox. Follow", "language": "C++", "repo": "yoga", "new_stars": 2, "stars": 16184, "owner": "facebook", "forks": 1379},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 2, "stars": 7830, "owner": "google", "forks": 1115},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 8, "stars": 25188, "owner": "facebook", "forks": 5153}
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 8, "stars": 25188, "owner": "facebook", "forks": 5154}
 ]

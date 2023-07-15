@@ -1,12 +1,12 @@
 [
-{"description": "\u7eafc++\u7684\u5168\u5e73\u53f0llm\u52a0\u901f\u5e93\uff0c\u652f\u6301python\u8c03\u7528\uff0cchatglm-6B\u7ea7\u6a21\u578b\u5355\u5361\u53ef\u8fbe10000+token / s\uff0c\u652f\u6301glm, llama, moss\u57fa\u5ea7\uff0c\u624b\u673a\u7aef\u6d41\u7545\u8fd0\u884c", "language": "C++", "repo": "fastllm", "new_stars": 345, "stars": 1093, "owner": "ztxz16", "forks": 143},
+{"description": "\u7eafc++\u7684\u5168\u5e73\u53f0llm\u52a0\u901f\u5e93\uff0c\u652f\u6301python\u8c03\u7528\uff0cchatglm-6B\u7ea7\u6a21\u578b\u5355\u5361\u53ef\u8fbe10000+token / s\uff0c\u652f\u6301glm, llama, moss\u57fa\u5ea7\uff0c\u624b\u673a\u7aef\u6d41\u7545\u8fd0\u884c", "language": "C++", "repo": "fastllm", "new_stars": 345, "stars": 1094, "owner": "ztxz16", "forks": 143},
 {"description": "C++ implementation of ChatGLM-6B & ChatGLM2-6B", "language": "C++", "repo": "chatglm.cpp", "new_stars": 116, "stars": 643, "owner": "li-plus", "forks": 157},
 {"description": "A lightweight utility that makes the Windows taskbar translucent/transparent.", "language": "C++", "repo": "TranslucentTB", "new_stars": 323, "stars": 12331, "owner": "TranslucentTB", "forks": 1017},
 {"description": "Next-generation Cloud Native Gateway | \u4e0b\u4e00\u4ee3\u4e91\u539f\u751f\u7f51\u5173", "language": "C++", "repo": "higress", "new_stars": 81, "stars": 1494, "owner": "alibaba", "forks": 257},
 {"description": "Cloud Native Runtime Security", "language": "C++", "repo": "falco", "new_stars": 136, "stars": 6136, "owner": "falcosecurity", "forks": 804},
 {"description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 26, "stars": 2532, "owner": "facebookincubator", "forks": 675},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 357, "stars": 62814, "owner": "godotengine", "forks": 12636},
-{"description": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 107, "stars": 3145, "owner": "MatsuriDayo", "forks": 276},
+{"description": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 107, "stars": 3146, "owner": "MatsuriDayo", "forks": 276},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 51, "stars": 9803, "owner": "yhirose", "forks": 1969},
 {"description": "A Nintendo 3DS Emulator", "language": "C++", "repo": "citra", "new_stars": 143, "stars": 8927, "owner": "citra-emu", "forks": 1670},
 {"description": "C++ implementation of the Google logging module", "language": "C++", "repo": "glog", "new_stars": 20, "stars": 6224, "owner": "google", "forks": 1982},
@@ -15,7 +15,7 @@
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 94, "stars": 60048, "owner": "protocolbuffers", "forks": 15102},
 {"description": "HarfBuzz text shaping engine", "language": "C++", "repo": "harfbuzz", "new_stars": 44, "stars": 3104, "owner": "harfbuzz", "forks": 570},
 {"description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing", "language": "C++", "repo": "arrow", "new_stars": 50, "stars": 12015, "owner": "apache", "forks": 2972},
-{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 109, "stars": 8614, "owner": "MaaAssistantArknights", "forks": 1083},
+{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 109, "stars": 8615, "owner": "MaaAssistantArknights", "forks": 1084},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLM", "language": "C++", "repo": "lmdeploy", "new_stars": 146, "stars": 279, "owner": "InternLM", "forks": 23},
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 40, "stars": 12123, "owner": "ceph", "forks": 5547},
 {"description": "PC Software for BambuLab's 3D printers", "language": "C++", "repo": "BambuStudio", "new_stars": 28, "stars": 730, "owner": "bambulab", "forks": 261},
@@ -23,5 +23,5 @@
 {"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 31, "stars": 3782, "owner": "Neargye", "forks": 365},
 {"description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2", "language": "C++", "repo": "filament", "new_stars": 52, "stars": 16036, "owner": "google", "forks": 1690},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 31, "stars": 13195, "owner": "Tencent", "forks": 3422},
-{"description": "The Kalibr visual-inertial calibration toolbox", "language": "C++", "repo": "kalibr", "new_stars": 22, "stars": 3503, "owner": "ethz-asl", "forks": 1274}
+{"description": "The Kalibr visual-inertial calibration toolbox", "language": "C++", "repo": "kalibr", "new_stars": 22, "stars": 3504, "owner": "ethz-asl", "forks": 1274}
 ]

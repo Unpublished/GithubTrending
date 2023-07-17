@@ -1,19 +1,19 @@
 [
 {"description": "A link aggregator and forum for the fediverse", "language": "Rust", "repo": "lemmy", "new_stars": 2051, "stars": 11499, "owner": "LemmyNet", "forks": 773},
-{"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 2282, "stars": 21058, "owner": "spacedriveapp", "forks": 728},
+{"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 2282, "stars": 21059, "owner": "spacedriveapp", "forks": 728},
 {"description": "React-like GUI library for desktop, web, mobile, TUI, and more.", "language": "Rust", "repo": "dioxus", "new_stars": 677, "stars": 10218, "owner": "DioxusLabs", "forks": 312},
 {"description": "Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.", "language": "Rust", "repo": "slint", "new_stars": 624, "stars": 9003, "owner": "slint-ui", "forks": 298},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1833, "stars": 66534, "owner": "tauri-apps", "forks": 1899},
-{"description": "Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.", "language": "Rust", "repo": "rustdesk", "new_stars": 1353, "stars": 44309, "owner": "rustdesk", "forks": 4602},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1833, "stars": 66539, "owner": "tauri-apps", "forks": 1899},
+{"description": "Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.", "language": "Rust", "repo": "rustdesk", "new_stars": 1353, "stars": 44310, "owner": "rustdesk", "forks": 4602},
 {"description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.", "language": "Rust", "repo": "mountpoint-s3", "new_stars": 176, "stars": 2771, "owner": "awslabs", "forks": 71},
-{"description": "Build fast web applications with Rust.", "language": "Rust", "repo": "leptos", "new_stars": 1119, "stars": 10531, "owner": "leptos-rs", "forks": 359},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 560, "stars": 14290, "owner": "rust-lang", "forks": 1418},
+{"description": "Build fast web applications with Rust.", "language": "Rust", "repo": "leptos", "new_stars": 1119, "stars": 10535, "owner": "leptos-rs", "forks": 359},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 560, "stars": 14292, "owner": "rust-lang", "forks": 1418},
 {"description": "Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.", "language": "Rust", "repo": "rust-by-practice", "new_stars": 278, "stars": 8498, "owner": "sunface", "forks": 604},
 {"description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...", "language": "Rust", "repo": "tokio", "new_stars": 403, "stars": 21304, "owner": "tokio-rs", "forks": 1973},
-{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 745, "stars": 12960, "owner": "zellij-org", "forks": 416},
+{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 745, "stars": 12961, "owner": "zellij-org", "forks": 416},
 {"description": "Polkadot Node Implementation", "language": "Rust", "repo": "polkadot", "new_stars": 90, "stars": 6934, "owner": "paritytech", "forks": 1604},
 {"description": "Substrate: The platform for blockchain innovators", "language": "Rust", "repo": "substrate", "new_stars": 66, "stars": 8258, "owner": "paritytech", "forks": 2729},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 652, "stars": 26259, "owner": "dani-garcia", "forks": 1330},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 652, "stars": 26260, "owner": "dani-garcia", "forks": 1330},
 {"description": "zkSync: trustless scaling and privacy engine for Ethereum", "language": "Rust", "repo": "zksync", "new_stars": 267, "stars": 3090, "owner": "matter-labs", "forks": 1904},
 {"description": "The distributed streaming database: SQL stream processing with Postgres-like experience", "language": "Rust", "repo": "risingwave", "new_stars": 322, "stars": 4791, "owner": "risingwavelabs", "forks": 398},
 {"description": "A Decentralized Operating System for ZK Applications", "language": "Rust", "repo": "snarkOS", "new_stars": 131, "stars": 2650, "owner": "AleoHQ", "forks": 1874},
@@ -23,5 +23,5 @@
 {"description": "Cross-platform, safe, pure-rust graphics api.", "language": "Rust", "repo": "wgpu", "new_stars": 358, "stars": 8318, "owner": "gfx-rs", "forks": 635},
 {"description": "Delicately-TUICed 0-RTT proxy protocol", "language": "Rust", "repo": "tuic", "new_stars": 186, "stars": 2231, "owner": "EAimTY", "forks": 242},
 {"description": "Blazing", "language": "Rust", "repo": "gitui", "new_stars": 313, "stars": 13531, "owner": "extrawurst", "forks": 430},
-{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 408, "stars": 12530, "owner": "tree-sitter", "forks": 845}
+{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 408, "stars": 12531, "owner": "tree-sitter", "forks": 845}
 ]

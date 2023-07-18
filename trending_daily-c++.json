@@ -1,7 +1,7 @@
 [
-{"description": "Starting code for the GildedRose Refactoring Kata in many programming languages.", "language": "C++", "repo": "GildedRose-Refactoring-Kata", "new_stars": 5, "stars": 2857, "owner": "emilybache", "forks": 4240},
-{"description": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.", "language": "C++", "repo": "GameNetworkingSockets", "new_stars": 148, "stars": 6899, "owner": "ValveSoftware", "forks": 533},
-{"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 4, "stars": 20783, "owner": "google", "forks": 3136},
+{"description": "Starting code for the GildedRose Refactoring Kata in many programming languages.", "language": "C++", "repo": "GildedRose-Refactoring-Kata", "new_stars": 5, "stars": 2858, "owner": "emilybache", "forks": 4241},
+{"description": "Reliable & unreliable messages over UDP. Robust message fragmentation & reassembly. P2P networking / NAT traversal. Encryption.", "language": "C++", "repo": "GameNetworkingSockets", "new_stars": 148, "stars": 6902, "owner": "ValveSoftware", "forks": 533},
+{"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 4, "stars": 20785, "owner": "google", "forks": 3136},
 {"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 63, "stars": 8817, "owner": "MaaAssistantArknights", "forks": 1108},
 {"description": "Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!", "language": "C++", "repo": "organicmaps", "new_stars": 34, "stars": 5395, "owner": "organicmaps", "forks": 559},
 {"description": "cherrytree", "language": "C++", "repo": "cherrytree", "new_stars": 5, "stars": 2902, "owner": "giuspen", "forks": 436},
@@ -14,14 +14,14 @@
 {"description": "The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.", "language": "C++", "repo": "FluidX3D", "new_stars": 9, "stars": 2134, "owner": "ProjectPhysX", "forks": 184},
 {"description": "The Z3 Theorem Prover", "language": "C++", "repo": "z3", "new_stars": 3, "stars": 8918, "owner": "Z3Prover", "forks": 1387},
 {"description": "The official repository for the gem5 computer-system architecture simulator.", "language": "C++", "repo": "gem5", "new_stars": 1, "stars": 993, "owner": "gem5", "forks": 837},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 17, "stars": 70400, "owner": "bitcoin", "forks": 35404},
-{"description": "Space exploration, trading, and combat game.", "language": "C++", "repo": "endless-sky", "new_stars": 7, "stars": 4275, "owner": "endless-sky", "forks": 889},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 17, "stars": 70398, "owner": "bitcoin", "forks": 35404},
+{"description": "Space exploration, trading, and combat game.", "language": "C++", "repo": "endless-sky", "new_stars": 7, "stars": 4276, "owner": "endless-sky", "forks": 889},
 {"description": "High performance server-side application framework", "language": "C++", "repo": "seastar", "new_stars": 1, "stars": 7483, "owner": "scylladb", "forks": 1437},
-{"description": "UCI chess engine", "language": "C++", "repo": "Stockfish", "new_stars": 10, "stars": 9055, "owner": "official-stockfish", "forks": 2022},
+{"description": "UCI chess engine", "language": "C++", "repo": "Stockfish", "new_stars": 10, "stars": 9056, "owner": "official-stockfish", "forks": 2022},
 {"description": "Implementation of popular deep learning networks with TensorRT network definition API", "language": "C++", "repo": "tensorrtx", "new_stars": 7, "stars": 5680, "owner": "wang-xinyu", "forks": 1588},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 30269, "owner": "google", "forks": 9676},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 30270, "owner": "google", "forks": 9676},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 4, "stars": 10688, "owner": "dolphin-emu", "forks": 2355},
 {"description": "Extremely simple yet powerful header-only C++ plotting library built on the popular matplotlib", "language": "C++", "repo": "matplotlib-cpp", "new_stars": 4, "stars": 3835, "owner": "lava", "forks": 1032},
-{"description": "An open source, turn-based strategy game with a high fantasy theme.", "language": "C++", "repo": "wesnoth", "new_stars": 17, "stars": 4548, "owner": "wesnoth", "forks": 887},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 7, "stars": 16828, "owner": "catchorg", "forks": 2887}
+{"description": "An open source, turn-based strategy game with a high fantasy theme.", "language": "C++", "repo": "wesnoth", "new_stars": 17, "stars": 4549, "owner": "wesnoth", "forks": 887},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 7, "stars": 16829, "owner": "catchorg", "forks": 2888}
 ]

@@ -1,9 +1,9 @@
 [
-{"description": "GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5404\u8bed\u8a00\u5206\u8bbe\u300c\u8f6f\u4ef6 | \u8d44\u6599\u300d\u699c\u5355\uff0c\u7cbe\u51c6\u5b9a\u4f4d\u4e2d\u6587\u597d\u9879\u76ee\u3002\u5404\u53d6\u6240\u9700\uff0c\u9ad8\u6548\u5b66\u4e60\u3002", "language": "Java", "repo": "GitHub-Chinese-Top-Charts", "new_stars": 45, "stars": 63728, "owner": "GrowingGit", "forks": 9157},
+{"description": "GitHub\u4e2d\u6587\u6392\u884c\u699c\uff0c\u5404\u8bed\u8a00\u5206\u8bbe\u300c\u8f6f\u4ef6 | \u8d44\u6599\u300d\u699c\u5355\uff0c\u7cbe\u51c6\u5b9a\u4f4d\u4e2d\u6587\u597d\u9879\u76ee\u3002\u5404\u53d6\u6240\u9700\uff0c\u9ad8\u6548\u5b66\u4e60\u3002", "language": "Java", "repo": "GitHub-Chinese-Top-Charts", "new_stars": 45, "stars": 63738, "owner": "GrowingGit", "forks": 9159},
 {"description": "A high performance caching library for Java", "language": "Java", "repo": "caffeine", "new_stars": 4, "stars": 13944, "owner": "ben-manes", "forks": 1487},
-{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 22, "stars": 68463, "owner": "spring-projects", "forks": 39060},
+{"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 22, "stars": 68464, "owner": "spring-projects", "forks": 39060},
 {"description": "FASTJSON2 is a Java JSON library with excellent performance.", "language": "Java", "repo": "fastjson2", "new_stars": 1, "stars": 2885, "owner": "alibaba", "forks": 381},
-{"description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito", "language": "Java", "repo": "supertokens-core", "new_stars": 8, "stars": 9701, "owner": "supertokens", "forks": 355},
+{"description": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito", "language": "Java", "repo": "supertokens-core", "new_stars": 8, "stars": 9700, "owner": "supertokens", "forks": 355},
 {"description": "Redisson - Easy Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...", "language": "Java", "repo": "redisson", "new_stars": 4, "stars": 21462, "owner": "redisson", "forks": 5108},
 {"description": "GraalVM: Run Programs Faster Anywhere", "language": "Java", "repo": "graal", "new_stars": 4, "stars": 18841, "owner": "oracle", "forks": 1540},
 {"description": "i\u8305\u53f0app\u81ea\u52a8\u9884\u7ea6\uff0c\u6bcf\u65e5\u81ea\u52a8\u9884\u7ea6\uff0c\u652f\u6301docker\u4e00\u952e\u90e8\u7f72", "language": "Java", "repo": "campus-imaotai", "new_stars": 4, "stars": 88, "owner": "oddfar", "forks": 24},
@@ -15,13 +15,13 @@
 {"description": "A blazing fast multi-language serialization framework powered by jit and zero-copy", "language": "Java", "repo": "fury", "new_stars": 64, "stars": 857, "owner": "alipay", "forks": 45},
 {"description": "A powerful flow control component enabling reliability, resilience and monitoring for microservices. (\u9762\u5411\u4e91\u539f\u751f\u5fae\u670d\u52a1\u7684\u9ad8\u53ef\u7528\u6d41\u63a7\u9632\u62a4\u7ec4\u4ef6)", "language": "Java", "repo": "Sentinel", "new_stars": 4, "stars": 21202, "owner": "alibaba", "forks": 7680},
 {"description": null, "language": "Java", "repo": "scaler", "new_stars": 0, "stars": 25, "owner": "AliyunContainerService", "forks": 90},
-{"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 7, "stars": 64486, "owner": "elastic", "forks": 23339},
-{"description": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.", "language": "Java", "repo": "starrocks", "new_stars": 3, "stars": 4932, "owner": "StarRocks", "forks": 1080},
+{"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 7, "stars": 64486, "owner": "elastic", "forks": 23340},
+{"description": "StarRocks is a next-gen sub-second MPP database for full analytics scenarios, including multi-dimensional analytics, real-time analytics and ad-hoc query.", "language": "Java", "repo": "starrocks", "new_stars": 3, "stars": 4932, "owner": "StarRocks", "forks": 1081},
 {"description": "Open source distributed and RESTful search engine.", "language": "Java", "repo": "OpenSearch", "new_stars": 5, "stars": 7264, "owner": "opensearch-project", "forks": 1116},
 {"description": "A set of tools that keep Java sweet.", "language": "Java", "repo": "hutool", "new_stars": 4, "stars": 26727, "owner": "dromara", "forks": 7196},
 {"description": "The official home of the Presto distributed SQL query engine for big data", "language": "Java", "repo": "presto", "new_stars": 2, "stars": 14893, "owner": "prestodb", "forks": 5080},
 {"description": "Apache Flink", "language": "Java", "repo": "flink", "new_stars": 5, "stars": 21629, "owner": "apache", "forks": 12161},
 {"description": "Java client for Kubernetes & OpenShift", "language": "Java", "repo": "kubernetes-client", "new_stars": 0, "stars": 3060, "owner": "fabric8io", "forks": 1380},
 {"description": "a fast, scalable, multi-language and extensible build system", "language": "Java", "repo": "bazel", "new_stars": 4, "stars": 21098, "owner": "bazelbuild", "forks": 3817},
-{"description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.", "language": "Java", "repo": "rocketmq", "new_stars": 1, "stars": 19551, "owner": "apache", "forks": 11030}
+{"description": "Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.", "language": "Java", "repo": "rocketmq", "new_stars": 1, "stars": 19551, "owner": "apache", "forks": 11032}
 ]

@@ -1,7 +1,7 @@
 [
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 19, "stars": 8033, "owner": "google", "forks": 1128},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 3, "stars": 13227, "owner": "Tencent", "forks": 3431},
-{"description": "Mold: A Modern Linker", "language": "C++", "repo": "mold", "new_stars": 345, "stars": 11542, "owner": "rui314", "forks": 392},
+{"description": "Mold: A Modern Linker", "language": "C++", "repo": "mold", "new_stars": 345, "stars": 11550, "owner": "rui314", "forks": 392},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLM", "language": "C++", "repo": "lmdeploy", "new_stars": 10, "stars": 384, "owner": "InternLM", "forks": 39},
 {"description": "A arm offsetfinder. It finds offsets, patches, parses Mach-O and even supports IMG4/IMG3", "language": "C++", "repo": "libpatchfinder", "new_stars": 6, "stars": 105, "owner": "tihmstar", "forks": 67},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 14, "stars": 10257, "owner": "ZLMediaKit", "forks": 2698},
@@ -17,11 +17,11 @@
 {"description": "Real-Time SLAM for Monocular, Stereo and RGB-D Cameras, with Loop Detection and Relocalization Capabilities", "language": "C++", "repo": "ORB_SLAM2", "new_stars": 7, "stars": 8349, "owner": "raulmur", "forks": 4570},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 13, "stars": 30334, "owner": "google", "forks": 9704},
 {"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.", "language": "C++", "repo": "bullet3", "new_stars": 6, "stars": 10909, "owner": "bulletphysics", "forks": 2755},
-{"description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 26, "stars": 9827, "owner": "hyprwm", "forks": 356},
-{"description": "A machine learning compiler for GPUs, CPUs, and ML accelerators", "language": "C++", "repo": "xla", "new_stars": 2, "stars": 1522, "owner": "openxla", "forks": 152},
+{"description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 26, "stars": 9829, "owner": "hyprwm", "forks": 356},
+{"description": "A machine learning compiler for GPUs, CPUs, and ML accelerators", "language": "C++", "repo": "xla", "new_stars": 2, "stars": 1523, "owner": "openxla", "forks": 152},
 {"description": "Transparent file encryption in git", "language": "C++", "repo": "git-crypt", "new_stars": 4, "stars": 7412, "owner": "AGWA", "forks": 463},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 3, "stars": 16863, "owner": "catchorg", "forks": 2890},
-{"description": "Cap'n Proto serialization/RPC system - core tools and C++ library", "language": "C++", "repo": "capnproto", "new_stars": 4, "stars": 10001, "owner": "capnproto", "forks": 847},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 3, "stars": 16863, "owner": "catchorg", "forks": 2891},
+{"description": "Cap'n Proto serialization/RPC system - core tools and C++ library", "language": "C++", "repo": "capnproto", "new_stars": 4, "stars": 10002, "owner": "capnproto", "forks": 847},
 {"description": "Code repository of all OpenGL chapters from the book and its accompanying website", "language": "C++", "repo": "LearnOpenGL", "new_stars": 6, "stars": 9158, "owner": "JoeyDeVries", "forks": 2556},
 {"description": "C++ implementation of the Google logging module", "language": "C++", "repo": "glog", "new_stars": 5, "stars": 6249, "owner": "google", "forks": 1984}
 ]

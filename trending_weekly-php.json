@@ -1,13 +1,13 @@
 [
 {"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 255, "stars": 20159, "owner": "livewire", "forks": 1111},
-{"description": "Laravel wrapper for the NativePHP framework", "language": "PHP", "repo": "laravel", "new_stars": 406, "stars": 2098, "owner": "NativePHP", "forks": 85},
-{"description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.", "language": "PHP", "repo": "filament", "new_stars": 92, "stars": 7563, "owner": "filamentphp", "forks": 1168},
+{"description": "Laravel wrapper for the NativePHP framework", "language": "PHP", "repo": "laravel", "new_stars": 406, "stars": 2101, "owner": "NativePHP", "forks": 85},
+{"description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.", "language": "PHP", "repo": "filament", "new_stars": 92, "stars": 7567, "owner": "filamentphp", "forks": 1169},
 {"description": "Electron backend for NativePHP", "language": "PHP", "repo": "electron", "new_stars": 56, "stars": 201, "owner": "NativePHP", "forks": 33},
 {"description": "Nextcloud server, a safe home for all your data", "language": "PHP", "repo": "server", "new_stars": 66, "stars": 23483, "owner": "nextcloud", "forks": 3653},
 {"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 39, "stars": 28559, "owner": "symfony", "forks": 9163},
-{"description": "Laravel is a web application framework with expressive, elegant syntax. We\u2019ve already laid the foundation for your next big idea \u2014 freeing you to create without sweating the small things.", "language": "PHP", "repo": "laravel", "new_stars": 101, "stars": 74211, "owner": "laravel", "forks": 23871},
+{"description": "Laravel is a web application framework with expressive, elegant syntax. We\u2019ve already laid the foundation for your next big idea \u2014 freeing you to create without sweating the small things.", "language": "PHP", "repo": "laravel", "new_stars": 101, "stars": 74212, "owner": "laravel", "forks": 23871},
 {"description": "Dynamically generated, customizable SVG that gives the appearance of typing and deleting text for use on your profile page, repositories, or website.", "language": "PHP", "repo": "readme-typing-svg", "new_stars": 57, "stars": 3203, "owner": "DenverCoder1", "forks": 530},
-{"description": "\ud83d\ude80 Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 17, "stars": 11629, "owner": "SpartnerNL", "forks": 1855},
+{"description": "\ud83d\ude80 Supercharged Excel exports and imports in Laravel", "language": "PHP", "repo": "Laravel-Excel", "new_stars": 17, "stars": 11630, "owner": "SpartnerNL", "forks": 1855},
 {"description": "The core Laravel CMS Composer package", "language": "PHP", "repo": "cms", "new_stars": 25, "stars": 2881, "owner": "statamic", "forks": 403},
 {"description": "Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony", "language": "PHP", "repo": "grav", "new_stars": 33, "stars": 13965, "owner": "getgrav", "forks": 1388},
 {"description": "A pure PHP library for reading and writing word processing documents", "language": "PHP", "repo": "PHPWord", "new_stars": 14, "stars": 6780, "owner": "PHPOffice", "forks": 2613},
@@ -16,12 +16,12 @@
 {"description": "Discover our global repository of countries, states, and cities!", "language": "PHP", "repo": "countries-states-cities-database", "new_stars": 52, "stars": 5219, "owner": "dr5hn", "forks": 2116},
 {"description": "PHP script collects V2Ray subscription links from sources, saves to protocol-specific files", "language": "PHP", "repo": "TelegramV2rayCollector", "new_stars": 33, "stars": 382, "owner": "yebekhe", "forks": 60},
 {"description": "A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.", "language": "PHP", "repo": "opencart", "new_stars": 17, "stars": 6902, "owner": "opencart", "forks": 4714},
-{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 45, "stars": 17792, "owner": "WordPress", "forks": 12380},
-{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 40, "stars": 29916, "owner": "laravel", "forks": 10191},
+{"description": "WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to", "language": "PHP", "repo": "WordPress", "new_stars": 45, "stars": 17792, "owner": "WordPress", "forks": 12381},
+{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 40, "stars": 29916, "owner": "laravel", "forks": 10190},
 {"description": "Async PHP client API for the telegram MTProto protocol", "language": "PHP", "repo": "MadelineProto", "new_stars": 11, "stars": 2422, "owner": "danog", "forks": 580},
 {"description": "Argon - \u4e00\u4e2a\u8f7b\u76c8\u3001\u7b80\u6d01\u7684 WordPress \u4e3b\u9898", "language": "PHP", "repo": "argon-theme", "new_stars": 23, "stars": 3650, "owner": "solstice23", "forks": 467},
 {"description": "PrestaShop is the universal open-source software platform to build your e-commerce solution.", "language": "PHP", "repo": "PrestaShop", "new_stars": 9, "stars": 7348, "owner": "PrestaShop", "forks": 4635},
 {"description": "PHP\u5f00\u53d1\u7684\u5b9d\u5854\u9762\u677f\u7b2c\u4e09\u65b9\u4e91\u7aef", "language": "PHP", "repo": "btcloud", "new_stars": 15, "stars": 825, "owner": "flucont", "forks": 407},
 {"description": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.", "language": "PHP", "repo": "inertia", "new_stars": 25, "stars": 5225, "owner": "inertiajs", "forks": 357},
-{"description": "Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.", "language": "PHP", "repo": "all-in-one", "new_stars": 53, "stars": 2261, "owner": "nextcloud", "forks": 322}
+{"description": "Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.", "language": "PHP", "repo": "all-in-one", "new_stars": 53, "stars": 2260, "owner": "nextcloud", "forks": 322}
 ]

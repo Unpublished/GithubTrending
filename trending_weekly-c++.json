@@ -1,7 +1,7 @@
 [
 {"description": "Python compiler", "language": "C++", "repo": "lpython", "new_stars": 288, "stars": 949, "owner": "lcompilers", "forks": 100},
-{"description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon", "language": "C++", "repo": "manticoresearch", "new_stars": 1093, "stars": 5410, "owner": "manticoresoftware", "forks": 316},
-{"description": "Fast inference engine for Transformer models", "language": "C++", "repo": "CTranslate2", "new_stars": 142, "stars": 1572, "owner": "OpenNMT", "forks": 150},
+{"description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon", "language": "C++", "repo": "manticoresearch", "new_stars": 1093, "stars": 5411, "owner": "manticoresoftware", "forks": 316},
+{"description": "Fast inference engine for Transformer models", "language": "C++", "repo": "CTranslate2", "new_stars": 142, "stars": 1573, "owner": "OpenNMT", "forks": 150},
 {"description": "Universal Scene Description", "language": "C++", "repo": "OpenUSD", "new_stars": 188, "stars": 4721, "owner": "PixarAnimationStudios", "forks": 1030},
 {"description": "A fast, local neural text to speech system", "language": "C++", "repo": "piper", "new_stars": 73, "stars": 1159, "owner": "rhasspy", "forks": 79},
 {"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 113, "stars": 14777, "owner": "FreeCAD", "forks": 3369},
@@ -10,11 +10,11 @@
 {"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.", "language": "C++", "repo": "JoltPhysics", "new_stars": 60, "stars": 3510, "owner": "jrouwe", "forks": 226},
 {"description": "A JavaScript engine optimized for running React Native.", "language": "C++", "repo": "hermes", "new_stars": 32, "stars": 7977, "owner": "facebook", "forks": 547},
 {"description": null, "language": "C++", "repo": "rpcsx", "new_stars": 76, "stars": 619, "owner": "RPCSX", "forks": 30},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 212, "stars": 49418, "owner": "ocornut", "forks": 8808},
-{"description": "OpenVINO\u2122 is an open-source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 37, "stars": 4517, "owner": "openvinotoolkit", "forks": 1723},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 212, "stars": 49419, "owner": "ocornut", "forks": 8807},
+{"description": "OpenVINO\u2122 is an open-source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 37, "stars": 4516, "owner": "openvinotoolkit", "forks": 1723},
 {"description": "A framework for building native Windows apps with React.", "language": "C++", "repo": "react-native-windows", "new_stars": 28, "stars": 15577, "owner": "microsoft", "forks": 1144},
 {"description": "Immediate Mode Plotting", "language": "C++", "repo": "implot", "new_stars": 239, "stars": 3568, "owner": "epezent", "forks": 378},
-{"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 152, "stars": 14129, "owner": "scottbez1", "forks": 839},
+{"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 152, "stars": 14131, "owner": "scottbez1", "forks": 839},
 {"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 48, "stars": 8921, "owner": "xournalpp", "forks": 723},
 {"description": "c++ async rpc framework. 14w+qps.", "language": "C++", "repo": "tinyrpc", "new_stars": 58, "stars": 837, "owner": "Gooddbird", "forks": 137},
 {"description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 188, "stars": 10123, "owner": "hyprwm", "forks": 373},
@@ -23,5 +23,5 @@
 {"description": "Combustion engine simulator that generates realistic audio.", "language": "C++", "repo": "engine-sim", "new_stars": 50, "stars": 7940, "owner": "ange-yaghi", "forks": 737},
 {"description": "Skin changer for League of Legends (LOL)", "language": "C++", "repo": "R3nzSkin", "new_stars": 91, "stars": 2458, "owner": "R3nzTheCodeGOD", "forks": 404},
 {"description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing", "language": "C++", "repo": "arrow", "new_stars": 124, "stars": 12237, "owner": "apache", "forks": 3016},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 38, "stars": 8684, "owner": "ArduPilot", "forks": 14840}
+{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 38, "stars": 8684, "owner": "ArduPilot", "forks": 14842}
 ]

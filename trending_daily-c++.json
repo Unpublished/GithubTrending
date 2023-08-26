@@ -1,6 +1,6 @@
 [
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 38, "stars": 25901, "owner": "facebook", "forks": 5450},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 13, "stars": 16987, "owner": "catchorg", "forks": 2917},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 13, "stars": 16989, "owner": "catchorg", "forks": 2917},
 {"description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing", "language": "C++", "repo": "fuzzing", "new_stars": 18, "stars": 3002, "owner": "google", "forks": 409},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 25, "stars": 19714, "owner": "gabime", "forks": 3995},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 7, "stars": 38782, "owner": "grpc", "forks": 10429},
@@ -15,13 +15,13 @@
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 1, "stars": 12287, "owner": "ceph", "forks": 6199},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLM", "language": "C++", "repo": "lmdeploy", "new_stars": 20, "stars": 602, "owner": "InternLM", "forks": 60},
 {"description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing", "language": "C++", "repo": "arrow", "new_stars": 8, "stars": 12348, "owner": "apache", "forks": 3041},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 24, "stars": 49792, "owner": "ocornut", "forks": 8878},
-{"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 14, "stars": 30427, "owner": "yuzu-emu", "forks": 2639},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 24, "stars": 49793, "owner": "ocornut", "forks": 8878},
+{"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 14, "stars": 30428, "owner": "yuzu-emu", "forks": 2639},
 {"description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.", "language": "C++", "repo": "FileCentipede", "new_stars": 13, "stars": 5223, "owner": "filecxx", "forks": 370},
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 16, "stars": 29703, "owner": "WerWolv", "forks": 1448},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 16, "stars": 29704, "owner": "WerWolv", "forks": 1448},
 {"description": "A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.", "language": "C++", "repo": "goldendict", "new_stars": 4, "stars": 5312, "owner": "goldendict", "forks": 716},
 {"description": "Production First and Production Ready End-to-End Speech Recognition Toolkit", "language": "C++", "repo": "wenet", "new_stars": 2, "stars": 3215, "owner": "wenet-e2e", "forks": 889},
 {"description": "Productive & portable high-performance programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 5, "stars": 23669, "owner": "taichi-dev", "forks": 2232},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 30640, "owner": "google", "forks": 9770},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 30641, "owner": "google", "forks": 9770},
 {"description": "Transformer related optimization, including BERT, GPT", "language": "C++", "repo": "FasterTransformer", "new_stars": 1, "stars": 4331, "owner": "NVIDIA", "forks": 761}
 ]

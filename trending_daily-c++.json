@@ -1,7 +1,7 @@
 [
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 37, "stars": 25904, "owner": "facebook", "forks": 5450},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 7, "stars": 16991, "owner": "catchorg", "forks": 2917},
-{"description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing", "language": "C++", "repo": "fuzzing", "new_stars": 18, "stars": 3003, "owner": "google", "forks": 409},
+{"description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing", "language": "C++", "repo": "fuzzing", "new_stars": 18, "stars": 3004, "owner": "google", "forks": 409},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 23, "stars": 19715, "owner": "gabime", "forks": 3995},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 7, "stars": 38782, "owner": "grpc", "forks": 10429},
 {"description": "Convert HTML to PDF using Webkit (QtWebKit)", "language": "C++", "repo": "wkhtmltopdf", "new_stars": 1, "stars": 13346, "owner": "wkhtmltopdf", "forks": 1749},
@@ -13,7 +13,7 @@
 {"description": "HybridCLR\u662f\u4e00\u4e2a\u7279\u6027\u5b8c\u6574\u3001\u96f6\u6210\u672c\u3001\u9ad8\u6027\u80fd\u3001\u4f4e\u5185\u5b58\u7684Unity\u5168\u5e73\u53f0\u539f\u751fc#\u70ed\u66f4\u65b9\u6848\u3002 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.", "language": "C++", "repo": "hybridclr", "new_stars": 2, "stars": 4737, "owner": "focus-creative-games", "forks": 541},
 {"description": "Run Nintendo Switch homebrew & games on your Android device!", "language": "C++", "repo": "strato", "new_stars": 4, "stars": 1155, "owner": "strato-emu", "forks": 125},
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 0, "stars": 12288, "owner": "ceph", "forks": 6199},
-{"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLM", "language": "C++", "repo": "lmdeploy", "new_stars": 16, "stars": 603, "owner": "InternLM", "forks": 60},
+{"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLM", "language": "C++", "repo": "lmdeploy", "new_stars": 16, "stars": 604, "owner": "InternLM", "forks": 60},
 {"description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing", "language": "C++", "repo": "arrow", "new_stars": 2, "stars": 12348, "owner": "apache", "forks": 3041},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 24, "stars": 49797, "owner": "ocornut", "forks": 8877},
 {"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 15, "stars": 30429, "owner": "yuzu-emu", "forks": 2639},

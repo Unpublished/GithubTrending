@@ -1,7 +1,7 @@
 [
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 37, "stars": 25905, "owner": "facebook", "forks": 5451},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 7, "stars": 16996, "owner": "catchorg", "forks": 2917},
-{"description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing", "language": "C++", "repo": "fuzzing", "new_stars": 18, "stars": 3005, "owner": "google", "forks": 409},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 37, "stars": 25907, "owner": "facebook", "forks": 5451},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 7, "stars": 16998, "owner": "catchorg", "forks": 2917},
+{"description": "Tutorials, examples, discussions, research proposals, and other resources related to fuzzing", "language": "C++", "repo": "fuzzing", "new_stars": 18, "stars": 3006, "owner": "google", "forks": 409},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 23, "stars": 19715, "owner": "gabime", "forks": 3995},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 7, "stars": 38782, "owner": "grpc", "forks": 10429},
 {"description": "Convert HTML to PDF using Webkit (QtWebKit)", "language": "C++", "repo": "wkhtmltopdf", "new_stars": 1, "stars": 13347, "owner": "wkhtmltopdf", "forks": 1749},
@@ -15,13 +15,13 @@
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 0, "stars": 12288, "owner": "ceph", "forks": 6199},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLM", "language": "C++", "repo": "lmdeploy", "new_stars": 16, "stars": 606, "owner": "InternLM", "forks": 60},
 {"description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing", "language": "C++", "repo": "arrow", "new_stars": 2, "stars": 12348, "owner": "apache", "forks": 3041},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 24, "stars": 49798, "owner": "ocornut", "forks": 8877},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 24, "stars": 49799, "owner": "ocornut", "forks": 8877},
 {"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 15, "stars": 30430, "owner": "yuzu-emu", "forks": 2639},
-{"description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.", "language": "C++", "repo": "FileCentipede", "new_stars": 17, "stars": 5227, "owner": "filecxx", "forks": 370},
+{"description": "Cross-platform internet upload/download manager for HTTP(S), FTP(S), SSH, magnet-link, BitTorrent, m3u8, ed2k, and online videos. WebDAV client, FTP client, SSH client.", "language": "C++", "repo": "FileCentipede", "new_stars": 17, "stars": 5228, "owner": "filecxx", "forks": 370},
 {"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 16, "stars": 29710, "owner": "WerWolv", "forks": 1449},
-{"description": "A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.", "language": "C++", "repo": "goldendict", "new_stars": 3, "stars": 5312, "owner": "goldendict", "forks": 716},
+{"description": "A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, illustrations and other content retained, and allowing you to type in words without any accents or correct case.", "language": "C++", "repo": "goldendict", "new_stars": 3, "stars": 5313, "owner": "goldendict", "forks": 716},
 {"description": "Production First and Production Ready End-to-End Speech Recognition Toolkit", "language": "C++", "repo": "wenet", "new_stars": 2, "stars": 3216, "owner": "wenet-e2e", "forks": 889},
 {"description": "Productive & portable high-performance programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 3, "stars": 23671, "owner": "taichi-dev", "forks": 2232},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 30643, "owner": "google", "forks": 9771},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 30644, "owner": "google", "forks": 9771},
 {"description": "Transformer related optimization, including BERT, GPT", "language": "C++", "repo": "FasterTransformer", "new_stars": 2, "stars": 4331, "owner": "NVIDIA", "forks": 761}
 ]

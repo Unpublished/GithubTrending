@@ -1,8 +1,8 @@
 [
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 1135, "stars": 27441, "owner": "lapce", "forks": 809},
-{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 557, "stars": 12025, "owner": "tokio-rs", "forks": 774},
-{"description": "Fullstack GUI library for desktop, web, mobile, and more.", "language": "Rust", "repo": "dioxus", "new_stars": 3343, "stars": 13717, "owner": "DioxusLabs", "forks": 435},
-{"description": "An open-source remote desktop, and alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 1792, "stars": 46470, "owner": "rustdesk", "forks": 4924},
+{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 557, "stars": 12026, "owner": "tokio-rs", "forks": 774},
+{"description": "Fullstack GUI library for desktop, web, mobile, and more.", "language": "Rust", "repo": "dioxus", "new_stars": 3343, "stars": 13718, "owner": "DioxusLabs", "forks": 435},
+{"description": "An open-source remote desktop, and alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 1792, "stars": 46471, "owner": "rustdesk", "forks": 4924},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 402, "stars": 7793, "owner": "serde-rs", "forks": 706},
 {"description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.", "language": "Rust", "repo": "universal-android-debloater", "new_stars": 519, "stars": 11176, "owner": "0x192", "forks": 677},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 363, "stars": 13036, "owner": "tree-sitter", "forks": 942},
@@ -21,7 +21,7 @@
 {"description": "An extremely fast Python linter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 787, "stars": 17342, "owner": "astral-sh", "forks": 558},
 {"description": "\ud83e\uddf0 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.", "language": "Rust", "repo": "sqlx", "new_stars": 383, "stars": 9780, "owner": "launchbadge", "forks": 960},
 {"description": "Rust bindings for the C++ api of PyTorch.", "language": "Rust", "repo": "tch-rs", "new_stars": 151, "stars": 3203, "owner": "LaurentMazare", "forks": 270},
-{"description": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust", "language": "Rust", "repo": "burn", "new_stars": 691, "stars": 3329, "owner": "burn-rs", "forks": 116},
-{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 182, "stars": 10899, "owner": "rust-lang", "forks": 2127},
+{"description": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust", "language": "Rust", "repo": "burn", "new_stars": 691, "stars": 3330, "owner": "burn-rs", "forks": 116},
+{"description": "The Rust package manager", "language": "Rust", "repo": "cargo", "new_stars": 182, "stars": 10899, "owner": "rust-lang", "forks": 2128},
 {"description": "Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 637, "stars": 12616, "owner": "qdrant", "forks": 695}
 ]

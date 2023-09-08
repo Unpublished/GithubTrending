@@ -1,13 +1,13 @@
 [
 {"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 29, "stars": 20083, "owner": "pola-rs", "forks": 1148},
-{"description": "Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.", "language": "Rust", "repo": "slint", "new_stars": 11, "stars": 9479, "owner": "slint-ui", "forks": 314},
+{"description": "Slint is a declarative GUI toolkit to build native user interfaces for applications that are written in Rust, C++, or JavaScript.", "language": "Rust", "repo": "slint", "new_stars": 11, "stars": 9480, "owner": "slint-ui", "forks": 314},
 {"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 2, "stars": 5217, "owner": "MystenLabs", "forks": 12097},
 {"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 34, "stars": 20519, "owner": "typst", "forks": 506},
-{"description": "Minimalist ML framework for Rust", "language": "Rust", "repo": "candle", "new_stars": 53, "stars": 7960, "owner": "huggingface", "forks": 292},
+{"description": "Minimalist ML framework for Rust", "language": "Rust", "repo": "candle", "new_stars": 53, "stars": 7962, "owner": "huggingface", "forks": 292},
 {"description": "Pronounced (influxdb eye-ox), short for iron oxide. This is the new core of InfluxDB written in Rust on top of Apache Arrow.", "language": "Rust", "repo": "influxdb_iox", "new_stars": 2, "stars": 1789, "owner": "influxdata", "forks": 187},
 {"description": "A toolchain for web projects, aimed to provide functionalities to maintain them.", "language": "Rust", "repo": "biome", "new_stars": 86, "stars": 1860, "owner": "biomejs", "forks": 52},
 {"description": "\u2728 Magical shell history", "language": "Rust", "repo": "atuin", "new_stars": 13, "stars": 11417, "owner": "atuinsh", "forks": 317},
-{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 49, "stars": 41592, "owner": "rust-lang", "forks": 7542},
+{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 49, "stars": 41595, "owner": "rust-lang", "forks": 7542},
 {"description": "\ud83d\udcca Cube \u2014 The Semantic Layer for Building Data Applications", "language": "Rust", "repo": "cube", "new_stars": 17, "stars": 16141, "owner": "cube-js", "forks": 1620},
 {"description": "The distributed streaming database: SQL stream processing with Postgres-like experience \ud83e\ude84. 10X faster and more cost-efficient than Apache Flink \ud83d\ude80.", "language": "Rust", "repo": "risingwave", "new_stars": 3, "stars": 5141, "owner": "risingwavelabs", "forks": 418},
 {"description": "\ud83e\udd8a | A language that compiles to LLVM and has algebraic effects", "language": "Rust", "repo": "vulpi", "new_stars": 4, "stars": 70, "owner": "algebraic-sofia", "forks": 0},
@@ -22,6 +22,6 @@
 {"description": "\ud83d\ude80 Fast and simple Node.js version manager, built in Rust", "language": "Rust", "repo": "fnm", "new_stars": 19, "stars": 13255, "owner": "Schniz", "forks": 362},
 {"description": "Run web applications on AWS Lambda", "language": "Rust", "repo": "aws-lambda-web-adapter", "new_stars": 6, "stars": 692, "owner": "awslabs", "forks": 54},
 {"description": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust", "language": "Rust", "repo": "burn", "new_stars": 16, "stars": 3376, "owner": "burn-rs", "forks": 121},
-{"description": "An extremely fast Python linter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 30, "stars": 17452, "owner": "astral-sh", "forks": 561},
+{"description": "An extremely fast Python linter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 30, "stars": 17453, "owner": "astral-sh", "forks": 561},
 {"description": "The Rust Implementation of the libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 0, "stars": 3569, "owner": "libp2p", "forks": 762}
 ]

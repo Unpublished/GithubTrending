@@ -1,14 +1,14 @@
 [
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 215, "stars": 36932, "owner": "rust-unofficial", "forks": 2324},
-{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them.", "language": "Rust", "repo": "biome", "new_stars": 1197, "stars": 2095, "owner": "biomejs", "forks": 61},
+{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them.", "language": "Rust", "repo": "biome", "new_stars": 1197, "stars": 2097, "owner": "biomejs", "forks": 61},
 {"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 200, "stars": 20163, "owner": "pola-rs", "forks": 1151},
-{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 319, "stars": 41841, "owner": "rust-lang", "forks": 7567},
+{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 319, "stars": 41843, "owner": "rust-lang", "forks": 7567},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 118, "stars": 6507, "owner": "shadowsocks", "forks": 930},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 183, "stars": 27592, "owner": "dani-garcia", "forks": 1411},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 78, "stars": 15181, "owner": "uutils", "forks": 1084},
 {"description": "Blazing \ud83d\udca5 fast terminal-ui for git written in rust \ud83e\udd80", "language": "Rust", "repo": "gitui", "new_stars": 77, "stars": 13984, "owner": "extrawurst", "forks": 444},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 152, "stars": 26313, "owner": "nushell", "forks": 1332},
-{"description": "A modern, maintained replacement for ls", "language": "Rust", "repo": "eza", "new_stars": 1284, "stars": 1596, "owner": "eza-community", "forks": 28},
+{"description": "A modern, maintained replacement for ls", "language": "Rust", "repo": "eza", "new_stars": 1284, "stars": 1604, "owner": "eza-community", "forks": 28},
 {"description": "\ud83d\ude80 Fast and simple Node.js version manager, built in Rust", "language": "Rust", "repo": "fnm", "new_stars": 96, "stars": 13294, "owner": "Schniz", "forks": 363},
 {"description": "Safe interop between Rust and C++", "language": "Rust", "repo": "cxx", "new_stars": 32, "stars": 4993, "owner": "dtolnay", "forks": 315},
 {"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 41, "stars": 12552, "owner": "rust-lang", "forks": 1310},
@@ -22,6 +22,6 @@
 {"description": "Rayon: A data parallelism library for Rust", "language": "Rust", "repo": "rayon", "new_stars": 58, "stars": 9128, "owner": "rayon-rs", "forks": 444},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 254, "stars": 85181, "owner": "rust-lang", "forks": 11276},
 {"description": "\ud83d\udcca Cube \u2014 The Semantic Layer for Building Data Applications", "language": "Rust", "repo": "cube", "new_stars": 73, "stars": 16166, "owner": "cube-js", "forks": 1619},
-{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 198, "stars": 10708, "owner": "lsd-rs", "forks": 358},
+{"description": "The next gen ls command", "language": "Rust", "repo": "lsd", "new_stars": 198, "stars": 10707, "owner": "lsd-rs", "forks": 358},
 {"description": "An experimental Rust native UI framework", "language": "Rust", "repo": "xilem", "new_stars": 24, "stars": 1927, "owner": "linebender", "forks": 61}
 ]

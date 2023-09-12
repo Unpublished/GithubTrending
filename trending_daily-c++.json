@@ -1,11 +1,11 @@
 [
-{"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 91, "stars": 14972, "owner": "scottbez1", "forks": 869},
-{"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 26, "stars": 9319, "owner": "hrydgard", "forks": 2053},
+{"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 91, "stars": 14974, "owner": "scottbez1", "forks": 870},
+{"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 26, "stars": 9322, "owner": "hrydgard", "forks": 2053},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 17, "stars": 1920, "owner": "SoftFever", "forks": 218},
 {"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 1, "stars": 8839, "owner": "CleverRaven", "forks": 3846},
 {"description": "A free and strong UCI chess engine", "language": "C++", "repo": "Stockfish", "new_stars": 6, "stars": 9369, "owner": "official-stockfish", "forks": 2059},
 {"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 12, "stars": 8960, "owner": "NixOS", "forks": 1219},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 31, "stars": 50158, "owner": "ocornut", "forks": 8932},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 31, "stars": 50159, "owner": "ocornut", "forks": 8932},
 {"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 5, "stars": 5906, "owner": "tdlib", "forks": 1271},
 {"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 95, "stars": 31202, "owner": "carbon-language", "forks": 1437},
 {"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 8, "stars": 9678, "owner": "MaaAssistantArknights", "forks": 1229},
@@ -13,7 +13,7 @@
 {"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64", "language": "C++", "repo": "duckstation", "new_stars": 2, "stars": 5259, "owner": "stenzek", "forks": 509},
 {"description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 14, "stars": 10664, "owner": "doitsujin", "forks": 691},
 {"description": "Minetest is an open source voxel game engine with easy modding and game creation", "language": "C++", "repo": "minetest", "new_stars": 5, "stars": 9284, "owner": "minetest", "forks": 1846},
-{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 56, "stars": 32810, "owner": "Light-City", "forks": 7767},
+{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 56, "stars": 32815, "owner": "Light-City", "forks": 7768},
 {"description": "MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!", "language": "C++", "repo": "MuseScore", "new_stars": 9, "stars": 10095, "owner": "musescore", "forks": 2291},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 12, "stars": 21884, "owner": "qbittorrent", "forks": 3532},
 {"description": "Stream VR games from your PC to your headset via Wi-Fi", "language": "C++", "repo": "ALVR", "new_stars": 4, "stars": 3728, "owner": "alvr-org", "forks": 368},
@@ -22,6 +22,6 @@
 {"description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)", "language": "C++", "repo": "PrismLauncher", "new_stars": 7, "stars": 3918, "owner": "PrismLauncher", "forks": 399},
 {"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 2, "stars": 6898, "owner": "mamedev", "forks": 1786},
 {"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 26, "stars": 6612, "owner": "LizardByte", "forks": 322},
-{"description": "static analysis of C/C++ code", "language": "C++", "repo": "cppcheck", "new_stars": 6, "stars": 5001, "owner": "danmar", "forks": 1393},
-{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 6, "stars": 12385, "owner": "Atmosphere-NX", "forks": 1107}
+{"description": "static analysis of C/C++ code", "language": "C++", "repo": "cppcheck", "new_stars": 6, "stars": 5003, "owner": "danmar", "forks": 1393},
+{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 6, "stars": 12386, "owner": "Atmosphere-NX", "forks": 1107}
 ]

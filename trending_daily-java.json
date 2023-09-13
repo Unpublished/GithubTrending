@@ -1,12 +1,12 @@
 [
-{"description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002", "language": "Java", "repo": "hello-algo", "new_stars": 2561, "stars": 26782, "owner": "krahets", "forks": 2860},
-{"description": "\u674e\u8df3\u8df3\u81ea\u5b9a\u4e49\u89c4\u5219", "language": "Java", "repo": "LiTiaotiao-Custom-Rules", "new_stars": 196, "stars": 4226, "owner": "Snoopy1866", "forks": 383},
-{"description": null, "language": "Java", "repo": "FtcRobotController", "new_stars": 24, "stars": 512, "owner": "FIRST-Tech-Challenge", "forks": 2667},
+{"description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002", "language": "Java", "repo": "hello-algo", "new_stars": 2561, "stars": 26873, "owner": "krahets", "forks": 2868},
+{"description": "\u674e\u8df3\u8df3\u81ea\u5b9a\u4e49\u89c4\u5219", "language": "Java", "repo": "LiTiaotiao-Custom-Rules", "new_stars": 196, "stars": 4237, "owner": "Snoopy1866", "forks": 384},
+{"description": null, "language": "Java", "repo": "FtcRobotController", "new_stars": 24, "stars": 512, "owner": "FIRST-Tech-Challenge", "forks": 2668},
 {"description": "A high performance caching library for Java", "language": "Java", "repo": "caffeine", "new_stars": 6, "stars": 14195, "owner": "ben-manes", "forks": 1532},
 {"description": "Various Low Level Object Oriented System Design problems are discussed in this space", "language": "Java", "repo": "LowLevelDesign", "new_stars": 64, "stars": 227, "owner": "kousiknath", "forks": 37},
 {"description": "SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.", "language": "Java", "repo": "seatunnel", "new_stars": 5, "stars": 6372, "owner": "apache", "forks": 1286},
 {"description": "\u300a\u5251\u6307 Offer\u300b Python, Java, C++ \u89e3\u9898\u4ee3\u7801\uff0cLeetBook\u300a\u56fe\u89e3\u7b97\u6cd5\u6570\u636e\u7ed3\u6784\u300b\u914d\u5957\u4ee3\u7801\u4ed3", "language": "Java", "repo": "LeetCode-Book", "new_stars": 20, "stars": 2037, "owner": "krahets", "forks": 317},
-{"description": "A framework for building native applications using React", "language": "Java", "repo": "react-native", "new_stars": 37, "stars": 111764, "owner": "facebook", "forks": 23778},
+{"description": "A framework for building native applications using React", "language": "Java", "repo": "react-native", "new_stars": 37, "stars": 111765, "owner": "facebook", "forks": 23778},
 {"description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies", "language": "Java", "repo": "Paper", "new_stars": 65, "stars": 7970, "owner": "PaperMC", "forks": 1982},
 {"description": "Apache Doris is an easy-to-use, high performance and unified analytics database.", "language": "Java", "repo": "doris", "new_stars": 25, "stars": 9454, "owner": "apache", "forks": 2677},
 {"description": "Micronaut Application Framework", "language": "Java", "repo": "micronaut-core", "new_stars": 0, "stars": 5807, "owner": "micronaut-projects", "forks": 996},
@@ -20,8 +20,8 @@
 {"description": "Apache Maven core", "language": "Java", "repo": "maven", "new_stars": 2, "stars": 3843, "owner": "apache", "forks": 2545},
 {"description": "Apache Druid: a high performance real-time analytics database.", "language": "Java", "repo": "druid", "new_stars": 1, "stars": 12834, "owner": "apache", "forks": 3592},
 {"description": "A Gateway built on Spring Framework and Spring Boot providing routing and more.", "language": "Java", "repo": "spring-cloud-gateway", "new_stars": 0, "stars": 4170, "owner": "spring-cloud", "forks": 3111},
-{"description": "H2 is an embeddable RDBMS written in Java.", "language": "Java", "repo": "h2database", "new_stars": 1, "stars": 3850, "owner": "h2database", "forks": 1184},
+{"description": "H2 is an embeddable RDBMS written in Java.", "language": "Java", "repo": "h2database", "new_stars": 1, "stars": 3851, "owner": "h2database", "forks": 1184},
 {"description": "DataX\u662f\u963f\u91cc\u4e91DataWorks\u6570\u636e\u96c6\u6210\u7684\u5f00\u6e90\u7248\u672c\u3002", "language": "Java", "repo": "DataX", "new_stars": 8, "stars": 14123, "owner": "alibaba", "forks": 5011},
-{"description": "The java implementation of Apache Dubbo. An RPC and microservice framework.", "language": "Java", "repo": "dubbo", "new_stars": 7, "stars": 39354, "owner": "apache", "forks": 26173},
-{"description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (", "language": "Java", "repo": "trino", "new_stars": 7, "stars": 8484, "owner": "trinodb", "forks": 2489}
+{"description": "The java implementation of Apache Dubbo. An RPC and microservice framework.", "language": "Java", "repo": "dubbo", "new_stars": 7, "stars": 39355, "owner": "apache", "forks": 26173},
+{"description": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (", "language": "Java", "repo": "trino", "new_stars": 7, "stars": 8484, "owner": "trinodb", "forks": 2490}
 ]

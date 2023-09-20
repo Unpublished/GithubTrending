@@ -1,10 +1,10 @@
 [
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1767, "stars": 73241, "owner": "godotengine", "forks": 14317},
-{"description": "Flax Engine \u2013 multi-platform 3D game engine", "language": "C++", "repo": "FlaxEngine", "new_stars": 163, "stars": 4725, "owner": "FlaxEngine", "forks": 453},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1767, "stars": 73250, "owner": "godotengine", "forks": 14318},
+{"description": "Flax Engine \u2013 multi-platform 3D game engine", "language": "C++", "repo": "FlaxEngine", "new_stars": 163, "stars": 4726, "owner": "FlaxEngine", "forks": 453},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 14, "stars": 17744, "owner": "fmtlib", "forks": 2161},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 8, "stars": 26051, "owner": "facebook", "forks": 5475},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 8, "stars": 26052, "owner": "facebook", "forks": 5476},
 {"description": "Hazel Engine", "language": "C++", "repo": "Hazel", "new_stars": 17, "stars": 10287, "owner": "TheCherno", "forks": 1417},
-{"description": "C++ bindings for the Godot script API", "language": "C++", "repo": "godot-cpp", "new_stars": 12, "stars": 1089, "owner": "godotengine", "forks": 382},
+{"description": "C++ bindings for the Godot script API", "language": "C++", "repo": "godot-cpp", "new_stars": 12, "stars": 1090, "owner": "godotengine", "forks": 384},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 15, "stars": 30844, "owner": "google", "forks": 9822},
 {"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 6, "stars": 13663, "owner": "CoatiSoftware", "forks": 1257},
 {"description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 3, "stars": 2646, "owner": "facebookincubator", "forks": 812},
@@ -16,12 +16,12 @@
 {"description": "GNU Radio \u2013 the Free and Open Software Radio Ecosystem", "language": "C++", "repo": "gnuradio", "new_stars": 1, "stars": 4482, "owner": "gnuradio", "forks": 1820},
 {"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 12, "stars": 11908, "owner": "duckdb", "forks": 1110},
 {"description": "TrinityCore Open Source MMO Framework (master = 10.1.7.51313, 3.3.5 = 3.3.5a.12340)", "language": "C++", "repo": "TrinityCore", "new_stars": 3, "stars": 8497, "owner": "TrinityCore", "forks": 5804},
-{"description": "Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.", "language": "C++", "repo": "cartographer", "new_stars": 4, "stars": 6646, "owner": "cartographer-project", "forks": 2187},
-{"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.", "language": "C++", "repo": "JoltPhysics", "new_stars": 14, "stars": 3712, "owner": "jrouwe", "forks": 241},
+{"description": "Cartographer is a system that provides real-time simultaneous localization and mapping (SLAM) in 2D and 3D across multiple platforms and sensor configurations.", "language": "C++", "repo": "cartographer", "new_stars": 4, "stars": 6647, "owner": "cartographer-project", "forks": 2187},
+{"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.", "language": "C++", "repo": "JoltPhysics", "new_stars": 14, "stars": 3715, "owner": "jrouwe", "forks": 241},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 8, "stars": 9657, "owner": "carla-simulator", "forks": 3033},
-{"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 21, "stars": 30722, "owner": "yuzu-emu", "forks": 2648},
+{"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 21, "stars": 30723, "owner": "yuzu-emu", "forks": 2648},
 {"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 18, "stars": 13227, "owner": "apple", "forks": 1266},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 16, "stars": 6160, "owner": "oceanbase", "forks": 1314},
-{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 36, "stars": 30781, "owner": "ClickHouse", "forks": 6097},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 43, "stars": 50378, "owner": "ocornut", "forks": 8966}
+{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 36, "stars": 30783, "owner": "ClickHouse", "forks": 6097},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 43, "stars": 50379, "owner": "ocornut", "forks": 8966}
 ]

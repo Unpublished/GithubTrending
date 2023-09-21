@@ -1,27 +1,3 @@
 [
-{"description": "A framework for building native applications using React", "language": "Java", "repo": "react-native", "new_stars": 326, "stars": 112060, "owner": "facebook", "forks": 23820},
-{"description": "Ghidra is a software reverse engineering (SRE) framework", "language": "Java", "repo": "ghidra", "new_stars": 377, "stars": 42944, "owner": "NationalSecurityAgency", "forks": 5233},
-{"description": "Open Source Identity and Access Management For Modern Applications and Services", "language": "Java", "repo": "keycloak", "new_stars": 100, "stars": 17436, "owner": "keycloak", "forks": 5723},
-{"description": "Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.", "language": "Java", "repo": "incubator-kie-drools", "new_stars": 60, "stars": 5486, "owner": "apache", "forks": 2457},
-{"description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002", "language": "Java", "repo": "hello-algo", "new_stars": 2923, "stars": 30171, "owner": "krahets", "forks": 3250},
-{"description": "Various Low Level Object Oriented System Design problems are discussed in this space", "language": "Java", "repo": "LowLevelDesign", "new_stars": 79, "stars": 308, "owner": "kousiknath", "forks": 52},
-{"description": "Design patterns implemented in Java", "language": "Java", "repo": "java-design-patterns", "new_stars": 121, "stars": 83773, "owner": "iluwatar", "forks": 25514},
-{"description": "The official home of the Presto distributed SQL query engine for big data", "language": "Java", "repo": "presto", "new_stars": 30, "stars": 15083, "owner": "prestodb", "forks": 5169},
-{"description": "Dex to Java decompiler", "language": "Java", "repo": "jadx", "new_stars": 126, "stars": 36275, "owner": "skylot", "forks": 4503},
-{"description": "Conductor is a microservices orchestration engine.", "language": "Java", "repo": "conductor", "new_stars": 167, "stars": 10209, "owner": "Netflix", "forks": 2228},
-{"description": "This repository consists of the code samples, assignments, and notes for the Java data structures & algorithms + interview preparation bootcamp of WeMakeDevs.", "language": "Java", "repo": "DSA-Bootcamp-Java", "new_stars": 103, "stars": 13277, "owner": "kunal-kushwaha", "forks": 8816},
-{"description": "Just Announced - \"Learn Spring Security OAuth\":", "language": "Java", "repo": "tutorials", "new_stars": 49, "stars": 34904, "owner": "eugenp", "forks": 54050},
-{"description": "\u300a\u5251\u6307 Offer\u300b Python, Java, C++ \u89e3\u9898\u4ee3\u7801\uff0cLeetBook\u300a\u56fe\u89e3\u7b97\u6cd5\u6570\u636e\u7ed3\u6784\u300b\u914d\u5957\u4ee3\u7801\u4ed3", "language": "Java", "repo": "LeetCode-Book", "new_stars": 103, "stars": 2147, "owner": "krahets", "forks": 332},
-{"description": "\u300cJava\u5b66\u4e60+\u9762\u8bd5\u6307\u5357\u300d\u4e00\u4efd\u6db5\u76d6\u5927\u90e8\u5206 Java \u7a0b\u5e8f\u5458\u6240\u9700\u8981\u638c\u63e1\u7684\u6838\u5fc3\u77e5\u8bc6\u3002\u51c6\u5907 Java \u9762\u8bd5\uff0c\u9996\u9009 JavaGuide\uff01", "language": "Java", "repo": "JavaGuide", "new_stars": 268, "stars": 137295, "owner": "Snailclimb", "forks": 44828},
-{"description": "RESTful API da Santander Dev Week 2023 constru\u00edda em Java 17 com Spring Boot 3.", "language": "Java", "repo": "santander-dev-week-2023-api", "new_stars": 60, "stars": 286, "owner": "digitalinnovationone", "forks": 294},
-{"description": "Desktop/Android/HTML5/iOS Java game development framework", "language": "Java", "repo": "libgdx", "new_stars": 49, "stars": 21952, "owner": "libgdx", "forks": 6471},
-{"description": "OpenRefine is a free, open source power tool for working with messy data and improving it", "language": "Java", "repo": "OpenRefine", "new_stars": 44, "stars": 9698, "owner": "OpenRefine", "forks": 1859},
-{"description": "Very spicy additions to the Java programming language.", "language": "Java", "repo": "lombok", "new_stars": 24, "stars": 12240, "owner": "projectlombok", "forks": 2275},
-{"description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)", "language": "Java", "repo": "openapi-generator", "new_stars": 86, "stars": 17651, "owner": "OpenAPITools", "forks": 5621},
-{"description": "Apache IoTDB", "language": "Java", "repo": "iotdb", "new_stars": 705, "stars": 4028, "owner": "apache", "forks": 933},
-{"description": "Feign makes writing java http clients easier", "language": "Java", "repo": "feign", "new_stars": 17, "stars": 9012, "owner": "OpenFeign", "forks": 1890},
-{"description": "\u7981\u6f2b\u5929\u5802Github Actions\u4e0b\u8f7d\u5668\ud83e\uddd8", "language": "Java", "repo": "18-comic-finder", "new_stars": 33, "stars": 845, "owner": "jiayaoO3O", "forks": 1252},
-{"description": "\u4eba\u4eba\u53ef\u7528\u7684\u5f00\u6e90\u6570\u636e\u53ef\u89c6\u5316\u5206\u6790\u5de5\u5177\u3002", "language": "Java", "repo": "dataease", "new_stars": 91, "stars": 12898, "owner": "dataease", "forks": 2448},
-{"description": "Modular and customizable Material Design UI components for Android", "language": "Java", "repo": "material-components-android", "new_stars": 31, "stars": 15393, "owner": "material-components", "forks": 3057},
-{"description": "Pentaho Data Integration ( ETL ) a.k.a Kettle", "language": "Java", "repo": "pentaho-kettle", "new_stars": 18, "stars": 6919, "owner": "pentaho", "forks": 3333}
+
 ]

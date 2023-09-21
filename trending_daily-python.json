@@ -1,27 +1,3 @@
 [
-{"description": null, "language": "Python", "repo": "unifree", "new_stars": 157, "stars": 629, "owner": "ProjectUnifree", "forks": 33},
-{"description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time", "language": "Python", "repo": "Real-Time-Voice-Cloning", "new_stars": 467, "stars": 45531, "owner": "CorentinJ", "forks": 8056},
-{"description": "Code and models for NExT-GPT: Any-to-Any Multimodal Large Language Model", "language": "Python", "repo": "NExT-GPT", "new_stars": 301, "stars": 1046, "owner": "NExT-GPT", "forks": 97},
-{"description": "\ud83d\udc38\ud83d\udcac - a deep learning toolkit for Text-to-Speech, battle-tested in research and production", "language": "Python", "repo": "TTS", "new_stars": 226, "stars": 18605, "owner": "coqui-ai", "forks": 2147},
-{"description": "[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting", "language": "Python", "repo": "ProPainter", "new_stars": 152, "stars": 874, "owner": "sczhou", "forks": 70},
-{"description": "An Open-source Framework for Autonomous Language Agents", "language": "Python", "repo": "agents", "new_stars": 324, "stars": 2352, "owner": "aiwaves-cn", "forks": 149},
-{"description": "A collective list of free APIs", "language": "Python", "repo": "public-apis", "new_stars": 286, "stars": 256618, "owner": "public-apis", "forks": 29254},
-{"description": "kani (\u30ab\u30cb) is a highly hackable microframework for chat-based language models with tool usage/function calling.", "language": "Python", "repo": "kani", "new_stars": 16, "stars": 155, "owner": "zhudotexe", "forks": 12},
-{"description": "InternLM has open-sourced a 7 and 20 billion parameter base models and chat models tailored for practical scenarios and the training system.", "language": "Python", "repo": "InternLM", "new_stars": 82, "stars": 2859, "owner": "InternLM", "forks": 240},
-{"description": "12306\u667a\u80fd\u5237\u7968\uff0c\u8ba2\u7968", "language": "Python", "repo": "12306", "new_stars": 283, "stars": 32058, "owner": "testerSunshine", "forks": 9593},
-{"description": "The uncompromising Python code formatter", "language": "Python", "repo": "black", "new_stars": 14, "stars": 33602, "owner": "psf", "forks": 2196},
-{"description": "\u26a1 Building applications with LLMs through composability \u26a1", "language": "Python", "repo": "langchain", "new_stars": 258, "stars": 62807, "owner": "langchain-ai", "forks": 8718},
-{"description": "\ud83d\ude80\u300cDouyin_TikTok_Download_API\u300d\u662f\u4e00\u4e2a\u5f00\u7bb1\u5373\u7528\u7684\u9ad8\u6027\u80fd\u5f02\u6b65\u6296\u97f3|TikTok\u6570\u636e\u722c\u53d6\u5de5\u5177\uff0c\u652f\u6301API\u8c03\u7528\uff0c\u5728\u7ebf\u6279\u91cf\u89e3\u6790\u53ca\u4e0b\u8f7d\u3002", "language": "Python", "repo": "Douyin_TikTok_Download_API", "new_stars": 54, "stars": 3993, "owner": "Evil0ctal", "forks": 738},
-{"description": "PIPs++", "language": "Python", "repo": "pips2", "new_stars": 24, "stars": 118, "owner": "aharley", "forks": 12},
-{"description": "OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark", "language": "Python", "repo": "mmaction2", "new_stars": 6, "stars": 3442, "owner": "open-mmlab", "forks": 1087},
-{"description": "Versatile audio super resolution (any -> 48kHz) with AudioSR.", "language": "Python", "repo": "versatile_audio_super_resolution", "new_stars": 53, "stars": 283, "owner": "haoheliu", "forks": 23},
-{"description": "The Mobile Application Security Testing Guide (MASTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes the technical processes for verifying the controls listed in the OWASP Mobile Application Security Verification Standard (MASVS).", "language": "Python", "repo": "owasp-mastg", "new_stars": 9, "stars": 10672, "owner": "OWASP", "forks": 2211},
-{"description": null, "language": "Python", "repo": "alphamissense", "new_stars": 59, "stars": 182, "owner": "deepmind", "forks": 15},
-{"description": "\ud83d\udc4b Hey there new grad\ud83c\udf89! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! \ud83d\ude80", "language": "Python", "repo": "New-Grad-2024", "new_stars": 36, "stars": 4487, "owner": "ReaVNaiL", "forks": 380},
-{"description": "Build and share delightful machine learning apps, all in Python. \ud83c\udf1f Star to support our work!", "language": "Python", "repo": "gradio", "new_stars": 35, "stars": 22030, "owner": "gradio-app", "forks": 1516},
-{"description": "Open source code for AlphaFold.", "language": "Python", "repo": "alphafold", "new_stars": 7, "stars": 10736, "owner": "google-deepmind", "forks": 1918},
-{"description": "One API for plugins and datasets, one interface for prompt engineering and visual operation, all for creating powerful AI applications.", "language": "Python", "repo": "dify", "new_stars": 51, "stars": 8524, "owner": "langgenius", "forks": 1248},
-{"description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.", "language": "Python", "repo": "chatgpt-retrieval-plugin", "new_stars": 16, "stars": 19595, "owner": "openai", "forks": 3596},
-{"description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF", "language": "Python", "repo": "PayloadsAllTheThings", "new_stars": 185, "stars": 50833, "owner": "swisskyrepo", "forks": 13205},
-{"description": null, "language": "Python", "repo": "HiFTNet", "new_stars": 6, "stars": 46, "owner": "yl4579", "forks": 8}
+
 ]

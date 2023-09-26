@@ -1,19 +1,19 @@
 [
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 485, "stars": 26662, "owner": "bevyengine", "forks": 2635},
-{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 143, "stars": 90928, "owner": "denoland", "forks": 5051},
+{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 143, "stars": 90927, "owner": "denoland", "forks": 5051},
 {"description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.", "language": "Rust", "repo": "comprehensive-rust", "new_stars": 241, "stars": 19511, "owner": "google", "forks": 1104},
 {"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 15, "stars": 2261, "owner": "ordinals", "forks": 819},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 258, "stars": 85626, "owner": "rust-lang", "forks": 11326},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 258, "stars": 85626, "owner": "rust-lang", "forks": 11327},
 {"description": "Apache Arrow DataFusion SQL Query Engine", "language": "Rust", "repo": "arrow-datafusion", "new_stars": 24, "stars": 4031, "owner": "apache", "forks": 721},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 233, "stars": 68730, "owner": "tauri-apps", "forks": 1983},
-{"description": "Build fast web applications with Rust.", "language": "Rust", "repo": "leptos", "new_stars": 110, "stars": 11909, "owner": "leptos-rs", "forks": 434},
+{"description": "Build fast web applications with Rust.", "language": "Rust", "repo": "leptos", "new_stars": 110, "stars": 11910, "owner": "leptos-rs", "forks": 434},
 {"description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.", "language": "Rust", "repo": "libsignal", "new_stars": 42, "stars": 2353, "owner": "signalapp", "forks": 293},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 172, "stars": 26599, "owner": "nushell", "forks": 1355},
 {"description": "Official Rust implementation of Apache Arrow", "language": "Rust", "repo": "arrow-rs", "new_stars": 18, "stars": 1818, "owner": "apache", "forks": 517},
-{"description": "Anki's shared backend and web components, and the Qt frontend", "language": "Rust", "repo": "anki", "new_stars": 87, "stars": 15171, "owner": "ankitects", "forks": 1800},
-{"description": "Modern embedded framework, using Rust and async.", "language": "Rust", "repo": "embassy", "new_stars": 52, "stars": 2885, "owner": "embassy-rs", "forks": 362},
-{"description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui", "language": "Rust", "repo": "rerun", "new_stars": 45, "stars": 2902, "owner": "rerun-io", "forks": 131},
-{"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces).", "language": "Rust", "repo": "openobserve", "new_stars": 139, "stars": 6687, "owner": "openobserve", "forks": 264},
+{"description": "Anki's shared backend and web components, and the Qt frontend", "language": "Rust", "repo": "anki", "new_stars": 87, "stars": 15172, "owner": "ankitects", "forks": 1800},
+{"description": "Modern embedded framework, using Rust and async.", "language": "Rust", "repo": "embassy", "new_stars": 52, "stars": 2886, "owner": "embassy-rs", "forks": 362},
+{"description": "Log images, point clouds, etc, and visualize them effortlessly. Built in Rust using egui", "language": "Rust", "repo": "rerun", "new_stars": 45, "stars": 2903, "owner": "rerun-io", "forks": 131},
+{"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces).", "language": "Rust", "repo": "openobserve", "new_stars": 139, "stars": 6688, "owner": "openobserve", "forks": 264},
 {"description": "Qdrant - Vector Database for the next generation of AI applications. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 126, "stars": 12999, "owner": "qdrant", "forks": 732},
 {"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 135, "stars": 24905, "owner": "helix-editor", "forks": 1803},
 {"description": "Let's write an OS which can run on RISC-V in Rust from scratch!", "language": "Rust", "repo": "rCore-Tutorial-v3", "new_stars": 38, "stars": 1125, "owner": "rcore-os", "forks": 347},
@@ -23,5 +23,5 @@
 {"description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.", "language": "Rust", "repo": "universal-android-debloater", "new_stars": 123, "stars": 11483, "owner": "0x192", "forks": 703},
 {"description": "Rust bindings for Godot 4", "language": "Rust", "repo": "gdext", "new_stars": 88, "stars": 1717, "owner": "godot-rust", "forks": 110},
 {"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 161, "stars": 20500, "owner": "pola-rs", "forks": 1175},
-{"description": "A bunch of lints to catch common mistakes and improve your Rust code. Book:", "language": "Rust", "repo": "rust-clippy", "new_stars": 33, "stars": 9860, "owner": "rust-lang", "forks": 1307}
+{"description": "A bunch of lints to catch common mistakes and improve your Rust code. Book:", "language": "Rust", "repo": "rust-clippy", "new_stars": 33, "stars": 9860, "owner": "rust-lang", "forks": 1308}
 ]

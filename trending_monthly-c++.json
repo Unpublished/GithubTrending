@@ -1,18 +1,18 @@
 [
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 11539, "stars": 75145, "owner": "godotengine", "forks": 14682},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 11539, "stars": 75146, "owner": "godotengine", "forks": 14682},
 {"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 1129, "stars": 38406, "owner": "topjohnwu", "forks": 10025},
 {"description": "Minetest is an open source voxel game engine with easy modding and game creation", "language": "C++", "repo": "minetest", "new_stars": 212, "stars": 9427, "owner": "minetest", "forks": 1875},
-{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 1079, "stars": 33284, "owner": "Light-City", "forks": 7835},
+{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 1079, "stars": 33286, "owner": "Light-City", "forks": 7835},
 {"description": "\ud83c\udf43 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!", "language": "C++", "repo": "organicmaps", "new_stars": 1134, "stars": 7330, "owner": "organicmaps", "forks": 667},
 {"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 823, "stars": 15285, "owner": "scottbez1", "forks": 889},
 {"description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations without any fees or commercial obligations.", "language": "C++", "repo": "o3de", "new_stars": 213, "stars": 6605, "owner": "o3de", "forks": 1985},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 738, "stars": 90741, "owner": "microsoft", "forks": 8038},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 738, "stars": 90749, "owner": "microsoft", "forks": 8038},
 {"description": "Starting code for the GildedRose Refactoring Kata in many programming languages.", "language": "C++", "repo": "GildedRose-Refactoring-Kata", "new_stars": 207, "stars": 3154, "owner": "emilybache", "forks": 4459},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 797, "stars": 109200, "owner": "electron", "forks": 15103},
-{"description": "Skin changer for League of Legends (LOL)", "language": "C++", "repo": "R3nzSkin", "new_stars": 440, "stars": 3105, "owner": "R3nzTheCodeGOD", "forks": 494},
+{"description": "Skin changer for League of Legends (LOL)", "language": "C++", "repo": "R3nzSkin", "new_stars": 440, "stars": 3109, "owner": "R3nzTheCodeGOD", "forks": 494},
 {"description": "3D engine with modern graphics", "language": "C++", "repo": "WickedEngine", "new_stars": 158, "stars": 4876, "owner": "turanszkij", "forks": 522},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 489, "stars": 18030, "owner": "fmtlib", "forks": 2171},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 346, "stars": 30948, "owner": "google", "forks": 9842},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 346, "stars": 30950, "owner": "google", "forks": 9842},
 {"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 496, "stars": 12144, "owner": "duckdb", "forks": 1140},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 420, "stars": 60902, "owner": "protocolbuffers", "forks": 15220},
 {"description": "OpenVINO\u2122 is an open-source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 147, "stars": 4711, "owner": "openvinotoolkit", "forks": 1764},
@@ -22,6 +22,6 @@
 {"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 163, "stars": 5747, "owner": "colmap", "forks": 1322},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.", "language": "C++", "repo": "lmdeploy", "new_stars": 519, "stars": 1150, "owner": "InternLM", "forks": 95},
 {"description": "Simple, secure & standards compliant web server for the most demanding of applications", "language": "C++", "repo": "uWebSockets", "new_stars": 382, "stars": 16075, "owner": "uNetworking", "forks": 1737},
-{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 261, "stars": 2100, "owner": "SoftFever", "forks": 246},
-{"description": "Flax Engine \u2013 multi-platform 3D game engine", "language": "C++", "repo": "FlaxEngine", "new_stars": 911, "stars": 4950, "owner": "FlaxEngine", "forks": 486}
+{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 261, "stars": 2102, "owner": "SoftFever", "forks": 246},
+{"description": "Flax Engine \u2013 multi-platform 3D game engine", "language": "C++", "repo": "FlaxEngine", "new_stars": 911, "stars": 4951, "owner": "FlaxEngine", "forks": 486}
 ]

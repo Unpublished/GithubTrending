@@ -1,8 +1,8 @@
 [
 {"description": "A html5 tokenizer / parser that hopefully grow up to be a browser. Discussions at", "language": "Rust", "repo": "gosub-browser", "new_stars": 555, "stars": 2016, "owner": "jaytaph", "forks": 122},
 {"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 232, "stars": 22079, "owner": "spacedriveapp", "forks": 768},
-{"description": "Scalable datastore for metrics, events, and real-time analytics", "language": "Rust", "repo": "influxdb", "new_stars": 232, "stars": 26370, "owner": "influxdata", "forks": 3437},
-{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 264, "stars": 5000, "owner": "juspay", "forks": 391},
+{"description": "Scalable datastore for metrics, events, and real-time analytics", "language": "Rust", "repo": "influxdb", "new_stars": 232, "stars": 26371, "owner": "influxdata", "forks": 3437},
+{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 264, "stars": 5005, "owner": "juspay", "forks": 391},
 {"description": "Build fast web applications with Rust.", "language": "Rust", "repo": "leptos", "new_stars": 156, "stars": 12062, "owner": "leptos-rs", "forks": 440},
 {"description": "Apache Arrow DataFusion SQL Query Engine", "language": "Rust", "repo": "arrow-datafusion", "new_stars": 47, "stars": 4075, "owner": "apache", "forks": 729},
 {"description": "The Rust Implementation of the libp2p networking stack.", "language": "Rust", "repo": "rust-libp2p", "new_stars": 27, "stars": 3641, "owner": "libp2p", "forks": 769},
@@ -15,13 +15,13 @@
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 238, "stars": 68924, "owner": "tauri-apps", "forks": 1995},
 {"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 39, "stars": 2386, "owner": "paradigmxyz", "forks": 479},
 {"description": "An extremely fast Python linter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 154, "stars": 17983, "owner": "astral-sh", "forks": 586},
-{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 87, "stars": 17525, "owner": "TheAlgorithms", "forks": 1775},
+{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 87, "stars": 17526, "owner": "TheAlgorithms", "forks": 1775},
 {"description": "A new way to see and navigate directory trees :", "language": "Rust", "repo": "broot", "new_stars": 77, "stars": 9244, "owner": "Canop", "forks": 208},
-{"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 134, "stars": 25026, "owner": "helix-editor", "forks": 1805},
+{"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 134, "stars": 25027, "owner": "helix-editor", "forks": 1805},
 {"description": "\ud83d\udcda Learn to write an embedded OS in Rust \ud83e\udd80", "language": "Rust", "repo": "rust-raspberrypi-OS-tutorials", "new_stars": 196, "stars": 11649, "owner": "rust-embedded", "forks": 695},
 {"description": "Orchestrate end-to-end encryption, cryptographic identities, mutual authentication, and authorization policies between distributed applications \u2013 at massive scale. Use Ockam to build secure-by-design applications that can Trust Data-in-Motion.", "language": "Rust", "repo": "ockam", "new_stars": 57, "stars": 3641, "owner": "build-trust", "forks": 440},
-{"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 167, "stars": 20658, "owner": "pola-rs", "forks": 1189},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 203, "stars": 26847, "owner": "bevyengine", "forks": 2653},
+{"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 167, "stars": 20659, "owner": "pola-rs", "forks": 1189},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 203, "stars": 26848, "owner": "bevyengine", "forks": 2653},
 {"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 114, "stars": 12502, "owner": "tokio-rs", "forks": 791},
 {"description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.", "language": "Rust", "repo": "aptos-core", "new_stars": 12, "stars": 5449, "owner": "aptos-labs", "forks": 3836}
 ]

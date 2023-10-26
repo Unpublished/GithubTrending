@@ -1,7 +1,7 @@
 [
-{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 47, "stars": 3815, "owner": "sxyazi", "forks": 74},
+{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 47, "stars": 3826, "owner": "sxyazi", "forks": 75},
 {"description": "A high-performance no-code GraphQL backend", "language": "Rust", "repo": "tailcall", "new_stars": 13, "stars": 160, "owner": "tailcallhq", "forks": 64},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 211, "stars": 18902, "owner": "astral-sh", "forks": 615},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 211, "stars": 18906, "owner": "astral-sh", "forks": 615},
 {"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 1, "stars": 2296, "owner": "ordinals", "forks": 837},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 27, "stars": 28554, "owner": "dani-garcia", "forks": 1457},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 8, "stars": 13480, "owner": "tree-sitter", "forks": 1032},
@@ -17,11 +17,11 @@
 {"description": "A fast and secure runtime for WebAssembly", "language": "Rust", "repo": "wasmtime", "new_stars": 14, "stars": 13292, "owner": "bytecodealliance", "forks": 1082},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 13, "stars": 20850, "owner": "iced-rs", "forks": 935},
 {"description": "Type-safe, compiled Jinja-like templates for Rust", "language": "Rust", "repo": "askama", "new_stars": 6, "stars": 2527, "owner": "djc", "forks": 185},
-{"description": "Alternative to Snowflake. Cost-effective and simple for massive-scale analytics. DatabendCloud:", "language": "Rust", "repo": "databend", "new_stars": 8, "stars": 6580, "owner": "datafuselabs", "forks": 657},
-{"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 29, "stars": 21116, "owner": "pola-rs", "forks": 1227},
-{"description": "\u8be5\u5de5\u5177\u7528\u4e8e\u5bfc\u51fa\u6b63\u5728\u8fd0\u884c\u4e2d\u7684\u5fae\u4fe1\u8fdb\u7a0b\u7684 key \u5e76\u81ea\u52a8\u89e3\u5bc6\u6240\u6709\u5fae\u4fe1\u6570\u636e\u5e93\u6587\u4ef6\u4ee5\u53ca\u5bfc\u51fa key \u540e\u6570\u636e\u5e93\u6587\u4ef6\u79bb\u7ebf\u89e3\u5bc6\u3002", "language": "Rust", "repo": "wechat-dump-rs", "new_stars": 0, "stars": 190, "owner": "0xlane", "forks": 23},
-{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 5, "stars": 11015, "owner": "benfred", "forks": 417},
-{"description": "The Decentralized and Scaled Blockchain", "language": "Rust", "repo": "massa", "new_stars": 8, "stars": 5061, "owner": "massalabs", "forks": 714},
+{"description": "Alternative to Snowflake. Cost-effective and simple for massive-scale analytics. DatabendCloud:", "language": "Rust", "repo": "databend", "new_stars": 8, "stars": 6580, "owner": "datafuselabs", "forks": 658},
+{"description": "Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends", "language": "Rust", "repo": "polars", "new_stars": 29, "stars": 21118, "owner": "pola-rs", "forks": 1227},
+{"description": "\u8be5\u5de5\u5177\u7528\u4e8e\u5bfc\u51fa\u6b63\u5728\u8fd0\u884c\u4e2d\u7684\u5fae\u4fe1\u8fdb\u7a0b\u7684 key \u5e76\u81ea\u52a8\u89e3\u5bc6\u6240\u6709\u5fae\u4fe1\u6570\u636e\u5e93\u6587\u4ef6\u4ee5\u53ca\u5bfc\u51fa key \u540e\u6570\u636e\u5e93\u6587\u4ef6\u79bb\u7ebf\u89e3\u5bc6\u3002", "language": "Rust", "repo": "wechat-dump-rs", "new_stars": 0, "stars": 191, "owner": "0xlane", "forks": 24},
+{"description": "Sampling profiler for Python programs", "language": "Rust", "repo": "py-spy", "new_stars": 5, "stars": 11016, "owner": "benfred", "forks": 417},
+{"description": "The Decentralized and Scaled Blockchain", "language": "Rust", "repo": "massa", "new_stars": 8, "stars": 5062, "owner": "massalabs", "forks": 714},
 {"description": "A toolchain for web projects, aimed to provide functionalities to maintain them.", "language": "Rust", "repo": "biome", "new_stars": 25, "stars": 3006, "owner": "biomejs", "forks": 83},
-{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 18837, "owner": "actix", "forks": 1569}
+{"description": "Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.", "language": "Rust", "repo": "actix-web", "new_stars": 13, "stars": 18838, "owner": "actix", "forks": 1569}
 ]

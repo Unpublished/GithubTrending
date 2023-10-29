@@ -1,11 +1,11 @@
 [
-{"description": "\u2693 A suite of high-performance tools for JavaScript and TypeScript written in Rust.", "language": "Rust", "repo": "oxc", "new_stars": 519, "stars": 3057, "owner": "web-infra-dev", "forks": 117},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 744, "stars": 19153, "owner": "astral-sh", "forks": 623},
+{"description": "\u2693 A suite of high-performance tools for JavaScript and TypeScript written in Rust.", "language": "Rust", "repo": "oxc", "new_stars": 519, "stars": 3061, "owner": "web-infra-dev", "forks": 117},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 744, "stars": 19155, "owner": "astral-sh", "forks": 623},
 {"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 581, "stars": 3895, "owner": "sxyazi", "forks": 78},
 {"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 24, "stars": 2301, "owner": "ordinals", "forks": 838},
 {"description": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust", "language": "Rust", "repo": "burn", "new_stars": 195, "stars": 4342, "owner": "burn-rs", "forks": 151},
 {"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 429, "stars": 25709, "owner": "helix-editor", "forks": 1864},
-{"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 245, "stars": 21970, "owner": "typst", "forks": 548},
+{"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 245, "stars": 21972, "owner": "typst", "forks": 548},
 {"description": "A Scalable, User-Friendly Source Control System.", "language": "Rust", "repo": "sapling", "new_stars": 65, "stars": 5353, "owner": "facebook", "forks": 240},
 {"description": "Rust library that's all about cooking up terminal user interfaces (TUIs)", "language": "Rust", "repo": "ratatui", "new_stars": 193, "stars": 4009, "owner": "ratatui-org", "forks": 135},
 {"description": "\u2699\ufe0f A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.", "language": "Rust", "repo": "static-analysis", "new_stars": 351, "stars": 12150, "owner": "analysis-tools-dev", "forks": 1307},
@@ -17,11 +17,11 @@
 {"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, branching, and bottomless storage.", "language": "Rust", "repo": "neon", "new_stars": 116, "stars": 10157, "owner": "neondatabase", "forks": 285},
 {"description": "Alternative to Snowflake. Cost-effective and simple for massive-scale analytics. DatabendCloud:", "language": "Rust", "repo": "databend", "new_stars": 37, "stars": 6588, "owner": "datafuselabs", "forks": 658},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 85, "stars": 8243, "owner": "cloudflare", "forks": 627},
-{"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces).", "language": "Rust", "repo": "openobserve", "new_stars": 105, "stars": 7020, "owner": "openobserve", "forks": 271},
+{"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces).", "language": "Rust", "repo": "openobserve", "new_stars": 105, "stars": 7021, "owner": "openobserve", "forks": 271},
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 172, "stars": 28189, "owner": "lapce", "forks": 837},
 {"description": "Build system, successor to Buck", "language": "Rust", "repo": "buck2", "new_stars": 26, "stars": 2980, "owner": "facebook", "forks": 156},
 {"description": "OpenTelemetry API and SDK for Rust", "language": "Rust", "repo": "opentelemetry-rust", "new_stars": 31, "stars": 1375, "owner": "open-telemetry", "forks": 318},
-{"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 47, "stars": 6753, "owner": "foundry-rs", "forks": 1121},
+{"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 47, "stars": 6754, "owner": "foundry-rs", "forks": 1121},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 24, "stars": 3782, "owner": "rust-windowing", "forks": 778},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 89, "stars": 20870, "owner": "iced-rs", "forks": 935}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "\u2693 A suite of high-performance tools for JavaScript and TypeScript written in Rust.", "language": "Rust", "repo": "oxc", "new_stars": 557, "stars": 3104, "owner": "web-infra-dev", "forks": 118},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 780, "stars": 19193, "owner": "astral-sh", "forks": 628},
-{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 532, "stars": 3902, "owner": "sxyazi", "forks": 78},
-{"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 440, "stars": 25724, "owner": "helix-editor", "forks": 1865},
+{"description": "\u2693 A suite of high-performance tools for JavaScript and TypeScript written in Rust.", "language": "Rust", "repo": "oxc", "new_stars": 557, "stars": 3116, "owner": "web-infra-dev", "forks": 119},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 780, "stars": 19205, "owner": "astral-sh", "forks": 628},
+{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 532, "stars": 3903, "owner": "sxyazi", "forks": 78},
+{"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 440, "stars": 25727, "owner": "helix-editor", "forks": 1865},
 {"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 21, "stars": 2303, "owner": "ordinals", "forks": 841},
-{"description": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust", "language": "Rust", "repo": "burn", "new_stars": 186, "stars": 4355, "owner": "burn-rs", "forks": 152},
+{"description": "Burn - A Flexible and Comprehensive Deep Learning Framework in Rust", "language": "Rust", "repo": "burn", "new_stars": 186, "stars": 4356, "owner": "burn-rs", "forks": 152},
 {"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 259, "stars": 22008, "owner": "typst", "forks": 549},
 {"description": "A toolchain for web projects, aimed to provide functionalities to maintain them.", "language": "Rust", "repo": "biome", "new_stars": 125, "stars": 3072, "owner": "biomejs", "forks": 88},
 {"description": "\u2699\ufe0f A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.", "language": "Rust", "repo": "static-analysis", "new_stars": 366, "stars": 12161, "owner": "analysis-tools-dev", "forks": 1307},
@@ -18,10 +18,10 @@
 {"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces).", "language": "Rust", "repo": "openobserve", "new_stars": 111, "stars": 7027, "owner": "openobserve", "forks": 272},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 83, "stars": 13511, "owner": "tree-sitter", "forks": 1039},
 {"description": "Build system, successor to Buck", "language": "Rust", "repo": "buck2", "new_stars": 27, "stars": 2981, "owner": "facebook", "forks": 156},
-{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 134, "stars": 21162, "owner": "pola-rs", "forks": 1236},
-{"description": "zkSync era", "language": "Rust", "repo": "zksync-era", "new_stars": 32, "stars": 989, "owner": "matter-labs", "forks": 911},
+{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 134, "stars": 21163, "owner": "pola-rs", "forks": 1236},
+{"description": "zkSync era", "language": "Rust", "repo": "zksync-era", "new_stars": 32, "stars": 990, "owner": "matter-labs", "forks": 911},
 {"description": "A Scalable, User-Friendly Source Control System.", "language": "Rust", "repo": "sapling", "new_stars": 68, "stars": 5358, "owner": "facebook", "forks": 240},
 {"description": "\ud83d\udcca Cube \u2014 The Semantic Layer for Building Data Applications", "language": "Rust", "repo": "cube", "new_stars": 50, "stars": 16375, "owner": "cube-js", "forks": 1630},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 24, "stars": 3783, "owner": "rust-windowing", "forks": 778},
-{"description": "Cross-platform, safe, pure-rust graphics api.", "language": "Rust", "repo": "wgpu", "new_stars": 67, "stars": 9140, "owner": "gfx-rs", "forks": 689}
+{"description": "Cross-platform, safe, pure-rust graphics api.", "language": "Rust", "repo": "wgpu", "new_stars": 67, "stars": 9141, "owner": "gfx-rs", "forks": 689}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 1785, "stars": 6151, "owner": "MatsuriDayo", "forks": 616},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 531, "stars": 23235, "owner": "telegramdesktop", "forks": 4753},
+{"description": "Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 1785, "stars": 6152, "owner": "MatsuriDayo", "forks": 616},
+{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 531, "stars": 23236, "owner": "telegramdesktop", "forks": 4753},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 278, "stars": 12598, "owner": "Aircoookie", "forks": 2583},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 424, "stars": 31386, "owner": "google", "forks": 9942},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 467, "stars": 6699, "owner": "oceanbase", "forks": 1401},
-{"description": "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs", "language": "C++", "repo": "chatglm.cpp", "new_stars": 377, "stars": 1527, "owner": "li-plus", "forks": 268},
+{"description": "C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs", "language": "C++", "repo": "chatglm.cpp", "new_stars": 377, "stars": 1529, "owner": "li-plus", "forks": 268},
 {"description": "An unidentifiable mechanism that helps you bypass GFW.", "language": "C++", "repo": "trojan", "new_stars": 192, "stars": 18171, "owner": "trojan-gfw", "forks": 3028},
 {"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 614, "stars": 12896, "owner": "duckdb", "forks": 1198},
 {"description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.", "language": "C++", "repo": "mujoco", "new_stars": 289, "stars": 6424, "owner": "google-deepmind", "forks": 606},
@@ -14,14 +14,14 @@
 {"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 311, "stars": 4832, "owner": "azerothcore", "forks": 2055},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 991, "stars": 61868, "owner": "protocolbuffers", "forks": 15308},
 {"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 772, "stars": 7999, "owner": "LizardByte", "forks": 384},
-{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 197, "stars": 9014, "owner": "CleverRaven", "forks": 3914},
+{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 197, "stars": 9015, "owner": "CleverRaven", "forks": 3914},
 {"description": "CS2 external cheat.", "language": "C++", "repo": "CS2_External", "new_stars": 146, "stars": 315, "owner": "TKazer", "forks": 101},
 {"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 181, "stars": 11556, "owner": "espressif", "forks": 7015},
-{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 125, "stars": 7006, "owner": "PX4", "forks": 12797},
-{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 528, "stars": 31629, "owner": "ClickHouse", "forks": 6225},
-{"description": "UPX - the Ultimate Packer for eXecutables", "language": "C++", "repo": "upx", "new_stars": 239, "stars": 12442, "owner": "upx", "forks": 1247},
+{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 125, "stars": 7007, "owner": "PX4", "forks": 12797},
+{"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 528, "stars": 31631, "owner": "ClickHouse", "forks": 6226},
+{"description": "UPX - the Ultimate Packer for eXecutables", "language": "C++", "repo": "upx", "new_stars": 239, "stars": 12443, "owner": "upx", "forks": 1247},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 340, "stars": 2613, "owner": "SoftFever", "forks": 307},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 729, "stars": 72243, "owner": "opencv", "forks": 55702},
 {"description": "NoSQL data store using the seastar framework, compatible with Apache Cassandra", "language": "C++", "repo": "scylladb", "new_stars": 314, "stars": 11481, "owner": "scylladb", "forks": 1119},
-{"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 654, "stars": 16179, "owner": "scottbez1", "forks": 929}
+{"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 654, "stars": 16181, "owner": "scottbez1", "forks": 929}
 ]

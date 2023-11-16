@@ -1,14 +1,14 @@
 [
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 15, "stars": 37475, "owner": "nlohmann", "forks": 6337},
 {"description": "PUER(\u666e\u6d31) Typescript. Let's write your game in UE or Unity with TypeScript.", "language": "C++", "repo": "puerts", "new_stars": 20, "stars": 4299, "owner": "Tencent", "forks": 619},
-{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 131, "stars": 3187, "owner": "NVIDIA", "forks": 215},
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 131, "stars": 3188, "owner": "NVIDIA", "forks": 215},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 14, "stars": 20590, "owner": "gabime", "forks": 4138},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 3, "stars": 17271, "owner": "catchorg", "forks": 2980},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 3, "stars": 17272, "owner": "catchorg", "forks": 2980},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.", "language": "C++", "repo": "lmdeploy", "new_stars": 6, "stars": 1429, "owner": "InternLM", "forks": 123},
-{"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 20, "stars": 12971, "owner": "duckdb", "forks": 1206},
+{"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 20, "stars": 12972, "owner": "duckdb", "forks": 1206},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 14, "stars": 61937, "owner": "protocolbuffers", "forks": 15316},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 3, "stars": 3487, "owner": "NVIDIA", "forks": 658},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 59, "stars": 77625, "owner": "godotengine", "forks": 15854},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 59, "stars": 77627, "owner": "godotengine", "forks": 15856},
 {"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 6, "stars": 9033, "owner": "ArduPilot", "forks": 15353},
 {"description": "A YAML parser and emitter in C++", "language": "C++", "repo": "yaml-cpp", "new_stars": 3, "stars": 4481, "owner": "jbeder", "forks": 1691},
 {"description": "A generic satellite data processing software.", "language": "C++", "repo": "SatDump", "new_stars": 6, "stars": 875, "owner": "SatDump", "forks": 112},
@@ -22,6 +22,6 @@
 {"description": "Qt Base (Core, Gui, Widgets, Network, ...)", "language": "C++", "repo": "qtbase", "new_stars": 1, "stars": 2122, "owner": "qt", "forks": 957},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 2, "stars": 6766, "owner": "esphome", "forks": 2693},
 {"description": "democratize access to car decoder rings", "language": "C++", "repo": "opendbc", "new_stars": 1, "stars": 1523, "owner": "commaai", "forks": 996},
-{"description": "Encodes a file into a video format to store on a cloud video hosting service", "language": "C++", "repo": "Video-Encode", "new_stars": 72, "stars": 198, "owner": "Brendan-Kirtlan", "forks": 25},
+{"description": "Encodes a file into a video format to store on a cloud video hosting service", "language": "C++", "repo": "Video-Encode", "new_stars": 72, "stars": 200, "owner": "Brendan-Kirtlan", "forks": 25},
 {"description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.", "language": "C++", "repo": "mujoco", "new_stars": 9, "stars": 6456, "owner": "google-deepmind", "forks": 608}
 ]

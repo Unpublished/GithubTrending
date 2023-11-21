@@ -1,15 +1,15 @@
 [
-{"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 27, "stars": 31801, "owner": "yuzu-emu", "forks": 2722},
+{"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 27, "stars": 31803, "owner": "yuzu-emu", "forks": 2722},
 {"description": "NVIDIA\u00ae TensorRT\u2122, an SDK for high-performance deep learning inference, includes a deep learning inference optimizer and runtime that delivers low latency and high throughput for inference applications.", "language": "C++", "repo": "TensorRT", "new_stars": 7, "stars": 8179, "owner": "NVIDIA", "forks": 1884},
-{"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.", "language": "C++", "repo": "JoltPhysics", "new_stars": 62, "stars": 4555, "owner": "jrouwe", "forks": 271},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 17, "stars": 9121, "owner": "ArduPilot", "forks": 15389},
-{"description": "Encodes a file into a video format to store on a cloud video hosting service", "language": "C++", "repo": "Video-Encode", "new_stars": 303, "stars": 847, "owner": "Brendan-Kirtlan", "forks": 53},
+{"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.", "language": "C++", "repo": "JoltPhysics", "new_stars": 62, "stars": 4558, "owner": "jrouwe", "forks": 271},
+{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 17, "stars": 9122, "owner": "ArduPilot", "forks": 15389},
+{"description": "Encodes a file into a video format to store on a cloud video hosting service", "language": "C++", "repo": "Video-Encode", "new_stars": 303, "stars": 850, "owner": "Brendan-Kirtlan", "forks": 53},
 {"description": null, "language": "C++", "repo": "yuzu-android", "new_stars": 34, "stars": 464, "owner": "yuzu-emu", "forks": 23},
 {"description": "GDAL is an open source MIT licensed translator library for raster and vector geospatial data formats.", "language": "C++", "repo": "gdal", "new_stars": 32, "stars": 4154, "owner": "OSGeo", "forks": 2241},
 {"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.", "language": "C++", "repo": "lmdeploy", "new_stars": 11, "stars": 1454, "owner": "InternLM", "forks": 128},
 {"description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".", "language": "C++", "repo": "brpc", "new_stars": 3, "stars": 15435, "owner": "apache", "forks": 3823},
 {"description": "Transformer related optimization, including BERT, GPT", "language": "C++", "repo": "FasterTransformer", "new_stars": 4, "stars": 4897, "owner": "NVIDIA", "forks": 821},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 2, "stars": 26343, "owner": "facebook", "forks": 5562},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 2, "stars": 26344, "owner": "facebook", "forks": 5562},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 14, "stars": 11020, "owner": "microsoft", "forks": 2387},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 210, "stars": 2978, "owner": "SoftFever", "forks": 335},
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 7, "stars": 28035, "owner": "microsoft", "forks": 5098},
@@ -22,6 +22,6 @@
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 7, "stars": 33932, "owner": "google", "forks": 7582},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 19, "stars": 10706, "owner": "yhirose", "forks": 2078},
 {"description": "GNU Radio \u2013 the Free and Open Software Radio Ecosystem", "language": "C++", "repo": "gnuradio", "new_stars": 1, "stars": 4557, "owner": "gnuradio", "forks": 1832},
-{"description": "A monitor of resources", "language": "C++", "repo": "btop", "new_stars": 21, "stars": 13968, "owner": "aristocratos", "forks": 459},
+{"description": "A monitor of resources", "language": "C++", "repo": "btop", "new_stars": 21, "stars": 13969, "owner": "aristocratos", "forks": 459},
 {"description": "Cap'n Proto serialization/RPC system - core tools and C++ library", "language": "C++", "repo": "capnproto", "new_stars": 9, "stars": 10726, "owner": "capnproto", "forks": 884}
 ]

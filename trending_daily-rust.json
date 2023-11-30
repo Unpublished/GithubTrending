@@ -1,5 +1,5 @@
 [
-{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.", "language": "Rust", "repo": "biome", "new_stars": 297, "stars": 4833, "owner": "biomejs", "forks": 178},
+{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.", "language": "Rust", "repo": "biome", "new_stars": 297, "stars": 4837, "owner": "biomejs", "forks": 178},
 {"description": "Chromium running inside your terminal", "language": "Rust", "repo": "carbonyl", "new_stars": 16, "stars": 13706, "owner": "fathyb", "forks": 293},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 16, "stars": 13784, "owner": "tree-sitter", "forks": 1089},
 {"description": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.", "language": "Rust", "repo": "rerun", "new_stars": 14, "stars": 3564, "owner": "rerun-io", "forks": 170},
@@ -10,7 +10,7 @@
 {"description": "A high-performance, lightweight, and cross-platform QUIC library", "language": "Rust", "repo": "tquic", "new_stars": 30, "stars": 447, "owner": "Tencent", "forks": 32},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 3, "stars": 15674, "owner": "uutils", "forks": 1135},
 {"description": "A Decentralized Operating System for ZK Applications", "language": "Rust", "repo": "snarkOS", "new_stars": 18, "stars": 3149, "owner": "AleoHQ", "forks": 2395},
-{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 166, "stars": 41542, "owner": "BurntSushi", "forks": 1859},
+{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 166, "stars": 41543, "owner": "BurntSushi", "forks": 1859},
 {"description": "Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud:", "language": "Rust", "repo": "databend", "new_stars": 15, "stars": 6737, "owner": "datafuselabs", "forks": 666},
 {"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 6, "stars": 6908, "owner": "foundry-rs", "forks": 1239},
 {"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 27, "stars": 21840, "owner": "pola-rs", "forks": 1282},
@@ -18,10 +18,10 @@
 {"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 25, "stars": 13563, "owner": "tokio-rs", "forks": 839},
 {"description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.", "language": "Rust", "repo": "aptos-core", "new_stars": 9, "stars": 5534, "owner": "aptos-labs", "forks": 3904},
 {"description": "Apache OpenDAL: access data freely.", "language": "Rust", "repo": "incubator-opendal", "new_stars": 33, "stars": 2111, "owner": "apache", "forks": 306},
-{"description": "A syntax-highlighting pager for git, diff, and grep output", "language": "Rust", "repo": "delta", "new_stars": 9, "stars": 19201, "owner": "dandavison", "forks": 332},
+{"description": "A syntax-highlighting pager for git, diff, and grep output", "language": "Rust", "repo": "delta", "new_stars": 9, "stars": 19202, "owner": "dandavison", "forks": 332},
 {"description": "A collection of Solana programs maintained by Solana Labs", "language": "Rust", "repo": "solana-program-library", "new_stars": 4, "stars": 2445, "owner": "solana-labs", "forks": 1599},
 {"description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.", "language": "Rust", "repo": "mountpoint-s3", "new_stars": 20, "stars": 3557, "owner": "awslabs", "forks": 98},
 {"description": "\ud83e\udd81 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications", "language": "Rust", "repo": "leo", "new_stars": 137, "stars": 2697, "owner": "AleoHQ", "forks": 357},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 3, "stars": 10835, "owner": "solana-labs", "forks": 3399},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 63, "stars": 20736, "owner": "astral-sh", "forks": 683}
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 63, "stars": 20737, "owner": "astral-sh", "forks": 683}
 ]

@@ -1,15 +1,15 @@
 [
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 224, "stars": 37855, "owner": "nlohmann", "forks": 6460},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 224, "stars": 37857, "owner": "nlohmann", "forks": 6460},
 {"description": "Nintendo Switch emulator", "language": "C++", "repo": "yuzu", "new_stars": 195, "stars": 32033, "owner": "yuzu-emu", "forks": 2736},
 {"description": null, "language": "C++", "repo": "yuzu-android", "new_stars": 131, "stars": 642, "owner": "yuzu-emu", "forks": 36},
 {"description": "\u4e00\u6b3e\u8db3\u591f\u7b80\u5355\u3001\u8db3\u591f\u597d\u7528\u3001\u8db3\u591f\u5f3a\u7684\u514d\u8d39 WAF\u3002\u57fa\u4e8e\u4e1a\u754c\u9886\u5148\u7684\u8bed\u4e49\u5f15\u64ce\u68c0\u6d4b\u6280\u672f\uff0c\u4f5c\u4e3a\u53cd\u5411\u4ee3\u7406\u63a5\u5165\uff0c\u4fdd\u62a4\u4f60\u7684\u7f51\u7ad9\u4e0d\u53d7\u9ed1\u5ba2\u653b\u51fb\u3002", "language": "C++", "repo": "SafeLine", "new_stars": 353, "stars": 6554, "owner": "chaitin", "forks": 391},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 204, "stars": 91610, "owner": "microsoft", "forks": 8167},
-{"description": "Little AV/EDR bypassing lab for training & learning purposes", "language": "C++", "repo": "BestEdrOfTheMarket", "new_stars": 172, "stars": 545, "owner": "Xacone", "forks": 49},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 204, "stars": 91611, "owner": "microsoft", "forks": 8167},
+{"description": "Little AV/EDR bypassing lab for training & learning purposes", "language": "C++", "repo": "BestEdrOfTheMarket", "new_stars": 172, "stars": 548, "owner": "Xacone", "forks": 49},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 209, "stars": 179112, "owner": "tensorflow", "forks": 89157},
 {"description": "A General-purpose Parallel and Heterogeneous Task Programming System", "language": "C++", "repo": "taskflow", "new_stars": 43, "stars": 9052, "owner": "taskflow", "forks": 1089},
-{"description": "\u26a1 Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms\u26a1", "language": "C++", "repo": "intel-extension-for-transformers", "new_stars": 347, "stars": 1213, "owner": "intel", "forks": 139},
+{"description": "\u26a1 Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms\u26a1", "language": "C++", "repo": "intel-extension-for-transformers", "new_stars": 347, "stars": 1214, "owner": "intel", "forks": 139},
 {"description": "gpt4all: open-source LLM chatbots that you can run anywhere", "language": "C++", "repo": "gpt4all", "new_stars": 361, "stars": 55399, "owner": "nomic-ai", "forks": 6069},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 224, "stars": 72717, "owner": "opencv", "forks": 55736},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 224, "stars": 72719, "owner": "opencv", "forks": 55736},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 39, "stars": 7072, "owner": "PX4", "forks": 12851},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 75, "stars": 11218, "owner": "ZLMediaKit", "forks": 2879},
 {"description": "A JavaScript engine optimized for running React Native.", "language": "C++", "repo": "hermes", "new_stars": 214, "stars": 8862, "owner": "facebook", "forks": 633},
@@ -22,6 +22,6 @@
 {"description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 47, "stars": 11023, "owner": "doitsujin", "forks": 721},
 {"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 198, "stars": 8447, "owner": "LizardByte", "forks": 405},
 {"description": "\ud83c\udf43 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!", "language": "C++", "repo": "organicmaps", "new_stars": 45, "stars": 7613, "owner": "organicmaps", "forks": 725},
-{"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 51, "stars": 9466, "owner": "NixOS", "forks": 1265},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 52, "stars": 9183, "owner": "ArduPilot", "forks": 15444}
+{"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 51, "stars": 9467, "owner": "NixOS", "forks": 1265},
+{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 52, "stars": 9184, "owner": "ArduPilot", "forks": 15444}
 ]

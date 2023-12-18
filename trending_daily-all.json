@@ -1,3 +1,27 @@
 [
-
+{"description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET Foundation community project.", "language": "C#", "repo": "Avalonia", "new_stars": 564, "stars": 21730, "owner": "AvaloniaUI", "forks": 1928},
+{"description": "A 6 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.", "language": "Python", "repo": "Mastering-GitHub-Copilot-for-Paired-Programming", "new_stars": 231, "stars": 962, "owner": "microsoft", "forks": 85},
+{"description": "Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy", "language": "Rust", "repo": "namada", "new_stars": 144, "stars": 1402, "owner": "anoma", "forks": 610},
+{"description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.", "language": "Python", "repo": "zulip", "new_stars": 15, "stars": 19014, "owner": "zulip", "forks": 7019},
+{"description": "Official repo for VGen: a holistic video generation ecosystem for video generation building on diffusion models", "language": "Python", "repo": "i2vgen-xl", "new_stars": 145, "stars": 795, "owner": "damo-vilab", "forks": 98},
+{"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 6, "stars": 2708, "owner": "ordinals", "forks": 1036},
+{"description": null, "language": "TypeScript", "repo": "Polaris", "new_stars": 35, "stars": 307, "owner": "vectorisvector", "forks": 316},
+{"description": "This is a repo with links to everything you'd ever want to learn about data engineering", "language": null, "repo": "data-engineer-handbook", "new_stars": 699, "stars": 3839, "owner": "DataEngineer-io", "forks": 583},
+{"description": "ai\u526f\u4e1a\u8d5a\u94b1\u5927\u96c6\u5408\uff0c\u6559\u4f60\u5982\u4f55\u5229\u7528ai\u505a\u4e00\u4e9b\u526f\u4e1a\u9879\u76ee\uff0c\u8d5a\u53d6\u66f4\u591a\u989d\u5916\u6536\u76ca\u3002", "language": null, "repo": "aimoneyhunter", "new_stars": 382, "stars": 2255, "owner": "bleedline", "forks": 268},
+{"description": "Free ChatGPT API Key\uff0c\u514d\u8d39ChatGPT API\uff0c\u652f\u6301GPT4 API\uff08\u514d\u8d39\uff09\uff0cChatGPT\u56fd\u5185\u53ef\u7528\u514d\u8d39\u8f6c\u53d1API\uff0c\u76f4\u8fde\u65e0\u9700\u4ee3\u7406\u3002\u53ef\u4ee5\u642d\u914dChatBox\u7b49\u8f6f\u4ef6/\u63d2\u4ef6\u4f7f\u7528\uff0c\u6781\u5927\u964d\u4f4e\u63a5\u53e3\u4f7f\u7528\u6210\u672c\u3002\u56fd\u5185\u5373\u53ef\u65e0\u9650\u5236\u7545\u5feb\u804a\u5929\u3002", "language": "Python", "repo": "GPT_API_free", "new_stars": 196, "stars": 9613, "owner": "chatanywhere", "forks": 815},
+{"description": "An unofficial rules engine for the world's greatest card game.", "language": "Java", "repo": "forge", "new_stars": 146, "stars": 612, "owner": "Card-Forge", "forks": 336},
+{"description": "Pok\u00e9mon Save File Editor", "language": "C#", "repo": "PKHeX", "new_stars": 5, "stars": 3243, "owner": "kwsch", "forks": 621},
+{"description": "Build an event organization web app like Eventbrite or Meetup with authentication, event management, search, filtering, categories, checkout, and payments using Next JS 14, Tailwind CSS, Shadcn, React Hook Form, Zod, Uploadthing, React-Datepicker, Mongoose, Clerk, and Stripe.", "language": "TypeScript", "repo": "event_platform", "new_stars": 29, "stars": 204, "owner": "adrianhajdin", "forks": 60},
+{"description": "Documentation for Google's Generative AI developer site", "language": "Jupyter Notebook", "repo": "generative-ai-docs", "new_stars": 87, "stars": 631, "owner": "google", "forks": 228},
+{"description": "Get up and running with Llama 2 and other large language models locally", "language": "Go", "repo": "ollama", "new_stars": 290, "stars": 23482, "owner": "jmorganca", "forks": 1401},
+{"description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!", "language": null, "repo": "computer-science", "new_stars": 95, "stars": 154298, "owner": "ossu", "forks": 19600},
+{"description": "A youtube-dl fork with additional features and fixes", "language": "Python", "repo": "yt-dlp", "new_stars": 61, "stars": 62160, "owner": "yt-dlp", "forks": 5112},
+{"description": "Self-hosted photo and video backup solution directly from your mobile phone.", "language": "TypeScript", "repo": "immich", "new_stars": 59, "stars": 22934, "owner": "immich-app", "forks": 1016},
+{"description": "We write your reusable computer vision tools. \ud83d\udc9c", "language": "Python", "repo": "supervision", "new_stars": 99, "stars": 7657, "owner": "roboflow", "forks": 567},
+{"description": null, "language": "Python", "repo": "The-Grand-Complete-Data-Science-Materials", "new_stars": 97, "stars": 4360, "owner": "krishnaik06", "forks": 2304},
+{"description": "\ud83c\udfa5 Command line video player", "language": "C", "repo": "mpv", "new_stars": 15, "stars": 24376, "owner": "mpv-player", "forks": 2711},
+{"description": "A video series on chai aur code youtube channel", "language": "JavaScript", "repo": "chai-backend", "new_stars": 20, "stars": 726, "owner": "hiteshchoudhary", "forks": 73},
+{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 152, "stars": 6845, "owner": "Mozilla-Ocho", "forks": 355},
+{"description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.", "language": "TypeScript", "repo": "freeCodeCamp", "new_stars": 46, "stars": 379306, "owner": "freeCodeCamp", "forks": 35043},
+{"description": "Invidious is an alternative front-end to YouTube", "language": "Crystal", "repo": "invidious", "new_stars": 14, "stars": 13700, "owner": "iv-org", "forks": 1574}
 ]

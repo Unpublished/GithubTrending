@@ -1,27 +1,3 @@
 [
-{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.", "language": "Rust", "repo": "biome", "new_stars": 2722, "stars": 6567, "owner": "biomejs", "forks": 225},
-{"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 371, "stars": 2762, "owner": "ordinals", "forks": 1051},
-{"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 1670, "stars": 24258, "owner": "typst", "forks": 616},
-{"description": "\ud83e\udd81 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications", "language": "Rust", "repo": "leo", "new_stars": 3026, "stars": 4059, "owner": "AleoHQ", "forks": 607},
-{"description": "A fast, friendly, functional language. Work in progress!", "language": "Rust", "repo": "roc", "new_stars": 546, "stars": 3080, "owner": "roc-lang", "forks": 218},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1255, "stars": 71614, "owner": "tauri-apps", "forks": 2146},
-{"description": "\u2693 A collection of JavaScript tools written in Rust.", "language": "Rust", "repo": "oxc", "new_stars": 2004, "stars": 5982, "owner": "oxc-project", "forks": 253},
-{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 660, "stars": 13940, "owner": "tokio-rs", "forks": 861},
-{"description": "The user-friendly command line shell.", "language": "Rust", "repo": "fish-shell", "new_stars": 491, "stars": 23034, "owner": "fish-shell", "forks": 1809},
-{"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 1732, "stars": 14447, "owner": "TabbyML", "forks": 539},
-{"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 1057, "stars": 42080, "owner": "BurntSushi", "forks": 1873},
-{"description": "A Decentralized Operating System for ZK Applications", "language": "Rust", "repo": "snarkOS", "new_stars": 276, "stars": 3355, "owner": "AleoHQ", "forks": 2521},
-{"description": "\ud83d\udcca Cube \u2014 The Semantic Layer for Building Data Applications", "language": "Rust", "repo": "cube", "new_stars": 181, "stars": 16644, "owner": "cube-js", "forks": 1661},
-{"description": "zkSync era", "language": "Rust", "repo": "zksync-era", "new_stars": 168, "stars": 1231, "owner": "matter-labs", "forks": 1133},
-{"description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.", "language": "Rust", "repo": "mountpoint-s3", "new_stars": 217, "stars": 3678, "owner": "awslabs", "forks": 104},
-{"description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.", "language": "Rust", "repo": "aptos-core", "new_stars": 69, "stars": 5581, "owner": "aptos-labs", "forks": 3948},
-{"description": "A high-performance, lightweight, and cross-platform QUIC library", "language": "Rust", "repo": "tquic", "new_stars": 502, "stars": 726, "owner": "Tencent", "forks": 46},
-{"description": "Rust library that's all about cooking up terminal user interfaces (TUIs)", "language": "Rust", "repo": "ratatui", "new_stars": 1015, "stars": 5360, "owner": "ratatui-org", "forks": 170},
-{"description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.", "language": "Rust", "repo": "sway", "new_stars": 6182, "stars": 38663, "owner": "FuelLabs", "forks": 2595},
-{"description": "An open-source remote desktop, and alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 1579, "stars": 52082, "owner": "rustdesk", "forks": 5736},
-{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 843, "stars": 20061, "owner": "tw93", "forks": 2759},
-{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 82, "stars": 5361, "owner": "MystenLabs", "forks": 12236},
-{"description": "Rust parser combinator framework", "language": "Rust", "repo": "nom", "new_stars": 175, "stars": 8684, "owner": "rust-bakery", "forks": 782},
-{"description": "Apache OpenDAL: access data freely.", "language": "Rust", "repo": "incubator-opendal", "new_stars": 305, "stars": 2299, "owner": "apache", "forks": 355},
-{"description": "zkSync: trustless scaling and privacy engine for Ethereum", "language": "Rust", "repo": "zksync", "new_stars": 147, "stars": 3689, "owner": "matter-labs", "forks": 2606}
+
 ]

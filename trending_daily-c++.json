@@ -1,10 +1,10 @@
 [
-{"description": "Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).", "language": "C++", "repo": "dlssg-to-fsr3", "new_stars": 215, "stars": 1653, "owner": "Nukem9", "forks": 122},
-{"description": "Reflective x64 PE/DLL Loader implemented using Dynamic Indirect Syscalls", "language": "C++", "repo": "AtlasLdr", "new_stars": 12, "stars": 177, "owner": "Krypteria", "forks": 28},
-{"description": "unlocks the 60 fps cap", "language": "C++", "repo": "genshin-fps-unlock", "new_stars": 23, "stars": 1871, "owner": "34736384", "forks": 176},
-{"description": "\u4e00\u6b3e\u8db3\u591f\u7b80\u5355\u3001\u8db3\u591f\u597d\u7528\u3001\u8db3\u591f\u5f3a\u7684\u514d\u8d39 WAF\u3002\u57fa\u4e8e\u4e1a\u754c\u9886\u5148\u7684\u8bed\u4e49\u5f15\u64ce\u68c0\u6d4b\u6280\u672f\uff0c\u4f5c\u4e3a\u53cd\u5411\u4ee3\u7406\u63a5\u5165\uff0c\u4fdd\u62a4\u4f60\u7684\u7f51\u7ad9\u4e0d\u53d7\u9ed1\u5ba2\u653b\u51fb\u3002", "language": "C++", "repo": "SafeLine", "new_stars": 10, "stars": 7326, "owner": "chaitin", "forks": 422},
+{"description": "Adds AMD FSR3 Frame Generation to games by replacing Nvidia DLSS-G Frame Generation (nvngx_dlssg).", "language": "C++", "repo": "dlssg-to-fsr3", "new_stars": 215, "stars": 1662, "owner": "Nukem9", "forks": 122},
+{"description": "Reflective x64 PE/DLL Loader implemented using Dynamic Indirect Syscalls", "language": "C++", "repo": "AtlasLdr", "new_stars": 12, "stars": 178, "owner": "Krypteria", "forks": 28},
+{"description": "unlocks the 60 fps cap", "language": "C++", "repo": "genshin-fps-unlock", "new_stars": 23, "stars": 1873, "owner": "34736384", "forks": 177},
+{"description": "\u4e00\u6b3e\u8db3\u591f\u7b80\u5355\u3001\u8db3\u591f\u597d\u7528\u3001\u8db3\u591f\u5f3a\u7684\u514d\u8d39 WAF\u3002\u57fa\u4e8e\u4e1a\u754c\u9886\u5148\u7684\u8bed\u4e49\u5f15\u64ce\u68c0\u6d4b\u6280\u672f\uff0c\u4f5c\u4e3a\u53cd\u5411\u4ee3\u7406\u63a5\u5165\uff0c\u4fdd\u62a4\u4f60\u7684\u7f51\u7ad9\u4e0d\u53d7\u9ed1\u5ba2\u653b\u51fb\u3002", "language": "C++", "repo": "SafeLine", "new_stars": 10, "stars": 7327, "owner": "chaitin", "forks": 422},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 25, "stars": 39702, "owner": "grpc", "forks": 10632},
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 25, "stars": 31125, "owner": "WerWolv", "forks": 1547},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 25, "stars": 31126, "owner": "WerWolv", "forks": 1547},
 {"description": "Official implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering", "language": "C++", "repo": "SuGaR", "new_stars": 92, "stars": 636, "owner": "Anttwo", "forks": 24},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 6, "stars": 18612, "owner": "fmtlib", "forks": 2335},
 {"description": "A Multithreaded Fork of Redis", "language": "C++", "repo": "KeyDB", "new_stars": 12, "stars": 8454, "owner": "Snapchat", "forks": 501},
@@ -16,12 +16,12 @@
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 18, "stars": 25947, "owner": "facebookresearch", "forks": 3243},
 {"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 10, "stars": 18496, "owner": "Tencent", "forks": 4037},
 {"description": "chDB is an embedded OLAP SQL Engine \ud83d\ude80 powered by ClickHouse", "language": "C++", "repo": "chdb", "new_stars": 30, "stars": 1316, "owner": "chdb-io", "forks": 48},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 15, "stars": 20966, "owner": "gabime", "forks": 4191},
-{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 3, "stars": 8368, "owner": "google", "forks": 1148},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 15, "stars": 20967, "owner": "gabime", "forks": 4191},
+{"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 3, "stars": 8370, "owner": "google", "forks": 1148},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 4, "stars": 6918, "owner": "esphome", "forks": 2805},
 {"description": "ZeroMQ core engine in C++, implements ZMTP/3.1", "language": "C++", "repo": "libzmq", "new_stars": 1, "stars": 9010, "owner": "zeromq", "forks": 2348},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 5, "stars": 9293, "owner": "ArduPilot", "forks": 15560},
+{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 5, "stars": 9293, "owner": "ArduPilot", "forks": 15561},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 3, "stars": 26495, "owner": "facebook", "forks": 5598},
 {"description": "The next generation of motion control firmware", "language": "C++", "repo": "FluidNC", "new_stars": 3, "stars": 1189, "owner": "bdring", "forks": 291},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 32, "stars": 52641, "owner": "ocornut", "forks": 9398}
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 32, "stars": 52643, "owner": "ocornut", "forks": 9398}
 ]

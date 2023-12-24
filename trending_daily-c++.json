@@ -1,14 +1,14 @@
 [
-{"description": "The AI-native database built for LLM applications, providing incredibly fast vector and full-text search", "language": "C++", "repo": "infinity", "new_stars": 44, "stars": 397, "owner": "infiniflow", "forks": 33},
+{"description": "The AI-native database built for LLM applications, providing incredibly fast vector and full-text search", "language": "C++", "repo": "infinity", "new_stars": 44, "stars": 403, "owner": "infiniflow", "forks": 33},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 3, "stars": 8071, "owner": "google", "forks": 1556},
-{"description": "Reflective x64 PE/DLL Loader implemented using Dynamic Indirect Syscalls", "language": "C++", "repo": "AtlasLdr", "new_stars": 59, "stars": 208, "owner": "Krypteria", "forks": 33},
+{"description": "Reflective x64 PE/DLL Loader implemented using Dynamic Indirect Syscalls", "language": "C++", "repo": "AtlasLdr", "new_stars": 59, "stars": 208, "owner": "Krypteria", "forks": 34},
 {"description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.", "language": "C++", "repo": "connectedhomeip", "new_stars": 21, "stars": 6660, "owner": "project-chip", "forks": 1762},
 {"description": "Official PyTorch implementation of SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering", "language": "C++", "repo": "SuGaR", "new_stars": 13, "stars": 650, "owner": "Anttwo", "forks": 25},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 6, "stars": 20972, "owner": "gabime", "forks": 4192},
-{"description": "\ud83e\udd16 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others", "language": "C++", "repo": "LocalAI", "new_stars": 37, "stars": 14627, "owner": "mudler", "forks": 1267},
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 16, "stars": 31140, "owner": "WerWolv", "forks": 1547},
+{"description": "\ud83e\udd16 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others", "language": "C++", "repo": "LocalAI", "new_stars": 37, "stars": 14628, "owner": "mudler", "forks": 1267},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 16, "stars": 31141, "owner": "WerWolv", "forks": 1547},
 {"description": "GNU Radio \u2013 the Free and Open Software Radio Ecosystem", "language": "C++", "repo": "gnuradio", "new_stars": 7, "stars": 4612, "owner": "gnuradio", "forks": 1840},
-{"description": "Fix Play Integrity (and SafetyNet) verdicts.", "language": "C++", "repo": "PlayIntegrityFix", "new_stars": 27, "stars": 1828, "owner": "chiteroman", "forks": 97},
+{"description": "Fix Play Integrity (and SafetyNet) verdicts.", "language": "C++", "repo": "PlayIntegrityFix", "new_stars": 27, "stars": 1829, "owner": "chiteroman", "forks": 97},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 9, "stars": 3227, "owner": "SoftFever", "forks": 375},
 {"description": "Detours is a software package for monitoring and instrumenting API calls on Windows. It is distributed in source code form.", "language": "C++", "repo": "Detours", "new_stars": 2, "stars": 4633, "owner": "microsoft", "forks": 934},
 {"description": "C++ websocket client/server library", "language": "C++", "repo": "websocketpp", "new_stars": 1, "stars": 6534, "owner": "zaphoyd", "forks": 1958},
@@ -21,7 +21,7 @@
 {"description": "Mold: A Modern Linker \ud83e\udda0", "language": "C++", "repo": "mold", "new_stars": 4, "stars": 12471, "owner": "rui314", "forks": 423},
 {"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 7, "stars": 6176, "owner": "tdlib", "forks": 1345},
 {"description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 10, "stars": 11161, "owner": "doitsujin", "forks": 735},
-{"description": "A Smart Ethernet Switch for Earth", "language": "C++", "repo": "ZeroTierOne", "new_stars": 11, "stars": 12573, "owner": "zerotier", "forks": 1545},
+{"description": "A Smart Ethernet Switch for Earth", "language": "C++", "repo": "ZeroTierOne", "new_stars": 11, "stars": 12574, "owner": "zerotier", "forks": 1545},
 {"description": "A personal experimental C++ Syntax 2 -> Syntax 1 compiler", "language": "C++", "repo": "cppfront", "new_stars": 20, "stars": 4769, "owner": "hsutter", "forks": 246},
 {"description": "chDB is an embedded OLAP SQL Engine \ud83d\ude80 powered by ClickHouse", "language": "C++", "repo": "chdb", "new_stars": 11, "stars": 1325, "owner": "chdb-io", "forks": 49}
 ]

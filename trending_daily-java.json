@@ -1,6 +1,6 @@
 [
-{"description": "A game server reimplementation for a certain turn-based anime game", "language": "Java", "repo": "LunarCore", "new_stars": 11, "stars": 564, "owner": "Melledy", "forks": 188},
-{"description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java", "language": "Java", "repo": "1brc", "new_stars": 136, "stars": 271, "owner": "gunnarmorling", "forks": 221},
+{"description": "A game server reimplementation for a certain turn-based anime game", "language": "Java", "repo": "LunarCore", "new_stars": 11, "stars": 566, "owner": "Melledy", "forks": 190},
+{"description": "1\ufe0f\u20e3\ud83d\udc1d\ud83c\udfce\ufe0f The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java", "language": "Java", "repo": "1brc", "new_stars": 136, "stars": 276, "owner": "gunnarmorling", "forks": 223},
 {"description": "\u300cJava\u5b66\u4e60+\u9762\u8bd5\u6307\u5357\u300d\u4e00\u4efd\u6db5\u76d6\u5927\u90e8\u5206 Java \u7a0b\u5e8f\u5458\u6240\u9700\u8981\u638c\u63e1\u7684\u6838\u5fc3\u77e5\u8bc6\u3002\u51c6\u5907 Java \u9762\u8bd5\uff0c\u9996\u9009 JavaGuide\uff01", "language": "Java", "repo": "JavaGuide", "new_stars": 43, "stars": 139732, "owner": "Snailclimb", "forks": 45218},
 {"description": "Free and Open, Distributed, RESTful Search Engine", "language": "Java", "repo": "elasticsearch", "new_stars": 13, "stars": 66290, "owner": "elastic", "forks": 23981},
 {"description": "\ud83d\ude2e Core Interview Questions & Answers For Experienced Java(Backend) Developers | \u4e92\u8054\u7f51 Java \u5de5\u7a0b\u5e08\u8fdb\u9636\u77e5\u8bc6\u5b8c\u5168\u626b\u76f2\uff1a\u6db5\u76d6\u9ad8\u5e76\u53d1\u3001\u5206\u5e03\u5f0f\u3001\u9ad8\u53ef\u7528\u3001\u5fae\u670d\u52a1\u3001\u6d77\u91cf\u6570\u636e\u5904\u7406\u7b49\u9886\u57df\u77e5\u8bc6", "language": "Java", "repo": "advanced-java", "new_stars": 50, "stars": 72782, "owner": "doocs", "forks": 18770},
@@ -11,7 +11,7 @@
 {"description": "The Metadata Platform for the Modern Data Stack", "language": "Java", "repo": "datahub", "new_stars": 4, "stars": 8791, "owner": "datahub-project", "forks": 2573},
 {"description": "Spring Boot", "language": "Java", "repo": "spring-boot", "new_stars": 25, "stars": 71085, "owner": "spring-projects", "forks": 40093},
 {"description": "Google core libraries for Java", "language": "Java", "repo": "guava", "new_stars": 8, "stars": 48890, "owner": "google", "forks": 10935},
-{"description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002", "language": "Java", "repo": "hello-algo", "new_stars": 151, "stars": 57832, "owner": "krahets", "forks": 7062},
+{"description": "\u300aHello \u7b97\u6cd5\u300b\uff1a\u52a8\u753b\u56fe\u89e3\u3001\u4e00\u952e\u8fd0\u884c\u7684\u6570\u636e\u7ed3\u6784\u4e0e\u7b97\u6cd5\u6559\u7a0b\uff0c\u652f\u6301 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig \u7b49\u8bed\u8a00\u3002", "language": "Java", "repo": "hello-algo", "new_stars": 151, "stars": 57833, "owner": "krahets", "forks": 7063},
 {"description": "Change data capture for a variety of databases. Please log issues at", "language": "Java", "repo": "debezium", "new_stars": 7, "stars": 9443, "owner": "debezium", "forks": 2320},
 {"description": "Spring Framework", "language": "Java", "repo": "spring-framework", "new_stars": 8, "stars": 54029, "owner": "spring-projects", "forks": 37322},
 {"description": "Apache Flink", "language": "Java", "repo": "flink", "new_stars": 10, "stars": 22539, "owner": "apache", "forks": 12989},
@@ -23,5 +23,5 @@
 {"description": "Enterprise job scheduling middleware with distributed computing ability.", "language": "Java", "repo": "PowerJob", "new_stars": 5, "stars": 6164, "owner": "PowerJob", "forks": 1084},
 {"description": "Open Source Identity and Access Management For Modern Applications and Services", "language": "Java", "repo": "keycloak", "new_stars": 18, "stars": 18551, "owner": "keycloak", "forks": 5993},
 {"description": "Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.", "language": "Java", "repo": "camunda-bpm-platform", "new_stars": 2, "stars": 3677, "owner": "camunda", "forks": 1434},
-{"description": "Android application for running Windows applications with Wine and Box86/Box64", "language": "Java", "repo": "winlator", "new_stars": 14, "stars": 2669, "owner": "brunodev85", "forks": 102}
+{"description": "Android application for running Windows applications with Wine and Box86/Box64", "language": "Java", "repo": "winlator", "new_stars": 14, "stars": 2670, "owner": "brunodev85", "forks": 102}
 ]

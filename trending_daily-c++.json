@@ -1,21 +1,21 @@
 [
-{"description": null, "language": "C++", "repo": "yuzu-android", "new_stars": 14, "stars": 1358, "owner": "yuzu-emu", "forks": 73},
+{"description": null, "language": "C++", "repo": "yuzu-android", "new_stars": 14, "stars": 1359, "owner": "yuzu-emu", "forks": 73},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 2, "stars": 8537, "owner": "cameron314", "forks": 1631},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 5, "stars": 26589, "owner": "facebook", "forks": 5614},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 4, "stars": 8118, "owner": "google", "forks": 1569},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 11, "stars": 31905, "owner": "google", "forks": 10032},
-{"description": "Zero-knowledge proof acceleration with GPUs for C++ and Rust", "language": "C++", "repo": "blitzar", "new_stars": 137, "stars": 775, "owner": "spaceandtimelabs", "forks": 30},
+{"description": "Zero-knowledge proof acceleration with GPUs for C++ and Rust", "language": "C++", "repo": "blitzar", "new_stars": 137, "stars": 779, "owner": "spaceandtimelabs", "forks": 30},
 {"description": "Behavior Trees Library in C++. Batteries included.", "language": "C++", "repo": "BehaviorTree.CPP", "new_stars": 11, "stars": 2451, "owner": "BehaviorTree", "forks": 596},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 20, "stars": 110222, "owner": "electron", "forks": 15449},
 {"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 4, "stars": 34336, "owner": "google", "forks": 7661},
-{"description": "Modular ZK(Zero Knowledge) backend accelerated by GPU", "language": "C++", "repo": "tachyon", "new_stars": 259, "stars": 2804, "owner": "kroma-network", "forks": 66},
+{"description": "Modular ZK(Zero Knowledge) backend accelerated by GPU", "language": "C++", "repo": "tachyon", "new_stars": 259, "stars": 2806, "owner": "kroma-network", "forks": 66},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 8, "stars": 11065, "owner": "yhirose", "forks": 2124},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 7, "stars": 62563, "owner": "protocolbuffers", "forks": 15412},
 {"description": "ClickHouse\u00ae is a free analytics DBMS for big data", "language": "C++", "repo": "ClickHouse", "new_stars": 11, "stars": 32563, "owner": "ClickHouse", "forks": 6380},
-{"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 12, "stars": 9182, "owner": "qgis", "forks": 2834},
+{"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 12, "stars": 9182, "owner": "qgis", "forks": 2835},
 {"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 8, "stars": 16510, "owner": "Tencent", "forks": 1849},
 {"description": "Skin changer for League of Legends (LOL)", "language": "C++", "repo": "R3nzSkin", "new_stars": 16, "stars": 3925, "owner": "R3nzTheCodeGOD", "forks": 590},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 7, "stars": 21197, "owner": "gabime", "forks": 4214},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 7, "stars": 21198, "owner": "gabime", "forks": 4214},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 20, "stars": 73543, "owner": "opencv", "forks": 55828},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 26, "stars": 179924, "owner": "tensorflow", "forks": 89313},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 7, "stars": 29079, "owner": "CMU-Perceptual-Computing-Lab", "forks": 7756},
@@ -23,5 +23,5 @@
 {"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 19, "stars": 113755, "owner": "facebook", "forks": 24144},
 {"description": "A computationally efficient and robust LiDAR-inertial odometry (LIO) package", "language": "C++", "repo": "FAST_LIO", "new_stars": 2, "stars": 1998, "owner": "hku-mars", "forks": 693},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 16, "stars": 38676, "owner": "nlohmann", "forks": 6628},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 27, "stars": 55842, "owner": "tesseract-ocr", "forks": 8983}
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 27, "stars": 55843, "owner": "tesseract-ocr", "forks": 8983}
 ]

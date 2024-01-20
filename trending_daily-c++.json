@@ -1,14 +1,14 @@
 [
-{"description": "MSVC's implementation of the C++ Standard Library.", "language": "C++", "repo": "STL", "new_stars": 3, "stars": 9460, "owner": "microsoft", "forks": 1419},
+{"description": "MSVC's implementation of the C++ Standard Library.", "language": "C++", "repo": "STL", "new_stars": 3, "stars": 9461, "owner": "microsoft", "forks": 1419},
 {"description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 3, "stars": 2900, "owner": "facebookincubator", "forks": 974},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 11, "stars": 11114, "owner": "yhirose", "forks": 2128},
-{"description": "DOOM Open Source Release", "language": "C++", "repo": "DOOM", "new_stars": 49, "stars": 12081, "owner": "id-Software", "forks": 2030},
+{"description": "DOOM Open Source Release", "language": "C++", "repo": "DOOM", "new_stars": 49, "stars": 12084, "owner": "id-Software", "forks": 2030},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 18, "stars": 38763, "owner": "nlohmann", "forks": 6638},
-{"description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.", "language": "C++", "repo": "bgfx", "new_stars": 19, "stars": 13910, "owner": "bkaradzic", "forks": 1896},
+{"description": "Cross-platform, graphics API agnostic, \"Bring Your Own Engine/Framework\" style rendering library.", "language": "C++", "repo": "bgfx", "new_stars": 19, "stars": 13911, "owner": "bkaradzic", "forks": 1896},
 {"description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.", "language": "C++", "repo": "re2", "new_stars": 3, "stars": 8419, "owner": "google", "forks": 1153},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 13, "stars": 21272, "owner": "gabime", "forks": 4221},
 {"description": null, "language": "C++", "repo": "autoware.universe", "new_stars": 3, "stars": 710, "owner": "autowarefoundation", "forks": 449},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 17, "stars": 180071, "owner": "tensorflow", "forks": 89362},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 17, "stars": 180072, "owner": "tensorflow", "forks": 89362},
 {"description": "A YAML parser and emitter in C++", "language": "C++", "repo": "yaml-cpp", "new_stars": 2, "stars": 4603, "owner": "jbeder", "forks": 1741},
 {"description": "free C++ class library of cryptographic schemes", "language": "C++", "repo": "cryptopp", "new_stars": 6, "stars": 4383, "owner": "weidai11", "forks": 1825},
 {"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 1, "stars": 6288, "owner": "colmap", "forks": 1380},
@@ -18,10 +18,10 @@
 {"description": "Inferflow is an efficient and highly configurable inference engine for large language models (LLMs).", "language": "C++", "repo": "inferflow", "new_stars": 25, "stars": 108, "owner": "inferflow", "forks": 13},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 4, "stars": 13198, "owner": "abseil", "forks": 2518},
 {"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 2, "stars": 4457, "owner": "chriskohlhoff", "forks": 1196},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 7, "stars": 26630, "owner": "facebook", "forks": 5626},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 7, "stars": 26631, "owner": "facebook", "forks": 5626},
 {"description": "High-level tracing language for Linux eBPF", "language": "C++", "repo": "bpftrace", "new_stars": 3, "stars": 7594, "owner": "iovisor", "forks": 1246},
 {"description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.", "language": "C++", "repo": "zeek", "new_stars": 3, "stars": 5723, "owner": "zeek", "forks": 1190},
 {"description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.", "language": "C++", "repo": "connectedhomeip", "new_stars": 10, "stars": 6743, "owner": "project-chip", "forks": 1788},
-{"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.", "language": "C++", "repo": "lmdeploy", "new_stars": 3, "stars": 1728, "owner": "InternLM", "forks": 148},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 9, "stars": 31944, "owner": "google", "forks": 10042}
+{"description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.", "language": "C++", "repo": "lmdeploy", "new_stars": 3, "stars": 1729, "owner": "InternLM", "forks": 148},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 9, "stars": 31944, "owner": "google", "forks": 10043}
 ]

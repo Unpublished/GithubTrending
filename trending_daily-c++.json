@@ -1,14 +1,14 @@
 [
-{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 119, "stars": 5167, "owner": "NVIDIA", "forks": 487},
-{"description": "Development repository for the Triton language and compiler", "language": "Python", "repo": "triton", "new_stars": 12, "stars": 9940, "owner": "openai", "forks": 1120},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 20, "stars": 114345, "owner": "facebook", "forks": 24239},
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 119, "stars": 5169, "owner": "NVIDIA", "forks": 488},
+{"description": "Development repository for the Triton language and compiler", "language": "Python", "repo": "triton", "new_stars": 12, "stars": 9941, "owner": "openai", "forks": 1120},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 20, "stars": 114347, "owner": "facebook", "forks": 24239},
 {"description": "gpt4all: run open-source LLMs anywhere", "language": "C++", "repo": "gpt4all", "new_stars": 33, "stars": 61286, "owner": "nomic-ai", "forks": 6891},
 {"description": "Easy MultiSensor device based on ESP8266/ESP32", "language": "C++", "repo": "ESPEasy", "new_stars": 4, "stars": 3148, "owner": "letscontrolit", "forks": 2169},
 {"description": "DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.", "language": "C++", "repo": "dosbox-staging", "new_stars": 5, "stars": 1098, "owner": "dosbox-staging", "forks": 147},
 {"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 5, "stars": 8662, "owner": "NVIDIA", "forks": 1950},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 6, "stars": 21497, "owner": "gabime", "forks": 4255},
-{"description": "Port of Facebook's LLaMA model in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 56, "stars": 50834, "owner": "ggerganov", "forks": 7300},
-{"description": "ROS2 Navigation Framework and System", "language": "C++", "repo": "navigation2", "new_stars": 0, "stars": 1902, "owner": "ros-planning", "forks": 1070},
+{"description": "Port of Facebook's LLaMA model in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 56, "stars": 50835, "owner": "ggerganov", "forks": 7300},
+{"description": "ROS2 Navigation Framework and System", "language": "C++", "repo": "navigation2", "new_stars": 0, "stars": 1902, "owner": "ros-planning", "forks": 1071},
 {"description": "My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.", "language": "C++", "repo": "GASDocumentation", "new_stars": 5, "stars": 3559, "owner": "tranek", "forks": 703},
 {"description": "Productive & portable high-performance programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 13, "stars": 24402, "owner": "taichi-dev", "forks": 2314},
 {"description": "The Flutter engine", "language": "C++", "repo": "engine", "new_stars": 1, "stars": 6979, "owner": "flutter", "forks": 5835},
@@ -21,7 +21,7 @@
 {"description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.", "language": "C++", "repo": "connectedhomeip", "new_stars": 4, "stars": 6815, "owner": "project-chip", "forks": 1805},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 7, "stars": 21752, "owner": "google", "forks": 3224},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 6, "stars": 13713, "owner": "Tencent", "forks": 3546},
-{"description": null, "language": "C++", "repo": "yuzu-android", "new_stars": 8, "stars": 1688, "owner": "yuzu-emu", "forks": 93},
+{"description": null, "language": "C++", "repo": "yuzu-android", "new_stars": 8, "stars": 1687, "owner": "yuzu-emu", "forks": 93},
 {"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 1, "stars": 13233, "owner": "Atmosphere-NX", "forks": 1160},
 {"description": "A C++ vectorized database acceleration library aimed to optimizing query engines and data processing systems.", "language": "C++", "repo": "velox", "new_stars": 1, "stars": 2959, "owner": "facebookincubator", "forks": 994}
 ]

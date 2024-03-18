@@ -1,14 +1,14 @@
 [
 {"description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 312, "stars": 13925, "owner": "postalserver", "forks": 983},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 374, "stars": 40125, "owner": "discourse", "forks": 8087},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 363, "stars": 18227, "owner": "chatwoot", "forks": 2846},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 363, "stars": 18227, "owner": "chatwoot", "forks": 2847},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 112, "stars": 13122, "owner": "Homebrew", "forks": 11959},
-{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 115, "stars": 11694, "owner": "github-linguist", "forks": 4016},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 115, "stars": 11695, "owner": "github-linguist", "forks": 4019},
 {"description": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.", "language": "Ruby", "repo": "ubicloud", "new_stars": 782, "stars": 2525, "owner": "ubicloud", "forks": 59},
 {"description": "\ud83c\udfc6 The Best Pagination Ruby Gem \ud83e\udd47", "language": "Ruby", "repo": "pagy", "new_stars": 107, "stars": 4425, "owner": "ddnexus", "forks": 389},
-{"description": "\ud83d\udce6 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 247, "stars": 5027, "owner": "Homebrew", "forks": 273},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 385, "stars": 54704, "owner": "rails", "forks": 21246},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 443, "stars": 45658, "owner": "mastodon", "forks": 6671},
+{"description": "\ud83d\udce6 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 247, "stars": 5028, "owner": "Homebrew", "forks": 273},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 385, "stars": 54703, "owner": "rails", "forks": 21246},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 443, "stars": 45659, "owner": "mastodon", "forks": 6671},
 {"description": "Informative site with EoL dates of everything", "language": "Ruby", "repo": "endoflife.date", "new_stars": 55, "stars": 2113, "owner": "endoflife-date", "forks": 611},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 68, "stars": 12480, "owner": "fluent", "forks": 1314},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 142, "stars": 8070, "owner": "opf", "forks": 2082},
@@ -22,6 +22,6 @@
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 24, "stars": 1862, "owner": "rswag", "forks": 405},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 33, "stars": 8140, "owner": "varvet", "forks": 616},
 {"description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!", "language": "Ruby", "repo": "oxidized", "new_stars": 38, "stars": 2574, "owner": "ytti", "forks": 890},
-{"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 47, "stars": 1251, "owner": "Shopify", "forks": 106},
+{"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 47, "stars": 1252, "owner": "Shopify", "forks": 106},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 23, "stars": 6683, "owner": "paper-trail-gem", "forks": 877}
 ]

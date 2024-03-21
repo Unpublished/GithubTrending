@@ -1,7 +1,7 @@
 [
 {"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 492, "stars": 10412, "owner": "Mozilla-Ocho", "forks": 471},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 221, "stars": 32475, "owner": "google", "forks": 9709},
-{"description": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.", "language": "C++", "repo": "suyu", "new_stars": 1848, "stars": 2287, "owner": "suyu-emu", "forks": 320},
+{"description": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.", "language": "C++", "repo": "suyu", "new_stars": 1848, "stars": 2299, "owner": "suyu-emu", "forks": 321},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 55, "stars": 19122, "owner": "fmtlib", "forks": 2328},
 {"description": "FxSound application and DSP source code", "language": "C++", "repo": "fxsound-app", "new_stars": 99, "stars": 459, "owner": "fxsound2", "forks": 42},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 115, "stars": 4604, "owner": "SoftFever", "forks": 525},
@@ -9,11 +9,11 @@
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 54, "stars": 13083, "owner": "ceph", "forks": 5795},
 {"description": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of", "language": "C++", "repo": "perfetto", "new_stars": 26, "stars": 2343, "owner": "google", "forks": 300},
 {"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 349, "stars": 28211, "owner": "SerenityOS", "forks": 3008},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 96, "stars": 63225, "owner": "protocolbuffers", "forks": 15207},
-{"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeepass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 121, "stars": 18627, "owner": "keepassxreboot", "forks": 1334},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 96, "stars": 63228, "owner": "protocolbuffers", "forks": 15207},
+{"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeepass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 121, "stars": 18630, "owner": "keepassxreboot", "forks": 1334},
 {"description": "Highly customizable Wayland bar for Sway and Wlroots based compositors. \u270c\ufe0f \ud83c\udf89", "language": "C++", "repo": "Waybar", "new_stars": 60, "stars": 5184, "owner": "Alexays", "forks": 608},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 51, "stars": 13742, "owner": "abseil", "forks": 2406},
-{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 80, "stars": 40480, "owner": "grpc", "forks": 10309},
+{"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 80, "stars": 40480, "owner": "grpc", "forks": 10308},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 52, "stars": 7233, "owner": "oceanbase", "forks": 1479},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 56, "stars": 26923, "owner": "facebook", "forks": 5397},
 {"description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.", "language": "C++", "repo": "JoltPhysics", "new_stars": 43, "stars": 5129, "owner": "jrouwe", "forks": 308},
@@ -23,5 +23,5 @@
 {"description": "Point Cloud Library (PCL)", "language": "C++", "repo": "pcl", "new_stars": 24, "stars": 9341, "owner": "PointCloudLibrary", "forks": 4558},
 {"description": "Super Repository for Coding Interview Preperation", "language": "C++", "repo": "Interview_DS_Algo", "new_stars": 51, "stars": 1013, "owner": "MAZHARMIK", "forks": 671},
 {"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 18, "stars": 2243, "owner": "ton-blockchain", "forks": 603},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 113, "stars": 21861, "owner": "gabime", "forks": 4207}
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 113, "stars": 21861, "owner": "gabime", "forks": 4208}
 ]

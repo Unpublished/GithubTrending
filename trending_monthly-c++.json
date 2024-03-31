@@ -1,16 +1,16 @@
 [
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1295, "stars": 111653, "owner": "electron", "forks": 14855},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 1295, "stars": 111654, "owner": "electron", "forks": 14855},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 554, "stars": 12027, "owner": "dolphin-emu", "forks": 2546},
 {"description": "A former citrus fruit-named emulator's Early Access source code", "language": "C++", "repo": "pineapple-src", "new_stars": 1614, "stars": 5539, "owner": "pineappleEA", "forks": 1204},
 {"description": "\ud83d\udd25 Linux\u4e0bC++\u8f7b\u91cf\u7ea7WebServer\u670d\u52a1\u5668", "language": "C++", "repo": "TinyWebServer", "new_stars": 606, "stars": 14779, "owner": "qinguoyi", "forks": 3641},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 443, "stars": 32556, "owner": "google", "forks": 9727},
 {"description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 1363, "stars": 16017, "owner": "hyprwm", "forks": 639},
-{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 354, "stars": 13603, "owner": "Atmosphere-NX", "forks": 1168},
+{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 354, "stars": 13603, "owner": "Atmosphere-NX", "forks": 1169},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 509, "stars": 4756, "owner": "SoftFever", "forks": 548},
 {"description": "Ceph is a distributed object, block, and file storage platform", "language": "C++", "repo": "ceph", "new_stars": 171, "stars": 13123, "owner": "ceph", "forks": 5805},
 {"description": "A toolkit for making real world machine learning and data analysis applications in C++", "language": "C++", "repo": "dlib", "new_stars": 303, "stars": 12947, "owner": "davisking", "forks": 3306},
-{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 900, "stars": 36678, "owner": "Light-City", "forks": 8239},
-{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 1298, "stars": 10866, "owner": "Mozilla-Ocho", "forks": 521},
+{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 900, "stars": 36679, "owner": "Light-City", "forks": 8240},
+{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 1298, "stars": 10867, "owner": "Mozilla-Ocho", "forks": 521},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 136, "stars": 7270, "owner": "oceanbase", "forks": 1489},
 {"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 517, "stars": 10655, "owner": "NixOS", "forks": 1370},
 {"description": "OpenVINO\u2122 is an open-source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 246, "stars": 5754, "owner": "openvinotoolkit", "forks": 1971},
@@ -22,6 +22,6 @@
 {"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 679, "stars": 32579, "owner": "WerWolv", "forks": 1521},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 416, "stars": 21968, "owner": "gabime", "forks": 4229},
 {"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 1134, "stars": 15981, "owner": "duckdb", "forks": 1404},
-{"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 155, "stars": 21528, "owner": "PaddlePaddle", "forks": 5409},
-{"description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.", "language": "C++", "repo": "mysql-server", "new_stars": 138, "stars": 10136, "owner": "mysql", "forks": 3692}
+{"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 155, "stars": 21529, "owner": "PaddlePaddle", "forks": 5409},
+{"description": "MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.", "language": "C++", "repo": "mysql-server", "new_stars": 138, "stars": 10137, "owner": "mysql", "forks": 3692}
 ]

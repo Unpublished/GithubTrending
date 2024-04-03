@@ -1,11 +1,11 @@
 [
 {"description": "\ud83d\udce6 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 2, "stars": 5081, "owner": "Homebrew", "forks": 273},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 11, "stars": 54799, "owner": "rails", "forks": 21263},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 11, "stars": 54800, "owner": "rails", "forks": 21263},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 289, "owner": "DataDog", "forks": 363},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 1, "stars": 14406, "owner": "CocoaPods", "forks": 2606},
 {"description": "\ud83c\udfc6 The Best Pagination Ruby Gem \ud83e\udd47", "language": "Ruby", "repo": "pagy", "new_stars": 2, "stars": 4441, "owner": "ddnexus", "forks": 387},
 {"description": "AppsFlyer Apple SDK", "language": "Ruby", "repo": "AppsFlyerFramework", "new_stars": 0, "stars": 156, "owner": "AppsFlyerSDK", "forks": 83},
-{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 18, "stars": 39145, "owner": "Homebrew", "forks": 9174},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 18, "stars": 39145, "owner": "Homebrew", "forks": 9176},
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 6, "stars": 38543, "owner": "fastlane", "forks": 5588},
 {"description": "a cocoapods plugin to auto manager Xcode PrivacyInfo.xcprivacy file(create && search)", "language": "Ruby", "repo": "cocoapods-privacy", "new_stars": 11, "stars": 89, "owner": "ymoyao", "forks": 12},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 0, "stars": 12917, "owner": "sidekiq", "forks": 2355},
@@ -20,7 +20,7 @@
 {"description": "A modern, simple and very fast Mysql library for Ruby - binding to libmysql", "language": "Ruby", "repo": "mysql2", "new_stars": 0, "stars": 2222, "owner": "brianmario", "forks": 539},
 {"description": "A Ruby client library for Redis", "language": "Ruby", "repo": "redis-rb", "new_stars": 1, "stars": 3940, "owner": "redis", "forks": 1016},
 {"description": "Library for stubbing and setting expectations on HTTP requests in Ruby.", "language": "Ruby", "repo": "webmock", "new_stars": 0, "stars": 3887, "owner": "bblimke", "forks": 550},
-{"description": "\ud83e\udd16 Dependabot's core logic for creating update PR's.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 1, "stars": 3823, "owner": "dependabot", "forks": 859},
+{"description": "\ud83e\udd16 Dependabot's core logic for creating update PR's.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 3823, "owner": "dependabot", "forks": 859},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 3, "stars": 20495, "owner": "Homebrew", "forks": 10491},
 {"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 3, "stars": 12487, "owner": "rubocop", "forks": 3033},
 {"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 8187, "owner": "heartcombo", "forks": 1312}

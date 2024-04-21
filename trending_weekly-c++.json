@@ -1,16 +1,16 @@
 [
-{"description": "A Nintendo 3DS Emulator", "language": "C++", "repo": "citra", "new_stars": 531, "stars": 2388, "owner": "PabloMK7", "forks": 539},
+{"description": "A Nintendo 3DS Emulator", "language": "C++", "repo": "citra", "new_stars": 531, "stars": 2391, "owner": "PabloMK7", "forks": 538},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 199, "stars": 40181, "owner": "nlohmann", "forks": 6487},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 362, "stars": 75718, "owner": "bitcoin", "forks": 35175},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 814, "stars": 55980, "owner": "ggerganov", "forks": 7903},
-{"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 146, "stars": 12569, "owner": "espressif", "forks": 7184},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 166, "stars": 33061, "owner": "google", "forks": 9908},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 315, "stars": 83005, "owner": "godotengine", "forks": 18053},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 42, "stars": 9829, "owner": "ArduPilot", "forks": 16257},
-{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 125, "stars": 6471, "owner": "NVIDIA", "forks": 653},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 362, "stars": 75724, "owner": "bitcoin", "forks": 35178},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 814, "stars": 55989, "owner": "ggerganov", "forks": 7906},
+{"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 146, "stars": 12569, "owner": "espressif", "forks": 7185},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 166, "stars": 33063, "owner": "google", "forks": 9907},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 315, "stars": 83006, "owner": "godotengine", "forks": 18053},
+{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 42, "stars": 9829, "owner": "ArduPilot", "forks": 16256},
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 125, "stars": 6472, "owner": "NVIDIA", "forks": 653},
 {"description": "C++ python bytecode disassembler and decompiler", "language": "C++", "repo": "pycdc", "new_stars": 155, "stars": 2820, "owner": "zrax", "forks": 575},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 208, "stars": 7655, "owner": "esphome", "forks": 3190},
-{"description": "PS3 emulator/debugger", "language": "C++", "repo": "rpcs3", "new_stars": 164, "stars": 14323, "owner": "RPCS3", "forks": 1822},
+{"description": "PS3 emulator/debugger", "language": "C++", "repo": "rpcs3", "new_stars": 164, "stars": 14324, "owner": "RPCS3", "forks": 1822},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 139, "stars": 24514, "owner": "telegramdesktop", "forks": 4874},
 {"description": "Yosys Open SYnthesis Suite", "language": "C++", "repo": "yosys", "new_stars": 19, "stars": 3156, "owner": "YosysHQ", "forks": 835},
 {"description": "Haptic input knob with software-defined endstops and virtual detents", "language": "C++", "repo": "smartknob", "new_stars": 83, "stars": 17948, "owner": "scottbez1", "forks": 1042},
@@ -23,5 +23,5 @@
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 68, "stars": 11818, "owner": "yhirose", "forks": 2162},
 {"description": "An open autonomous driving platform", "language": "C++", "repo": "apollo", "new_stars": 68, "stars": 24399, "owner": "ApolloAuto", "forks": 9566},
 {"description": "YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.", "language": "C++", "repo": "YimMenu", "new_stars": 17, "stars": 1049, "owner": "YimMenu", "forks": 798},
-{"description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).", "language": "C++", "repo": "tflite-micro", "new_stars": 24, "stars": 1645, "owner": "tensorflow", "forks": 733}
+{"description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).", "language": "C++", "repo": "tflite-micro", "new_stars": 24, "stars": 1647, "owner": "tensorflow", "forks": 733}
 ]

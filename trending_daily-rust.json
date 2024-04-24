@@ -1,10 +1,10 @@
 [
 {"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 90, "stars": 17504, "owner": "zellij-org", "forks": 549},
-{"description": "This repository contains my complete resources and coding practices for malware development using Rust \ud83e\udd80.", "language": "Rust", "repo": "Rust-for-Malware-Development", "new_stars": 56, "stars": 474, "owner": "Whitecat18", "forks": 49},
-{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 15, "stars": 16144, "owner": "tokio-rs", "forks": 943},
+{"description": "This repository contains my complete resources and coding practices for malware development using Rust \ud83e\udd80.", "language": "Rust", "repo": "Rust-for-Malware-Development", "new_stars": 56, "stars": 477, "owner": "Whitecat18", "forks": 49},
+{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 15, "stars": 16145, "owner": "tokio-rs", "forks": 944},
 {"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 38, "stars": 42814, "owner": "rust-unofficial", "forks": 2548},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 27, "stars": 32250, "owner": "bevyengine", "forks": 3142},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 42, "stars": 77256, "owner": "tauri-apps", "forks": 2264},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 42, "stars": 77257, "owner": "tauri-apps", "forks": 2264},
 {"description": "Rust full node implementation of the Fuel v2 protocol.", "language": "Rust", "repo": "fuel-core", "new_stars": 5, "stars": 58751, "owner": "FuelLabs", "forks": 2662},
 {"description": "Incomplete Redis client and server implementation using Tokio - for learning purposes only", "language": "Rust", "repo": "mini-redis", "new_stars": 4, "stars": 3527, "owner": "tokio-rs", "forks": 411},
 {"description": "Rust bindings for Godot 4", "language": "Rust", "repo": "gdext", "new_stars": 11, "stars": 2430, "owner": "godot-rust", "forks": 152},
@@ -14,14 +14,14 @@
 {"description": "Rust Bitcoin library", "language": "Rust", "repo": "rust-bitcoin", "new_stars": 5, "stars": 1874, "owner": "rust-bitcoin", "forks": 603},
 {"description": "A physics based, space shooter game made with Rust and the Bevy engine.", "language": "Rust", "repo": "thetawave", "new_stars": 10, "stars": 149, "owner": "thetawavegame", "forks": 9},
 {"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 40, "stars": 1938, "owner": "YaLTeR", "forks": 43},
-{"description": "Elegantly record your screen", "language": "Rust", "repo": "Kooha", "new_stars": 17, "stars": 2261, "owner": "SeaDve", "forks": 62},
+{"description": "Elegantly record your screen", "language": "Rust", "repo": "Kooha", "new_stars": 17, "stars": 2262, "owner": "SeaDve", "forks": 62},
 {"description": "Magical Rust patterns laid out and simplified", "language": "Rust", "repo": "rust-magic-patterns", "new_stars": 10, "stars": 604, "owner": "alexpusch", "forks": 19},
 {"description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.", "language": "Rust", "repo": "sway", "new_stars": 10, "stars": 63237, "owner": "FuelLabs", "forks": 5215},
 {"description": "Hayabusa (\u96bc) is a sigma-based threat hunting and fast forensics timeline generator for Windows event logs.", "language": "Rust", "repo": "hayabusa", "new_stars": 5, "stars": 1931, "owner": "Yamato-Security", "forks": 166},
-{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 28, "stars": 10369, "owner": "juspay", "forks": 1156},
+{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 28, "stars": 10370, "owner": "juspay", "forks": 1156},
 {"description": "\u6211\u7684\u6781\u5ba2\u65f6\u95f4 Rust \u8bfe\u7a0b\u7684\u4ee3\u7801\u4ed3\u5e93\uff0c\u968f\u8bfe\u7a0b\u66f4\u65b0", "language": "Rust", "repo": "geektime-rust", "new_stars": 4, "stars": 1201, "owner": "tyrchen", "forks": 325},
 {"description": "A modern, maintained replacement for ls", "language": "Rust", "repo": "eza", "new_stars": 34, "stars": 7232, "owner": "eza-community", "forks": 140},
-{"description": "A massively parallel, optimal functional runtime in Rust", "language": "Rust", "repo": "HVM", "new_stars": 5, "stars": 7109, "owner": "HigherOrderCO", "forks": 222},
+{"description": "A massively parallel, optimal functional runtime in Rust", "language": "Rust", "repo": "HVM", "new_stars": 5, "stars": 7110, "owner": "HigherOrderCO", "forks": 222},
 {"description": "Window handling library in pure Rust", "language": "Rust", "repo": "winit", "new_stars": 8, "stars": 4405, "owner": "rust-windowing", "forks": 858},
-{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 25, "stars": 6047, "owner": "jdx", "forks": 173}
+{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 25, "stars": 6048, "owner": "jdx", "forks": 173}
 ]

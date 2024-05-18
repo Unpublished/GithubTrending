@@ -1,17 +1,17 @@
 [
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 1206, "stars": 33177, "owner": "lapce", "forks": 986},
-{"description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)", "language": "Rust", "repo": "ChatGPT", "new_stars": 2323, "stars": 49398, "owner": "lencx", "forks": 5588},
+{"description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)", "language": "Rust", "repo": "ChatGPT", "new_stars": 2323, "stars": 49434, "owner": "lencx", "forks": 5593},
 {"description": "Apache DataFusion SQL Query Engine", "language": "Rust", "repo": "datafusion", "new_stars": 301, "stars": 5209, "owner": "apache", "forks": 957},
-{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 883, "stars": 20611, "owner": "TheAlgorithms", "forks": 2003},
+{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 883, "stars": 20614, "owner": "TheAlgorithms", "forks": 2004},
 {"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 1024, "stars": 6942, "owner": "jdx", "forks": 187},
 {"description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16", "language": "Rust", "repo": "RustScan", "new_stars": 678, "stars": 12733, "owner": "RustScan", "forks": 853},
-{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 859, "stars": 18092, "owner": "zellij-org", "forks": 570},
+{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 859, "stars": 18095, "owner": "zellij-org", "forks": 570},
 {"description": "Code for \"Zero To Production In Rust\", a book on API development using Rust.", "language": "Rust", "repo": "zero-to-production", "new_stars": 586, "stars": 5230, "owner": "LukeMathWalker", "forks": 459},
-{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.", "language": "Rust", "repo": "biome", "new_stars": 963, "stars": 10988, "owner": "biomejs", "forks": 365},
-{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 642, "stars": 23343, "owner": "tw93", "forks": 3777},
+{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.", "language": "Rust", "repo": "biome", "new_stars": 963, "stars": 10989, "owner": "biomejs", "forks": 365},
+{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 642, "stars": 23344, "owner": "tw93", "forks": 3778},
 {"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 324, "stars": 3688, "owner": "ordinals", "forks": 1261},
 {"description": "A native Rust UI library with fine-grained reactivity", "language": "Rust", "repo": "floem", "new_stars": 234, "stars": 2407, "owner": "lapce", "forks": 113},
-{"description": "Hurl, run and test HTTP requests with plain text.", "language": "Rust", "repo": "hurl", "new_stars": 1089, "stars": 11833, "owner": "Orange-OpenSource", "forks": 470},
+{"description": "Hurl, run and test HTTP requests with plain text.", "language": "Rust", "repo": "hurl", "new_stars": 1089, "stars": 11834, "owner": "Orange-OpenSource", "forks": 470},
 {"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 611, "stars": 17632, "owner": "TabbyML", "forks": 724},
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 143, "stars": 5561, "owner": "rustls", "forks": 586},
 {"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 3054, "stars": 34427, "owner": "zed-industries", "forks": 1703},
@@ -21,7 +21,7 @@
 {"description": "Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available", "language": "Rust", "repo": "wstunnel", "new_stars": 329, "stars": 3207, "owner": "erebe", "forks": 289},
 {"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 423, "stars": 2119, "owner": "YaLTeR", "forks": 52},
 {"description": "A scalable, distributed, collaborative, document-graph database, for the realtime web", "language": "Rust", "repo": "surrealdb", "new_stars": 645, "stars": 25700, "owner": "surrealdb", "forks": 789},
-{"description": "A modern, maintained replacement for ls", "language": "Rust", "repo": "eza", "new_stars": 838, "stars": 7835, "owner": "eza-community", "forks": 152},
+{"description": "A modern, maintained replacement for ls", "language": "Rust", "repo": "eza", "new_stars": 838, "stars": 7836, "owner": "eza-community", "forks": 152},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 420, "stars": 12396, "owner": "solana-labs", "forks": 3866},
-{"description": "An open-source remote desktop, and alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 2513, "stars": 64829, "owner": "rustdesk", "forks": 7070}
+{"description": "An open-source remote desktop, and alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 2513, "stars": 64830, "owner": "rustdesk", "forks": 7070}
 ]

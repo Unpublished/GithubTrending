@@ -1,9 +1,9 @@
 [
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 77, "stars": 33400, "owner": "google", "forks": 9950},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 35, "stars": 66209, "owner": "apple", "forks": 10238},
-{"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 42, "stars": 17639, "owner": "duckdb", "forks": 1507},
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 35, "stars": 66210, "owner": "apple", "forks": 10238},
+{"description": "DuckDB is an in-process SQL OLAP Database Management System", "language": "C++", "repo": "duckdb", "new_stars": 42, "stars": 17642, "owner": "duckdb", "forks": 1507},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 87, "stars": 9267, "owner": "cameron314", "forks": 1629},
-{"description": "Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++", "language": "C++", "repo": "sudachi", "new_stars": 25, "stars": 1748, "owner": "sudachi-emu", "forks": 99},
+{"description": "Sudachi is a Nintendo Switch emulator for Android, Linux, macOS and Windows, written in C++", "language": "C++", "repo": "sudachi", "new_stars": 25, "stars": 1749, "owner": "sudachi-emu", "forks": 99},
 {"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 7, "stars": 4500, "owner": "Neargye", "forks": 412},
 {"description": "Official Transmission BitTorrent client repository", "language": "C++", "repo": "transmission", "new_stars": 14, "stars": 11532, "owner": "transmission", "forks": 1169},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 33, "stars": 19588, "owner": "fmtlib", "forks": 2403},
@@ -21,7 +21,7 @@
 {"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 23, "stars": 93903, "owner": "microsoft", "forks": 8113},
 {"description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!", "language": "C++", "repo": "redpanda", "new_stars": 8, "stars": 8993, "owner": "redpanda-data", "forks": 551},
 {"description": "High-Performance C++ Fundamental Library", "language": "C++", "repo": "babylon", "new_stars": 34, "stars": 257, "owner": "baidu", "forks": 37},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 11, "stars": 40738, "owner": "nlohmann", "forks": 6534},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 11, "stars": 40738, "owner": "nlohmann", "forks": 6535},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 63, "stars": 64083, "owner": "protocolbuffers", "forks": 15304},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 18, "stars": 5442, "owner": "SoftFever", "forks": 625}
 ]

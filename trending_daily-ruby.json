@@ -6,11 +6,18 @@
 {"description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks", "language": "Ruby", "repo": "carrierwave", "new_stars": 0, "stars": 8772, "owner": "carrierwaveuploader", "forks": 1651},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 0, "stars": 5601, "owner": "activerecord-hackery", "forks": 781},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 7, "stars": 25948, "owner": "hashicorp", "forks": 4409},
+{"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 5, "stars": 3584, "owner": "github", "forks": 1303},
 {"description": "Ruby-based unit testing and build system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 0, "stars": 563, "owner": "ThrowTheSwitch", "forks": 241},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 12996, "owner": "sidekiq", "forks": 2383},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 0, "stars": 14461, "owner": "CocoaPods", "forks": 2616},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 1, "stars": 3572, "owner": "rubygems", "forks": 1708},
+{"description": "A self hosted music streaming server", "language": "Ruby", "repo": "blackcandy", "new_stars": 9, "stars": 1129, "owner": "blackcandy-org", "forks": 110},
+{"description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 6, "stars": 14309, "owner": "postalserver", "forks": 1004},
 {"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 0, "stars": 8525, "owner": "kaminari", "forks": 1078},
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 0, "stars": 3479, "owner": "thoughtbot", "forks": 910},
+{"description": "RSpec for Rails 6+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 2, "stars": 5131, "owner": "rspec", "forks": 1024},
 {"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 5, "stars": 1565, "owner": "rails", "forks": 82},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 2, "stars": 4171, "owner": "github", "forks": 12437}
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 2, "stars": 4171, "owner": "github", "forks": 12437},
+{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 3, "stars": 4200, "owner": "zammad", "forks": 728},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 23787, "owner": "heartcombo", "forks": 5531}
 ]

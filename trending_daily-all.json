@@ -1,13 +1,16 @@
 [
-{"description": "Powerful menu bar manager for macOS", "language": "Swift", "repo": "Ice", "new_stars": 1617, "stars": 6279, "owner": "jordanbaird", "forks": 128},
-{"description": "Generative models for conditional audio generation", "language": "Python", "repo": "stable-audio-tools", "new_stars": 73, "stars": 1792, "owner": "Stability-AI", "forks": 156},
-{"description": "Huly \u2014 All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)", "language": "Svelte", "repo": "platform", "new_stars": 145, "stars": 3000, "owner": "hcengineering", "forks": 364},
-{"description": "18 Lessons, Get Started Building with Generative AI \ud83d\udd17", "language": "Jupyter Notebook", "repo": "generative-ai-for-beginners", "new_stars": 569, "stars": 46490, "owner": "microsoft", "forks": 25452},
-{"description": "A list of alternatives for Adobe software", "language": null, "repo": "Adobe-Alternatives", "new_stars": 424, "stars": 2948, "owner": "KenneyNL", "forks": 121},
-{"description": "End-to-end stack for WebRTC. SFU media server and SDKs.", "language": "Go", "repo": "livekit", "new_stars": 65, "stars": 8245, "owner": "livekit", "forks": 664},
-{"description": "The Modern Data Stack \ud83d\udc30 \u2014 Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.", "language": "TypeScript", "repo": "directus", "new_stars": 159, "stars": 26118, "owner": "directus", "forks": 3615},
-{"description": null, "language": "Python", "repo": "mesop", "new_stars": 345, "stars": 1228, "owner": "google", "forks": 50},
-{"description": "Neovim config for the lazy", "language": "Lua", "repo": "LazyVim", "new_stars": 65, "stars": 14139, "owner": "LazyVim", "forks": 944},
-{"description": "Visual Studio Code", "language": "TypeScript", "repo": "vscode", "new_stars": 65, "stars": 159569, "owner": "microsoft", "forks": 27923},
-{"description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs", "language": "Scala", "repo": "delta", "new_stars": 16, "stars": 7082, "owner": "delta-io", "forks": 1604}
+{"description": "\ud83c\udfe0 \u5c06\u5c0f\u7231\u97f3\u7bb1\u63a5\u5165 ChatGPT \u548c\u8c46\u5305\uff0c\u6539\u9020\u6210\u4f60\u7684\u4e13\u5c5e\u8bed\u97f3\u52a9\u624b\u3002", "language": "TypeScript", "repo": "mi-gpt", "new_stars": 676, "stars": 1881, "owner": "idootop", "forks": 125},
+{"description": "Powerful menu bar manager for macOS", "language": "Swift", "repo": "Ice", "new_stars": 1617, "stars": 6336, "owner": "jordanbaird", "forks": 130},
+{"description": "18 Lessons, Get Started Building with Generative AI \ud83d\udd17", "language": "Jupyter Notebook", "repo": "generative-ai-for-beginners", "new_stars": 569, "stars": 46503, "owner": "microsoft", "forks": 25453},
+{"description": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.", "language": "Shell", "repo": "lsix", "new_stars": 149, "stars": 3623, "owner": "hackerb9", "forks": 124},
+{"description": "A list of alternatives for Adobe software", "language": null, "repo": "Adobe-Alternatives", "new_stars": 424, "stars": 2975, "owner": "KenneyNL", "forks": 122},
+{"description": "State-of-the-art Machine Learning for the web. Run \ud83e\udd17 Transformers directly in your browser, with no need for a server!", "language": "JavaScript", "repo": "transformers.js", "new_stars": 136, "stars": 8147, "owner": "xenova", "forks": 458},
+{"description": null, "language": "Python", "repo": "mesop", "new_stars": 345, "stars": 1238, "owner": "google", "forks": 50},
+{"description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs", "language": "Scala", "repo": "delta", "new_stars": 16, "stars": 7082, "owner": "delta-io", "forks": 1604},
+{"description": "End-to-end stack for WebRTC. SFU media server and SDKs.", "language": "Go", "repo": "livekit", "new_stars": 65, "stars": 8253, "owner": "livekit", "forks": 664},
+{"description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It\u2019s an open-source, secure and ad-free.", "language": "Dart", "repo": "hiddify-next", "new_stars": 65, "stars": 11227, "owner": "hiddify", "forks": 1027},
+{"description": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift", "language": "C++", "repo": "sherpa-onnx", "new_stars": 27, "stars": 1204, "owner": "k2-fsa", "forks": 208},
+{"description": "\ud83e\udd17 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch", "language": "Python", "repo": "lerobot", "new_stars": 19, "stars": 3387, "owner": "huggingface", "forks": 251},
+{"description": "The intrusive \"Ad blocker are not allowed on YouTube\" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection", "language": "JavaScript", "repo": "RemoveAdblockThing", "new_stars": 146, "stars": 5614, "owner": "TheRealJoelmatic", "forks": 303},
+{"description": "TLS/SSL and crypto library", "language": "C", "repo": "openssl", "new_stars": 84, "stars": 24613, "owner": "openssl", "forks": 9871}
 ]

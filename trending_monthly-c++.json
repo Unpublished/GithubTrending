@@ -1,15 +1,14 @@
 [
-{"description": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift", "language": "C++", "repo": "sherpa-onnx", "new_stars": 487, "stars": 1374, "owner": "k2-fsa", "forks": 214},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1738, "stars": 14395, "owner": "LizardByte", "forks": 692},
+{"description": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift", "language": "C++", "repo": "sherpa-onnx", "new_stars": 487, "stars": 1375, "owner": "k2-fsa", "forks": 214},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1738, "stars": 14397, "owner": "LizardByte", "forks": 692},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 507, "stars": 9366, "owner": "cameron314", "forks": 1639},
-{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 1802, "stars": 18836, "owner": "duckdb", "forks": 1558},
+{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 1802, "stars": 18842, "owner": "duckdb", "forks": 1559},
 {"description": "Generative AI extensions for onnxruntime", "language": "C++", "repo": "onnxruntime-genai", "new_stars": 101, "stars": 239, "owner": "microsoft", "forks": 65},
-{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\u5e95\u5c42\u6846\u67b6\uff0c\u53ef\u63a5\u5165Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 780, "stars": 2941, "owner": "lich0821", "forks": 530},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 772, "stars": 59009, "owner": "tesseract-ocr", "forks": 9167},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 276, "stars": 19666, "owner": "fmtlib", "forks": 2409},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 930, "stars": 56957, "owner": "ocornut", "forks": 9831},
+{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\u5e95\u5c42\u6846\u67b6\uff0c\u53ef\u63a5\u5165Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 780, "stars": 2941, "owner": "lich0821", "forks": 532},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 772, "stars": 59009, "owner": "tesseract-ocr", "forks": 9169},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 930, "stars": 56960, "owner": "ocornut", "forks": 9831},
 {"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64", "language": "C++", "repo": "duckstation", "new_stars": 150, "stars": 6355, "owner": "stenzek", "forks": 598},
-{"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 245, "stars": 10701, "owner": "hrydgard", "forks": 2118},
+{"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 245, "stars": 10702, "owner": "hrydgard", "forks": 2118},
 {"description": "Official Transmission BitTorrent client repository", "language": "C++", "repo": "transmission", "new_stars": 156, "stars": 11580, "owner": "transmission", "forks": 1174},
 {"description": "ClickHouse\u00ae is a real-time analytics DBMS", "language": "C++", "repo": "ClickHouse", "new_stars": 681, "stars": 34994, "owner": "ClickHouse", "forks": 6564},
 {"description": "The Next Generation of Anti-Rookit(ARK) tool for Windows.", "language": "C++", "repo": "OpenArk", "new_stars": 754, "stars": 7769, "owner": "BlackINT3", "forks": 803},
@@ -19,6 +18,6 @@
 {"description": "SRS is a simple, high-efficiency, real-time video server supporting RTMP, WebRTC, HLS, HTTP-FLV, SRT, MPEG-DASH, and GB28181.", "language": "C++", "repo": "srs", "new_stars": 253, "stars": 24541, "owner": "ossrs", "forks": 5263},
 {"description": "cuDF - GPU DataFrame Library", "language": "C++", "repo": "cudf", "new_stars": 568, "stars": 7875, "owner": "rapidsai", "forks": 854},
 {"description": "Verilator open-source SystemVerilog simulator and lint system", "language": "C++", "repo": "verilator", "new_stars": 120, "stars": 2243, "owner": "verilator", "forks": 548},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1415, "stars": 85471, "owner": "godotengine", "forks": 18830},
-{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 228, "stars": 12113, "owner": "yhirose", "forks": 2195}
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1415, "stars": 85473, "owner": "godotengine", "forks": 18830},
+{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 228, "stars": 12114, "owner": "yhirose", "forks": 2195}
 ]

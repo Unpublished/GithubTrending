@@ -1,17 +1,17 @@
 [
-{"description": "aider is AI pair programming in your terminal", "language": "Python", "repo": "aider", "new_stars": 1061, "stars": 11636, "owner": "paul-gauthier", "forks": 1095},
-{"description": "Convert PDF to markdown quickly with high accuracy", "language": "Python", "repo": "marker", "new_stars": 1255, "stars": 12426, "owner": "VikParuchuri", "forks": 635},
-{"description": "Translate the video from one language to another and add dubbing. \u5c06\u89c6\u9891\u4ece\u4e00\u79cd\u8bed\u8a00\u7ffb\u8bd1\u4e3a\u53e6\u4e00\u79cd\u8bed\u8a00\uff0c\u5e76\u6dfb\u52a0\u914d\u97f3", "language": "Python", "repo": "pyvideotrans", "new_stars": 514, "stars": 6972, "owner": "jianchang512", "forks": 791},
-{"description": "Generative models for conditional audio generation", "language": "Python", "repo": "stable-audio-tools", "new_stars": 463, "stars": 2029, "owner": "Stability-AI", "forks": 167},
-{"description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.", "language": "Python", "repo": "nanoGPT", "new_stars": 858, "stars": 33774, "owner": "karpathy", "forks": 5137},
-{"description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.", "language": "Python", "repo": "litgpt", "new_stars": 607, "stars": 7844, "owner": "Lightning-AI", "forks": 787},
+{"description": "aider is AI pair programming in your terminal", "language": "Python", "repo": "aider", "new_stars": 1061, "stars": 11641, "owner": "paul-gauthier", "forks": 1096},
+{"description": "Convert PDF to markdown quickly with high accuracy", "language": "Python", "repo": "marker", "new_stars": 1255, "stars": 12427, "owner": "VikParuchuri", "forks": 635},
+{"description": "Translate the video from one language to another and add dubbing. \u5c06\u89c6\u9891\u4ece\u4e00\u79cd\u8bed\u8a00\u7ffb\u8bd1\u4e3a\u53e6\u4e00\u79cd\u8bed\u8a00\uff0c\u5e76\u6dfb\u52a0\u914d\u97f3", "language": "Python", "repo": "pyvideotrans", "new_stars": 514, "stars": 6973, "owner": "jianchang512", "forks": 791},
+{"description": "Generative models for conditional audio generation", "language": "Python", "repo": "stable-audio-tools", "new_stars": 463, "stars": 2031, "owner": "Stability-AI", "forks": 167},
+{"description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.", "language": "Python", "repo": "nanoGPT", "new_stars": 858, "stars": 33776, "owner": "karpathy", "forks": 5137},
+{"description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.", "language": "Python", "repo": "litgpt", "new_stars": 607, "stars": 7845, "owner": "Lightning-AI", "forks": 788},
 {"description": "Unified framework for robot learning built on NVIDIA Isaac Sim", "language": "Python", "repo": "IsaacLab", "new_stars": 177, "stars": 1359, "owner": "isaac-sim", "forks": 386},
 {"description": null, "language": "Python", "repo": "stable-diffusion-webui-forge", "new_stars": 206, "stars": 5129, "owner": "lllyasviel", "forks": 486},
 {"description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed", "language": "Python", "repo": "V2RayAggregator", "new_stars": 427, "stars": 2449, "owner": "mahdibland", "forks": 405},
-{"description": "DSPy: The framework for programming\u2014not prompting\u2014foundation models", "language": "Python", "repo": "dspy", "new_stars": 453, "stars": 12845, "owner": "stanfordnlp", "forks": 981},
-{"description": "Foundational model for human-like, expressive TTS", "language": "Python", "repo": "metavoice-src", "new_stars": 80, "stars": 3307, "owner": "metavoiceio", "forks": 570},
-{"description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.", "language": "Python", "repo": "ComfyUI", "new_stars": 822, "stars": 37818, "owner": "comfyanonymous", "forks": 4022},
-{"description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.", "language": "Python", "repo": "core", "new_stars": 138, "stars": 69413, "owner": "home-assistant", "forks": 28612},
+{"description": "DSPy: The framework for programming\u2014not prompting\u2014foundation models", "language": "Python", "repo": "dspy", "new_stars": 453, "stars": 12849, "owner": "stanfordnlp", "forks": 981},
+{"description": "Foundational model for human-like, expressive TTS", "language": "Python", "repo": "metavoice-src", "new_stars": 80, "stars": 3308, "owner": "metavoiceio", "forks": 570},
+{"description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.", "language": "Python", "repo": "ComfyUI", "new_stars": 822, "stars": 37825, "owner": "comfyanonymous", "forks": 4023},
+{"description": "\ud83c\udfe1 Open source home automation that puts local control and privacy first.", "language": "Python", "repo": "core", "new_stars": 138, "stars": 69413, "owner": "home-assistant", "forks": 28611},
 {"description": "Mamba SSM architecture", "language": "Python", "repo": "mamba", "new_stars": 493, "stars": 11071, "owner": "state-spaces", "forks": 883},
-{"description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs", "language": "Python", "repo": "litestar", "new_stars": 253, "stars": 4934, "owner": "litestar-org", "forks": 345}
+{"description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs", "language": "Python", "repo": "litestar", "new_stars": 253, "stars": 4936, "owner": "litestar-org", "forks": 345}
 ]

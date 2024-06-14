@@ -1,16 +1,16 @@
 [
-{"description": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript", "language": "C++", "repo": "sherpa-onnx", "new_stars": 747, "stars": 1666, "owner": "k2-fsa", "forks": 232},
-{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\u5e95\u5c42\u6846\u67b6\uff0c\u53ef\u63a5\u5165Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 823, "stars": 3005, "owner": "lich0821", "forks": 540},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1902, "stars": 14641, "owner": "LizardByte", "forks": 707},
-{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 2187, "stars": 19297, "owner": "duckdb", "forks": 1588},
+{"description": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript", "language": "C++", "repo": "sherpa-onnx", "new_stars": 747, "stars": 1667, "owner": "k2-fsa", "forks": 232},
+{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\u5e95\u5c42\u6846\u67b6\uff0c\u53ef\u63a5\u5165Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 823, "stars": 3006, "owner": "lich0821", "forks": 540},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1902, "stars": 14644, "owner": "LizardByte", "forks": 707},
+{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 2187, "stars": 19301, "owner": "duckdb", "forks": 1588},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 529, "stars": 9401, "owner": "cameron314", "forks": 1643},
 {"description": "Generative AI extensions for onnxruntime", "language": "C++", "repo": "onnxruntime-genai", "new_stars": 106, "stars": 256, "owner": "microsoft", "forks": 65},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 470, "stars": 5715, "owner": "SoftFever", "forks": 644},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 774, "stars": 59097, "owner": "tesseract-ocr", "forks": 9183},
 {"description": "cuDF - GPU DataFrame Library", "language": "C++", "repo": "cudf", "new_stars": 590, "stars": 7902, "owner": "rapidsai", "forks": 857},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 941, "stars": 57050, "owner": "ocornut", "forks": 9845},
-{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 343, "stars": 13216, "owner": "microsoft", "forks": 2713},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 272, "stars": 19693, "owner": "fmtlib", "forks": 2413},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 941, "stars": 57051, "owner": "ocornut", "forks": 9846},
+{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 343, "stars": 13217, "owner": "microsoft", "forks": 2713},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 272, "stars": 19694, "owner": "fmtlib", "forks": 2413},
 {"description": "Official Transmission BitTorrent client repository", "language": "C++", "repo": "transmission", "new_stars": 166, "stars": 11596, "owner": "transmission", "forks": 1176},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 676, "stars": 76481, "owner": "opencv", "forks": 55640},
 {"description": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of", "language": "C++", "repo": "perfetto", "new_stars": 79, "stars": 2524, "owner": "google", "forks": 323},
@@ -18,5 +18,5 @@
 {"description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows", "language": "C++", "repo": "drogon", "new_stars": 178, "stars": 10958, "owner": "drogonframework", "forks": 1048},
 {"description": "The ultimate Geometry Dash modding framework", "language": "C++", "repo": "geode", "new_stars": 82, "stars": 569, "owner": "geode-sdk", "forks": 97},
 {"description": "Multiphysics Object Oriented Simulation Environment", "language": "C++", "repo": "moose", "new_stars": 43, "stars": 1630, "owner": "idaholab", "forks": 1016},
-{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 527, "stars": 8937, "owner": "moonlight-stream", "forks": 535}
+{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 527, "stars": 8938, "owner": "moonlight-stream", "forks": 536}
 ]

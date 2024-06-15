@@ -1,9 +1,9 @@
 [
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 43, "stars": 64263, "owner": "protocolbuffers", "forks": 15333},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 45, "stars": 27386, "owner": "facebook", "forks": 5451},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 43, "stars": 64266, "owner": "protocolbuffers", "forks": 15333},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 45, "stars": 27388, "owner": "facebook", "forks": 5451},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 7, "stars": 19704, "owner": "fmtlib", "forks": 2414},
-{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 13, "stars": 18689, "owner": "simdjson", "forks": 982},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 14, "stars": 112444, "owner": "electron", "forks": 15068},
+{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 13, "stars": 18690, "owner": "simdjson", "forks": 982},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 14, "stars": 112446, "owner": "electron", "forks": 15068},
 {"description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.", "language": "C++", "repo": "LightGBM", "new_stars": 74, "stars": 16280, "owner": "microsoft", "forks": 3789},
 {"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 525, "stars": 9958, "owner": "NVIDIA", "forks": 2065},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 6, "stars": 22780, "owner": "gabime", "forks": 4329},
@@ -18,8 +18,8 @@
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 6, "stars": 18173, "owner": "catchorg", "forks": 3001},
 {"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 4, "stars": 14136, "owner": "apple", "forks": 1287},
 {"description": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 2, "stars": 41022, "owner": "grpc", "forks": 10412},
-{"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 16, "stars": 18033, "owner": "FreeCAD", "forks": 3837},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 7, "stars": 14172, "owner": "abseil", "forks": 2499},
+{"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 16, "stars": 18034, "owner": "FreeCAD", "forks": 3837},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 7, "stars": 14172, "owner": "abseil", "forks": 2500},
 {"description": "Yoga is an embeddable layout engine targeting web standards.", "language": "C++", "repo": "yoga", "new_stars": 5, "stars": 17023, "owner": "facebook", "forks": 1405},
 {"description": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications", "language": "C++", "repo": "ExpressLRS", "new_stars": 1, "stars": 3248, "owner": "ExpressLRS", "forks": 770}
 ]

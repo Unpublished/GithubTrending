@@ -1,13 +1,13 @@
 [
 {"description": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript", "language": "C++", "repo": "sherpa-onnx", "new_stars": 836, "stars": 1794, "owner": "k2-fsa", "forks": 241},
-{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 2265, "stars": 19438, "owner": "duckdb", "forks": 1595},
+{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 2265, "stars": 19443, "owner": "duckdb", "forks": 1595},
 {"description": "\u5fae\u4fe1\u673a\u5668\u4eba\u5e95\u5c42\u6846\u67b6\uff0c\u53ef\u63a5\u5165Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 812, "stars": 3016, "owner": "lich0821", "forks": 544},
 {"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1848, "stars": 14714, "owner": "LizardByte", "forks": 709},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 530, "stars": 9407, "owner": "cameron314", "forks": 1645},
 {"description": "Generative AI extensions for onnxruntime", "language": "C++", "repo": "onnxruntime-genai", "new_stars": 111, "stars": 258, "owner": "microsoft", "forks": 65},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 272, "stars": 19707, "owner": "fmtlib", "forks": 2414},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 272, "stars": 19708, "owner": "fmtlib", "forks": 2414},
 {"description": "Fix Play Integrity (and SafetyNet) verdicts.", "language": "C++", "repo": "PlayIntegrityFix", "new_stars": 342, "stars": 3736, "owner": "chiteroman", "forks": 193},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 758, "stars": 59131, "owner": "tesseract-ocr", "forks": 9192},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 758, "stars": 59133, "owner": "tesseract-ocr", "forks": 9193},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 462, "stars": 5738, "owner": "SoftFever", "forks": 649},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 939, "stars": 57093, "owner": "ocornut", "forks": 9851},
 {"description": "Official Transmission BitTorrent client repository", "language": "C++", "repo": "transmission", "new_stars": 163, "stars": 11603, "owner": "transmission", "forks": 1177},
@@ -20,5 +20,5 @@
 {"description": "Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of", "language": "C++", "repo": "perfetto", "new_stars": 80, "stars": 2531, "owner": "google", "forks": 323},
 {"description": "Multiphysics Object Oriented Simulation Environment", "language": "C++", "repo": "moose", "new_stars": 47, "stars": 1636, "owner": "idaholab", "forks": 1016},
 {"description": "The ultimate Geometry Dash modding framework", "language": "C++", "repo": "geode", "new_stars": 87, "stars": 578, "owner": "geode-sdk", "forks": 96},
-{"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 773, "stars": 9971, "owner": "NVIDIA", "forks": 2066}
+{"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 773, "stars": 9973, "owner": "NVIDIA", "forks": 2067}
 ]

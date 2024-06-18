@@ -1,13 +1,13 @@
 [
-{"description": "A massively parallel, high-level programming language", "language": "Rust", "repo": "Bend", "new_stars": 15596, "stars": 16369, "owner": "HigherOrderCO", "forks": 403},
+{"description": "A massively parallel, high-level programming language", "language": "Rust", "repo": "Bend", "new_stars": 15596, "stars": 16370, "owner": "HigherOrderCO", "forks": 403},
 {"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 1082, "stars": 28167, "owner": "astral-sh", "forks": 912},
-{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 1037, "stars": 54140, "owner": "alacritty", "forks": 2958},
+{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 1037, "stars": 54141, "owner": "alacritty", "forks": 2958},
 {"description": "Blazingly fast LLM inference.", "language": "Rust", "repo": "mistral.rs", "new_stars": 972, "stars": 2600, "owner": "EricLBuehler", "forks": 202},
 {"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 1097, "stars": 24359, "owner": "tw93", "forks": 4158},
-{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 1021, "stars": 19080, "owner": "zellij-org", "forks": 597},
+{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 1021, "stars": 19081, "owner": "zellij-org", "forks": 597},
 {"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1198, "stars": 79054, "owner": "tauri-apps", "forks": 2347},
 {"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 202, "stars": 13751, "owner": "rust-lang", "forks": 1512},
-{"description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.", "language": "Rust", "repo": "rathole", "new_stars": 936, "stars": 8684, "owner": "rapiz1", "forks": 437},
+{"description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.", "language": "Rust", "repo": "rathole", "new_stars": 936, "stars": 8685, "owner": "rapiz1", "forks": 437},
 {"description": "bloop is a fast code search engine written in Rust.", "language": "Rust", "repo": "bloop", "new_stars": 665, "stars": 9252, "owner": "BloopAI", "forks": 552},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 1157, "stars": 11159, "owner": "quickwit-oss", "forks": 613},
 {"description": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow", "language": "Rust", "repo": "meilisearch", "new_stars": 620, "stars": 44208, "owner": "meilisearch", "forks": 1660},
@@ -15,11 +15,11 @@
 {"description": "\ud83d\udcca Cube \u2014 The Semantic Layer for Building Data Applications", "language": "Rust", "repo": "cube", "new_stars": 199, "stars": 17395, "owner": "cube-js", "forks": 1734},
 {"description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.", "language": "Rust", "repo": "quickwit", "new_stars": 600, "stars": 6807, "owner": "quickwit-oss", "forks": 287},
 {"description": "No Nonsense Neovim Client in Rust", "language": "Rust", "repo": "neovide", "new_stars": 303, "stars": 12271, "owner": "neovide", "forks": 500},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 3275, "stars": 37726, "owner": "zed-industries", "forks": 1942},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 3275, "stars": 37746, "owner": "zed-industries", "forks": 1943},
 {"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 625, "stars": 13058, "owner": "neondatabase", "forks": 359},
 {"description": "A performant, 100% open-source, contributor-friendly zkVM.", "language": "Rust", "repo": "sp1", "new_stars": 84, "stars": 781, "owner": "succinctlabs", "forks": 211},
 {"description": "\u2604\ud83c\udf0c\ufe0f The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 762, "stars": 41895, "owner": "starship", "forks": 1805},
 {"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 165, "stars": 7786, "owner": "foundry-rs", "forks": 1538},
 {"description": "The Parity Polkadot Blockchain SDK", "language": "Rust", "repo": "polkadot-sdk", "new_stars": 110, "stars": 1587, "owner": "paritytech", "forks": 545},
-{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 668, "stars": 27228, "owner": "pola-rs", "forks": 1668}
+{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 668, "stars": 27229, "owner": "pola-rs", "forks": 1668}
 ]

@@ -6,7 +6,7 @@
 {"description": "Create and modify Xcode projects from Ruby.", "language": "Ruby", "repo": "Xcodeproj", "new_stars": 2, "stars": 2318, "owner": "CocoaPods", "forks": 450},
 {"description": "RSpec for Rails 6+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 4, "stars": 5135, "owner": "rspec", "forks": 1026},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 20, "stars": 11936, "owner": "github-linguist", "forks": 4121},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 27, "stars": 13357, "owner": "Homebrew", "forks": 12142},
+{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 27, "stars": 13358, "owner": "Homebrew", "forks": 12142},
 {"description": "The Rails application that powers OpenStreetMap", "language": "Ruby", "repo": "openstreetmap-website", "new_stars": 8, "stars": 2068, "owner": "openstreetmap", "forks": 904},
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 52, "stars": 48546, "owner": "jekyll", "forks": 9909},
 {"description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Build any eCommerce solution that your business requires.", "language": "Ruby", "repo": "spree", "new_stars": 16, "stars": 12730, "owner": "spree", "forks": 4920},
@@ -20,5 +20,8 @@
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 9, "stars": 8200, "owner": "varvet", "forks": 624},
 {"description": "Provides a readable API to express expected outcomes of a code example", "language": "Ruby", "repo": "rspec-expectations", "new_stars": 0, "stars": 1250, "owner": "rspec", "forks": 398},
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 32, "stars": 38791, "owner": "fastlane", "forks": 5634},
-{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 21, "stars": 20662, "owner": "Homebrew", "forks": 10603}
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 21, "stars": 20662, "owner": "Homebrew", "forks": 10603},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 4, "stars": 8200, "owner": "heartcombo", "forks": 1313},
+{"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 3, "stars": 9839, "owner": "ruby-grape", "forks": 1214},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 37, "stars": 25987, "owner": "hashicorp", "forks": 4411}
 ]

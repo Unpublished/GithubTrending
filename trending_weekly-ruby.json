@@ -1,9 +1,9 @@
 [
-{"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 968, "stars": 28201, "owner": "maybe-finance", "forks": 2151},
-{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 62, "stars": 34201, "owner": "freeCodeCamp", "forks": 2284},
+{"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 968, "stars": 28202, "owner": "maybe-finance", "forks": 2151},
+{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 62, "stars": 34202, "owner": "freeCodeCamp", "forks": 2284},
 {"description": "The Rails application that powers OpenStreetMap", "language": "Ruby", "repo": "openstreetmap-website", "new_stars": 8, "stars": 2070, "owner": "openstreetmap", "forks": 905},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 83, "stars": 55231, "owner": "rails", "forks": 21403},
-{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 30, "stars": 38792, "owner": "fastlane", "forks": 5634},
+{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 30, "stars": 38793, "owner": "fastlane", "forks": 5634},
 {"description": "Download an entire website from the Wayback Machine.", "language": "Ruby", "repo": "wayback-machine-downloader", "new_stars": 22, "stars": 5146, "owner": "hartator", "forks": 671},
 {"description": "Create and modify Xcode projects from Ruby.", "language": "Ruby", "repo": "Xcodeproj", "new_stars": 2, "stars": 2318, "owner": "CocoaPods", "forks": 450},
 {"description": "RSpec for Rails 6+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 4, "stars": 5135, "owner": "rspec", "forks": 1026},
@@ -11,11 +11,14 @@
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 12, "stars": 23808, "owner": "heartcombo", "forks": 5536},
 {"description": "Ruby FFI", "language": "Ruby", "repo": "ffi", "new_stars": 0, "stars": 2064, "owner": "ffi", "forks": 331},
 {"description": "\ud83d\uded2 Solidus, the open-source eCommerce framework for industry trailblazers.", "language": "Ruby", "repo": "solidus", "new_stars": 4, "stars": 4932, "owner": "solidusio", "forks": 1278},
+{"description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Build any eCommerce solution that your business requires.", "language": "Ruby", "repo": "spree", "new_stars": 16, "stars": 12733, "owner": "spree", "forks": 4920},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 11, "stars": 13017, "owner": "sidekiq", "forks": 2386},
 {"description": "A guide to contributing to open source", "language": "Ruby", "repo": "how-to-contribute-to-open-source", "new_stars": 16, "stars": 8593, "owner": "freeCodeCamp", "forks": 1789},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 27, "stars": 13362, "owner": "Homebrew", "forks": 12144},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 68, "stars": 33170, "owner": "rapid7", "forks": 13778},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 68, "stars": 33171, "owner": "rapid7", "forks": 13778},
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 52, "stars": 48551, "owner": "jekyll", "forks": 9907},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 13, "stars": 23653, "owner": "gitlabhq", "forks": 5715},
-{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 14, "stars": 1587, "owner": "rails", "forks": 89}
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 22, "stars": 11938, "owner": "github-linguist", "forks": 4122},
+{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 14, "stars": 1587, "owner": "rails", "forks": 89},
+{"description": "A ruby implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard.", "language": "Ruby", "repo": "ruby-jwt", "new_stars": 1, "stars": 3562, "owner": "jwt", "forks": 374},
+{"description": "Simple, but flexible HTTP client library, with support for multiple backends.", "language": "Ruby", "repo": "faraday", "new_stars": 6, "stars": 5683, "owner": "lostisland", "forks": 969}
 ]

@@ -1,6 +1,6 @@
 [
-{"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 57, "stars": 32328, "owner": "carbon-language", "forks": 1476},
-{"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 33, "stars": 2575, "owner": "ton-blockchain", "forks": 708},
+{"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 57, "stars": 32329, "owner": "carbon-language", "forks": 1476},
+{"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 33, "stars": 2576, "owner": "ton-blockchain", "forks": 708},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 211, "stars": 22492, "owner": "google", "forks": 3185},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 101, "stars": 13379, "owner": "microsoft", "forks": 2741},
 {"description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)", "language": "C++", "repo": "PrusaSlicer", "new_stars": 27, "stars": 7484, "owner": "prusa3d", "forks": 1893},
@@ -8,17 +8,17 @@
 {"description": "HarfBuzz text shaping engine", "language": "C++", "repo": "harfbuzz", "new_stars": 80, "stars": 3788, "owner": "harfbuzz", "forks": 600},
 {"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 151, "stars": 116836, "owner": "facebook", "forks": 24045},
 {"description": "A fast, small, safe, gradually typed embeddable scripting language derived from Lua", "language": "C++", "repo": "luau", "new_stars": 35, "stars": 3778, "owner": "luau-lang", "forks": 344},
-{"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 44, "stars": 7978, "owner": "esphome", "forks": 3317},
-{"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 58, "stars": 6105, "owner": "azerothcore", "forks": 2448},
+{"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 44, "stars": 7978, "owner": "esphome", "forks": 3318},
+{"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 58, "stars": 6106, "owner": "azerothcore", "forks": 2448},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 32, "stars": 10593, "owner": "PCSX2", "forks": 1539},
-{"description": "Open source real-time translation app for Android that runs locally", "language": "C++", "repo": "RTranslator", "new_stars": 3725, "stars": 4398, "owner": "niedev", "forks": 328},
+{"description": "Open source real-time translation app for Android that runs locally", "language": "C++", "repo": "RTranslator", "new_stars": 3725, "stars": 4402, "owner": "niedev", "forks": 328},
 {"description": "Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.", "language": "C++", "repo": "zeek", "new_stars": 117, "stars": 6161, "owner": "zeek", "forks": 1189},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 176, "stars": 66632, "owner": "swiftlang", "forks": 10277},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 324, "stars": 183792, "owner": "tensorflow", "forks": 74026},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 324, "stars": 183793, "owner": "tensorflow", "forks": 74027},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 100, "stars": 5873, "owner": "SoftFever", "forks": 670},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 33, "stars": 18209, "owner": "catchorg", "forks": 3008},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 40, "stars": 10777, "owner": "carla-simulator", "forks": 3467},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 137, "stars": 29202, "owner": "facebookresearch", "forks": 3467},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 292, "stars": 86119, "owner": "godotengine", "forks": 19130},
-{"description": "YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.", "language": "C++", "repo": "YimMenu", "new_stars": 15, "stars": 1139, "owner": "YimMenu", "forks": 913}
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 292, "stars": 86119, "owner": "godotengine", "forks": 19133},
+{"description": "YimMenu, a GTA V menu protecting against a wide ranges of the public crashes and improving the overall experience.", "language": "C++", "repo": "YimMenu", "new_stars": 15, "stars": 1140, "owner": "YimMenu", "forks": 914}
 ]

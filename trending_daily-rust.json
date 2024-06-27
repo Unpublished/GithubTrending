@@ -1,11 +1,11 @@
 [
-{"description": "Extremely fast Vite-compatible web build tool written in Rust", "language": "Rust", "repo": "farm", "new_stars": 152, "stars": 3680, "owner": "farm-fe", "forks": 131},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 6, "stars": 17206, "owner": "uutils", "forks": 1232},
-{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 162, "stars": 10984, "owner": "sxyazi", "forks": 260},
+{"description": "Extremely fast Vite-compatible web build tool written in Rust", "language": "Rust", "repo": "farm", "new_stars": 152, "stars": 3684, "owner": "farm-fe", "forks": 131},
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 6, "stars": 17207, "owner": "uutils", "forks": 1232},
+{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 162, "stars": 10986, "owner": "sxyazi", "forks": 260},
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 12, "stars": 11269, "owner": "quickwit-oss", "forks": 616},
 {"description": "Fast Rust bundler for JavaScript with Rollup-compatible API.", "language": "Rust", "repo": "rolldown", "new_stars": 32, "stars": 7125, "owner": "rolldown", "forks": 407},
-{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 10, "stars": 20174, "owner": "cloudflare", "forks": 1098},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 30, "stars": 33391, "owner": "bevyengine", "forks": 3257},
+{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 10, "stars": 20173, "owner": "cloudflare", "forks": 1098},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 30, "stars": 33392, "owner": "bevyengine", "forks": 3257},
 {"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 13, "stars": 13151, "owner": "neondatabase", "forks": 368},
 {"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces, RUM, Error tracking, Session replay).", "language": "Rust", "repo": "openobserve", "new_stars": 8, "stars": 10166, "owner": "openobserve", "forks": 357},
 {"description": "An operating system designed for hosting containers", "language": "Rust", "repo": "bottlerocket", "new_stars": 8, "stars": 8363, "owner": "bottlerocket-os", "forks": 497},
@@ -19,6 +19,6 @@
 {"description": "A modern TLS library in Rust", "language": "Rust", "repo": "rustls", "new_stars": 11, "stars": 5680, "owner": "rustls", "forks": 606},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 24, "stars": 4445, "owner": "librespot-org", "forks": 534},
 {"description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f", "language": "Rust", "repo": "sniffnet", "new_stars": 12, "stars": 14320, "owner": "GyulyVGC", "forks": 436},
-{"description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.", "language": "Rust", "repo": "comprehensive-rust", "new_stars": 12, "stars": 26656, "owner": "google", "forks": 1574},
-{"description": "Scalable datastore for metrics, events, and real-time analytics", "language": "Rust", "repo": "influxdb", "new_stars": 13, "stars": 28137, "owner": "influxdata", "forks": 3504}
+{"description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.", "language": "Rust", "repo": "comprehensive-rust", "new_stars": 12, "stars": 26657, "owner": "google", "forks": 1574},
+{"description": "Scalable datastore for metrics, events, and real-time analytics", "language": "Rust", "repo": "influxdb", "new_stars": 13, "stars": 28139, "owner": "influxdata", "forks": 3504}
 ]

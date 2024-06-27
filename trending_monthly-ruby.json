@@ -1,17 +1,18 @@
 [
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 324, "stars": 55244, "owner": "rails", "forks": 21406},
-{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 387, "stars": 40026, "owner": "Homebrew", "forks": 9380},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 387, "stars": 40027, "owner": "Homebrew", "forks": 9381},
 {"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 1293, "stars": 28246, "owner": "maybe-finance", "forks": 2154},
 {"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 267, "stars": 9359, "owner": "basecamp", "forks": 356},
 {"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 660, "stars": 19543, "owner": "chatwoot", "forks": 3097},
-{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 105, "stars": 20672, "owner": "Homebrew", "forks": 10602},
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 105, "stars": 20672, "owner": "Homebrew", "forks": 10603},
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 221, "stars": 34230, "owner": "freeCodeCamp", "forks": 2286},
 {"description": "\ud83d\udce6 Bundler for non-Ruby dependencies from Homebrew, Homebrew Cask and the Mac App Store.", "language": "Ruby", "repo": "homebrew-bundle", "new_stars": 59, "stars": 5199, "owner": "Homebrew", "forks": 277},
 {"description": "Ruby FFI", "language": "Ruby", "repo": "ffi", "new_stars": 7, "stars": 2067, "owner": "ffi", "forks": 331},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 104, "stars": 13372, "owner": "Homebrew", "forks": 12155},
+{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 104, "stars": 13371, "owner": "Homebrew", "forks": 12155},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 323, "stars": 41040, "owner": "discourse", "forks": 8194},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 62, "stars": 5403, "owner": "instructure", "forks": 2419},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 256, "stars": 46313, "owner": "mastodon", "forks": 6779},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 256, "stars": 46313, "owner": "mastodon", "forks": 6780},
+{"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 61, "stars": 10907, "owner": "Shopify", "forks": 1366},
 {"description": "Download an entire website from the Wayback Machine.", "language": "Ruby", "repo": "wayback-machine-downloader", "new_stars": 66, "stars": 5154, "owner": "hartator", "forks": 673},
 {"description": "A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.", "language": "Ruby", "repo": "gollum", "new_stars": 73, "stars": 13657, "owner": "gollum", "forks": 1568},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 88, "stars": 11939, "owner": "github-linguist", "forks": 4126},
@@ -19,5 +20,6 @@
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 34, "stars": 11176, "owner": "faker-ruby", "forks": 3178},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 27, "stars": 3580, "owner": "rubygems", "forks": 1713},
 {"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 143, "stars": 21725, "owner": "ruby", "forks": 5277},
-{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 206, "stars": 48570, "owner": "jekyll", "forks": 9911}
+{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 206, "stars": 48570, "owner": "jekyll", "forks": 9910},
+{"description": "RSpec for Rails 6+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 18, "stars": 5137, "owner": "rspec", "forks": 1026}
 ]

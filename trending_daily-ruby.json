@@ -4,10 +4,16 @@
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 6, "stars": 33221, "owner": "rapid7", "forks": 13788},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 1, "stars": 3601, "owner": "github", "forks": 1310},
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 5, "stars": 48575, "owner": "jekyll", "forks": 9916},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 2, "stars": 11942, "owner": "github-linguist", "forks": 4130},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 8, "stars": 19564, "owner": "chatwoot", "forks": 3113},
 {"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 995, "owner": "rubysec", "forks": 218},
+{"description": "Provides a readable API to express expected outcomes of a code example", "language": "Ruby", "repo": "rspec-expectations", "new_stars": 0, "stars": 1250, "owner": "rspec", "forks": 399},
 {"description": "A privacy-aware, distributed, open source social network.", "language": "Ruby", "repo": "diaspora", "new_stars": 0, "stars": 13360, "owner": "diaspora", "forks": 2917},
+{"description": "A BOSH release for haproxy (based on cf-release's haproxy job)", "language": "Ruby", "repo": "haproxy-boshrelease", "new_stars": 0, "stars": 37, "owner": "cloudfoundry", "forks": 82},
 {"description": "\ud83d\udeab Stop saying \"you forgot to \u2026\" in code review (in Ruby)", "language": "Ruby", "repo": "danger", "new_stars": 0, "stars": 5385, "owner": "danger", "forks": 477},
+{"description": "Headless Chrome/Chromium driver for Capybara", "language": "Ruby", "repo": "cuprite", "new_stars": 0, "stars": 1216, "owner": "rubycdp", "forks": 91},
 {"description": "Sprockets Rails integration", "language": "Ruby", "repo": "sprockets-rails", "new_stars": 0, "stars": 573, "owner": "rails", "forks": 244},
 {"description": "Claim for Crown Court Defence, formerly Advocate Defence Payments (ADP), aka Crime Billing Online (CBO)", "language": "Ruby", "repo": "Claim-for-Crown-Court-Defence", "new_stars": 0, "stars": 25, "owner": "ministryofjustice", "forks": 7},
-{"description": "Rails 6 re-write of Coursemology", "language": "Ruby", "repo": "coursemology2", "new_stars": 0, "stars": 143, "owner": "Coursemology", "forks": 75}
+{"description": "Rails 6 re-write of Coursemology", "language": "Ruby", "repo": "coursemology2", "new_stars": 0, "stars": 143, "owner": "Coursemology", "forks": 75},
+{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 7530, "owner": "chef", "forks": 2506}
 ]

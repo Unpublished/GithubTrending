@@ -1,7 +1,7 @@
 [
 {"description": "Official Transmission BitTorrent client repository", "language": "C++", "repo": "transmission", "new_stars": 5, "stars": 11730, "owner": "transmission", "forks": 1184},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 106, "stars": 86550, "owner": "godotengine", "forks": 19275},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 63, "stars": 66789, "owner": "swiftlang", "forks": 10290},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 106, "stars": 86549, "owner": "godotengine", "forks": 19275},
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 63, "stars": 66791, "owner": "swiftlang", "forks": 10290},
 {"description": "Code repository of all OpenGL chapters from the book and its accompanying website", "language": "C++", "repo": "LearnOpenGL", "new_stars": 8, "stars": 10559, "owner": "JoeyDeVries", "forks": 2725},
 {"description": "Cross-Platform C++ GUI Library", "language": "C++", "repo": "wxWidgets", "new_stars": 3, "stars": 5905, "owner": "wxWidgets", "forks": 1729},
 {"description": "privkey hunt for crypto currencies that use secp256k1 elliptic curve", "language": "C++", "repo": "keyhunt", "new_stars": 63, "stars": 542, "owner": "albertobsd", "forks": 297},
@@ -9,15 +9,15 @@
 {"description": "Vulkan-based implementation of D3D9, D3D10 and D3D11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 14, "stars": 12284, "owner": "doitsujin", "forks": 786},
 {"description": "A free and strong UCI chess engine", "language": "C++", "repo": "Stockfish", "new_stars": 6, "stars": 10846, "owner": "official-stockfish", "forks": 2204},
 {"description": "STM32/ESP32/ESP8285-based High-Performance Radio Link for RC applications", "language": "C++", "repo": "ExpressLRS", "new_stars": 2, "stars": 3403, "owner": "ExpressLRS", "forks": 802},
-{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 7, "stars": 12555, "owner": "MaaAssistantArknights", "forks": 1666},
+{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 14, "stars": 12556, "owner": "MaaAssistantArknights", "forks": 1666},
 {"description": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 7, "stars": 18258, "owner": "FreeCAD", "forks": 3871},
-{"description": "An open source re-implementation of RollerCoaster Tycoon 2 \ud83c\udfa2", "language": "C++", "repo": "OpenRCT2", "new_stars": 6, "stars": 13134, "owner": "OpenRCT2", "forks": 1503},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 28, "stars": 15549, "owner": "LizardByte", "forks": 747},
+{"description": "An open source re-implementation of RollerCoaster Tycoon 2 \ud83c\udfa2", "language": "C++", "repo": "OpenRCT2", "new_stars": 6, "stars": 13136, "owner": "OpenRCT2", "forks": 1503},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 28, "stars": 15552, "owner": "LizardByte", "forks": 747},
 {"description": "PS3 emulator/debugger", "language": "C++", "repo": "rpcs3", "new_stars": 4, "stars": 14689, "owner": "RPCS3", "forks": 1862},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 21, "stars": 25957, "owner": "qbittorrent", "forks": 3823},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 21, "stars": 25958, "owner": "qbittorrent", "forks": 3823},
 {"description": "Utility to convert between various subscription format", "language": "C++", "repo": "subconverter", "new_stars": 11, "stars": 12411, "owner": "tindy2013", "forks": 2632},
-{"description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 15, "stars": 11304, "owner": "MatsuriDayo", "forks": 1116},
+{"description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 19, "stars": 11306, "owner": "MatsuriDayo", "forks": 1116},
 {"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 4, "stars": 6732, "owner": "tdlib", "forks": 1373},
 {"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 6, "stars": 12985, "owner": "espressif", "forks": 7294},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 57, "stars": 112826, "owner": "electron", "forks": 15127}
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 57, "stars": 112828, "owner": "electron", "forks": 15127}
 ]

@@ -1,9 +1,9 @@
 [
 {"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 13, "stars": 18368, "owner": "TabbyML", "forks": 775},
-{"description": "a Hassle-Free Python Experience", "language": "Rust", "repo": "rye", "new_stars": 129, "stars": 12474, "owner": "astral-sh", "forks": 434},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 48, "stars": 33981, "owner": "bevyengine", "forks": 3314},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 92, "stars": 39823, "owner": "zed-industries", "forks": 2080},
-{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 6, "stars": 9352, "owner": "hyperium", "forks": 961},
+{"description": "a Hassle-Free Python Experience", "language": "Rust", "repo": "rye", "new_stars": 129, "stars": 12475, "owner": "astral-sh", "forks": 435},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 48, "stars": 33984, "owner": "bevyengine", "forks": 3314},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 92, "stars": 39831, "owner": "zed-industries", "forks": 2080},
+{"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 6, "stars": 9353, "owner": "hyperium", "forks": 961},
 {"description": "An extremely fast Python package installer and resolver, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 90, "stars": 14922, "owner": "astral-sh", "forks": 421},
 {"description": "\ud83d\udc41\u200d\ud83d\udde8 Rare and exotic sats", "language": "Rust", "repo": "ord", "new_stars": 5, "stars": 3748, "owner": "ordinals", "forks": 1309},
 {"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 30, "stars": 16557, "owner": "gleam-lang", "forks": 694},
@@ -12,12 +12,12 @@
 {"description": "Apache DataFusion SQL Query Engine", "language": "Rust", "repo": "datafusion", "new_stars": 10, "stars": 5534, "owner": "apache", "forks": 1030},
 {"description": "Postgres for Search and Analytics", "language": "Rust", "repo": "paradedb", "new_stars": 9, "stars": 4756, "owner": "paradedb", "forks": 127},
 {"description": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.", "language": "Rust", "repo": "rerun", "new_stars": 18, "stars": 5728, "owner": "rerun-io", "forks": 258},
-{"description": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow", "language": "Rust", "repo": "meilisearch", "new_stars": 36, "stars": 45194, "owner": "meilisearch", "forks": 1705},
+{"description": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow", "language": "Rust", "repo": "meilisearch", "new_stars": 36, "stars": 45195, "owner": "meilisearch", "forks": 1705},
 {"description": "A collection of Solana programs maintained by Solana Labs", "language": "Rust", "repo": "solana-program-library", "new_stars": 4, "stars": 3260, "owner": "solana-labs", "forks": 1948},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 14, "stars": 24546, "owner": "firecracker-microvm", "forks": 1724},
 {"description": "Package management made easy", "language": "Rust", "repo": "pixi", "new_stars": 21, "stars": 2317, "owner": "prefix-dev", "forks": 135},
-{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 36, "stars": 27953, "owner": "pola-rs", "forks": 1714},
+{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 36, "stars": 27954, "owner": "pola-rs", "forks": 1714},
 {"description": "Apache OpenDAL: access data freely.", "language": "Rust", "repo": "opendal", "new_stars": 5, "stars": 3028, "owner": "apache", "forks": 420},
 {"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 11, "stars": 3538, "owner": "paradigmxyz", "forks": 916},
-{"description": "Official Rust implementation of Apache Arrow", "language": "Rust", "repo": "arrow-rs", "new_stars": 4, "stars": 2338, "owner": "apache", "forks": 686}
+{"description": "Official Rust implementation of Apache Arrow", "language": "Rust", "repo": "arrow-rs", "new_stars": 4, "stars": 2339, "owner": "apache", "forks": 686}
 ]

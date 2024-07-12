@@ -1,18 +1,18 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 12, "stars": 8717, "owner": "opf", "forks": 2214},
-{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 7, "stars": 21760, "owner": "ruby", "forks": 5288},
+{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 7, "stars": 21759, "owner": "ruby", "forks": 5288},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 3, "stars": 4530, "owner": "dependabot", "forks": 947},
-{"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 4, "stars": 23690, "owner": "gitlabhq", "forks": 5719},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 55319, "owner": "rails", "forks": 21422},
+{"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 4, "stars": 23691, "owner": "gitlabhq", "forks": 5719},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 55318, "owner": "rails", "forks": 21422},
 {"description": "API powering VA.gov", "language": "Ruby", "repo": "vets-api", "new_stars": 0, "stars": 195, "owner": "department-of-veterans-affairs", "forks": 60},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 12708, "owner": "fluent", "forks": 1329},
-{"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 4, "stars": 1412, "owner": "Shopify", "forks": 128},
+{"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 4, "stars": 1412, "owner": "Shopify", "forks": 129},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 23836, "owner": "heartcombo", "forks": 5533},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 299, "owner": "DataDog", "forks": 368},
 {"description": "RSpec runner and formatters", "language": "Ruby", "repo": "rspec-core", "new_stars": 0, "stars": 1216, "owner": "rspec", "forks": 762},
 {"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 4, "stars": 1619, "owner": "rails", "forks": 91},
 {"description": "Simple one-liner tests for common Rails functionality", "language": "Ruby", "repo": "shoulda-matchers", "new_stars": 0, "stars": 3491, "owner": "thoughtbot", "forks": 912},
-{"description": "Open Source Metering and Usage Based Billing", "language": "Ruby", "repo": "lago-api", "new_stars": 0, "stars": 314, "owner": "getlago", "forks": 93},
+{"description": "Open Source Metering and Usage Based Billing", "language": "Ruby", "repo": "lago-api", "new_stars": 0, "stars": 315, "owner": "getlago", "forks": 93},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 8, "stars": 13410, "owner": "Homebrew", "forks": 12183},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 2, "stars": 9469, "owner": "activeadmin", "forks": 3297},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5323, "owner": "rails-api", "forks": 1391},
@@ -21,5 +21,6 @@
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 1, "stars": 9991, "owner": "teamcapybara", "forks": 1445},
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 38861, "owner": "fastlane", "forks": 5642},
 {"description": "Open Source Event Manager. An event management tool tailored to Free and Open Source Software conferences.", "language": "Ruby", "repo": "osem", "new_stars": 0, "stars": 861, "owner": "openSUSE", "forks": 491},
-{"description": null, "language": "Ruby", "repo": "datadog-api-client-ruby", "new_stars": 0, "stars": 35, "owner": "DataDog", "forks": 17}
+{"description": null, "language": "Ruby", "repo": "datadog-api-client-ruby", "new_stars": 0, "stars": 35, "owner": "DataDog", "forks": 17},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 10, "stars": 33315, "owner": "rapid7", "forks": 13804}
 ]

@@ -1,16 +1,16 @@
 [
 {"description": "Fast Rust bundler for JavaScript with Rollup-compatible API.", "language": "Rust", "repo": "rolldown", "new_stars": 118, "stars": 7383, "owner": "rolldown", "forks": 419},
 {"description": "Anki's shared backend and web components, and the Qt frontend", "language": "Rust", "repo": "anki", "new_stars": 77, "stars": 17839, "owner": "ankitects", "forks": 2054},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 1774, "stars": 41407, "owner": "zed-industries", "forks": 2174},
-{"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 648, "stars": 19182, "owner": "TabbyML", "forks": 877},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 1774, "stars": 41424, "owner": "zed-industries", "forks": 2176},
+{"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 648, "stars": 19201, "owner": "TabbyML", "forks": 879},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 421, "stars": 34114, "owner": "bevyengine", "forks": 3323},
-{"description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.", "language": "Rust", "repo": "quickwit", "new_stars": 315, "stars": 7314, "owner": "quickwit-oss", "forks": 298},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 215, "stars": 34980, "owner": "dani-garcia", "forks": 1702},
-{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 82, "stars": 93443, "owner": "denoland", "forks": 5184},
-{"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 206, "stars": 31405, "owner": "helix-editor", "forks": 2329},
+{"description": "Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.", "language": "Rust", "repo": "quickwit", "new_stars": 315, "stars": 7315, "owner": "quickwit-oss", "forks": 298},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 215, "stars": 34981, "owner": "dani-garcia", "forks": 1703},
+{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 82, "stars": 93445, "owner": "denoland", "forks": 5184},
+{"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 206, "stars": 31406, "owner": "helix-editor", "forks": 2330},
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 141, "stars": 33838, "owner": "lapce", "forks": 1004},
 {"description": "a Hassle-Free Python Experience", "language": "Rust", "repo": "rye", "new_stars": 437, "stars": 12630, "owner": "astral-sh", "forks": 438},
-{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 243, "stars": 79843, "owner": "tauri-apps", "forks": 2373},
+{"description": "Build smaller, faster, and more secure desktop applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 243, "stars": 79845, "owner": "tauri-apps", "forks": 2373},
 {"description": "\ud835\uddd7\ud835\uddee\ud835\ude01\ud835\uddee, \ud835\uddd4\ud835\uddfb\ud835\uddee\ud835\uddf9\ud835\ude06\ud835\ude01\ud835\uddf6\ud835\uddf0\ud835\ude00 & \ud835\uddd4\ud835\udddc. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics.", "language": "Rust", "repo": "databend", "new_stars": 69, "stars": 7492, "owner": "datafuselabs", "forks": 717},
 {"description": "Apache DataFusion SQL Query Engine", "language": "Rust", "repo": "datafusion", "new_stars": 64, "stars": 5573, "owner": "apache", "forks": 1035},
 {"description": "Postgres for Search and Analytics", "language": "Rust", "repo": "paradedb", "new_stars": 109, "stars": 4841, "owner": "paradedb", "forks": 130},
@@ -18,6 +18,6 @@
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 84, "stars": 9410, "owner": "hyperium", "forks": 966},
 {"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 48, "stars": 3565, "owner": "paradigmxyz", "forks": 925},
 {"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 155, "stars": 16648, "owner": "gleam-lang", "forks": 696},
-{"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 151, "stars": 18675, "owner": "casey", "forks": 425},
-{"description": "Light LDAP implementation", "language": "Rust", "repo": "lldap", "new_stars": 177, "stars": 3859, "owner": "lldap", "forks": 178}
+{"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 151, "stars": 18676, "owner": "casey", "forks": 425},
+{"description": "Light LDAP implementation", "language": "Rust", "repo": "lldap", "new_stars": 177, "stars": 3862, "owner": "lldap", "forks": 178}
 ]

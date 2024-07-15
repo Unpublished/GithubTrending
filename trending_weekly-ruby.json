@@ -1,8 +1,11 @@
 [
-{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 196, "stars": 30131, "owner": "kilimchoi", "forks": 1481},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 85, "stars": 41204, "owner": "discourse", "forks": 8209},
+{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 196, "stars": 30132, "owner": "kilimchoi", "forks": 1481},
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 85, "stars": 41205, "owner": "discourse", "forks": 8209},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 25, "stars": 11973, "owner": "github-linguist", "forks": 4146},
 {"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 22, "stars": 1416, "owner": "Shopify", "forks": 129},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 65, "stars": 19707, "owner": "chatwoot", "forks": 3150},
+{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 33, "stars": 1642, "owner": "rails", "forks": 91},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 25, "stars": 26035, "owner": "hashicorp", "forks": 4420},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 19, "stars": 23694, "owner": "gitlabhq", "forks": 5720},
 {"description": "Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 23, "stars": 2529, "owner": "bensheldon", "forks": 190},
 {"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 31, "stars": 21762, "owner": "ruby", "forks": 5292},
@@ -15,7 +18,7 @@
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 7536, "owner": "chef", "forks": 2508},
 {"description": "The Rails application that powers OpenStreetMap", "language": "Ruby", "repo": "openstreetmap-website", "new_stars": 12, "stars": 2097, "owner": "openstreetmap", "forks": 907},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 1, "stars": 300, "owner": "DataDog", "forks": 368},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 17, "stars": 23840, "owner": "heartcombo", "forks": 5532},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 17, "stars": 23841, "owner": "heartcombo", "forks": 5532},
 {"description": null, "language": "Ruby", "repo": "datadog-api-client-ruby", "new_stars": 0, "stars": 35, "owner": "DataDog", "forks": 17},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 65, "stars": 46417, "owner": "mastodon", "forks": 6801},
 {"description": "The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to", "language": "Ruby", "repo": "git-scm.com", "new_stars": 1, "stars": 2156, "owner": "git", "forks": 1201}

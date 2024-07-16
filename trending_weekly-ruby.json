@@ -3,7 +3,8 @@
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 83, "stars": 41208, "owner": "discourse", "forks": 8209},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 28, "stars": 11973, "owner": "github-linguist", "forks": 4146},
 {"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 22, "stars": 1416, "owner": "Shopify", "forks": 129},
-{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 34, "stars": 1643, "owner": "rails", "forks": 91},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 61, "stars": 19708, "owner": "chatwoot", "forks": 3152},
+{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 34, "stars": 1644, "owner": "rails", "forks": 91},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 27, "stars": 26037, "owner": "hashicorp", "forks": 4420},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 19, "stars": 23695, "owner": "gitlabhq", "forks": 5720},
 {"description": "Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 15, "stars": 2529, "owner": "bensheldon", "forks": 190},
@@ -18,6 +19,6 @@
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 1, "stars": 300, "owner": "DataDog", "forks": 368},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 16, "stars": 23842, "owner": "heartcombo", "forks": 5532},
 {"description": null, "language": "Ruby", "repo": "datadog-api-client-ruby", "new_stars": 0, "stars": 35, "owner": "DataDog", "forks": 17},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 62, "stars": 46419, "owner": "mastodon", "forks": 6802},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 62, "stars": 46419, "owner": "mastodon", "forks": 6803},
 {"description": "The git-scm.com website. Note that this repository is only for the website; issues with git itself should go to", "language": "Ruby", "repo": "git-scm.com", "new_stars": 1, "stars": 2156, "owner": "git", "forks": 1201}
 ]

@@ -1,9 +1,9 @@
 [
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 7, "stars": 38875, "owner": "fastlane", "forks": 5643},
 {"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 17, "stars": 40231, "owner": "Homebrew", "forks": 9441},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 6, "stars": 13417, "owner": "Homebrew", "forks": 12198},
+{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 6, "stars": 13417, "owner": "Homebrew", "forks": 12199},
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 1, "stars": 10939, "owner": "Shopify", "forks": 1370},
-{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 8, "stars": 48661, "owner": "jekyll", "forks": 9923},
+{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 8, "stars": 48660, "owner": "jekyll", "forks": 9923},
 {"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 4, "stars": 1423, "owner": "Shopify", "forks": 128},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 2, "stars": 9994, "owner": "teamcapybara", "forks": 1445},
 {"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 0, "stars": 14496, "owner": "CocoaPods", "forks": 2620},
@@ -16,11 +16,5 @@
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 7, "stars": 33348, "owner": "rapid7", "forks": 13813},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 2, "stars": 12710, "owner": "fluent", "forks": 1329},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 0, "stars": 20702, "owner": "Homebrew", "forks": 10599},
-{"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 3, "stars": 5279, "owner": "doorkeeper-gem", "forks": 1061},
-{"description": "Whitelist dependencies files for mobile teams", "language": "Ruby", "repo": "mobile-dependencies_whitelist", "new_stars": 0, "stars": 21, "owner": "mercadolibre", "forks": 582},
-{"description": "Server automation framework and application", "language": "Ruby", "repo": "puppet", "new_stars": 1, "stars": 7331, "owner": "puppetlabs", "forks": 2184},
-{"description": "Fast, Nimble PDF Writer for Ruby", "language": "Ruby", "repo": "prawn", "new_stars": 1, "stars": 4633, "owner": "prawnpdf", "forks": 686},
-{"description": "Intelligent search made easy", "language": "Ruby", "repo": "searchkick", "new_stars": 0, "stars": 6440, "owner": "ankane", "forks": 748},
-{"description": "Informative site with EoL dates of everything", "language": "Ruby", "repo": "endoflife.date", "new_stars": 3, "stars": 2322, "owner": "endoflife-date", "forks": 692},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 6, "stars": 55335, "owner": "rails", "forks": 21427}
+{"description": "Intelligent search made easy", "language": "Ruby", "repo": "searchkick", "new_stars": 0, "stars": 6440, "owner": "ankane", "forks": 748}
 ]

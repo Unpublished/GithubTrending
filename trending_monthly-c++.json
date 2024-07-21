@@ -1,5 +1,5 @@
 [
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 7985, "stars": 41391, "owner": "WerWolv", "forks": 1822},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 7985, "stars": 41393, "owner": "WerWolv", "forks": 1822},
 {"description": "GPT4All: Chat with Local LLMs on Any Device", "language": "C++", "repo": "gpt4all", "new_stars": 1843, "stars": 67583, "owner": "nomic-ai", "forks": 7433},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 495, "stars": 11039, "owner": "PCSX2", "forks": 1559},
 {"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 139, "stars": 2675, "owner": "ton-blockchain", "forks": 735},
@@ -10,16 +10,16 @@
 {"description": "HarfBuzz text shaping engine", "language": "C++", "repo": "harfbuzz", "new_stars": 178, "stars": 3871, "owner": "harfbuzz", "forks": 608},
 {"description": "Frame profiler", "language": "C++", "repo": "tracy", "new_stars": 696, "stars": 8773, "owner": "wolfpld", "forks": 606},
 {"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 203, "stars": 6246, "owner": "azerothcore", "forks": 2494},
-{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 417, "stars": 6184, "owner": "SoftFever", "forks": 711},
-{"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 184, "stars": 21915, "owner": "PaddlePaddle", "forks": 5504},
+{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 417, "stars": 6185, "owner": "SoftFever", "forks": 711},
+{"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 184, "stars": 21916, "owner": "PaddlePaddle", "forks": 5505},
 {"description": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)", "language": "C++", "repo": "PrusaSlicer", "new_stars": 89, "stars": 7537, "owner": "prusa3d", "forks": 1904},
 {"description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 219, "stars": 12392, "owner": "doitsujin", "forks": 793},
 {"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 730, "stars": 117275, "owner": "facebook", "forks": 24103},
-{"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 446, "stars": 35812, "owner": "google", "forks": 7738},
+{"description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.", "language": "C++", "repo": "leveldb", "new_stars": 446, "stars": 35811, "owner": "google", "forks": 7738},
 {"description": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 153, "stars": 8081, "owner": "esphome", "forks": 3374},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 188, "stars": 7959, "owner": "PX4", "forks": 13260},
-{"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 710, "stars": 29840, "owner": "SerenityOS", "forks": 3156},
-{"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 220, "stars": 22663, "owner": "microsoft", "forks": 1402},
-{"description": "Open source real-time translation app for Android that runs locally", "language": "C++", "repo": "RTranslator", "new_stars": 5073, "stars": 5770, "owner": "niedev", "forks": 438},
-{"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 173, "stars": 10888, "owner": "isl-org", "forks": 2239}
+{"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 710, "stars": 29841, "owner": "SerenityOS", "forks": 3156},
+{"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 220, "stars": 22664, "owner": "microsoft", "forks": 1402},
+{"description": "Open source real-time translation app for Android that runs locally", "language": "C++", "repo": "RTranslator", "new_stars": 5073, "stars": 5769, "owner": "niedev", "forks": 438},
+{"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 173, "stars": 10889, "owner": "isl-org", "forks": 2239}
 ]

@@ -1,10 +1,10 @@
 [
-{"description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f", "language": "Rust", "repo": "sniffnet", "new_stars": 99, "stars": 15545, "owner": "GyulyVGC", "forks": 475},
-{"description": "Clash Nyanpasu\uff5e(\u2220\u30fb\u03c9< )\u2312\u2606\u200b", "language": "Rust", "repo": "clash-nyanpasu", "new_stars": 140, "stars": 7453, "owner": "LibNyanpasu", "forks": 477},
-{"description": "Postgres for Search and Analytics", "language": "Rust", "repo": "paradedb", "new_stars": 11, "stars": 4960, "owner": "paradedb", "forks": 140},
+{"description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f", "language": "Rust", "repo": "sniffnet", "new_stars": 99, "stars": 15565, "owner": "GyulyVGC", "forks": 476},
+{"description": "Clash Nyanpasu\uff5e(\u2220\u30fb\u03c9< )\u2312\u2606\u200b", "language": "Rust", "repo": "clash-nyanpasu", "new_stars": 140, "stars": 7457, "owner": "LibNyanpasu", "forks": 477},
+{"description": "Postgres for Search and Analytics", "language": "Rust", "repo": "paradedb", "new_stars": 11, "stars": 4961, "owner": "paradedb", "forks": 140},
 {"description": "Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine", "language": "Rust", "repo": "servo", "new_stars": 10, "stars": 26968, "owner": "servo", "forks": 2956},
-{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 10, "stars": 11179, "owner": "juspay", "forks": 1203},
-{"description": "An extremely fast Python package installer and resolver, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 37, "stars": 15553, "owner": "astral-sh", "forks": 460},
+{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 10, "stars": 11178, "owner": "juspay", "forks": 1203},
+{"description": "An extremely fast Python package installer and resolver, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 37, "stars": 15554, "owner": "astral-sh", "forks": 460},
 {"description": "A collection of Solana programs maintained by Solana Labs", "language": "Rust", "repo": "solana-program-library", "new_stars": 6, "stars": 3328, "owner": "solana-labs", "forks": 1976},
 {"description": "An interpreter for Rust's mid-level intermediate representation", "language": "Rust", "repo": "miri", "new_stars": 7, "stars": 4223, "owner": "rust-lang", "forks": 326},
 {"description": "Application level tracing for Rust.", "language": "Rust", "repo": "tracing", "new_stars": 4, "stars": 5211, "owner": "tokio-rs", "forks": 679},
@@ -12,11 +12,11 @@
 {"description": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow", "language": "Rust", "repo": "meilisearch", "new_stars": 26, "stars": 45624, "owner": "meilisearch", "forks": 1728},
 {"description": "A high-performance observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 18, "stars": 17159, "owner": "vectordotdev", "forks": 1487},
 {"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 15, "stars": 93544, "owner": "denoland", "forks": 5186},
-{"description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.", "language": "Rust", "repo": "mountpoint-s3", "new_stars": 4, "stars": 4299, "owner": "awslabs", "forks": 148},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 45, "stars": 29481, "owner": "astral-sh", "forks": 957},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 95497, "owner": "rust-lang", "forks": 12305},
+{"description": "A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.", "language": "Rust", "repo": "mountpoint-s3", "new_stars": 4, "stars": 4301, "owner": "awslabs", "forks": 148},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 45, "stars": 29482, "owner": "astral-sh", "forks": 957},
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 35, "stars": 95499, "owner": "rust-lang", "forks": 12305},
 {"description": "Distributed transactional key-value database, originally created to complement TiDB", "language": "Rust", "repo": "tikv", "new_stars": 7, "stars": 14835, "owner": "tikv", "forks": 2112},
-{"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 18, "stars": 16850, "owner": "gleam-lang", "forks": 706},
-{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 19, "stars": 28316, "owner": "pola-rs", "forks": 1766},
-{"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 3, "stars": 3607, "owner": "paradigmxyz", "forks": 955}
+{"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 18, "stars": 16852, "owner": "gleam-lang", "forks": 706},
+{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 19, "stars": 28317, "owner": "pola-rs", "forks": 1766},
+{"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 3, "stars": 3608, "owner": "paradigmxyz", "forks": 955}
 ]

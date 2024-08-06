@@ -1,12 +1,12 @@
 [
 {"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 22, "stars": 29025, "owner": "maybe-finance", "forks": 2205},
-{"description": "Main Website for The Odin Project", "language": "Ruby", "repo": "theodinproject", "new_stars": 5, "stars": 3609, "owner": "TheOdinProject", "forks": 2064},
+{"description": "Main Website for The Odin Project", "language": "Ruby", "repo": "theodinproject", "new_stars": 5, "stars": 3608, "owner": "TheOdinProject", "forks": 2064},
 {"description": "Download an entire website from the Wayback Machine.", "language": "Ruby", "repo": "wayback-machine-downloader", "new_stars": 6, "stars": 5199, "owner": "hartator", "forks": 687},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 9, "stars": 33491, "owner": "rapid7", "forks": 13835},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 6, "stars": 46508, "owner": "mastodon", "forks": 6847},
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 5, "stars": 48736, "owner": "jekyll", "forks": 9939},
-{"description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 3, "stars": 14514, "owner": "postalserver", "forks": 1027},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 2, "stars": 12741, "owner": "fluent", "forks": 1332},
+{"description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 3, "stars": 14515, "owner": "postalserver", "forks": 1027},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 2, "stars": 12742, "owner": "fluent", "forks": 1332},
 {"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 7, "stars": 30527, "owner": "kilimchoi", "forks": 1521},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 3, "stars": 26080, "owner": "hashicorp", "forks": 4421},
 {"description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f", "language": "Ruby", "repo": "docuseal", "new_stars": 3, "stars": 5776, "owner": "docusealco", "forks": 392},
@@ -16,7 +16,9 @@
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 5, "stars": 20734, "owner": "Homebrew", "forks": 10614},
 {"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 10, "stars": 40402, "owner": "Homebrew", "forks": 9464},
 {"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 5, "stars": 1693, "owner": "rails", "forks": 90},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 11, "stars": 42496, "owner": "huginn", "forks": 3730},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 11, "stars": 42497, "owner": "huginn", "forks": 3730},
 {"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 2, "stars": 3234, "owner": "citation-style-language", "forks": 3730},
-{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1001, "owner": "rubysec", "forks": 216}
+{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1001, "owner": "rubysec", "forks": 216},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 9, "stars": 19889, "owner": "chatwoot", "forks": 3213},
+{"description": "A BOSH release for haproxy (based on cf-release's haproxy job)", "language": "Ruby", "repo": "haproxy-boshrelease", "new_stars": 0, "stars": 37, "owner": "cloudfoundry", "forks": 81}
 ]

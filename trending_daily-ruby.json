@@ -1,13 +1,13 @@
 [
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 23, "stars": 19986, "owner": "chatwoot", "forks": 3229},
-{"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 7, "stars": 8889, "owner": "opf", "forks": 2260},
-{"description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!", "language": "Ruby", "repo": "awesome-swift", "new_stars": 29, "stars": 24630, "owner": "matteocrippa", "forks": 3070},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 23, "stars": 19989, "owner": "chatwoot", "forks": 3231},
+{"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 7, "stars": 8890, "owner": "opf", "forks": 2260},
+{"description": "A collaborative list of awesome Swift libraries and resources. Feel free to contribute!", "language": "Ruby", "repo": "awesome-swift", "new_stars": 29, "stars": 24631, "owner": "matteocrippa", "forks": 3070},
 {"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 1, "stars": 7636, "owner": "puma", "forks": 1418},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 1, "stars": 4567, "owner": "dependabot", "forks": 964},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 2, "stars": 5482, "owner": "instructure", "forks": 2447},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 10, "stars": 33543, "owner": "rapid7", "forks": 13834},
 {"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 0, "stars": 3234, "owner": "citation-style-language", "forks": 3737},
-{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 38939, "owner": "fastlane", "forks": 5649},
+{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 38940, "owner": "fastlane", "forks": 5649},
 {"description": "The Rails application that powers OpenStreetMap", "language": "Ruby", "repo": "openstreetmap-website", "new_stars": 3, "stars": 2124, "owner": "openstreetmap", "forks": 907},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 0, "stars": 10000, "owner": "teamcapybara", "forks": 1446},
 {"description": "acts_as_paranoid for Rails 5, 6 and 7", "language": "Ruby", "repo": "paranoia", "new_stars": 0, "stars": 2873, "owner": "rubysherpas", "forks": 527},
@@ -15,12 +15,5 @@
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 1, "stars": 13499, "owner": "Homebrew", "forks": 12251},
 {"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 0, "stars": 5553, "owner": "CanCanCommunity", "forks": 635},
 {"description": "Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.", "language": "Ruby", "repo": "vcr", "new_stars": 1, "stars": 5799, "owner": "vcr", "forks": 502},
-{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 1, "stars": 20745, "owner": "Homebrew", "forks": 10628},
-{"description": "Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.", "language": "Ruby", "repo": "fpm", "new_stars": 2, "stars": 11116, "owner": "jordansissel", "forks": 1067},
-{"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 1, "stars": 1470, "owner": "Shopify", "forks": 137},
-{"description": "A fast, powerful type checker designed for Ruby", "language": "Ruby", "repo": "sorbet", "new_stars": 0, "stars": 3549, "owner": "sorbet", "forks": 514},
-{"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 3, "stars": 9472, "owner": "basecamp", "forks": 367},
-{"description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com", "language": "Ruby", "repo": "wpscan", "new_stars": 7, "stars": 8438, "owner": "wpscanteam", "forks": 1251},
-{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 2, "stars": 23866, "owner": "heartcombo", "forks": 5534},
-{"description": "Simple, but flexible HTTP client library, with support for multiple backends.", "language": "Ruby", "repo": "faraday", "new_stars": 0, "stars": 5712, "owner": "lostisland", "forks": 972}
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 1, "stars": 20745, "owner": "Homebrew", "forks": 10628}
 ]

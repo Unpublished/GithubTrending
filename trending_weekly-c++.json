@@ -1,5 +1,5 @@
 [
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 731, "stars": 3358, "owner": "amnezia-vpn", "forks": 249},
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 731, "stars": 3367, "owner": "amnezia-vpn", "forks": 250},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 312, "stars": 23012, "owner": "google", "forks": 3221},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 202, "stars": 20291, "owner": "fmtlib", "forks": 2449},
 {"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 37, "stars": 6905, "owner": "tdlib", "forks": 1415},
@@ -10,7 +10,7 @@
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 67, "stars": 28152, "owner": "facebook", "forks": 6261},
 {"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 230, "stars": 34904, "owner": "aria2", "forks": 3538},
 {"description": "Open3D: A Modern Library for 3D Data Processing", "language": "C++", "repo": "Open3D", "new_stars": 82, "stars": 11090, "owner": "isl-org", "forks": 2260},
-{"description": "A fast, local neural text to speech system", "language": "C++", "repo": "piper", "new_stars": 96, "stars": 5609, "owner": "rhasspy", "forks": 400},
+{"description": "A fast, local neural text to speech system", "language": "C++", "repo": "piper", "new_stars": 96, "stars": 5610, "owner": "rhasspy", "forks": 401},
 {"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 268, "stars": 22105, "owner": "duckdb", "forks": 1766},
 {"description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 143, "stars": 12071, "owner": "MatsuriDayo", "forks": 1148},
 {"description": "Monero: the secure, private, untraceable cryptocurrency", "language": "C++", "repo": "monero", "new_stars": 23, "stars": 8828, "owner": "monero-project", "forks": 3081},
@@ -21,6 +21,6 @@
 {"description": "Super Repository for Coding Interview Preperation", "language": "C++", "repo": "Interview_DS_Algo", "new_stars": 51, "stars": 1538, "owner": "MAZHARMIK", "forks": 913},
 {"description": "Nix, the purely functional package manager", "language": "C++", "repo": "nix", "new_stars": 156, "stars": 11956, "owner": "NixOS", "forks": 1462},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 55, "stars": 11050, "owner": "carla-simulator", "forks": 3556},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 221, "stars": 59099, "owner": "ocornut", "forks": 10082},
-{"description": "\ud83e\udd16 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference", "language": "C++", "repo": "LocalAI", "new_stars": 144, "stars": 22839, "owner": "mudler", "forks": 1740}
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 221, "stars": 59100, "owner": "ocornut", "forks": 10083},
+{"description": "\ud83e\udd16 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference", "language": "C++", "repo": "LocalAI", "new_stars": 144, "stars": 22841, "owner": "mudler", "forks": 1740}
 ]

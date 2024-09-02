@@ -1,6 +1,6 @@
 [
-{"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 671, "stars": 34990, "owner": "aria2", "forks": 3546},
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 1621, "stars": 3840, "owner": "amnezia-vpn", "forks": 263},
+{"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 671, "stars": 34992, "owner": "aria2", "forks": 3546},
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 1621, "stars": 3841, "owner": "amnezia-vpn", "forks": 263},
 {"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 873, "stars": 19441, "owner": "hyprwm", "forks": 814},
 {"description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.", "language": "C++", "repo": "JoltPhysics", "new_stars": 373, "stars": 6405, "owner": "jrouwe", "forks": 414},
 {"description": "Stable Diffusion and Flux in pure C/C++", "language": "C++", "repo": "stable-diffusion.cpp", "new_stars": 193, "stars": 3165, "owner": "leejet", "forks": 264},
@@ -8,18 +8,14 @@
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 778, "stars": 113604, "owner": "electron", "forks": 15279},
 {"description": "GLOMAP - Global Structured-from-Motion Revisited", "language": "C++", "repo": "glomap", "new_stars": 462, "stars": 1242, "owner": "colmap", "forks": 64},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 533, "stars": 25777, "owner": "telegramdesktop", "forks": 5101},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 935, "stars": 59223, "owner": "ocornut", "forks": 10098},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 935, "stars": 59224, "owner": "ocornut", "forks": 10098},
 {"description": null, "language": "C++", "repo": "re3", "new_stars": 103, "stars": 2273, "owner": "halpz", "forks": 395},
 {"description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 623, "stars": 12156, "owner": "MatsuriDayo", "forks": 1154},
 {"description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.", "language": "C++", "repo": "wazuh", "new_stars": 432, "stars": 10263, "owner": "wazuh", "forks": 1569},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 245, "stars": 5256, "owner": "NVIDIA", "forks": 885},
 {"description": "\ud83c\udf43 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) founders and our community. No ads, no tracking, no data collection, no crapware. Please donate to support the development!", "language": "C++", "repo": "organicmaps", "new_stars": 369, "stars": 9460, "owner": "organicmaps", "forks": 912},
-{"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 201, "stars": 2850, "owner": "ton-blockchain", "forks": 825},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1280, "stars": 88514, "owner": "godotengine", "forks": 20053},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1280, "stars": 88514, "owner": "godotengine", "forks": 20054},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 241, "stars": 28203, "owner": "facebook", "forks": 6263},
 {"description": "Cemu - Wii U emulator", "language": "C++", "repo": "Cemu", "new_stars": 339, "stars": 7024, "owner": "cemu-project", "forks": 536},
-{"description": "Diablo build for modern operating systems", "language": "C++", "repo": "devilutionX", "new_stars": 223, "stars": 7957, "owner": "diasurgical", "forks": 776},
-{"description": "The Flutter engine", "language": "C++", "repo": "engine", "new_stars": 59, "stars": 7334, "owner": "flutter", "forks": 5922},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1139, "stars": 17467, "owner": "LizardByte", "forks": 846},
-{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 1116, "stars": 6673, "owner": "cocos", "forks": 1745}
+{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 1116, "stars": 6674, "owner": "cocos", "forks": 1745}
 ]

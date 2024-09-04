@@ -1,10 +1,10 @@
 [
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 8, "stars": 24588, "owner": "envoyproxy", "forks": 4740},
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 8, "stars": 24592, "owner": "envoyproxy", "forks": 4740},
 {"description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.", "language": "C++", "repo": "ModSecurity", "new_stars": 8, "stars": 8019, "owner": "owasp-modsecurity", "forks": 1575},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 53, "stars": 64458, "owner": "ggerganov", "forks": 9223},
-{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 16, "stars": 26688, "owner": "google-ai-edge", "forks": 5073},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 53, "stars": 64460, "owner": "ggerganov", "forks": 9224},
+{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 16, "stars": 26687, "owner": "google-ai-edge", "forks": 5073},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 15, "stars": 42082, "owner": "nlohmann", "forks": 6640},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 76, "stars": 117936, "owner": "facebook", "forks": 24170},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 76, "stars": 117935, "owner": "facebook", "forks": 24170},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 9, "stars": 34184, "owner": "google", "forks": 10048},
 {"description": "Generative AI extensions for onnxruntime", "language": "C++", "repo": "onnxruntime-genai", "new_stars": 0, "stars": 409, "owner": "microsoft", "forks": 92},
 {"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 12, "stars": 4734, "owner": "Neargye", "forks": 421},
@@ -15,5 +15,6 @@
 {"description": "C++ websocket client/server library", "language": "C++", "repo": "websocketpp", "new_stars": 2, "stars": 6947, "owner": "zaphoyd", "forks": 1960},
 {"description": "An implementation of Scalable service-Oriented MiddlewarE over IP", "language": "C++", "repo": "vsomeip", "new_stars": 1, "stars": 1081, "owner": "COVESA", "forks": 676},
 {"description": "free C++ class library of cryptographic schemes", "language": "C++", "repo": "cryptopp", "new_stars": 3, "stars": 4780, "owner": "weidai11", "forks": 1479},
-{"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 6, "stars": 10509, "owner": "NVIDIA", "forks": 2101}
+{"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 5, "stars": 15380, "owner": "pybind", "forks": 2073},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 14, "stars": 65085, "owner": "protocolbuffers", "forks": 15431}
 ]

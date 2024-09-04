@@ -1,25 +1,3 @@
 [
-{"description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.", "language": "C++", "repo": "aria2", "new_stars": 683, "stars": 35009, "owner": "aria2", "forks": 3546},
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 1651, "stars": 3873, "owner": "amnezia-vpn", "forks": 264},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 902, "stars": 19473, "owner": "hyprwm", "forks": 815},
-{"description": "A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.", "language": "C++", "repo": "JoltPhysics", "new_stars": 364, "stars": 6413, "owner": "jrouwe", "forks": 414},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 792, "stars": 113622, "owner": "electron", "forks": 15284},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 924, "stars": 46889, "owner": "topjohnwu", "forks": 11824},
-{"description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.", "language": "C++", "repo": "wazuh", "new_stars": 444, "stars": 10295, "owner": "wazuh", "forks": 1574},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 533, "stars": 25791, "owner": "telegramdesktop", "forks": 5104},
-{"description": "Stable Diffusion and Flux in pure C/C++", "language": "C++", "repo": "stable-diffusion.cpp", "new_stars": 199, "stars": 3184, "owner": "leejet", "forks": 269},
-{"description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 619, "stars": 12184, "owner": "MatsuriDayo", "forks": 1156},
-{"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 247, "stars": 5267, "owner": "NVIDIA", "forks": 886},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 934, "stars": 59245, "owner": "ocornut", "forks": 10103},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1295, "stars": 88559, "owner": "godotengine", "forks": 20076},
-{"description": "GLOMAP - Global Structured-from-Motion Revisited", "language": "C++", "repo": "glomap", "new_stars": 395, "stars": 1247, "owner": "colmap", "forks": 67},
-{"description": "Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.", "language": "C++", "repo": "synergy", "new_stars": 104, "stars": 10251, "owner": "symless", "forks": 3637},
-{"description": "Meshtastic device firmware", "language": "C++", "repo": "firmware", "new_stars": 179, "stars": 3253, "owner": "meshtastic", "forks": 784},
-{"description": "Cemu - Wii U emulator", "language": "C++", "repo": "Cemu", "new_stars": 344, "stars": 7036, "owner": "cemu-project", "forks": 537},
-{"description": "Diablo build for modern operating systems", "language": "C++", "repo": "devilutionX", "new_stars": 220, "stars": 7959, "owner": "diasurgical", "forks": 776},
-{"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 245, "stars": 28207, "owner": "facebook", "forks": 6264},
-{"description": "Cross-platform library for building Telegram clients", "language": "C++", "repo": "td", "new_stars": 142, "stars": 6931, "owner": "tdlib", "forks": 1422},
-{"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64", "language": "C++", "repo": "duckstation", "new_stars": 171, "stars": 6699, "owner": "stenzek", "forks": 620},
-{"description": null, "language": "C++", "repo": "aztec-packages", "new_stars": 11, "stars": 172, "owner": "AztecProtocol", "forks": 178},
-{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 1153, "stars": 6703, "owner": "cocos", "forks": 1751}
+
 ]

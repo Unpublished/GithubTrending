@@ -1,18 +1,19 @@
 [
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 10, "stars": 24607, "owner": "envoyproxy", "forks": 4741},
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 10, "stars": 24611, "owner": "envoyproxy", "forks": 4741},
 {"description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.", "language": "C++", "repo": "ModSecurity", "new_stars": 8, "stars": 8020, "owner": "owasp-modsecurity", "forks": 1575},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 49, "stars": 64478, "owner": "ggerganov", "forks": 9227},
-{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 16, "stars": 26683, "owner": "google-ai-edge", "forks": 5073},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 49, "stars": 64484, "owner": "ggerganov", "forks": 9227},
+{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 16, "stars": 26682, "owner": "google-ai-edge", "forks": 5073},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 17, "stars": 42083, "owner": "nlohmann", "forks": 6641},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 68, "stars": 117939, "owner": "facebook", "forks": 24171},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 68, "stars": 117940, "owner": "facebook", "forks": 24169},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 11, "stars": 34185, "owner": "google", "forks": 10047},
 {"description": "Generative AI extensions for onnxruntime", "language": "C++", "repo": "onnxruntime-genai", "new_stars": 0, "stars": 410, "owner": "microsoft", "forks": 92},
 {"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 9, "stars": 4734, "owner": "Neargye", "forks": 422},
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 14, "stars": 14703, "owner": "CoatiSoftware", "forks": 1368},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 9, "stars": 18445, "owner": "catchorg", "forks": 3020},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 14, "stars": 14704, "owner": "CoatiSoftware", "forks": 1368},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 9, "stars": 18446, "owner": "catchorg", "forks": 3020},
 {"description": "OpenVINO\u2122 is an open-source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 13, "stars": 6773, "owner": "openvinotoolkit", "forks": 2165},
-{"description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.", "language": "C++", "repo": "CLI11", "new_stars": 3, "stars": 3276, "owner": "CLIUtils", "forks": 345},
-{"description": "C++ websocket client/server library", "language": "C++", "repo": "websocketpp", "new_stars": 1, "stars": 6947, "owner": "zaphoyd", "forks": 1960},
+{"description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.", "language": "C++", "repo": "CLI11", "new_stars": 3, "stars": 3277, "owner": "CLIUtils", "forks": 345},
+{"description": "C++ websocket client/server library", "language": "C++", "repo": "websocketpp", "new_stars": 1, "stars": 6948, "owner": "zaphoyd", "forks": 1960},
 {"description": "An implementation of Scalable service-Oriented MiddlewarE over IP", "language": "C++", "repo": "vsomeip", "new_stars": 2, "stars": 1081, "owner": "COVESA", "forks": 676},
-{"description": "free C++ class library of cryptographic schemes", "language": "C++", "repo": "cryptopp", "new_stars": 3, "stars": 4780, "owner": "weidai11", "forks": 1479}
+{"description": "free C++ class library of cryptographic schemes", "language": "C++", "repo": "cryptopp", "new_stars": 3, "stars": 4780, "owner": "weidai11", "forks": 1479},
+{"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 2, "stars": 4085, "owner": "google", "forks": 308}
 ]

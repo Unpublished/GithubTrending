@@ -1,16 +1,13 @@
 [
-{"description": "\u26a1\ufe0fHivisionIDPhotos: a lightweight and efficient AI ID photos tools. \u4e00\u4e2a\u8f7b\u91cf\u7ea7\u7684AI\u8bc1\u4ef6\u7167\u5236\u4f5c\u7b97\u6cd5\u3002", "language": "Python", "repo": "HivisionIDPhotos", "new_stars": 675, "stars": 7297, "owner": "Zeyi-Lin", "forks": 648},
-{"description": "The uncompromising Python code formatter", "language": "Python", "repo": "black", "new_stars": 18, "stars": 38406, "owner": "psf", "forks": 2426},
-{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "Python", "repo": "pytorch", "new_stars": 43, "stars": 81982, "owner": "pytorch", "forks": 21989},
-{"description": "Deepfakes Software For All", "language": "Python", "repo": "faceswap", "new_stars": 109, "stars": 50789, "owner": "deepfakes", "forks": 13086},
-{"description": "Robust Speech Recognition via Large-Scale Weak Supervision", "language": "Python", "repo": "whisper", "new_stars": 64, "stars": 67175, "owner": "openai", "forks": 7925},
-{"description": "A high-throughput and memory-efficient inference and serving engine for LLMs", "language": "Python", "repo": "vllm", "new_stars": 71, "stars": 26068, "owner": "vllm-project", "forks": 3820},
-{"description": "Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]", "language": "Python", "repo": "litellm", "new_stars": 25, "stars": 12030, "owner": "BerriAI", "forks": 1387},
-{"description": "\ud83d\ude80CodiumAI PR-Agent: An AI-Powered \ud83e\udd16 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! \ud83d\udcbb\ud83d\udd0d", "language": "Python", "repo": "pr-agent", "new_stars": 16, "stars": 5500, "owner": "Codium-ai", "forks": 507},
-{"description": "Polar is the best funding & monetization platform for developers. From first donation to IPO.", "language": "Python", "repo": "polar", "new_stars": 230, "stars": 2155, "owner": "polarsource", "forks": 76},
-{"description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.", "language": "Python", "repo": "LLaVA", "new_stars": 19, "stars": 19124, "owner": "haotian-liu", "forks": 2096},
-{"description": "The Memory layer for your AI apps", "language": "Python", "repo": "mem0", "new_stars": 222, "stars": 21321, "owner": "mem0ai", "forks": 1939},
-{"description": "A curated list of bugbounty writeups (Bug type wise) , inspired from", "language": "Python", "repo": "Awesome-Bugbounty-Writeups", "new_stars": 24, "stars": 4611, "owner": "devanshbatham", "forks": 997},
-{"description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It\u2019s Python-based and agnostic to any model, API, or database.", "language": "Python", "repo": "langflow", "new_stars": 111, "stars": 26940, "owner": "langflow-ai", "forks": 3569},
-{"description": "\ud83d\ude4c OpenHands: Code Less, Make More", "language": "Python", "repo": "OpenHands", "new_stars": 66, "stars": 31063, "owner": "All-Hands-AI", "forks": 3581}
+{"description": "Polar is the best funding & monetization platform for developers. From first donation to IPO.", "language": "Python", "repo": "polar", "new_stars": 230, "stars": 2159, "owner": "polarsource", "forks": 76},
+{"description": "The uncompromising Python code formatter", "language": "Python", "repo": "black", "new_stars": 18, "stars": 38411, "owner": "psf", "forks": 2426},
+{"description": "Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.", "language": "Python", "repo": "sample-app-aoai-chatGPT", "new_stars": 4, "stars": 1550, "owner": "microsoft", "forks": 2404},
+{"description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.", "language": "Python", "repo": "PyRIT", "new_stars": 1, "stars": 1699, "owner": "Azure", "forks": 308},
+{"description": "Implementation of Alphafold 3 in Pytorch", "language": "Python", "repo": "alphafold3-pytorch", "new_stars": 1, "stars": 856, "owner": "lucidrains", "forks": 90},
+{"description": "\ud83d\ude4c OpenHands: Code Less, Make More", "language": "Python", "repo": "OpenHands", "new_stars": 66, "stars": 31064, "owner": "All-Hands-AI", "forks": 3581},
+{"description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration", "language": "Python", "repo": "pytorch", "new_stars": 43, "stars": 81983, "owner": "pytorch", "forks": 21989},
+{"description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.", "language": "Python", "repo": "MiniCPM", "new_stars": 161, "stars": 5285, "owner": "OpenBMB", "forks": 359},
+{"description": "Deepfakes Software For All", "language": "Python", "repo": "faceswap", "new_stars": 109, "stars": 50792, "owner": "deepfakes", "forks": 13086},
+{"description": "Developer-first error tracking and performance monitoring", "language": "Python", "repo": "sentry", "new_stars": 6, "stars": 38489, "owner": "getsentry", "forks": 4113},
+{"description": "Universal Command Line Interface for Amazon Web Services", "language": "Python", "repo": "aws-cli", "new_stars": 3, "stars": 15318, "owner": "aws", "forks": 4072}
 ]

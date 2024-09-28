@@ -1,15 +1,15 @@
 [
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 9, "stars": 39464, "owner": "fastlane", "forks": 5684},
-{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 7, "stars": 21969, "owner": "ruby", "forks": 5311},
-{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 17, "stars": 1805, "owner": "rails", "forks": 106},
+{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 7, "stars": 21970, "owner": "ruby", "forks": 5311},
+{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 17, "stars": 1806, "owner": "rails", "forks": 106},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 3, "stars": 23940, "owner": "heartcombo", "forks": 5543},
-{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 9, "stars": 46859, "owner": "mastodon", "forks": 6918},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 9, "stars": 46861, "owner": "mastodon", "forks": 6917},
 {"description": "A performance dashboard for Postgres", "language": "Ruby", "repo": "pghero", "new_stars": 1, "stars": 8038, "owner": "ankane", "forks": 450},
 {"description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!", "language": "Ruby", "repo": "oxidized", "new_stars": 0, "stars": 2762, "owner": "ytti", "forks": 916},
 {"description": "Server automation framework and application", "language": "Ruby", "repo": "puppet", "new_stars": 0, "stars": 7400, "owner": "puppetlabs", "forks": 2189},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 34, "stars": 55712, "owner": "rails", "forks": 21575},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 34, "stars": 55713, "owner": "rails", "forks": 21576},
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 7, "stars": 35049, "owner": "freeCodeCamp", "forks": 2333},
-{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 14190, "owner": "elastic", "forks": 3497},
+{"description": "Logstash - transport and process your logs, events, or other data", "language": "Ruby", "repo": "logstash", "new_stars": 1, "stars": 14191, "owner": "elastic", "forks": 3497},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 3, "stars": 5561, "owner": "instructure", "forks": 2470},
 {"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 1, "stars": 9477, "owner": "activeadmin", "forks": 3306},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 2, "stars": 11236, "owner": "faker-ruby", "forks": 3177},
@@ -18,5 +18,9 @@
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 1, "stars": 4647, "owner": "dependabot", "forks": 1000},
 {"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 55, "stars": 10253, "owner": "basecamp", "forks": 388},
 {"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 2, "stars": 5657, "owner": "activerecord-hackery", "forks": 795},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 16, "stars": 41930, "owner": "discourse", "forks": 8279}
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 16, "stars": 41930, "owner": "discourse", "forks": 8279},
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 0, "stars": 20842, "owner": "Homebrew", "forks": 10673},
+{"description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.", "language": "Ruby", "repo": "ubicloud", "new_stars": 8, "stars": 3495, "owner": "ubicloud", "forks": 105},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 8, "stars": 33837, "owner": "rapid7", "forks": 13916},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 0, "stars": 8207, "owner": "heartcombo", "forks": 1313}
 ]

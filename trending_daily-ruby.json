@@ -9,11 +9,10 @@
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 5, "stars": 13686, "owner": "Homebrew", "forks": 12382},
 {"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 4, "stars": 1555, "owner": "Shopify", "forks": 151},
 {"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 1, "stars": 5576, "owner": "CanCanCommunity", "forks": 638},
-{"description": "API powering VA.gov", "language": "Ruby", "repo": "vets-api", "new_stars": 0, "stars": 205, "owner": "department-of-veterans-affairs", "forks": 62},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 0, "stars": 5327, "owner": "doorkeeper-gem", "forks": 1067},
-{"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 2, "stars": 7678, "owner": "puma", "forks": 1427},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 0, "stars": 13150, "owner": "sidekiq", "forks": 2415},
+{"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 6, "stars": 26239, "owner": "hashicorp", "forks": 4436},
 {"description": "Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 3, "stars": 2659, "owner": "bensheldon", "forks": 197},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5326, "owner": "rails-api", "forks": 1389},
-{"description": "Rack-based asset packaging system", "language": "Ruby", "repo": "sprockets", "new_stars": 0, "stars": 947, "owner": "rails", "forks": 789},
 {"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1013, "owner": "rubysec", "forks": 218}
 ]

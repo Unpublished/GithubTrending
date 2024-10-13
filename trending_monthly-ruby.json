@@ -1,6 +1,6 @@
 [
 {"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 1257, "stars": 10971, "owner": "basecamp", "forks": 423},
-{"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 1508, "stars": 30854, "owner": "maybe-finance", "forks": 2299},
+{"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 1508, "stars": 30856, "owner": "maybe-finance", "forks": 2299},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 373, "stars": 55865, "owner": "rails", "forks": 21618},
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 407, "stars": 39504, "owner": "fastlane", "forks": 5699},
 {"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 520, "stars": 20835, "owner": "chatwoot", "forks": 3446},
@@ -10,8 +10,8 @@
 {"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 404, "stars": 41091, "owner": "Homebrew", "forks": 9645},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 71, "stars": 5600, "owner": "instructure", "forks": 2481},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 61, "stars": 4663, "owner": "dependabot", "forks": 1005},
-{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 218, "stars": 49085, "owner": "jekyll", "forks": 9959},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 135, "stars": 13686, "owner": "Homebrew", "forks": 12386},
+{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 218, "stars": 49084, "owner": "jekyll", "forks": 9959},
+{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 135, "stars": 13686, "owner": "Homebrew", "forks": 12387},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 316, "stars": 46944, "owner": "mastodon", "forks": 6940},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 68, "stars": 23766, "owner": "gitlabhq", "forks": 5729},
 {"description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.", "language": "Ruby", "repo": "ubicloud", "new_stars": 137, "stars": 3516, "owner": "ubicloud", "forks": 106},
@@ -20,5 +20,6 @@
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 72, "stars": 4409, "owner": "zammad", "forks": 748},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 91, "stars": 20883, "owner": "Homebrew", "forks": 10697},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 31, "stars": 3674, "owner": "github", "forks": 1330},
-{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 130, "stars": 22016, "owner": "ruby", "forks": 5316}
+{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 130, "stars": 22017, "owner": "ruby", "forks": 5316},
+{"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 33, "stars": 7679, "owner": "puma", "forks": 1428}
 ]

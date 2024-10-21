@@ -1,10 +1,10 @@
 [
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 353, "stars": 42840, "owner": "nlohmann", "forks": 6704},
-{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 580, "stars": 7868, "owner": "cocos", "forks": 1894},
+{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 580, "stars": 7870, "owner": "cocos", "forks": 1894},
 {"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 261, "stars": 14927, "owner": "Atmosphere-NX", "forks": 1239},
-{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.", "language": "C++", "repo": "deskflow", "new_stars": 498, "stars": 12267, "owner": "deskflow", "forks": 3721},
+{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.", "language": "C++", "repo": "deskflow", "new_stars": 498, "stars": 12266, "owner": "deskflow", "forks": 3721},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 281, "stars": 114163, "owner": "electron", "forks": 15393},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 229, "stars": 48006, "owner": "topjohnwu", "forks": 12201},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 229, "stars": 48006, "owner": "topjohnwu", "forks": 12202},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 76, "stars": 12973, "owner": "yhirose", "forks": 2286},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 45, "stars": 5527, "owner": "NVIDIA", "forks": 943},
 {"description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.", "language": "C++", "repo": "iree", "new_stars": 184, "stars": 2785, "owner": "iree-org", "forks": 603},
@@ -12,15 +12,15 @@
 {"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 229, "stars": 27270, "owner": "google-ai-edge", "forks": 5132},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 60, "stars": 34622, "owner": "google", "forks": 10115},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 58, "stars": 24904, "owner": "envoyproxy", "forks": 4789},
-{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 56, "stars": 8395, "owner": "PX4", "forks": 13462},
+{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 56, "stars": 8396, "owner": "PX4", "forks": 13462},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 55, "stars": 24165, "owner": "gabime", "forks": 4519},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 32, "stars": 8338, "owner": "oceanbase", "forks": 1671},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 145, "stars": 95384, "owner": "microsoft", "forks": 8297},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 145, "stars": 95386, "owner": "microsoft", "forks": 8297},
 {"description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.", "language": "C++", "repo": "miniob", "new_stars": 47, "stars": 3412, "owner": "oceanbase", "forks": 1215},
 {"description": "ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.", "language": "C++", "repo": "ModSecurity", "new_stars": 24, "stars": 8155, "owner": "owasp-modsecurity", "forks": 1600},
 {"description": "Algorithm and data structure articles for", "language": "C++", "repo": "cp-algorithms", "new_stars": 77, "stars": 7608, "owner": "cp-algorithms", "forks": 1602},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 414, "stars": 66617, "owner": "ggerganov", "forks": 9578},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 414, "stars": 66619, "owner": "ggerganov", "forks": 9578},
 {"description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).", "language": "C++", "repo": "tflite-micro", "new_stars": 23, "stars": 1885, "owner": "tensorflow", "forks": 813},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 93, "stars": 65519, "owner": "protocolbuffers", "forks": 15464},
-{"description": "Meshtastic device firmware", "language": "C++", "repo": "firmware", "new_stars": 49, "stars": 3447, "owner": "meshtastic", "forks": 845}
+{"description": "Meshtastic device firmware", "language": "C++", "repo": "firmware", "new_stars": 49, "stars": 3448, "owner": "meshtastic", "forks": 845}
 ]

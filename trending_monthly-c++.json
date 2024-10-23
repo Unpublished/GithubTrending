@@ -1,15 +1,15 @@
 [
-{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).", "language": "C++", "repo": "deskflow", "new_stars": 1975, "stars": 12381, "owner": "deskflow", "forks": 3725},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1892, "stars": 90500, "owner": "godotengine", "forks": 21074},
+{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).", "language": "C++", "repo": "deskflow", "new_stars": 1975, "stars": 12382, "owner": "deskflow", "forks": 3725},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1892, "stars": 90502, "owner": "godotengine", "forks": 21073},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 85, "stars": 5623, "owner": "firebase", "forks": 1475},
 {"description": "A Nintendo 3DS Emulator", "language": "C++", "repo": "citra", "new_stars": 323, "stars": 3675, "owner": "PabloMK7", "forks": 627},
 {"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 838, "stars": 61868, "owner": "tesseract-ocr", "forks": 9470},
 {"description": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.", "language": "C++", "repo": "C-Plus-Plus", "new_stars": 511, "stars": 30553, "owner": "TheAlgorithms", "forks": 7236},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1222, "stars": 60704, "owner": "ocornut", "forks": 10256},
 {"description": "On-device AI across mobile, embedded and edge for PyTorch", "language": "C++", "repo": "executorch", "new_stars": 245, "stars": 1968, "owner": "pytorch", "forks": 326},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 1657, "stars": 66750, "owner": "ggerganov", "forks": 9600},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 1657, "stars": 66751, "owner": "ggerganov", "forks": 9600},
 {"description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)", "language": "C++", "repo": "nekoray", "new_stars": 638, "stars": 13010, "owner": "MatsuriDayo", "forks": 1214},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 1503, "stars": 21145, "owner": "hyprwm", "forks": 886},
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 1503, "stars": 21150, "owner": "hyprwm", "forks": 887},
 {"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 590, "stars": 95398, "owner": "microsoft", "forks": 8297},
 {"description": "Open-source KVM software", "language": "C++", "repo": "input-leap", "new_stars": 312, "stars": 4022, "owner": "input-leap", "forks": 177},
 {"description": "Algorithm and data structure articles for", "language": "C++", "repo": "cp-algorithms", "new_stars": 244, "stars": 7631, "owner": "cp-algorithms", "forks": 1603},
@@ -17,11 +17,11 @@
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 136, "stars": 18606, "owner": "catchorg", "forks": 3051},
 {"description": "An open source re-implementation of RollerCoaster Tycoon 2 \ud83c\udfa2", "language": "C++", "repo": "OpenRCT2", "new_stars": 114, "stars": 13418, "owner": "OpenRCT2", "forks": 1536},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 731, "stars": 27769, "owner": "qbittorrent", "forks": 3923},
-{"description": "Open-source engine for Heroes of Might and Magic III", "language": "C++", "repo": "vcmi", "new_stars": 246, "stars": 4469, "owner": "vcmi", "forks": 487},
+{"description": "Open-source engine for Heroes of Might and Magic III", "language": "C++", "repo": "vcmi", "new_stars": 246, "stars": 4470, "owner": "vcmi", "forks": 487},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 180, "stars": 8409, "owner": "PX4", "forks": 13468},
 {"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 387, "stars": 16866, "owner": "ml-explore", "forks": 970},
 {"description": "Google's Operations Research tools:", "language": "C++", "repo": "or-tools", "new_stars": 145, "stars": 11179, "owner": "google", "forks": 2118},
 {"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 177, "stars": 13518, "owner": "espressif", "forks": 7393},
 {"description": "MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.", "language": "C++", "repo": "miniob", "new_stars": 152, "stars": 3420, "owner": "oceanbase", "forks": 1215},
-{"description": "A fast, local neural text to speech system", "language": "C++", "repo": "piper", "new_stars": 397, "stars": 6276, "owner": "rhasspy", "forks": 461}
+{"description": "A fast, local neural text to speech system", "language": "C++", "repo": "piper", "new_stars": 397, "stars": 6279, "owner": "rhasspy", "forks": 461}
 ]

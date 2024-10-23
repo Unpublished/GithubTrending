@@ -1,7 +1,7 @@
 [
 {"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 473, "stars": 58028, "owner": "danielmiessler", "forks": 23865},
-{"description": "Laravel is a web application framework with expressive, elegant syntax. We\u2019ve already laid the foundation for your next big idea \u2014 freeing you to create without sweating the small things.", "language": "PHP", "repo": "laravel", "new_stars": 120, "stars": 78599, "owner": "laravel", "forks": 24049},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 56, "stars": 29750, "owner": "symfony", "forks": 9459},
+{"description": "Laravel is a web application framework with expressive, elegant syntax. We\u2019ve already laid the foundation for your next big idea \u2014 freeing you to create without sweating the small things.", "language": "PHP", "repo": "laravel", "new_stars": 120, "stars": 78600, "owner": "laravel", "forks": 24049},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 56, "stars": 29751, "owner": "symfony", "forks": 9459},
 {"description": "A free open source IT asset/license management system", "language": "PHP", "repo": "snipe-it", "new_stars": 41, "stars": 11011, "owner": "snipe", "forks": 3176},
 {"description": "\ud83d\udce6 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.", "language": "PHP", "repo": "all-in-one", "new_stars": 68, "stars": 5421, "owner": "nextcloud", "forks": 624},
 {"description": "GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.", "language": "PHP", "repo": "glpi", "new_stars": 31, "stars": 4232, "owner": "glpi-project", "forks": 1289},
@@ -9,14 +9,14 @@
 {"description": "Open Source eCommerce Framework on Symfony", "language": "PHP", "repo": "Sylius", "new_stars": 22, "stars": 7904, "owner": "Sylius", "forks": 2088},
 {"description": "Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more", "language": "PHP", "repo": "speedtest", "new_stars": 54, "stars": 12141, "owner": "librespeed", "forks": 2194},
 {"description": "\u26a1\ufe0f OpenAI PHP is a supercharged community-maintained PHP API client that allows you to interact with OpenAI API.", "language": "PHP", "repo": "client", "new_stars": 44, "stars": 4899, "owner": "openai-php", "forks": 506},
-{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 73, "stars": 32404, "owner": "laravel", "forks": 10983},
+{"description": "The Laravel Framework.", "language": "PHP", "repo": "framework", "new_stars": 73, "stars": 32405, "owner": "laravel", "forks": 10984},
 {"description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform", "language": "PHP", "repo": "MISP", "new_stars": 17, "stars": 5331, "owner": "MISP", "forks": 1391},
-{"description": "Free and open source laravel eCommerce platform", "language": "PHP", "repo": "bagisto", "new_stars": 145, "stars": 15030, "owner": "bagisto", "forks": 2193},
+{"description": "Free and open source laravel eCommerce platform", "language": "PHP", "repo": "bagisto", "new_stars": 145, "stars": 15031, "owner": "bagisto", "forks": 2193},
 {"description": "Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.", "language": "PHP", "repo": "fuzzdb", "new_stars": 21, "stars": 8217, "owner": "fuzzdb-project", "forks": 2093},
 {"description": "Debugbar for Laravel (Integrates PHP Debug Bar)", "language": "PHP", "repo": "laravel-debugbar", "new_stars": 42, "stars": 17251, "owner": "barryvdh", "forks": 1553},
-{"description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.", "language": "PHP", "repo": "filament", "new_stars": 181, "stars": 18607, "owner": "filamentphp", "forks": 2896},
-{"description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.", "language": "PHP", "repo": "coolify", "new_stars": 337, "stars": 33179, "owner": "coollabsio", "forks": 1783},
-{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 23, "stars": 12138, "owner": "spatie", "forks": 1774},
-{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 18, "stars": 21021, "owner": "Seldaek", "forks": 1903},
-{"description": "The most popular open source electronic health records and medical practice management solution.", "language": "PHP", "repo": "openemr", "new_stars": 16, "stars": 3154, "owner": "openemr", "forks": 2135}
+{"description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.", "language": "PHP", "repo": "filament", "new_stars": 181, "stars": 18608, "owner": "filamentphp", "forks": 2897},
+{"description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.", "language": "PHP", "repo": "coolify", "new_stars": 337, "stars": 33180, "owner": "coollabsio", "forks": 1783},
+{"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 23, "stars": 12138, "owner": "spatie", "forks": 1775},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 18, "stars": 21020, "owner": "Seldaek", "forks": 1903},
+{"description": "The most popular open source electronic health records and medical practice management solution.", "language": "PHP", "repo": "openemr", "new_stars": 16, "stars": 3154, "owner": "openemr", "forks": 2136}
 ]

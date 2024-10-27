@@ -1,10 +1,10 @@
 [
-{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 322, "stars": 8075, "owner": "cocos", "forks": 1921},
-{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 266, "stars": 10591, "owner": "CleverRaven", "forks": 4164},
+{"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 322, "stars": 8078, "owner": "cocos", "forks": 1921},
+{"description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.", "language": "C++", "repo": "Cataclysm-DDA", "new_stars": 266, "stars": 10590, "owner": "CleverRaven", "forks": 4164},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 206, "stars": 42933, "owner": "nlohmann", "forks": 6705},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 78, "stars": 34665, "owner": "google", "forks": 10126},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 173, "stars": 118889, "owner": "facebook", "forks": 24299},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 458, "stars": 66905, "owner": "ggerganov", "forks": 9612},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 173, "stars": 118891, "owner": "facebook", "forks": 24299},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 458, "stars": 66907, "owner": "ggerganov", "forks": 9613},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 57, "stars": 5580, "owner": "NVIDIA", "forks": 949},
 {"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 149, "stars": 31126, "owner": "facebookresearch", "forks": 3623},
 {"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.", "language": "C++", "repo": "libphonenumber", "new_stars": 65, "stars": 16624, "owner": "google", "forks": 2059},
@@ -12,14 +12,14 @@
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 50, "stars": 28337, "owner": "facebook", "forks": 5559},
 {"description": "Android real-time display control software", "language": "C++", "repo": "QtScrcpy", "new_stars": 418, "stars": 19523, "owner": "barry-ran", "forks": 2601},
 {"description": "Fix Play Integrity (and SafetyNet) verdicts.", "language": "C++", "repo": "PlayIntegrityFix", "new_stars": 155, "stars": 5002, "owner": "chiteroman", "forks": 265},
-{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).", "language": "C++", "repo": "deskflow", "new_stars": 460, "stars": 12615, "owner": "deskflow", "forks": 3741},
-{"description": "Meshtastic device firmware", "language": "C++", "repo": "firmware", "new_stars": 35, "stars": 3465, "owner": "meshtastic", "forks": 855},
+{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).", "language": "C++", "repo": "deskflow", "new_stars": 460, "stars": 12616, "owner": "deskflow", "forks": 3741},
+{"description": "Meshtastic device firmware", "language": "C++", "repo": "firmware", "new_stars": 35, "stars": 3465, "owner": "meshtastic", "forks": 856},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 84, "stars": 65563, "owner": "protocolbuffers", "forks": 15473},
 {"description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.", "language": "C++", "repo": "MMKV", "new_stars": 49, "stars": 17385, "owner": "Tencent", "forks": 1906},
 {"description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)", "language": "C++", "repo": "PrismLauncher", "new_stars": 45, "stars": 5731, "owner": "PrismLauncher", "forks": 645},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 196, "stars": 48159, "owner": "topjohnwu", "forks": 12261},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 196, "stars": 48160, "owner": "topjohnwu", "forks": 12262},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 86, "stars": 7063, "owner": "SoftFever", "forks": 833},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 52, "stars": 14833, "owner": "Aircoookie", "forks": 3200},
 {"description": "PC Software for BambuLab and other 3D printers", "language": "C++", "repo": "BambuStudio", "new_stars": 50, "stars": 2052, "owner": "bambulab", "forks": 277},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 148, "stars": 95436, "owner": "microsoft", "forks": 8301}
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 148, "stars": 95437, "owner": "microsoft", "forks": 8301}
 ]

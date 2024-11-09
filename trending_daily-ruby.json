@@ -5,7 +5,7 @@
 {"description": "JSON implementation for Ruby", "language": "Ruby", "repo": "json", "new_stars": 1, "stars": 698, "owner": "ruby", "forks": 334},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 1, "stars": 5677, "owner": "instructure", "forks": 2505},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 28, "stars": 56028, "owner": "rails", "forks": 21659},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 7, "stars": 42259, "owner": "discourse", "forks": 8323},
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 7, "stars": 42260, "owner": "discourse", "forks": 8323},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 3, "stars": 13162, "owner": "sidekiq", "forks": 2420},
 {"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 14, "stars": 21130, "owner": "chatwoot", "forks": 3557},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 1, "stars": 4451, "owner": "zammad", "forks": 756},
@@ -14,12 +14,13 @@
 {"description": "\ud83d\uded2 Solidus, the open-source eCommerce framework for industry trailblazers.", "language": "Ruby", "repo": "solidus", "new_stars": 1, "stars": 5017, "owner": "solidusio", "forks": 1289},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 308, "owner": "DataDog", "forks": 375},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 5, "stars": 20933, "owner": "Homebrew", "forks": 10718},
+{"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 1, "stars": 5337, "owner": "doorkeeper-gem", "forks": 1068},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 2, "stars": 6783, "owner": "paper-trail-gem", "forks": 897},
 {"description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks", "language": "Ruby", "repo": "carrierwave", "new_stars": 0, "stars": 8779, "owner": "carrierwaveuploader", "forks": 1658},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 9, "stars": 34141, "owner": "rapid7", "forks": 13973},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 0, "stars": 5330, "owner": "rails-api", "forks": 1386},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 4, "stars": 24001, "owner": "heartcombo", "forks": 5545},
+{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 2, "stars": 12903, "owner": "fluent", "forks": 1342},
 {"description": "Vagrant provider for libvirt.", "language": "Ruby", "repo": "vagrant-libvirt", "new_stars": 0, "stars": 2325, "owner": "vagrant-libvirt", "forks": 497},
-{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 7606, "owner": "chef", "forks": 2510},
-{"description": "\ud83d\udc2c Beautiful, performant feature flags for Ruby.", "language": "Ruby", "repo": "flipper", "new_stars": 1, "stars": 3712, "owner": "flippercloud", "forks": 416}
+{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 7606, "owner": "chef", "forks": 2510}
 ]

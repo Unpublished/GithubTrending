@@ -1,5 +1,5 @@
 [
-{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 2026, "stars": 76503, "owner": "rustdesk", "forks": 10238},
+{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 2026, "stars": 76503, "owner": "rustdesk", "forks": 10239},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 277, "stars": 13296, "owner": "solana-labs", "forks": 4332},
 {"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 743, "stars": 21998, "owner": "zellij-org", "forks": 670},
 {"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 774, "stars": 22482, "owner": "cloudflare", "forks": 1243},
@@ -7,14 +7,14 @@
 {"description": "A high-performance observability data pipeline.", "language": "Rust", "repo": "vector", "new_stars": 545, "stars": 18256, "owner": "vectordotdev", "forks": 1603},
 {"description": "A collection of Solana programs maintained by Solana Labs", "language": "Rust", "repo": "solana-program-library", "new_stars": 102, "stars": 3605, "owner": "solana-labs", "forks": 2101},
 {"description": "Empowering everyone to host fast and efficient Minecraft servers.", "language": "Rust", "repo": "Pumpkin", "new_stars": 1008, "stars": 3316, "owner": "Snowiiii", "forks": 119},
-{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 3382, "stars": 27639, "owner": "astral-sh", "forks": 796},
+{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 3382, "stars": 27642, "owner": "astral-sh", "forks": 796},
 {"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces, RUM, Error tracking, Session replay).", "language": "Rust", "repo": "openobserve", "new_stars": 903, "stars": 13435, "owner": "openobserve", "forks": 488},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 981, "stars": 33122, "owner": "astral-sh", "forks": 1110},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 981, "stars": 33124, "owner": "astral-sh", "forks": 1110},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 531, "stars": 14203, "owner": "getzola", "forks": 970},
-{"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 459, "stars": 15267, "owner": "neondatabase", "forks": 445},
+{"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 459, "stars": 15268, "owner": "neondatabase", "forks": 445},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 667, "stars": 32707, "owner": "nushell", "forks": 1693},
 {"description": "\u2693 Solana Sealevel Framework", "language": "Rust", "repo": "anchor", "new_stars": 96, "stars": 3730, "owner": "coral-xyz", "forks": 1366},
-{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 870, "stars": 54500, "owner": "rust-lang", "forks": 10192},
+{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 870, "stars": 54502, "owner": "rust-lang", "forks": 10192},
 {"description": "Improve keyboard comfort and usability with advanced customization", "language": "Rust", "repo": "kanata", "new_stars": 724, "stars": 3082, "owner": "jtroo", "forks": 129},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1150, "stars": 39381, "owner": "dani-garcia", "forks": 1909},
 {"description": "A retro game engine for Python", "language": "Rust", "repo": "pyxel", "new_stars": 568, "stars": 15322, "owner": "kitao", "forks": 846},
@@ -22,6 +22,6 @@
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 389, "stars": 34700, "owner": "lapce", "forks": 1045},
 {"description": "\ud83d\ude80Apache RocketMQ Rust\ud83e\udd80 implementation. Faster, safer, and with lower memory usage.", "language": "Rust", "repo": "rocketmq-rust", "new_stars": 140, "stars": 710, "owner": "mxsm", "forks": 92},
 {"description": "A lightning-fast search API that fits effortlessly into your apps, websites, and workflow", "language": "Rust", "repo": "meilisearch", "new_stars": 607, "stars": 47618, "owner": "meilisearch", "forks": 1857},
-{"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 428, "stars": 20720, "owner": "qdrant", "forks": 1418},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 2042, "stars": 50655, "owner": "zed-industries", "forks": 3140}
+{"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 428, "stars": 20721, "owner": "qdrant", "forks": 1418},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 2042, "stars": 50656, "owner": "zed-industries", "forks": 3140}
 ]

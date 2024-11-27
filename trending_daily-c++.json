@@ -1,8 +1,8 @@
 [
 {"description": "High performance server-side application framework", "language": "C++", "repo": "seastar", "new_stars": 4, "stars": 8401, "owner": "scylladb", "forks": 1558},
 {"description": "Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows", "language": "C++", "repo": "drogon", "new_stars": 9, "stars": 11646, "owner": "drogonframework", "forks": 1117},
-{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 14, "stars": 7435, "owner": "SoftFever", "forks": 891},
-{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 35, "stars": 17543, "owner": "ml-explore", "forks": 1014},
+{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 14, "stars": 7436, "owner": "SoftFever", "forks": 891},
+{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 35, "stars": 17544, "owner": "ml-explore", "forks": 1014},
 {"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 1, "stars": 4980, "owner": "chriskohlhoff", "forks": 1223},
 {"description": "C++ websocket client/server library", "language": "C++", "repo": "websocketpp", "new_stars": 3, "stars": 7081, "owner": "zaphoyd", "forks": 1978},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 8, "stars": 5724, "owner": "NVIDIA", "forks": 982},
@@ -17,6 +17,6 @@
 {"description": "The fastest feature-rich C++11/14/17/20/23 single-header testing framework", "language": "C++", "repo": "doctest", "new_stars": 5, "stars": 5962, "owner": "doctest", "forks": 643},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 5, "stars": 10037, "owner": "cameron314", "forks": 1692},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 3, "stars": 9057, "owner": "google", "forks": 1633},
-{"description": "A modern replacement for Redis and Memcached", "language": "C++", "repo": "dragonfly", "new_stars": 21, "stars": 26015, "owner": "dragonflydb", "forks": 957},
+{"description": "A modern replacement for Redis and Memcached", "language": "C++", "repo": "dragonfly", "new_stars": 21, "stars": 26014, "owner": "dragonflydb", "forks": 957},
 {"description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics", "language": "C++", "repo": "arrow", "new_stars": 5, "stars": 14664, "owner": "apache", "forks": 3556}
 ]

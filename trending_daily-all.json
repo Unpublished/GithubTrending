@@ -1,15 +1,15 @@
 [
-{"description": "A natural language interface for computers", "language": "Python", "repo": "open-interpreter", "new_stars": 297, "stars": 56731, "owner": "OpenInterpreter", "forks": 4886},
-{"description": "Simple, unified interface to multiple Generative AI providers", "language": "Python", "repo": "aisuite", "new_stars": 990, "stars": 3597, "owner": "andrewyng", "forks": 321},
-{"description": "A tool for exploring each layer in a docker image", "language": "Go", "repo": "dive", "new_stars": 300, "stars": 47668, "owner": "wagoodman", "forks": 1796},
-{"description": "A modular graph-based Retrieval-Augmented Generation (RAG) system", "language": "Python", "repo": "graphrag", "new_stars": 98, "stars": 19771, "owner": "microsoft", "forks": 1940},
-{"description": "Fast, easy and reliable testing for anything that runs in a browser.", "language": "JavaScript", "repo": "cypress", "new_stars": 21, "stars": 47262, "owner": "cypress-io", "forks": 3194},
-{"description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.", "language": "TypeScript", "repo": "n8n", "new_stars": 98, "stars": 49900, "owner": "n8n-io", "forks": 8072},
-{"description": "Get started using GitHub in less than an hour.", "language": null, "repo": "introduction-to-github", "new_stars": 17, "stars": 4818, "owner": "skills", "forks": 3072},
-{"description": "Elegant HTTP Networking in Swift", "language": "Swift", "repo": "Alamofire", "new_stars": 7, "stars": 41237, "owner": "Alamofire", "forks": 7553},
-{"description": "\ud83d\udcda Freely available programming books", "language": "HTML", "repo": "free-programming-books", "new_stars": 369, "stars": 340319, "owner": "EbookFoundation", "forks": 61864},
-{"description": "The lazier way to manage everything docker", "language": "Go", "repo": "lazydocker", "new_stars": 150, "stars": 38654, "owner": "jesseduffield", "forks": 1229},
-{"description": "Kubernetes website and documentation repo:", "language": "HTML", "repo": "website", "new_stars": 9, "stars": 4584, "owner": "kubernetes", "forks": 14475},
-{"description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io", "language": "TypeScript", "repo": "renovate", "new_stars": 11, "stars": 17831, "owner": "renovatebot", "forks": 2354},
-{"description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at", "language": "C#", "repo": "azure-sdk-for-net", "new_stars": 2, "stars": 5554, "owner": "Azure", "forks": 4820}
+{"description": "Simple, unified interface to multiple Generative AI providers", "language": "Python", "repo": "aisuite", "new_stars": 990, "stars": 3631, "owner": "andrewyng", "forks": 321},
+{"description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)", "language": "Python", "repo": "screenshot-to-code", "new_stars": 892, "stars": 63098, "owner": "abi", "forks": 7729},
+{"description": "A collection of (mostly) technical things every software developer should know about", "language": null, "repo": "every-programmer-should-know", "new_stars": 243, "stars": 83964, "owner": "mtdvio", "forks": 7833},
+{"description": "stock\u80a1\u7968.\u83b7\u53d6\u80a1\u7968\u6570\u636e,\u8ba1\u7b97\u80a1\u7968\u6307\u6807,\u8bc6\u522b\u80a1\u7968\u5f62\u6001,\u7efc\u5408\u9009\u80a1,\u9009\u80a1\u7b56\u7565,\u80a1\u7968\u9a8c\u8bc1\u56de\u6d4b,\u80a1\u7968\u81ea\u52a8\u4ea4\u6613,\u652f\u6301PC\u53ca\u79fb\u52a8\u8bbe\u5907\u3002", "language": "Python", "repo": "stock", "new_stars": 28, "stars": 1880, "owner": "myhhub", "forks": 466},
+{"description": "A free, open source, multi-platform SQLite database manager.", "language": "C", "repo": "sqlitestudio", "new_stars": 193, "stars": 5273, "owner": "pawelsalawa", "forks": 583},
+{"description": "A natural language interface for computers", "language": "Python", "repo": "open-interpreter", "new_stars": 297, "stars": 56753, "owner": "OpenInterpreter", "forks": 4887},
+{"description": "A tool for exploring each layer in a docker image", "language": "Go", "repo": "dive", "new_stars": 300, "stars": 47674, "owner": "wagoodman", "forks": 1796},
+{"description": "Fast, easy and reliable testing for anything that runs in a browser.", "language": "JavaScript", "repo": "cypress", "new_stars": 21, "stars": 47265, "owner": "cypress-io", "forks": 3194},
+{"description": "Elegant HTTP Networking in Swift", "language": "Swift", "repo": "Alamofire", "new_stars": 7, "stars": 41238, "owner": "Alamofire", "forks": 7554},
+{"description": "Ollama Python library", "language": "Python", "repo": "ollama-python", "new_stars": 75, "stars": 4852, "owner": "ollama", "forks": 406},
+{"description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.", "language": "Python", "repo": "ComfyUI", "new_stars": 159, "stars": 58176, "owner": "comfyanonymous", "forks": 6175},
+{"description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.", "language": "TypeScript", "repo": "typeorm", "new_stars": 8, "stars": 34297, "owner": "typeorm", "forks": 6324},
+{"description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.", "language": "Go", "repo": "terraform", "new_stars": 15, "stars": 42856, "owner": "hashicorp", "forks": 9566}
 ]

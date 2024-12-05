@@ -6,8 +6,18 @@
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 42, "stars": 49303, "owner": "jekyll", "forks": 9986},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 14, "stars": 23824, "owner": "gitlabhq", "forks": 5740},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 71, "stars": 42502, "owner": "discourse", "forks": 8353},
+{"description": "Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 11, "stars": 2720, "owner": "bensheldon", "forks": 203},
+{"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 38, "stars": 9532, "owner": "opf", "forks": 2380},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 9, "stars": 4746, "owner": "dependabot", "forks": 1028},
+{"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 3, "stars": 5331, "owner": "rails-api", "forks": 1391},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 100, "stars": 41660, "owner": "Homebrew", "forks": 9791},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 1, "stars": 311, "owner": "DataDog", "forks": 375},
+{"description": "PDF generator (from HTML) plugin for Ruby on Rails", "language": "Ruby", "repo": "wicked_pdf", "new_stars": 4, "stars": 3549, "owner": "mileszs", "forks": 647},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 13, "stars": 24031, "owner": "heartcombo", "forks": 5545},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 62, "stars": 21408, "owner": "chatwoot", "forks": 3637}
+{"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 11, "stars": 3342, "owner": "citation-style-language", "forks": 3784},
+{"description": "Ruby client for the Datadog API", "language": "Ruby", "repo": "datadog-api-client-ruby", "new_stars": 0, "stars": 38, "owner": "DataDog", "forks": 20},
+{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 49, "stars": 35415, "owner": "freeCodeCamp", "forks": 2370},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 62, "stars": 21408, "owner": "chatwoot", "forks": 3637},
+{"description": "The official AWS SDK for Ruby.", "language": "Ruby", "repo": "aws-sdk-ruby", "new_stars": 4, "stars": 3582, "owner": "aws", "forks": 1226},
+{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 1, "stars": 1023, "owner": "rubysec", "forks": 221}
 ]

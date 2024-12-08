@@ -20,5 +20,6 @@
 {"description": "Mirror of redmine code source - Official Subversion repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 4, "stars": 5330, "owner": "redmine", "forks": 2339},
 {"description": "ActiveModel::Serializer implementation and Rails hooks", "language": "Ruby", "repo": "active_model_serializers", "new_stars": 1, "stars": 5331, "owner": "rails-api", "forks": 1391},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 15, "stars": 24040, "owner": "heartcombo", "forks": 5545},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 25, "stars": 13832, "owner": "Homebrew", "forks": 12485}
+{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 25, "stars": 13833, "owner": "Homebrew", "forks": 12485},
+{"description": "Multithreaded, Postgres-based, Active Job backend for Ruby on Rails.", "language": "Ruby", "repo": "good_job", "new_stars": 9, "stars": 2719, "owner": "bensheldon", "forks": 204}
 ]

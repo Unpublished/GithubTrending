@@ -22,8 +22,8 @@ class TrendingSpiderBase(scrapy.Spider):
                 'repo':        self.to_string(item.xpath("h2/a/text()")),
                 'description': self.to_string(item.xpath("p/text()")),
                 'language':    self.to_string(item.xpath("div[2]/span/span[@itemprop='programmingLanguage']/text()")),
-                'stars':       self.to_int(item.xpath("div[2]/a[1]/text()[2]")),
-                'forks':       self.to_int(item.xpath("div[2]/a[2]/text()[2]")),
+                'stars':       self.to_int(item.xpath("div[2]/a[1]/text()")),
+                'forks':       self.to_int(item.xpath("div[2]/a[2]/text()")),
                 'new_stars':   self.to_int(item.xpath("div[2]/span[@class='d-inline-block float-sm-right']/text()"))
             }
 

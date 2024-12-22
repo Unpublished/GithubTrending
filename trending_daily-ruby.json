@@ -8,10 +8,18 @@
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 14, "stars": 34436, "owner": "rapid7", "forks": 14061},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 0, "stars": 5345, "owner": "doorkeeper-gem", "forks": 1070},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 6, "stars": 13861, "owner": "Homebrew", "forks": 12513},
+{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 5, "stars": 49361, "owner": "jekyll", "forks": 10000},
 {"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 1, "stars": 5600, "owner": "CanCanCommunity", "forks": 638},
 {"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 0, "stars": 8591, "owner": "kaminari", "forks": 1080},
 {"description": "A Ruby/Rack web server built for parallelism", "language": "Ruby", "repo": "puma", "new_stars": 0, "stars": 7715, "owner": "puma", "forks": 1445},
 {"description": "The official AWS SDK for Ruby.", "language": "Ruby", "repo": "aws-sdk-ruby", "new_stars": 1, "stars": 3590, "owner": "aws", "forks": 1227},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 1, "stars": 314, "owner": "DataDog", "forks": 374},
-{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1025, "owner": "rubysec", "forks": 221}
+{"description": "Database-backed Active Job backend", "language": "Ruby", "repo": "solid_queue", "new_stars": 2, "stars": 1993, "owner": "rails", "forks": 137},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 4, "stars": 24049, "owner": "heartcombo", "forks": 5545},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 2, "stars": 13193, "owner": "sidekiq", "forks": 2424},
+{"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 3, "stars": 22234, "owner": "ruby", "forks": 5343},
+{"description": "Object-based searching.", "language": "Ruby", "repo": "ransack", "new_stars": 0, "stars": 5694, "owner": "activerecord-hackery", "forks": 810},
+{"description": "The Rails application that powers OpenStreetMap", "language": "Ruby", "repo": "openstreetmap-website", "new_stars": 0, "stars": 2240, "owner": "openstreetmap", "forks": 923},
+{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1025, "owner": "rubysec", "forks": 221},
+{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 0, "stars": 4555, "owner": "zammad", "forks": 776}
 ]

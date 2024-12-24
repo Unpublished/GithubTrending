@@ -1,11 +1,11 @@
 [
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 1449, "stars": 80799, "owner": "bitcoin", "forks": 36410},
-{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 425, "stars": 7807, "owner": "SoftFever", "forks": 936},
-{"description": "very currency", "language": "C++", "repo": "dogecoin", "new_stars": 165, "stars": 14795, "owner": "dogecoin", "forks": 2913},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 4339, "stars": 26517, "owner": "LadybirdBrowser", "forks": 1145},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 1449, "stars": 80799, "owner": "bitcoin", "forks": 36411},
+{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 425, "stars": 7807, "owner": "SoftFever", "forks": 937},
+{"description": "very currency", "language": "C++", "repo": "dogecoin", "new_stars": 165, "stars": 14796, "owner": "dogecoin", "forks": 2913},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 4339, "stars": 26520, "owner": "LadybirdBrowser", "forks": 1145},
 {"description": "A free and strong UCI chess engine", "language": "C++", "repo": "Stockfish", "new_stars": 247, "stars": 11919, "owner": "official-stockfish", "forks": 2322},
 {"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 339, "stars": 23393, "owner": "notepad-plus-plus", "forks": 4660},
-{"description": "L\u00d6VE is an awesome 2D game framework for Lua.", "language": "C++", "repo": "love", "new_stars": 268, "stars": 5434, "owner": "love2d", "forks": 415},
+{"description": "L\u00d6VE is an awesome 2D game framework for Lua.", "language": "C++", "repo": "love", "new_stars": 268, "stars": 5437, "owner": "love2d", "forks": 415},
 {"description": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!", "language": "C++", "repo": "WLED", "new_stars": 341, "stars": 15367, "owner": "Aircoookie", "forks": 3342},
 {"description": "Making it easier to work with shaders", "language": "C++", "repo": "slang", "new_stars": 825, "stars": 3404, "owner": "shader-slang", "forks": 230},
 {"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 335, "stars": 11756, "owner": "carla-simulator", "forks": 3777},
@@ -14,7 +14,7 @@
 {"description": "C++ Parallel Computing and Asynchronous Networking Framework", "language": "C++", "repo": "workflow", "new_stars": 186, "stars": 13332, "owner": "sogou", "forks": 2442},
 {"description": "Productive, portable, and performant GPU programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 884, "stars": 26407, "owner": "taichi-dev", "forks": 2313},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 185, "stars": 14444, "owner": "Tencent", "forks": 3541},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 918, "stars": 49645, "owner": "topjohnwu", "forks": 12784},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 918, "stars": 49646, "owner": "topjohnwu", "forks": 12787},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 434, "stars": 12260, "owner": "PCSX2", "forks": 1647},
 {"description": "Cross-platform, cross-blockchain wallet library.", "language": "C++", "repo": "wallet-core", "new_stars": 61, "stars": 2921, "owner": "trustwallet", "forks": 1641},
 {"description": "\ud83e\udd18 TT-NN operator library, and TT-Metalium low level kernel programming model.", "language": "C++", "repo": "tt-metal", "new_stars": 91, "stars": 571, "owner": "tenstorrent", "forks": 88},
@@ -22,5 +22,5 @@
 {"description": "C++ implementation of the Google logging module", "language": "C++", "repo": "glog", "new_stars": 68, "stars": 7153, "owner": "google", "forks": 2076},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 196, "stars": 28616, "owner": "facebook", "forks": 5595},
 {"description": "Port of OpenAI's Whisper model in C/C++", "language": "C++", "repo": "whisper.cpp", "new_stars": 733, "stars": 36503, "owner": "ggerganov", "forks": 3740},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 1625, "stars": 69684, "owner": "ggerganov", "forks": 10057}
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 1625, "stars": 69685, "owner": "ggerganov", "forks": 10058}
 ]

@@ -1,7 +1,8 @@
 [
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 2, "stars": 11196, "owner": "Shopify", "forks": 1408},
 {"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 11, "stars": 21887, "owner": "chatwoot", "forks": 3723},
-{"description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by", "language": "Ruby", "repo": "spree", "new_stars": 0, "stars": 13194, "owner": "spree", "forks": 4960},
+{"description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by", "language": "Ruby", "repo": "spree", "new_stars": 0, "stars": 13193, "owner": "spree", "forks": 4960},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 56306, "owner": "rails", "forks": 21740},
 {"description": "An opinionated language server for Ruby", "language": "Ruby", "repo": "ruby-lsp", "new_stars": 3, "stars": 1656, "owner": "Shopify", "forks": 172},
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 17, "stars": 44233, "owner": "huginn", "forks": 3818},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 3, "stars": 5764, "owner": "instructure", "forks": 2553},
@@ -15,12 +16,5 @@
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 2, "stars": 7645, "owner": "chef", "forks": 2509},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 315, "owner": "DataDog", "forks": 375},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 8, "stars": 9682, "owner": "opf", "forks": 2422},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 2, "stars": 12662, "owner": "rubocop", "forks": 3071},
-{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 0, "stars": 13207, "owner": "sidekiq", "forks": 2427},
-{"description": "API powering VA.gov", "language": "Ruby", "repo": "vets-api", "new_stars": 1, "stars": 211, "owner": "department-of-veterans-affairs", "forks": 66},
-{"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 1, "stars": 3716, "owner": "rubygems", "forks": 1763},
-{"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 0, "stars": 10030, "owner": "teamcapybara", "forks": 1456},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 4, "stars": 12995, "owner": "fluent", "forks": 1351},
-{"description": "Use Turbo in your Ruby on Rails app", "language": "Ruby", "repo": "turbo-rails", "new_stars": 2, "stars": 2158, "owner": "hotwired", "forks": 329},
-{"description": "WPScan WordPress security scanner. Written for security professionals and blog maintainers to test the security of their WordPress websites. Contact us via contact@wpscan.com", "language": "Ruby", "repo": "wpscan", "new_stars": 6, "stars": 8700, "owner": "wpscanteam", "forks": 1273}
+{"description": "Use Turbo in your Ruby on Rails app", "language": "Ruby", "repo": "turbo-rails", "new_stars": 2, "stars": 2158, "owner": "hotwired", "forks": 329}
 ]

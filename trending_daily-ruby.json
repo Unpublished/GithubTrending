@@ -1,6 +1,6 @@
 [
 {"description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f", "language": "Ruby", "repo": "docuseal", "new_stars": 42, "stars": 8379, "owner": "docusealco", "forks": 570},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 11, "stars": 22044, "owner": "chatwoot", "forks": 3782},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 11, "stars": 22046, "owner": "chatwoot", "forks": 3783},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 24060, "owner": "heartcombo", "forks": 5546},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 12, "stars": 34632, "owner": "rapid7", "forks": 14107},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 8, "stars": 9745, "owner": "opf", "forks": 2433},
@@ -9,16 +9,18 @@
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 6, "stars": 13017, "owner": "fluent", "forks": 1352},
 {"description": "Ruby library for the Stripe API.", "language": "Ruby", "repo": "stripe-ruby", "new_stars": 0, "stars": 1983, "owner": "stripe", "forks": 556},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 0, "stars": 4590, "owner": "zammad", "forks": 781},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 56336, "owner": "rails", "forks": 21756},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 56337, "owner": "rails", "forks": 21756},
 {"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 23, "stars": 42200, "owner": "Homebrew", "forks": 9932},
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 322, "owner": "DataDog", "forks": 377},
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 39806, "owner": "fastlane", "forks": 5743},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 19, "stars": 44403, "owner": "huginn", "forks": 3832},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 19, "stars": 44404, "owner": "huginn", "forks": 3832},
 {"description": "A library for generating fake data such as names, addresses, and phone numbers.", "language": "Ruby", "repo": "faker", "new_stars": 0, "stars": 11301, "owner": "faker-ruby", "forks": 3178},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 13220, "owner": "sidekiq", "forks": 2428},
 {"description": "Annotate Rails classes with schema and routes info", "language": "Ruby", "repo": "annotate_models", "new_stars": 0, "stars": 4439, "owner": "ctran", "forks": 639},
 {"description": "\ud83d\uded2 Solidus, the open-source eCommerce framework for industry trailblazers.", "language": "Ruby", "repo": "solidus", "new_stars": 1, "stars": 5076, "owner": "solidusio", "forks": 1305},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 0, "stars": 7648, "owner": "chef", "forks": 2511},
 {"description": "Ruby-based unit testing and build system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 0, "stars": 606, "owner": "ThrowTheSwitch", "forks": 250},
-{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 9532, "owner": "activeadmin", "forks": 3315}
+{"description": "The administration framework for Ruby on Rails applications.", "language": "Ruby", "repo": "activeadmin", "new_stars": 0, "stars": 9532, "owner": "activeadmin", "forks": 3315},
+{"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 1, "stars": 6817, "owner": "paper-trail-gem", "forks": 900},
+{"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 0, "stars": 5353, "owner": "doorkeeper-gem", "forks": 1071}
 ]

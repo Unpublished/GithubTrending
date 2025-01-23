@@ -3,7 +3,7 @@
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 6, "stars": 13017, "owner": "fluent", "forks": 1352},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 0, "stars": 4590, "owner": "zammad", "forks": 781},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 2, "stars": 12489, "owner": "github-linguist", "forks": 4371},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 56332, "owner": "rails", "forks": 21754},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 8, "stars": 56333, "owner": "rails", "forks": 21754},
 {"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 23, "stars": 42191, "owner": "Homebrew", "forks": 9932},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 12, "stars": 34630, "owner": "rapid7", "forks": 14109},
 {"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 11, "stars": 22036, "owner": "chatwoot", "forks": 3779},
@@ -12,5 +12,15 @@
 {"description": "A modular Ruby web server interface.", "language": "Ruby", "repo": "rack", "new_stars": 0, "stars": 4953, "owner": "rack", "forks": 1637},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 2, "stars": 10039, "owner": "teamcapybara", "forks": 1455},
 {"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 0, "stars": 7648, "owner": "chef", "forks": 2511},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 4, "stars": 13937, "owner": "Homebrew", "forks": 12559}
+{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 4, "stars": 13937, "owner": "Homebrew", "forks": 12559},
+{"description": "Ruby-based unit testing and build system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 0, "stars": 606, "owner": "ThrowTheSwitch", "forks": 250},
+{"description": "Code coverage for Ruby with a powerful configuration library and automatic merging of coverage across test suites", "language": "Ruby", "repo": "simplecov", "new_stars": 0, "stars": 4792, "owner": "simplecov-ruby", "forks": 554},
+{"description": "Examples of Charting Library integrations with other libraries, frameworks and data transports", "language": "Ruby", "repo": "charting-library-examples", "new_stars": 0, "stars": 1492, "owner": "tradingview", "forks": 780},
+{"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 1, "stars": 6817, "owner": "paper-trail-gem", "forks": 900},
+{"description": "OpenAI API + Ruby! \ud83e\udd16\u2764\ufe0f", "language": "Ruby", "repo": "ruby-openai", "new_stars": 1, "stars": 2892, "owner": "alexrudall", "forks": 342},
+{"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 24059, "owner": "heartcombo", "forks": 5546},
+{"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 322, "owner": "DataDog", "forks": 377},
+{"description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.", "language": "Ruby", "repo": "simple_form", "new_stars": 1, "stars": 8211, "owner": "heartcombo", "forks": 1314},
+{"description": "\ud83d\udc8e A fast, open source text processor and publishing toolchain, written in Ruby, for converting AsciiDoc content to HTML 5, DocBook 5, and other formats.", "language": "Ruby", "repo": "asciidoctor", "new_stars": 1, "stars": 4915, "owner": "asciidoctor", "forks": 797},
+{"description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 1, "stars": 15110, "owner": "postalserver", "forks": 1081}
 ]

@@ -1,11 +1,15 @@
 [
-{"description": "DeepSeek Coder: Let the Code Write Itself", "language": "Python", "repo": "DeepSeek-Coder", "new_stars": 806, "stars": 13608, "owner": "deepseek-ai", "forks": 1098},
-{"description": "Composable building blocks to build Llama Apps", "language": "Python", "repo": "llama-stack", "new_stars": 264, "stars": 6873, "owner": "meta-llama", "forks": 819},
-{"description": "Convert PDF to markdown + JSON quickly with high accuracy", "language": "Python", "repo": "marker", "new_stars": 103, "stars": 19941, "owner": "VikParuchuri", "forks": 1189},
-{"description": "OCR, layout analysis, reading order, table recognition in 90+ languages", "language": "Python", "repo": "surya", "new_stars": 113, "stars": 15954, "owner": "VikParuchuri", "forks": 1022},
-{"description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.", "language": "Python", "repo": "ComfyUI", "new_stars": 120, "stars": 65000, "owner": "comfyanonymous", "forks": 6955},
-{"description": "\ud83d\udcfa An End-to-End Solution for High-Resolution and Long Video Generation Based on Transformer Diffusion", "language": "Python", "repo": "EasyAnimate", "new_stars": 14, "stars": 1785, "owner": "aigc-apps", "forks": 133},
-{"description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding", "language": "Python", "repo": "DeepSeek-VL", "new_stars": 52, "stars": 2569, "owner": "deepseek-ai", "forks": 307},
-{"description": null, "language": "Python", "repo": "moshi", "new_stars": 21, "stars": 7299, "owner": "kyutai-labs", "forks": 573},
-{"description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.", "language": "Python", "repo": "awesome-llm-apps", "new_stars": 135, "stars": 13685, "owner": "Shubhamsaboo", "forks": 1471}
+{"description": "DeepSeek Coder: Let the Code Write Itself", "language": "Python", "repo": "DeepSeek-Coder", "new_stars": 806, "stars": 13679, "owner": "deepseek-ai", "forks": 1108},
+{"description": "Janus-Series: Unified Multimodal Understanding and Generation Models", "language": "Python", "repo": "Janus", "new_stars": 5572, "stars": 7032, "owner": "deepseek-ai", "forks": 709},
+{"description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding", "language": "Python", "repo": "DeepSeek-VL", "new_stars": 52, "stars": 2575, "owner": "deepseek-ai", "forks": 307},
+{"description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models", "language": "Python", "repo": "DeepSeek-Math", "new_stars": 115, "stars": 1258, "owner": "deepseek-ai", "forks": 173},
+{"description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior", "language": "Python", "repo": "DreamCraft3D", "new_stars": 33, "stars": 2153, "owner": "deepseek-ai", "forks": 154},
+{"description": "TEN Agent is a conversational AI powered by the TEN, integrating Gemini 2.0 Live, OpenAI Realtime, RTC, and more. It delivers real-time capabilities to see, hear, and speak, while being fully compatible with popular workflow platforms like Dify and Coze.", "language": "Python", "repo": "TEN-Agent", "new_stars": 27, "stars": 4038, "owner": "TEN-framework", "forks": 438},
+{"description": "Composable building blocks to build Llama Apps", "language": "Python", "repo": "llama-stack", "new_stars": 264, "stars": 6883, "owner": "meta-llama", "forks": 819},
+{"description": null, "language": "Python", "repo": "fyle-interview-intern-backend", "new_stars": 6, "stars": 107, "owner": "fylein", "forks": 1940},
+{"description": "Convert PDF to markdown + JSON quickly with high accuracy", "language": "Python", "repo": "marker", "new_stars": 103, "stars": 19951, "owner": "VikParuchuri", "forks": 1189},
+{"description": "A high-throughput and memory-efficient inference and serving engine for LLMs", "language": "Python", "repo": "vllm", "new_stars": 192, "stars": 35121, "owner": "vllm-project", "forks": 5345},
+{"description": "\ud83e\udd17 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.", "language": "Python", "repo": "transformers", "new_stars": 68, "stars": 138136, "owner": "huggingface", "forks": 27699},
+{"description": "SGLang is a fast serving framework for large language models and vision language models.", "language": "Python", "repo": "sglang", "new_stars": 119, "stars": 7994, "owner": "sgl-project", "forks": 777},
+{"description": "Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma LLMs 2-5x faster with 70% less memory", "language": "Python", "repo": "unsloth", "new_stars": 170, "stars": 21496, "owner": "unslothai", "forks": 1513}
 ]

@@ -1,17 +1,14 @@
 [
-{"description": "DeepSeek Coder: Let the Code Write Itself", "language": "Python", "repo": "DeepSeek-Coder", "new_stars": 3541, "stars": 14872, "owner": "deepseek-ai", "forks": 1397},
-{"description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.", "language": "TypeScript", "repo": "saas-starter", "new_stars": 1727, "stars": 9999, "owner": "nextjs", "forks": 1016},
-{"description": "Lightpanda: the headless browser designed for AI and automation", "language": "Zig", "repo": "browser", "new_stars": 3342, "stars": 4841, "owner": "lightpanda-io", "forks": 101},
-{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 3550, "stars": 16914, "owner": "shadps4-emu", "forks": 1028},
-{"description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!", "language": "TypeScript", "repo": "Reactive-Resume", "new_stars": 1375, "stars": 29011, "owner": "AmruthPillai", "forks": 2920},
+{"description": "DeepSeek Coder: Let the Code Write Itself", "language": "Python", "repo": "DeepSeek-Coder", "new_stars": 3541, "stars": 14923, "owner": "deepseek-ai", "forks": 1408},
+{"description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.", "language": "TypeScript", "repo": "saas-starter", "new_stars": 1727, "stars": 10004, "owner": "nextjs", "forks": 1017},
+{"description": "DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence", "language": null, "repo": "DeepSeek-Coder-V2", "new_stars": 953, "stars": 3945, "owner": "deepseek-ai", "forks": 472},
+{"description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.", "language": "Go", "repo": "ollama", "new_stars": 4021, "stars": 113792, "owner": "ollama", "forks": 9056},
+{"description": "Lightpanda: the headless browser designed for AI and automation", "language": "Zig", "repo": "browser", "new_stars": 3342, "stars": 4849, "owner": "lightpanda-io", "forks": 101},
+{"description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!", "language": "TypeScript", "repo": "Reactive-Resume", "new_stars": 1375, "stars": 29014, "owner": "AmruthPillai", "forks": 2920},
+{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 3550, "stars": 16922, "owner": "shadps4-emu", "forks": 1029},
+{"description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a", "language": "Python", "repo": "exo", "new_stars": 1541, "stars": 20636, "owner": "exo-explore", "forks": 1169},
 {"description": "Solana Swiss Army Knife", "language": "Rust", "repo": "listen", "new_stars": 326, "stars": 597, "owner": "piotrostr", "forks": 87},
-{"description": "Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.", "language": "Go", "repo": "ollama", "new_stars": 4021, "stars": 113737, "owner": "ollama", "forks": 9050},
-{"description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a", "language": "Python", "repo": "exo", "new_stars": 1541, "stars": 20628, "owner": "exo-explore", "forks": 1168},
-{"description": "Open Source Alternative to Vercel, Netlify and Heroku.", "language": "TypeScript", "repo": "dokploy", "new_stars": 1478, "stars": 15663, "owner": "Dokploy", "forks": 800},
-{"description": "\u2728 The Next Gen Airtable Alternative: No-Code Postgres", "language": "TypeScript", "repo": "teable", "new_stars": 1072, "stars": 16280, "owner": "teableio", "forks": 752},
-{"description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)", "language": "TypeScript", "repo": "chatbox", "new_stars": 1130, "stars": 26184, "owner": "Bin-Huang", "forks": 2569},
-{"description": "\ud83d\udcc4 A curated list of awesome .cursorrules files", "language": null, "repo": "awesome-cursorrules", "new_stars": 1278, "stars": 8617, "owner": "PatrickJS", "forks": 575},
-{"description": "Photo Sharing. For Everyone.", "language": "PHP", "repo": "pixelfed", "new_stars": 148, "stars": 6233, "owner": "pixelfed", "forks": 731},
-{"description": "\ud83d\udce6 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.", "language": "TypeScript", "repo": "repomix", "new_stars": 849, "stars": 7661, "owner": "yamadashy", "forks": 361},
-{"description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one", "language": "Zig", "repo": "bun", "new_stars": 389, "stars": 75791, "owner": "oven-sh", "forks": 2886}
+{"description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)", "language": "TypeScript", "repo": "chatbox", "new_stars": 1130, "stars": 26196, "owner": "Bin-Huang", "forks": 2570},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 783, "stars": 71880, "owner": "ggerganov", "forks": 10392},
+{"description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one", "language": "Zig", "repo": "bun", "new_stars": 389, "stars": 75793, "owner": "oven-sh", "forks": 2886}
 ]

@@ -1,16 +1,15 @@
 [
-{"description": "DeepSeek Coder: Let the Code Write Itself", "language": "Python", "repo": "DeepSeek-Coder", "new_stars": 4764, "stars": 17079, "owner": "deepseek-ai", "forks": 1851},
-{"description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a", "language": "Python", "repo": "exo", "new_stars": 1411, "stars": 21584, "owner": "exo-explore", "forks": 1235},
-{"description": "Make websites accessible for AI agents", "language": "Python", "repo": "browser-use", "new_stars": 3434, "stars": 23759, "owner": "browser-use", "forks": 2346},
-{"description": "A high-throughput and memory-efficient inference and serving engine for LLMs", "language": "Python", "repo": "vllm", "new_stars": 1092, "stars": 36114, "owner": "vllm-project", "forks": 5463},
-{"description": "A Gradio web UI for Large Language Models with support for multiple inference backends.", "language": "Python", "repo": "text-generation-webui", "new_stars": 339, "stars": 42154, "owner": "oobabooga", "forks": 5464},
-{"description": "Janus-Series: Unified Multimodal Understanding and Generation Models", "language": "Python", "repo": "Janus", "new_stars": 11550, "stars": 14075, "owner": "deepseek-ai", "forks": 1799},
+{"description": "Janus-Series: Unified Multimodal Understanding and Generation Models", "language": "Python", "repo": "Janus", "new_stars": 11550, "stars": 14085, "owner": "deepseek-ai", "forks": 1802},
+{"description": "DeepSeek Coder: Let the Code Write Itself", "language": "Python", "repo": "DeepSeek-Coder", "new_stars": 4764, "stars": 17089, "owner": "deepseek-ai", "forks": 1854},
+{"description": "Run your own AI cluster at home with everyday devices \ud83d\udcf1\ud83d\udcbb \ud83d\udda5\ufe0f\u231a", "language": "Python", "repo": "exo", "new_stars": 1411, "stars": 21590, "owner": "exo-explore", "forks": 1235},
+{"description": "Finetune Llama 3.3, DeepSeek-R1, Mistral, Phi-4 & Gemma 2 LLMs 2-5x faster with 70% less memory", "language": "Python", "repo": "unsloth", "new_stars": 1667, "stars": 23072, "owner": "unslothai", "forks": 1590},
+{"description": "A high-throughput and memory-efficient inference and serving engine for LLMs", "language": "Python", "repo": "vllm", "new_stars": 1092, "stars": 36122, "owner": "vllm-project", "forks": 5464},
+{"description": "A reactive notebook for Python \u2014 run reproducible experiments, execute as a script, deploy as an app, and version with git.", "language": "Python", "repo": "marimo", "new_stars": 367, "stars": 10142, "owner": "marimo-team", "forks": 371},
+{"description": "A Gradio web UI for Large Language Models with support for multiple inference backends.", "language": "Python", "repo": "text-generation-webui", "new_stars": 339, "stars": 42155, "owner": "oobabooga", "forks": 5465},
+{"description": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models", "language": "Python", "repo": "DeepSeek-Math", "new_stars": 838, "stars": 2082, "owner": "deepseek-ai", "forks": 370},
+{"description": "[ICLR 2024] Official implementation of DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior", "language": "Python", "repo": "DreamCraft3D", "new_stars": 587, "stars": 2726, "owner": "deepseek-ai", "forks": 289},
+{"description": "The official repo of Qwen (\u901a\u4e49\u5343\u95ee) chat & pretrained large language model proposed by Alibaba Cloud.", "language": "Python", "repo": "Qwen", "new_stars": 899, "stars": 16440, "owner": "QwenLM", "forks": 1355},
 {"description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding", "language": "Python", "repo": "DeepSeek-VL", "new_stars": 665, "stars": 3185, "owner": "deepseek-ai", "forks": 457},
-{"description": "The official repo of Qwen (\u901a\u4e49\u5343\u95ee) chat & pretrained large language model proposed by Alibaba Cloud.", "language": "Python", "repo": "Qwen", "new_stars": 899, "stars": 16438, "owner": "QwenLM", "forks": 1354},
-{"description": "veRL: Volcano Engine Reinforcement Learning for LLM", "language": "Python", "repo": "verl", "new_stars": 912, "stars": 2059, "owner": "volcengine", "forks": 164},
-{"description": "Finetune Llama 3.3, DeepSeek-R1, Mistral, Phi-4 & Gemma 2 LLMs 2-5x faster with 70% less memory", "language": "Python", "repo": "unsloth", "new_stars": 1667, "stars": 23065, "owner": "unslothai", "forks": 1590},
-{"description": "Universal LLM Deployment Engine with ML Compilation", "language": "Python", "repo": "mlc-llm", "new_stars": 102, "stars": 19845, "owner": "mlc-ai", "forks": 1644},
-{"description": "Resources of our paper \"FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces\". New versions in the making!", "language": "Python", "repo": "FilmAgent", "new_stars": 325, "stars": 700, "owner": "HITsz-TMG", "forks": 95},
-{"description": "Composable building blocks to build Llama Apps", "language": "Python", "repo": "llama-stack", "new_stars": 389, "stars": 7131, "owner": "meta-llama", "forks": 812},
-{"description": "Convert PDF to markdown + JSON quickly with high accuracy", "language": "Python", "repo": "marker", "new_stars": 469, "stars": 20238, "owner": "VikParuchuri", "forks": 1209}
+{"description": "veRL: Volcano Engine Reinforcement Learning for LLM", "language": "Python", "repo": "verl", "new_stars": 912, "stars": 2066, "owner": "volcengine", "forks": 164},
+{"description": "Task oriented AI agent framework for digital workers and vertical AI agents", "language": "Python", "repo": "Upsonic", "new_stars": 217, "stars": 6276, "owner": "Upsonic", "forks": 600}
 ]

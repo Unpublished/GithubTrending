@@ -1,6 +1,6 @@
 [
 {"description": "Modern open-source time-tracking app", "language": "PHP", "repo": "solidtime", "new_stars": 527, "stars": 4492, "owner": "solidtime-io", "forks": 217},
-{"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 533, "stars": 17798, "owner": "firefly-iii", "forks": 1584},
+{"description": "Firefly III: a personal finances manager", "language": "PHP", "repo": "firefly-iii", "new_stars": 533, "stars": 17813, "owner": "firefly-iii", "forks": 1583},
 {"description": "Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at:", "language": "PHP", "repo": "magento2", "new_stars": 18, "stars": 11660, "owner": "magento", "forks": 9342},
 {"description": "Personal CRM. Remember everything about your friends, family and business relationships.", "language": "PHP", "repo": "monica", "new_stars": 67, "stars": 22188, "owner": "monicahq", "forks": 2214},
 {"description": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.", "language": "PHP", "repo": "livewire", "new_stars": 30, "stars": 22638, "owner": "livewire", "forks": 1596},
@@ -15,11 +15,13 @@
 {"description": "A pure PHP library for reading and writing spreadsheet files", "language": "PHP", "repo": "PhpSpreadsheet", "new_stars": 13, "stars": 13493, "owner": "PHPOffice", "forks": 3515},
 {"description": "The classic email sending library for PHP", "language": "PHP", "repo": "PHPMailer", "new_stars": 17, "stars": 21243, "owner": "PHPMailer", "forks": 9760},
 {"description": "Online Accounting Software", "language": "PHP", "repo": "akaunting", "new_stars": 34, "stars": 8353, "owner": "akaunting", "forks": 2518},
-{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 174, "stars": 60679, "owner": "danielmiessler", "forks": 24134},
-{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 47, "stars": 29999, "owner": "symfony", "forks": 9543},
+{"description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.", "language": "PHP", "repo": "SecLists", "new_stars": 174, "stars": 60678, "owner": "danielmiessler", "forks": 24134},
+{"description": "The Symfony PHP framework", "language": "PHP", "repo": "symfony", "new_stars": 47, "stars": 29998, "owner": "symfony", "forks": 9544},
 {"description": "The PHP Unit Testing framework.", "language": "PHP", "repo": "phpunit", "new_stars": 15, "stars": 19770, "owner": "sebastianbergmann", "forks": 2200},
 {"description": "Module Management In Laravel", "language": "PHP", "repo": "laravel-modules", "new_stars": 22, "stars": 5660, "owner": "nWidart", "forks": 979},
 {"description": "Associate users with roles and permissions", "language": "PHP", "repo": "laravel-permission", "new_stars": 22, "stars": 12330, "owner": "spatie", "forks": 1792},
-{"description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.", "language": "PHP", "repo": "filament", "new_stars": 213, "stars": 21379, "owner": "filamentphp", "forks": 3194},
+{"description": "A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.", "language": "PHP", "repo": "filament", "new_stars": 213, "stars": 21380, "owner": "filamentphp", "forks": 3194},
+{"description": "Sends your logs to files, sockets, inboxes, databases and various web services", "language": "PHP", "repo": "monolog", "new_stars": 14, "stars": 21145, "owner": "Seldaek", "forks": 1901},
+{"description": "A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.", "language": "PHP", "repo": "Xiaomi-HyperOS-BootLoader-Bypass", "new_stars": 43, "stars": 3319, "owner": "MlgmXyysd", "forks": 352},
 {"description": "\ud83e\udd84\u72ec\u89d2\u6570\u5361(\u81ea\u52a8\u552e\u8d27\u7cfb\u7edf)-\u5f00\u6e90\u7ad9\u957f\u81ea\u52a8\u5316\u552e\u8d27\u89e3\u51b3\u65b9\u6848\u3001\u9ad8\u6548\u3001\u7a33\u5b9a\u3001\u5feb\u901f\uff01\ud83d\ude80\ud83d\ude80\ud83c\udf89\ud83c\udf89", "language": "PHP", "repo": "dujiaoka", "new_stars": 32, "stars": 9952, "owner": "assimon", "forks": 2319}
 ]

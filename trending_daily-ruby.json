@@ -1,8 +1,8 @@
 [
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 7, "stars": 21145, "owner": "Homebrew", "forks": 10860},
-{"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 121, "stars": 39993, "owner": "maybe-finance", "forks": 2845},
+{"description": "The OS for your personal finances", "language": "Ruby", "repo": "maybe", "new_stars": 121, "stars": 39996, "owner": "maybe-finance", "forks": 2845},
 {"description": "Vagrant is a tool for building and distributing development environments.", "language": "Ruby", "repo": "vagrant", "new_stars": 4, "stars": 26484, "owner": "hashicorp", "forks": 4448},
-{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 6, "stars": 39901, "owner": "fastlane", "forks": 5758},
+{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 6, "stars": 39901, "owner": "fastlane", "forks": 5759},
 {"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 10, "stars": 12087, "owner": "basecamp", "forks": 506},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 18, "stars": 34839, "owner": "rapid7", "forks": 14153},
 {"description": "Library packaging and distribution for Ruby.", "language": "Ruby", "repo": "rubygems", "new_stars": 1, "stars": 3732, "owner": "rubygems", "forks": 1779},
@@ -14,7 +14,12 @@
 {"description": "Datadog Tracing Ruby Client", "language": "Ruby", "repo": "dd-trace-rb", "new_stars": 0, "stars": 321, "owner": "DataDog", "forks": 381},
 {"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 1, "stars": 5360, "owner": "doorkeeper-gem", "forks": 1072},
 {"description": "Informative site with EoL dates of everything", "language": "Ruby", "repo": "endoflife.date", "new_stars": 1, "stars": 2630, "owner": "endoflife-date", "forks": 843},
+{"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 1, "stars": 13241, "owner": "sidekiq", "forks": 2428},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 18, "stars": 43261, "owner": "discourse", "forks": 8433},
-{"description": "Use Turbo in your Ruby on Rails app", "language": "Ruby", "repo": "turbo-rails", "new_stars": 0, "stars": 2176, "owner": "hotwired", "forks": 331},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 0, "stars": 12680, "owner": "rubocop", "forks": 3076}
+{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 14635, "owner": "CocoaPods", "forks": 2652},
+{"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 0, "stars": 6834, "owner": "paper-trail-gem", "forks": 902},
+{"description": "Use Turbo in your Ruby on Rails app", "language": "Ruby", "repo": "turbo-rails", "new_stars": 0, "stars": 2177, "owner": "hotwired", "forks": 331},
+{"description": "OpenAI API + Ruby! \ud83e\udd16\u2764\ufe0f", "language": "Ruby", "repo": "ruby-openai", "new_stars": 6, "stars": 2948, "owner": "alexrudall", "forks": 347},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 0, "stars": 12680, "owner": "rubocop", "forks": 3076},
+{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 0, "stars": 2049, "owner": "rswag", "forks": 437}
 ]

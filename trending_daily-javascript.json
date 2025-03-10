@@ -1,16 +1,14 @@
 [
-{"description": "Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.", "language": "JavaScript", "repo": "firecrawl-mcp-server", "new_stars": 37, "stars": 611, "owner": "mendableai", "forks": 62},
-{"description": null, "language": "JavaScript", "repo": "mcp-server-browserbase", "new_stars": 8, "stars": 229, "owner": "browserbase", "forks": 29},
-{"description": "A collaborative list of public APIs for developers", "language": "JavaScript", "repo": "public-apis", "new_stars": 27, "stars": 4522, "owner": "marcelscruz", "forks": 446},
-{"description": "Source Code for Sigma Web Development Course", "language": "JavaScript", "repo": "Sigma-Web-Dev-Course", "new_stars": 8, "stars": 7686, "owner": "CodeWithHarry", "forks": 2319},
-{"description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.", "language": "JavaScript", "repo": "gutenberg", "new_stars": 10, "stars": 10939, "owner": "WordPress", "forks": 4346},
-{"description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)", "language": "JavaScript", "repo": "3x-ui", "new_stars": 31, "stars": 17588, "owner": "MHSanaei", "forks": 3686},
-{"description": "Collection of publicly available IPTV channels from all over the world", "language": "JavaScript", "repo": "iptv", "new_stars": 44, "stars": 90856, "owner": "iptv-org", "forks": 3217},
-{"description": "24 Lessons, 12 Weeks, Get Started as a Web Developer", "language": "JavaScript", "repo": "Web-Dev-For-Beginners", "new_stars": 37, "stars": 85469, "owner": "microsoft", "forks": 12712},
-{"description": "Cross platform configuration tool for the Betaflight firmware", "language": "JavaScript", "repo": "betaflight-configurator", "new_stars": 3, "stars": 2706, "owner": "betaflight", "forks": 938},
-{"description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.", "language": "JavaScript", "repo": "edex-ui", "new_stars": 7, "stars": 41713, "owner": "GitSquared", "forks": 2672},
-{"description": "\ud83c\udf10 The Internet OS! Free, Open-Source, and Self-Hostable.", "language": "JavaScript", "repo": "puter", "new_stars": 40, "stars": 29269, "owner": "HeyPuter", "forks": 2120},
-{"description": "Running V2ray inside edge/serverless runtime", "language": "JavaScript", "repo": "edgetunnel", "new_stars": 4, "stars": 7693, "owner": "zizifn", "forks": 33284},
-{"description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.", "language": "JavaScript", "repo": "nuclei-templates", "new_stars": 2, "stars": 9782, "owner": "projectdiscovery", "forks": 2743},
-{"description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.", "language": "JavaScript", "repo": "uBlock", "new_stars": 66, "stars": 51241, "owner": "gorhill", "forks": 3363}
+{"description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app", "language": "JavaScript", "repo": "whatsapp-web.js", "new_stars": 11, "stars": 16304, "owner": "pedroslopez", "forks": 3920},
+{"description": "The Free Software Media System - Official Web Client", "language": "JavaScript", "repo": "jellyfin-web", "new_stars": 4, "stars": 2602, "owner": "jellyfin", "forks": 1366},
+{"description": "LLM Frontend for Power Users.", "language": "JavaScript", "repo": "SillyTavern", "new_stars": 52, "stars": 12203, "owner": "SillyTavern", "forks": 2914},
+{"description": "OK\u5f71\u89c6\u3001tvbox\u914d\u7f6e\u6587\u4ef6\uff0c\u5982\u679c\u559c\u6b22\uff0c\u8bf7Fork\u81ea\u7528\u3002\u4f7f\u7528\u524d\u8bf7\u4ed4\u7ec6\u9605\u8bfb\u4ed3\u5e93\u8bf4\u660e\uff0c\u4e00\u65e6\u4f7f\u7528\u5c06\u88ab\u89c6\u4e3a\u4f60\u5df2\u4e86\u89e3\u3002", "language": "JavaScript", "repo": "tvbox", "new_stars": 9, "stars": 4270, "owner": "qist", "forks": 1621},
+{"description": "\ud83c\udf10 The Internet OS! Free, Open-Source, and Self-Hostable.", "language": "JavaScript", "repo": "puter", "new_stars": 40, "stars": 29271, "owner": "HeyPuter", "forks": 2120},
+{"description": "Collection of publicly available IPTV channels from all over the world", "language": "JavaScript", "repo": "iptv", "new_stars": 44, "stars": 90855, "owner": "iptv-org", "forks": 3217},
+{"description": "24 Lessons, 12 Weeks, Get Started as a Web Developer", "language": "JavaScript", "repo": "Web-Dev-For-Beginners", "new_stars": 37, "stars": 85469, "owner": "microsoft", "forks": 12713},
+{"description": "SVG icons for popular brands", "language": "JavaScript", "repo": "simple-icons", "new_stars": 10, "stars": 22071, "owner": "simple-icons", "forks": 2764},
+{"description": "Self-hosted audiobook and podcast server", "language": "JavaScript", "repo": "audiobookshelf", "new_stars": 11, "stars": 7935, "owner": "advplyr", "forks": 537},
+{"description": "Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)", "language": "JavaScript", "repo": "3x-ui", "new_stars": 31, "stars": 17589, "owner": "MHSanaei", "forks": 3686},
+{"description": "Grab your own sweet-looking '.is-a.dev' subdomain.", "language": "JavaScript", "repo": "register", "new_stars": 17, "stars": 6138, "owner": "is-a-dev", "forks": 11106},
+{"description": "Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.", "language": "JavaScript", "repo": "firecrawl-mcp-server", "new_stars": 37, "stars": 615, "owner": "mendableai", "forks": 62}
 ]

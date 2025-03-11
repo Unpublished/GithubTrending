@@ -1,17 +1,16 @@
 [
-{"description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.", "language": "C++", "repo": "UnleashedRecomp", "new_stars": 1528, "stars": 3432, "owner": "hedge-dev", "forks": 147},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 3022, "stars": 35368, "owner": "LadybirdBrowser", "forks": 1481},
-{"description": null, "language": "C++", "repo": "duix.ai", "new_stars": 199, "stars": 4519, "owner": "GuijiAI", "forks": 668},
-{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\uff0c\u53ef\u63a5\u5165DeepSeek\u3001Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002\u5fae\u4fe1 hook WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 157, "stars": 5571, "owner": "lich0821", "forks": 1134},
+{"description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.", "language": "C++", "repo": "UnleashedRecomp", "new_stars": 1528, "stars": 3433, "owner": "hedge-dev", "forks": 147},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 3022, "stars": 35373, "owner": "LadybirdBrowser", "forks": 1481},
+{"description": null, "language": "C++", "repo": "duix.ai", "new_stars": 199, "stars": 4520, "owner": "GuijiAI", "forks": 668},
+{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\uff0c\u53ef\u63a5\u5165DeepSeek\u3001Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002\u5fae\u4fe1 hook WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 157, "stars": 5572, "owner": "lich0821", "forks": 1134},
 {"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.", "language": "C++", "repo": "deskflow", "new_stars": 231, "stars": 16414, "owner": "deskflow", "forks": 3969},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 388, "stars": 95033, "owner": "godotengine", "forks": 21876},
-{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 995, "stars": 8386, "owner": "78", "forks": 1470},
-{"description": "Scripting platform, modding framework and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 227, "stars": 3502, "owner": "praydog", "forks": 394},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 388, "stars": 95034, "owner": "godotengine", "forks": 21876},
+{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 995, "stars": 8395, "owner": "78", "forks": 1471},
+{"description": "Scripting platform, modding framework and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 227, "stars": 3503, "owner": "praydog", "forks": 394},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 79, "stars": 25512, "owner": "gabime", "forks": 4704},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 61, "stars": 21436, "owner": "fmtlib", "forks": 2597},
-{"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 120, "stars": 32750, "owner": "carbon-language", "forks": 1490},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 61, "stars": 21437, "owner": "fmtlib", "forks": 2597},
+{"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 120, "stars": 32749, "owner": "carbon-language", "forks": 1490},
 {"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 41, "stars": 22560, "owner": "PaddlePaddle", "forks": 5682},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 78, "stars": 27109, "owner": "telegramdesktop", "forks": 5414},
-{"description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative \ud83e\udd8a", "language": "C++", "repo": "Floorp", "new_stars": 429, "stars": 6928, "owner": "Floorp-Projects", "forks": 201},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 171, "stars": 120984, "owner": "facebook", "forks": 24551}
+{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 78, "stars": 27110, "owner": "telegramdesktop", "forks": 5414},
+{"description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative \ud83e\udd8a", "language": "C++", "repo": "Floorp", "new_stars": 429, "stars": 6927, "owner": "Floorp-Projects", "forks": 201}
 ]

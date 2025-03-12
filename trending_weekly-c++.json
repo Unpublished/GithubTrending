@@ -1,11 +1,11 @@
 [
 {"description": "An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.", "language": "C++", "repo": "UnleashedRecomp", "new_stars": 1080, "stars": 3461, "owner": "hedge-dev", "forks": 148},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 1762, "stars": 35411, "owner": "LadybirdBrowser", "forks": 1479},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 1762, "stars": 35417, "owner": "LadybirdBrowser", "forks": 1479},
 {"description": null, "language": "C++", "repo": "duix.ai", "new_stars": 200, "stars": 4523, "owner": "GuijiAI", "forks": 668},
-{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\uff0c\u53ef\u63a5\u5165DeepSeek\u3001Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002\u5fae\u4fe1 hook WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 157, "stars": 5576, "owner": "lich0821", "forks": 1135},
-{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.", "language": "C++", "repo": "deskflow", "new_stars": 216, "stars": 16421, "owner": "deskflow", "forks": 3970},
+{"description": "\u5fae\u4fe1\u673a\u5668\u4eba\uff0c\u53ef\u63a5\u5165DeepSeek\u3001Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002\u5fae\u4fe1 hook WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 157, "stars": 5577, "owner": "lich0821", "forks": 1135},
+{"description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.", "language": "C++", "repo": "deskflow", "new_stars": 216, "stars": 16424, "owner": "deskflow", "forks": 3970},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 339, "stars": 95051, "owner": "godotengine", "forks": 21881},
-{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 1022, "stars": 8466, "owner": "78", "forks": 1482},
+{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 1022, "stars": 8478, "owner": "78", "forks": 1483},
 {"description": "Scripting platform, modding framework and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 217, "stars": 3508, "owner": "praydog", "forks": 394},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 77, "stars": 25514, "owner": "gabime", "forks": 4704},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 61, "stars": 21439, "owner": "fmtlib", "forks": 2596},
@@ -13,7 +13,10 @@
 {"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 43, "stars": 22561, "owner": "PaddlePaddle", "forks": 5682},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 80, "stars": 27114, "owner": "telegramdesktop", "forks": 5417},
 {"description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative \ud83e\udd8a", "language": "C++", "repo": "Floorp", "new_stars": 346, "stars": 6933, "owner": "Floorp-Projects", "forks": 201},
-{"description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".", "language": "C++", "repo": "brpc", "new_stars": 34, "stars": 16831, "owner": "apache", "forks": 4014},
+{"description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".", "language": "C++", "repo": "brpc", "new_stars": 34, "stars": 16832, "owner": "apache", "forks": 4014},
 {"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 146, "stars": 31309, "owner": "SerenityOS", "forks": 3213},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 180, "stars": 121000, "owner": "facebook", "forks": 24551}
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 180, "stars": 121000, "owner": "facebook", "forks": 24551},
+{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 51, "stars": 9030, "owner": "PX4", "forks": 13745},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 41, "stars": 29082, "owner": "facebook", "forks": 5647},
+{"description": "A toolkit for making real world machine learning and data analysis applications in C++", "language": "C++", "repo": "dlib", "new_stars": 43, "stars": 13853, "owner": "davisking", "forks": 3411}
 ]

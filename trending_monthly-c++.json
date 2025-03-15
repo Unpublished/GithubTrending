@@ -1,21 +1,3 @@
 [
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 7827, "stars": 35712, "owner": "LadybirdBrowser", "forks": 1493},
-{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 3965, "stars": 8839, "owner": "78", "forks": 1566},
-{"description": "The 2013 edition of the Source SDK", "language": "C++", "repo": "source-sdk-2013", "new_stars": 4577, "stars": 8424, "owner": "ValveSoftware", "forks": 2526},
-{"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 887, "stars": 7063, "owner": "NVIDIA", "forks": 1158},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 650, "stars": 81095, "owner": "opencv", "forks": 56030},
-{"description": "Android real-time display control software", "language": "C++", "repo": "QtScrcpy", "new_stars": 683, "stars": 23162, "owner": "barry-ran", "forks": 2936},
-{"description": "The AI-native database built for LLM applications, providing incredibly fast hybrid search of dense vector, sparse vector, tensor (multi-vector), and full-text", "language": "C++", "repo": "infinity", "new_stars": 250, "stars": 3324, "owner": "infiniflow", "forks": 321},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 898, "stars": 188629, "owner": "tensorflow", "forks": 74591},
-{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 402, "stars": 15967, "owner": "microsoft", "forks": 3094},
-{"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 174, "stars": 16313, "owner": "pybind", "forks": 2145},
-{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 495, "stars": 9033, "owner": "SoftFever", "forks": 1087},
-{"description": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice \uff08\u300e\u98de\u6868\u300f\u6838\u5fc3\u6846\u67b6\uff0c\u6df1\u5ea6\u5b66\u4e60&\u673a\u5668\u5b66\u4e60\u9ad8\u6027\u80fd\u5355\u673a\u3001\u5206\u5e03\u5f0f\u8bad\u7ec3\u548c\u8de8\u5e73\u53f0\u90e8\u7f72\uff09", "language": "C++", "repo": "Paddle", "new_stars": 137, "stars": 22574, "owner": "PaddlePaddle", "forks": 5687},
-{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 1122, "stars": 27570, "owner": "duckdb", "forks": 2161},
-{"description": "Optimized primitives for collective multi-GPU communication", "language": "C++", "repo": "nccl", "new_stars": 102, "stars": 3549, "owner": "NVIDIA", "forks": 878},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 194, "stars": 19170, "owner": "catchorg", "forks": 3092},
-{"description": "A brief computer graphics / rendering course", "language": "C++", "repo": "tinyrenderer", "new_stars": 276, "stars": 21457, "owner": "ssloy", "forks": 2048},
-{"description": null, "language": "C++", "repo": "unitree_ros", "new_stars": 70, "stars": 781, "owner": "unitreerobotics", "forks": 301},
-{"description": "MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable, and sanely licensed open SQL server in the industry.", "language": "C++", "repo": "server", "new_stars": 69, "stars": 5913, "owner": "MariaDB", "forks": 1768},
-{"description": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 350, "stars": 4366, "owner": "meshtastic", "forks": 1109}
+
 ]

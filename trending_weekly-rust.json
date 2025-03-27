@@ -1,13 +1,13 @@
 [
 {"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 1194, "stars": 37187, "owner": "sharkdp", "forks": 860},
 {"description": "\u2728 Add autocomplete and AI to your existing terminal on macOS & Linux", "language": "Rust", "repo": "amazon-q-developer-cli", "new_stars": 45, "stars": 198, "owner": "aws", "forks": 39},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 294, "stars": 19649, "owner": "uutils", "forks": 1406},
-{"description": "Blazingly fast LLM inference.", "language": "Rust", "repo": "mistral.rs", "new_stars": 91, "stars": 5332, "owner": "EricLBuehler", "forks": 387},
-{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 1406, "stars": 46508, "owner": "astral-sh", "forks": 1305},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 440, "stars": 56213, "owner": "zed-industries", "forks": 3785},
-{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 168, "stars": 14283, "owner": "juspay", "forks": 1486},
-{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 374, "stars": 10897, "owner": "block", "forks": 785},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 160, "stars": 38668, "owner": "bevyengine", "forks": 3809},
+{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 294, "stars": 19653, "owner": "uutils", "forks": 1406},
+{"description": "Blazingly fast LLM inference.", "language": "Rust", "repo": "mistral.rs", "new_stars": 91, "stars": 5333, "owner": "EricLBuehler", "forks": 387},
+{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 1406, "stars": 46513, "owner": "astral-sh", "forks": 1305},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 440, "stars": 56215, "owner": "zed-industries", "forks": 3786},
+{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 168, "stars": 14297, "owner": "juspay", "forks": 1486},
+{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 374, "stars": 10899, "owner": "block", "forks": 785},
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 160, "stars": 38668, "owner": "bevyengine", "forks": 3810},
 {"description": "Postgres for Search and Analytics", "language": "Rust", "repo": "paradedb", "new_stars": 47, "stars": 6910, "owner": "paradedb", "forks": 233},
 {"description": "Use your tablet as graphic tablet/touch screen on your computer.", "language": "Rust", "repo": "Weylus", "new_stars": 225, "stars": 7673, "owner": "H-M-H", "forks": 301},
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 91, "stars": 9227, "owner": "shadowsocks", "forks": 1272},
@@ -18,7 +18,7 @@
 {"description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte", "language": "Rust", "repo": "gitbutler", "new_stars": 150, "stars": 14843, "owner": "gitbutlerapp", "forks": 582},
 {"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 171, "stars": 23668, "owner": "zellij-org", "forks": 715},
 {"description": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.", "language": "Rust", "repo": "Rust-CUDA", "new_stars": 141, "stars": 3930, "owner": "Rust-GPU", "forks": 162},
-{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 147, "stars": 102356, "owner": "denoland", "forks": 5533},
+{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 147, "stars": 102358, "owner": "denoland", "forks": 5533},
 {"description": "Fullstack app framework for web, desktop, mobile, and more.", "language": "Rust", "repo": "dioxus", "new_stars": 225, "stars": 26205, "owner": "DioxusLabs", "forks": 1026},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 303, "stars": 37218, "owner": "astral-sh", "forks": 1261}
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 303, "stars": 37220, "owner": "astral-sh", "forks": 1261}
 ]

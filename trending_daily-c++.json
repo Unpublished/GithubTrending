@@ -1,15 +1,15 @@
 [
 {"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 22, "stars": 9985, "owner": "NVIDIA", "forks": 1261},
 {"description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics", "language": "C++", "repo": "arrow", "new_stars": 5, "stars": 15164, "owner": "apache", "forks": 3665},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 62, "stars": 77279, "owner": "ggml-org", "forks": 11228},
-{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 200, "stars": 19638, "owner": "shadps4-emu", "forks": 1200},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 62, "stars": 77280, "owner": "ggml-org", "forks": 11229},
+{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 200, "stars": 19652, "owner": "shadps4-emu", "forks": 1200},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 4, "stars": 9359, "owner": "google", "forks": 1667},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 34, "stars": 121275, "owner": "facebook", "forks": 24565},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 34, "stars": 121276, "owner": "facebook", "forks": 24565},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 53, "stars": 95594, "owner": "godotengine", "forks": 22006},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 12, "stars": 25704, "owner": "gabime", "forks": 4721},
-{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 28, "stars": 33964, "owner": "facebookresearch", "forks": 3815},
+{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 28, "stars": 33965, "owner": "facebookresearch", "forks": 3815},
 {"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 4, "stars": 11382, "owner": "NVIDIA", "forks": 2170},
-{"description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.", "language": "C++", "repo": "wazuh", "new_stars": 9, "stars": 12037, "owner": "wazuh", "forks": 1791},
+{"description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.", "language": "C++", "repo": "wazuh", "new_stars": 9, "stars": 12038, "owner": "wazuh", "forks": 1791},
 {"description": "Immediate Mode Plotting", "language": "C++", "repo": "implot", "new_stars": 2, "stars": 5183, "owner": "epezent", "forks": 569},
 {"description": "NVIDIA PhysX SDK", "language": "C++", "repo": "PhysX", "new_stars": 17, "stars": 2959, "owner": "NVIDIA-Omniverse", "forks": 418},
 {"description": null, "language": "C++", "repo": "gcc", "new_stars": 6, "stars": 9775, "owner": "gcc-mirror", "forks": 4503},
@@ -21,6 +21,6 @@
 {"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 66, "stars": 36485, "owner": "LadybirdBrowser", "forks": 1533},
 {"description": "TrinityCore Open Source MMO Framework (master = 11.1.0.59888, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.1.59069)", "language": "C++", "repo": "TrinityCore", "new_stars": 4, "stars": 9912, "owner": "TrinityCore", "forks": 6114},
 {"description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.", "language": "C++", "repo": "bullet3", "new_stars": 9, "stars": 13187, "owner": "bulletphysics", "forks": 2916},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 36, "stars": 24229, "owner": "hyprwm", "forks": 1038},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 20, "stars": 116112, "owner": "electron", "forks": 15929}
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 36, "stars": 24230, "owner": "hyprwm", "forks": 1039},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 20, "stars": 116112, "owner": "electron", "forks": 15930}
 ]

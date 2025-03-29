@@ -1,8 +1,12 @@
 [
 {"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 256, "stars": 10019, "owner": "NVIDIA", "forks": 1266},
-{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 267, "stars": 19966, "owner": "ml-explore", "forks": 1143},
-{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 1047, "stars": 20588, "owner": "shadps4-emu", "forks": 1243},
+{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 267, "stars": 19967, "owner": "ml-explore", "forks": 1143},
+{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 1047, "stars": 20608, "owner": "shadps4-emu", "forks": 1243},
 {"description": "NVIDIA PhysX SDK", "language": "C++", "repo": "PhysX", "new_stars": 108, "stars": 2969, "owner": "NVIDIA-Omniverse", "forks": 420},
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 52, "stars": 23996, "owner": "google", "forks": 3324},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 178, "stars": 81389, "owner": "opencv", "forks": 56072}
+{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 104, "stars": 24211, "owner": "notepad-plus-plus", "forks": 4769},
+{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 170, "stars": 51736, "owner": "topjohnwu", "forks": 13504},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 178, "stars": 81389, "owner": "opencv", "forks": 56072},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 56, "stars": 35700, "owner": "google", "forks": 10310},
+{"description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)", "language": "C++", "repo": "PrismLauncher", "new_stars": 64, "stars": 6571, "owner": "PrismLauncher", "forks": 745}
 ]

@@ -4,7 +4,7 @@
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 9, "stars": 56651, "owner": "rails", "forks": 21811},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 0, "stars": 13276, "owner": "sidekiq", "forks": 2441},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 12, "stars": 35184, "owner": "rapid7", "forks": 14228},
-{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 5, "stars": 12709, "owner": "rubocop", "forks": 3072},
+{"description": "A Ruby static code analyzer and formatter, based on the community Ruby style guide.", "language": "Ruby", "repo": "rubocop", "new_stars": 5, "stars": 12710, "owner": "rubocop", "forks": 3072},
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 10, "stars": 49804, "owner": "jekyll", "forks": 10076},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 2, "stars": 4958, "owner": "dependabot", "forks": 1086},
 {"description": "API powering VA.gov", "language": "Ruby", "repo": "vets-api", "new_stars": 0, "stars": 218, "owner": "department-of-veterans-affairs", "forks": 70},
@@ -14,11 +14,8 @@
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 1, "stars": 24150, "owner": "heartcombo", "forks": 5536},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 0, "stars": 21219, "owner": "Homebrew", "forks": 10897},
 {"description": "Mirror of redmine code source - Official Subversion repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 2, "stars": 5445, "owner": "redmine", "forks": 2349},
-{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 12, "stars": 43583, "owner": "discourse", "forks": 8487},
-{"description": "The Cocoa Dependency Manager.", "language": "Ruby", "repo": "CocoaPods", "new_stars": 2, "stars": 14678, "owner": "CocoaPods", "forks": 2660},
-{"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 1, "stars": 13083, "owner": "fluent", "forks": 1362},
-{"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 4, "stars": 14125, "owner": "Homebrew", "forks": 12705},
-{"description": "Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.", "language": "Ruby", "repo": "doorkeeper", "new_stars": 2, "stars": 5378, "owner": "doorkeeper-gem", "forks": 1076},
-{"description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f", "language": "Ruby", "repo": "docuseal", "new_stars": 7, "stars": 8917, "owner": "docusealco", "forks": 624},
-{"description": "Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale", "language": "Ruby", "repo": "chef", "new_stars": 1, "stars": 7697, "owner": "chef", "forks": 2516}
+{"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 12, "stars": 43585, "owner": "discourse", "forks": 8487},
+{"description": "RSpec for Rails 7+", "language": "Ruby", "repo": "rspec-rails", "new_stars": 0, "stars": 5207, "owner": "rspec", "forks": 1044},
+{"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 0, "stars": 6848, "owner": "paper-trail-gem", "forks": 905},
+{"description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f", "language": "Ruby", "repo": "docuseal", "new_stars": 7, "stars": 8917, "owner": "docusealco", "forks": 624}
 ]

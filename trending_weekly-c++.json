@@ -1,3 +1,8 @@
 [
-
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 256, "stars": 10018, "owner": "NVIDIA", "forks": 1266},
+{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 267, "stars": 19966, "owner": "ml-explore", "forks": 1143},
+{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 1047, "stars": 20566, "owner": "shadps4-emu", "forks": 1242},
+{"description": "NVIDIA PhysX SDK", "language": "C++", "repo": "PhysX", "new_stars": 108, "stars": 2969, "owner": "NVIDIA-Omniverse", "forks": 420},
+{"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 103, "stars": 5422, "owner": "k2-fsa", "forks": 611},
+{"description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)", "language": "C++", "repo": "PrismLauncher", "new_stars": 64, "stars": 6571, "owner": "PrismLauncher", "forks": 745}
 ]

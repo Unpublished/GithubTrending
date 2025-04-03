@@ -1,27 +1,3 @@
 [
-{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 1679, "stars": 15533, "owner": "juspay", "forks": 1559},
-{"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 1402, "stars": 19755, "owner": "uutils", "forks": 1417},
-{"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 1305, "stars": 6586, "owner": "YaLTeR", "forks": 218},
-{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 5944, "stars": 47685, "owner": "astral-sh", "forks": 1339},
-{"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 145, "stars": 4516, "owner": "paradigmxyz", "forks": 1514},
-{"description": "The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.", "language": "Rust", "repo": "archgw", "new_stars": 509, "stars": 2242, "owner": "katanemo", "forks": 114},
-{"description": "A simple, fast and user-friendly alternative to 'find'", "language": "Rust", "repo": "fd", "new_stars": 1627, "stars": 37326, "owner": "sharkdp", "forks": 866},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 673, "stars": 38787, "owner": "bevyengine", "forks": 3819},
-{"description": "Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.", "language": "Rust", "repo": "libsignal", "new_stars": 286, "stars": 4201, "owner": "signalapp", "forks": 498},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 1775, "stars": 56494, "owner": "zed-industries", "forks": 3819},
-{"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 683, "stars": 22827, "owner": "qdrant", "forks": 1567},
-{"description": "Blazingly fast LLM inference.", "language": "Rust", "repo": "mistral.rs", "new_stars": 286, "stars": 5392, "owner": "EricLBuehler", "forks": 391},
-{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 2710, "stars": 85802, "owner": "rustdesk", "forks": 12086},
-{"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 89, "stars": 6386, "owner": "rust-lang", "forks": 930},
-{"description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.", "language": "Rust", "repo": "biome", "new_stars": 802, "stars": 18091, "owner": "biomejs", "forks": 561},
-{"description": "Fullstack app framework for web, desktop, mobile, and more.", "language": "Rust", "repo": "dioxus", "new_stars": 874, "stars": 26354, "owner": "DioxusLabs", "forks": 1032},
-{"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 843, "stars": 57362, "owner": "rust-lang", "forks": 10521},
-{"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 415, "stars": 20104, "owner": "tree-sitter", "forks": 1725},
-{"description": "Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.", "language": "Rust", "repo": "Rust-CUDA", "new_stars": 336, "stars": 3981, "owner": "Rust-GPU", "forks": 163},
-{"description": "2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.", "language": "Rust", "repo": "Graphite", "new_stars": 758, "stars": 11282, "owner": "GraphiteEditor", "forks": 561},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 1219, "stars": 37438, "owner": "astral-sh", "forks": 1277},
-{"description": "Build system optimized for JavaScript\u00a0and TypeScript, written in Rust", "language": "Rust", "repo": "turborepo", "new_stars": 315, "stars": 27361, "owner": "vercel", "forks": 1955},
-{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 705, "stars": 32789, "owner": "pola-rs", "forks": 2147},
-{"description": "Anki's shared backend and web components, and the Qt frontend", "language": "Rust", "repo": "anki", "new_stars": 503, "stars": 20620, "owner": "ankitects", "forks": 2271},
-{"description": "A Rust compiler front-end for IDEs", "language": "Rust", "repo": "rust-analyzer", "new_stars": 232, "stars": 14895, "owner": "rust-lang", "forks": 1716}
+
 ]

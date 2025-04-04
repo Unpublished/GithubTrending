@@ -1,17 +1,22 @@
 [
-{"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 178, "stars": 10279, "owner": "opf", "forks": 2526},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 263, "stars": 45633, "owner": "huginn", "forks": 3932},
+{"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 178, "stars": 10279, "owner": "opf", "forks": 2525},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 263, "stars": 45636, "owner": "huginn", "forks": 3932},
 {"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 110, "stars": 23042, "owner": "chatwoot", "forks": 4124},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 68, "stars": 48048, "owner": "mastodon", "forks": 7138},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 13, "stars": 24157, "owner": "heartcombo", "forks": 5535},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 27, "stars": 14143, "owner": "Homebrew", "forks": 12716},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 63, "stars": 56694, "owner": "rails", "forks": 21808},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 96, "stars": 43111, "owner": "Homebrew", "forks": 10133},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 24, "stars": 12645, "owner": "github-linguist", "forks": 4453},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 63, "stars": 56694, "owner": "rails", "forks": 21809},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 2, "stars": 9919, "owner": "ruby-grape", "forks": 1226},
 {"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 5, "stars": 2065, "owner": "rswag", "forks": 439},
 {"description": "Ruby implementation of GraphQL", "language": "Ruby", "repo": "graphql-ruby", "new_stars": 2, "stars": 5396, "owner": "rmosolgo", "forks": 1406},
-{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 31, "stars": 40038, "owner": "fastlane", "forks": 5792},
+{"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 31, "stars": 40039, "owner": "fastlane", "forks": 5792},
 {"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 17, "stars": 5925, "owner": "instructure", "forks": 2628},
+{"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 15, "stars": 4968, "owner": "dependabot", "forks": 1093},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 15, "stars": 4734, "owner": "zammad", "forks": 798},
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 22, "stars": 21234, "owner": "Homebrew", "forks": 10900},
 {"description": "A Really Ruby Mail Library", "language": "Ruby", "repo": "mail", "new_stars": 0, "stars": 3632, "owner": "mikel", "forks": 941},
 {"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1025, "owner": "rubysec", "forks": 221},
-{"description": "Ruby gem for RubyUI Components", "language": "Ruby", "repo": "ruby_ui", "new_stars": 253, "stars": 666, "owner": "ruby-ui", "forks": 47}
+{"description": "Ruby gem for RubyUI Components", "language": "Ruby", "repo": "ruby_ui", "new_stars": 253, "stars": 671, "owner": "ruby-ui", "forks": 47}
 ]

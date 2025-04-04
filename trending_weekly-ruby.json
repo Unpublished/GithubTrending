@@ -1,11 +1,11 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 178, "stars": 10280, "owner": "opf", "forks": 2525},
-{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 263, "stars": 45641, "owner": "huginn", "forks": 3932},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 110, "stars": 23045, "owner": "chatwoot", "forks": 4125},
+{"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 263, "stars": 45642, "owner": "huginn", "forks": 3932},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 110, "stars": 23046, "owner": "chatwoot", "forks": 4125},
 {"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 68, "stars": 48048, "owner": "mastodon", "forks": 7138},
 {"description": "Flexible authentication solution for Rails with Warden.", "language": "Ruby", "repo": "devise", "new_stars": 13, "stars": 24157, "owner": "heartcombo", "forks": 5536},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 27, "stars": 14143, "owner": "Homebrew", "forks": 12716},
-{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 96, "stars": 43114, "owner": "Homebrew", "forks": 10133},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 96, "stars": 43112, "owner": "Homebrew", "forks": 10133},
 {"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 24, "stars": 12646, "owner": "github-linguist", "forks": 4453},
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 63, "stars": 56694, "owner": "rails", "forks": 21809},
 {"description": "An opinionated framework for creating REST-like APIs in Ruby.", "language": "Ruby", "repo": "grape", "new_stars": 2, "stars": 9919, "owner": "ruby-grape", "forks": 1226},
@@ -16,5 +16,6 @@
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 15, "stars": 4969, "owner": "dependabot", "forks": 1093},
 {"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 15, "stars": 4734, "owner": "zammad", "forks": 798},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 22, "stars": 21234, "owner": "Homebrew", "forks": 10901},
-{"description": "Ruby gem for RubyUI Components", "language": "Ruby", "repo": "ruby_ui", "new_stars": 253, "stars": 676, "owner": "ruby-ui", "forks": 47}
+{"description": "A database of vulnerable Ruby Gems", "language": "Ruby", "repo": "ruby-advisory-db", "new_stars": 0, "stars": 1025, "owner": "rubysec", "forks": 221},
+{"description": "Ruby gem for RubyUI Components", "language": "Ruby", "repo": "ruby_ui", "new_stars": 253, "stars": 677, "owner": "ruby-ui", "forks": 47}
 ]

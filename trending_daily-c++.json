@@ -1,3 +1,21 @@
 [
-
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 6, "stars": 29242, "owner": "facebook", "forks": 5677},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 15, "stars": 25830, "owner": "gabime", "forks": 4736},
+{"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 11, "stars": 9215, "owner": "PX4", "forks": 13814},
+{"description": "\ud83e\udd16 MoveIt for ROS 2", "language": "C++", "repo": "moveit2", "new_stars": 1, "stars": 1310, "owner": "moveit", "forks": 604},
+{"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 4, "stars": 14629, "owner": "Tencent", "forks": 3573},
+{"description": "High performance, multi-platform VNC client and server", "language": "C++", "repo": "tigervnc", "new_stars": 24, "stars": 5797, "owner": "TigerVNC", "forks": 1019},
+{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 90, "stars": 11188, "owner": "78", "forks": 2117},
+{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 19, "stars": 29329, "owner": "google-ai-edge", "forks": 5312},
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 14, "stars": 68431, "owner": "swiftlang", "forks": 10453},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 17, "stars": 67244, "owner": "protocolbuffers", "forks": 15671},
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 9, "stars": 10171, "owner": "NVIDIA", "forks": 1340},
+{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 14, "stars": 14075, "owner": "yhirose", "forks": 2412},
+{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 11, "stars": 16245, "owner": "microsoft", "forks": 3150},
+{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 16, "stars": 66057, "owner": "tesseract-ocr", "forks": 9808},
+{"description": "\ud83d\udd25 Linux\u4e0bC++\u8f7b\u91cf\u7ea7WebServer\u670d\u52a1\u5668", "language": "C++", "repo": "TinyWebServer", "new_stars": 6, "stars": 17834, "owner": "qinguoyi", "forks": 4084},
+{"description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".", "language": "C++", "repo": "brpc", "new_stars": 4, "stars": 16912, "owner": "apache", "forks": 3996},
+{"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 7, "stars": 9397, "owner": "google", "forks": 1673},
+{"description": "\ud83d\udcda C/C++ \u6280\u672f\u9762\u8bd5\u57fa\u7840\u77e5\u8bc6\u603b\u7ed3\uff0c\u5305\u62ec\u8bed\u8a00\u3001\u7a0b\u5e8f\u5e93\u3001\u6570\u636e\u7ed3\u6784\u3001\u7b97\u6cd5\u3001\u7cfb\u7edf\u3001\u7f51\u7edc\u3001\u94fe\u63a5\u88c5\u8f7d\u5e93\u7b49\u77e5\u8bc6\u53ca\u9762\u8bd5\u7ecf\u9a8c\u3001\u62db\u8058\u3001\u5185\u63a8\u7b49\u4fe1\u606f\u3002This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation\u2026", "language": "C++", "repo": "interview", "new_stars": 5, "stars": 35877, "owner": "huihut", "forks": 8039},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 31, "stars": 45181, "owner": "nlohmann", "forks": 6934}
 ]

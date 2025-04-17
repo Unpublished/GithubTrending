@@ -1,21 +1,3 @@
 [
-{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 546, "stars": 10232, "owner": "NVIDIA", "forks": 1360},
-{"description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)", "language": "C++", "repo": "meeting-minutes", "new_stars": 2114, "stars": 3437, "owner": "Zackriya-Solutions", "forks": 238},
-{"description": "NVIDIA PhysX SDK", "language": "C++", "repo": "PhysX", "new_stars": 966, "stars": 3812, "owner": "NVIDIA-Omniverse", "forks": 486},
-{"description": null, "language": "C++", "repo": "duix.ai", "new_stars": 876, "stars": 5431, "owner": "GuijiAI", "forks": 799},
-{"description": "Performance instrumentation and tracing for Android, Linux and Chrome", "language": "C++", "repo": "perfetto", "new_stars": 400, "stars": 3531, "owner": "google", "forks": 430},
-{"description": "\ud83e\udd18 TT-NN operator library, and TT-Metalium low level kernel programming model.", "language": "C++", "repo": "tt-metal", "new_stars": 158, "stars": 821, "owner": "tenstorrent", "forks": 152},
-{"description": "PlayStation 3 emulator and debugger", "language": "C++", "repo": "rpcs3", "new_stars": 329, "stars": 16725, "owner": "RPCS3", "forks": 2036},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 692, "stars": 81721, "owner": "opencv", "forks": 56119},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1044, "stars": 64784, "owner": "ocornut", "forks": 10789},
-{"description": "The Magic Mask for Android", "language": "C++", "repo": "Magisk", "new_stars": 861, "stars": 52245, "owner": "topjohnwu", "forks": 13654},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 715, "stars": 116422, "owner": "electron", "forks": 15986},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 547, "stars": 45248, "owner": "nlohmann", "forks": 6938},
-{"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 469, "stars": 40890, "owner": "Light-City", "forks": 8690},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 305, "stars": 35884, "owner": "google", "forks": 10328},
-{"description": "Port of OpenAI's Whisper model in C/C++", "language": "C++", "repo": "whisper.cpp", "new_stars": 899, "stars": 39295, "owner": "ggml-org", "forks": 4119},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1220, "stars": 96245, "owner": "godotengine", "forks": 22174},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 185, "stars": 29263, "owner": "facebook", "forks": 5681},
-{"description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.", "language": "C++", "repo": "kuzu", "new_stars": 264, "stars": 2168, "owner": "kuzudb", "forks": 141},
-{"description": "Tesseract Open Source OCR Engine (main repository)", "language": "C++", "repo": "tesseract", "new_stars": 917, "stars": 66202, "owner": "tesseract-ocr", "forks": 9828}
+
 ]

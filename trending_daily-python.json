@@ -1,16 +1,16 @@
 [
-{"description": "PDF scientific paper translation with preserved formats - \u57fa\u4e8e AI \u5b8c\u6574\u4fdd\u7559\u6392\u7248\u7684 PDF \u6587\u6863\u5168\u6587\u53cc\u8bed\u7ffb\u8bd1\uff0c\u652f\u6301 Google/DeepL/Ollama/OpenAI \u7b49\u670d\u52a1\uff0c\u63d0\u4f9b CLI/GUI/Docker/Zotero", "language": "Python", "repo": "PDFMathTranslate", "new_stars": 71, "stars": 20642, "owner": "Byaidu", "forks": 1754},
-{"description": "A collective list of free APIs", "language": "Python", "repo": "public-apis", "new_stars": 467, "stars": 336536, "owner": "public-apis", "forks": 35587},
-{"description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.", "language": "Python", "repo": "awesome-llm-apps", "new_stars": 153, "stars": 28760, "owner": "Shubhamsaboo", "forks": 3233},
-{"description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients", "language": "Python", "repo": "fastmcp", "new_stars": 341, "stars": 6313, "owner": "jlowin", "forks": 329},
-{"description": "A feature-rich command-line audio/video downloader", "language": "Python", "repo": "yt-dlp", "new_stars": 148, "stars": 108264, "owner": "yt-dlp", "forks": 8510},
-{"description": "Python tool for converting files and office documents to Markdown.", "language": "Python", "repo": "markitdown", "new_stars": 489, "stars": 50135, "owner": "microsoft", "forks": 2423},
-{"description": "Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.", "language": "Python", "repo": "loco-mujoco", "new_stars": 27, "stars": 786, "owner": "robfiras", "forks": 62},
-{"description": "Toolkit for linearizing PDFs for LLM datasets/training", "language": "Python", "repo": "olmocr", "new_stars": 206, "stars": 11437, "owner": "allenai", "forks": 777},
-{"description": "A Gradio web UI for Large Language Models with support for multiple inference backends.", "language": "Python", "repo": "text-generation-webui", "new_stars": 15, "stars": 43256, "owner": "oobabooga", "forks": 5579},
+{"description": "PDF scientific paper translation with preserved formats - \u57fa\u4e8e AI \u5b8c\u6574\u4fdd\u7559\u6392\u7248\u7684 PDF \u6587\u6863\u5168\u6587\u53cc\u8bed\u7ffb\u8bd1\uff0c\u652f\u6301 Google/DeepL/Ollama/OpenAI \u7b49\u670d\u52a1\uff0c\u63d0\u4f9b CLI/GUI/Docker/Zotero", "language": "Python", "repo": "PDFMathTranslate", "new_stars": 71, "stars": 20664, "owner": "Byaidu", "forks": 1755},
+{"description": "A collective list of free APIs", "language": "Python", "repo": "public-apis", "new_stars": 467, "stars": 336560, "owner": "public-apis", "forks": 35588},
+{"description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.", "language": "Python", "repo": "awesome-llm-apps", "new_stars": 153, "stars": 28770, "owner": "Shubhamsaboo", "forks": 3234},
+{"description": "\ud83d\ude80 The fast, Pythonic way to build MCP servers and clients", "language": "Python", "repo": "fastmcp", "new_stars": 341, "stars": 6325, "owner": "jlowin", "forks": 330},
+{"description": "A feature-rich command-line audio/video downloader", "language": "Python", "repo": "yt-dlp", "new_stars": 148, "stars": 108280, "owner": "yt-dlp", "forks": 8510},
+{"description": "Python tool for converting files and office documents to Markdown.", "language": "Python", "repo": "markitdown", "new_stars": 489, "stars": 50177, "owner": "microsoft", "forks": 2424},
+{"description": "Imitation learning benchmark focusing on complex locomotion tasks using MuJoCo.", "language": "Python", "repo": "loco-mujoco", "new_stars": 27, "stars": 788, "owner": "robfiras", "forks": 62},
+{"description": "Toolkit for linearizing PDFs for LLM datasets/training", "language": "Python", "repo": "olmocr", "new_stars": 206, "stars": 11442, "owner": "allenai", "forks": 777},
+{"description": "A Gradio web UI for Large Language Models with support for multiple inference backends.", "language": "Python", "repo": "text-generation-webui", "new_stars": 15, "stars": 43255, "owner": "oobabooga", "forks": 5579},
 {"description": "Main Sigma Rule Repository", "language": "Python", "repo": "sigma", "new_stars": 61, "stars": 9097, "owner": "SigmaHQ", "forks": 2316},
-{"description": "\ud83d\ude4c OpenHands: Code Less, Make More", "language": "Python", "repo": "OpenHands", "new_stars": 35, "stars": 53198, "owner": "All-Hands-AI", "forks": 5928},
-{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 66, "stars": 199630, "owner": "TheAlgorithms", "forks": 46604},
+{"description": "\ud83d\ude4c OpenHands: Code Less, Make More", "language": "Python", "repo": "OpenHands", "new_stars": 35, "stars": 53200, "owner": "All-Hands-AI", "forks": 5928},
+{"description": "All Algorithms implemented in Python", "language": "Python", "repo": "Python", "new_stars": 66, "stars": 199634, "owner": "TheAlgorithms", "forks": 46603},
 {"description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.", "language": "Python", "repo": "KAG", "new_stars": 30, "stars": 6558, "owner": "OpenSPG", "forks": 461},
-{"description": "Stable Diffusion web UI", "language": "Python", "repo": "stable-diffusion-webui", "new_stars": 54, "stars": 151500, "owner": "AUTOMATIC1111", "forks": 28182}
+{"description": "Stable Diffusion web UI", "language": "Python", "repo": "stable-diffusion-webui", "new_stars": 54, "stars": 151503, "owner": "AUTOMATIC1111", "forks": 28182}
 ]

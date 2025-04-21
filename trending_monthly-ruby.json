@@ -1,7 +1,7 @@
 [
 {"description": "Create agents that monitor and act on your behalf. Your agents are standing by!", "language": "Ruby", "repo": "huginn", "new_stars": 745, "stars": 45946, "owner": "huginn", "forks": 3955},
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 804, "stars": 10852, "owner": "opf", "forks": 2571},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 469, "stars": 23279, "owner": "chatwoot", "forks": 4213},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 469, "stars": 23280, "owner": "chatwoot", "forks": 4212},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 308, "stars": 35392, "owner": "rapid7", "forks": 14270},
 {"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 141, "stars": 22536, "owner": "ruby", "forks": 5405},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 71, "stars": 4996, "owner": "dependabot", "forks": 1101},
@@ -9,7 +9,16 @@
 {"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 227, "stars": 56773, "owner": "rails", "forks": 21823},
 {"description": "Mirror of redmine code source - Official Subversion repository is at", "language": "Ruby", "repo": "redmine", "new_stars": 147, "stars": 5573, "owner": "redmine", "forks": 2362},
 {"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 276, "stars": 36138, "owner": "freeCodeCamp", "forks": 2421},
-{"description": "Self-hostable alternative to Google Location History (Google Maps Timeline)", "language": "Ruby", "repo": "dawarich", "new_stars": 324, "stars": 4570, "owner": "Freika", "forks": 125},
+{"description": "Self-hostable alternative to Google Location History (Google Maps Timeline)", "language": "Ruby", "repo": "dawarich", "new_stars": 324, "stars": 4571, "owner": "Freika", "forks": 125},
 {"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 37, "stars": 4391, "owner": "github", "forks": 13140},
-{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 116, "stars": 21289, "owner": "Homebrew", "forks": 10914}
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 116, "stars": 21289, "owner": "Homebrew", "forks": 10914},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 443, "stars": 43310, "owner": "Homebrew", "forks": 10165},
+{"description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!", "language": "Ruby", "repo": "linguist", "new_stars": 95, "stars": 12671, "owner": "github-linguist", "forks": 4475},
+{"description": "\ud83d\udcee A fully featured open source mail delivery platform for incoming & outgoing e-mail", "language": "Ruby", "repo": "postal", "new_stars": 120, "stars": 15426, "owner": "postalserver", "forks": 1110},
+{"description": "Your self-hosted, globally interconnected microblogging community", "language": "Ruby", "repo": "mastodon", "new_stars": 251, "stars": 48146, "owner": "mastodon", "forks": 7159},
+{"description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!", "language": "Ruby", "repo": "oxidized", "new_stars": 40, "stars": 2959, "owner": "ytti", "forks": 964},
+{"description": "The open LMS by Instructure, Inc.", "language": "Ruby", "repo": "canvas-lms", "new_stars": 59, "stars": 5957, "owner": "instructure", "forks": 2643},
+{"description": "Ruby library for the Stripe API.", "language": "Ruby", "repo": "stripe-ruby", "new_stars": 11, "stars": 2003, "owner": "stripe", "forks": 565},
+{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 70, "stars": 4767, "owner": "zammad", "forks": 802},
+{"description": "Seamlessly adds a Swagger to Rails-based API's", "language": "Ruby", "repo": "rswag", "new_stars": 15, "stars": 2071, "owner": "rswag", "forks": 440}
 ]

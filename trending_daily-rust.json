@@ -2,7 +2,7 @@
 {"description": "NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.", "language": "Rust", "repo": "nativelink", "new_stars": 7, "stars": 1311, "owner": "TraceMachina", "forks": 172},
 {"description": "A modern alternative to ls", "language": "Rust", "repo": "eza", "new_stars": 18, "stars": 15053, "owner": "eza-community", "forks": 285},
 {"description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.", "language": "Rust", "repo": "rolldown", "new_stars": 29, "stars": 10816, "owner": "rolldown", "forks": 574},
-{"description": "Apache DataFusion SQL Query Engine", "language": "Rust", "repo": "datafusion", "new_stars": 5, "stars": 7057, "owner": "apache", "forks": 1454},
+{"description": "Apache DataFusion SQL Query Engine", "language": "Rust", "repo": "datafusion", "new_stars": 5, "stars": 7058, "owner": "apache", "forks": 1454},
 {"description": "Solving i18n for client-side and resource-constrained environments.", "language": "Rust", "repo": "icu4x", "new_stars": 11, "stars": 1484, "owner": "unicode-org", "forks": 211},
 {"description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.", "language": "Rust", "repo": "slint", "new_stars": 19, "stars": 18897, "owner": "slint-ui", "forks": 662},
 {"description": "\ud83e\udd8e a tool to build and deploy software on many servers \ud83e\udd8e", "language": "Rust", "repo": "komodo", "new_stars": 74, "stars": 4816, "owner": "moghtech", "forks": 103},
@@ -10,11 +10,11 @@
 {"description": "Anki's shared backend and web components, and the Qt frontend", "language": "Rust", "repo": "anki", "new_stars": 19, "stars": 20957, "owner": "ankitects", "forks": 2293},
 {"description": "Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.", "language": "Rust", "repo": "burn", "new_stars": 23, "stars": 10301, "owner": "tracel-ai", "forks": 538},
 {"description": "A fast static site generator in a single binary with everything built-in.", "language": "Rust", "repo": "zola", "new_stars": 12, "stars": 15140, "owner": "getzola", "forks": 1029},
-{"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 19, "stars": 23151, "owner": "qdrant", "forks": 1586},
-{"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 19, "stars": 23190, "owner": "qarmin", "forks": 735},
-{"description": "Boot and upgrade via container images", "language": "Rust", "repo": "bootc", "new_stars": 20, "stars": 1179, "owner": "bootc-dev", "forks": 112},
-{"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 24, "stars": 12653, "owner": "ratatui", "forks": 394},
+{"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 18, "stars": 23151, "owner": "qdrant", "forks": 1586},
+{"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 19, "stars": 23192, "owner": "qarmin", "forks": 735},
+{"description": "Boot and upgrade via container images", "language": "Rust", "repo": "bootc", "new_stars": 10, "stars": 1180, "owner": "bootc-dev", "forks": 112},
+{"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 24, "stars": 12654, "owner": "ratatui", "forks": 394},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 18, "stars": 39087, "owner": "bevyengine", "forks": 3852},
 {"description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.", "language": "Rust", "repo": "solana", "new_stars": 5, "stars": 14060, "owner": "solana-labs", "forks": 4770},
-{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 27, "stars": 49946, "owner": "rust-unofficial", "forks": 2887}
+{"description": "A curated list of Rust code and resources.", "language": "Rust", "repo": "awesome-rust", "new_stars": 21, "stars": 49947, "owner": "rust-unofficial", "forks": 2887}
 ]

@@ -1,14 +1,14 @@
 [
-{"description": "Official inference framework for 1-bit LLMs", "language": "C++", "repo": "BitNet", "new_stars": 3419, "stars": 17449, "owner": "microsoft", "forks": 1254},
+{"description": "Official inference framework for 1-bit LLMs", "language": "C++", "repo": "BitNet", "new_stars": 3419, "stars": 17455, "owner": "microsoft", "forks": 1254},
 {"description": "prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters", "language": "C++", "repo": "prima.cpp", "new_stars": 261, "stars": 704, "owner": "Lizonghang", "forks": 40},
-{"description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)", "language": "C++", "repo": "meeting-minutes", "new_stars": 1062, "stars": 4815, "owner": "Zackriya-Solutions", "forks": 324},
+{"description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)", "language": "C++", "repo": "meeting-minutes", "new_stars": 1062, "stars": 4819, "owner": "Zackriya-Solutions", "forks": 325},
 {"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 589, "stars": 48670, "owner": "WerWolv", "forks": 2107},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 479, "stars": 78832, "owner": "ggml-org", "forks": 11524},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 479, "stars": 78834, "owner": "ggml-org", "forks": 11526},
 {"description": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.", "language": "C++", "repo": "Marlin", "new_stars": 43, "stars": 16700, "owner": "MarlinFirmware", "forks": 19416},
 {"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 376, "stars": 15941, "owner": "CoatiSoftware", "forks": 1529},
 {"description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".", "language": "C++", "repo": "brpc", "new_stars": 71, "stars": 17005, "owner": "apache", "forks": 4019},
-{"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 38, "stars": 15116, "owner": "apple", "forks": 1353},
-{"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 55, "stars": 14977, "owner": "ZLMediaKit", "forks": 3631},
+{"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 38, "stars": 15117, "owner": "apple", "forks": 1353},
+{"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 55, "stars": 14978, "owner": "ZLMediaKit", "forks": 3632},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 16, "stars": 6144, "owner": "firebase", "forks": 1584},
 {"description": "OpenSCAD - The Programmers Solid 3D CAD Modeller", "language": "C++", "repo": "openscad", "new_stars": 54, "stars": 7777, "owner": "openscad", "forks": 1294},
 {"description": "Playing around \"Less Slow\" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO", "language": "C++", "repo": "less_slow.cpp", "new_stars": 652, "stars": 1687, "owner": "ashvardanian", "forks": 67},
@@ -19,8 +19,8 @@
 {"description": "C++ python bytecode disassembler and decompiler", "language": "C++", "repo": "pycdc", "new_stars": 22, "stars": 3672, "owner": "zrax", "forks": 703},
 {"description": "Open Source Routing Machine - C++ backend", "language": "C++", "repo": "osrm-backend", "new_stars": 29, "stars": 6774, "owner": "Project-OSRM", "forks": 3552},
 {"description": "A computationally efficient and robust LiDAR-inertial odometry (LIO) package", "language": "C++", "repo": "FAST_LIO", "new_stars": 33, "stars": 3249, "owner": "hku-mars", "forks": 1078},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 319, "stars": 96623, "owner": "godotengine", "forks": 22235},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 134, "stars": 45407, "owner": "nlohmann", "forks": 6951},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 319, "stars": 96622, "owner": "godotengine", "forks": 22235},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 134, "stars": 45408, "owner": "nlohmann", "forks": 6951},
 {"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 51, "stars": 8520, "owner": "colmap", "forks": 1614},
-{"description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon", "language": "C++", "repo": "manticoresearch", "new_stars": 109, "stars": 10184, "owner": "manticoresoftware", "forks": 577}
+{"description": "Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon", "language": "C++", "repo": "manticoresearch", "new_stars": 109, "stars": 10185, "owner": "manticoresoftware", "forks": 577}
 ]

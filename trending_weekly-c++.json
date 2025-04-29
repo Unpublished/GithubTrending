@@ -1,12 +1,12 @@
 [
-{"description": "Official inference framework for 1-bit LLMs", "language": "C++", "repo": "BitNet", "new_stars": 2358, "stars": 17790, "owner": "microsoft", "forks": 1281},
-{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 136, "stars": 30958, "owner": "qbittorrent", "forks": 4178},
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 481, "stars": 48713, "owner": "WerWolv", "forks": 2110},
+{"description": "Official inference framework for 1-bit LLMs", "language": "C++", "repo": "BitNet", "new_stars": 2358, "stars": 17793, "owner": "microsoft", "forks": 1281},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 136, "stars": 30959, "owner": "qbittorrent", "forks": 4178},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 481, "stars": 48714, "owner": "WerWolv", "forks": 2110},
 {"description": "brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. \"brpc\" means \"better RPC\".", "language": "C++", "repo": "brpc", "new_stars": 73, "stars": 17011, "owner": "apache", "forks": 4020},
 {"description": "prima.cpp: Speeding up 70B-scale LLM inference on low-resource everyday home clusters", "language": "C++", "repo": "prima.cpp", "new_stars": 205, "stars": 745, "owner": "Lizonghang", "forks": 40},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 17, "stars": 6147, "owner": "firebase", "forks": 1589},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 100, "stars": 16423, "owner": "microsoft", "forks": 3181},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 225, "stars": 97930, "owner": "microsoft", "forks": 8535},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 225, "stars": 97931, "owner": "microsoft", "forks": 8535},
 {"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 94, "stars": 12900, "owner": "moonlight-stream", "forks": 726},
 {"description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.", "language": "C++", "repo": "oceanbase", "new_stars": 32, "stars": 9096, "owner": "oceanbase", "forks": 1726},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 66, "stars": 14996, "owner": "ZLMediaKit", "forks": 3635},
@@ -16,5 +16,9 @@
 {"description": "Mumble is an open-source, low-latency, high quality voice chat software.", "language": "C++", "repo": "mumble", "new_stars": 39, "stars": 6843, "owner": "mumble-voip", "forks": 1165},
 {"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 72, "stars": 31575, "owner": "SerenityOS", "forks": 3234},
 {"description": "The home of the ICU project source code.", "language": "C++", "repo": "icu", "new_stars": 17, "stars": 3047, "owner": "unicode-org", "forks": 792},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 451, "stars": 78977, "owner": "ggml-org", "forks": 11548}
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 451, "stars": 78979, "owner": "ggml-org", "forks": 11548},
+{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 41, "stars": 8532, "owner": "colmap", "forks": 1617},
+{"description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!", "language": "C++", "repo": "redpanda", "new_stars": 36, "stars": 10267, "owner": "redpanda-data", "forks": 624},
+{"description": "MSVC's implementation of the C++ Standard Library.", "language": "C++", "repo": "STL", "new_stars": 30, "stars": 10552, "owner": "microsoft", "forks": 1542},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 317, "stars": 96704, "owner": "godotengine", "forks": 22257}
 ]

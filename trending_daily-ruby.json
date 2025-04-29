@@ -1,16 +1,16 @@
 [
 {"description": "Official repository for Citation Style Language (CSL) citation styles.", "language": "Ruby", "repo": "styles", "new_stars": 1, "stars": 3478, "owner": "citation-style-language", "forks": 3867},
 {"description": "Open source DocuSign alternative. Create, fill, and sign digital documents \u270d\ufe0f", "language": "Ruby", "repo": "docuseal", "new_stars": 9, "stars": 9054, "owner": "docusealco", "forks": 648},
-{"description": "Self-hostable alternative to Google Location History (Google Maps Timeline)", "language": "Ruby", "repo": "dawarich", "new_stars": 45, "stars": 4673, "owner": "Freika", "forks": 129},
-{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 12, "stars": 35446, "owner": "rapid7", "forks": 14287},
+{"description": "Self-hostable alternative to Google Location History (Google Maps Timeline)", "language": "Ruby", "repo": "dawarich", "new_stars": 45, "stars": 4674, "owner": "Freika", "forks": 129},
+{"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 12, "stars": 35446, "owner": "rapid7", "forks": 14288},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 0, "stars": 13291, "owner": "sidekiq", "forks": 2449},
 {"description": "Acceptance test framework for web applications", "language": "Ruby", "repo": "capybara", "new_stars": 0, "stars": 10078, "owner": "teamcapybara", "forks": 1456},
 {"description": "Track changes to your rails models", "language": "Ruby", "repo": "paper_trail", "new_stars": 2, "stars": 6861, "owner": "paper-trail-gem", "forks": 904},
-{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 2, "stars": 4790, "owner": "zammad", "forks": 807},
+{"description": "Zammad is a web based open source helpdesk/customer support system", "language": "Ruby", "repo": "zammad", "new_stars": 2, "stars": 4788, "owner": "zammad", "forks": 807},
 {"description": "A site to provide non-judgmental guidance on choosing a license for your open source project", "language": "Ruby", "repo": "choosealicense.com", "new_stars": 1, "stars": 3823, "owner": "github", "forks": 1398},
 {"description": "Unit testing and build system for C projects", "language": "Ruby", "repo": "Ceedling", "new_stars": 0, "stars": 661, "owner": "ThrowTheSwitch", "forks": 253},
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 5, "stars": 40107, "owner": "fastlane", "forks": 5799},
-{"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 0, "stars": 8628, "owner": "kaminari", "forks": 1082},
+{"description": "\u26a1 A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps", "language": "Ruby", "repo": "kaminari", "new_stars": 0, "stars": 8629, "owner": "kaminari", "forks": 1082},
 {"description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!", "language": "Ruby", "repo": "oxidized", "new_stars": 1, "stars": 2968, "owner": "ytti", "forks": 966},
 {"description": "Fluentd: Unified Logging Layer (project under CNCF)", "language": "Ruby", "repo": "fluentd", "new_stars": 5, "stars": 13126, "owner": "fluent", "forks": 1360},
 {"description": "Minimal authorization through OO design and pure Ruby classes", "language": "Ruby", "repo": "pundit", "new_stars": 0, "stars": 8382, "owner": "varvet", "forks": 642},
@@ -20,5 +20,6 @@
 {"description": "A Ruby gem to load environment variables from `.env`.", "language": "Ruby", "repo": "dotenv", "new_stars": 1, "stars": 6659, "owner": "bkeepers", "forks": 513},
 {"description": "The authorization Gem for Ruby on Rails.", "language": "Ruby", "repo": "cancancan", "new_stars": 0, "stars": 5634, "owner": "CanCanCommunity", "forks": 640},
 {"description": "Computing-focused community centered around link aggregation and discussion", "language": "Ruby", "repo": "lobsters", "new_stars": 3, "stars": 4294, "owner": "lobsters", "forks": 863},
-{"description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks", "language": "Ruby", "repo": "carrierwave", "new_stars": 1, "stars": 8783, "owner": "carrierwaveuploader", "forks": 1661}
+{"description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks", "language": "Ruby", "repo": "carrierwave", "new_stars": 1, "stars": 8783, "owner": "carrierwaveuploader", "forks": 1661},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 6, "stars": 56807, "owner": "rails", "forks": 21827}
 ]

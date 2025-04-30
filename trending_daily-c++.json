@@ -1,13 +1,13 @@
 [
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 231, "stars": 37946, "owner": "LadybirdBrowser", "forks": 1576},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 46, "stars": 83169, "owner": "bitcoin", "forks": 37137},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 231, "stars": 37955, "owner": "LadybirdBrowser", "forks": 1576},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 46, "stars": 83171, "owner": "bitcoin", "forks": 37138},
 {"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 86, "stars": 79049, "owner": "ggml-org", "forks": 11564},
 {"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 15, "stars": 15754, "owner": "MaaAssistantArknights", "forks": 2098},
 {"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 15, "stars": 11939, "owner": "ArduPilot", "forks": 18553},
-{"description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB", "language": "C++", "repo": "scylladb", "new_stars": 10, "stars": 14452, "owner": "scylladb", "forks": 1377},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 20, "stars": 45458, "owner": "nlohmann", "forks": 6959},
+{"description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB", "language": "C++", "repo": "scylladb", "new_stars": 10, "stars": 14453, "owner": "scylladb", "forks": 1377},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 20, "stars": 45458, "owner": "nlohmann", "forks": 6958},
 {"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 13, "stars": 5798, "owner": "k2-fsa", "forks": 653},
-{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 9, "stars": 10385, "owner": "NVIDIA", "forks": 1391},
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 9, "stars": 10386, "owner": "NVIDIA", "forks": 1391},
 {"description": "The public CGAL repository, see the README below", "language": "C++", "repo": "cgal", "new_stars": 3, "stars": 5330, "owner": "CGAL", "forks": 1462},
 {"description": "A JavaScript engine optimized for running React Native.", "language": "C++", "repo": "hermes", "new_stars": 4, "stars": 10247, "owner": "facebook", "forks": 674},
 {"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 5, "stars": 4581, "owner": "google", "forks": 344},
@@ -16,9 +16,9 @@
 {"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 2, "stars": 3572, "owner": "ton-blockchain", "forks": 1210},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 12, "stars": 9328, "owner": "PX4", "forks": 13868},
 {"description": "C++ Requests: Curl for People, a spiritual port of Python Requests.", "language": "C++", "repo": "cpr", "new_stars": 2, "stars": 6858, "owner": "libcpr", "forks": 982},
-{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 14, "stars": 24476, "owner": "notepad-plus-plus", "forks": 4802},
+{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 14, "stars": 24477, "owner": "notepad-plus-plus", "forks": 4801},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 4, "stars": 19336, "owner": "catchorg", "forks": 3099},
 {"description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM", "language": "C++", "repo": "ORB_SLAM3", "new_stars": 3, "stars": 7177, "owner": "UZ-SLAMLab", "forks": 2715},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 4, "stars": 25898, "owner": "envoyproxy", "forks": 4924},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 47, "stars": 24884, "owner": "hyprwm", "forks": 1070}
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 47, "stars": 24886, "owner": "hyprwm", "forks": 1070}
 ]

@@ -1,8 +1,8 @@
 [
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 231, "stars": 38045, "owner": "LadybirdBrowser", "forks": 1578},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 49, "stars": 83223, "owner": "bitcoin", "forks": 37143},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 86, "stars": 79070, "owner": "ggml-org", "forks": 11569},
-{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 14, "stars": 15759, "owner": "MaaAssistantArknights", "forks": 2098},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 231, "stars": 38052, "owner": "LadybirdBrowser", "forks": 1579},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 49, "stars": 83223, "owner": "bitcoin", "forks": 37144},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 86, "stars": 79071, "owner": "ggml-org", "forks": 11569},
+{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 14, "stars": 15761, "owner": "MaaAssistantArknights", "forks": 2098},
 {"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 13, "stars": 11945, "owner": "ArduPilot", "forks": 18556},
 {"description": "NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB", "language": "C++", "repo": "scylladb", "new_stars": 7, "stars": 14455, "owner": "scylladb", "forks": 1377},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 17, "stars": 45462, "owner": "nlohmann", "forks": 6960},
@@ -11,7 +11,7 @@
 {"description": "The public CGAL repository, see the README below", "language": "C++", "repo": "cgal", "new_stars": 5, "stars": 5331, "owner": "CGAL", "forks": 1462},
 {"description": "A JavaScript engine optimized for running React Native.", "language": "C++", "repo": "hermes", "new_stars": 2, "stars": 10249, "owner": "facebook", "forks": 675},
 {"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 7, "stars": 4584, "owner": "google", "forks": 344},
-{"description": "\u5168\u7403\u6700\u5c0f\u7684\u684c\u9762\u7ea7\u53cc\u8f6e\u817f\u673a\u5668\u4eba\uff01", "language": "C++", "repo": "Micro-Wheeled_leg-Robot", "new_stars": 21, "stars": 1628, "owner": "MuShibo", "forks": 274},
+{"description": "\u5168\u7403\u6700\u5c0f\u7684\u684c\u9762\u7ea7\u53cc\u8f6e\u817f\u673a\u5668\u4eba\uff01", "language": "C++", "repo": "Micro-Wheeled_leg-Robot", "new_stars": 21, "stars": 1629, "owner": "MuShibo", "forks": 275},
 {"description": "This repository contains the official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 12, "stars": 4627, "owner": "meshtastic", "forks": 1186},
 {"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 0, "stars": 3572, "owner": "ton-blockchain", "forks": 1211},
 {"description": "PX4 Autopilot Software", "language": "C++", "repo": "PX4-Autopilot", "new_stars": 10, "stars": 9332, "owner": "PX4", "forks": 13870},
@@ -19,6 +19,6 @@
 {"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 13, "stars": 24480, "owner": "notepad-plus-plus", "forks": 4801},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 2, "stars": 19341, "owner": "catchorg", "forks": 3100},
 {"description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM", "language": "C++", "repo": "ORB_SLAM3", "new_stars": 2, "stars": 7178, "owner": "UZ-SLAMLab", "forks": 2716},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 4, "stars": 25901, "owner": "envoyproxy", "forks": 4924},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 48, "stars": 24915, "owner": "hyprwm", "forks": 1072}
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 4, "stars": 25902, "owner": "envoyproxy", "forks": 4924},
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 48, "stars": 24916, "owner": "hyprwm", "forks": 1072}
 ]

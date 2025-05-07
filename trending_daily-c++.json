@@ -1,16 +1,16 @@
 [
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 1118, "stars": 40530, "owner": "LadybirdBrowser", "forks": 1680},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 1118, "stars": 40583, "owner": "LadybirdBrowser", "forks": 1681},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 11, "stars": 15028, "owner": "ZLMediaKit", "forks": 3645},
 {"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 32, "stars": 31683, "owner": "SerenityOS", "forks": 3236},
 {"description": "\u5fae\u4fe1\u673a\u5668\u4eba\uff0c\u53ef\u63a5\u5165DeepSeek\u3001Gemini\u3001ChatGPT\u3001ChatGLM\u3001\u8baf\u98de\u661f\u706b\u3001Tigerbot\u7b49\u5927\u6a21\u578b\u3002\u5fae\u4fe1 hook WeChat Robot Hook.", "language": "C++", "repo": "WeChatFerry", "new_stars": 14, "stars": 6219, "owner": "lich0821", "forks": 1268},
 {"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 11, "stars": 4610, "owner": "google", "forks": 348},
 {"description": "A high performance, editable terrain system for Godot 4.", "language": "C++", "repo": "Terrain3D", "new_stars": 16, "stars": 2901, "owner": "TokisanGames", "forks": 169},
-{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 39, "stars": 28962, "owner": "duckdb", "forks": 2272},
+{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 39, "stars": 28964, "owner": "duckdb", "forks": 2272},
 {"description": "A computationally efficient and robust LiDAR-inertial odometry (LIO) package", "language": "C++", "repo": "FAST_LIO", "new_stars": 4, "stars": 3276, "owner": "hku-mars", "forks": 1095},
 {"description": "Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics", "language": "C++", "repo": "arrow", "new_stars": 8, "stars": 15364, "owner": "apache", "forks": 3702},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 22, "stars": 121838, "owner": "facebook", "forks": 24634},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 22, "stars": 121841, "owner": "facebook", "forks": 24635},
 {"description": null, "language": "C++", "repo": "duix.ai", "new_stars": 25, "stars": 5763, "owner": "GuijiAI", "forks": 850},
-{"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 12, "stars": 32409, "owner": "CMU-Perceptual-Computing-Lab", "forks": 7954},
+{"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 12, "stars": 32411, "owner": "CMU-Perceptual-Computing-Lab", "forks": 7954},
 {"description": "A C++ library for interacting with JSON.", "language": "C++", "repo": "jsoncpp", "new_stars": 1, "stars": 8508, "owner": "open-source-parsers", "forks": 2691},
 {"description": "Mold: A Modern Linker \ud83e\udda0", "language": "C++", "repo": "mold", "new_stars": 9, "stars": 15164, "owner": "rui314", "forks": 497},
 {"description": "C++\u90a3\u4e9b\u4e8b", "language": "C++", "repo": "CPlusPlusThings", "new_stars": 13, "stars": 41047, "owner": "Light-City", "forks": 8703},
@@ -18,7 +18,7 @@
 {"description": "LIO-SAM: Tightly-coupled Lidar Inertial Odometry via Smoothing and Mapping", "language": "C++", "repo": "LIO-SAM", "new_stars": 3, "stars": 3850, "owner": "TixiaoShan", "forks": 1348},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 8, "stars": 16565, "owner": "pybind", "forks": 2169},
 {"description": "My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.", "language": "C++", "repo": "GASDocumentation", "new_stars": 3, "stars": 5001, "owner": "tranek", "forks": 893},
-{"description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)", "language": "C++", "repo": "meeting-minutes", "new_stars": 92, "stars": 5391, "owner": "Zackriya-Solutions", "forks": 364},
+{"description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)", "language": "C++", "repo": "meeting-minutes", "new_stars": 92, "stars": 5395, "owner": "Zackriya-Solutions", "forks": 364},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 6, "stars": 15831, "owner": "abseil", "forks": 2773},
-{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 31, "stars": 34740, "owner": "facebookresearch", "forks": 3864}
+{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 31, "stars": 34741, "owner": "facebookresearch", "forks": 3864}
 ]

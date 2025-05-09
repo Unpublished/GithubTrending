@@ -1,9 +1,9 @@
 [
-{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 74, "stars": 12730, "owner": "78", "forks": 2478},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 974, "stars": 41427, "owner": "LadybirdBrowser", "forks": 1718},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 35990, "owner": "google", "forks": 10345},
+{"description": "Build your own AI friend", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 74, "stars": 12754, "owner": "78", "forks": 2479},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 974, "stars": 41442, "owner": "LadybirdBrowser", "forks": 1719},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 10, "stars": 35991, "owner": "google", "forks": 10346},
 {"description": "Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats. You can quickly reduce the file size (and resolution, if you want) by preserving the overall quality of the image.", "language": "C++", "repo": "caesium-image-compressor", "new_stars": 66, "stars": 4620, "owner": "Lymphatus", "forks": 274},
-{"description": "Performance instrumentation and tracing for Android, Linux and Chrome", "language": "C++", "repo": "perfetto", "new_stars": 19, "stars": 3825, "owner": "google", "forks": 457},
+{"description": "Performance instrumentation and tracing for Android, Linux and Chrome", "language": "C++", "repo": "perfetto", "new_stars": 19, "stars": 3827, "owner": "google", "forks": 457},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 2, "stars": 15032, "owner": "ZLMediaKit", "forks": 3646},
 {"description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation", "language": "C++", "repo": "openpose", "new_stars": 9, "stars": 32425, "owner": "CMU-Perceptual-Computing-Lab", "forks": 7955},
 {"description": "A GDExtension plugin which give godot the ability to produce highly optimized Terrain for Open world games", "language": "C++", "repo": "Godot-MTerrain-plugin", "new_stars": 10, "stars": 736, "owner": "mohsenph69", "forks": 38},
@@ -12,13 +12,13 @@
 {"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 10, "stars": 24192, "owner": "microsoft", "forks": 1546},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 1, "stars": 14672, "owner": "Tencent", "forks": 3583},
 {"description": null, "language": "C++", "repo": "duix.ai", "new_stars": 29, "stars": 5798, "owner": "GuijiAI", "forks": 853},
-{"description": "\u5168\u7403\u6700\u5c0f\u7684\u684c\u9762\u7ea7\u53cc\u8f6e\u817f\u673a\u5668\u4eba\uff01", "language": "C++", "repo": "Micro-Wheeled_leg-Robot", "new_stars": 17, "stars": 1746, "owner": "MuShibo", "forks": 282},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 11, "stars": 67496, "owner": "protocolbuffers", "forks": 15695},
+{"description": "\u5168\u7403\u6700\u5c0f\u7684\u684c\u9762\u7ea7\u53cc\u8f6e\u817f\u673a\u5668\u4eba\uff01", "language": "C++", "repo": "Micro-Wheeled_leg-Robot", "new_stars": 17, "stars": 1748, "owner": "MuShibo", "forks": 282},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 11, "stars": 67495, "owner": "protocolbuffers", "forks": 15695},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 9, "stars": 29345, "owner": "facebook", "forks": 5688},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 6, "stars": 16572, "owner": "pybind", "forks": 2169},
-{"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 7, "stars": 12436, "owner": "carla-simulator", "forks": 3997},
+{"description": "Open-source simulator for autonomous driving research.", "language": "C++", "repo": "carla", "new_stars": 7, "stars": 12437, "owner": "carla-simulator", "forks": 3997},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 11, "stars": 29643, "owner": "facebook", "forks": 6471},
 {"description": "Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.", "language": "C++", "repo": "libphonenumber", "new_stars": 2, "stars": 17157, "owner": "google", "forks": 2099},
 {"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 7, "stars": 10444, "owner": "NVIDIA", "forks": 1418},
-{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 7, "stars": 8581, "owner": "colmap", "forks": 1618}
+{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 7, "stars": 8582, "owner": "colmap", "forks": 1618}
 ]

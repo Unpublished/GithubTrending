@@ -1,12 +1,12 @@
 [
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 256, "stars": 59015, "owner": "zed-industries", "forks": 4139},
-{"description": "UI components for building fantastic desktop application by using GPUI.", "language": "Rust", "repo": "gpui-component", "new_stars": 503, "stars": 2076, "owner": "longbridge", "forks": 101},
-{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 72, "stars": 37678, "owner": "tw93", "forks": 6837},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 83, "stars": 38693, "owner": "astral-sh", "forks": 1323},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 256, "stars": 59023, "owner": "zed-industries", "forks": 4140},
+{"description": "UI components for building fantastic desktop application by using GPUI.", "language": "Rust", "repo": "gpui-component", "new_stars": 503, "stars": 2087, "owner": "longbridge", "forks": 101},
+{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 72, "stars": 37680, "owner": "tw93", "forks": 6838},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 83, "stars": 38695, "owner": "astral-sh", "forks": 1323},
 {"description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)", "language": "Rust", "repo": "baml", "new_stars": 28, "stars": 3498, "owner": "BoundaryML", "forks": 148},
-{"description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 42, "stars": 92352, "owner": "tauri-apps", "forks": 2844},
+{"description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 42, "stars": 92354, "owner": "tauri-apps", "forks": 2844},
 {"description": "Fullstack app framework for web, desktop, mobile, and more.", "language": "Rust", "repo": "dioxus", "new_stars": 25, "stars": 27412, "owner": "DioxusLabs", "forks": 1094},
-{"description": "TensorZero creates a feedback loop for optimizing LLM applications \u2014 turning production data into smarter, faster, and cheaper models.", "language": "Rust", "repo": "tensorzero", "new_stars": 17, "stars": 4018, "owner": "tensorzero", "forks": 264},
+{"description": "TensorZero creates a feedback loop for optimizing LLM applications \u2014 turning production data into smarter, faster, and cheaper models.", "language": "Rust", "repo": "tensorzero", "new_stars": 17, "stars": 4019, "owner": "tensorzero", "forks": 264},
 {"description": "\u2728 Magical shell history", "language": "Rust", "repo": "atuin", "new_stars": 15, "stars": 23838, "owner": "atuinsh", "forks": 646},
 {"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 24, "stars": 12916, "owner": "ratatui", "forks": 405},
 {"description": "A memory safe implementation of sudo and su.", "language": "Rust", "repo": "sudo-rs", "new_stars": 58, "stars": 3399, "owner": "trifectatechfoundation", "forks": 99},
@@ -16,9 +16,9 @@
 {"description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust", "language": "Rust", "repo": "tantivy", "new_stars": 4, "stars": 13119, "owner": "quickwit-oss", "forks": 752},
 {"description": "Modern embedded framework, using Rust and async.", "language": "Rust", "repo": "embassy", "new_stars": 6, "stars": 6759, "owner": "embassy-rs", "forks": 1023},
 {"description": "A hardware-accelerated GPU terminal emulator focusing to run in desktops and browsers.", "language": "Rust", "repo": "rio", "new_stars": 8, "stars": 5074, "owner": "raphamorim", "forks": 182},
-{"description": "A linux utility to get information on filesystems, like df but better", "language": "Rust", "repo": "dysk", "new_stars": 87, "stars": 1221, "owner": "Canop", "forks": 24},
+{"description": "A linux utility to get information on filesystems, like df but better", "language": "Rust", "repo": "dysk", "new_stars": 87, "stars": 1226, "owner": "Canop", "forks": 24},
 {"description": "The Rust toolchain installer", "language": "Rust", "repo": "rustup", "new_stars": 4, "stars": 6439, "owner": "rust-lang", "forks": 946},
 {"description": "A native Rust library for Delta Lake, with bindings into Python", "language": "Rust", "repo": "delta-rs", "new_stars": 6, "stars": 2744, "owner": "delta-io", "forks": 475},
 {"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 14, "stars": 15352, "owner": "jdx", "forks": 484},
-{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 156, "stars": 53434, "owner": "astral-sh", "forks": 1504}
+{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 156, "stars": 53435, "owner": "astral-sh", "forks": 1504}
 ]

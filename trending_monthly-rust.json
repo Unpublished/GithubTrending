@@ -1,11 +1,11 @@
 [
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 1320, "stars": 36364, "owner": "lapce", "forks": 1135},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 3268, "stars": 60322, "owner": "zed-industries", "forks": 4328},
-{"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 1397, "stars": 18221, "owner": "neondatabase", "forks": 645},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 1393, "stars": 39363, "owner": "astral-sh", "forks": 1364},
-{"description": "A Git-compatible VCS that is both simple and powerful", "language": "Rust", "repo": "jj", "new_stars": 2736, "stars": 15157, "owner": "jj-vcs", "forks": 522},
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 3268, "stars": 60323, "owner": "zed-industries", "forks": 4328},
+{"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 1397, "stars": 18222, "owner": "neondatabase", "forks": 645},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 1393, "stars": 39365, "owner": "astral-sh", "forks": 1364},
+{"description": "A Git-compatible VCS that is both simple and powerful", "language": "Rust", "repo": "jj", "new_stars": 2736, "stars": 15158, "owner": "jj-vcs", "forks": 522},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 383, "stars": 20713, "owner": "tree-sitter", "forks": 1835},
-{"description": "Limbo is a project to build the modern evolution of SQLite.", "language": "Rust", "repo": "limbo", "new_stars": 613, "stars": 10831, "owner": "tursodatabase", "forks": 408},
+{"description": "Limbo is a project to build the modern evolution of SQLite.", "language": "Rust", "repo": "limbo", "new_stars": 613, "stars": 10832, "owner": "tursodatabase", "forks": 408},
 {"description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)", "language": "Rust", "repo": "baml", "new_stars": 646, "stars": 3781, "owner": "BoundaryML", "forks": 162},
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 608, "stars": 58919, "owner": "alacritty", "forks": 3116},
 {"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 152, "stars": 6967, "owner": "MystenLabs", "forks": 11483},
@@ -16,12 +16,12 @@
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 689, "stars": 39736, "owner": "bevyengine", "forks": 3912},
 {"description": "A bunch of lints to catch common mistakes and improve your Rust code. Book:", "language": "Rust", "repo": "rust-clippy", "new_stars": 155, "stars": 12074, "owner": "rust-lang", "forks": 1658},
 {"description": "UI components for building fantastic desktop application by using GPUI.", "language": "Rust", "repo": "gpui-component", "new_stars": 2309, "stars": 2994, "owner": "longbridge", "forks": 132},
-{"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 488, "stars": 13151, "owner": "ratatui", "forks": 415},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1045, "stars": 44805, "owner": "dani-garcia", "forks": 2115},
+{"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 488, "stars": 13152, "owner": "ratatui", "forks": 415},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1045, "stars": 44806, "owner": "dani-garcia", "forks": 2115},
 {"description": "ElKowars wacky widgets", "language": "Rust", "repo": "eww", "new_stars": 479, "stars": 10680, "owner": "elkowar", "forks": 447},
 {"description": "Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 479, "stars": 11372, "owner": "espanso", "forks": 319},
-{"description": "A Solution to your Wayland Wallpaper Woes", "language": "Rust", "repo": "swww", "new_stars": 132, "stars": 2934, "owner": "LGFae", "forks": 78},
+{"description": "A Solution to your Wayland Wallpaper Woes", "language": "Rust", "repo": "swww", "new_stars": 132, "stars": 2935, "owner": "LGFae", "forks": 78},
 {"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 587, "stars": 23728, "owner": "qdrant", "forks": 1633},
 {"description": "Anki's shared backend and web components, and the Qt frontend", "language": "Rust", "repo": "anki", "new_stars": 675, "stars": 21619, "owner": "ankitects", "forks": 2338},
-{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 786, "stars": 15648, "owner": "jdx", "forks": 506}
+{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 786, "stars": 15649, "owner": "jdx", "forks": 506}
 ]

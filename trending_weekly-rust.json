@@ -1,17 +1,17 @@
 [
 {"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 332, "stars": 7517, "owner": "YaLTeR", "forks": 247},
 {"description": "Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.", "language": "Rust", "repo": "neon", "new_stars": 518, "stars": 18242, "owner": "neondatabase", "forks": 645},
-{"description": "A fast type checker and IDE for Python", "language": "Rust", "repo": "pyrefly", "new_stars": 1008, "stars": 2048, "owner": "facebook", "forks": 57},
+{"description": "A fast type checker and IDE for Python", "language": "Rust", "repo": "pyrefly", "new_stars": 1008, "stars": 2051, "owner": "facebook", "forks": 58},
 {"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 619, "stars": 89032, "owner": "rustdesk", "forks": 12710},
-{"description": "A markdown terminal slideshow tool", "language": "Rust", "repo": "presenterm", "new_stars": 303, "stars": 6128, "owner": "mfontanini", "forks": 123},
-{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 1007, "stars": 19590, "owner": "juspay", "forks": 3043},
+{"description": "A markdown terminal slideshow tool", "language": "Rust", "repo": "presenterm", "new_stars": 303, "stars": 6129, "owner": "mfontanini", "forks": 123},
+{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 1007, "stars": 19591, "owner": "juspay", "forks": 3043},
 {"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 114, "stars": 35218, "owner": "nushell", "forks": 1833},
 {"description": "The open-source reactive database for app developers", "language": "Rust", "repo": "convex-backend", "new_stars": 228, "stars": 4524, "owner": "get-convex", "forks": 223},
-{"description": "Limbo is a project to build the modern evolution of SQLite.", "language": "Rust", "repo": "limbo", "new_stars": 338, "stars": 10839, "owner": "tursodatabase", "forks": 409},
-{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 346, "stars": 13055, "owner": "block", "forks": 1003},
-{"description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.", "language": "Rust", "repo": "union", "new_stars": 2852, "stars": 65297, "owner": "unionlabs", "forks": 3157},
-{"description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered", "language": "Rust", "repo": "harper", "new_stars": 162, "stars": 4367, "owner": "Automattic", "forks": 118},
-{"description": "The official Rust SDK for the Model Context Protocol", "language": "Rust", "repo": "rust-sdk", "new_stars": 107, "stars": 1204, "owner": "modelcontextprotocol", "forks": 178},
+{"description": "Limbo is a project to build the modern evolution of SQLite.", "language": "Rust", "repo": "limbo", "new_stars": 338, "stars": 10840, "owner": "tursodatabase", "forks": 409},
+{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 346, "stars": 13057, "owner": "block", "forks": 1004},
+{"description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.", "language": "Rust", "repo": "union", "new_stars": 2852, "stars": 65305, "owner": "unionlabs", "forks": 3157},
+{"description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered", "language": "Rust", "repo": "harper", "new_stars": 162, "stars": 4367, "owner": "Automattic", "forks": 119},
+{"description": "The official Rust SDK for the Model Context Protocol", "language": "Rust", "repo": "rust-sdk", "new_stars": 107, "stars": 1205, "owner": "modelcontextprotocol", "forks": 178},
 {"description": "Rust-based platform for the Web", "language": "Rust", "repo": "swc", "new_stars": 65, "stars": 32227, "owner": "swc-project", "forks": 1287},
 {"description": "Count your code, quickly.", "language": "Rust", "repo": "tokei", "new_stars": 91, "stars": 12488, "owner": "XAMPPRocky", "forks": 580},
 {"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 172, "stars": 39754, "owner": "bevyengine", "forks": 3914},
@@ -19,5 +19,5 @@
 {"description": "Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust", "language": "Rust", "repo": "utoipa", "new_stars": 23, "stars": 3086, "owner": "juhaku", "forks": 269},
 {"description": "A tiling window manager for Windows \ud83c\udf49", "language": "Rust", "repo": "komorebi", "new_stars": 161, "stars": 11508, "owner": "LGUG2Z", "forks": 241},
 {"description": "RustDesk Server Program", "language": "Rust", "repo": "rustdesk-server", "new_stars": 52, "stars": 7849, "owner": "rustdesk", "forks": 1741},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 82, "stars": 27981, "owner": "firecracker-microvm", "forks": 1941}
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 82, "stars": 27982, "owner": "firecracker-microvm", "forks": 1941}
 ]

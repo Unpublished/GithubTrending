@@ -1,14 +1,14 @@
 [
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 153, "stars": 68120, "owner": "protocolbuffers", "forks": 15768},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 27, "stars": 36329, "owner": "google", "forks": 10425},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 153, "stars": 68143, "owner": "protocolbuffers", "forks": 15769},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 27, "stars": 36332, "owner": "google", "forks": 10425},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 112, "stars": 16919, "owner": "pybind", "forks": 2192},
 {"description": "LiteRT continues the legacy of TensorFlow Lite as the trusted, high-performance runtime for on-device AI. Now with LiteRT Next, we're expanding our vision with a new generation of APIs designed for superior performance and simplified hardware acceleration. Discover what's next for on-device AI.", "language": "C++", "repo": "LiteRT", "new_stars": 6, "stars": 645, "owner": "google-ai-edge", "forks": 90},
 {"description": "A YAML parser and emitter in C++", "language": "C++", "repo": "yaml-cpp", "new_stars": 2, "stars": 5550, "owner": "jbeder", "forks": 1979},
-{"description": "A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE", "language": "C++", "repo": "FlopperZiro", "new_stars": 244, "stars": 1218, "owner": "lraton", "forks": 48},
-{"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 25, "stars": 12472, "owner": "alibaba", "forks": 1994},
+{"description": "A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE", "language": "C++", "repo": "FlopperZiro", "new_stars": 244, "stars": 1222, "owner": "lraton", "forks": 48},
+{"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 25, "stars": 12474, "owner": "alibaba", "forks": 1994},
 {"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 5, "stars": 26253, "owner": "envoyproxy", "forks": 5001},
 {"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 4, "stars": 21768, "owner": "Tencent", "forks": 4288},
-{"description": "CUDA Core Compute Libraries", "language": "C++", "repo": "cccl", "new_stars": 6, "stars": 1750, "owner": "NVIDIA", "forks": 236},
+{"description": "CUDA Core Compute Libraries", "language": "C++", "repo": "cccl", "new_stars": 6, "stars": 1751, "owner": "NVIDIA", "forks": 236},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 4, "stars": 29560, "owner": "facebook", "forks": 5724},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 4, "stars": 6271, "owner": "firebase", "forks": 1634},
 {"description": null, "language": "C++", "repo": "NVRHI", "new_stars": 13, "stars": 1329, "owner": "NVIDIA-RTX", "forks": 156},
@@ -16,9 +16,9 @@
 {"description": "Windows Calculator: A simple yet powerful calculator that ships with Windows", "language": "C++", "repo": "calculator", "new_stars": 4, "stars": 30452, "owner": "microsoft", "forks": 5567},
 {"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 8, "stars": 10986, "owner": "NVIDIA", "forks": 1577},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 35, "stars": 66788, "owner": "ocornut", "forks": 11029},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 18, "stars": 46407, "owner": "nlohmann", "forks": 7056},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 18, "stars": 46408, "owner": "nlohmann", "forks": 7056},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 13, "stars": 22047, "owner": "fmtlib", "forks": 2663},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 0, "stars": 19562, "owner": "catchorg", "forks": 3122},
-{"description": "Multipass orchestrates virtual Ubuntu instances", "language": "C++", "repo": "multipass", "new_stars": 19, "stars": 8487, "owner": "canonical", "forks": 709},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 26, "stars": 122988, "owner": "facebook", "forks": 24753}
+{"description": "Multipass orchestrates virtual Ubuntu instances", "language": "C++", "repo": "multipass", "new_stars": 19, "stars": 8488, "owner": "canonical", "forks": 709},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 26, "stars": 122987, "owner": "facebook", "forks": 24753}
 ]

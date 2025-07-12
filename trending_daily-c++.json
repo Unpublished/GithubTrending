@@ -1,12 +1,12 @@
 [
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 472, "stars": 68470, "owner": "protocolbuffers", "forks": 15788},
-{"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 17, "stars": 16951, "owner": "pybind", "forks": 2194},
+{"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 17, "stars": 16953, "owner": "pybind", "forks": 2194},
 {"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 8, "stars": 10994, "owner": "NVIDIA", "forks": 1578},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 71, "stars": 36381, "owner": "google", "forks": 10429},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 19, "stars": 84525, "owner": "bitcoin", "forks": 37509},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 21, "stars": 46429, "owner": "nlohmann", "forks": 7053},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 71, "stars": 36380, "owner": "google", "forks": 10429},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 19, "stars": 84526, "owner": "bitcoin", "forks": 37509},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 21, "stars": 46430, "owner": "nlohmann", "forks": 7053},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 9, "stars": 26715, "owner": "gabime", "forks": 4835},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 29, "stars": 66815, "owner": "ocornut", "forks": 11033},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 29, "stars": 66817, "owner": "ocornut", "forks": 11033},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 39, "stars": 7867, "owner": "NVIDIA", "forks": 1312},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 22, "stars": 190709, "owner": "tensorflow", "forks": 74747},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 7, "stars": 29566, "owner": "facebook", "forks": 5725},
@@ -21,5 +21,5 @@
 {"description": "The OpenTelemetry C++ Client", "language": "C++", "repo": "opentelemetry-cpp", "new_stars": 0, "stars": 1088, "owner": "open-telemetry", "forks": 485},
 {"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 2, "stars": 15456, "owner": "apple", "forks": 1393},
 {"description": "Google's Operations Research tools:", "language": "C++", "repo": "or-tools", "new_stars": 5, "stars": 12212, "owner": "google", "forks": 2247},
-{"description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.", "language": "C++", "repo": "CLI11", "new_stars": 4, "stars": 3731, "owner": "CLIUtils", "forks": 375}
+{"description": "CLI11 is a command line parser for C++11 and beyond that provides a rich feature set with a simple and intuitive interface.", "language": "C++", "repo": "CLI11", "new_stars": 4, "stars": 3727, "owner": "CLIUtils", "forks": 375}
 ]

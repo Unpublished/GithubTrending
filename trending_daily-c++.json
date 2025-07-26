@@ -1,5 +1,5 @@
 [
-{"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 7, "stars": 11906, "owner": "NVIDIA", "forks": 2231},
+{"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 7, "stars": 11907, "owner": "NVIDIA", "forks": 2231},
 {"description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events", "language": "C++", "repo": "async-profiler", "new_stars": 3, "stars": 8356, "owner": "async-profiler", "forks": 922},
 {"description": "FoundationDB - the open source, distributed, transactional key-value store", "language": "C++", "repo": "foundationdb", "new_stars": 13, "stars": 15506, "owner": "apple", "forks": 1401},
 {"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 16, "stars": 28121, "owner": "telegramdesktop", "forks": 5706},
@@ -7,7 +7,7 @@
 {"description": "FlatBuffers: Memory Efficient Serialization Library", "language": "C++", "repo": "flatbuffers", "new_stars": 10, "stars": 24530, "owner": "google", "forks": 3369},
 {"description": "A composable and fully extensible C++ execution engine library for data management systems.", "language": "C++", "repo": "velox", "new_stars": 4, "stars": 3825, "owner": "facebookincubator", "forks": 1378},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 10, "stars": 19613, "owner": "catchorg", "forks": 3121},
-{"description": "llama.cpp fork with additional SOTA quants and improved performance", "language": "C++", "repo": "ik_llama.cpp", "new_stars": 53, "stars": 874, "owner": "ikawrakow", "forks": 104},
+{"description": "llama.cpp fork with additional SOTA quants and improved performance", "language": "C++", "repo": "ik_llama.cpp", "new_stars": 53, "stars": 875, "owner": "ikawrakow", "forks": 104},
 {"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 20, "stars": 20910, "owner": "simdjson", "forks": 1090},
 {"description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2", "language": "C++", "repo": "filament", "new_stars": 2, "stars": 18682, "owner": "google", "forks": 2000},
 {"description": "A framework for building native Windows apps with React.", "language": "C++", "repo": "react-native-windows", "new_stars": 4, "stars": 16920, "owner": "microsoft", "forks": 1165},
@@ -18,9 +18,9 @@
 {"description": "Share a single keyboard and mouse between multiple computers.", "language": "C++", "repo": "deskflow", "new_stars": 23, "stars": 19203, "owner": "deskflow", "forks": 4110},
 {"description": "The official repository for ROOT: analyzing, storing and visualizing big data, scientifically", "language": "C++", "repo": "root", "new_stars": 6, "stars": 2920, "owner": "root-project", "forks": 1367},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 12, "stars": 68885, "owner": "swiftlang", "forks": 10507},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 55, "stars": 83498, "owner": "ggml-org", "forks": 12456},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 0, "stars": 16137, "owner": "abseil", "forks": 2810},
-{"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 6, "stars": 12622, "owner": "alibaba", "forks": 2015},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 55, "stars": 83497, "owner": "ggml-org", "forks": 12456},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 0, "stars": 16138, "owner": "abseil", "forks": 2810},
+{"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 6, "stars": 12623, "owner": "alibaba", "forks": 2015},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 1, "stars": 15469, "owner": "ZLMediaKit", "forks": 3728},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 19, "stars": 46589, "owner": "nlohmann", "forks": 7066}
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 19, "stars": 46589, "owner": "nlohmann", "forks": 7065}
 ]

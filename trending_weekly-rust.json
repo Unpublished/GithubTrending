@@ -1,12 +1,12 @@
 [
-{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 866, "stars": 94817, "owner": "rustdesk", "forks": 13869},
+{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 866, "stars": 94826, "owner": "rustdesk", "forks": 13871},
 {"description": "\u2693 Solana Sealevel Framework", "language": "Rust", "repo": "anchor", "new_stars": 31, "stars": 4487, "owner": "solana-foundation", "forks": 1629},
-{"description": "peer-2-peer that just works", "language": "Rust", "repo": "iroh", "new_stars": 1020, "stars": 6593, "owner": "n0-computer", "forks": 288},
-{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 519, "stars": 40848, "owner": "tw93", "forks": 7616},
+{"description": "peer-2-peer that just works", "language": "Rust", "repo": "iroh", "new_stars": 1020, "stars": 6596, "owner": "n0-computer", "forks": 288},
+{"description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with Rust. \ud83e\udd31\ud83c\udffb \u5229\u7528 Rust \u8f7b\u677e\u6784\u5efa\u8f7b\u91cf\u7ea7\u591a\u7aef\u684c\u9762\u5e94\u7528", "language": "Rust", "repo": "Pake", "new_stars": 519, "stars": 40849, "owner": "tw93", "forks": 7617},
 {"description": "Lightning-fast and Powerful Code Editor written in Rust", "language": "Rust", "repo": "lapce", "new_stars": 432, "stars": 37101, "owner": "lapce", "forks": 1168},
-{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 110, "stars": 34703, "owner": "pola-rs", "forks": 2328},
+{"description": "Dataframes powered by a multithreaded, vectorized query engine, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 110, "stars": 34705, "owner": "pola-rs", "forks": 2328},
 {"description": "Blazingly fast LLM inference.", "language": "Rust", "repo": "mistral.rs", "new_stars": 61, "stars": 5973, "owner": "EricLBuehler", "forks": 437},
-{"description": "\u2699\ufe0f\ud83e\udd80 Build portable, modular & lightweight Fullstack Agents", "language": "Rust", "repo": "rig", "new_stars": 68, "stars": 4070, "owner": "0xPlaygrounds", "forks": 435},
+{"description": "\u2699\ufe0f\ud83e\udd80 Build portable, modular & lightweight Fullstack Agents", "language": "Rust", "repo": "rig", "new_stars": 68, "stars": 4071, "owner": "0xPlaygrounds", "forks": 435},
 {"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 403, "stars": 63318, "owner": "zed-industries", "forks": 4823},
 {"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 154, "stars": 19768, "owner": "gleam-lang", "forks": 841},
 {"description": "Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software", "language": "Rust", "repo": "warpgate", "new_stars": 224, "stars": 5139, "owner": "warp-tech", "forks": 162},
@@ -14,9 +14,9 @@
 {"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 144, "stars": 59769, "owner": "alacritty", "forks": 3156},
 {"description": "A native gRPC client & server implementation with async/await support.", "language": "Rust", "repo": "tonic", "new_stars": 57, "stars": 11200, "owner": "hyperium", "forks": 1116},
 {"description": "Counter-Strike: 2 Offset Dumper", "language": "Rust", "repo": "cs2-dumper", "new_stars": 37, "stars": 1409, "owner": "a2x", "forks": 195},
-{"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces, RUM, Error tracking, Session replay).", "language": "Rust", "repo": "openobserve", "new_stars": 87, "stars": 15948, "owner": "openobserve", "forks": 613},
-{"description": "Rust tool to detect cell site simulators on an orbic mobile hotspot", "language": "Rust", "repo": "rayhunter", "new_stars": 89, "stars": 2343, "owner": "EFForg", "forks": 183},
+{"description": "\ud83d\ude80 10x easier, \ud83d\ude80 140x lower storage cost, \ud83d\ude80 high performance, \ud83d\ude80 petabyte scale - Elasticsearch/Splunk/Datadog alternative for \ud83d\ude80 (logs, metrics, traces, RUM, Error tracking, Session replay).", "language": "Rust", "repo": "openobserve", "new_stars": 87, "stars": 15949, "owner": "openobserve", "forks": 613},
+{"description": "Rust tool to detect cell site simulators on an orbic mobile hotspot", "language": "Rust", "repo": "rayhunter", "new_stars": 89, "stars": 2344, "owner": "EFForg", "forks": 183},
 {"description": "\u8ba9\u5c0f\u7231\u97f3\u7bb1\u300c\u542c\u89c1\u4f60\u7684\u58f0\u97f3\u300d\uff0c\u89e3\u9501\u65e0\u9650\u53ef\u80fd\u3002", "language": "Rust", "repo": "open-xiaoai", "new_stars": 52, "stars": 697, "owner": "idootop", "forks": 66},
 {"description": "A tiling window manager for Windows \ud83c\udf49", "language": "Rust", "repo": "komorebi", "new_stars": 111, "stars": 12213, "owner": "LGUG2Z", "forks": 271},
-{"description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16", "language": "Rust", "repo": "RustScan", "new_stars": 259, "stars": 17500, "owner": "bee-san", "forks": 1164}
+{"description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16", "language": "Rust", "repo": "RustScan", "new_stars": 259, "stars": 17503, "owner": "bee-san", "forks": 1164}
 ]

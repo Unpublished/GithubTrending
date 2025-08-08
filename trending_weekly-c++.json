@@ -1,8 +1,8 @@
 [
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 543, "stars": 84311, "owner": "ggml-org", "forks": 12614},
-{"description": "Powerful yet simple to use screenshot software \ud83d\udda5\ufe0f \ud83d\udcf8", "language": "C++", "repo": "flameshot", "new_stars": 163, "stars": 27441, "owner": "flameshot-org", "forks": 1744},
-{"description": "Solidity, the Smart Contract Programming Language", "language": "C++", "repo": "solidity", "new_stars": 247, "stars": 24949, "owner": "ethereum", "forks": 6150},
-{"description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.", "language": "C++", "repo": "sumo", "new_stars": 617, "stars": 3562, "owner": "eclipse-sumo", "forks": 1604},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 543, "stars": 84317, "owner": "ggml-org", "forks": 12614},
+{"description": "Powerful yet simple to use screenshot software \ud83d\udda5\ufe0f \ud83d\udcf8", "language": "C++", "repo": "flameshot", "new_stars": 163, "stars": 27443, "owner": "flameshot-org", "forks": 1744},
+{"description": "Solidity, the Smart Contract Programming Language", "language": "C++", "repo": "solidity", "new_stars": 247, "stars": 24950, "owner": "ethereum", "forks": 6150},
+{"description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.", "language": "C++", "repo": "sumo", "new_stars": 617, "stars": 3563, "owner": "eclipse-sumo", "forks": 1604},
 {"description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.", "language": "C++", "repo": "microsoft-ui-xaml", "new_stars": 48, "stars": 6860, "owner": "microsoft", "forks": 756},
 {"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64", "language": "C++", "repo": "duckstation", "new_stars": 314, "stars": 8893, "owner": "stenzek", "forks": 812},
 {"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 613, "stars": 46568, "owner": "LadybirdBrowser", "forks": 2008},
@@ -12,14 +12,14 @@
 {"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 90, "stars": 11270, "owner": "NVIDIA", "forks": 1658},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 69, "stars": 10350, "owner": "SoftFever", "forks": 1327},
 {"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 97, "stars": 6973, "owner": "k2-fsa", "forks": 808},
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 106, "stars": 7776, "owner": "amnezia-vpn", "forks": 505},
-{"description": "Super Repository for Coding Interview Preperation", "language": "C++", "repo": "Interview_DS_Algo", "new_stars": 389, "stars": 3037, "owner": "MAZHARMIK", "forks": 1490},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 141, "stars": 117794, "owner": "electron", "forks": 16275},
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 106, "stars": 7777, "owner": "amnezia-vpn", "forks": 505},
+{"description": "Super Repository for Coding Interview Preperation", "language": "C++", "repo": "Interview_DS_Algo", "new_stars": 389, "stars": 3039, "owner": "MAZHARMIK", "forks": 1492},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 141, "stars": 117795, "owner": "electron", "forks": 16275},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 42, "stars": 22181, "owner": "fmtlib", "forks": 2675},
-{"description": "Fort Firewall for Windows", "language": "C++", "repo": "fort", "new_stars": 117, "stars": 2456, "owner": "tnodir", "forks": 174},
+{"description": "Fort Firewall for Windows", "language": "C++", "repo": "fort", "new_stars": 117, "stars": 2457, "owner": "tnodir", "forks": 175},
 {"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 44, "stars": 21893, "owner": "Tencent", "forks": 4306},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 102, "stars": 99117, "owner": "microsoft", "forks": 8680},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 102, "stars": 99119, "owner": "microsoft", "forks": 8681},
 {"description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 71, "stars": 5288, "owner": "meshtastic", "forks": 1410},
 {"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 291, "stars": 99705, "owner": "godotengine", "forks": 22945},
-{"description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.", "language": "C++", "repo": "iree", "new_stars": 17, "stars": 3275, "owner": "iree-org", "forks": 739}
+{"description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.", "language": "C++", "repo": "iree", "new_stars": 17, "stars": 3275, "owner": "iree-org", "forks": 740}
 ]

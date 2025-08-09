@@ -1,11 +1,11 @@
 [
-{"description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.", "language": "C++", "repo": "gpt4all", "new_stars": 13, "stars": 73994, "owner": "nomic-ai", "forks": 8073},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 131, "stars": 84398, "owner": "ggml-org", "forks": 12632},
+{"description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.", "language": "C++", "repo": "gpt4all", "new_stars": 13, "stars": 74000, "owner": "nomic-ai", "forks": 8074},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 131, "stars": 84398, "owner": "ggml-org", "forks": 12633},
 {"description": "A library that provides an embeddable, persistent key-value store for fast storage.", "language": "C++", "repo": "rocksdb", "new_stars": 21, "stars": 30238, "owner": "facebook", "forks": 6570},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 6, "stars": 16189, "owner": "abseil", "forks": 2818},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 27, "stars": 117806, "owner": "electron", "forks": 16280},
-{"description": "Productive, portable, and performant GPU programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 17, "stars": 27352, "owner": "taichi-dev", "forks": 2355},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 20, "stars": 123338, "owner": "facebook", "forks": 24785},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 6, "stars": 16188, "owner": "abseil", "forks": 2818},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 27, "stars": 117807, "owner": "electron", "forks": 16280},
+{"description": "Productive, portable, and performant GPU programming in Python.", "language": "C++", "repo": "taichi", "new_stars": 17, "stars": 27354, "owner": "taichi-dev", "forks": 2355},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 20, "stars": 123340, "owner": "facebook", "forks": 24786},
 {"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 3, "stars": 3726, "owner": "kvcache-ai", "forks": 345},
 {"description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)", "language": "C++", "repo": "qgroundcontrol", "new_stars": 13, "stars": 3889, "owner": "mavlink", "forks": 4185},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 16, "stars": 46764, "owner": "nlohmann", "forks": 7085},
@@ -15,10 +15,10 @@
 {"description": "rAthena is an open-source cross-platform MMORPG server.", "language": "C++", "repo": "rathena", "new_stars": 1, "stars": 3159, "owner": "rathena", "forks": 2495},
 {"description": "The JavaScript / Wasm runtime that powers Cloudflare Workers", "language": "C++", "repo": "workerd", "new_stars": 2, "stars": 6933, "owner": "cloudflare", "forks": 416},
 {"description": "A C++ library for interacting with JSON.", "language": "C++", "repo": "jsoncpp", "new_stars": 3, "stars": 8635, "owner": "open-source-parsers", "forks": 2712},
-{"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 5, "stars": 43466, "owner": "grpc", "forks": 10859},
+{"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 5, "stars": 43466, "owner": "grpc", "forks": 10858},
 {"description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 18, "stars": 25750, "owner": "FreeCAD", "forks": 4715},
-{"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 18, "stars": 12761, "owner": "alibaba", "forks": 2030},
-{"description": "12 Weeks, 24 Lessons, IoT for All!", "language": "C++", "repo": "IoT-For-Beginners", "new_stars": 2, "stars": 16383, "owner": "microsoft", "forks": 2577},
+{"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 18, "stars": 12763, "owner": "alibaba", "forks": 2030},
+{"description": "12 Weeks, 24 Lessons, IoT for All!", "language": "C++", "repo": "IoT-For-Beginners", "new_stars": 2, "stars": 16384, "owner": "microsoft", "forks": 2577},
 {"description": "The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure.", "language": "C++", "repo": "assimp", "new_stars": 8, "stars": 12192, "owner": "assimp", "forks": 3064},
-{"description": "The public CGAL repository, see the README below", "language": "C++", "repo": "cgal", "new_stars": 3, "stars": 5477, "owner": "CGAL", "forks": 1484}
+{"description": "The public CGAL repository, see the README below", "language": "C++", "repo": "cgal", "new_stars": 3, "stars": 5478, "owner": "CGAL", "forks": 1484}
 ]

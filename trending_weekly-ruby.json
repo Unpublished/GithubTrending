@@ -1,17 +1,17 @@
 [
 {"description": "Self-hostable alternative to Google Timeline (Google Location History)", "language": "Ruby", "repo": "dawarich", "new_stars": 406, "stars": 6370, "owner": "Freika", "forks": 192},
-{"description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.", "language": "Ruby", "repo": "ubicloud", "new_stars": 2434, "stars": 8105, "owner": "ubicloud", "forks": 340},
-{"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 52, "stars": 13024, "owner": "basecamp", "forks": 617},
+{"description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.", "language": "Ruby", "repo": "ubicloud", "new_stars": 2434, "stars": 8158, "owner": "ubicloud", "forks": 342},
+{"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 52, "stars": 13025, "owner": "basecamp", "forks": 617},
 {"description": "Simple, efficient background processing for Ruby", "language": "Ruby", "repo": "sidekiq", "new_stars": 6, "stars": 13361, "owner": "sidekiq", "forks": 2456},
-{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 168, "stars": 35296, "owner": "kilimchoi", "forks": 1851},
+{"description": "A curated list of engineering blogs", "language": "Ruby", "repo": "engineering-blogs", "new_stars": 168, "stars": 35297, "owner": "kilimchoi", "forks": 1851},
 {"description": "\ud83d\udd10 Securely share sensitive information with automatic expiration & deletion after a set number of views or duration. Track who, what and when with full audit logs.", "language": "Ruby", "repo": "PasswordPusher", "new_stars": 25, "stars": 2574, "owner": "pglombardo", "forks": 405},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 33, "stars": 14536, "owner": "Homebrew", "forks": 12958},
-{"description": "Sell stuff and see what sticks", "language": "Ruby", "repo": "gumroad", "new_stars": 81, "stars": 6783, "owner": "antiwork", "forks": 1164},
-{"description": "Contractor payments as easy as 1-2-3", "language": "Ruby", "repo": "flexile", "new_stars": 28, "stars": 702, "owner": "antiwork", "forks": 274},
-{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 22, "stars": 21491, "owner": "Homebrew", "forks": 11057},
-{"description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.", "language": "Ruby", "repo": "ruby_llm", "new_stars": 36, "stars": 2701, "owner": "crmne", "forks": 219},
+{"description": "Sell stuff and see what sticks", "language": "Ruby", "repo": "gumroad", "new_stars": 81, "stars": 6784, "owner": "antiwork", "forks": 1164},
+{"description": "Contractor payments as easy as 1-2-3", "language": "Ruby", "repo": "flexile", "new_stars": 28, "stars": 702, "owner": "antiwork", "forks": 275},
+{"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 22, "stars": 21492, "owner": "Homebrew", "forks": 11057},
+{"description": "Stop juggling AI SDKs! RubyLLM offers one delightful Ruby interface for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama & compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.", "language": "Ruby", "repo": "ruby_llm", "new_stars": 36, "stars": 2702, "owner": "crmne", "forks": 219},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 77, "stars": 36150, "owner": "rapid7", "forks": 14445},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 101, "stars": 24910, "owner": "chatwoot", "forks": 5103},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 101, "stars": 24912, "owner": "chatwoot", "forks": 5103},
 {"description": "Liquid markup language. Safe, customer facing template language for flexible web apps.", "language": "Ruby", "repo": "liquid", "new_stars": 19, "stars": 11451, "owner": "Shopify", "forks": 1468},
 {"description": "Next generation web scanner", "language": "Ruby", "repo": "WhatWeb", "new_stars": 14, "stars": 5999, "owner": "urbanadventurer", "forks": 953},
 {"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 39, "stars": 50459, "owner": "jekyll", "forks": 10162},
@@ -20,5 +20,5 @@
 {"description": "A framework for building reusable, testable & encapsulated view components in Ruby on Rails.", "language": "Ruby", "repo": "view_component", "new_stars": 3, "stars": 3454, "owner": "ViewComponent", "forks": 464},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 87, "stars": 44788, "owner": "discourse", "forks": 8611},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 13, "stars": 5169, "owner": "dependabot", "forks": 1162},
-{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 75, "stars": 44522, "owner": "Homebrew", "forks": 10417}
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 75, "stars": 44524, "owner": "Homebrew", "forks": 10417}
 ]

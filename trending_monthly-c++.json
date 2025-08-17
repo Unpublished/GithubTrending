@@ -1,16 +1,16 @@
 [
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 2619, "stars": 29492, "owner": "hyprwm", "forks": 1266},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 2093, "stars": 84976, "owner": "ggml-org", "forks": 12729},
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 2619, "stars": 29493, "owner": "hyprwm", "forks": 1266},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 2093, "stars": 84977, "owner": "ggml-org", "forks": 12728},
 {"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 2465, "stars": 25427, "owner": "shadps4-emu", "forks": 1661},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1548, "stars": 100295, "owner": "godotengine", "forks": 22991},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1548, "stars": 100297, "owner": "godotengine", "forks": 22991},
 {"description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.", "language": "C++", "repo": "gpt4all", "new_stars": 2781, "stars": 76413, "owner": "nomic-ai", "forks": 8238},
 {"description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 255, "stars": 5361, "owner": "meshtastic", "forks": 1434},
 {"description": "HarfBuzz text shaping engine", "language": "C++", "repo": "harfbuzz", "new_stars": 142, "stars": 4873, "owner": "harfbuzz", "forks": 680},
-{"description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.", "language": "C++", "repo": "sumo", "new_stars": 726, "stars": 3593, "owner": "eclipse-sumo", "forks": 1604},
+{"description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.", "language": "C++", "repo": "sumo", "new_stars": 726, "stars": 3594, "owner": "eclipse-sumo", "forks": 1604},
 {"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64", "language": "C++", "repo": "duckstation", "new_stars": 499, "stars": 8952, "owner": "stenzek", "forks": 821},
-{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 431, "stars": 9426, "owner": "colmap", "forks": 1741},
+{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 431, "stars": 9428, "owner": "colmap", "forks": 1741},
 {"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 422, "stars": 7875, "owner": "amnezia-vpn", "forks": 512},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 824, "stars": 67598, "owner": "ocornut", "forks": 11117},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 824, "stars": 67599, "owner": "ocornut", "forks": 11117},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 590, "stars": 117909, "owner": "electron", "forks": 16319},
 {"description": "Frame profiler", "language": "C++", "repo": "tracy", "new_stars": 341, "stars": 12589, "owner": "wolfpld", "forks": 847},
 {"description": "\u89c6\u89c9\u5c0f\u8bf4\u7ffb\u8bd1\u5668\uff0c\u652f\u6301HOOK\u3001OCR\u3001\u526a\u8d34\u677f\u7b49\u3002Visual Novel Translator, support HOOK / OCR / Clipboard", "language": "C++", "repo": "LunaTranslator", "new_stars": 787, "stars": 8133, "owner": "HIllya51", "forks": 920},
@@ -18,7 +18,7 @@
 {"description": "WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.", "language": "C++", "repo": "microsoft-ui-xaml", "new_stars": 155, "stars": 6917, "owner": "microsoft", "forks": 758},
 {"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 886, "stars": 17617, "owner": "MaaAssistantArknights", "forks": 2275},
 {"description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.", "language": "C++", "repo": "cocos-engine", "new_stars": 127, "stars": 8928, "owner": "cocos", "forks": 2029},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 585, "stars": 83553, "owner": "opencv", "forks": 56247},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 585, "stars": 83553, "owner": "opencv", "forks": 56246},
 {"description": "TrinityCore Open Source MMO Framework (master = 11.2.0.62493, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)", "language": "C++", "repo": "TrinityCore", "new_stars": 73, "stars": 10135, "owner": "TrinityCore", "forks": 6207},
-{"description": "The 7-Zip derivative intended for the modern Windows experience", "language": "C++", "repo": "NanaZip", "new_stars": 359, "stars": 11556, "owner": "M2Team", "forks": 290}
+{"description": "The 7-Zip derivative intended for the modern Windows experience", "language": "C++", "repo": "NanaZip", "new_stars": 359, "stars": 11557, "owner": "M2Team", "forks": 290}
 ]

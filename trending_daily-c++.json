@@ -1,6 +1,6 @@
 [
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 98, "stars": 36835, "owner": "google", "forks": 10477},
-{"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 12, "stars": 4901, "owner": "google", "forks": 374},
+{"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 12, "stars": 4906, "owner": "google", "forks": 374},
 {"description": "Share a single keyboard and mouse between multiple computers.", "language": "C++", "repo": "deskflow", "new_stars": 9, "stars": 19695, "owner": "deskflow", "forks": 4147},
 {"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 17, "stars": 17634, "owner": "microsoft", "forks": 3411},
 {"description": "CUDA Templates for Linear Algebra Subroutines", "language": "C++", "repo": "cutlass", "new_stars": 2, "stars": 8281, "owner": "NVIDIA", "forks": 1395},
@@ -12,14 +12,14 @@
 {"description": "Cross-platform ground control station for drones (Android, iOS, Mac OS, Linux, Windows)", "language": "C++", "repo": "qgroundcontrol", "new_stars": 5, "stars": 3922, "owner": "mavlink", "forks": 4213},
 {"description": "cuDF - GPU DataFrame Library", "language": "C++", "repo": "cudf", "new_stars": 2, "stars": 9128, "owner": "rapidsai", "forks": 965},
 {"description": "SONiC Switch State Service (SwSS)", "language": "C++", "repo": "sonic-swss", "new_stars": 0, "stars": 202, "owner": "sonic-net", "forks": 618},
-{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 9, "stars": 11420, "owner": "NVIDIA", "forks": 1699},
-{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 5, "stars": 16204, "owner": "CoatiSoftware", "forks": 1580},
+{"description": "TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.", "language": "C++", "repo": "TensorRT-LLM", "new_stars": 9, "stars": 11421, "owner": "NVIDIA", "forks": 1699},
+{"description": "Sourcetrail - free and open-source interactive source explorer", "language": "C++", "repo": "Sourcetrail", "new_stars": 5, "stars": 16206, "owner": "CoatiSoftware", "forks": 1580},
 {"description": "Making it easier to work with shaders", "language": "C++", "repo": "slang", "new_stars": 2, "stars": 4443, "owner": "shader-slang", "forks": 338},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 5, "stars": 19718, "owner": "catchorg", "forks": 3134},
 {"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 8, "stars": 22014, "owner": "ml-explore", "forks": 1319},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 0, "stars": 9680, "owner": "google", "forks": 1696},
-{"description": "TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)", "language": "C++", "repo": "TrinityCore", "new_stars": 2, "stars": 10148, "owner": "TrinityCore", "forks": 6214},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 6, "stars": 16241, "owner": "abseil", "forks": 2830},
+{"description": "TrinityCore Open Source MMO Framework (master = 11.2.0.62748, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)", "language": "C++", "repo": "TrinityCore", "new_stars": 2, "stars": 10148, "owner": "TrinityCore", "forks": 6215},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 6, "stars": 16242, "owner": "abseil", "forks": 2830},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 1, "stars": 6332, "owner": "firebase", "forks": 1657},
 {"description": "Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).", "language": "C++", "repo": "tflite-micro", "new_stars": 1, "stars": 2447, "owner": "tensorflow", "forks": 930}
 ]

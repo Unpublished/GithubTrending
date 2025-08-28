@@ -1,9 +1,9 @@
 [
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 2305, "stars": 85655, "owner": "ggml-org", "forks": 12852},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 2305, "stars": 85659, "owner": "ggml-org", "forks": 12853},
 {"description": "Fast and local neural text-to-speech engine", "language": "C++", "repo": "piper1-gpl", "new_stars": 487, "stars": 729, "owner": "OHF-Voice", "forks": 64},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 497, "stars": 36947, "owner": "google", "forks": 10491},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 497, "stars": 36948, "owner": "google", "forks": 10491},
 {"description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.", "language": "C++", "repo": "gpt4all", "new_stars": 2861, "stars": 76566, "owner": "nomic-ai", "forks": 8263},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1564, "stars": 100671, "owner": "godotengine", "forks": 23060},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1564, "stars": 100672, "owner": "godotengine", "forks": 23061},
 {"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 650, "stars": 9686, "owner": "colmap", "forks": 1763},
 {"description": "Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.", "language": "C++", "repo": "sumo", "new_stars": 761, "stars": 3640, "owner": "eclipse-sumo", "forks": 1612},
 {"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 391, "stars": 7992, "owner": "amnezia-vpn", "forks": 529},
@@ -12,14 +12,14 @@
 {"description": "Diablo build for modern operating systems", "language": "C++", "repo": "DevilutionX", "new_stars": 148, "stars": 8938, "owner": "diasurgical", "forks": 897},
 {"description": "Solidity, the Smart Contract Programming Language", "language": "C++", "repo": "solidity", "new_stars": 439, "stars": 25052, "owner": "argotorg", "forks": 6188},
 {"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64", "language": "C++", "repo": "duckstation", "new_stars": 519, "stars": 8991, "owner": "stenzek", "forks": 823},
-{"description": "Port of OpenAI's Whisper model in C/C++", "language": "C++", "repo": "whisper.cpp", "new_stars": 969, "stars": 42766, "owner": "ggml-org", "forks": 4620},
+{"description": "Port of OpenAI's Whisper model in C/C++", "language": "C++", "repo": "whisper.cpp", "new_stars": 969, "stars": 42767, "owner": "ggml-org", "forks": 4620},
 {"description": "A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)", "language": "C++", "repo": "meeting-minutes", "new_stars": 488, "stars": 7249, "owner": "Zackriya-Solutions", "forks": 549},
-{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 1153, "stars": 32362, "owner": "duckdb", "forks": 2535},
+{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 1153, "stars": 32363, "owner": "duckdb", "forks": 2535},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 330, "stars": 10570, "owner": "SoftFever", "forks": 1356},
 {"description": "\u89c6\u89c9\u5c0f\u8bf4\u7ffb\u8bd1\u5668\uff0c\u652f\u6301HOOK\u3001OCR\u3001\u526a\u8d34\u677f\u7b49\u3002Visual Novel Translator, support HOOK / OCR / Clipboard", "language": "C++", "repo": "LunaTranslator", "new_stars": 882, "stars": 8381, "owner": "HIllya51", "forks": 928},
-{"description": "Algorithm and data structure articles for", "language": "C++", "repo": "cp-algorithms", "new_stars": 230, "stars": 9309, "owner": "cp-algorithms", "forks": 1850},
+{"description": "Algorithm and data structure articles for", "language": "C++", "repo": "cp-algorithms", "new_stars": 230, "stars": 9311, "owner": "cp-algorithms", "forks": 1850},
 {"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 404, "stars": 7218, "owner": "k2-fsa", "forks": 841},
 {"description": "Open-source ESP32-powered tool to scan, jam, spoof, and master BLE, Wi-Fi, and 2.4GHz networks.", "language": "C++", "repo": "nRFBox", "new_stars": 106, "stars": 1082, "owner": "cifertech", "forks": 146},
 {"description": "TrinityCore Open Source MMO Framework (master = 11.2.0.62801, 3.3.5 = 3.3.5a.12340, cata classic = 4.4.2.60895)", "language": "C++", "repo": "TrinityCore", "new_stars": 90, "stars": 10164, "owner": "TrinityCore", "forks": 6219},
-{"description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!", "language": "C++", "repo": "OpenMower", "new_stars": 869, "stars": 5779, "owner": "ClemensElflein", "forks": 338}
+{"description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!", "language": "C++", "repo": "OpenMower", "new_stars": 869, "stars": 5780, "owner": "ClemensElflein", "forks": 338}
 ]

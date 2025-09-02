@@ -1,19 +1,19 @@
 [
 {"description": "OpenProject is the leading open source project management software.", "language": "Ruby", "repo": "openproject", "new_stars": 913, "stars": 12527, "owner": "opf", "forks": 2795},
-{"description": "Self-hostable alternative to Google Timeline (Google Location History)", "language": "Ruby", "repo": "dawarich", "new_stars": 642, "stars": 6636, "owner": "Freika", "forks": 195},
+{"description": "Self-hostable alternative to Google Timeline (Google Location History)", "language": "Ruby", "repo": "dawarich", "new_stars": 642, "stars": 6647, "owner": "Freika", "forks": 195},
 {"description": "Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.", "language": "Ruby", "repo": "ubicloud", "new_stars": 4909, "stars": 10178, "owner": "ubicloud", "forks": 455},
 {"description": "One beautiful Ruby API for OpenAI, Anthropic, Gemini, Bedrock, OpenRouter, DeepSeek, Ollama, VertexAI, Perplexity, Mistral, GPUStack & OpenAI compatible APIs. Chat, Vision, Audio, PDF, Images, Embeddings, Tools, Streaming & Rails integration.", "language": "Ruby", "repo": "ruby_llm", "new_stars": 196, "stars": 2836, "owner": "crmne", "forks": 241},
 {"description": "\ud83c\udf7b Default formulae for the missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "homebrew-core", "new_stars": 109, "stars": 14588, "owner": "Homebrew", "forks": 13004},
 {"description": "A platform for community discussion. Free, open, simple.", "language": "Ruby", "repo": "discourse", "new_stars": 328, "stars": 44960, "owner": "discourse", "forks": 8636},
-{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 213, "stars": 57387, "owner": "rails", "forks": 21937},
-{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 234, "stars": 50584, "owner": "jekyll", "forks": 10176},
-{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 424, "stars": 25155, "owner": "chatwoot", "forks": 5256},
-{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 33, "stars": 4503, "owner": "github", "forks": 13462},
+{"description": "Ruby on Rails", "language": "Ruby", "repo": "rails", "new_stars": 213, "stars": 57388, "owner": "rails", "forks": 21936},
+{"description": "\ud83c\udf10 Jekyll is a blog-aware static site generator in Ruby", "language": "Ruby", "repo": "jekyll", "new_stars": 234, "stars": 50587, "owner": "jekyll", "forks": 10176},
+{"description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. \ud83d\udd25\ud83d\udcac", "language": "Ruby", "repo": "chatwoot", "new_stars": 424, "stars": 25153, "owner": "chatwoot", "forks": 5256},
+{"description": "Community-curated topic and collection pages on GitHub", "language": "Ruby", "repo": "explore", "new_stars": 33, "stars": 4503, "owner": "github", "forks": 13464},
 {"description": "\ud83e\udd16 Dependabot's core logic for creating update PRs.", "language": "Ruby", "repo": "dependabot-core", "new_stars": 49, "stars": 5189, "owner": "dependabot", "forks": 1176},
-{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 350, "stars": 44701, "owner": "Homebrew", "forks": 10472},
+{"description": "\ud83c\udf7a The missing package manager for macOS (or Linux)", "language": "Ruby", "repo": "brew", "new_stars": 350, "stars": 44702, "owner": "Homebrew", "forks": 10472},
 {"description": "\ud83c\udf7b A CLI workflow for the administration of macOS applications distributed as binaries", "language": "Ruby", "repo": "homebrew-cask", "new_stars": 78, "stars": 21522, "owner": "Homebrew", "forks": 11087},
 {"description": "Metasploit Framework", "language": "Ruby", "repo": "metasploit-framework", "new_stars": 267, "stars": 36265, "owner": "rapid7", "forks": 14474},
-{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 515, "stars": 37272, "owner": "freeCodeCamp", "forks": 2478},
+{"description": "API Documentation Browser", "language": "Ruby", "repo": "devdocs", "new_stars": 515, "stars": 37273, "owner": "freeCodeCamp", "forks": 2478},
 {"description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by", "language": "Ruby", "repo": "spree", "new_stars": 112, "stars": 14867, "owner": "spree", "forks": 5129},
 {"description": "Contractor payments", "language": "Ruby", "repo": "flexile", "new_stars": 54, "stars": 719, "owner": "antiwork", "forks": 310},
 {"description": "The Ruby Programming Language", "language": "Ruby", "repo": "ruby", "new_stars": 82, "stars": 22884, "owner": "ruby", "forks": 5460},
@@ -22,5 +22,5 @@
 {"description": "\ud83d\ude80 The easiest way to automate building and releasing your iOS and Android apps", "language": "Ruby", "repo": "fastlane", "new_stars": 121, "stars": 40466, "owner": "fastlane", "forks": 5928},
 {"description": "Deploy web apps anywhere.", "language": "Ruby", "repo": "kamal", "new_stars": 203, "stars": 13140, "owner": "basecamp", "forks": 622},
 {"description": "GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com", "language": "Ruby", "repo": "gitlabhq", "new_stars": 48, "stars": 24073, "owner": "gitlabhq", "forks": 5764},
-{"description": "\ud83e\udd16 Fork me to try out Dependabot", "language": "Ruby", "repo": "demo", "new_stars": 13, "stars": 245, "owner": "dependabot", "forks": 3444}
+{"description": "\ud83e\udd16 Fork me to try out Dependabot", "language": "Ruby", "repo": "demo", "new_stars": 13, "stars": 245, "owner": "dependabot", "forks": 3445}
 ]

@@ -1,14 +1,14 @@
 [
-{"description": null, "language": "Python", "repo": "openpi", "new_stars": 1701, "stars": 6626, "owner": "Physical-Intelligence", "forks": 762},
-{"description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.", "language": "Python", "repo": "parlant", "new_stars": 3160, "stars": 11751, "owner": "emcie-co", "forks": 939},
-{"description": "SoTA open-source TTS", "language": "Python", "repo": "chatterbox", "new_stars": 944, "stars": 12647, "owner": "resemble-ai", "forks": 1605},
-{"description": "An open-source RAG-based tool for chatting with your documents.", "language": "Python", "repo": "kotaemon", "new_stars": 965, "stars": 23988, "owner": "Cinnamon", "forks": 1960},
-{"description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations", "language": "Python", "repo": "agent-squad", "new_stars": 306, "stars": 6780, "owner": "awslabs", "forks": 607},
-{"description": "Official inference framework for 1-bit LLMs", "language": "Python", "repo": "BitNet", "new_stars": 714, "stars": 21942, "owner": "microsoft", "forks": 1685},
-{"description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!", "language": "Python", "repo": "ottomator-agents", "new_stars": 395, "stars": 4163, "owner": "coleam00", "forks": 1465},
-{"description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660", "language": "Python", "repo": "XLeRobot", "new_stars": 1643, "stars": 3122, "owner": "Vector-Wangel", "forks": 292},
-{"description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.", "language": "Python", "repo": "pathway", "new_stars": 9100, "stars": 42400, "owner": "pathwaycom", "forks": 1290},
-{"description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"", "language": "Python", "repo": "AutoAgent", "new_stars": 708, "stars": 6706, "owner": "HKUDS", "forks": 886},
-{"description": "\u4e00\u6b3e\u4e13\u6ce8\u4e8eAi\u7ffb\u8bd1\u7684\u5de5\u5177\uff0c\u4e00\u952e\u81ea\u52a8\u7ffb\u8bd1RPG SLG\u6e38\u620f\uff0cEpub TXT\u5c0f\u8bf4\uff0cSrt Vtt Lrc\u5b57\u5e55\uff0cWord MD\u6587\u6863\u7b49\u7b49\u590d\u6742\u957f\u6587\u672c\u3002", "language": "Python", "repo": "AiNiee", "new_stars": 250, "stars": 3491, "owner": "NEKOparapa", "forks": 210},
-{"description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!", "language": "Python", "repo": "ART", "new_stars": 474, "stars": 7091, "owner": "OpenPipe", "forks": 502}
+{"description": null, "language": "Python", "repo": "openpi", "new_stars": 1701, "stars": 6678, "owner": "Physical-Intelligence", "forks": 763},
+{"description": "LLM agents built for control. Designed for real-world use. Deployed in minutes.", "language": "Python", "repo": "parlant", "new_stars": 3160, "stars": 11758, "owner": "emcie-co", "forks": 939},
+{"description": "SoTA open-source TTS", "language": "Python", "repo": "chatterbox", "new_stars": 944, "stars": 12650, "owner": "resemble-ai", "forks": 1605},
+{"description": "An open-source RAG-based tool for chatting with your documents.", "language": "Python", "repo": "kotaemon", "new_stars": 965, "stars": 23992, "owner": "Cinnamon", "forks": 1960},
+{"description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations", "language": "Python", "repo": "agent-squad", "new_stars": 306, "stars": 6781, "owner": "awslabs", "forks": 607},
+{"description": "Official inference framework for 1-bit LLMs", "language": "Python", "repo": "BitNet", "new_stars": 714, "stars": 21942, "owner": "microsoft", "forks": 1686},
+{"description": "All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!", "language": "Python", "repo": "ottomator-agents", "new_stars": 395, "stars": 4163, "owner": "coleam00", "forks": 1466},
+{"description": "XLeRobot: Practical Dual-Arm Mobile Home Robot for $660", "language": "Python", "repo": "XLeRobot", "new_stars": 1643, "stars": 3125, "owner": "Vector-Wangel", "forks": 292},
+{"description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.", "language": "Python", "repo": "pathway", "new_stars": 9100, "stars": 42414, "owner": "pathwaycom", "forks": 1291},
+{"description": "\"AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework\"", "language": "Python", "repo": "AutoAgent", "new_stars": 708, "stars": 6721, "owner": "HKUDS", "forks": 887},
+{"description": "\u4e00\u6b3e\u4e13\u6ce8\u4e8eAi\u7ffb\u8bd1\u7684\u5de5\u5177\uff0c\u4e00\u952e\u81ea\u52a8\u7ffb\u8bd1RPG SLG\u6e38\u620f\uff0cEpub TXT\u5c0f\u8bf4\uff0cSrt Vtt Lrc\u5b57\u5e55\uff0cWord MD\u6587\u6863\u7b49\u7b49\u590d\u6742\u957f\u6587\u672c\u3002", "language": "Python", "repo": "AiNiee", "new_stars": 250, "stars": 3493, "owner": "NEKOparapa", "forks": 210},
+{"description": "Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!", "language": "Python", "repo": "ART", "new_stars": 474, "stars": 7093, "owner": "OpenPipe", "forks": 503}
 ]

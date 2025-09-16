@@ -1,7 +1,7 @@
 [
-{"description": null, "language": "C++", "repo": "open-battery-information", "new_stars": 92, "stars": 518, "owner": "mnh-jansson", "forks": 107},
-{"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 12, "stars": 43658, "owner": "grpc", "forks": 10900},
-{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 241, "stars": 22091, "owner": "simdjson", "forks": 1143},
+{"description": null, "language": "C++", "repo": "open-battery-information", "new_stars": 92, "stars": 521, "owner": "mnh-jansson", "forks": 107},
+{"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 12, "stars": 43659, "owner": "grpc", "forks": 10900},
+{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 241, "stars": 22093, "owner": "simdjson", "forks": 1143},
 {"description": "This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition", "language": "C++", "repo": "GTAIV.EFLC.FusionFix", "new_stars": 53, "stars": 1542, "owner": "ThirteenAG", "forks": 67},
 {"description": null, "language": "C++", "repo": "unitree_mujoco", "new_stars": 1, "stars": 569, "owner": "unitreerobotics", "forks": 154},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 140, "stars": 10871, "owner": "SoftFever", "forks": 1388},
@@ -10,16 +10,16 @@
 {"description": "Optimized primitives for collective multi-GPU communication", "language": "C++", "repo": "nccl", "new_stars": 4, "stars": 4057, "owner": "NVIDIA", "forks": 1016},
 {"description": "HarfBuzz text shaping engine", "language": "C++", "repo": "harfbuzz", "new_stars": 9, "stars": 4993, "owner": "harfbuzz", "forks": 687},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 9, "stars": 17267, "owner": "pybind", "forks": 2217},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 7, "stars": 16338, "owner": "abseil", "forks": 2854},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 7, "stars": 16339, "owner": "abseil", "forks": 2854},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 9, "stars": 22330, "owner": "fmtlib", "forks": 2704},
 {"description": "Frame profiler", "language": "C++", "repo": "tracy", "new_stars": 6, "stars": 12760, "owner": "wolfpld", "forks": 862},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 47, "stars": 101281, "owner": "godotengine", "forks": 23180},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 47, "stars": 101282, "owner": "godotengine", "forks": 23180},
 {"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 5, "stars": 13065, "owner": "alibaba", "forks": 2062},
 {"description": "A fast JSON parser/generator for C++ with both SAX/DOM style API", "language": "C++", "repo": "rapidjson", "new_stars": 1, "stars": 14827, "owner": "Tencent", "forks": 3618},
 {"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 3, "stars": 5502, "owner": "chriskohlhoff", "forks": 1305},
 {"description": "Diffusion model(SD,Flux,Wan,...) inference in pure C/C++", "language": "C++", "repo": "stable-diffusion.cpp", "new_stars": 3, "stars": 4389, "owner": "leejet", "forks": 421},
-{"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 36, "stars": 18555, "owner": "78", "forks": 3762},
+{"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 36, "stars": 18555, "owner": "78", "forks": 3763},
 {"description": "NVIDIA\u00ae TensorRT\u2122 is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.", "language": "C++", "repo": "TensorRT", "new_stars": 5, "stars": 12148, "owner": "NVIDIA", "forks": 2248},
 {"description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 7, "stars": 8832, "owner": "openvinotoolkit", "forks": 2721},
-{"description": "LichtFeld Studio: Where reality and the digital world blend.", "language": "C++", "repo": "LichtFeld-Studio", "new_stars": 9, "stars": 1451, "owner": "MrNeRF", "forks": 165}
+{"description": "LichtFeld Studio: Where reality and the digital world blend.", "language": "C++", "repo": "LichtFeld-Studio", "new_stars": 9, "stars": 1452, "owner": "MrNeRF", "forks": 165}
 ]

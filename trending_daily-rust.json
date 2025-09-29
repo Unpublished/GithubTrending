@@ -1,10 +1,10 @@
 [
-{"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 152, "stars": 46127, "owner": "typst", "forks": 1240},
+{"description": "A new markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 152, "stars": 46133, "owner": "typst", "forks": 1241},
 {"description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications", "language": "Rust", "repo": "fhevm", "new_stars": 144, "stars": 21051, "owner": "zama-ai", "forks": 908},
-{"description": "Kanban board to manage your AI coding agents", "language": "Rust", "repo": "vibe-kanban", "new_stars": 77, "stars": 5218, "owner": "BloopAI", "forks": 503},
-{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 15, "stars": 25157, "owner": "cloudflare", "forks": 1472},
+{"description": "Kanban board to manage your AI coding agents", "language": "Rust", "repo": "vibe-kanban", "new_stars": 77, "stars": 5222, "owner": "BloopAI", "forks": 503},
+{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 15, "stars": 25158, "owner": "cloudflare", "forks": 1472},
 {"description": "The Magic Mask for Android", "language": "Rust", "repo": "Magisk", "new_stars": 17, "stars": 56068, "owner": "topjohnwu", "forks": 15414},
-{"description": "A very fast linker for Linux", "language": "Rust", "repo": "wild", "new_stars": 28, "stars": 2710, "owner": "davidlattimore", "forks": 68},
+{"description": "A very fast linker for Linux", "language": "Rust", "repo": "wild", "new_stars": 28, "stars": 2711, "owner": "davidlattimore", "forks": 68},
 {"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 40, "stars": 11776, "owner": "YaLTeR", "forks": 432},
 {"description": "Write Cloudflare Workers in 100% Rust via WebAssembly", "language": "Rust", "repo": "workers-rs", "new_stars": 2, "stars": 3090, "owner": "cloudflare", "forks": 346},
 {"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 7, "stars": 7363, "owner": "MystenLabs", "forks": 11622},
@@ -14,12 +14,12 @@
 {"description": "Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.", "language": "Rust", "repo": "servo", "new_stars": 18, "stars": 31622, "owner": "servo", "forks": 3258},
 {"description": "no_std Hardware Abstraction Layers for ESP32 microcontrollers", "language": "Rust", "repo": "esp-hal", "new_stars": 3, "stars": 1441, "owner": "esp-rs", "forks": 335},
 {"description": "A post-modern modal text editor.", "language": "Rust", "repo": "helix", "new_stars": 21, "stars": 40083, "owner": "helix-editor", "forks": 3052},
-{"description": "\ud83e\uddf0 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 7, "stars": 15706, "owner": "launchbadge", "forks": 1477},
+{"description": "\ud83e\uddf0 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.", "language": "Rust", "repo": "sqlx", "new_stars": 7, "stars": 15707, "owner": "launchbadge", "forks": 1477},
 {"description": "Command line interface for supplying proofs to the Nexus network.", "language": "Rust", "repo": "nexus-cli", "new_stars": 5, "stars": 1025, "owner": "nexus-xyz", "forks": 575},
-{"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 10, "stars": 22033, "owner": "wezterm", "forks": 1001},
-{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 39, "stars": 28583, "owner": "sxyazi", "forks": 613},
-{"description": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.", "language": "Rust", "repo": "walker", "new_stars": 9, "stars": 1528, "owner": "abenz1267", "forks": 58},
+{"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 10, "stars": 22034, "owner": "wezterm", "forks": 1001},
+{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 39, "stars": 28584, "owner": "sxyazi", "forks": 613},
+{"description": "Multi-Purpose Launcher with a lot of features. Highly Customizable and fast.", "language": "Rust", "repo": "walker", "new_stars": 9, "stars": 1530, "owner": "abenz1267", "forks": 58},
 {"description": "A Datacenter Scale Distributed Inference Serving Framework", "language": "Rust", "repo": "dynamo", "new_stars": 100, "stars": 5190, "owner": "ai-dynamo", "forks": 620},
-{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 40, "stars": 106788, "owner": "rust-lang", "forks": 13784},
-{"description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)", "language": "Rust", "repo": "baml", "new_stars": 26, "stars": 6111, "owner": "BoundaryML", "forks": 285}
+{"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 40, "stars": 106789, "owner": "rust-lang", "forks": 13784},
+{"description": "The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)", "language": "Rust", "repo": "baml", "new_stars": 26, "stars": 6114, "owner": "BoundaryML", "forks": 286}
 ]

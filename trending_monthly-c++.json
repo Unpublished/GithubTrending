@@ -1,13 +1,13 @@
 [
 {"description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels", "language": "C++", "repo": "tilelang", "new_stars": 1895, "stars": 3515, "owner": "tile-ai", "forks": 256},
-{"description": "Audio Editor", "language": "C++", "repo": "audacity", "new_stars": 1241, "stars": 15419, "owner": "audacity", "forks": 2441},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 727, "stars": 86131, "owner": "bitcoin", "forks": 38020},
-{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 1436, "stars": 22549, "owner": "simdjson", "forks": 1163},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 2123, "stars": 49665, "owner": "LadybirdBrowser", "forks": 2177},
-{"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 894, "stars": 12643, "owner": "qgis", "forks": 3260},
-{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1179, "stars": 102162, "owner": "godotengine", "forks": 23365},
+{"description": "Audio Editor", "language": "C++", "repo": "audacity", "new_stars": 1241, "stars": 15420, "owner": "audacity", "forks": 2441},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 727, "stars": 86133, "owner": "bitcoin", "forks": 38021},
+{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 1436, "stars": 22550, "owner": "simdjson", "forks": 1163},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 2123, "stars": 49670, "owner": "LadybirdBrowser", "forks": 2177},
+{"description": "QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)", "language": "C++", "repo": "QGIS", "new_stars": 894, "stars": 12644, "owner": "qgis", "forks": 3260},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 1179, "stars": 102161, "owner": "godotengine", "forks": 23365},
 {"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 390, "stars": 13866, "owner": "ArduPilot", "forks": 19508},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1422, "stars": 30169, "owner": "LizardByte", "forks": 1427},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 1422, "stars": 30170, "owner": "LizardByte", "forks": 1427},
 {"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 1385, "stars": 20011, "owner": "78", "forks": 4037},
 {"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 621, "stars": 84464, "owner": "opencv", "forks": 56329},
 {"description": "Space exploration, trading, and combat game.", "language": "C++", "repo": "endless-sky", "new_stars": 78, "stars": 6868, "owner": "endless-sky", "forks": 1160},
@@ -17,8 +17,8 @@
 {"description": null, "language": "C++", "repo": "open-battery-information", "new_stars": 305, "stars": 630, "owner": "mnh-jansson", "forks": 114},
 {"description": "The customization marketplace for Windows programs:", "language": "C++", "repo": "windhawk", "new_stars": 637, "stars": 5338, "owner": "ramensoftware", "forks": 142},
 {"description": "Free and Open Source Reverse Engineering Platform powered by rizin", "language": "C++", "repo": "cutter", "new_stars": 748, "stars": 17824, "owner": "rizinorg", "forks": 1297},
-{"description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.", "language": "C++", "repo": "kuzu", "new_stars": 244, "stars": 3458, "owner": "kuzudb", "forks": 255},
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 430, "stars": 22692, "owner": "fmtlib", "forks": 2744},
-{"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 197, "stars": 15545, "owner": "espressif", "forks": 7730},
-{"description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 385, "stars": 5887, "owner": "meshtastic", "forks": 1586}
+{"description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.", "language": "C++", "repo": "kuzu", "new_stars": 244, "stars": 3458, "owner": "kuzudb", "forks": 256},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 430, "stars": 22693, "owner": "fmtlib", "forks": 2744},
+{"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 197, "stars": 15546, "owner": "espressif", "forks": 7729},
+{"description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 385, "stars": 5887, "owner": "meshtastic", "forks": 1585}
 ]

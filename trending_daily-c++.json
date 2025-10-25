@@ -1,7 +1,7 @@
 [
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 1372, "stars": 52463, "owner": "LadybirdBrowser", "forks": 2313},
-{"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 39, "stars": 8374, "owner": "k2-fsa", "forks": 943},
-{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 3, "stars": 4808, "owner": "google", "forks": 604},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 1372, "stars": 52494, "owner": "LadybirdBrowser", "forks": 2314},
+{"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 39, "stars": 8382, "owner": "k2-fsa", "forks": 943},
+{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 3, "stars": 4808, "owner": "google", "forks": 605},
 {"description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events", "language": "C++", "repo": "async-profiler", "new_stars": 4, "stars": 8592, "owner": "async-profiler", "forks": 939},
 {"description": "The official GitHub mirror of the Chromium source", "language": "C++", "repo": "chromium", "new_stars": 18, "stars": 22030, "owner": "chromium", "forks": 8138},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 5, "stars": 37356, "owner": "google", "forks": 10567},
@@ -10,16 +10,16 @@
 {"description": "\ud83d\udcbb Desktop sync client for Nextcloud", "language": "C++", "repo": "desktop", "new_stars": 2, "stars": 3449, "owner": "nextcloud", "forks": 876},
 {"description": "Frame profiler", "language": "C++", "repo": "tracy", "new_stars": 21, "stars": 12972, "owner": "wolfpld", "forks": 878},
 {"description": "The 2013 edition of the Source SDK", "language": "C++", "repo": "source-sdk-2013", "new_stars": 3, "stars": 9339, "owner": "ValveSoftware", "forks": 2752},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 41, "stars": 88303, "owner": "ggml-org", "forks": 13431},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 41, "stars": 88305, "owner": "ggml-org", "forks": 13431},
 {"description": "Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.", "language": "C++", "repo": "connectedhomeip", "new_stars": 2, "stars": 8303, "owner": "project-chip", "forks": 2268},
-{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 15, "stars": 124304, "owner": "facebook", "forks": 24908},
+{"description": "A framework for building native applications using React", "language": "C++", "repo": "react-native", "new_stars": 15, "stars": 124303, "owner": "facebook", "forks": 24909},
 {"description": "NVIDIA Inference Xfer Library (NIXL)", "language": "C++", "repo": "nixl", "new_stars": 1, "stars": 685, "owner": "ai-dynamo", "forks": 169},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 7, "stars": 11633, "owner": "cameron314", "forks": 1832},
 {"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 15, "stars": 33696, "owner": "duckdb", "forks": 2679},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 17, "stars": 118827, "owner": "electron", "forks": 16570},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 17, "stars": 118828, "owner": "electron", "forks": 16570},
 {"description": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives", "language": "C++", "repo": "pinocchio", "new_stars": 2, "stars": 2787, "owner": "stack-of-tasks", "forks": 467},
 {"description": "Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research", "language": "C++", "repo": "AirSim", "new_stars": 1, "stars": 17615, "owner": "microsoft", "forks": 4801},
-{"description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more", "language": "C++", "repo": "entt", "new_stars": 5, "stars": 11764, "owner": "skypjack", "forks": 1006},
-{"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 12, "stars": 33408, "owner": "carbon-language", "forks": 1515},
-{"description": "Offical FUTO Keyboard Issue Tracker and Source Mirror of", "language": "C++", "repo": "android-keyboard", "new_stars": 6, "stars": 1766, "owner": "futo-org", "forks": 74}
+{"description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more", "language": "C++", "repo": "entt", "new_stars": 5, "stars": 11765, "owner": "skypjack", "forks": 1006},
+{"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 12, "stars": 33409, "owner": "carbon-language", "forks": 1515},
+{"description": "Offical FUTO Keyboard Issue Tracker and Source Mirror of", "language": "C++", "repo": "android-keyboard", "new_stars": 6, "stars": 1767, "owner": "futo-org", "forks": 74}
 ]

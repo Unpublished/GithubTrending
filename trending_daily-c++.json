@@ -1,10 +1,10 @@
 [
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 15, "stars": 69409, "owner": "protocolbuffers", "forks": 15921},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 15, "stars": 69410, "owner": "protocolbuffers", "forks": 15922},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 4, "stars": 16489, "owner": "abseil", "forks": 2883},
-{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 18, "stars": 15146, "owner": "yhirose", "forks": 2525},
+{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 18, "stars": 15154, "owner": "yhirose", "forks": 2525},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 2, "stars": 6403, "owner": "firebase", "forks": 1677},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 37370, "owner": "google", "forks": 10568},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 23, "stars": 47693, "owner": "nlohmann", "forks": 7188},
+{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 23, "stars": 47694, "owner": "nlohmann", "forks": 7188},
 {"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 2, "stars": 22625, "owner": "simdjson", "forks": 1164},
 {"description": null, "language": "C++", "repo": "rpcsx", "new_stars": 17, "stars": 1768, "owner": "RPCSX", "forks": 101},
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 9, "stars": 11656, "owner": "cameron314", "forks": 1837},
@@ -17,7 +17,7 @@
 {"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 14, "stars": 24935, "owner": "microsoft", "forks": 1605},
 {"description": "Telegram Bot API server", "language": "C++", "repo": "telegram-bot-api", "new_stars": 6, "stars": 3815, "owner": "tdlib", "forks": 727},
 {"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 21, "stars": 118874, "owner": "electron", "forks": 16591},
-{"description": "High performance motor control", "language": "C++", "repo": "ODrive", "new_stars": 0, "stars": 3397, "owner": "odriverobotics", "forks": 1631},
+{"description": "High performance motor control", "language": "C++", "repo": "ODrive", "new_stars": 0, "stars": 3398, "owner": "odriverobotics", "forks": 1631},
 {"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 4, "stars": 5759, "owner": "Neargye", "forks": 516},
 {"description": "WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows", "language": "C++", "repo": "windirstat", "new_stars": 3, "stars": 2112, "owner": "windirstat", "forks": 124}
 ]

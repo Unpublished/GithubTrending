@@ -1,8 +1,8 @@
 [
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 26, "stars": 69417, "owner": "protocolbuffers", "forks": 15922},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 26, "stars": 69421, "owner": "protocolbuffers", "forks": 15922},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 4, "stars": 16490, "owner": "abseil", "forks": 2883},
-{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 18, "stars": 15165, "owner": "yhirose", "forks": 2525},
-{"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 2, "stars": 6402, "owner": "firebase", "forks": 1677},
+{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 18, "stars": 15171, "owner": "yhirose", "forks": 2525},
+{"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 2, "stars": 6402, "owner": "firebase", "forks": 1678},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 37368, "owner": "google", "forks": 10568},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 23, "stars": 47695, "owner": "nlohmann", "forks": 7188},
 {"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 11, "stars": 22629, "owner": "simdjson", "forks": 1164},
@@ -14,10 +14,10 @@
 {"description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra", "language": "C++", "repo": "cutlass", "new_stars": 10, "stars": 8696, "owner": "NVIDIA", "forks": 1503},
 {"description": "A Fast and Easy to use microframework for the web.", "language": "C++", "repo": "Crow", "new_stars": 2, "stars": 4435, "owner": "CrowCpp", "forks": 502},
 {"description": "Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.", "language": "C++", "repo": "draco", "new_stars": 0, "stars": 7007, "owner": "google", "forks": 1019},
-{"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 14, "stars": 24935, "owner": "microsoft", "forks": 1605},
-{"description": "Telegram Bot API server", "language": "C++", "repo": "telegram-bot-api", "new_stars": 6, "stars": 3815, "owner": "tdlib", "forks": 727},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 21, "stars": 118877, "owner": "electron", "forks": 16592},
+{"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 14, "stars": 24937, "owner": "microsoft", "forks": 1605},
+{"description": "Telegram Bot API server", "language": "C++", "repo": "telegram-bot-api", "new_stars": 6, "stars": 3816, "owner": "tdlib", "forks": 727},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 21, "stars": 118879, "owner": "electron", "forks": 16592},
 {"description": "High performance motor control", "language": "C++", "repo": "ODrive", "new_stars": 0, "stars": 3399, "owner": "odriverobotics", "forks": 1631},
-{"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 4, "stars": 5760, "owner": "Neargye", "forks": 516},
+{"description": "Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code", "language": "C++", "repo": "magic_enum", "new_stars": 4, "stars": 5761, "owner": "Neargye", "forks": 516},
 {"description": "WinDirStat is a disk usage statistics viewer and cleanup tool for Microsoft Windows", "language": "C++", "repo": "windirstat", "new_stars": 3, "stars": 2114, "owner": "windirstat", "forks": 124}
 ]

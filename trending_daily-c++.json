@@ -1,11 +1,11 @@
 [
-{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 9, "stars": 22781, "owner": "fmtlib", "forks": 2764},
-{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 126, "stars": 15345, "owner": "yhirose", "forks": 2537},
+{"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 9, "stars": 22784, "owner": "fmtlib", "forks": 2764},
+{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 126, "stars": 15349, "owner": "yhirose", "forks": 2537},
 {"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 9, "stars": 22638, "owner": "ml-explore", "forks": 1372},
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 18, "stars": 69493, "owner": "protocolbuffers", "forks": 15920},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 17, "stars": 47729, "owner": "nlohmann", "forks": 7192},
-{"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 12, "stars": 5101, "owner": "google", "forks": 384},
-{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 5, "stars": 23261, "owner": "mozilla-ai", "forks": 1233},
+{"description": "Performance-portable, length-agnostic SIMD with runtime dispatch", "language": "C++", "repo": "highway", "new_stars": 12, "stars": 5102, "owner": "google", "forks": 384},
+{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 5, "stars": 23262, "owner": "mozilla-ai", "forks": 1233},
 {"description": "Intel\u00ae RealSense\u2122 SDK", "language": "C++", "repo": "librealsense", "new_stars": 4, "stars": 8262, "owner": "IntelRealSense", "forks": 4921},
 {"description": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM", "language": "C++", "repo": "ORB_SLAM3", "new_stars": 7, "stars": 7869, "owner": "UZ-SLAMLab", "forks": 2877},
 {"description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation", "language": "C++", "repo": "luanti", "new_stars": 13, "stars": 12036, "owner": "luanti-org", "forks": 2194},
@@ -13,7 +13,7 @@
 {"description": "Main TON monorepo", "language": "C++", "repo": "ton", "new_stars": 3, "stars": 3760, "owner": "ton-blockchain", "forks": 1389},
 {"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 57, "stars": 15270, "owner": "k4yt3x", "forks": 1359},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 15, "stars": 27562, "owner": "gabime", "forks": 4951},
-{"description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.", "language": "C++", "repo": "mujoco", "new_stars": 11, "stars": 10983, "owner": "google-deepmind", "forks": 1169},
+{"description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.", "language": "C++", "repo": "mujoco", "new_stars": 11, "stars": 10984, "owner": "google-deepmind", "forks": 1169},
 {"description": "A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.", "language": "C++", "repo": "LightGBM", "new_stars": 7, "stars": 17793, "owner": "microsoft", "forks": 3949},
 {"description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch \u26a1 \ud83d\udd0d \u2728 Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences", "language": "C++", "repo": "typesense", "new_stars": 10, "stars": 24621, "owner": "typesense", "forks": 824},
 {"description": "super repo for rocm systems projects", "language": "C++", "repo": "rocm-systems", "new_stars": 3, "stars": 139, "owner": "ROCm", "forks": 58},
@@ -21,5 +21,5 @@
 {"description": "Redot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "redot-engine", "new_stars": 6, "stars": 5660, "owner": "Redot-Engine", "forks": 265},
 {"description": "Mesh optimization library that makes meshes smaller and faster to render", "language": "C++", "repo": "meshoptimizer", "new_stars": 3, "stars": 6870, "owner": "zeux", "forks": 575},
 {"description": null, "language": "C++", "repo": "open-battery-information", "new_stars": 2, "stars": 658, "owner": "mnh-jansson", "forks": 124},
-{"description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 8, "stars": 9136, "owner": "openvinotoolkit", "forks": 2784}
+{"description": "OpenVINO\u2122 is an open source toolkit for optimizing and deploying AI inference", "language": "C++", "repo": "openvino", "new_stars": 8, "stars": 9136, "owner": "openvinotoolkit", "forks": 2783}
 ]

@@ -1,19 +1,19 @@
 [
-{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 63, "stars": 15414, "owner": "yhirose", "forks": 2543},
-{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 32, "stars": 23301, "owner": "mozilla-ai", "forks": 1233},
+{"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 63, "stars": 15415, "owner": "yhirose", "forks": 2543},
+{"description": "Distribute and run LLMs with a single file.", "language": "C++", "repo": "llamafile", "new_stars": 32, "stars": 23302, "owner": "mozilla-ai", "forks": 1233},
 {"description": "Solidity, the Smart Contract Programming Language", "language": "C++", "repo": "solidity", "new_stars": 4, "stars": 25329, "owner": "argotorg", "forks": 6245},
-{"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 4, "stars": 15649, "owner": "espressif", "forks": 7743},
-{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 6, "stars": 30003, "owner": "facebook", "forks": 5794},
+{"description": "Arduino core for the ESP32", "language": "C++", "repo": "arduino-esp32", "new_stars": 4, "stars": 15650, "owner": "espressif", "forks": 7743},
+{"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 6, "stars": 30003, "owner": "facebook", "forks": 5795},
 {"description": "ROS 2 Navigation Framework and System", "language": "C++", "repo": "navigation2", "new_stars": 5, "stars": 3598, "owner": "ros-navigation", "forks": 1611},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 46, "stars": 22828, "owner": "fmtlib", "forks": 2766},
 {"description": "MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md", "language": "C++", "repo": "MNN", "new_stars": 4, "stars": 13387, "owner": "alibaba", "forks": 2097},
 {"description": "Firebase SDK for Apple App Development", "language": "C++", "repo": "firebase-ios-sdk", "new_stars": 2, "stars": 6408, "owner": "firebase", "forks": 1678},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 37394, "owner": "google", "forks": 10565},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 37395, "owner": "google", "forks": 10565},
 {"description": "Guidelines Support Library", "language": "C++", "repo": "GSL", "new_stars": 1, "stars": 6552, "owner": "microsoft", "forks": 759},
-{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 7, "stars": 4192, "owner": "kvcache-ai", "forks": 415},
+{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 7, "stars": 4193, "owner": "kvcache-ai", "forks": 415},
 {"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 36, "stars": 4876, "owner": "google", "forks": 610},
 {"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 3, "stars": 12939, "owner": "hrydgard", "forks": 2351},
-{"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 19, "stars": 20937, "owner": "78", "forks": 4249},
+{"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 19, "stars": 20939, "owner": "78", "forks": 4249},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 9, "stars": 47746, "owner": "nlohmann", "forks": 7195},
 {"description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation", "language": "C++", "repo": "luanti", "new_stars": 4, "stars": 12045, "owner": "luanti-org", "forks": 2194},
 {"description": "Emscripten: An LLVM-to-WebAssembly Compiler", "language": "C++", "repo": "emscripten", "new_stars": 2, "stars": 26937, "owner": "emscripten-core", "forks": 3449},
@@ -21,5 +21,5 @@
 {"description": "A fast multi-producer, multi-consumer lock-free concurrent queue for C++11", "language": "C++", "repo": "concurrentqueue", "new_stars": 9, "stars": 11681, "owner": "cameron314", "forks": 1841},
 {"description": "Fast inference engine for Transformer models", "language": "C++", "repo": "CTranslate2", "new_stars": 2, "stars": 4104, "owner": "OpenNMT", "forks": 415},
 {"description": "The home of the ICU project source code.", "language": "C++", "repo": "icu", "new_stars": 0, "stars": 3286, "owner": "unicode-org", "forks": 831},
-{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 10, "stars": 26951, "owner": "envoyproxy", "forks": 5128}
+{"description": "Cloud-native high-performance edge/middle/service proxy", "language": "C++", "repo": "envoy", "new_stars": 10, "stars": 26951, "owner": "envoyproxy", "forks": 5129}
 ]

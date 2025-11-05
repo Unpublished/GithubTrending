@@ -1,10 +1,10 @@
 [
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 118, "stars": 47791, "owner": "nlohmann", "forks": 7199},
 {"description": "A modern formatting library", "language": "C++", "repo": "fmt", "new_stars": 97, "stars": 22844, "owner": "fmtlib", "forks": 2767},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 608, "stars": 89085, "owner": "ggml-org", "forks": 13548},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 608, "stars": 89089, "owner": "ggml-org", "forks": 13550},
 {"description": "A C++ header-only HTTP/HTTPS server and client library", "language": "C++", "repo": "cpp-httplib", "new_stars": 330, "stars": 15452, "owner": "yhirose", "forks": 2548},
 {"description": "Powerful yet simple to use screenshot software \ud83d\udda5\ufe0f \ud83d\udcf8", "language": "C++", "repo": "flameshot", "new_stars": 88, "stars": 28167, "owner": "flameshot-org", "forks": 1794},
-{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 62, "stars": 4898, "owner": "google", "forks": 610},
+{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 62, "stars": 4898, "owner": "google", "forks": 611},
 {"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 47, "stars": 4219, "owner": "kvcache-ai", "forks": 420},
 {"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 42, "stars": 43914, "owner": "grpc", "forks": 10969},
 {"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 90, "stars": 22713, "owner": "ml-explore", "forks": 1378},
@@ -16,7 +16,7 @@
 {"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 154, "stars": 69540, "owner": "protocolbuffers", "forks": 15927},
 {"description": "Open Source Routing Machine - C++ backend", "language": "C++", "repo": "osrm-backend", "new_stars": 32, "stars": 7203, "owner": "Project-OSRM", "forks": 3763},
 {"description": "\ud83d\udcbb Desktop sync client for Nextcloud", "language": "C++", "repo": "desktop", "new_stars": 20, "stars": 3480, "owner": "nextcloud", "forks": 881},
-{"description": "Tenstorrent MLIR compiler", "language": "C++", "repo": "tt-mlir", "new_stars": 3, "stars": 206, "owner": "tenstorrent", "forks": 74},
+{"description": "Tenstorrent MLIR compiler", "language": "C++", "repo": "tt-mlir", "new_stars": 3, "stars": 207, "owner": "tenstorrent", "forks": 74},
 {"description": "Android real-time display control software", "language": "C++", "repo": "QtScrcpy", "new_stars": 138, "stars": 26696, "owner": "barry-ran", "forks": 3278},
 {"description": "Diffusion model(SD,Flux,Wan,Qwen Image,...) inference in pure C/C++", "language": "C++", "repo": "stable-diffusion.cpp", "new_stars": 31, "stars": 4517, "owner": "leejet", "forks": 439}
 ]

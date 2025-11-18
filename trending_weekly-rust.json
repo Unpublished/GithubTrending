@@ -1,6 +1,6 @@
 [
 {"description": "Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.", "language": "Rust", "repo": "etl", "new_stars": 392, "stars": 1899, "owner": "supabase", "forks": 111},
-{"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 167, "stars": 16143, "owner": "ratatui", "forks": 504},
+{"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 167, "stars": 16143, "owner": "ratatui", "forks": 506},
 {"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 41, "stars": 10898, "owner": "cloudflare", "forks": 895},
 {"description": "Distributed query engine providing simple and reliable data processing for any modality and scale", "language": "Rust", "repo": "Daft", "new_stars": 82, "stars": 4780, "owner": "Eventual-Inc", "forks": 344},
 {"description": "\u2728 Magical shell history", "language": "Rust", "repo": "atuin", "new_stars": 139, "stars": 27063, "owner": "atuinsh", "forks": 732},
@@ -11,11 +11,11 @@
 {"description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.", "language": "Rust", "repo": "aichat", "new_stars": 66, "stars": 8618, "owner": "sigoden", "forks": 560},
 {"description": "Yet another cross-platform graphical process/system monitor.", "language": "Rust", "repo": "bottom", "new_stars": 46, "stars": 12289, "owner": "ClementTsang", "forks": 311},
 {"description": "Extremely fast Query Engine for DataFrames, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 117, "stars": 36138, "owner": "pola-rs", "forks": 2470},
-{"description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.", "language": "Rust", "repo": "glazewm", "new_stars": 71, "stars": 10537, "owner": "glzr-io", "forks": 311},
+{"description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.", "language": "Rust", "repo": "glazewm", "new_stars": 71, "stars": 10538, "owner": "glzr-io", "forks": 311},
 {"description": "Serialization framework for Rust", "language": "Rust", "repo": "serde", "new_stars": 23, "stars": 10146, "owner": "serde-rs", "forks": 868},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 46, "stars": 20617, "owner": "rust-lang", "forks": 1786},
-{"description": "Open-source search and retrieval database for AI applications.", "language": "Rust", "repo": "chroma", "new_stars": 125, "stars": 24461, "owner": "chroma-core", "forks": 1923},
+{"description": "Open-source search and retrieval database for AI applications.", "language": "Rust", "repo": "chroma", "new_stars": 125, "stars": 24463, "owner": "chroma-core", "forks": 1923},
 {"description": "\u26a1A CLI tool for code structural search, lint and rewriting. Written in Rust", "language": "Rust", "repo": "ast-grep", "new_stars": 112, "stars": 11219, "owner": "ast-grep", "forks": 282},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 248, "stars": 50995, "owner": "dani-garcia", "forks": 2379},
-{"description": "A GPU compute-centric 2D renderer.", "language": "Rust", "repo": "vello", "new_stars": 69, "stars": 3454, "owner": "linebender", "forks": 193}
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 248, "stars": 50997, "owner": "dani-garcia", "forks": 2379},
+{"description": "A GPU compute-centric 2D renderer.", "language": "Rust", "repo": "vello", "new_stars": 69, "stars": 3455, "owner": "linebender", "forks": 193}
 ]

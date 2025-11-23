@@ -1,7 +1,7 @@
 [
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 472, "stars": 90278, "owner": "ggml-org", "forks": 13799},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 200, "stars": 32208, "owner": "hyprwm", "forks": 1434},
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 111, "stars": 51707, "owner": "WerWolv", "forks": 2292},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 472, "stars": 90284, "owner": "ggml-org", "forks": 13800},
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 200, "stars": 32214, "owner": "hyprwm", "forks": 1433},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 111, "stars": 51708, "owner": "WerWolv", "forks": 2293},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 52, "stars": 69352, "owner": "swiftlang", "forks": 10602},
 {"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 30, "stars": 13881, "owner": "xournalpp", "forks": 964},
 {"description": "Zcash - Internet Money", "language": "C++", "repo": "zcash", "new_stars": 42, "stars": 5288, "owner": "zcash", "forks": 2152},
@@ -9,14 +9,14 @@
 {"description": "Kernels & AI inference engine for mobile devices.", "language": "C++", "repo": "cactus", "new_stars": 47, "stars": 3759, "owner": "cactus-compute", "forks": 222},
 {"description": "Download web video and audio", "language": "C++", "repo": "Parabolic", "new_stars": 70, "stars": 4485, "owner": "NickvisionApps", "forks": 208},
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 179, "stars": 69552, "owner": "ocornut", "forks": 11344},
-{"description": "A flexible, high-performance 3D simulator for Embodied AI research.", "language": "C++", "repo": "habitat-sim", "new_stars": 28, "stars": 3341, "owner": "facebookresearch", "forks": 493},
+{"description": "A flexible, high-performance 3D simulator for Embodied AI research.", "language": "C++", "repo": "habitat-sim", "new_stars": 28, "stars": 3343, "owner": "facebookresearch", "forks": 494},
 {"description": "KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)", "language": "C++", "repo": "kactl", "new_stars": 27, "stars": 3183, "owner": "kth-competitive-programming", "forks": 906},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 111, "stars": 84988, "owner": "opencv", "forks": 56382},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 111, "stars": 84988, "owner": "opencv", "forks": 56381},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 51, "stars": 13935, "owner": "PCSX2", "forks": 1813},
-{"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 83, "stars": 24849, "owner": "keepassxreboot", "forks": 1642},
+{"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 83, "stars": 24850, "owner": "keepassxreboot", "forks": 1642},
 {"description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)", "language": "C++", "repo": "aseprite", "new_stars": 86, "stars": 34575, "owner": "aseprite", "forks": 7525},
-{"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 133, "stars": 16080, "owner": "k4yt3x", "forks": 1424},
-{"description": "Tensor library for machine learning", "language": "C++", "repo": "ggml", "new_stars": 46, "stars": 13608, "owner": "ggml-org", "forks": 1407},
-{"description": "A monitor of resources", "language": "C++", "repo": "btop", "new_stars": 208, "stars": 28630, "owner": "aristocratos", "forks": 854},
-{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 80, "stars": 18743, "owner": "MaaAssistantArknights", "forks": 2369}
+{"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 133, "stars": 16082, "owner": "k4yt3x", "forks": 1424},
+{"description": "Tensor library for machine learning", "language": "C++", "repo": "ggml", "new_stars": 46, "stars": 13609, "owner": "ggml-org", "forks": 1407},
+{"description": "A monitor of resources", "language": "C++", "repo": "btop", "new_stars": 208, "stars": 28631, "owner": "aristocratos", "forks": 854},
+{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 80, "stars": 18744, "owner": "MaaAssistantArknights", "forks": 2369}
 ]

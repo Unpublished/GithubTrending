@@ -1,9 +1,9 @@
 [
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 402, "stars": 90815, "owner": "ggml-org", "forks": 13945},
-{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 172, "stars": 32427, "owner": "hyprwm", "forks": 1447},
-{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 93, "stars": 51825, "owner": "WerWolv", "forks": 2296},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 402, "stars": 90818, "owner": "ggml-org", "forks": 13945},
+{"description": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.", "language": "C++", "repo": "Hyprland", "new_stars": 172, "stars": 32429, "owner": "hyprwm", "forks": 1447},
+{"description": "\ud83d\udd0d A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.", "language": "C++", "repo": "ImHex", "new_stars": 93, "stars": 51824, "owner": "WerWolv", "forks": 2296},
 {"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 40, "stars": 69395, "owner": "swiftlang", "forks": 10609},
-{"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 37, "stars": 13926, "owner": "xournalpp", "forks": 971},
+{"description": "Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from devices such as Wacom Tablets.", "language": "C++", "repo": "xournalpp", "new_stars": 37, "stars": 13928, "owner": "xournalpp", "forks": 971},
 {"description": "Zcash - Internet Money", "language": "C++", "repo": "zcash", "new_stars": 14, "stars": 5305, "owner": "zcash", "forks": 2169},
 {"description": "LichtFeld Studio: Where reality and the digital world blend.", "language": "C++", "repo": "LichtFeld-Studio", "new_stars": 27, "stars": 1824, "owner": "MrNeRF", "forks": 206},
 {"description": "Kernels & AI inference engine for mobile devices.", "language": "C++", "repo": "cactus", "new_stars": 63, "stars": 3840, "owner": "cactus-compute", "forks": 236},
@@ -11,12 +11,12 @@
 {"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 198, "stars": 69812, "owner": "ocornut", "forks": 11368},
 {"description": "A flexible, high-performance 3D simulator for Embodied AI research.", "language": "C++", "repo": "habitat-sim", "new_stars": 19, "stars": 3373, "owner": "facebookresearch", "forks": 499},
 {"description": "KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)", "language": "C++", "repo": "kactl", "new_stars": 12, "stars": 3198, "owner": "kth-competitive-programming", "forks": 911},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 109, "stars": 85151, "owner": "opencv", "forks": 56393},
-{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 37, "stars": 13978, "owner": "PCSX2", "forks": 1820},
-{"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 116, "stars": 25026, "owner": "keepassxreboot", "forks": 1649},
-{"description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)", "language": "C++", "repo": "aseprite", "new_stars": 117, "stars": 34745, "owner": "aseprite", "forks": 7550},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 109, "stars": 85152, "owner": "opencv", "forks": 56392},
+{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 37, "stars": 13979, "owner": "PCSX2", "forks": 1820},
+{"description": "KeePassXC is a cross-platform community-driven port of the Windows application \u201cKeePass Password Safe\u201d.", "language": "C++", "repo": "keepassxc", "new_stars": 116, "stars": 25027, "owner": "keepassxreboot", "forks": 1649},
+{"description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)", "language": "C++", "repo": "aseprite", "new_stars": 117, "stars": 34746, "owner": "aseprite", "forks": 7552},
 {"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 114, "stars": 16260, "owner": "k4yt3x", "forks": 1439},
 {"description": "Tensor library for machine learning", "language": "C++", "repo": "ggml", "new_stars": 33, "stars": 13655, "owner": "ggml-org", "forks": 1415},
-{"description": "A monitor of resources", "language": "C++", "repo": "btop", "new_stars": 142, "stars": 28824, "owner": "aristocratos", "forks": 869},
-{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 81, "stars": 18853, "owner": "MaaAssistantArknights", "forks": 2381}
+{"description": "A monitor of resources", "language": "C++", "repo": "btop", "new_stars": 142, "stars": 28828, "owner": "aristocratos", "forks": 869},
+{"description": "\u300a\u660e\u65e5\u65b9\u821f\u300b\u5c0f\u52a9\u624b\uff0c\u5168\u65e5\u5e38\u4e00\u952e\u957f\u8349\uff01| A one-click tool for the daily tasks of Arknights, supporting all clients.", "language": "C++", "repo": "MaaAssistantArknights", "new_stars": 81, "stars": 18854, "owner": "MaaAssistantArknights", "forks": 2382}
 ]

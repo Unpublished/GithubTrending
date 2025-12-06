@@ -1,17 +1,17 @@
 [
-{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 1387, "stars": 15087, "owner": "rustfs", "forks": 648},
-{"description": "Text editor for your terminal: easy, powerful and fast", "language": "Rust", "repo": "fresh", "new_stars": 251, "stars": 779, "owner": "sinelaw", "forks": 22},
-{"description": "The Parity Polkadot Blockchain SDK", "language": "Rust", "repo": "polkadot-sdk", "new_stars": 17, "stars": 2583, "owner": "paritytech", "forks": 1088},
-{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 1, "stars": 7504, "owner": "MystenLabs", "forks": 11688},
+{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 1387, "stars": 15098, "owner": "rustfs", "forks": 649},
+{"description": "Text editor for your terminal: easy, powerful and fast", "language": "Rust", "repo": "fresh", "new_stars": 251, "stars": 791, "owner": "sinelaw", "forks": 24},
+{"description": "The Parity Polkadot Blockchain SDK", "language": "Rust", "repo": "polkadot-sdk", "new_stars": 17, "stars": 2584, "owner": "paritytech", "forks": 1088},
+{"description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language", "language": "Rust", "repo": "sui", "new_stars": 1, "stars": 7503, "owner": "MystenLabs", "forks": 11688},
 {"description": "An extensible, state of the art columnar file format. Formerly at", "language": "Rust", "repo": "vortex", "new_stars": 10, "stars": 2341, "owner": "vortex-data", "forks": 101},
-{"description": "Kanban board to manage your AI coding agents", "language": "Rust", "repo": "vibe-kanban", "new_stars": 14, "stars": 6210, "owner": "BloopAI", "forks": 633},
-{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 55, "stars": 52040, "owner": "openai", "forks": 6607},
-{"description": "\u2604\ud83c\udf0c\ufe0f The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 21, "stars": 52645, "owner": "starship", "forks": 2315},
+{"description": "Kanban board to manage your AI coding agents", "language": "Rust", "repo": "vibe-kanban", "new_stars": 14, "stars": 6214, "owner": "BloopAI", "forks": 634},
+{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 55, "stars": 52045, "owner": "openai", "forks": 6607},
+{"description": "\u2604\ud83c\udf0c\ufe0f The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 21, "stars": 52646, "owner": "starship", "forks": 2315},
 {"description": "Scalable datastore for metrics, events, and real-time analytics", "language": "Rust", "repo": "influxdb", "new_stars": 4, "stars": 30938, "owner": "influxdata", "forks": 3674},
-{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 56101, "owner": "sharkdp", "forks": 1422},
+{"description": "A cat(1) clone with wings.", "language": "Rust", "repo": "bat", "new_stars": 24, "stars": 56102, "owner": "sharkdp", "forks": 1422},
 {"description": "\ud83d\udcca Cube Core is open-source semantic layer and LookML alternative for AI, BI and embedded analytics", "language": "Rust", "repo": "cube", "new_stars": 6, "stars": 19151, "owner": "cube-js", "forks": 1926},
 {"description": "Open-source search and retrieval database for AI applications.", "language": "Rust", "repo": "chroma", "new_stars": 15, "stars": 24767, "owner": "chroma-core", "forks": 1951},
-{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 21, "stars": 25660, "owner": "cloudflare", "forks": 1534},
+{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 21, "stars": 25661, "owner": "cloudflare", "forks": 1534},
 {"description": "Modern embedded framework, using Rust and async.", "language": "Rust", "repo": "embassy", "new_stars": 4, "stars": 7858, "owner": "embassy-rs", "forks": 1264},
 {"description": "(Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo:", "language": "Rust", "repo": "garage", "new_stars": 49, "stars": 1964, "owner": "deuxfleurs-org", "forks": 81},
 {"description": "A Datacenter Scale Distributed Inference Serving Framework", "language": "Rust", "repo": "dynamo", "new_stars": 4, "stars": 5611, "owner": "ai-dynamo", "forks": 725},
@@ -19,5 +19,5 @@
 {"description": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.", "language": "Rust", "repo": "zenoh", "new_stars": 4, "stars": 2293, "owner": "eclipse-zenoh", "forks": 224},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 29, "stars": 108305, "owner": "rust-lang", "forks": 14089},
 {"description": "The transactional Elasticsearch alternative built on Postgres", "language": "Rust", "repo": "paradedb", "new_stars": 5, "stars": 7996, "owner": "paradedb", "forks": 300},
-{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 14, "stars": 24031, "owner": "tokio-rs", "forks": 1280}
+{"description": "Ergonomic and modular web framework built with Tokio, Tower, and Hyper", "language": "Rust", "repo": "axum", "new_stars": 14, "stars": 24032, "owner": "tokio-rs", "forks": 1280}
 ]

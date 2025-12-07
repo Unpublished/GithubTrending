@@ -1,9 +1,9 @@
 [
-{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 3966, "stars": 15176, "owner": "rustfs", "forks": 652},
+{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 3966, "stars": 15191, "owner": "rustfs", "forks": 653},
 {"description": "A fast type checker and language server for Python", "language": "Rust", "repo": "pyrefly", "new_stars": 713, "stars": 4937, "owner": "facebook", "forks": 213},
 {"description": "Open Source Spotify client library", "language": "Rust", "repo": "librespot", "new_stars": 541, "stars": 6365, "owner": "librespot-org", "forks": 785},
 {"description": "Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.", "language": "Rust", "repo": "etl", "new_stars": 613, "stars": 2053, "owner": "supabase", "forks": 128},
-{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 301, "stars": 25661, "owner": "cloudflare", "forks": 1534},
+{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 301, "stars": 25662, "owner": "cloudflare", "forks": 1534},
 {"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 554, "stars": 29024, "owner": "casey", "forks": 623},
 {"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 715, "stars": 44220, "owner": "astral-sh", "forks": 1638},
 {"description": "Extremely fast Query Engine for DataFrames, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 496, "stars": 36420, "owner": "pola-rs", "forks": 2502},
@@ -15,11 +15,11 @@
 {"description": "An extensible, state of the art columnar file format. Formerly at", "language": "Rust", "repo": "vortex", "new_stars": 365, "stars": 2342, "owner": "vortex-data", "forks": 101},
 {"description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.", "language": "Rust", "repo": "universal-android-debloater-next-generation", "new_stars": 279, "stars": 5172, "owner": "Universal-Debloater-Alliance", "forks": 199},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1154, "stars": 51658, "owner": "dani-garcia", "forks": 2411},
-{"description": "A markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 1410, "stars": 49123, "owner": "typst", "forks": 1349},
+{"description": "A markup-based typesetting system that is powerful and easy to learn.", "language": "Rust", "repo": "typst", "new_stars": 1410, "stars": 49127, "owner": "typst", "forks": 1349},
 {"description": "HelixDB is an open-source graph-vector database built from scratch in Rust.", "language": "Rust", "repo": "helix-db", "new_stars": 437, "stars": 3449, "owner": "HelixDB", "forks": 171},
 {"description": "Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai -", "language": "Rust", "repo": "meeting-minutes", "new_stars": 495, "stars": 8616, "owner": "Zackriya-Solutions", "forks": 699},
 {"description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed", "language": "Rust", "repo": "iggy", "new_stars": 344, "stars": 3391, "owner": "apache", "forks": 223},
 {"description": "Commonware Library Primitives and Examples", "language": "Rust", "repo": "monorepo", "new_stars": 72, "stars": 402, "owner": "commonwarexyz", "forks": 146},
 {"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 237, "stars": 20757, "owner": "rust-lang", "forks": 1796},
-{"description": "Fullstack app framework for web, desktop, and mobile.", "language": "Rust", "repo": "dioxus", "new_stars": 873, "stars": 32447, "owner": "DioxusLabs", "forks": 1398}
+{"description": "Fullstack app framework for web, desktop, and mobile.", "language": "Rust", "repo": "dioxus", "new_stars": 873, "stars": 32451, "owner": "DioxusLabs", "forks": 1398}
 ]

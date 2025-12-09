@@ -1,11 +1,11 @@
 [
-{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 4848, "stars": 16140, "owner": "rustfs", "forks": 692},
-{"description": "A fast type checker and language server for Python", "language": "Rust", "repo": "pyrefly", "new_stars": 721, "stars": 4978, "owner": "facebook", "forks": 214},
+{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 4848, "stars": 16150, "owner": "rustfs", "forks": 693},
+{"description": "A fast type checker and language server for Python", "language": "Rust", "repo": "pyrefly", "new_stars": 721, "stars": 4979, "owner": "facebook", "forks": 214},
 {"description": "Extremely fast Query Engine for DataFrames, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 503, "stars": 36467, "owner": "pola-rs", "forks": 2505},
 {"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 578, "stars": 29096, "owner": "casey", "forks": 625},
-{"description": "\ud83e\udd8e a tool to build and deploy software on many servers \ud83e\udd8e", "language": "Rust", "repo": "komodo", "new_stars": 603, "stars": 8862, "owner": "moghtech", "forks": 235},
+{"description": "\ud83e\udd8e a tool to build and deploy software on many servers \ud83e\udd8e", "language": "Rust", "repo": "komodo", "new_stars": 603, "stars": 8865, "owner": "moghtech", "forks": 235},
 {"description": "An open source SDK for logging, storing, querying, and visualizing multimodal and multi-rate data", "language": "Rust", "repo": "rerun", "new_stars": 219, "stars": 9724, "owner": "rerun-io", "forks": 591},
-{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 296, "stars": 25681, "owner": "cloudflare", "forks": 1536},
+{"description": "A library for building fast, reliable and evolvable network services.", "language": "Rust", "repo": "pingora", "new_stars": 296, "stars": 25680, "owner": "cloudflare", "forks": 1536},
 {"description": "Stream your Postgres data anywhere in real-time. Simple Rust building blocks for change data capture (CDC) pipelines.", "language": "Rust", "repo": "etl", "new_stars": 602, "stars": 2060, "owner": "supabase", "forks": 128},
 {"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 706, "stars": 44276, "owner": "astral-sh", "forks": 1640},
 {"description": "Rust tool to detect cell site simulators on an orbic mobile hotspot", "language": "Rust", "repo": "rayhunter", "new_stars": 302, "stars": 3573, "owner": "EFForg", "forks": 269},
@@ -15,11 +15,11 @@
 {"description": "The Parity Polkadot Blockchain SDK", "language": "Rust", "repo": "polkadot-sdk", "new_stars": 90, "stars": 2600, "owner": "paritytech", "forks": 1093},
 {"description": "An extensible, state of the art columnar file format. Formerly at", "language": "Rust", "repo": "vortex", "new_stars": 373, "stars": 2355, "owner": "vortex-data", "forks": 102},
 {"description": "Open-source Rust based AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing. no cloud required. Meetily (Meetly Ai -", "language": "Rust", "repo": "meeting-minutes", "new_stars": 546, "stars": 8696, "owner": "Zackriya-Solutions", "forks": 715},
-{"description": "Kanban board to manage your AI coding agents", "language": "Rust", "repo": "vibe-kanban", "new_stars": 594, "stars": 6406, "owner": "BloopAI", "forks": 651},
-{"description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale", "language": "Rust", "repo": "Daft", "new_stars": 261, "stars": 4930, "owner": "Eventual-Inc", "forks": 354},
+{"description": "Kanban board to manage your AI coding agents", "language": "Rust", "repo": "vibe-kanban", "new_stars": 594, "stars": 6406, "owner": "BloopAI", "forks": 652},
+{"description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale", "language": "Rust", "repo": "Daft", "new_stars": 261, "stars": 4931, "owner": "Eventual-Inc", "forks": 354},
 {"description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed", "language": "Rust", "repo": "iggy", "new_stars": 358, "stars": 3430, "owner": "apache", "forks": 225},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1157, "stars": 51751, "owner": "dani-garcia", "forks": 2411},
-{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 245, "stars": 20775, "owner": "rust-lang", "forks": 1798},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1157, "stars": 51753, "owner": "dani-garcia", "forks": 2411},
+{"description": "Create book from markdown files. Like Gitbook but implemented in Rust", "language": "Rust", "repo": "mdBook", "new_stars": 245, "stars": 20776, "owner": "rust-lang", "forks": 1798},
 {"description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.", "language": "Rust", "repo": "aptos-core", "new_stars": 26, "stars": 6405, "owner": "aptos-labs", "forks": 3871},
-{"description": "Fullstack app framework for web, desktop, and mobile.", "language": "Rust", "repo": "dioxus", "new_stars": 896, "stars": 32549, "owner": "DioxusLabs", "forks": 1408}
+{"description": "Fullstack app framework for web, desktop, and mobile.", "language": "Rust", "repo": "dioxus", "new_stars": 896, "stars": 32552, "owner": "DioxusLabs", "forks": 1408}
 ]

@@ -1,12 +1,12 @@
 [
 {"description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64", "language": "C++", "repo": "duckstation", "new_stars": 3, "stars": 9344, "owner": "stenzek", "forks": 857},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 61, "stars": 91306, "owner": "ggml-org", "forks": 14106},
-{"description": "Experimental menu for GTA 5: Enhanced", "language": "C++", "repo": "YimMenuV2", "new_stars": 33, "stars": 866, "owner": "YimMenu", "forks": 271},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 61, "stars": 91307, "owner": "ggml-org", "forks": 14106},
+{"description": "Experimental menu for GTA 5: Enhanced", "language": "C++", "repo": "YimMenuV2", "new_stars": 33, "stars": 867, "owner": "YimMenu", "forks": 271},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 14, "stars": 11782, "owner": "OrcaSlicer", "forks": 1566},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 47, "stars": 32342, "owner": "LizardByte", "forks": 1571},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 47, "stars": 32344, "owner": "LizardByte", "forks": 1571},
 {"description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more", "language": "C++", "repo": "entt", "new_stars": 7, "stars": 12025, "owner": "skypjack", "forks": 1030},
-{"description": null, "language": "C++", "repo": "open-battery-information", "new_stars": 22, "stars": 814, "owner": "mnh-jansson", "forks": 147},
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 18, "stars": 9195, "owner": "amnezia-vpn", "forks": 637},
+{"description": null, "language": "C++", "repo": "open-battery-information", "new_stars": 22, "stars": 816, "owner": "mnh-jansson", "forks": 147},
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 18, "stars": 9197, "owner": "amnezia-vpn", "forks": 637},
 {"description": "Welcome to a calmer internet", "language": "C++", "repo": "desktop", "new_stars": 23, "stars": 38385, "owner": "zen-browser", "forks": 1196},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 21, "stars": 192796, "owner": "tensorflow", "forks": 75090},
 {"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 27, "stars": 34461, "owner": "qbittorrent", "forks": 4505},
@@ -15,10 +15,10 @@
 {"description": "Easily download and manage single-player game cheats for your convenience", "language": "C++", "repo": "Game-Cheats-Manager", "new_stars": 9, "stars": 9605, "owner": "dyang886", "forks": 370},
 {"description": "QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.", "language": "C++", "repo": "QOwnNotes", "new_stars": 8, "stars": 5479, "owner": "pbek", "forks": 465},
 {"description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.", "language": "C++", "repo": "mixxx", "new_stars": 6, "stars": 6183, "owner": "mixxxdj", "forks": 1541},
-{"description": "Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..", "language": "C++", "repo": "media-downloader", "new_stars": 50, "stars": 3903, "owner": "mhogomchungu", "forks": 270},
-{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 12, "stars": 22906, "owner": "simdjson", "forks": 1187},
-{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 3, "stars": 14021, "owner": "PCSX2", "forks": 1827},
+{"description": "Media Downloader is a Qt/C++ front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..", "language": "C++", "repo": "media-downloader", "new_stars": 50, "stars": 3905, "owner": "mhogomchungu", "forks": 270},
+{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 12, "stars": 22907, "owner": "simdjson", "forks": 1187},
+{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 3, "stars": 14020, "owner": "PCSX2", "forks": 1827},
 {"description": "PC Software for BambuLab and other 3D printers", "language": "C++", "repo": "BambuStudio", "new_stars": 5, "stars": 3532, "owner": "bambulab", "forks": 526},
-{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 6, "stars": 69430, "owner": "swiftlang", "forks": 10618},
-{"description": "Sunshine fork - The easiest way to stream with the native resolution of your client device", "language": "C++", "repo": "Apollo", "new_stars": 27, "stars": 6865, "owner": "ClassicOldSong", "forks": 175}
+{"description": "The Swift Programming Language", "language": "C++", "repo": "swift", "new_stars": 6, "stars": 69429, "owner": "swiftlang", "forks": 10618},
+{"description": "Sunshine fork - The easiest way to stream with the native resolution of your client device", "language": "C++", "repo": "Apollo", "new_stars": 27, "stars": 6866, "owner": "ClassicOldSong", "forks": 175}
 ]

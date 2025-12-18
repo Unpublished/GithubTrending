@@ -1,15 +1,15 @@
 [
-{"description": "Turso is an in-process SQL database, compatible with SQLite.", "language": "Rust", "repo": "turso", "new_stars": 798, "stars": 15784, "owner": "tursodatabase", "forks": 641},
-{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 1407, "stars": 24678, "owner": "block", "forks": 2196},
-{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 2014, "stars": 54242, "owner": "openai", "forks": 6861},
-{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 270, "stars": 3987, "owner": "cocoindex-io", "forks": 323},
+{"description": "Turso is an in-process SQL database, compatible with SQLite.", "language": "Rust", "repo": "turso", "new_stars": 798, "stars": 15786, "owner": "tursodatabase", "forks": 641},
+{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 1407, "stars": 24681, "owner": "block", "forks": 2196},
+{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 2014, "stars": 54243, "owner": "openai", "forks": 6860},
+{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 270, "stars": 3989, "owner": "cocoindex-io", "forks": 323},
 {"description": "the blockchain for payments", "language": "Rust", "repo": "tempo", "new_stars": 315, "stars": 543, "owner": "tempoxyz", "forks": 99},
-{"description": "Text editor for your terminal: easy, powerful and fast", "language": "Rust", "repo": "fresh", "new_stars": 432, "stars": 2138, "owner": "sinelaw", "forks": 66},
+{"description": "Text editor for your terminal: easy, powerful and fast", "language": "Rust", "repo": "fresh", "new_stars": 432, "stars": 2148, "owner": "sinelaw", "forks": 66},
 {"description": "Cross-platform Rust rewrite of the GNU coreutils", "language": "Rust", "repo": "coreutils", "new_stars": 108, "stars": 22379, "owner": "uutils", "forks": 1675},
 {"description": "A Privacy-first, Cross-platform Text Expander written in Rust", "language": "Rust", "repo": "espanso", "new_stars": 83, "stars": 12680, "owner": "espanso", "forks": 368},
-{"description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f", "language": "Rust", "repo": "sniffnet", "new_stars": 121, "stars": 32130, "owner": "GyulyVGC", "forks": 1163},
+{"description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f", "language": "Rust", "repo": "sniffnet", "new_stars": 121, "stars": 32133, "owner": "GyulyVGC", "forks": 1163},
 {"description": "A blazingly fast, open-source application server with type-safe APIs, built-in WebAssembly runtime, realtime, auth, and admin UI built on Rust, SQLite & Wasmtime.", "language": "Rust", "repo": "trailbase", "new_stars": 492, "stars": 4254, "owner": "trailbaseio", "forks": 119},
-{"description": "\ud83e\uddad High Performance kafka alternative written in rust", "language": "Rust", "repo": "walrus", "new_stars": 394, "stars": 1556, "owner": "nubskr", "forks": 58},
+{"description": "\ud83e\uddad High Performance kafka alternative written in rust", "language": "Rust", "repo": "walrus", "new_stars": 394, "stars": 1557, "owner": "nubskr", "forks": 58},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 103, "stars": 31436, "owner": "firecracker-microvm", "forks": 2177},
 {"description": "DevOps agent that won't accidentally tweet your AWS credentials \ud83e\udd80", "language": "Rust", "repo": "agent", "new_stars": 158, "stars": 740, "owner": "stakpak", "forks": 86},
 {"description": "A scalable, distributed, collaborative, document-graph database, for the realtime web", "language": "Rust", "repo": "surrealdb", "new_stars": 62, "stars": 30582, "owner": "surrealdb", "forks": 1086},
@@ -17,7 +17,7 @@
 {"description": "Main repository for the Linera protocol", "language": "Rust", "repo": "linera-protocol", "new_stars": 62, "stars": 31943, "owner": "linera-io", "forks": 2241},
 {"description": "\ud83e\udd80 Small exercises to get you used to reading and writing Rust code!", "language": "Rust", "repo": "rustlings", "new_stars": 143, "stars": 61063, "owner": "rust-lang", "forks": 11041},
 {"description": "Apache OpenDAL: One Layer, All Storage.", "language": "Rust", "repo": "opendal", "new_stars": 63, "stars": 4722, "owner": "apache", "forks": 695},
-{"description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed", "language": "Rust", "repo": "iggy", "new_stars": 142, "stars": 3596, "owner": "apache", "forks": 240},
-{"description": "Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.", "language": "Rust", "repo": "archgw", "new_stars": 67, "stars": 4604, "owner": "katanemo", "forks": 258},
-{"description": "A simple, decentralized mesh VPN with WireGuard support.", "language": "Rust", "repo": "EasyTier", "new_stars": 212, "stars": 8764, "owner": "EasyTier", "forks": 809}
+{"description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed", "language": "Rust", "repo": "iggy", "new_stars": 142, "stars": 3597, "owner": "apache", "forks": 240},
+{"description": "Delivery infrastructure for agents. Arch is a models-native proxy and data plane for agents that handles plumbing work in AI - like agent routing and orchestration, guardrails, zero-code logs and traces, and unified access to LLMs (OpenAI, Anthropic, Ollama, etc.). Build agents faster and deliver them reliably to prod.", "language": "Rust", "repo": "archgw", "new_stars": 67, "stars": 4603, "owner": "katanemo", "forks": 258},
+{"description": "A simple, decentralized mesh VPN with WireGuard support.", "language": "Rust", "repo": "EasyTier", "new_stars": 212, "stars": 8766, "owner": "EasyTier", "forks": 809}
 ]

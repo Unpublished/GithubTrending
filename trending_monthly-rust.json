@@ -1,15 +1,15 @@
 [
-{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 6546, "stars": 18090, "owner": "rustfs", "forks": 785},
-{"description": "Feature packed AUR helper", "language": "Rust", "repo": "paru", "new_stars": 501, "stars": 8093, "owner": "Morganamilo", "forks": 299},
-{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 1561, "stars": 4999, "owner": "cocoindex-io", "forks": 381},
-{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 2532, "stars": 7534, "owner": "farion1231", "forks": 506},
-{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 2688, "stars": 25004, "owner": "block", "forks": 2237},
+{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 6546, "stars": 18091, "owner": "rustfs", "forks": 785},
+{"description": "Feature packed AUR helper", "language": "Rust", "repo": "paru", "new_stars": 501, "stars": 8092, "owner": "Morganamilo", "forks": 299},
+{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 1561, "stars": 5012, "owner": "cocoindex-io", "forks": 383},
+{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 2532, "stars": 7539, "owner": "farion1231", "forks": 506},
+{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 2688, "stars": 25007, "owner": "block", "forks": 2237},
 {"description": "3D Reconstruction for all", "language": "Rust", "repo": "brush", "new_stars": 341, "stars": 3415, "owner": "ArthurBrussee", "forks": 164},
-{"description": "Extremely fast Query Engine for DataFrames, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 502, "stars": 36677, "owner": "pola-rs", "forks": 2527},
-{"description": "Turso is an in-process SQL database, compatible with SQLite.", "language": "Rust", "repo": "turso", "new_stars": 1193, "stars": 15943, "owner": "tursodatabase", "forks": 656},
+{"description": "Extremely fast Query Engine for DataFrames, written in Rust", "language": "Rust", "repo": "polars", "new_stars": 502, "stars": 36678, "owner": "pola-rs", "forks": 2527},
+{"description": "Turso is an in-process SQL database, compatible with SQLite.", "language": "Rust", "repo": "turso", "new_stars": 1193, "stars": 15944, "owner": "tursodatabase", "forks": 656},
 {"description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed", "language": "Rust", "repo": "iggy", "new_stars": 449, "stars": 3664, "owner": "apache", "forks": 243},
-{"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 658, "stars": 29425, "owner": "casey", "forks": 636},
-{"description": "Rust tool to detect cell site simulators on an orbic mobile hotspot", "language": "Rust", "repo": "rayhunter", "new_stars": 373, "stars": 3796, "owner": "EFForg", "forks": 279},
+{"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 658, "stars": 29427, "owner": "casey", "forks": 636},
+{"description": "Rust tool to detect cell site simulators on an orbic mobile hotspot", "language": "Rust", "repo": "rayhunter", "new_stars": 373, "stars": 3797, "owner": "EFForg", "forks": 279},
 {"description": "High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale", "language": "Rust", "repo": "Daft", "new_stars": 230, "stars": 5051, "owner": "Eventual-Inc", "forks": 370},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 387, "stars": 31511, "owner": "firecracker-microvm", "forks": 2181},
 {"description": "Commonware Library Primitives and Examples", "language": "Rust", "repo": "monorepo", "new_stars": 70, "stars": 450, "owner": "commonwarexyz", "forks": 162},
@@ -19,5 +19,5 @@
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 204, "stars": 17127, "owner": "rust-lang", "forks": 3891},
 {"description": "Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud", "language": "Rust", "repo": "qdrant", "new_stars": 587, "stars": 27816, "owner": "qdrant", "forks": 1950},
 {"description": "Apache OpenDAL: One Layer, All Storage.", "language": "Rust", "repo": "opendal", "new_stars": 161, "stars": 4766, "owner": "apache", "forks": 697},
-{"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 700, "stars": 36232, "owner": "spacedriveapp", "forks": 1157}
+{"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 700, "stars": 36233, "owner": "spacedriveapp", "forks": 1157}
 ]

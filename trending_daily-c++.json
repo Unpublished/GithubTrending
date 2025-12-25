@@ -1,10 +1,10 @@
 [
 {"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 13, "stars": 9457, "owner": "k2-fsa", "forks": 1051},
 {"description": "Mesh optimization library that makes meshes smaller and faster to render", "language": "C++", "repo": "meshoptimizer", "new_stars": 29, "stars": 7125, "owner": "zeux", "forks": 597},
-{"description": "Decompilation of The Legend of Zelda: Twilight Princess", "language": "C++", "repo": "tp", "new_stars": 32, "stars": 1396, "owner": "zeldaret", "forks": 142},
+{"description": "Decompilation of The Legend of Zelda: Twilight Princess", "language": "C++", "repo": "tp", "new_stars": 32, "stars": 1398, "owner": "zeldaret", "forks": 142},
 {"description": "Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2", "language": "C++", "repo": "filament", "new_stars": 12, "stars": 19251, "owner": "google", "forks": 2080},
 {"description": "RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.", "language": "C++", "repo": "rtp-llm", "new_stars": 2, "stars": 969, "owner": "alibaba", "forks": 134},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 7, "stars": 27952, "owner": "gabime", "forks": 4994},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 7, "stars": 27953, "owner": "gabime", "forks": 4994},
 {"description": "Seamless operability between C++11 and Python", "language": "C++", "repo": "pybind11", "new_stars": 4, "stars": 17575, "owner": "pybind", "forks": 2253},
 {"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 9, "stars": 22492, "owner": "Tencent", "forks": 4365},
 {"description": "Gaming meets modern C++ - a fast and reliable entity component system (ECS) and much more", "language": "C++", "repo": "entt", "new_stars": 6, "stars": 12069, "owner": "skypjack", "forks": 1036},
@@ -21,5 +21,5 @@
 {"description": "The home of the ICU project source code.", "language": "C++", "repo": "icu", "new_stars": 0, "stars": 3347, "owner": "unicode-org", "forks": 850},
 {"description": "\ud83e\udd18 TT-NN operator library, and TT-Metalium low level kernel programming model.", "language": "C++", "repo": "tt-metal", "new_stars": 4, "stars": 1294, "owner": "tenstorrent", "forks": 313},
 {"description": "ROS 2 Navigation Framework and System", "language": "C++", "repo": "navigation2", "new_stars": 2, "stars": 3763, "owner": "ros-navigation", "forks": 1670},
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 17, "stars": 9339, "owner": "amnezia-vpn", "forks": 652}
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 17, "stars": 9340, "owner": "amnezia-vpn", "forks": 652}
 ]

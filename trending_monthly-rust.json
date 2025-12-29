@@ -1,13 +1,13 @@
 [
-{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 6810, "stars": 18565, "owner": "rustfs", "forks": 798},
-{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 1932, "stars": 5454, "owner": "cocoindex-io", "forks": 410},
+{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 6810, "stars": 18569, "owner": "rustfs", "forks": 798},
+{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 1932, "stars": 5455, "owner": "cocoindex-io", "forks": 410},
 {"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 2767, "stars": 25197, "owner": "block", "forks": 2265},
-{"description": "Turso is an in-process SQL database, compatible with SQLite.", "language": "Rust", "repo": "turso", "new_stars": 1230, "stars": 16073, "owner": "tursodatabase", "forks": 665},
+{"description": "Turso is an in-process SQL database, compatible with SQLite.", "language": "Rust", "repo": "turso", "new_stars": 1230, "stars": 16075, "owner": "tursodatabase", "forks": 665},
 {"description": "Feature packed AUR helper", "language": "Rust", "repo": "paru", "new_stars": 535, "stars": 8156, "owner": "Morganamilo", "forks": 302},
-{"description": "Get 10X more out of Claude Code, Codex or any coding agent", "language": "Rust", "repo": "vibe-kanban", "new_stars": 1006, "stars": 7958, "owner": "BloopAI", "forks": 779},
+{"description": "Get 10X more out of Claude Code, Codex or any coding agent", "language": "Rust", "repo": "vibe-kanban", "new_stars": 1006, "stars": 7965, "owner": "BloopAI", "forks": 781},
 {"description": "Free, open source, a high frequency trading and market making backtesting and trading bot, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books(Level-2 and Level-3), with real-world crypto trading examples for Binance and Bybit", "language": "Rust", "repo": "hftbacktest", "new_stars": 148, "stars": 3466, "owner": "nkaz001", "forks": 690},
 {"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 387, "stars": 31571, "owner": "firecracker-microvm", "forks": 2186},
-{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 414, "stars": 21310, "owner": "RustPython", "forks": 1385},
+{"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 414, "stars": 21319, "owner": "RustPython", "forks": 1385},
 {"description": "Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed", "language": "Rust", "repo": "iggy", "new_stars": 401, "stars": 3692, "owner": "apache", "forks": 245},
 {"description": "3D Reconstruction for all", "language": "Rust", "repo": "brush", "new_stars": 340, "stars": 3459, "owner": "ArthurBrussee", "forks": 167},
 {"description": "Multi functional app to find duplicates, empty folders, similar images etc.", "language": "Rust", "repo": "czkawka", "new_stars": 498, "stars": 27728, "owner": "qarmin", "forks": 893},
@@ -15,10 +15,10 @@
 {"description": "A simple, decentralized mesh VPN with WireGuard support.", "language": "Rust", "repo": "EasyTier", "new_stars": 661, "stars": 8999, "owner": "EasyTier", "forks": 845},
 {"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 112, "stars": 5272, "owner": "paradigmxyz", "forks": 2217},
 {"description": "Rust tool to detect cell site simulators on an orbic mobile hotspot", "language": "Rust", "repo": "rayhunter", "new_stars": 422, "stars": 3902, "owner": "EFForg", "forks": 289},
-{"description": "The Magic Mask for Android", "language": "Rust", "repo": "Magisk", "new_stars": 718, "stars": 57810, "owner": "topjohnwu", "forks": 16277},
+{"description": "The Magic Mask for Android", "language": "Rust", "repo": "Magisk", "new_stars": 718, "stars": 57811, "owner": "topjohnwu", "forks": 16278},
 {"description": "Empowering everyone to build reliable and efficient software.", "language": "Rust", "repo": "rust", "new_stars": 951, "stars": 108938, "owner": "rust-lang", "forks": 14249},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1249, "stars": 52566, "owner": "dani-garcia", "forks": 2439},
-{"description": "\u2693 A collection of high-performance JavaScript tools.", "language": "Rust", "repo": "oxc", "new_stars": 550, "stars": 18097, "owner": "oxc-project", "forks": 765},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1249, "stars": 52571, "owner": "dani-garcia", "forks": 2440},
+{"description": "\u2693 A collection of high-performance JavaScript tools.", "language": "Rust", "repo": "oxc", "new_stars": 550, "stars": 18098, "owner": "oxc-project", "forks": 765},
 {"description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.", "language": "Rust", "repo": "spacedrive", "new_stars": 680, "stars": 36302, "owner": "spacedriveapp", "forks": 1162},
-{"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 661, "stars": 29518, "owner": "casey", "forks": 637}
+{"description": "\ud83e\udd16 Just a command runner", "language": "Rust", "repo": "just", "new_stars": 661, "stars": 29521, "owner": "casey", "forks": 637}
 ]

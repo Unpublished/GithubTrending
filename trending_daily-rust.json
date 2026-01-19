@@ -1,17 +1,18 @@
 [
-{"description": "A high-performance algorithmic trading platform and event-driven backtester", "language": "Rust", "repo": "nautilus_trader", "new_stars": 525, "stars": 17996, "owner": "nautechsystems", "forks": 2120},
-{"description": "HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity", "language": "Rust", "repo": "axum", "new_stars": 20, "stars": 24621, "owner": "tokio-rs", "forks": 1314},
-{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 32, "stars": 45228, "owner": "astral-sh", "forks": 1702},
+{"description": "A high-performance algorithmic trading platform and event-driven backtester", "language": "Rust", "repo": "nautilus_trader", "new_stars": 525, "stars": 18008, "owner": "nautechsystems", "forks": 2120},
+{"description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration", "language": "Rust", "repo": "ralph-orchestrator", "new_stars": 75, "stars": 927, "owner": "mikeyobrien", "forks": 113},
+{"description": "HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity", "language": "Rust", "repo": "axum", "new_stars": 20, "stars": 24622, "owner": "tokio-rs", "forks": 1314},
+{"description": "An extremely fast Python linter and code formatter, written in Rust.", "language": "Rust", "repo": "ruff", "new_stars": 32, "stars": 45230, "owner": "astral-sh", "forks": 1702},
 {"description": "Open-source search and retrieval database for AI applications.", "language": "Rust", "repo": "chroma", "new_stars": 24, "stars": 25605, "owner": "chroma-core", "forks": 2006},
-{"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 45, "stars": 17544, "owner": "YaLTeR", "forks": 645},
-{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 23, "stars": 37923, "owner": "nushell", "forks": 2018},
+{"description": "A scrollable-tiling Wayland compositor.", "language": "Rust", "repo": "niri", "new_stars": 45, "stars": 17547, "owner": "YaLTeR", "forks": 646},
+{"description": "A new type of shell", "language": "Rust", "repo": "nushell", "new_stars": 23, "stars": 37924, "owner": "nushell", "forks": 2018},
 {"description": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.", "language": "Rust", "repo": "spiceai", "new_stars": 9, "stars": 2757, "owner": "spiceai", "forks": 166},
-{"description": "A scalable, distributed, collaborative, document-graph database, for the realtime web", "language": "Rust", "repo": "surrealdb", "new_stars": 43, "stars": 30879, "owner": "surrealdb", "forks": 1105},
+{"description": "A scalable, distributed, collaborative, document-graph database, for the realtime web", "language": "Rust", "repo": "surrealdb", "new_stars": 43, "stars": 30880, "owner": "surrealdb", "forks": 1106},
 {"description": "Main repository for the Linera protocol", "language": "Rust", "repo": "linera-protocol", "new_stars": 74, "stars": 32031, "owner": "linera-io", "forks": 2265},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 4, "stars": 21686, "owner": "RustPython", "forks": 1401},
 {"description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore", "language": "Rust", "repo": "ripgrep", "new_stars": 40, "stars": 59058, "owner": "BurntSushi", "forks": 2373},
 {"description": "Govee2MQTT: Connect Govee lights and devices to Home Assistant", "language": "Rust", "repo": "govee2mqtt", "new_stars": 5, "stars": 1169, "owner": "wez", "forks": 100},
 {"description": "The fast Rust-based JavaScript bundler with webpack-compatible API \ud83e\udd80\ufe0f", "language": "Rust", "repo": "rspack", "new_stars": 6, "stars": 12398, "owner": "web-infra-dev", "forks": 754},
-{"description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).", "language": "Rust", "repo": "stalwart", "new_stars": 24, "stars": 11217, "owner": "stalwartlabs", "forks": 608},
-{"description": "Yet another cross-platform graphical process/system monitor.", "language": "Rust", "repo": "bottom", "new_stars": 31, "stars": 12705, "owner": "ClementTsang", "forks": 329}
+{"description": "All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).", "language": "Rust", "repo": "stalwart", "new_stars": 24, "stars": 11218, "owner": "stalwartlabs", "forks": 608},
+{"description": "Yet another cross-platform graphical process/system monitor.", "language": "Rust", "repo": "bottom", "new_stars": 31, "stars": 12706, "owner": "ClementTsang", "forks": 329}
 ]

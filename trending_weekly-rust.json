@@ -1,13 +1,14 @@
 [
-{"description": "\u26a1 Better `pre-commit`, re-engineered in Rust", "language": "Rust", "repo": "prek", "new_stars": 491, "stars": 3728, "owner": "j178", "forks": 111},
+{"description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration", "language": "Rust", "repo": "ralph-orchestrator", "new_stars": 347, "stars": 927, "owner": "mikeyobrien", "forks": 113},
+{"description": "\u26a1 Better `pre-commit`, re-engineered in Rust", "language": "Rust", "repo": "prek", "new_stars": 491, "stars": 3731, "owner": "j178", "forks": 112},
 {"description": "Fullstack app framework for web, desktop, and mobile.", "language": "Rust", "repo": "dioxus", "new_stars": 1062, "stars": 34262, "owner": "DioxusLabs", "forks": 1508},
-{"description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -", "language": "Rust", "repo": "meeting-minutes", "new_stars": 161, "stars": 9315, "owner": "Zackriya-Solutions", "forks": 800},
+{"description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai -", "language": "Rust", "repo": "meeting-minutes", "new_stars": 161, "stars": 9317, "owner": "Zackriya-Solutions", "forks": 800},
 {"description": "The open-source reactive database for app developers", "language": "Rust", "repo": "convex-backend", "new_stars": 415, "stars": 9521, "owner": "get-convex", "forks": 533},
 {"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 250, "stars": 23192, "owner": "jdx", "forks": 821},
-{"description": "A high-performance algorithmic trading platform and event-driven backtester", "language": "Rust", "repo": "nautilus_trader", "new_stars": 363, "stars": 17996, "owner": "nautechsystems", "forks": 2120},
-{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 178, "stars": 62011, "owner": "alacritty", "forks": 3278},
-{"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 40, "stars": 5338, "owner": "paradigmxyz", "forks": 2232},
-{"description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 429, "stars": 101542, "owner": "tauri-apps", "forks": 3319},
+{"description": "A high-performance algorithmic trading platform and event-driven backtester", "language": "Rust", "repo": "nautilus_trader", "new_stars": 363, "stars": 18008, "owner": "nautechsystems", "forks": 2120},
+{"description": "A cross-platform, OpenGL terminal emulator.", "language": "Rust", "repo": "alacritty", "new_stars": 178, "stars": 62010, "owner": "alacritty", "forks": 3278},
+{"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 40, "stars": 5338, "owner": "paradigmxyz", "forks": 2233},
+{"description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 429, "stars": 101543, "owner": "tauri-apps", "forks": 3319},
 {"description": "Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.", "language": "Rust", "repo": "foundry", "new_stars": 42, "stars": 10043, "owner": "foundry-rs", "forks": 2350},
 {"description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.", "language": "Rust", "repo": "rolldown", "new_stars": 51, "stars": 12667, "owner": "rolldown", "forks": 682},
 {"description": "RustDesk Server Program", "language": "Rust", "repo": "rustdesk-server", "new_stars": 45, "stars": 9213, "owner": "rustdesk", "forks": 2162},
@@ -18,5 +19,5 @@
 {"description": "A Rust port of shadowsocks", "language": "Rust", "repo": "shadowsocks-rust", "new_stars": 35, "stars": 10221, "owner": "shadowsocks", "forks": 1379},
 {"description": "Main repository for the Linera protocol", "language": "Rust", "repo": "linera-protocol", "new_stars": 93, "stars": 32031, "owner": "linera-io", "forks": 2265},
 {"description": "A portable accelerated SQL query, search, and LLM-inference engine, written in Rust, for data-grounded AI apps and agents.", "language": "Rust", "repo": "spiceai", "new_stars": 33, "stars": 2757, "owner": "spiceai", "forks": 166},
-{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 584, "stars": 73623, "owner": "zed-industries", "forks": 6657}
+{"description": "Code at the speed of thought \u2013 Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.", "language": "Rust", "repo": "zed", "new_stars": 584, "stars": 73623, "owner": "zed-industries", "forks": 6656}
 ]

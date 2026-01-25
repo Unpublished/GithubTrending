@@ -1,16 +1,16 @@
 [
-{"description": "Get 10X more out of Claude Code, Codex or any coding agent", "language": "Rust", "repo": "vibe-kanban", "new_stars": 12116, "stars": 18841, "owner": "BloopAI", "forks": 1751},
-{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 5977, "stars": 13492, "owner": "farion1231", "forks": 871},
-{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 1096, "stars": 31862, "owner": "sxyazi", "forks": 701},
-{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 1121, "stars": 23541, "owner": "jdx", "forks": 835},
+{"description": "Get 10X more out of Claude Code, Codex or any coding agent", "language": "Rust", "repo": "vibe-kanban", "new_stars": 12116, "stars": 18845, "owner": "BloopAI", "forks": 1751},
+{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 5977, "stars": 13496, "owner": "farion1231", "forks": 871},
+{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 1096, "stars": 31863, "owner": "sxyazi", "forks": 701},
+{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 1121, "stars": 23546, "owner": "jdx", "forks": 835},
 {"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 1746, "stars": 53983, "owner": "dani-garcia", "forks": 2499},
-{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 2934, "stars": 28465, "owner": "block", "forks": 2557},
-{"description": "The open-source reactive database for app developers", "language": "Rust", "repo": "convex-backend", "new_stars": 1037, "stars": 9677, "owner": "get-convex", "forks": 541},
+{"description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM", "language": "Rust", "repo": "goose", "new_stars": 2934, "stars": 28479, "owner": "block", "forks": 2557},
+{"description": "The open-source reactive database for app developers", "language": "Rust", "repo": "convex-backend", "new_stars": 1037, "stars": 9678, "owner": "get-convex", "forks": 541},
 {"description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00", "language": "Rust", "repo": "ratatui", "new_stars": 1002, "stars": 17777, "owner": "ratatui", "forks": 562},
-{"description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1578, "stars": 101822, "owner": "tauri-apps", "forks": 3337},
+{"description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.", "language": "Rust", "repo": "tauri", "new_stars": 1578, "stars": 101824, "owner": "tauri-apps", "forks": 3338},
 {"description": "A high-performance algorithmic trading platform and event-driven backtester", "language": "Rust", "repo": "nautilus_trader", "new_stars": 1806, "stars": 18555, "owner": "nautechsystems", "forks": 2187},
 {"description": "An incremental parsing system for programming tools", "language": "Rust", "repo": "tree-sitter", "new_stars": 456, "stars": 23520, "owner": "tree-sitter", "forks": 2379},
-{"description": "Expose your local web server to the internet with a public URL.", "language": "Rust", "repo": "tunnelto", "new_stars": 3356, "stars": 5577, "owner": "agrinman", "forks": 404},
+{"description": "Expose your local web server to the internet with a public URL.", "language": "Rust", "repo": "tunnelto", "new_stars": 3356, "stars": 5578, "owner": "agrinman", "forks": 404},
 {"description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.", "language": "Rust", "repo": "memvid", "new_stars": 2127, "stars": 12594, "owner": "memvid", "forks": 1065},
 {"description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust", "language": "Rust", "repo": "rig", "new_stars": 447, "stars": 5670, "owner": "0xPlaygrounds", "forks": 636},
 {"description": "Empowering everyone to host fast and efficient Minecraft servers.", "language": "Rust", "repo": "Pumpkin", "new_stars": 549, "stars": 6596, "owner": "Pumpkin-MC", "forks": 395},
@@ -20,5 +20,5 @@
 {"description": "Fullstack app framework for web, desktop, and mobile.", "language": "Rust", "repo": "dioxus", "new_stars": 1684, "stars": 34376, "owner": "DioxusLabs", "forks": 1512},
 {"description": "A scalable, distributed, collaborative, document-graph database, for the realtime web", "language": "Rust", "repo": "surrealdb", "new_stars": 355, "stars": 30932, "owner": "surrealdb", "forks": 1106},
 {"description": "A Python Interpreter written in Rust", "language": "Rust", "repo": "RustPython", "new_stars": 815, "stars": 21720, "owner": "RustPython", "forks": 1399},
-{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 715, "stars": 44301, "owner": "bevyengine", "forks": 4350}
+{"description": "A refreshingly simple data-driven game engine built in Rust", "language": "Rust", "repo": "bevy", "new_stars": 715, "stars": 44302, "owner": "bevyengine", "forks": 4350}
 ]

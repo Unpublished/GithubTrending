@@ -1,9 +1,13 @@
 [
-{"description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods", "language": "TypeScript", "repo": "pi-mono", "new_stars": 118, "stars": 2910, "owner": "badlogic", "forks": 355},
-{"description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.", "language": "TypeScript", "repo": "supermemory", "new_stars": 435, "stars": 15789, "owner": "supermemoryai", "forks": 1604},
-{"description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.", "language": "Python", "repo": "mlx-audio", "new_stars": 458, "stars": 5532, "owner": "Blaizzy", "forks": 398},
-{"description": "M3U Playlist for free TV channels", "language": "Python", "repo": "IPTV", "new_stars": 295, "stars": 12784, "owner": "Free-TV", "forks": 1898},
-{"description": "Collection of beautifully crafted open-source layouts UI built with shadcn/ui.", "language": "TypeScript", "repo": "square-ui", "new_stars": 161, "stars": 4575, "owner": "ln-dev7", "forks": 506},
-{"description": "A tool for secrets management, encryption as a service, and privileged access management", "language": "Go", "repo": "vault", "new_stars": 13, "stars": 34243, "owner": "hashicorp", "forks": 4531},
-{"description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.", "language": "Python", "repo": "awesome-llm-apps", "new_stars": 294, "stars": 90504, "owner": "Shubhamsaboo", "forks": 13051}
+{"description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods", "language": "TypeScript", "repo": "pi-mono", "new_stars": 469, "stars": 2926, "owner": "badlogic", "forks": 359},
+{"description": "A tool for secrets management, encryption as a service, and privileged access management", "language": "Go", "repo": "vault", "new_stars": 356, "stars": 34247, "owner": "hashicorp", "forks": 4531},
+{"description": "Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini", "language": "JavaScript", "repo": "system_prompts_leaks", "new_stars": 241, "stars": 25715, "owner": "asgeirtj", "forks": 4008},
+{"description": "Memory for 24/7 proactive agents like moltbot (clawdbot).", "language": "Python", "repo": "memU", "new_stars": 231, "stars": 5237, "owner": "NevaMind-AI", "forks": 368},
+{"description": "Kimi Code CLI is your next CLI agent.", "language": "Python", "repo": "kimi-cli", "new_stars": 293, "stars": 4299, "owner": "MoonshotAI", "forks": 432},
+{"description": "Ingress NGINX Controller for Kubernetes", "language": "Go", "repo": "ingress-nginx", "new_stars": 28, "stars": 19306, "owner": "kubernetes", "forks": 8508},
+{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 8, "stars": 70399, "owner": "protocolbuffers", "forks": 16015},
+{"description": "The ultimate space for work and life \u2014 to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level \u2014 enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.", "language": "TypeScript", "repo": "lobehub", "new_stars": 132, "stars": 70698, "owner": "lobehub", "forks": 14485},
+{"description": "Playstation 2 Static Recompiler & Runtime Tool to make native PC ports", "language": "C++", "repo": "PS2Recomp", "new_stars": 467, "stars": 1227, "owner": "ran-j", "forks": 24},
+{"description": "PC Software for BambuLab and other 3D printers", "language": "C++", "repo": "BambuStudio", "new_stars": 27, "stars": 3741, "owner": "bambulab", "forks": 580},
+{"description": "Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.", "language": "Python", "repo": "Vision-Agents", "new_stars": 89, "stars": 3899, "owner": "GetStream", "forks": 347}
 ]

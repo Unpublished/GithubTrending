@@ -1,15 +1,14 @@
 [
-{"description": "Official inference framework for 1-bit LLMs", "language": "Python", "repo": "BitNet", "new_stars": 137, "stars": 27471, "owner": "microsoft", "forks": 2221},
-{"description": "The absolute trainer to light up AI agents.", "language": "Python", "repo": "agent-lightning", "new_stars": 516, "stars": 12748, "owner": "microsoft", "forks": 1052},
-{"description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.", "language": "Python", "repo": "PaddleOCR", "new_stars": 171, "stars": 69730, "owner": "PaddlePaddle", "forks": 9762},
-{"description": "Kimi Code CLI is your next CLI agent.", "language": "Python", "repo": "kimi-cli", "new_stars": 278, "stars": 5560, "owner": "MoonshotAI", "forks": 516},
-{"description": "TradingAgents: Multi-Agents LLM Financial Trading Framework", "language": "Python", "repo": "TradingAgents", "new_stars": 45, "stars": 28866, "owner": "TauricResearch", "forks": 5532},
-{"description": "Generate audiobooks from e-books, voice cloning & 1158+ languages!", "language": "Python", "repo": "ebook2audiobook", "new_stars": 27, "stars": 17304, "owner": "DrewThomasson", "forks": 1395},
-{"description": "\u56fd\u5bb6\u4e2d\u5c0f\u5b66\u667a\u6167\u6559\u80b2\u5e73\u53f0 \u7535\u5b50\u8bfe\u672c\u4e0b\u8f7d\u5de5\u5177\uff0c\u5e2e\u52a9\u60a8\u4ece\u667a\u6167\u6559\u80b2\u5e73\u53f0\u4e2d\u83b7\u53d6\u7535\u5b50\u8bfe\u672c\u7684 PDF \u6587\u4ef6\u7f51\u5740\u5e76\u8fdb\u884c\u4e0b\u8f7d\uff0c\u8ba9\u60a8\u66f4\u65b9\u4fbf\u5730\u83b7\u53d6\u8bfe\u672c\u5185\u5bb9\u3002", "language": "Python", "repo": "tchMaterial-parser", "new_stars": 23, "stars": 4401, "owner": "happycola233", "forks": 525},
-{"description": "Open-source AI hackers to find and fix your app\u2019s vulnerabilities.", "language": "Python", "repo": "strix", "new_stars": 23, "stars": 19565, "owner": "usestrix", "forks": 2054},
-{"description": "Build multi-agent systems that learn and improve with every interaction.", "language": "Python", "repo": "agno", "new_stars": 40, "stars": 37420, "owner": "agno-agi", "forks": 4956},
-{"description": "AI-Powered Dark Web OSINT Tool", "language": "Python", "repo": "robin", "new_stars": 106, "stars": 3987, "owner": "apurvsinghgautam", "forks": 757},
-{"description": "Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.", "language": "Python", "repo": "Archon", "new_stars": 3, "stars": 13659, "owner": "coleam00", "forks": 2374},
-{"description": "Unified Schema-Based Information Extraction", "language": "Python", "repo": "GLiNER2", "new_stars": 34, "stars": 665, "owner": "fastino-ai", "forks": 64},
-{"description": "Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.", "language": "Python", "repo": "atlassian-mcp-server", "new_stars": 5, "stars": 272, "owner": "atlassian", "forks": 27}
+{"description": "The official source code repository for the calibre ebook manager", "language": "Python", "repo": "calibre", "new_stars": 21, "stars": 23541, "owner": "kovidgoyal", "forks": 2533},
+{"description": "The absolute trainer to light up AI agents.", "language": "Python", "repo": "agent-lightning", "new_stars": 516, "stars": 12769, "owner": "microsoft", "forks": 1053},
+{"description": "[ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling", "language": "Python", "repo": "Stable-Video-Infinity", "new_stars": 25, "stars": 1574, "owner": "vita-epfl", "forks": 127},
+{"description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.", "language": "Python", "repo": "kitty", "new_stars": 17, "stars": 31013, "owner": "kovidgoyal", "forks": 1268},
+{"description": "A community-supported supercharged document management system: scan, index and archive all your documents", "language": "Python", "repo": "paperless-ngx", "new_stars": 36, "stars": 36168, "owner": "paperless-ngx", "forks": 2296},
+{"description": "A feature-rich command-line audio/video downloader", "language": "Python", "repo": "yt-dlp", "new_stars": 176, "stars": 145235, "owner": "yt-dlp", "forks": 11763},
+{"description": "A lightweight tool for integrating and testing SheerID verification workflows. It simplifies API requests, handles responses, and supports eligibility checks for programs like student.", "language": "Python", "repo": "SheerID-Verification-Tool", "new_stars": 35, "stars": 3016, "owner": "ThanhNguyxn", "forks": 518},
+{"description": "The Ethereum Improvement Proposal repository", "language": "Python", "repo": "EIPs", "new_stars": 4, "stars": 13767, "owner": "ethereum", "forks": 6078},
+{"description": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)", "language": "Python", "repo": "whisperX", "new_stars": 18, "stars": 19904, "owner": "m-bain", "forks": 2130},
+{"description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.", "language": "Python", "repo": "zulip", "new_stars": 11, "stars": 24338, "owner": "zulip", "forks": 9477},
+{"description": "Stable Diffusion web UI", "language": "Python", "repo": "stable-diffusion-webui", "new_stars": 32, "stars": 160358, "owner": "AUTOMATIC1111", "forks": 29909},
+{"description": "The best ChatGPT that $100 can buy.", "language": "Python", "repo": "nanochat", "new_stars": 117, "stars": 41177, "owner": "karpathy", "forks": 5343}
 ]

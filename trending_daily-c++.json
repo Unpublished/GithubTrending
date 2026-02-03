@@ -1,12 +1,12 @@
 [
 {"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 62, "stars": 26976, "owner": "notepad-plus-plus", "forks": 5087},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 3, "stars": 30246, "owner": "facebook", "forks": 5846},
-{"description": "ClickHouse\u00ae is a real-time analytics database management system", "language": "C++", "repo": "ClickHouse", "new_stars": 28, "stars": 45622, "owner": "ClickHouse", "forks": 8032},
-{"description": "Share a single keyboard and mouse between multiple computers.", "language": "C++", "repo": "deskflow", "new_stars": 46, "stars": 23626, "owner": "deskflow", "forks": 4432},
+{"description": "ClickHouse\u00ae is a real-time analytics database management system", "language": "C++", "repo": "ClickHouse", "new_stars": 28, "stars": 45623, "owner": "ClickHouse", "forks": 8032},
+{"description": "Share a single keyboard and mouse between multiple computers.", "language": "C++", "repo": "deskflow", "new_stars": 46, "stars": 23627, "owner": "deskflow", "forks": 4431},
 {"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 14, "stars": 48748, "owner": "nlohmann", "forks": 7309},
 {"description": "A cross-platform, reimplementation of Notepad++", "language": "C++", "repo": "NotepadNext", "new_stars": 45, "stars": 13307, "owner": "dail8859", "forks": 805},
-{"description": "Community maintained hardware plugin for vLLM on Ascend", "language": "C++", "repo": "vllm-ascend", "new_stars": 6, "stars": 1631, "owner": "vllm-project", "forks": 798},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 85, "stars": 58127, "owner": "LadybirdBrowser", "forks": 2637},
+{"description": "Community maintained hardware plugin for vLLM on Ascend", "language": "C++", "repo": "vllm-ascend", "new_stars": 6, "stars": 1631, "owner": "vllm-project", "forks": 799},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 85, "stars": 58134, "owner": "LadybirdBrowser", "forks": 2637},
 {"description": "Kernels & AI inference engine for mobile devices.", "language": "C++", "repo": "cactus", "new_stars": 14, "stars": 4197, "owner": "cactus-compute", "forks": 285},
 {"description": "Sega Saturn emulator", "language": "C++", "repo": "Ymir", "new_stars": 2, "stars": 787, "owner": "StrikerX3", "forks": 33},
 {"description": "SDR Rx/Tx software for Airspy, Airspy HF+, BladeRF, HackRF, LimeSDR, PlutoSDR, RTL-SDR, SDRplay and FunCube", "language": "C++", "repo": "sdrangel", "new_stars": 4, "stars": 3620, "owner": "f4exb", "forks": 510},
@@ -16,11 +16,11 @@
 {"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 12, "stars": 25327, "owner": "microsoft", "forks": 1656},
 {"description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT/STUN/TURN server and client framework based on C++11", "language": "C++", "repo": "ZLMediaKit", "new_stars": 9, "stars": 16610, "owner": "ZLMediaKit", "forks": 3944},
 {"description": "NVIDIA Inference Xfer Library (NIXL)", "language": "C++", "repo": "nixl", "new_stars": 3, "stars": 868, "owner": "ai-dynamo", "forks": 237},
-{"description": "Linear optimization software", "language": "C++", "repo": "HiGHS", "new_stars": 3, "stars": 1473, "owner": "ERGO-Code", "forks": 280},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 27, "stars": 87899, "owner": "bitcoin", "forks": 38846},
+{"description": "Linear optimization software", "language": "C++", "repo": "HiGHS", "new_stars": 3, "stars": 1474, "owner": "ERGO-Code", "forks": 280},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 27, "stars": 87901, "owner": "bitcoin", "forks": 38846},
 {"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 2, "stars": 38173, "owner": "google", "forks": 10683},
-{"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 22, "stars": 10131, "owner": "k2-fsa", "forks": 1137},
+{"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 22, "stars": 10132, "owner": "k2-fsa", "forks": 1137},
 {"description": "C++ and Python support for the CUDA Quantum programming model for heterogeneous quantum-classical workflows", "language": "C++", "repo": "cuda-quantum", "new_stars": 2, "stars": 911, "owner": "NVIDIA", "forks": 328},
 {"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 8, "stars": 28250, "owner": "gabime", "forks": 5033},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 21, "stars": 193602, "owner": "tensorflow", "forks": 75203}
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 21, "stars": 193601, "owner": "tensorflow", "forks": 75203}
 ]

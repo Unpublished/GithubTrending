@@ -1,13 +1,10 @@
 [
-{"description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra", "language": "TypeScript", "repo": "UI-TARS-desktop", "new_stars": 541, "stars": 27002, "owner": "bytedance", "forks": 2638},
-{"description": "Skills Catalog for Codex", "language": "Python", "repo": "skills", "new_stars": 583, "stars": 4638, "owner": "openai", "forks": 257},
-{"description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.", "language": "TypeScript", "repo": "claude-mem", "new_stars": 801, "stars": 24142, "owner": "thedotmack", "forks": 1588},
-{"description": "\u26a1 Better `pre-commit`, re-engineered in Rust", "language": "Rust", "repo": "prek", "new_stars": 317, "stars": 5665, "owner": "j178", "forks": 149},
-{"description": "Memory for AI Agents in 6 lines of code", "language": "Python", "repo": "cognee", "new_stars": 256, "stars": 11985, "owner": "topoteretes", "forks": 1172},
-{"description": "An agentic skills framework & software development methodology that works.", "language": "Shell", "repo": "superpowers", "new_stars": 952, "stars": 45961, "owner": "obra", "forks": 3477},
-{"description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more", "language": "Go", "repo": "trivy", "new_stars": 165, "stars": 31449, "owner": "aquasecurity", "forks": 2915},
-{"description": "The user-friendly command line shell.", "language": "Rust", "repo": "fish-shell", "new_stars": 196, "stars": 32486, "owner": "fish-shell", "forks": 2223},
-{"description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions", "language": "Shell", "repo": "nvm", "new_stars": 132, "stars": 91450, "owner": "nvm-sh", "forks": 9828},
-{"description": "\u4e00\u6b3e\u63d0\u793a\u8bcd\u4f18\u5316\u5668\uff0c\u52a9\u529b\u4e8e\u7f16\u5199\u9ad8\u8d28\u91cf\u7684\u63d0\u793a\u8bcd", "language": "TypeScript", "repo": "prompt-optimizer", "new_stars": 329, "stars": 19599, "owner": "linshenkx", "forks": 2417},
-{"description": "Simple Rust VPN Client / Server", "language": "Rust", "repo": "anet", "new_stars": 189, "stars": 468, "owner": "ZeroTworu", "forks": 43}
+{"description": "Skills Catalog for Codex", "language": "Python", "repo": "skills", "new_stars": 583, "stars": 4660, "owner": "openai", "forks": 259},
+{"description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra", "language": "TypeScript", "repo": "UI-TARS-desktop", "new_stars": 541, "stars": 27013, "owner": "bytedance", "forks": 2638},
+{"description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions", "language": "Shell", "repo": "nvm", "new_stars": 132, "stars": 91454, "owner": "nvm-sh", "forks": 9829},
+{"description": "Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code", "language": "TypeScript", "repo": "likec4", "new_stars": 42, "stars": 1674, "owner": "likec4", "forks": 133},
+{"description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more", "language": "Go", "repo": "trivy", "new_stars": 165, "stars": 31460, "owner": "aquasecurity", "forks": 2916},
+{"description": "Simple Rust VPN Client / Server", "language": "Rust", "repo": "anet", "new_stars": 189, "stars": 472, "owner": "ZeroTworu", "forks": 43},
+{"description": null, "language": "Batchfile", "repo": "zapret-discord-youtube", "new_stars": 69, "stars": 21935, "owner": "Flowseal", "forks": 1827},
+{"description": "This is a repo with links to everything you'd ever want to learn about data engineering", "language": "Jupyter Notebook", "repo": "data-engineer-handbook", "new_stars": 72, "stars": 39728, "owner": "DataExpert-io", "forks": 7612}
 ]

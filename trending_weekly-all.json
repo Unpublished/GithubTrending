@@ -1,15 +1,15 @@
 [
-{"description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e", "language": "TypeScript", "repo": "openclaw", "new_stars": 46585, "stars": 175434, "owner": "openclaw", "forks": 28748},
-{"description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.", "language": "TypeScript", "repo": "claude-mem", "new_stars": 8959, "stars": 25152, "owner": "thedotmack", "forks": 1659},
-{"description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.", "language": "TypeScript", "repo": "shannon", "new_stars": 3940, "stars": 11533, "owner": "KeygraphHQ", "forks": 1398},
-{"description": "Skills Catalog for Codex", "language": "Python", "repo": "skills", "new_stars": 3056, "stars": 6685, "owner": "openai", "forks": 377},
-{"description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods", "language": "TypeScript", "repo": "pi-mono", "new_stars": 3968, "stars": 8040, "owner": "badlogic", "forks": 833},
+{"description": "Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.", "language": "TypeScript", "repo": "shannon", "new_stars": 3940, "stars": 11641, "owner": "KeygraphHQ", "forks": 1409},
+{"description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e", "language": "TypeScript", "repo": "openclaw", "new_stars": 46585, "stars": 175524, "owner": "openclaw", "forks": 28774},
+{"description": "Skills Catalog for Codex", "language": "Python", "repo": "skills", "new_stars": 3056, "stars": 6731, "owner": "openai", "forks": 379},
+{"description": "A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.", "language": "TypeScript", "repo": "claude-mem", "new_stars": 8959, "stars": 25184, "owner": "thedotmack", "forks": 1661},
+{"description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods", "language": "TypeScript", "repo": "pi-mono", "new_stars": 3968, "stars": 8042, "owner": "badlogic", "forks": 835},
+{"description": "Master Claude Code Hooks", "language": "Python", "repo": "claude-code-hooks-mastery", "new_stars": 509, "stars": 2695, "owner": "disler", "forks": 529},
 {"description": "Neovim AI agent done right", "language": "Lua", "repo": "99", "new_stars": 1628, "stars": 3493, "owner": "ThePrimeagen", "forks": 158},
-{"description": "Master Claude Code Hooks", "language": "Python", "repo": "claude-code-hooks-mastery", "new_stars": 509, "stars": 2695, "owner": "disler", "forks": 528},
+{"description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration", "language": "Python", "repo": "ChatDev", "new_stars": 1423, "stars": 30538, "owner": "OpenBMB", "forks": 3770},
 {"description": "Agent Orchestration Command Center", "language": "TypeScript", "repo": "Maestro", "new_stars": 1166, "stars": 1989, "owner": "pedramamini", "forks": 187},
-{"description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG", "language": "Python", "repo": "PageIndex", "new_stars": 2978, "stars": 14158, "owner": "VectifyAI", "forks": 1017},
-{"description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration", "language": "Python", "repo": "ChatDev", "new_stars": 1423, "stars": 30536, "owner": "OpenBMB", "forks": 3769},
-{"description": "The best ChatGPT that $100 can buy.", "language": "Python", "repo": "nanochat", "new_stars": 1430, "stars": 42570, "owner": "karpathy", "forks": 5499},
-{"description": "\u26a1 Better `pre-commit`, re-engineered in Rust", "language": "Rust", "repo": "prek", "new_stars": 1720, "stars": 5838, "owner": "j178", "forks": 153},
-{"description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.", "language": "JavaScript", "repo": "playwright-cli", "new_stars": 510, "stars": 2588, "owner": "microsoft", "forks": 105}
+{"description": "The best ChatGPT that $100 can buy.", "language": "Python", "repo": "nanochat", "new_stars": 1430, "stars": 42572, "owner": "karpathy", "forks": 5499},
+{"description": "\ud83d\udcd1 PageIndex: Document Index for Vectorless, Reasoning-based RAG", "language": "Python", "repo": "PageIndex", "new_stars": 2978, "stars": 14166, "owner": "VectifyAI", "forks": 1018},
+{"description": "CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.", "language": "JavaScript", "repo": "playwright-cli", "new_stars": 510, "stars": 2593, "owner": "microsoft", "forks": 105},
+{"description": "\u26a1 Better `pre-commit`, re-engineered in Rust", "language": "Rust", "repo": "prek", "new_stars": 1720, "stars": 5840, "owner": "j178", "forks": 153}
 ]

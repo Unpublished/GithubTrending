@@ -1,18 +1,14 @@
 [
-{"description": "Development at the speed of light", "language": "Rust", "repo": "SpacetimeDB", "new_stars": 2338, "stars": 21670, "owner": "clockworklabs", "forks": 790},
-{"description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.", "language": "Rust", "repo": "ruvector", "new_stars": 1651, "stars": 2185, "owner": "ruvnet", "forks": 223},
+{"description": "WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.", "language": "Rust", "repo": "wifi-densepose", "new_stars": 3680, "stars": 14698, "owner": "ruvnet", "forks": 1516},
+{"description": "Development at the speed of light", "language": "Rust", "repo": "SpacetimeDB", "new_stars": 2338, "stars": 21678, "owner": "clockworklabs", "forks": 791},
+{"description": "RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.", "language": "Rust", "repo": "ruvector", "new_stars": 1651, "stars": 2189, "owner": "ruvnet", "forks": 225},
 {"description": "Plano is an AI-native proxy server and data plane for agentic apps \u2014 centralizing orchestration, safety, observability, and smart LLM routing so you can deliver agents faster.", "language": "Rust", "repo": "plano", "new_stars": 671, "stars": 5797, "owner": "katanemo", "forks": 345},
-{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.", "language": "TypeScript", "repo": "cc-switch", "new_stars": 2619, "stars": 21985, "owner": "farion1231", "forks": 1351},
-{"description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers", "language": "Rust", "repo": "artcraft", "new_stars": 220, "stars": 992, "owner": "storytold", "forks": 82},
-{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 811, "stars": 56091, "owner": "dani-garcia", "forks": 2591},
-{"description": "\ud83e\udd67 Savoury implementation of the QUIC transport protocol and HTTP/3", "language": "Rust", "repo": "quiche", "new_stars": 36, "stars": 11294, "owner": "cloudflare", "forks": 943},
-{"description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust", "language": "Rust", "repo": "rig", "new_stars": 113, "stars": 6179, "owner": "0xPlaygrounds", "forks": 671},
+{"description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs", "language": "Rust", "repo": "vaultwarden", "new_stars": 811, "stars": 56095, "owner": "dani-garcia", "forks": 2591},
+{"description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers", "language": "Rust", "repo": "artcraft", "new_stars": 220, "stars": 998, "owner": "storytold", "forks": 82},
 {"description": "WIP feature rich iOS/tvOS sideloading application written in Rust.", "language": "Rust", "repo": "Impactor", "new_stars": 163, "stars": 1378, "owner": "claration", "forks": 64},
-{"description": "The Magic Mask for Android", "language": "Rust", "repo": "Magisk", "new_stars": 184, "stars": 58974, "owner": "topjohnwu", "forks": 16857},
-{"description": "A free, open source, and extensible speech-to-text application that works completely offline.", "language": "Rust", "repo": "Handy", "new_stars": 760, "stars": 16425, "owner": "cjpais", "forks": 1150},
-{"description": "PostgreSQL connection pooler, load balancer and database sharder.", "language": "Rust", "repo": "pgdog", "new_stars": 666, "stars": 4037, "owner": "pgdogdev", "forks": 147},
-{"description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.", "language": "Rust", "repo": "Ferrite", "new_stars": 140, "stars": 1185, "owner": "OlaProeis", "forks": 50},
+{"description": "\u2699\ufe0f\ud83e\udd80 Build modular and scalable LLM Applications in Rust", "language": "Rust", "repo": "rig", "new_stars": 113, "stars": 6179, "owner": "0xPlaygrounds", "forks": 671},
 {"description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant", "language": "Rust", "repo": "wasmtime", "new_stars": 46, "stars": 17657, "owner": "bytecodealliance", "forks": 1633},
-{"description": "Standalone Roblox Studio MCP Server", "language": "Rust", "repo": "studio-rust-mcp-server", "new_stars": 52, "stars": 373, "owner": "Roblox", "forks": 60},
-{"description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.", "language": "Rust", "repo": "aichat", "new_stars": 82, "stars": 9421, "owner": "sigoden", "forks": 622}
+{"description": "The Magic Mask for Android", "language": "Rust", "repo": "Magisk", "new_stars": 184, "stars": 58975, "owner": "topjohnwu", "forks": 16857},
+{"description": "Boa is an embeddable Javascript engine written in Rust.", "language": "Rust", "repo": "boa", "new_stars": 52, "stars": 6954, "owner": "boa-dev", "forks": 565},
+{"description": "A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.", "language": "Rust", "repo": "Ferrite", "new_stars": 140, "stars": 1187, "owner": "OlaProeis", "forks": 50}
 ]

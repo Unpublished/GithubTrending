@@ -1,15 +1,15 @@
 [
-{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 184, "stars": 63789, "owner": "openai", "forks": 8493},
+{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 184, "stars": 63798, "owner": "openai", "forks": 8494},
 {"description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration", "language": "Rust", "repo": "ralph-orchestrator", "new_stars": 18, "stars": 2108, "owner": "mikeyobrien", "forks": 207},
-{"description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows", "language": "Rust", "repo": "worktrunk", "new_stars": 81, "stars": 2925, "owner": "max-sixty", "forks": 97},
+{"description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows", "language": "Rust", "repo": "worktrunk", "new_stars": 81, "stars": 2927, "owner": "max-sixty", "forks": 97},
 {"description": "Fast, Declarative, Reproducible, and Composable Developer Environments using Nix", "language": "Rust", "repo": "devenv", "new_stars": 15, "stars": 6452, "owner": "cachix", "forks": 471},
-{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 51, "stars": 108830, "owner": "rustdesk", "forks": 16211},
+{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 51, "stars": 108832, "owner": "rustdesk", "forks": 16213},
 {"description": "The Rust Programming Language", "language": "Rust", "repo": "book", "new_stars": 4, "stars": 17474, "owner": "rust-lang", "forks": 3965},
 {"description": "A Git extension for tracking the AI-generated code in your repos", "language": "Rust", "repo": "git-ai", "new_stars": 5, "stars": 1260, "owner": "git-ai-project", "forks": 91},
 {"description": "\u2b50\ufe0f A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.", "language": "Rust", "repo": "cc-switch-cli", "new_stars": 18, "stars": 836, "owner": "SaladDay", "forks": 48},
 {"description": "A syntax-highlighting pager for git, diff, grep, and blame output", "language": "Rust", "repo": "delta", "new_stars": 36, "stars": 29384, "owner": "dandavison", "forks": 473},
 {"description": "Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust", "language": "Rust", "repo": "reth", "new_stars": 4, "stars": 5459, "owner": "paradigmxyz", "forks": 2326},
 {"description": "zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.", "language": "Rust", "repo": "zenoh", "new_stars": 5, "stars": 2535, "owner": "eclipse-zenoh", "forks": 261},
-{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 6, "stars": 25542, "owner": "TheAlgorithms", "forks": 2537},
+{"description": "All Algorithms implemented in Rust", "language": "Rust", "repo": "Rust", "new_stars": 6, "stars": 25543, "owner": "TheAlgorithms", "forks": 2537},
 {"description": "DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.", "language": "Rust", "repo": "dora", "new_stars": 13, "stars": 3008, "owner": "dora-rs", "forks": 319}
 ]

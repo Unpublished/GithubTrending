@@ -1,8 +1,8 @@
 [
-{"description": "A lightweight, lightning-fast, in-process vector database", "language": "C++", "repo": "zvec", "new_stars": 7935, "stars": 8955, "owner": "alibaba", "forks": 506},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 3289, "stars": 98050, "owner": "ggml-org", "forks": 15522},
-{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 2968, "stars": 61309, "owner": "LadybirdBrowser", "forks": 2868},
-{"description": "Mod loader, scripting platform, and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 368, "stars": 4772, "owner": "praydog", "forks": 515},
+{"description": "A lightweight, lightning-fast, in-process vector database", "language": "C++", "repo": "zvec", "new_stars": 7935, "stars": 8956, "owner": "alibaba", "forks": 506},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 3289, "stars": 98053, "owner": "ggml-org", "forks": 15522},
+{"description": "Truly independent web browser", "language": "C++", "repo": "ladybird", "new_stars": 2968, "stars": 61311, "owner": "LadybirdBrowser", "forks": 2869},
+{"description": "Mod loader, scripting platform, and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 368, "stars": 4772, "owner": "praydog", "forks": 516},
 {"description": "The ultimate Geometry Dash modding framework", "language": "C++", "repo": "geode", "new_stars": 377, "stars": 2017, "owner": "geode-sdk", "forks": 368},
 {"description": "llama.cpp fork with additional SOTA quants and improved performance", "language": "C++", "repo": "ik_llama.cpp", "new_stars": 191, "stars": 1816, "owner": "ikawrakow", "forks": 224},
 {"description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization", "language": "C++", "repo": "LiteRT", "new_stars": 461, "stars": 1934, "owner": "google-ai-edge", "forks": 237},
@@ -12,14 +12,14 @@
 {"description": "Train, inspect, edit, automate, and export 3D Gaussian Splatting scenes from a single native application.", "language": "C++", "repo": "LichtFeld-Studio", "new_stars": 286, "stars": 2541, "owner": "MrNeRF", "forks": 270},
 {"description": "The 7-Zip derivative intended for the modern Windows experience", "language": "C++", "repo": "NanaZip", "new_stars": 524, "stars": 13601, "owner": "M2Team", "forks": 340},
 {"description": "Tensor library for machine learning", "language": "C++", "repo": "ggml", "new_stars": 303, "stars": 14226, "owner": "ggml-org", "forks": 1518},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 534, "stars": 102198, "owner": "microsoft", "forks": 9131},
-{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 575, "stars": 24515, "owner": "ml-explore", "forks": 1577},
+{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 534, "stars": 102199, "owner": "microsoft", "forks": 9131},
+{"description": "MLX: An array framework for Apple silicon", "language": "C++", "repo": "mlx", "new_stars": 575, "stars": 24517, "owner": "ml-explore", "forks": 1576},
 {"description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.", "language": "C++", "repo": "MNN", "new_stars": 356, "stars": 14544, "owner": "alibaba", "forks": 2240},
 {"description": "OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly", "language": "C++", "repo": "OB-Xf", "new_stars": 87, "stars": 401, "owner": "surge-synthesizer", "forks": 25},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 359, "stars": 12895, "owner": "OrcaSlicer", "forks": 1857},
-{"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 193, "stars": 25535, "owner": "microsoft", "forks": 1689},
+{"description": "WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).", "language": "C++", "repo": "winget-cli", "new_stars": 193, "stars": 25536, "owner": "microsoft", "forks": 1689},
 {"description": "Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.", "language": "C++", "repo": "Serial-Studio", "new_stars": 276, "stars": 6704, "owner": "Serial-Studio", "forks": 1007},
 {"description": "Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.", "language": "C++", "repo": "kuzu", "new_stars": 136, "stars": 3776, "owner": "kuzudb", "forks": 427},
 {"description": "Production ready toolkit to run AI locally", "language": "C++", "repo": "runanywhere-sdks", "new_stars": 2824, "stars": 10257, "owner": "RunanywhereAI", "forks": 309},
-{"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 216, "stars": 13545, "owner": "hrydgard", "forks": 2453}
+{"description": "A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 216, "stars": 13545, "owner": "hrydgard", "forks": 2454}
 ]

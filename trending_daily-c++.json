@@ -1,14 +1,14 @@
 [
-{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 237, "stars": 30028, "owner": "shadps4-emu", "forks": 2036},
-{"description": "The JavaScript / Wasm runtime that powers Cloudflare Workers", "language": "C++", "repo": "workerd", "new_stars": 260, "stars": 7962, "owner": "cloudflare", "forks": 587},
-{"description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC", "language": "C++", "repo": "GR00T-WholeBodyControl", "new_stars": 22, "stars": 1206, "owner": "NVlabs", "forks": 140},
+{"description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 237, "stars": 30048, "owner": "shadps4-emu", "forks": 2038},
+{"description": "The JavaScript / Wasm runtime that powers Cloudflare Workers", "language": "C++", "repo": "workerd", "new_stars": 260, "stars": 7963, "owner": "cloudflare", "forks": 587},
+{"description": "Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC", "language": "C++", "repo": "GR00T-WholeBodyControl", "new_stars": 22, "stars": 1208, "owner": "NVlabs", "forks": 140},
 {"description": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II\u2122 (\u00a9 Bluebyte) but has significantly more variety and depth to it.", "language": "C++", "repo": "widelands", "new_stars": 150, "stars": 2635, "owner": "widelands", "forks": 193},
-{"description": "cuDF - GPU DataFrame Library", "language": "C++", "repo": "cudf", "new_stars": 14, "stars": 9565, "owner": "rapidsai", "forks": 1028},
-{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 21, "stars": 18092, "owner": "Atmosphere-NX", "forks": 1417},
-{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 28, "stars": 120546, "owner": "electron", "forks": 17062},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 19, "stars": 30243, "owner": "telegramdesktop", "forks": 6413},
-{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 14, "stars": 11174, "owner": "colmap", "forks": 1934},
-{"description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.", "language": "C++", "repo": "mixxx", "new_stars": 5, "stars": 6483, "owner": "mixxxdj", "forks": 1671},
+{"description": "cuDF - GPU DataFrame Library", "language": "C++", "repo": "cudf", "new_stars": 14, "stars": 9566, "owner": "rapidsai", "forks": 1028},
+{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 21, "stars": 18093, "owner": "Atmosphere-NX", "forks": 1417},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 28, "stars": 120547, "owner": "electron", "forks": 17063},
+{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 19, "stars": 30244, "owner": "telegramdesktop", "forks": 6412},
+{"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 14, "stars": 11175, "owner": "colmap", "forks": 1934},
+{"description": "Mixxx is Free DJ software that gives you everything you need to perform live mixes.", "language": "C++", "repo": "mixxx", "new_stars": 5, "stars": 6482, "owner": "mixxxdj", "forks": 1671},
 {"description": "Simulationcraft engine/GUI", "language": "C++", "repo": "simc", "new_stars": 0, "stars": 1533, "owner": "simulationcraft", "forks": 758},
 {"description": "High-performance, light-weight C++ LLM and VLM Inference Software for Physical AI", "language": "C++", "repo": "TensorRT-Edge-LLM", "new_stars": 8, "stars": 293, "owner": "NVIDIA", "forks": 40},
 {"description": "super repo for rocm systems projects", "language": "C++", "repo": "rocm-systems", "new_stars": 3, "stars": 314, "owner": "ROCm", "forks": 177},
@@ -19,5 +19,5 @@
 {"description": "A machine learning compiler for GPUs, CPUs, and ML accelerators", "language": "C++", "repo": "xla", "new_stars": 5, "stars": 4094, "owner": "openxla", "forks": 763},
 {"description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages", "language": "C++", "repo": "sherpa-onnx", "new_stars": 33, "stars": 10901, "owner": "k2-fsa", "forks": 1237},
 {"description": "Free self-driving car stack - fully open-source ADAS and autonomous driving system", "language": "C++", "repo": "autoware_vision_pilot", "new_stars": 8, "stars": 388, "owner": "autowarefoundation", "forks": 85},
-{"description": "SONiC Switch State Service (SwSS)", "language": "C++", "repo": "sonic-swss", "new_stars": 0, "stars": 218, "owner": "sonic-net", "forks": 682}
+{"description": "SONiC Switch State Service (SwSS)", "language": "C++", "repo": "sonic-swss", "new_stars": 0, "stars": 218, "owner": "sonic-net", "forks": 683}
 ]

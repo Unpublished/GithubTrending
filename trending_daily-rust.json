@@ -1,17 +1,14 @@
 [
-{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 48, "stars": 30124, "owner": "zellij-org", "forks": 1039},
-{"description": "\u26a1A CLI tool for code structural search, lint and rewriting. Written in Rust", "language": "Rust", "repo": "ast-grep", "new_stars": 26, "stars": 12963, "owner": "ast-grep", "forks": 328},
-{"description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.", "language": "Rust", "repo": "screenpipe", "new_stars": 18, "stars": 17289, "owner": "screenpipe", "forks": 1464},
-{"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 6, "stars": 21277, "owner": "gleam-lang", "forks": 934},
-{"description": "A Git-compatible VCS that is both simple and powerful", "language": "Rust", "repo": "jj", "new_stars": 88, "stars": 27058, "owner": "jj-vcs", "forks": 968},
-{"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 18, "stars": 29897, "owner": "iced-rs", "forks": 1526},
-{"description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.", "language": "Rust", "repo": "glazewm", "new_stars": 26, "stars": 11649, "owner": "glzr-io", "forks": 354},
-{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 43, "stars": 25813, "owner": "jdx", "forks": 961},
-{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 138, "stars": 34734, "owner": "sxyazi", "forks": 765},
-{"description": "A Datacenter Scale Distributed Inference Serving Framework", "language": "Rust", "repo": "dynamo", "new_stars": 27, "stars": 6329, "owner": "ai-dynamo", "forks": 935},
-{"description": "Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs.", "language": "Rust", "repo": "kata-containers", "new_stars": 2, "stars": 7621, "owner": "kata-containers", "forks": 1276},
+{"description": "Generate any location from the real world in Minecraft with a high level of detail.", "language": "Rust", "repo": "arnis", "new_stars": 918, "stars": 10127, "owner": "louis-e", "forks": 931},
 {"description": "the blockchain for payments", "language": "Rust", "repo": "tempo", "new_stars": 4, "stars": 862, "owner": "tempoxyz", "forks": 250},
-{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 22, "stars": 33113, "owner": "firecracker-microvm", "forks": 2303},
-{"description": "A GPU-accelerated cross-platform terminal emulator and multiplexer written by", "language": "Rust", "repo": "wezterm", "new_stars": 28, "stars": 24990, "owner": "wezterm", "forks": 1275},
-{"description": "opensource secure local-first sandboxes for ai agents", "language": "Rust", "repo": "microsandbox", "new_stars": 16, "stars": 5033, "owner": "zerocore-ai", "forks": 236}
+{"description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.", "language": "Rust", "repo": "yazi", "new_stars": 138, "stars": 34735, "owner": "sxyazi", "forks": 765},
+{"description": "screenpipe turns your computer into a personal AI that knows everything you've done. record. search. automate. all local, all private, all yours.", "language": "Rust", "repo": "screenpipe", "new_stars": 18, "stars": 17288, "owner": "screenpipe", "forks": 1464},
+{"description": "GlazeWM is a tiling window manager for Windows inspired by i3wm.", "language": "Rust", "repo": "glazewm", "new_stars": 26, "stars": 11651, "owner": "glzr-io", "forks": 354},
+{"description": "Secure and fast microVMs for serverless computing.", "language": "Rust", "repo": "firecracker", "new_stars": 22, "stars": 33115, "owner": "firecracker-microvm", "forks": 2303},
+{"description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!", "language": "Rust", "repo": "gleam", "new_stars": 6, "stars": 21277, "owner": "gleam-lang", "forks": 934},
+{"description": "Data transformation framework for AI. Ultra performant, with incremental processing. \ud83c\udf1f Star if you like it!", "language": "Rust", "repo": "cocoindex", "new_stars": 35, "stars": 6548, "owner": "cocoindex-io", "forks": 477},
+{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 595, "stars": 30360, "owner": "farion1231", "forks": 1831},
+{"description": "An open source payments switch written in Rust to make payments fast, reliable and affordable", "language": "Rust", "repo": "hyperswitch", "new_stars": 22, "stars": 41698, "owner": "juspay", "forks": 4581},
+{"description": "A Datacenter Scale Distributed Inference Serving Framework", "language": "Rust", "repo": "dynamo", "new_stars": 27, "stars": 6330, "owner": "ai-dynamo", "forks": 935},
+{"description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.", "language": "Rust", "repo": "rathole", "new_stars": 17, "stars": 13017, "owner": "rathole-org", "forks": 712}
 ]

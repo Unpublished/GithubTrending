@@ -1,15 +1,16 @@
 [
-{"description": "run agents that work for you in the background based on what you do", "language": "Rust", "repo": "screenpipe", "new_stars": 393, "stars": 17955, "owner": "screenpipe", "forks": 1587},
-{"description": "\u2604\ud83c\udf0c\ufe0f The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 522, "stars": 55714, "owner": "starship", "forks": 2445},
-{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 551, "stars": 30936, "owner": "zellij-org", "forks": 1084},
+{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 3796, "stars": 72528, "owner": "openai", "forks": 10148},
+{"description": "run agents that work for you in the background based on what you do", "language": "Rust", "repo": "screenpipe", "new_stars": 393, "stars": 17961, "owner": "screenpipe", "forks": 1587},
+{"description": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models", "language": "Rust", "repo": "forgecode", "new_stars": 497, "stars": 5666, "owner": "antinomyhq", "forks": 1253},
+{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 3724, "stars": 37764, "owner": "farion1231", "forks": 2299},
+{"description": "\u2604\ud83c\udf0c\ufe0f The minimal, blazing-fast, and infinitely customizable prompt for any shell!", "language": "Rust", "repo": "starship", "new_stars": 522, "stars": 55718, "owner": "starship", "forks": 2446},
+{"description": "A terminal workspace with batteries included", "language": "Rust", "repo": "zellij", "new_stars": 551, "stars": 30939, "owner": "zellij-org", "forks": 1084},
 {"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 124, "stars": 106451, "owner": "denoland", "forks": 5989},
-{"description": "\ud83e\udd8e a tool to build and deploy software on many servers \ud83e\udd8e", "language": "Rust", "repo": "komodo", "new_stars": 137, "stars": 10787, "owner": "moghtech", "forks": 289},
-{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 3724, "stars": 37700, "owner": "farion1231", "forks": 2294},
-{"description": "Expose your local web server to the internet with a public URL.", "language": "Rust", "repo": "tunnelto", "new_stars": 209, "stars": 6478, "owner": "agrinman", "forks": 502},
-{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 3796, "stars": 72456, "owner": "openai", "forks": 10143},
-{"description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS", "language": "Rust", "repo": "fff.nvim", "new_stars": 154, "stars": 2629, "owner": "dmtrKovalenko", "forks": 110},
-{"description": "ML-powered manga translator, written in Rust.", "language": "Rust", "repo": "koharu", "new_stars": 486, "stars": 1676, "owner": "mayocream", "forks": 79},
-{"description": "An improved implementation of the Ralph Wiggum technique for autonomous AI agent orchestration", "language": "Rust", "repo": "ralph-orchestrator", "new_stars": 120, "stars": 2436, "owner": "mikeyobrien", "forks": 231},
+{"description": "Expose your local web server to the internet with a public URL.", "language": "Rust", "repo": "tunnelto", "new_stars": 209, "stars": 6479, "owner": "agrinman", "forks": 502},
+{"description": "Chromium running inside your terminal", "language": "Rust", "repo": "carbonyl", "new_stars": 895, "stars": 17751, "owner": "fathyb", "forks": 441},
+{"description": "ML-powered manga translator, written in Rust.", "language": "Rust", "repo": "koharu", "new_stars": 486, "stars": 1681, "owner": "mayocream", "forks": 79},
 {"description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.", "language": "Rust", "repo": "aichat", "new_stars": 125, "stars": 9736, "owner": "sigoden", "forks": 677},
-{"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 269, "stars": 33279, "owner": "TabbyML", "forks": 1716}
+{"description": "\ud83e\udd8e a tool to build and deploy software on many servers \ud83e\udd8e", "language": "Rust", "repo": "komodo", "new_stars": 137, "stars": 10787, "owner": "moghtech", "forks": 289},
+{"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 269, "stars": 33280, "owner": "TabbyML", "forks": 1716},
+{"description": "A syntax-highlighting pager for git, diff, grep, and blame output", "language": "Rust", "repo": "delta", "new_stars": 199, "stars": 29855, "owner": "dandavison", "forks": 489}
 ]

@@ -1,18 +1,18 @@
 [
 {"description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte", "language": "Rust", "repo": "gitbutler", "new_stars": 110, "stars": 20299, "owner": "gitbutlerapp", "forks": 903},
-{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 277, "stars": 24791, "owner": "rustfs", "forks": 1065},
-{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 75, "stars": 83086, "owner": "astral-sh", "forks": 2932},
+{"description": "\ud83d\ude802.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.", "language": "Rust", "repo": "rustfs", "new_stars": 277, "stars": 24802, "owner": "rustfs", "forks": 1065},
+{"description": "An extremely fast Python package and project manager, written in Rust.", "language": "Rust", "repo": "uv", "new_stars": 75, "stars": 83088, "owner": "astral-sh", "forks": 2932},
 {"description": "The official Rust SDK for the Model Context Protocol", "language": "Rust", "repo": "rust-sdk", "new_stars": 9, "stars": 3283, "owner": "modelcontextprotocol", "forks": 497},
 {"description": "Self-hosted AI coding assistant", "language": "Rust", "repo": "tabby", "new_stars": 26, "stars": 33399, "owner": "TabbyML", "forks": 1734},
 {"description": "A cross-platform GUI library for Rust, inspired by Elm", "language": "Rust", "repo": "iced", "new_stars": 21, "stars": 30149, "owner": "iced-rs", "forks": 1555},
 {"description": "A Git extension for tracking the AI-generated code in your repos", "language": "Rust", "repo": "git-ai", "new_stars": 13, "stars": 1552, "owner": "git-ai-project", "forks": 136},
 {"description": "Graph-structured Indices for Scalable, Fast, Fresh and Filtered Approximate Nearest Neighbor Search", "language": "Rust", "repo": "DiskANN", "new_stars": 0, "stars": 1751, "owner": "microsoft", "forks": 399},
-{"description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS", "language": "Rust", "repo": "fff.nvim", "new_stars": 290, "stars": 4447, "owner": "dmtrKovalenko", "forks": 181},
-{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 62, "stars": 111004, "owner": "rustdesk", "forks": 16625},
-{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 208, "stars": 74632, "owner": "openai", "forks": 10546},
-{"description": "Get 10X more out of Claude Code, Codex or any coding agent", "language": "Rust", "repo": "vibe-kanban", "new_stars": 62, "stars": 24833, "owner": "BloopAI", "forks": 2490},
+{"description": "The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS", "language": "Rust", "repo": "fff.nvim", "new_stars": 290, "stars": 4448, "owner": "dmtrKovalenko", "forks": 181},
+{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 62, "stars": 111007, "owner": "rustdesk", "forks": 16626},
+{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 208, "stars": 74635, "owner": "openai", "forks": 10548},
+{"description": "Get 10X more out of Claude Code, Codex or any coding agent", "language": "Rust", "repo": "vibe-kanban", "new_stars": 62, "stars": 24835, "owner": "BloopAI", "forks": 2489},
 {"description": "Apache OpenDAL: One Layer, All Storage.", "language": "Rust", "repo": "opendal", "new_stars": 3, "stars": 4996, "owner": "apache", "forks": 732},
 {"description": "The Parity Polkadot Blockchain SDK", "language": "Rust", "repo": "polkadot-sdk", "new_stars": 0, "stars": 2743, "owner": "paritytech", "forks": 1178},
-{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 522, "stars": 42943, "owner": "farion1231", "forks": 2703},
-{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 17, "stars": 106439, "owner": "denoland", "forks": 6007}
+{"description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.", "language": "Rust", "repo": "cc-switch", "new_stars": 522, "stars": 42949, "owner": "farion1231", "forks": 2703},
+{"description": "A modern runtime for JavaScript and TypeScript.", "language": "Rust", "repo": "deno", "new_stars": 17, "stars": 106442, "owner": "denoland", "forks": 6007}
 ]

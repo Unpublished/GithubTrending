@@ -1,17 +1,17 @@
 [
 {"description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 115, "stars": 17472, "owner": "doitsujin", "forks": 1153},
-{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 163, "stars": 31603, "owner": "shadps4-emu", "forks": 2261},
-{"description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.", "language": "C++", "repo": "OptiScaler", "new_stars": 169, "stars": 9008, "owner": "optiscaler", "forks": 326},
+{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 163, "stars": 31604, "owner": "shadps4-emu", "forks": 2261},
+{"description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.", "language": "C++", "repo": "OptiScaler", "new_stars": 169, "stars": 9009, "owner": "optiscaler", "forks": 326},
 {"description": "The NVIDIA VSS Blueprint is a suite of reference architectures for building GPU-accelerated vision agents and AI-powered video analytics applications.", "language": "C++", "repo": "video-search-and-summarization", "new_stars": 115, "stars": 1687, "owner": "NVIDIA-AI-Blueprints", "forks": 340},
 {"description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.", "language": "C++", "repo": "dolphin", "new_stars": 57, "stars": 15196, "owner": "dolphin-emu", "forks": 3137},
 {"description": "Community maintained hardware plugin for vLLM on Ascend", "language": "C++", "repo": "vllm-ascend", "new_stars": 45, "stars": 2321, "owner": "vllm-project", "forks": 1498},
 {"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 91, "stars": 12063, "owner": "colmap", "forks": 2054},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 647, "stars": 195997, "owner": "tensorflow", "forks": 75219},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 647, "stars": 195996, "owner": "tensorflow", "forks": 75219},
 {"description": "A fast and flexible implementation of Rigid Body Dynamics algorithms and their analytical derivatives", "language": "C++", "repo": "pinocchio", "new_stars": 44, "stars": 3530, "owner": "stack-of-tasks", "forks": 551},
-{"description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32", "language": "C++", "repo": "ESP32Marauder", "new_stars": 178, "stars": 11401, "owner": "justcallmekoko", "forks": 1316},
+{"description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32", "language": "C++", "repo": "ESP32Marauder", "new_stars": 178, "stars": 11402, "owner": "justcallmekoko", "forks": 1316},
 {"description": "cuDF - GPU DataFrame Library", "language": "C++", "repo": "cudf", "new_stars": 12, "stars": 9691, "owner": "rapidsai", "forks": 1075},
-{"description": "Official FUTO Keyboard Issue Tracker and Source Mirror of", "language": "C++", "repo": "android-keyboard", "new_stars": 100, "stars": 2785, "owner": "futo-org", "forks": 187},
-{"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 35, "stars": 44940, "owner": "grpc", "forks": 11166},
+{"description": "Official FUTO Keyboard Issue Tracker and Source Mirror of", "language": "C++", "repo": "android-keyboard", "new_stars": 100, "stars": 2786, "owner": "futo-org", "forks": 187},
+{"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 35, "stars": 44941, "owner": "grpc", "forks": 11167},
 {"description": "Free and Open Source Reverse Engineering Platform powered by rizin", "language": "C++", "repo": "cutter", "new_stars": 177, "stars": 19240, "owner": "rizinorg", "forks": 1413},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 15, "stars": 10262, "owner": "google", "forks": 1769},
 {"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 53, "stars": 15050, "owner": "PCSX2", "forks": 2032},
@@ -19,5 +19,5 @@
 {"description": "Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow", "language": "C++", "repo": "xgboost", "new_stars": 34, "stars": 28516, "owner": "dmlc", "forks": 8877},
 {"description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation", "language": "C++", "repo": "luanti", "new_stars": 108, "stars": 13108, "owner": "luanti-org", "forks": 2365},
 {"description": "An open source, turn-based strategy game with a high fantasy theme.", "language": "C++", "repo": "wesnoth", "new_stars": 46, "stars": 6744, "owner": "wesnoth", "forks": 1208},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 33, "stars": 38753, "owner": "google", "forks": 10810}
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 33, "stars": 38753, "owner": "google", "forks": 10811}
 ]

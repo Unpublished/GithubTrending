@@ -1,3 +1,27 @@
 [
-
+{"description": "An open-source 3DS emulator project based on Citra.", "language": "C++", "repo": "azahar", "new_stars": 15, "stars": 7606, "owner": "azahar-emu", "forks": 551},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 601, "stars": 21264, "owner": "catchorg", "forks": 3444},
+{"description": "LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization", "language": "C++", "repo": "LiteRT", "new_stars": 131, "stars": 2944, "owner": "google-ai-edge", "forks": 382},
+{"description": "Mesh optimization library that makes meshes smaller and faster to render", "language": "C++", "repo": "meshoptimizer", "new_stars": 103, "stars": 8176, "owner": "zeux", "forks": 788},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 129, "stars": 120143, "owner": "ggml-org", "forks": 20509},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 9, "stars": 38802, "owner": "google", "forks": 10829},
+{"description": "Fast and local neural text-to-speech engine", "language": "C++", "repo": "piper1-gpl", "new_stars": 15, "stars": 4761, "owner": "OHF-Voice", "forks": 455},
+{"description": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.", "language": "C++", "repo": "LiteRT-LM", "new_stars": 13, "stars": 5869, "owner": "google-ai-edge", "forks": 623},
+{"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 56, "stars": 6160, "owner": "chriskohlhoff", "forks": 1510},
+{"description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.", "language": "C++", "repo": "xbmc", "new_stars": 8, "stars": 20958, "owner": "xbmc", "forks": 6562},
+{"description": "Godot Engine \u2013 Multi-platform 2D and 3D game engine", "language": "C++", "repo": "godot", "new_stars": 78, "stars": 114001, "owner": "godotengine", "forks": 25971},
+{"description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32", "language": "C++", "repo": "ESP32Marauder", "new_stars": 18, "stars": 11534, "owner": "justcallmekoko", "forks": 1341},
+{"description": "PS4 & PS5 emulator", "language": "C++", "repo": "Kyty", "new_stars": 32, "stars": 2688, "owner": "InoriRus", "forks": 165},
+{"description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.", "language": "C++", "repo": "firmware", "new_stars": 8, "stars": 7909, "owner": "meshtastic", "forks": 2516},
+{"description": "PCSX2 - The Playstation 2 Emulator", "language": "C++", "repo": "pcsx2", "new_stars": 10, "stars": 15124, "owner": "PCSX2", "forks": 2054},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 373, "stars": 17940, "owner": "abseil", "forks": 3217},
+{"description": "Run LLMs on AMD Ryzen\u2122 AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.", "language": "C++", "repo": "FastFlowLM", "new_stars": 8, "stars": 1588, "owner": "FastFlowLM", "forks": 118},
+{"description": "Emscripten: An LLVM-to-WebAssembly Compiler", "language": "C++", "repo": "emscripten", "new_stars": 2, "stars": 27487, "owner": "emscripten-core", "forks": 3532},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 40, "stars": 39160, "owner": "LizardByte", "forks": 2093},
+{"description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.", "language": "C++", "repo": "OptiScaler", "new_stars": 24, "stars": 9186, "owner": "optiscaler", "forks": 336},
+{"description": "Predatory ESP32 Firmware", "language": "C++", "repo": "firmware", "new_stars": 9, "stars": 6086, "owner": "BruceDevices", "forks": 2027},
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 12, "stars": 12887, "owner": "amnezia-vpn", "forks": 976},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 28, "stars": 38759, "owner": "qbittorrent", "forks": 4772},
+{"description": "The official mirror of the V8 Git repository", "language": "C++", "repo": "v8", "new_stars": 4, "stars": 25107, "owner": "v8", "forks": 4294},
+{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 47, "stars": 31825, "owner": "shadps4-emu", "forks": 2295}
 ]

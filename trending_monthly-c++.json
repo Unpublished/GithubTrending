@@ -1,7 +1,7 @@
 [
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1007, "stars": 74765, "owner": "ocornut", "forks": 11914},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 391, "stars": 29184, "owner": "gabime", "forks": 5247},
-{"description": "A lightweight, lightning-fast, in-process vector database", "language": "C++", "repo": "zvec", "new_stars": 4311, "stars": 15088, "owner": "alibaba", "forks": 945},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 1007, "stars": 74767, "owner": "ocornut", "forks": 11914},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 391, "stars": 29185, "owner": "gabime", "forks": 5247},
+{"description": "A lightweight, lightning-fast, in-process vector database", "language": "C++", "repo": "zvec", "new_stars": 4311, "stars": 15092, "owner": "alibaba", "forks": 946},
 {"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 774, "stars": 17971, "owner": "abseil", "forks": 3139},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 925, "stars": 21231, "owner": "catchorg", "forks": 3344},
 {"description": "F\u00b4 - A flight software and embedded systems framework", "language": "C++", "repo": "fprime", "new_stars": 637, "stars": 11529, "owner": "nasa", "forks": 1668},
@@ -11,15 +11,15 @@
 {"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 419, "stars": 45178, "owner": "grpc", "forks": 11228},
 {"description": "Port of OpenAI's Whisper model in C/C++", "language": "C++", "repo": "whisper.cpp", "new_stars": 1179, "stars": 51839, "owner": "ggml-org", "forks": 5823},
 {"description": "COLMAP - Structure-from-Motion and Multi-View Stereo", "language": "C++", "repo": "colmap", "new_stars": 310, "stars": 12245, "owner": "colmap", "forks": 2083},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1896, "stars": 196338, "owner": "tensorflow", "forks": 75555},
-{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 550, "stars": 89640, "owner": "bitcoin", "forks": 39093},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 173, "stars": 38833, "owner": "google", "forks": 10832},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 1896, "stars": 196341, "owner": "tensorflow", "forks": 75557},
+{"description": "Bitcoin Core integration/staging tree", "language": "C++", "repo": "bitcoin", "new_stars": 550, "stars": 89641, "owner": "bitcoin", "forks": 39093},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 173, "stars": 38833, "owner": "google", "forks": 10833},
 {"description": "Community maintained hardware plugin for vLLM on Ascend", "language": "C++", "repo": "vllm-ascend", "new_stars": 273, "stars": 2431, "owner": "vllm-project", "forks": 1690},
 {"description": "Emscripten: An LLVM-to-WebAssembly Compiler", "language": "C++", "repo": "emscripten", "new_stars": 102, "stars": 27510, "owner": "emscripten-core", "forks": 3532},
 {"description": "An open-source C++ library developed and used at Facebook.", "language": "C++", "repo": "folly", "new_stars": 87, "stars": 30468, "owner": "facebook", "forks": 5863},
 {"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 348, "stars": 33628, "owner": "SerenityOS", "forks": 3421},
 {"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 331, "stars": 6100, "owner": "chriskohlhoff", "forks": 1422},
-{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 728, "stars": 32065, "owner": "shadps4-emu", "forks": 2321},
-{"description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra", "language": "C++", "repo": "cutlass", "new_stars": 195, "stars": 10095, "owner": "NVIDIA", "forks": 1966},
-{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 276, "stars": 5879, "owner": "kvcache-ai", "forks": 975}
+{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 728, "stars": 32068, "owner": "shadps4-emu", "forks": 2321},
+{"description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra", "language": "C++", "repo": "cutlass", "new_stars": 195, "stars": 10097, "owner": "NVIDIA", "forks": 1966},
+{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 276, "stars": 5880, "owner": "kvcache-ai", "forks": 975}
 ]

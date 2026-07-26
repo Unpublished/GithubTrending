@@ -1,9 +1,9 @@
 [
-{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 17, "stars": 13285, "owner": "amnezia-vpn", "forks": 1008},
+{"description": "Amnezia VPN Client (Desktop+Mobile)", "language": "C++", "repo": "amnezia-client", "new_stars": 17, "stars": 13305, "owner": "amnezia-vpn", "forks": 1008},
 {"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 32, "stars": 196555, "owner": "tensorflow", "forks": 75604},
 {"description": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)", "language": "C++", "repo": "grpc", "new_stars": 9, "stars": 45224, "owner": "grpc", "forks": 11269},
 {"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 22, "stars": 21353, "owner": "catchorg", "forks": 3380},
-{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 47, "stars": 75097, "owner": "ocornut", "forks": 11961},
+{"description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies", "language": "C++", "repo": "imgui", "new_stars": 47, "stars": 75099, "owner": "ocornut", "forks": 11961},
 {"description": "Mesh optimization library that makes meshes smaller and faster to render", "language": "C++", "repo": "meshoptimizer", "new_stars": 11, "stars": 8161, "owner": "zeux", "forks": 733},
 {"description": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)", "language": "C++", "repo": "aseprite", "new_stars": 21, "stars": 38330, "owner": "aseprite", "forks": 8469},
 {"description": "A microbenchmark support library", "language": "C++", "repo": "benchmark", "new_stars": 3, "stars": 10307, "owner": "google", "forks": 1782},
@@ -13,14 +13,14 @@
 {"description": "A YAML parser and emitter in C++", "language": "C++", "repo": "yaml-cpp", "new_stars": 7, "stars": 6102, "owner": "jbeder", "forks": 2193},
 {"description": "An open source re-implementation of Chris Sawyer's Locomotion", "language": "C++", "repo": "OpenLoco", "new_stars": 13, "stars": 1796, "owner": "OpenLoco", "forks": 200},
 {"description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)", "language": "C++", "repo": "carbon-lang", "new_stars": 11, "stars": 33827, "owner": "carbon-language", "forks": 1623},
-{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 35, "stars": 39605, "owner": "LizardByte", "forks": 2137},
-{"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 9, "stars": 33668, "owner": "SerenityOS", "forks": 3462},
+{"description": "Self-hosted game stream host for Moonlight.", "language": "C++", "repo": "Sunshine", "new_stars": 35, "stars": 39607, "owner": "LizardByte", "forks": 2137},
+{"description": "The Serenity Operating System \ud83d\udc1e", "language": "C++", "repo": "serenity", "new_stars": 9, "stars": 33670, "owner": "SerenityOS", "forks": 3462},
 {"description": "Community maintained hardware plugin for vLLM on Ascend", "language": "C++", "repo": "vllm-ascend", "new_stars": 11, "stars": 2490, "owner": "vllm-project", "forks": 1836},
 {"description": "Asio C++ Library", "language": "C++", "repo": "asio", "new_stars": 4, "stars": 6123, "owner": "chriskohlhoff", "forks": 1451},
-{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 15, "stars": 32346, "owner": "ValveSoftware", "forks": 1545},
-{"description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.", "language": "C++", "repo": "FinceptTerminal", "new_stars": 79, "stars": 29148, "owner": "Fincept-Corporation", "forks": 4078},
-{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 9, "stars": 18021, "owner": "abseil", "forks": 3169},
+{"description": "Compatibility tool for Steam Play based on Wine and additional components", "language": "C++", "repo": "Proton", "new_stars": 15, "stars": 32347, "owner": "ValveSoftware", "forks": 1545},
+{"description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.", "language": "C++", "repo": "FinceptTerminal", "new_stars": 79, "stars": 29152, "owner": "Fincept-Corporation", "forks": 4078},
+{"description": "Abseil Common Libraries (C++)", "language": "C++", "repo": "abseil-cpp", "new_stars": 9, "stars": 18022, "owner": "abseil", "forks": 3169},
 {"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 28, "stars": 28381, "owner": "78", "forks": 6444},
 {"description": "OpenSCAD - The Programmers Solid 3D CAD Modeller", "language": "C++", "repo": "openscad", "new_stars": 9, "stars": 9811, "owner": "openscad", "forks": 1658},
-{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 9, "stars": 29277, "owner": "gabime", "forks": 5287}
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 9, "stars": 29279, "owner": "gabime", "forks": 5287}
 ]

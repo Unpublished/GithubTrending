@@ -1,13 +1,10 @@
 [
-{"description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.", "language": null, "repo": "andrej-karpathy-skills", "new_stars": 262, "stars": 202889, "owner": "multica-ai", "forks": 20820},
-{"description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics", "language": null, "repo": "awesome", "new_stars": 405, "stars": 496312, "owner": "sindresorhus", "forks": 36412},
-{"description": null, "language": null, "repo": "awesome-deepseek-agent", "new_stars": 257, "stars": 5880, "owner": "deepseek-ai", "forks": 701},
+{"description": "A list of awesome Robotics resources", "language": null, "repo": "awesome-robotics", "new_stars": 36, "stars": 6944, "owner": "kiloreux", "forks": 1067},
 {"description": "\ud83d\udcda \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1", "language": null, "repo": "CS-Notes", "new_stars": 97, "stars": 185315, "owner": "CyC2018", "forks": 50790},
-{"description": "Integrate the DeepSeek API into popular software", "language": null, "repo": "awesome-deepseek-integration", "new_stars": 49, "stars": 38777, "owner": "deepseek-ai", "forks": 4223},
-{"description": "A curated collection of official and community-built Claude Skills \u2013 extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more.", "language": null, "repo": "claude-skills-collection", "new_stars": 7, "stars": 1029, "owner": "abubakarsiddik31", "forks": 183},
-{"description": "GLM-5: From Vibe Coding to Agentic Engineering", "language": null, "repo": "GLM-5", "new_stars": 8, "stars": 6967, "owner": "zai-org", "forks": 899},
-{"description": "Terminal Emulators", "language": null, "repo": "awesome-terminals", "new_stars": 15, "stars": 2912, "owner": "cdleon", "forks": 158},
-{"description": "A curated list of free public APIs \u2014 searchable, community-maintained, with a free JSON API.", "language": null, "repo": "public-api-lists", "new_stars": 11, "stars": 15419, "owner": "public-api-lists", "forks": 1672},
-{"description": "ChatGPT \u4e2d\u6587\u8c03\u6559\u6307\u5357\u3002\u5404\u79cd\u573a\u666f\u4f7f\u7528\u6307\u5357\u3002\u5b66\u4e60\u600e\u4e48\u8ba9\u5b83\u542c\u4f60\u7684\u8bdd\u3002", "language": null, "repo": "awesome-chatgpt-prompts-zh", "new_stars": 40, "stars": 61598, "owner": "PlexPt", "forks": 13542},
-{"description": "A collection of MCP servers.", "language": null, "repo": "awesome-mcp-servers", "new_stars": 61, "stars": 92410, "owner": "punkpeye", "forks": 14548}
+{"description": "A curated list of free public APIs \u2014 searchable, community-maintained, with a free JSON API.", "language": null, "repo": "public-api-lists", "new_stars": 11, "stars": 15420, "owner": "public-api-lists", "forks": 1673},
+{"description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.", "language": null, "repo": "system-design-101", "new_stars": 94, "stars": 87159, "owner": "ByteByteGoHq", "forks": 9693},
+{"description": "The Microsoft community Windows Package Manager manifest repository", "language": null, "repo": "winget-pkgs", "new_stars": 7, "stars": 10971, "owner": "microsoft", "forks": 8717},
+{"description": "ChatGPT \u4e2d\u6587\u8c03\u6559\u6307\u5357\u3002\u5404\u79cd\u573a\u666f\u4f7f\u7528\u6307\u5357\u3002\u5b66\u4e60\u600e\u4e48\u8ba9\u5b83\u542c\u4f60\u7684\u8bdd\u3002", "language": null, "repo": "awesome-chatgpt-prompts-zh", "new_stars": 40, "stars": 61600, "owner": "PlexPt", "forks": 13542},
+{"description": "A curated awesome list of lists of interview questions. Feel free to contribute! \ud83c\udf93", "language": null, "repo": "awesome-interview-questions", "new_stars": 26, "stars": 84085, "owner": "DopplerHQ", "forks": 9546},
+{"description": "\uf8ff A curated list of awesome applications, softwares, tools and shiny things for macOS.", "language": null, "repo": "awesome-macOS", "new_stars": 5, "stars": 19026, "owner": "iCHAIT", "forks": 1377}
 ]

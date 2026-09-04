@@ -1,15 +1,3 @@
 [
-{"description": "The agent that grows with you", "language": "Python", "repo": "hermes-agent", "new_stars": 774, "stars": 240834, "owner": "NousResearch", "forks": 49346},
-{"description": "Public repository for Agent Skills", "language": "Python", "repo": "skills", "new_stars": 281, "stars": 173645, "owner": "anthropics", "forks": 20605},
-{"description": "Agent skill that removes signs of AI-generated writing from text", "language": "Python", "repo": "humanizer", "new_stars": 1208, "stars": 41467, "owner": "blader", "forks": 3547},
-{"description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.", "language": "Python", "repo": "timesfm", "new_stars": 1618, "stars": 30698, "owner": "google-research", "forks": 2930},
-{"description": "Academic Research Skills for Claude Code: research \u2192 write \u2192 review \u2192 revise \u2192 finalize", "language": "Python", "repo": "academic-research-skills", "new_stars": 496, "stars": 45990, "owner": "Imbad0202", "forks": 3602},
-{"description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative \u2014 voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.", "language": "Python", "repo": "VoiceStudio", "new_stars": 1672, "stars": 16253, "owner": "debpalash", "forks": 2203},
-{"description": "Animation engine for explanatory math videos", "language": "Python", "repo": "manim", "new_stars": 137, "stars": 92985, "owner": "3b1b", "forks": 7642},
-{"description": "A\u80a1\u81ea\u52a8\u9009\u80a1\u7cfb\u7edf \u2014 \u591a\u79cd\u6280\u672f\u5f62\u6001\u81ea\u52a8\u626b\u63cf\uff0c\u6536\u76d8\u540e\u81ea\u52a8\u8fd0\u884c\u5e76\u63a8\u9001\u98de\u4e66", "language": "Python", "repo": "Sequoia-X", "new_stars": 512, "stars": 6489, "owner": "sngyai", "forks": 1317},
-{"description": "\ud83e\udde0 Train a 64M-parameter LLM from scratch in just 2h!", "language": "Python", "repo": "minimind", "new_stars": 510, "stars": 58236, "owner": "jingyaogong", "forks": 7565},
-{"description": "Fine-tune LLMs from one YAML. Layer streaming trains an 8B model on a 4 GB laptop GPU.", "language": "Python", "repo": "Soup", "new_stars": 238, "stars": 5139, "owner": "MakazhanAlpamys", "forks": 759},
-{"description": "Centralized network visibility and continuous asset discovery. Monitor devices, detect change, and stay aware across distributed networks.", "language": "Python", "repo": "NetAlertX", "new_stars": 8, "stars": 7035, "owner": "netalertx", "forks": 434},
-{"description": "Measuring frontier coding agents on original, long-horizon engineering tasks", "language": "Python", "repo": "deep-swe", "new_stars": 24, "stars": 1592, "owner": "datacurve-ai", "forks": 106},
-{"description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.", "language": "Python", "repo": "graphify", "new_stars": 405, "stars": 114423, "owner": "Graphify-Labs", "forks": 11115}
+
 ]

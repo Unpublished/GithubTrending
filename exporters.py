@@ -12,6 +12,6 @@ class OrderedJsonItemExporter(JsonItemExporter):
         else:
             self.file.write(b',')
             self._beautify_newline()
-        itemdict = OrderedDict(self._get_serialized_fields(item))
+        itemdict = OrderedDict(self.get_serialized_fields(item))
         data = self.encoder.encode(itemdict)
         self.file.write(to_bytes(data, self.encoding))

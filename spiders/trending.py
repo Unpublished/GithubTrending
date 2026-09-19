@@ -1,16 +1,19 @@
 """
 A scraper for github's trending pages based on maniac103's script
 """
+from typing import AsyncIterator, Any
+
 import scrapy
 
 REPO_LIST_PATH = "div.Box > div:nth-child(2)"
 
 
 class TrendingSpiderBase(scrapy.Spider):
+
     lang = ""
     timeRange = ""
 
-    def start_requests(self):
+    async def start(self) -> AsyncIterator[Any]:
         url = 'https://github.com/trending/{lang}?since={range}'.format(lang=self.lang, range=self.timeRange)
         yield scrapy.Request(url=url)
 

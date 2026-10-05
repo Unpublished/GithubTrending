@@ -1,12 +1,13 @@
 [
-{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 994, "stars": 4714, "owner": "boykopovar", "forks": 358},
-{"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 9, "stars": 5780, "owner": "Vita3K", "forks": 614},
-{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 48, "stars": 18929, "owner": "moonlight-stream", "forks": 1387},
-{"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 8, "stars": 9002, "owner": "azerothcore", "forks": 3851},
-{"description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 19, "stars": 14586, "owner": "hrydgard", "forks": 2652},
-{"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 10, "stars": 10567, "owner": "mamedev", "forks": 2564},
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 994, "stars": 4928, "owner": "boykopovar", "forks": 368},
+{"description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.", "language": "C++", "repo": "esp32-c3-adblock", "new_stars": 196, "stars": 1324, "owner": "M-Abozaid", "forks": 120},
+{"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 9, "stars": 5782, "owner": "Vita3K", "forks": 615},
+{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 48, "stars": 18933, "owner": "moonlight-stream", "forks": 1387},
+{"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 8, "stars": 9003, "owner": "azerothcore", "forks": 3852},
+{"description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 19, "stars": 14592, "owner": "hrydgard", "forks": 2652},
+{"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 10, "stars": 10570, "owner": "mamedev", "forks": 2564},
 {"description": "Mod loader, scripting platform, and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 4, "stars": 5574, "owner": "praydog", "forks": 652},
-{"description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.", "language": "C++", "repo": "audio.cpp", "new_stars": 35, "stars": 3285, "owner": "0xShug0", "forks": 377},
+{"description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.", "language": "C++", "repo": "audio.cpp", "new_stars": 35, "stars": 3293, "owner": "0xShug0", "forks": 379},
 {"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 16, "stars": 15863, "owner": "OrcaSlicer", "forks": 3183},
-{"description": "High-performance single-GPU inference for selected model checkpoints and GPUs.", "language": "C++", "repo": "ninfer", "new_stars": 28, "stars": 2716, "owner": "Neroued", "forks": 540}
+{"description": "High-performance single-GPU inference for selected model checkpoints and GPUs.", "language": "C++", "repo": "ninfer", "new_stars": 28, "stars": 2718, "owner": "Neroued", "forks": 544}
 ]

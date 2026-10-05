@@ -1,15 +1,12 @@
 [
-{"description": "Welcome to a calmer internet", "language": "C++", "repo": "desktop", "new_stars": 36, "stars": 44761, "owner": "zen-browser", "forks": 1801},
-{"description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator", "language": "C++", "repo": "onnxruntime", "new_stars": 10, "stars": 22018, "owner": "microsoft", "forks": 4276},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 85, "stars": 130337, "owner": "ggml-org", "forks": 24091},
-{"description": "Decompilation of The Legend of Zelda: The Wind Waker", "language": "C++", "repo": "tww", "new_stars": 8, "stars": 1052, "owner": "zeldaret", "forks": 165},
-{"description": "High-performance single-GPU inference for selected model checkpoints and GPUs.", "language": "C++", "repo": "ninfer", "new_stars": 44, "stars": 2703, "owner": "Neroued", "forks": 537},
-{"description": "An independent compositor with scrolling, dwindle and master layouts, blur, shadows, and fluid animations.", "language": "C++", "repo": "umbriel", "new_stars": 12, "stars": 889, "owner": "noctalia-dev", "forks": 69},
-{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 22, "stars": 33094, "owner": "shadps4-emu", "forks": 2616},
-{"description": "Audionaut professional audio editing and audio recording", "language": "C++", "repo": "Audionaut", "new_stars": 21, "stars": 218, "owner": "kvoltmer", "forks": 12},
-{"description": "An open-source 3DS emulator project based on Citra.", "language": "C++", "repo": "azahar", "new_stars": 10, "stars": 8277, "owner": "azahar-emu", "forks": 712},
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 13, "stars": 105084, "owner": "microsoft", "forks": 9647},
-{"description": "Jellyfin Desktop Client", "language": "C++", "repo": "jellyfin-desktop", "new_stars": 3, "stars": 5833, "owner": "jellyfin", "forks": 561},
-{"description": "Resident Evil 1 PC Port Decomp", "language": "C++", "repo": "resident-evil-pc-decomp", "new_stars": 13, "stars": 113, "owner": "ecruells", "forks": 7},
-{"description": "Private, fast, and honest web browser", "language": "C++", "repo": "helium", "new_stars": 46, "stars": 21229, "owner": "imputnet", "forks": 609}
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 994, "stars": 4714, "owner": "boykopovar", "forks": 358},
+{"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 9, "stars": 5780, "owner": "Vita3K", "forks": 614},
+{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 48, "stars": 18929, "owner": "moonlight-stream", "forks": 1387},
+{"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 8, "stars": 9002, "owner": "azerothcore", "forks": 3851},
+{"description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 19, "stars": 14586, "owner": "hrydgard", "forks": 2652},
+{"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 10, "stars": 10567, "owner": "mamedev", "forks": 2564},
+{"description": "Mod loader, scripting platform, and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 4, "stars": 5574, "owner": "praydog", "forks": 652},
+{"description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.", "language": "C++", "repo": "audio.cpp", "new_stars": 35, "stars": 3285, "owner": "0xShug0", "forks": 377},
+{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 16, "stars": 15863, "owner": "OrcaSlicer", "forks": 3183},
+{"description": "High-performance single-GPU inference for selected model checkpoints and GPUs.", "language": "C++", "repo": "ninfer", "new_stars": 28, "stars": 2716, "owner": "Neroued", "forks": 540}
 ]

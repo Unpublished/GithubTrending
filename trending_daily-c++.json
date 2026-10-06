@@ -1,13 +1,12 @@
 [
-{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 997, "stars": 5056, "owner": "boykopovar", "forks": 372},
-{"description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.", "language": "C++", "repo": "esp32-c3-adblock", "new_stars": 196, "stars": 1432, "owner": "M-Abozaid", "forks": 125},
-{"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 6, "stars": 5784, "owner": "Vita3K", "forks": 616},
-{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 54, "stars": 18936, "owner": "moonlight-stream", "forks": 1389},
-{"description": "Complete Open Source and Modular solution for MMO", "language": "C++", "repo": "azerothcore-wotlk", "new_stars": 6, "stars": 9005, "owner": "azerothcore", "forks": 3852},
-{"description": "A PSP emulator for Android, Windows, Mac, Linux and iOS, written in C++. Want to contribute? Join us on Discord at", "language": "C++", "repo": "ppsspp", "new_stars": 15, "stars": 14592, "owner": "hrydgard", "forks": 2653},
-{"description": "MAME", "language": "C++", "repo": "mame", "new_stars": 8, "stars": 10573, "owner": "mamedev", "forks": 2564},
-{"description": "Mod loader, scripting platform, and VR support for all RE Engine games", "language": "C++", "repo": "REFramework", "new_stars": 6, "stars": 5574, "owner": "praydog", "forks": 652},
-{"description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.", "language": "C++", "repo": "audio.cpp", "new_stars": 34, "stars": 3300, "owner": "0xShug0", "forks": 379},
-{"description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)", "language": "C++", "repo": "OrcaSlicer", "new_stars": 15, "stars": 15866, "owner": "OrcaSlicer", "forks": 3183},
-{"description": "High-performance single-GPU inference for selected model checkpoints and GPUs.", "language": "C++", "repo": "ninfer", "new_stars": 29, "stars": 2729, "owner": "Neroued", "forks": 547}
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 943, "stars": 5329, "owner": "boykopovar", "forks": 393},
+{"description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.", "language": "C++", "repo": "esp32-c3-adblock", "new_stars": 196, "stars": 1627, "owner": "M-Abozaid", "forks": 142},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 118, "stars": 130447, "owner": "ggml-org", "forks": 24125},
+{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 54, "stars": 18945, "owner": "moonlight-stream", "forks": 1389},
+{"description": "Free and Open Source Reverse Engineering Platform powered by rizin", "language": "C++", "repo": "cutter", "new_stars": 34, "stars": 19917, "owner": "rizinorg", "forks": 1488},
+{"description": "An open source re-implementation of RollerCoaster Tycoon 2 \ud83c\udfa2", "language": "C++", "repo": "OpenRCT2", "new_stars": 45, "stars": 16363, "owner": "OpenRCT2", "forks": 1923},
+{"description": "An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.", "language": "C++", "repo": "audio.cpp", "new_stars": 34, "stars": 3311, "owner": "0xShug0", "forks": 381},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 9, "stars": 39630, "owner": "google", "forks": 10914},
+{"description": "Cloud Native Runtime Security", "language": "C++", "repo": "falco", "new_stars": 4, "stars": 9454, "owner": "falcosecurity", "forks": 1088},
+{"description": "Fast C++ logging library.", "language": "C++", "repo": "spdlog", "new_stars": 5, "stars": 29664, "owner": "gabime", "forks": 5383}
 ]

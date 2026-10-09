@@ -1,16 +1,12 @@
 [
-{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 10243, "stars": 17109, "owner": "boykopovar", "forks": 1371},
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 10243, "stars": 19778, "owner": "boykopovar", "forks": 1564},
 {"description": "Decompilation of The Legend of Zelda: The Wind Waker", "language": "C++", "repo": "tww", "new_stars": 71, "stars": 1077, "owner": "zeldaret", "forks": 169},
-{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 161, "stars": 18998, "owner": "moonlight-stream", "forks": 1395},
-{"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 45, "stars": 5798, "owner": "Vita3K", "forks": 629},
-{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 244, "stars": 33268, "owner": "shadps4-emu", "forks": 2653},
-{"description": "Windows Subsystem for Linux", "language": "C++", "repo": "WSL", "new_stars": 144, "stars": 34010, "owner": "microsoft", "forks": 1854},
-{"description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 74, "stars": 18255, "owner": "doitsujin", "forks": 1278},
-{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 63, "stars": 24388, "owner": "simdjson", "forks": 1308},
-{"description": "A work in progress recomp of the The Simpsons Game 2007 from the Xbox 360 using the RexXGlue recomping tool to get the game running", "language": "C++", "repo": "TheSimpsonsGameRecomp", "new_stars": 48, "stars": 304, "owner": "YesterMester", "forks": 17},
-{"description": "Godot reverse engineering tools", "language": "C++", "repo": "gdsdecomp", "new_stars": 36, "stars": 4294, "owner": "GDRETools", "forks": 317},
-{"description": "Yet another HEN enabler for jailbroken PS5", "language": "C++", "repo": "onionHEN", "new_stars": 95, "stars": 370, "owner": "aydencharles", "forks": 44},
-{"description": "Emscripten: An LLVM-to-WebAssembly Compiler", "language": "C++", "repo": "emscripten", "new_stars": 42, "stars": 27694, "owner": "emscripten-core", "forks": 3565},
-{"description": "Welcome to a calmer internet", "language": "C++", "repo": "desktop", "new_stars": 200, "stars": 44836, "owner": "zen-browser", "forks": 1811},
-{"description": "Turn your Pico 2 W into a DualSense 5 dongle.", "language": "C++", "repo": "DS5Dongle", "new_stars": 42, "stars": 2877, "owner": "awalol", "forks": 196}
+{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 244, "stars": 33284, "owner": "shadps4-emu", "forks": 2663},
+{"description": "Experimental PlayStation Vita emulator", "language": "C++", "repo": "Vita3K", "new_stars": 45, "stars": 5800, "owner": "Vita3K", "forks": 629},
+{"description": "GameStream client for PCs (Windows, Mac, Linux, and Steam Link)", "language": "C++", "repo": "moonlight-qt", "new_stars": 161, "stars": 19012, "owner": "moonlight-stream", "forks": 1397},
+{"description": "Welcome to a calmer internet", "language": "C++", "repo": "desktop", "new_stars": 200, "stars": 44847, "owner": "zen-browser", "forks": 1812},
+{"description": "Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux / Wine", "language": "C++", "repo": "dxvk", "new_stars": 74, "stars": 18258, "owner": "doitsujin", "forks": 1280},
+{"description": "Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks", "language": "C++", "repo": "simdjson", "new_stars": 63, "stars": 24389, "owner": "simdjson", "forks": 1308},
+{"description": "Clipboard manager with advanced features", "language": "C++", "repo": "CopyQ", "new_stars": 84, "stars": 12410, "owner": "hluk", "forks": 606},
+{"description": "Yet another HEN enabler for jailbroken PS5", "language": "C++", "repo": "onionHEN", "new_stars": 95, "stars": 375, "owner": "aydencharles", "forks": 45}
 ]

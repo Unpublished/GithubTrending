@@ -1,16 +1,8 @@
 [
-{"description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers", "language": "Rust", "repo": "artcraft", "new_stars": 2103, "stars": 8906, "owner": "storytold", "forks": 1315},
-{"description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors", "language": "Rust", "repo": "ai-memory", "new_stars": 123, "stars": 9067, "owner": "akitaonrails", "forks": 629},
-{"description": "A WiFi security auditing software", "language": "Rust", "repo": "airgorah", "new_stars": 101, "stars": 3970, "owner": "martin-olivier", "forks": 685},
-{"description": "Policy-driven, layered isolation and containment", "language": "Rust", "repo": "mxc", "new_stars": 135, "stars": 1874, "owner": "microsoft", "forks": 109},
-{"description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.", "language": "Rust", "repo": "open-ontologies", "new_stars": 63, "stars": 977, "owner": "fabio-rovai", "forks": 131},
-{"description": "Browser automation CLI for AI agents", "language": "Rust", "repo": "agent-browser", "new_stars": 69, "stars": 43704, "owner": "vercel-labs", "forks": 2960},
-{"description": "A CAD application built with Rust \u2014 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering", "language": "Rust", "repo": "OpenCADStudio", "new_stars": 32, "stars": 2565, "owner": "HakanSeven12", "forks": 275},
-{"description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native", "language": "Rust", "repo": "egui", "new_stars": 67, "stars": 31064, "owner": "emilk", "forks": 2176},
-{"description": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.", "language": "Rust", "repo": "burn", "new_stars": 15, "stars": 16071, "owner": "tracel-ai", "forks": 1082},
-{"description": "\uc544\ub798\ud55c\uae00 hwp viewer and editor by rust and wasm", "language": "Rust", "repo": "rhwp", "new_stars": 12, "stars": 3908, "owner": "edwardkim", "forks": 755},
-{"description": "\u26a1\ufe0fA native, local-first alternative to Logitech Options+, written in Rust \ud83e\udd80 \u2014 remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.", "language": "Rust", "repo": "OpenLogi", "new_stars": 102, "stars": 23210, "owner": "AprilNEA", "forks": 775},
-{"description": "A smarter cd command. Supports all major shells.", "language": "Rust", "repo": "zoxide", "new_stars": 30, "stars": 39991, "owner": "ajeetdsouza", "forks": 920},
-{"description": "\u628a\u7535\u8111\u6216\u9ea6\u514b\u98ce\u58f0\u97f3\u8f6c\u6210\u5b9e\u65f6\u7ffb\u8bd1\u5b57\u5e55\u3002Live translated subtitles from computer or microphone audio.", "language": "Rust", "repo": "Mimi", "new_stars": 24, "stars": 639, "owner": "yuxino", "forks": 33},
-{"description": "Rails as a specification; the deployment target is a build flag", "language": "Rust", "repo": "roundhouse", "new_stars": 10, "stars": 425, "owner": "rubys", "forks": 34}
+{"description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers", "language": "Rust", "repo": "artcraft", "new_stars": 3723, "stars": 10214, "owner": "storytold", "forks": 1516},
+{"description": "Policy-driven, layered isolation and containment", "language": "Rust", "repo": "mxc", "new_stars": 135, "stars": 2187, "owner": "microsoft", "forks": 115},
+{"description": "Browser automation CLI for AI agents", "language": "Rust", "repo": "agent-browser", "new_stars": 69, "stars": 43725, "owner": "vercel-labs", "forks": 2961},
+{"description": "A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io", "language": "Rust", "repo": "cc-switch", "new_stars": 640, "stars": 141854, "owner": "farion1231", "forks": 9476},
+{"description": "dev tools, env vars, task runner", "language": "Rust", "repo": "mise", "new_stars": 47, "stars": 34827, "owner": "jdx", "forks": 1468},
+{"description": "Lightweight coding agent that runs in your terminal", "language": "Rust", "repo": "codex", "new_stars": 214, "stars": 128380, "owner": "openai", "forks": 20130}
 ]

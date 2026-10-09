@@ -1,16 +1,13 @@
 [
-{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 4669, "stars": 17109, "owner": "boykopovar", "forks": 1371},
-{"description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard.", "language": "C++", "repo": "esp32-c3-adblock", "new_stars": 182, "stars": 2444, "owner": "M-Abozaid", "forks": 222},
-{"description": "Rebalancer is a domain-specific language and tool for specifying and solving assignment problems (eg, putting balls in boxes with complex rules).", "language": "C++", "repo": "rebalancer", "new_stars": 60, "stars": 364, "owner": "facebook", "forks": 35},
-{"description": "\u8fd9\u662f\u4e00\u4e2a\u7528\u4e8e\u663e\u793a\u5f53\u524d\u7f51\u901f\u3001CPU\u53ca\u5185\u5b58\u5229\u7528\u7387\u7684\u684c\u9762\u60ac\u6d6e\u7a97\u8f6f\u4ef6\uff0c\u5e76\u652f\u6301\u4efb\u52a1\u680f\u663e\u793a\uff0c\u652f\u6301\u66f4\u6362\u76ae\u80a4\u3002", "language": "C++", "repo": "TrafficMonitor", "new_stars": 33, "stars": 46461, "owner": "zhongyang219", "forks": 3804},
-{"description": "YTsaurus is a scalable and fault-tolerant open-source big data platform.", "language": "C++", "repo": "ytsaurus", "new_stars": 31, "stars": 2291, "owner": "ytsaurus", "forks": 235},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 123, "stars": 130578, "owner": "ggml-org", "forks": 24211},
-{"description": "Cross-Platform SDR Software", "language": "C++", "repo": "SDRPlusPlus", "new_stars": 9, "stars": 6419, "owner": "AlexandreRouma", "forks": 901},
-{"description": "High performance, multi-platform VNC client and server", "language": "C++", "repo": "tigervnc", "new_stars": 3, "stars": 7553, "owner": "TigerVNC", "forks": 1208},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 11, "stars": 50749, "owner": "nlohmann", "forks": 7518},
-{"description": "Open-source image editor focused on PSD compatibility and workflows familiar to Adobe Photoshop users.", "language": "C++", "repo": "Patchy", "new_stars": 21, "stars": 507, "owner": "SethRobinson", "forks": 28},
-{"description": "LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.", "language": "C++", "repo": "LiteRT-LM", "new_stars": 13, "stars": 6617, "owner": "google-ai-edge", "forks": 747},
-{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 48, "stars": 33268, "owner": "shadps4-emu", "forks": 2653},
-{"description": "a small build system with a focus on speed", "language": "C++", "repo": "ninja", "new_stars": 0, "stars": 13295, "owner": "ninja-build", "forks": 1839},
-{"description": "A C++ library for interacting with JSON.", "language": "C++", "repo": "jsoncpp", "new_stars": 2, "stars": 8901, "owner": "open-source-parsers", "forks": 2726}
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 5925, "stars": 19777, "owner": "boykopovar", "forks": 1564},
+{"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 42, "stars": 30565, "owner": "78", "forks": 7161},
+{"description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch \u26a1 \ud83d\udd0d \u2728 Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences", "language": "C++", "repo": "typesense", "new_stars": 165, "stars": 26820, "owner": "typesense", "forks": 1008},
+{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 7, "stars": 6618, "owner": "google", "forks": 893},
+{"description": "Audio Plugin for Audio to MIDI transcription using deep learning.", "language": "C++", "repo": "NeuralNote", "new_stars": 27, "stars": 3063, "owner": "DamRsn", "forks": 205},
+{"description": "Frame profiler", "language": "C++", "repo": "tracy", "new_stars": 8, "stars": 16899, "owner": "wolfpld", "forks": 1231},
+{"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 55, "stars": 22109, "owner": "k4yt3x", "forks": 1918},
+{"description": "super repo for rocm systems projects", "language": "C++", "repo": "rocm-systems", "new_stars": 2, "stars": 527, "owner": "ROCm", "forks": 441},
+{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 10, "stars": 6746, "owner": "kvcache-ai", "forks": 1302},
+{"description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 50, "stars": 34081, "owner": "FreeCAD", "forks": 6162},
+{"description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32", "language": "C++", "repo": "ESP32Marauder", "new_stars": 50, "stars": 12670, "owner": "justcallmekoko", "forks": 1524}
 ]

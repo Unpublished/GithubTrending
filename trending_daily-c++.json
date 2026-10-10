@@ -1,13 +1,16 @@
 [
-{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 5868, "stars": 24074, "owner": "boykopovar", "forks": 1993},
-{"description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba", "language": "C++", "repo": "xiaozhi-esp32", "new_stars": 39, "stars": 30589, "owner": "78", "forks": 7172},
-{"description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch \u26a1 \ud83d\udd0d \u2728 Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences", "language": "C++", "repo": "typesense", "new_stars": 173, "stars": 26845, "owner": "typesense", "forks": 1010},
-{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 9, "stars": 6622, "owner": "google", "forks": 895},
-{"description": "Audio Plugin for Audio to MIDI transcription using deep learning.", "language": "C++", "repo": "NeuralNote", "new_stars": 20, "stars": 3077, "owner": "DamRsn", "forks": 209},
-{"description": "Frame profiler", "language": "C++", "repo": "tracy", "new_stars": 9, "stars": 16905, "owner": "wolfpld", "forks": 1232},
-{"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 56, "stars": 22133, "owner": "k4yt3x", "forks": 1921},
-{"description": "super repo for rocm systems projects", "language": "C++", "repo": "rocm-systems", "new_stars": 2, "stars": 527, "owner": "ROCm", "forks": 442},
-{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 9, "stars": 6752, "owner": "kvcache-ai", "forks": 1305},
-{"description": "Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.", "language": "C++", "repo": "FreeCAD", "new_stars": 55, "stars": 34107, "owner": "FreeCAD", "forks": 6167},
-{"description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32", "language": "C++", "repo": "ESP32Marauder", "new_stars": 34, "stars": 12686, "owner": "justcallmekoko", "forks": 1524}
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 5831, "stars": 25344, "owner": "boykopovar", "forks": 2105},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 24, "stars": 200631, "owner": "tensorflow", "forks": 78908},
+{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 21, "stars": 33177, "owner": "telegramdesktop", "forks": 7357},
+{"description": "DuckDB is an analytical in-process SQL database management system", "language": "C++", "repo": "duckdb", "new_stars": 76, "stars": 42072, "owner": "duckdb", "forks": 3899},
+{"description": "Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch \u26a1 \ud83d\udd0d \u2728 Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences", "language": "C++", "repo": "typesense", "new_stars": 173, "stars": 26846, "owner": "typesense", "forks": 1010},
+{"description": "DuckLake is an integrated data lake and catalog format", "language": "C++", "repo": "ducklake", "new_stars": 72, "stars": 3281, "owner": "duckdb", "forks": 275},
+{"description": "PlayStation 4 emulator for Windows, Linux, macOS and FreeBSD written in C++", "language": "C++", "repo": "shadPS4", "new_stars": 65, "stars": 33353, "owner": "shadps4-emu", "forks": 2679},
+{"description": "Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++", "language": "C++", "repo": "stable-diffusion.cpp", "new_stars": 44, "stars": 7614, "owner": "leejet", "forks": 861},
+{"description": "Cross-platform, customizable ML solutions for live and streaming media.", "language": "C++", "repo": "mediapipe", "new_stars": 12, "stars": 37213, "owner": "google-ai-edge", "forks": 6187},
+{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 2, "stars": 21516, "owner": "catchorg", "forks": 3489},
+{"description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.", "language": "C++", "repo": "spirula-studio", "new_stars": 31, "stars": 1579, "owner": "harry7557558", "forks": 142},
+{"description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.", "language": "C++", "repo": "mujoco", "new_stars": 37, "stars": 15582, "owner": "google-deepmind", "forks": 1824},
+{"description": "A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.", "language": "C++", "repo": "video2x", "new_stars": 56, "stars": 22136, "owner": "k4yt3x", "forks": 1921},
+{"description": "Diablo build for modern operating systems", "language": "C++", "repo": "DevilutionX", "new_stars": 6, "stars": 9810, "owner": "diasurgical", "forks": 1057}
 ]

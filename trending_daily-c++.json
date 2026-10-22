@@ -1,14 +1,16 @@
 [
-{"description": "The new Windows Terminal and the original Windows console host, all in the same place!", "language": "C++", "repo": "terminal", "new_stars": 15, "stars": 105215, "owner": "microsoft", "forks": 9671},
-{"description": "DuckDB is a high-performance analytical database system", "language": "C++", "repo": "duckdb", "new_stars": 45, "stars": 42372, "owner": "duckdb", "forks": 4014},
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 114, "stars": 131975, "owner": "ggml-org", "forks": 24662},
-{"description": "Optimization mod for Geometry Dash", "language": "C++", "repo": "Bismuth", "new_stars": 9, "stars": 97, "owner": "iliasHDZ", "forks": 26},
-{"description": "FlashMLA: Efficient Multi-head Latent Attention Kernels", "language": "C++", "repo": "FlashMLA", "new_stars": 35, "stars": 13153, "owner": "deepseek-ai", "forks": 1222},
-{"description": "ArduPlane, ArduCopter, ArduRover, ArduSub source", "language": "C++", "repo": "ardupilot", "new_stars": 20, "stars": 16172, "owner": "ArduPilot", "forks": 21648},
-{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 28, "stars": 91282, "owner": "opencv", "forks": 57059},
-{"description": "A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)", "language": "C++", "repo": "PrismLauncher", "new_stars": 45, "stars": 10834, "owner": "PrismLauncher", "forks": 1631},
-{"description": "Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.", "language": "C++", "repo": "Mooncake", "new_stars": 8, "stars": 6860, "owner": "kvcache-ai", "forks": 1367},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 5, "stars": 50789, "owner": "nlohmann", "forks": 7511},
-{"description": "super repo for rocm systems projects", "language": "C++", "repo": "rocm-systems", "new_stars": 0, "stars": 539, "owner": "ROCm", "forks": 464},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 2, "stars": 72123, "owner": "protocolbuffers", "forks": 16326}
+{"description": "DuckDB is a high-performance analytical database system", "language": "C++", "repo": "duckdb", "new_stars": 45, "stars": 42380, "owner": "duckdb", "forks": 3983},
+{"description": "Open Source Computer Vision Library", "language": "C++", "repo": "opencv", "new_stars": 28, "stars": 91287, "owner": "opencv", "forks": 57056},
+{"description": "qBittorrent BitTorrent client", "language": "C++", "repo": "qBittorrent", "new_stars": 40, "stars": 41005, "owner": "qbittorrent", "forks": 4946},
+{"description": null, "language": "C++", "repo": "torch_tpu", "new_stars": 136, "stars": 611, "owner": "google-pytorch", "forks": 36},
+{"description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS", "language": "C++", "repo": "electron", "new_stars": 28, "stars": 123470, "owner": "electron", "forks": 17650},
+{"description": "FlashMLA: Efficient Multi-head Latent Attention Kernels", "language": "C++", "repo": "FlashMLA", "new_stars": 35, "stars": 13156, "owner": "deepseek-ai", "forks": 1222},
+{"description": "A high-performance distributed file system designed to address the challenges of AI training and inference workloads.", "language": "C++", "repo": "3FS", "new_stars": 17, "stars": 10349, "owner": "deepseek-ai", "forks": 1123},
+{"description": "Optimized primitives for collective multi-GPU communication", "language": "C++", "repo": "nccl", "new_stars": 0, "stars": 5178, "owner": "NVIDIA", "forks": 1450},
+{"description": "CUDA Templates and Python DSLs for High-Performance Linear Algebra", "language": "C++", "repo": "cutlass", "new_stars": 14, "stars": 10643, "owner": "NVIDIA", "forks": 2136},
+{"description": "OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.", "language": "C++", "repo": "OptiScaler", "new_stars": 48, "stars": 11973, "owner": "optiscaler", "forks": 558},
+{"description": "ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.", "language": "C++", "repo": "esphome", "new_stars": 12, "stars": 11939, "owner": "esphome", "forks": 5733},
+{"description": "ClickHouse\u00ae is a real-time analytics database management system", "language": "C++", "repo": "ClickHouse", "new_stars": 22, "stars": 50533, "owner": "ClickHouse", "forks": 9147},
+{"description": "Production-grade client-side tracing, profiling, and analysis for complex software systems.", "language": "C++", "repo": "perfetto", "new_stars": 3, "stars": 6687, "owner": "google", "forks": 907},
+{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 42, "stars": 201183, "owner": "tensorflow", "forks": 79398}
 ]

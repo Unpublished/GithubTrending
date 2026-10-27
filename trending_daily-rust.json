@@ -1,14 +1,11 @@
 [
-{"description": "The design language that makes your AI harness better at design.", "language": "Rust", "repo": "impeccable", "new_stars": 1506, "stars": 89712, "owner": "pbakaus", "forks": 5329},
-{"description": "A Tiny biped duck robot \ud83e\udd86", "language": "Rust", "repo": "microduck", "new_stars": 843, "stars": 12632, "owner": "pollen-robotics", "forks": 1564},
-{"description": "A free, open source, and extensible speech-to-text application that works completely offline.", "language": "Rust", "repo": "Handy", "new_stars": 140, "stars": 34828, "owner": "cjpais", "forks": 3309},
-{"description": "A complete World of Warcraft 1.12.1 client, written from scratch in Rust and Bevy", "language": "Rust", "repo": "benilla", "new_stars": 19, "stars": 839, "owner": "samwhosung", "forks": 186},
-{"description": "Open source Loom alternative. Beautiful, shareable screen recordings.", "language": "Rust", "repo": "Cap", "new_stars": 77, "stars": 23862, "owner": "CapSoftware", "forks": 2174},
-{"description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.", "language": "Rust", "repo": "RuView", "new_stars": 211, "stars": 99929, "owner": "ruvnet", "forks": 13067},
-{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 190, "stars": 127228, "owner": "rustdesk", "forks": 20072},
-{"description": "Postgres rewritten in Rust, now faster than Postgres and Clickhouse", "language": "Rust", "repo": "pgrust", "new_stars": 81, "stars": 5567, "owner": "malisper", "forks": 214},
-{"description": "AutoShorts is a local-first desktop application for turning long-form video or audio recordings into high-impact, vertical short-form clip candidates (9:16 portrait) with AI-powered viral moment ranking.", "language": "Rust", "repo": "autoshorts", "new_stars": 19, "stars": 1355, "owner": "JayWebtech", "forks": 263},
-{"description": "Production-grade Rust-native trading engine with deterministic event-driven architecture", "language": "Rust", "repo": "nautilus_trader", "new_stars": 82, "stars": 30927, "owner": "nautechsystems", "forks": 4165},
-{"description": "The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.", "language": "Rust", "repo": "openhuman", "new_stars": 27, "stars": 42365, "owner": "tinyhumansai", "forks": 4192},
-{"description": "Terminal interface to find, download, and stream movies, TV shows, and live TV using local media players.", "language": "Rust", "repo": "MovieBox-Tui", "new_stars": 29, "stars": 2649, "owner": "mesamirh", "forks": 319}
+{"description": "The design language that makes your AI harness better at design.", "language": "Rust", "repo": "impeccable", "new_stars": 1458, "stars": 90106, "owner": "pbakaus", "forks": 5358},
+{"description": "A Tiny biped duck robot \ud83e\udd86", "language": "Rust", "repo": "microduck", "new_stars": 575, "stars": 12708, "owner": "pollen-robotics", "forks": 1571},
+{"description": "\u03c0 RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection \u2014 all without a single pixel of video.", "language": "Rust", "repo": "RuView", "new_stars": 211, "stars": 100114, "owner": "ruvnet", "forks": 13085},
+{"description": "Plan, apply and roll back changes to a production ontology, with a blast radius report and a proof an auditor can re-check.", "language": "Rust", "repo": "open-ontologies", "new_stars": 275, "stars": 1748, "owner": "fabio-rovai", "forks": 219},
+{"description": "Fast and lightweight DB Client made in Rust and GPUI.", "language": "Rust", "repo": "dbdelve", "new_stars": 27, "stars": 554, "owner": "ShayanAbbas1", "forks": 32},
+{"description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.", "language": "Rust", "repo": "rustdesk", "new_stars": 139, "stars": 127258, "owner": "rustdesk", "forks": 20078},
+{"description": "A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.", "language": "Rust", "repo": "zeron", "new_stars": 29, "stars": 3398, "owner": "zeronsh", "forks": 349},
+{"description": "Next Generation Agentic Proxy for AI Agents and MCP servers", "language": "Rust", "repo": "agentgateway", "new_stars": 30, "stars": 5679, "owner": "agentgateway", "forks": 1002},
+{"description": "Algorithm powering the For You feed on X", "language": "Rust", "repo": "x-algorithm", "new_stars": 37, "stars": 33832, "owner": "xai-org", "forks": 5467}
 ]

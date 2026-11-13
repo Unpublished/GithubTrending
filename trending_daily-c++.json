@@ -1,17 +1,13 @@
 [
-{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 176, "stars": 134766, "owner": "ggml-org", "forks": 25531},
-{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 81, "stars": 41571, "owner": "facebookresearch", "forks": 4629},
-{"description": "Atmosph\u00e8re is a work-in-progress customized firmware for the Nintendo Switch.", "language": "C++", "repo": "Atmosphere", "new_stars": 18, "stars": 20371, "owner": "Atmosphere-NX", "forks": 1529},
-{"description": "An Open Source Machine Learning Framework for Everyone", "language": "C++", "repo": "tensorflow", "new_stars": 86, "stars": 201581, "owner": "tensorflow", "forks": 77959},
-{"description": null, "language": "C++", "repo": "cyberpunk-vr-port", "new_stars": 31, "stars": 611, "owner": "dariulone", "forks": 62},
-{"description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform", "language": "C++", "repo": "ncnn", "new_stars": 6, "stars": 24048, "owner": "Tencent", "forks": 4550},
-{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 39737, "owner": "google", "forks": 10942},
-{"description": "llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.", "language": "C++", "repo": "llamAmpere", "new_stars": 29, "stars": 378, "owner": "JakeATX", "forks": 44},
-{"description": "L\u00d6VE is an awesome 2D game framework for Lua.", "language": "C++", "repo": "love", "new_stars": 15, "stars": 8962, "owner": "love2d", "forks": 671},
-{"description": "Telegram Desktop messaging app", "language": "C++", "repo": "tdesktop", "new_stars": 14, "stars": 33551, "owner": "telegramdesktop", "forks": 7615},
-{"description": "A machine learning compiler for GPUs, CPUs, and ML accelerators", "language": "C++", "repo": "xla", "new_stars": 7, "stars": 4672, "owner": "openxla", "forks": 1012},
-{"description": "Protocol Buffers - Google's data interchange format", "language": "C++", "repo": "protobuf", "new_stars": 5, "stars": 72169, "owner": "protocolbuffers", "forks": 16359},
-{"description": "Notepad++ official repository", "language": "C++", "repo": "notepad-plus-plus", "new_stars": 18, "stars": 29868, "owner": "notepad-plus-plus", "forks": 5434},
-{"description": "JSON for Modern C++", "language": "C++", "repo": "json", "new_stars": 15, "stars": 50893, "owner": "nlohmann", "forks": 7517},
-{"description": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)", "language": "C++", "repo": "Catch2", "new_stars": 13, "stars": 21579, "owner": "catchorg", "forks": 3440}
+{"description": "Bring PS5 GTA6 to 120FPS with DLSS 5. An advanced Windows video player and capture enhancement tool featuring real-time preview for videos, images, and capture card sources. Combine AI-powered Super Resolution, DLSS5 image enhancement, and Frame Generation to deliver a next-generation visual experience.", "language": "C++", "repo": "Veyra-NRVideo", "new_stars": 245, "stars": 1508, "owner": "Likely7", "forks": 66},
+{"description": "LLM inference in C/C++", "language": "C++", "repo": "llama.cpp", "new_stars": 613, "stars": 134859, "owner": "ggml-org", "forks": 25553},
+{"description": "A cross-platform reimplementation of Plants vs. Zombies by the community. Aiming to bring 100% authentic experience of GOTY edition.", "language": "C++", "repo": "PvZ-Portable", "new_stars": 7, "stars": 900, "owner": "wszqkzqk", "forks": 206},
+{"description": "Port of OpenAI's Whisper model in C/C++", "language": "C++", "repo": "whisper.cpp", "new_stars": 40, "stars": 55173, "owner": "ggml-org", "forks": 6307},
+{"description": null, "language": "C++", "repo": "cyberpunk-vr-port", "new_stars": 31, "stars": 613, "owner": "dariulone", "forks": 62},
+{"description": "Tool for automatic PS5 executables porting to Linux and Windows", "language": "C++", "repo": "AnyPS5", "new_stars": 238, "stars": 53643, "owner": "boykopovar", "forks": 5113},
+{"description": "A library for efficient similarity search and clustering of dense vectors.", "language": "C++", "repo": "faiss", "new_stars": 95, "stars": 41601, "owner": "facebookresearch", "forks": 4630},
+{"description": "GoogleTest - Google Testing and Mocking Framework", "language": "C++", "repo": "googletest", "new_stars": 7, "stars": 39736, "owner": "google", "forks": 10941},
+{"description": "Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!", "language": "C++", "repo": "redpanda", "new_stars": 0, "stars": 12679, "owner": "redpanda-data", "forks": 805},
+{"description": "Next-generation, Vulkan-powered graphics layer for Linux gaming, bringing frame generation, scaling and more, to Steam Deck, Steam Machine and desktop Linux.", "language": "C++", "repo": "MAKO", "new_stars": 49, "stars": 784, "owner": "eugeniosegala", "forks": 25},
+{"description": "Official inference framework for 1-bit LLMs", "language": "C++", "repo": "BitNet", "new_stars": 25, "stars": 41573, "owner": "microsoft", "forks": 3881}
 ]
